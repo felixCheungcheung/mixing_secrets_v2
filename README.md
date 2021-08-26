@@ -1,4 +1,4 @@
-" MTG_2021_MASTER_THESIS" 
+"MTG_2021_MASTER_THESIS" 
 
 Felix's master project, mainly about source separation, utilising the mixing secrect multitrack dataset. Auto mixing is also considered as a potential study subject.
 
