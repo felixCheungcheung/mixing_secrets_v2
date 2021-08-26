@@ -1,0 +1,492 @@
+String Quartet,https://zenodo.org/record/3477602/files/04%203D-MARCo%20Samples_Quartet.zip?download=1.zip,https://previews.cambridge-mt.com/3DMARCoStringQuartet_Full_Preview.mp3
+Corine Corine,https://mtkdata.cambridgemusictechnology.co.uk/Telefunken/AbletonesBigBand_CorineCorine_Full.zip,https://previews.cambridge-mt.com/CorineCorine_Full_Preview.mp3
+Song Of India,https://mtkdata.cambridgemusictechnology.co.uk/Telefunken/AbletonesBigBand_SongOfIndia_Full.zip,https://previews.cambridge-mt.com/SongOfIndia_Full_Preview.mp3
+I'm Coming Home,https://mtkdata.cambridgemusictechnology.co.uk/Telefunken/AlanEvansTrio_ImComingHome_Full.zip,https://previews.cambridge-mt.com/ImComingHome_Full_Preview.mp3
+Rumba Chonta,https://mtkdata.cambridgemusictechnology.co.uk/MTK007/AlejoGranados_RumbaChonta_Full.zip,https://previews.cambridge-mt.com/RumbaChonta_Full_Preview.mp3
+Dead Roses,https://mtkdata.cambridgemusictechnology.co.uk/Telefunken/AndrewCole_DeadRoses_Full.zip,https://previews.cambridge-mt.com/DeadRoses_Full_Preview.mp3
+W.A. Mozart's Piano Concerto No.12 K414 (Allegro),https://mtkdata.cambridgemusictechnology.co.uk/MTK015/GnessinAcademyOrchestra_PianoConcertoK414_Full.zip,https://previews.cambridge-mt.com/PianoConcertoK414_Full_Preview.mp3
+Milk Cow Blues,https://mtkdata.cambridgemusictechnology.co.uk/MTK002/AngelaThomasWade_MilkCowBlues_Full.zip,https://previews.cambridge-mt.com/MilkCowBlues_Full_Preview.mp3
+Rachel,https://mtkdata.cambridgemusictechnology.co.uk/MTK010/AnnaBlanton_Rachel_Full.zip,https://previews.cambridge-mt.com/Rachel_Full_Preview.mp3
+Waves,https://mtkdata.cambridgemusictechnology.co.uk/MTK010/AnnaBlanton_Waves_Full.zip,https://previews.cambridge-mt.com/Waves_Full_Preview.mp3
+The Saga Of Harrison Crabfeathers,https://mtkdata.cambridgemusictechnology.co.uk/MTK016/Araujo_TheSagaOfHarrisonCrabfeathers_Full.zip,https://previews.cambridge-mt.com/TheSagaOfHarrisonCrabfeathers_Full_Preview.mp3
+J.S.Bach's Jesu bleibet meine Freude,https://mtkdata.cambridgemusictechnology.co.uk/MTK003/AsamClassicalSoloists_JesuJoy_Full.zip,https://previews.cambridge-mt.com/JesuJoy_Full_Preview.mp3
+G.F.Handel's Non Lo Diro Col Labbro,https://mtkdata.cambridgemusictechnology.co.uk/MTK003/AsamClassicalSoloists_NonLoDiroColLabbro_Full.zip,https://previews.cambridge-mt.com/NonLoDiroColLabbro_Full_Preview.mp3
+Own Way To Boogie,https://multitracks.cambridge-mt.com/BalazsDanielBoogieWoogieTrio_OwnWayToBoogie_Full.zip,https://previews.cambridge-mt.com/OwnWayToBoogie_Full_Preview.mp3
+Believer,https://mtkdata.cambridgemusictechnology.co.uk/Telefunken/Barnstar_Believer_Full.zip,https://previews.cambridge-mt.com/Believer_Full_Preview.mp3
+You Don't Know,https://mtkdata.cambridgemusictechnology.co.uk/Telefunken/Barnstar_YouDontKnow_Full.zip,https://previews.cambridge-mt.com/YouDontKnow_Full_Preview.mp3
+Dad's Glad,https://mtkdata.cambridgemusictechnology.co.uk/MTK001/MR1106_BlueLitMoon_Full.zip,https://previews.cambridge-mt.com/1106_Remix.mp3
+Brahms' Hungarian Dance No. 5,https://multitracks.cambridge-mt.com/BolzAndKnecht_HungarianDanceNo5_Full.zip,https://previews.cambridge-mt.com/HungarianDanceNo5_Full_Preview.mp3
+Summertime,https://multitracks.cambridge-mt.com/BolzAndKnecht_Summertime_Full.zip,https://previews.cambridge-mt.com/Summertime2_Full_Preview.mp3
+Va! Laisse Couler Mes Larmes,https://multitracks.cambridge-mt.com/CamillaFrancescaBull_VaLaisseCoulerMesLarmes_Full.zip,https://previews.cambridge-mt.com/VaLaisseCoulerMesLarmes_Full_Preview.mp3
+W.A.Mozart's Voi Che Sapete,https://multitracks.cambridge-mt.com/CamillaFrancescaBull_VoiCheSapete_Full.zip,https://previews.cambridge-mt.com/VoiCheSapete_Full_Preview.mp3
+SzÃ¡rad A SzÃ¡j,https://mtkdata.cambridgemusictechnology.co.uk/MTK015/Chalga_SzaradASzaj_Full.zip,https://previews.cambridge-mt.com/SzaradASzaj_Full_Preview.mp3
+Bright Angel,https://mtkdata.cambridgemusictechnology.co.uk/Telefunken/ColebrookRoad_BrightAngel_Full.zip,https://previews.cambridge-mt.com/BrightAngel_Full_Preview.mp3
+Make You Dance,http://www.puremix.net/zelab-mixing-contest/mixing-contest-al-schmitt-cyrille-aimee.html,https://previews.cambridge-mt.com/MakeYouDance_Full_Preview.mp3
+The Things We Do For Love,http://www.puremix.net/zelab-mixing-contest/zelab-session-18-david-crosby.html,https://previews.cambridge-mt.com/TheThingsWeDoForLove_Full_Preview.mp3
+Dust You And Me,https://mtkdata.cambridgemusictechnology.co.uk/MTK003/DavidYoungs_DustYouAndMe_Full.zip,https://previews.cambridge-mt.com/DustYouAndMe_Full_Preview.mp3
+Long Overdue,https://mtkdata.cambridgemusictechnology.co.uk/MTK003/DavidYoungs_LongOverdue_Full.zip,https://previews.cambridge-mt.com/LongOverdue_Full_Preview.mp3
+Technomantra,https://mtkdata.cambridgemusictechnology.co.uk/MTK003/DavidYoungs_Technomantra_Full.zip,https://previews.cambridge-mt.com/Technomantra_Full_Preview.mp3
+Queen's Light,https://mtkdata.cambridgemusictechnology.co.uk/MTK005/DinoOnTheLoose_QueensLight_Full.zip,https://previews.cambridge-mt.com/QueensLight_Full_Preview.mp3
+The Marsh Marigold's Song,https://multitracks.cambridge-mt.com/DonCamilloChoir_MarshMarigoldsSong_Full.zip,https://previews.cambridge-mt.com/MarshMarigoldsSong_Full_Preview.mp3
+Trude The Bumblebee,https://multitracks.cambridge-mt.com/DonCamilloChoir_TrudeTheBumblebee_Full.zip,https://previews.cambridge-mt.com/TrudeTheBumblebee_Full_Preview.mp3
+The Woodworm Song,https://multitracks.cambridge-mt.com/DonCamilloChoir_WoodwormSong_Full.zip,https://previews.cambridge-mt.com/WoodwormSong_Full_Preview.mp3
+5th Floor,https://multitracks.cambridge-mt.com/EddieGarrido_5thFloor_Full.zip,https://previews.cambridge-mt.com/5thFloor_Full_Preview.mp3
+Africa,https://multitracks.cambridge-mt.com/EddieGarrido_Africa_Full.zip,https://previews.cambridge-mt.com/Africa_Full_Preview.mp3
+Una Semana Sin Ti,https://multitracks.cambridge-mt.com/EddieGarrido_UnaSemanaSinTi_Full.zip,https://previews.cambridge-mt.com/UnaSemanaSinTi_Full_Preview.mp3
+Scarlett,https://multitracks.cambridge-mt.com/EddieGarrido_Scarlett_Full.zip,https://previews.cambridge-mt.com/Scarlett_Full_Preview.mp3
+An Nasc Nua,https://mtkdata.cambridgemusictechnology.co.uk/MTK007/EndaReilly_AnNascNua_Full.zip,https://previews.cambridge-mt.com/AnNascNua_Full_Preview.mp3
+Cur An Long Ag Seol,https://mtkdata.cambridgemusictechnology.co.uk/MTK007/EndaReilly_CurAnLongAgSeol_Full.zip,https://previews.cambridge-mt.com/CurAnLongAgSeol_Full_Preview.mp3
+Cello Concerto in A Minor,https://multitracks.cambridge-mt.com/EthanWiner_CelloConcerto_Full.zip,https://previews.cambridge-mt.com/CelloConcerto_Full_Preview.mp3
+Sleigh Ride,https://mtkdata.cambridgemusictechnology.co.uk/MTK007/FunnyValentines_SleighRide_Full.zip,https://previews.cambridge-mt.com/SleighRide_Full_Preview.mp3
+A Reason To Leave,https://mtkdata.cambridgemusictechnology.co.uk/MTK009/PatrickTalbot_AReasonToLeave_Full.zip,https://previews.cambridge-mt.com/AReasonToLeave_Full_Preview.mp3
+Blue,https://mtkdata.cambridgemusictechnology.co.uk/MTK009/PatrickTalbot_Blue_Full.zip,https://previews.cambridge-mt.com/Blue_Full_Preview.mp3
+Fool,https://mtkdata.cambridgemusictechnology.co.uk/MTK009/PatrickTalbot_Fool_Full.zip,https://previews.cambridge-mt.com/Fool_Full_Preview.mp3
+Set Me Free,https://mtkdata.cambridgemusictechnology.co.uk/MTK009/PatrickTalbot_SetMeFree_Full.zip,https://previews.cambridge-mt.com/SetMeFree_Full_Preview.mp3
+Upper Hand,https://mtkdata.cambridgemusictechnology.co.uk/MTK009/PatrickTalbot_UpperHand_Full.zip,https://previews.cambridge-mt.com/UpperHand_Full_Preview.mp3
+A Sailor Once More,https://multitracks.cambridge-mt.com/GlenMcPhee_ASailorOnceMore_Full.zip,https://previews.cambridge-mt.com/ASailorOnceMore_Full_Preview.mp3
+If I Were A Bell,https://multitracks.cambridge-mt.com/HowlProject_IfIWereABell_Full.zip,https://previews.cambridge-mt.com/IfIWereABell_Full_Preview.mp3
+Paraisso,https://multitracks.cambridge-mt.com/JadeSafirah_Paraisso_Full.zip,https://previews.cambridge-mt.com/Paraisso_Full_Preview.mp3
+Hold On You,https://mtkdata.cambridgemusictechnology.co.uk/MTK004/JamesMay_HoldOnYou_Full.zip,https://previews.cambridge-mt.com/HoldOnYou_Full_Preview.mp3
+Eliza Jane,https://mtkdata.cambridgemusictechnology.co.uk/MTK004/JamesMay_ElizaJane_Full.zip,https://previews.cambridge-mt.com/ElizaJane_Full_Preview.mp3
+If You Say,https://mtkdata.cambridgemusictechnology.co.uk/MTK004/JamesMay_IfYouSay_Full.zip,https://previews.cambridge-mt.com/IfYouSay_Full_Preview.mp3
+On The Line,https://mtkdata.cambridgemusictechnology.co.uk/MTK004/MR1210_JamesMay_Full.zip,https://previews.cambridge-mt.com/1210_RemixLoud.mp3
+All Souls Moon,https://mtkdata.cambridgemusictechnology.co.uk/MTK004/JamesMay_AllSoulsMoon_Full.zip,https://previews.cambridge-mt.com/AllSoulsMoon_Full_Preview.mp3
+Don't Let Go,https://mtkdata.cambridgemusictechnology.co.uk/MTK004/JamesMay_DontLetGo_Full.zip,https://previews.cambridge-mt.com/DontLetGo_Full_Preview.mp3
+Alex The Adventurer,https://mtkdata.cambridgemusictechnology.co.uk/MTK001/JeffreyHayat_AlexTheAdventurer_Full.zip,https://previews.cambridge-mt.com/AlexTheAdventurer_Full_Preview.mp3
+What Is This Thing Called Love,https://mtkdata.cambridgemusictechnology.co.uk/MTK002/MR0804_JesperBuhlTrio_Full.zip,https://previews.cambridge-mt.com/0804_Remix.mp3
+Nearly There,https://multitracks.cambridge-mt.com/JesseJoy_NearlyThere_Full.zip,https://previews.cambridge-mt.com/NearlyThere_Full_Preview.mp3
+Release,https://multitracks.cambridge-mt.com/JesseJoy_Release_Full.zip,https://previews.cambridge-mt.com/Release_Full_Preview.mp3
+Away,https://multitracks.cambridge-mt.com/JoannaWard_Away_Full.zip,https://previews.cambridge-mt.com/Away_Full_Preview.mp3
+Telemann's La Lyra Overture,https://multitracks.cambridge-mt.com/KCLBaroque_TelemannLaLyra_Full.zip,https://previews.cambridge-mt.com/TelemannLaLyraOverture_Full_Preview.mp3
+Makin' Whoopee,https://mtkdata.cambridgemusictechnology.co.uk/MTK010/LindyHipBigBand_MakinWhoopee_Full.zip,https://previews.cambridge-mt.com/MakinWhoopee_Full_Preview.mp3
+The Opener,https://mtkdata.cambridgemusictechnology.co.uk/MTK010/LindyHipBigBand_TheOpener_Full.zip,https://previews.cambridge-mt.com/TheOpener_Full_Preview.mp3
+Scar,https://mtkdata.cambridgemusictechnology.co.uk/Telefunken/TheLonelyWild_Scar_Full.zip,https://previews.cambridge-mt.com/Scar_Full_Preview.mp3
+Back Home To Blue,https://mtkdata.cambridgemusictechnology.co.uk/MTK008/TheLongWait_BackHomeToBlue_Full.zip,https://previews.cambridge-mt.com/BackHomeToBlue_Full_Preview.mp3
+Dark Horses,https://mtkdata.cambridgemusictechnology.co.uk/MTK008/TheLongWait_DarkHorses_Full.zip,https://previews.cambridge-mt.com/DarkHorses_Full_Preview.mp3
+Drag,https://mtkdata.cambridgemusictechnology.co.uk/MTK008/TheLongWait_Drag_Full.zip,https://previews.cambridge-mt.com/Drag_Full_Preview.mp3
+Lookout Mountain,https://mtkdata.cambridgemusictechnology.co.uk/MTK008/TheLongWait_LookoutMountain_Full.zip,https://previews.cambridge-mt.com/LookoutMountain_Full_Preview.mp3
+Santa,https://mtkdata.cambridgemusictechnology.co.uk/MTK008/TheLongWait_Santa_Full.zip,https://previews.cambridge-mt.com/Santa_Full_Preview.mp3
+Changing Things (Dorian's Song),https://mtkdata.cambridgemusictechnology.co.uk/MTK015/LorenzoPrice_ChangingThings_Full.zip,https://previews.cambridge-mt.com/ChangingThings_Full_Preview.mp3
+All The Gin Is Gone,https://multitracks.cambridge-mt.com/MaurizioPagnuttiSextet_AllTheGinIsGone_Full.zip,https://previews.cambridge-mt.com/AllTheGinIsGone_Full_Preview.mp3
+Bess,https://multitracks.cambridge-mt.com/MaurizioPagnuttiSextet_Bess_Full.zip,https://previews.cambridge-mt.com/Bess_Full_Preview.mp3
+Sun Drenched,https://mtkdata.cambridgemusictechnology.co.uk/MTK003/MikeSkalandunas_SunDrenched_Full.zip,https://previews.cambridge-mt.com/SunDrenched_Full_Preview.mp3
+Fever,https://mtkdata.cambridgemusictechnology.co.uk/MTK016/Mirroman_Fever_Full.zip,https://previews.cambridge-mt.com/Fever_Full_Preview.mp3
+Go Go Go,https://mtkdata.cambridgemusictechnology.co.uk/Telefunken/NickiBluhmAndTheGramblers_GoGoGo_Full.zip,https://previews.cambridge-mt.com/GoGoGo_Full_Preview.mp3
+Nalim,https://mtkdata.cambridgemusictechnology.co.uk/Telefunken/NikolaStajicFtVlasisKostas_Nalim_Full.zip,https://previews.cambridge-mt.com/Nalim_Full_Preview.mp3
+That's Entertainment,https://multitracks.cambridge-mt.com/Ojebokoren_ThatsEntertainment_Full.zip,https://previews.cambridge-mt.com/ThatsEntertainment_Full_Preview.mp3
+1 Of The First,https://multitracks.cambridge-mt.com/PawelMaciwoda_1OfTheFirst_Full.zip,https://previews.cambridge-mt.com/1OfTheFirst_Full_Preview.mp3
+Carolina In The Pines,https://mtkdata.cambridgemusictechnology.co.uk/Telefunken/PrettySaro_CarolinaInThePines_Full.zip,https://previews.cambridge-mt.com/CarolinaInThePines_Full_Preview.mp3
+The Glass,https://multitracks.cambridge-mt.com/Primakova_TheGlass_Full.zip,https://previews.cambridge-mt.com/TheGlass_Full_Preview.mp3
+Pachebel's Canon,https://multitracks.cambridge-mt.com/RodAlexander_Canon_Full.zip,https://previews.cambridge-mt.com/Canon_Full_Preview.mp3
+Tears In The Rain,https://mtkdata.cambridgemusictechnology.co.uk/MTK008/RodAlexander_TearsInTheRain_Full.zip,https://previews.cambridge-mt.com/TearsInTheRain_Full_Preview.mp3
+It's In These Times,https://multitracks.cambridge-mt.com/RoversAhead_ItsInTheseTimes_Full.zip,https://previews.cambridge-mt.com/ItsInTheseTimes_Full_Preview.mp3
+Ying Yang,https://mtkdata.cambridgemusictechnology.co.uk/MTK003/MR1207_SantiVega_Full.zip,https://previews.cambridge-mt.com/1207_Remix.mp3
+Bill Ashton's Much Too Much,https://mtkdata.cambridgemusictechnology.co.uk/MTK005/SelwynJazz_MuchTooMuch_Full.zip,https://previews.cambridge-mt.com/MuchTooMuch_Full_Preview.mp3
+Copper,https://mtkdata.cambridgemusictechnology.co.uk/MTK007/SimonLyn_Copper_Full.zip,https://previews.cambridge-mt.com/Copper_Full_Preview.mp3
+Christmas Blues,https://mtkdata.cambridgemusictechnology.co.uk/MTK009/Spektakulatius_ChristmasBlues_Full.zip,https://previews.cambridge-mt.com/ChristmasBlues_Full_Preview.mp3
+Jeden Winter,https://mtkdata.cambridgemusictechnology.co.uk/MTK009/Spektakulatius_JedenWinter_Full.zip,https://previews.cambridge-mt.com/JedenWinter_Full_Preview.mp3
+What Child Is This,https://mtkdata.cambridgemusictechnology.co.uk/MTK009/Spektakulatius_WhatChildIsThis_Full.zip,https://previews.cambridge-mt.com/WhatChildIsThis_Full_Preview.mp3
+Is You Is Or Is You Ain't,https://mtkdata.cambridgemusictechnology.co.uk/MTK009/Spektakulatius_IsYouIsOrIsYouAint_Full.zip,https://previews.cambridge-mt.com/IsYouIsOrIsYouAint_Full_Preview.mp3
+Our Love Is Here To Stay,https://mtkdata.cambridgemusictechnology.co.uk/MTK009/Spektakulatius_OurLoveIsHereToStay_Full.zip,https://previews.cambridge-mt.com/OurLoveIsHereToStay_Full_Preview.mp3
+Wayfaring Stranger,https://mtkdata.cambridgemusictechnology.co.uk/MTK009/Spektakulatius_WayfaringStranger_Full.zip,https://previews.cambridge-mt.com/WayfaringStranger_Full_Preview.mp3
+Fleche D'Or,https://multitracks.cambridge-mt.com/SwingBazar_FlecheDOr_Full.zip,https://previews.cambridge-mt.com/FlecheDOr_Full_Preview.mp3
+The Road Ahead,https://mtkdata.cambridgemusictechnology.co.uk/MTK002/MR0904_TimoCarlier_Full.zip,https://previews.cambridge-mt.com/0904_Remix.mp3
+Directions,https://mtkdata.cambridgemusictechnology.co.uk/MTK006/MR1304_TomMcKenzie_Full.zip,https://previews.cambridge-mt.com/1304_Remix.mp3
+Who I Am,https://mtkdata.cambridgemusictechnology.co.uk/Telefunken/UncleDad_WhoIAm_Full.zip,https://previews.cambridge-mt.com/WhoIAm_Full_Preview.mp3
+Arto,https://multitracks.cambridge-mt.com/UTGandhi_Arto_Full.zip,https://previews.cambridge-mt.com/Arto_Full_Preview.mp3
+Cog In The Machine,http://puremix.net/video/othering/events/gearfest-2011-tracking-1-6-bass-drum.html,https://previews.cambridge-mt.com/CogInTheMachine_Full_Preview.mp3
+Lament,https://mtkdata.cambridgemusictechnology.co.uk/MTK001/MR1108_WolfsHeadAndVixen_Full.zip,https://previews.cambridge-mt.com/1108_Remix.mp3
+Tell Me Nice,https://multitracks.cambridge-mt.com/WovenHollow_TellMeNice_Full.zip,https://previews.cambridge-mt.com/TellMeNice_Full_Preview.mp3
+Air,https://mtkdata.cambridgemusictechnology.co.uk/MTK011/Zwiepack_Air_Full.zip,https://previews.cambridge-mt.com/Air_Full_Preview.mp3
+Summertime,https://mtkdata.cambridgemusictechnology.co.uk/MTK011/Zwiepack_Summertime_Full.zip,https://previews.cambridge-mt.com/Summertime_Full_Preview.mp3
+Ubiquitous,https://multitracks.cambridge-mt.com/AlbertKader_Ubiquitous_Full.zip,https://previews.cambridge-mt.com/Ubiquitous_Full_Preview.mp3
+Whiptails,https://multitracks.cambridge-mt.com/AlbertKader_Whiptails_Full.zip,https://previews.cambridge-mt.com/Whiptails_Full_Preview.mp3
+Heart Peripheral,https://mtkdata.cambridgemusictechnology.co.uk/MTK003/AMContra_HeartPeripheral_Full.zip,https://previews.cambridge-mt.com/HeartPeripheral_Full_Preview.mp3
+Amalgamize,https://mtkdata.cambridgemusictechnology.co.uk/MTK004/APZX_Amalgamize_Full.zip,https://previews.cambridge-mt.com/Amalgamize_Full_Preview.mp3
+Cyber Mower,https://mtkdata.cambridgemusictechnology.co.uk/MTK004/APZX_CyberMower_Full.zip,https://previews.cambridge-mt.com/CyberMower_Full_Preview.mp3
+From Earth To Planet Omega,https://mtkdata.cambridgemusictechnology.co.uk/MTK004/APZX_FromEarthToPlanetOmega_Full.zip,https://previews.cambridge-mt.com/FromEarthToPlanetOmega_Full_Preview.mp3
+Lacuna,https://mtkdata.cambridgemusictechnology.co.uk/MTK004/APZX_Lacuna_Full.zip,https://previews.cambridge-mt.com/Lacuna_Full_Preview.mp3
+Transcention,https://mtkdata.cambridgemusictechnology.co.uk/MTK004/APZX_Transcention_Full.zip,https://previews.cambridge-mt.com/Transcention_Full_Preview.mp3
+Fly High,https://mtkdata.cambridgemusictechnology.co.uk/MTK016/AronJaeger_FlyHigh_Full.zip,https://previews.cambridge-mt.com/FlyHigh_Full_Preview.mp3
+Aiguille Rouge,https://multitracks.cambridge-mt.com/BabeGrand_AiguilleRouge_Full.zip,https://previews.cambridge-mt.com/AiguilleRouge_Full_Preview.mp3
+King Of The Weekend,https://multitracks.cambridge-mt.com/BabeGrand_KingOfTheWeekend_Full.zip,https://previews.cambridge-mt.com/KingOfTheWeekend_Full_Preview.mp3
+Downtempo,https://mtkdata.cambridgemusictechnology.co.uk/MTK009/Bravestar_Downtempo_Full.zip,https://previews.cambridge-mt.com/Downtempo_Full_Preview.mp3
+Mathematician,https://mtkdata.cambridgemusictechnology.co.uk/MTK005/cfx_Mathematician_Full.zip,https://previews.cambridge-mt.com/Mathematician_Full_Preview.mp3
+Do Not Stand,https://multitracks.cambridge-mt.com/CarolDant_DoNotStand_Full.zip,https://previews.cambridge-mt.com/DoNotStand_Full_Preview.mp3
+I Am The Desert,https://multitracks.cambridge-mt.com/CarolDant_IAmTheDesert_Full.zip,https://previews.cambridge-mt.com/IAmTheDesert_Full_Preview.mp3
+Celebrate,https://mtkdata.cambridgemusictechnology.co.uk/MTK001/MR0905_ChrisDurban_Full.zip,https://previews.cambridge-mt.com/0905_Remix.mp3
+Another Way,https://mtkdata.cambridgemusictechnology.co.uk/MTK015/cryonicPAX_AnotherWay_Full.zip,https://previews.cambridge-mt.com/AnotherWay_Full_Preview.mp3
+Excessive,https://mtkdata.cambridgemusictechnology.co.uk/MTK015/cryonicPAX_Excessive_Full.zip,https://previews.cambridge-mt.com/Excessive_Full_Preview.mp3
+Hold Me,https://mtkdata.cambridgemusictechnology.co.uk/MTK015/cryonicPAX_HoldMe_Full.zip,https://previews.cambridge-mt.com/HoldMe_Full_Preview.mp3
+Melancholy,https://mtkdata.cambridgemusictechnology.co.uk/MTK015/cryonicPAX_Melancholy_Full.zip,https://previews.cambridge-mt.com/Melancholy_Full_Preview.mp3
+Echoes,https://multitracks.cambridge-mt.com/Fin_Echoes_Full.zip,https://previews.cambridge-mt.com/Echoes_Full_Preview.mp3
+Spaces,https://multitracks.cambridge-mt.com/FranciscoPerez_Spaces_Full.zip,https://previews.cambridge-mt.com/Spaces_Full_Preview.mp3
+Horizon,https://multitracks.cambridge-mt.com/Galias_Horizon_Full.zip,https://previews.cambridge-mt.com/Horizon_Full_Preview.mp3
+Siren,https://mtkdata.cambridgemusictechnology.co.uk/MTK002/GeorgiaWonder_Siren_Full.zip,https://previews.cambridge-mt.com/Siren_Full_Preview.mp3
+We Feel Alright,https://mtkdata.cambridgemusictechnology.co.uk/MTK001/MR1011_GirlsUnderGlass_Full.zip,https://previews.cambridge-mt.com/1011_Remix.mp3
+Ancora Qui,https://multitracks.cambridge-mt.com/Guarna_AncoraQui_Full.zip,https://previews.cambridge-mt.com/AncoraQui_Full_Preview.mp3
+Nuvole,https://multitracks.cambridge-mt.com/Guarna_Nuvole_Full.zip,https://previews.cambridge-mt.com/Nuvole_Full_Preview.mp3
+Parole Vuote,https://multitracks.cambridge-mt.com/Guarna_ParoleVuote_Full.zip,https://previews.cambridge-mt.com/ParoleVuote_Full_Preview.mp3
+Terania Creek Walking,https://multitracks.cambridge-mt.com/IanDearden_TeraniaCreekWalking_Full.zip,https://previews.cambridge-mt.com/TeraniaCreekWalking_Full_Preview.mp3
+Thursday Reverie,https://multitracks.cambridge-mt.com/IanDearden_ThursdayReverie_Full.zip,https://previews.cambridge-mt.com/ThursdayReverie_Full_Preview.mp3
+September Trance,https://mtkdata.cambridgemusictechnology.co.uk/MTK015/J0K3R_SeptemberTrance_Full.zip,https://previews.cambridge-mt.com/SeptemberTrance_Full_Preview.mp3
+Machines On Treadmills,https://multitracks.cambridge-mt.com/JamesFabio_MachinesOnTreadmills_Full.zip,https://previews.cambridge-mt.com/MachinesOnTreadmills_Full_Preview.mp3
+Asiza,https://mtkdata.cambridgemusictechnology.co.uk/MTK015/JohnAArdelli_Asiza_Full.zip,https://previews.cambridge-mt.com/Asiza_Full_Preview.mp3
+Chardonnay,https://mtkdata.cambridgemusictechnology.co.uk/MTK014/JPLantieri_Chardonnay_Full.zip,https://previews.cambridge-mt.com/Chardonnay_Full_Preview.mp3
+Chardonnay (Lektrix Remix),https://mtkdata.cambridgemusictechnology.co.uk/MTK014/JPLantieri_ChardonnayLektrixRemix_Full.zip,https://previews.cambridge-mt.com/ChardonnayLektrixRemix_Full_Preview.mp3
+Chardonnay (Mystik Vibe Remix),https://mtkdata.cambridgemusictechnology.co.uk/MTK014/JPLantieri_ChardonnayMystikVibeRemix_Full.zip,https://previews.cambridge-mt.com/ChardonnayMystikVibeRemix_Full_Preview.mp3
+Chardonnay (Ornery Remix),https://mtkdata.cambridgemusictechnology.co.uk/MTK014/JPLantieri_ChardonnayOrneryRemix_Full.zip,https://previews.cambridge-mt.com/ChardonnayOrneryRemix_Full_Preview.mp3
+Riesling,https://mtkdata.cambridgemusictechnology.co.uk/MTK014/JPLantieri_Riesling_Full_1.zip,https://previews.cambridge-mt.com/Riesling_Full_Preview.mp3
+Heartbeats,https://mtkdata.cambridgemusictechnology.co.uk/MTK006/JulietsRescue_Heartbeats_Full.zip,https://previews.cambridge-mt.com/Heartbeats_Full_Preview.mp3
+Got Your Love,https://multitracks.cambridge-mt.com/KarlHungus_GotYourLove_Full.zip,https://previews.cambridge-mt.com/GotYourLove_Full_Preview.mp3
+Sandstorm,https://multitracks.cambridge-mt.com/Ludo_Sandstorm_Full.zip,https://previews.cambridge-mt.com/Sandstorm_Full_Preview.mp3
+Light It Up (Remix),http://www.puremix.net/zelab-mixing-contest/zelab-session-39-major-lazer.html,https://previews.cambridge-mt.com/LightItUp_Full_Preview.mp3
+Cruising The Ice,https://mtkdata.cambridgemusictechnology.co.uk/MTK004/MountaineeringClubOrchestra_CruisingTheIce_Full.zip,https://previews.cambridge-mt.com/CruisingTheIce_Full_Preview.mp3
+Too Bright,https://mtkdata.cambridgemusictechnology.co.uk/MTK009/Mu_TooBright_Full.zip,https://previews.cambridge-mt.com/TooBright_Full_Preview.mp3
+Shela Ya Marhaba,https://multitracks.cambridge-mt.com/MustafaAlbazy_ShelaYaMarhaba_Full.zip,https://previews.cambridge-mt.com/ShelaYaMarhaba_Full_Preview.mp3
+Tgheer,https://multitracks.cambridge-mt.com/MustafaAlbazy_Tgheer_Full.zip,https://previews.cambridge-mt.com/Tgheer_Full_Preview.mp3
+Steampunk Siege,https://mtkdata.cambridgemusictechnology.co.uk/MTK010/NahumStrickland_SteampunkSiege_Full.zip,https://previews.cambridge-mt.com/SteampunkSiege_Full_Preview.mp3
+Slapback,https://multitracks.cambridge-mt.com/Nervbloc_Slapback_Full.zip,https://previews.cambridge-mt.com/Slapback_Full_Preview.mp3
+The Calm,https://multitracks.cambridge-mt.com/Neuromantic_TheCalm_Full.zip,https://previews.cambridge-mt.com/TheCalm_Full_Preview.mp3
+Escape Of The Hopping Rhinos,https://multitracks.cambridge-mt.com/Nominal6_EscapeOfTheHoppingRhinos_Full.zip,https://previews.cambridge-mt.com/EscapeOfTheHoppingRhinos_Full_Preview.mp3
+Russian Bot,https://multitracks.cambridge-mt.com/OctopusOnFire_RussianBot_Full.zip,https://previews.cambridge-mt.com/RussianBot_Full_Preview.mp3
+Macaco Regresso,https://multitracks.cambridge-mt.com/PandemiaErock_MacacoRegresso_Full.zip,https://previews.cambridge-mt.com/MacacoRegresso_Full_Preview.mp3
+Oral Hygiene,https://mtkdata.cambridgemusictechnology.co.uk/MTK002/MR0907_Punkdisco_Full.zip,https://previews.cambridge-mt.com/0907_Remix.mp3
+Just Let It Go,https://multitracks.cambridge-mt.com/Rattletree_JustLetItGo_Full.zip,https://previews.cambridge-mt.com/JustLetItGo_Full_Preview.mp3
+Anomalous Weeping,https://mtkdata.cambridgemusictechnology.co.uk/MTK007/Skelpolu_AnomalousWeeping_Full.zip,https://previews.cambridge-mt.com/AnomalousWeeping_Full_Preview.mp3
+Cold Strive,https://mtkdata.cambridgemusictechnology.co.uk/MTK007/Skelpolu_ColdStrive_Full.zip,https://previews.cambridge-mt.com/ColdStrive_Full_Preview.mp3
+Entwine,https://mtkdata.cambridgemusictechnology.co.uk/MTK007/Skelpolu_Entwine_Full.zip,https://previews.cambridge-mt.com/Entwine_Full_Preview.mp3
+Human Mistakes,https://mtkdata.cambridgemusictechnology.co.uk/MTK007/Skelpolu_HumanMistakes_Full.zip,https://previews.cambridge-mt.com/HumanMistakes_Full_Preview.mp3
+Long Road,https://mtkdata.cambridgemusictechnology.co.uk/MTK007/Skelpolu_LongRoad_Full.zip,https://previews.cambridge-mt.com/LongRoad_Full_Preview.mp3
+Resurrection Resurrected,https://mtkdata.cambridgemusictechnology.co.uk/MTK007/Skelpolu_Resurrection_Full.zip,https://previews.cambridge-mt.com/ResurrectionResurrected_Full_Preview.mp3
+Together Alone,https://mtkdata.cambridgemusictechnology.co.uk/MTK007/Skelpolu_TogetherAlone_Full.zip,https://previews.cambridge-mt.com/TogetherAlone_Full_Preview.mp3
+Broken Man,https://mtkdata.cambridgemusictechnology.co.uk/MTK006/SpeakSoftly_BrokenMan_Full.zip,https://previews.cambridge-mt.com/BrokenMan_Full_Preview.mp3
+Stalker,https://mtkdata.cambridgemusictechnology.co.uk/MTK006/TimTaler_Stalker_Full.zip,https://previews.cambridge-mt.com/Stalker_Full_Preview.mp3
+Devil's Words,https://mtkdata.cambridgemusictechnology.co.uk/MTK005/Actions_DevilsWords_Full.zip,https://previews.cambridge-mt.com/DevilsWords_Full_Preview.mp3
+One Minute Smile,https://mtkdata.cambridgemusictechnology.co.uk/MTK005/Actions_OneMinuteSmile_Full.zip,https://previews.cambridge-mt.com/OneMinuteSmile_Full_Preview.mp3
+South Of The Water,https://mtkdata.cambridgemusictechnology.co.uk/MTK005/Actions_SouthOfTheWater_Full.zip,https://previews.cambridge-mt.com/SouthOfTheWater_Full_Preview.mp3
+Drag me Down,https://mtkdata.cambridgemusictechnology.co.uk/MTK016/AdamBuckley_DragMeDown_Full.zip,https://previews.cambridge-mt.com/DragMeDown_Full_Preview.mp3
+Ae Mere Humsafar,https://mtkdata.cambridgemusictechnology.co.uk/MTK016/AjayNagarkotiAndVibhuDixit_AeMereHumsafar_Full.zip,https://previews.cambridge-mt.com/AeMereHumsafar_Full_Preview.mp3
+Schoolboy Fascination,https://mtkdata.cambridgemusictechnology.co.uk/MTK003/MR0908_AlJames_Full.zip,https://previews.cambridge-mt.com/0908_Remix.mp3
+Howlin,http://www.puremix.net/zelab-mixing-contest/zelab-session-5-howlin.html,https://previews.cambridge-mt.com/Howlin_Full_Preview.mp3
+Rescue Me,https://mtkdata.cambridgemusictechnology.co.uk/Telefunken/AmyHelmAndTheHandsomeStrangers_RescueMe_Full.zip,https://previews.cambridge-mt.com/RescueMe_Full_Preview.mp3
+This Town,https://multitracks.cambridge-mt.com/AngeloBoltini_ThisTown_Full.zip,https://previews.cambridge-mt.com/ThisTown_Full_Preview.mp3
+It Was My Fault For Waiting,https://mtkdata.cambridgemusictechnology.co.uk/MTK009/AtlantisBound_ItWasMyFaultForWaiting_Full.zip,https://previews.cambridge-mt.com/ItWasMyFaultForWaiting_Full_Preview.mp3
+Mouche,http://www.puremix.net/zelab-mixing-contest/zelab-session-7-mouche.html,https://previews.cambridge-mt.com/Mouche_Full_Preview.mp3
+Dream State (feat. Flora Lin),https://multitracks.cambridge-mt.com/BaumXmedia_DreamState_Full.zip,https://previews.cambridge-mt.com/DreamState_Full_Preview.mp3
+Koishii (feat. N.I.A.),https://multitracks.cambridge-mt.com/BaumXmedia_Koishii_Full.zip,https://previews.cambridge-mt.com/Koishii_Full_Preview.mp3
+Hey Carrie Anne,https://mtkdata.cambridgemusictechnology.co.uk/MTK008/BenCarrigan_HeyCarrieAnne_Full.zip,https://previews.cambridge-mt.com/HeyCarrieAnne_Full_Preview.mp3
+We'll Talk About It All Tonight,https://mtkdata.cambridgemusictechnology.co.uk/MTK008/BenCarrigan_WellTalkAboutItAllTonight_Full.zip,https://previews.cambridge-mt.com/WellTalkAboutItAllTonight_Full_Preview.mp3
+Better Way,https://multitracks.cambridge-mt.com/BenjaminJohn_BetterWay_Full.zip,https://previews.cambridge-mt.com/BetterWay_Full_Preview.mp3
+Kak Tvoi Dela Vova?,https://mtkdata.cambridgemusictechnology.co.uk/MTK010/Bruks_KakTvoiDelaVova_Full.zip,https://previews.cambridge-mt.com/KakTvoiDelaVova_Full_Preview.mp3
+A Place For Us,https://mtkdata.cambridgemusictechnology.co.uk/MTK007/CarlosGonzalez_APlaceForUs_Full.zip,https://previews.cambridge-mt.com/APlaceForUs_Full_Preview.mp3
+Guerra Alla Frontiera,https://multitracks.cambridge-mt.com/Cunegonda_GuerraAllaFrontiera_Full.zip,https://previews.cambridge-mt.com/GuerraAllaFrontiera_Full_Preview.mp3
+It's So Easy To Love You,https://multitracks.cambridge-mt.com/DavidTyo_ItsSoEasyToLoveYou_Full.zip,https://previews.cambridge-mt.com/ItsSoEasyToLoveYou_Full_Preview.mp3
+Long Way Home,https://multitracks.cambridge-mt.com/DavidTyo_LongWayHome_Full.zip,https://previews.cambridge-mt.com/LongWayHome_Full_Preview.mp3
+Never Ebb But Flow,https://multitracks.cambridge-mt.com/DavidTyo_NeverEbbButflow_Full.zip,https://previews.cambridge-mt.com/NeverEbbButflow_Full_Preview.mp3
+Oh Life,https://multitracks.cambridge-mt.com/DavidTyo_OhLife_Full.zip,https://previews.cambridge-mt.com/OhLife_Full_Preview.mp3
+Electrvm,https://multitracks.cambridge-mt.com/DigitalHumans_Electrvm_Full.zip,https://previews.cambridge-mt.com/Electrvm_Full_Preview.mp3
+Relentlessly,https://multitracks.cambridge-mt.com/DigitalHumans_Relentlessly_Full.zip,https://previews.cambridge-mt.com/Relentlessly_Full_Preview.mp3
+Muddy Water,https://multitracks.cambridge-mt.com/DorotheaWessel_MuddyWater_Full.zip,https://previews.cambridge-mt.com/MuddyWater_Full_Preview.mp3
+Ghost Bitch,https://mtkdata.cambridgemusictechnology.co.uk/MTK008/Drumtracks_GhostBitch_Full.zip,https://previews.cambridge-mt.com/GhostBitch_Full_Preview.mp3
+Big Man's Death,https://mtkdata.cambridgemusictechnology.co.uk/MTK017/EduardSemenov_BigMansDeath_Full.zip,https://previews.cambridge-mt.com/BigMansDeath_Full_Preview.mp3
+River Of The White Gloom,https://multitracks.cambridge-mt.com/EduardSemenov_RiverOfTheWhiteGloom_Full.zip,https://previews.cambridge-mt.com/RiverOfTheWhiteGloom_Full_Preview.mp3
+Echo (feat. Analise Rios),https://mtkdata.cambridgemusictechnology.co.uk/MTK015/EJRios_Echo_Full.zip,https://previews.cambridge-mt.com/Echo_Full_Preview.mp3
+Same Kind Of Life,https://mtkdata.cambridgemusictechnology.co.uk/MTK016/Finlay_SameKindOfLife_Full.zip,https://previews.cambridge-mt.com/SameKindOfLife_Full_Preview.mp3
+Not Alone,https://archive.org/details/FredyVNotAlone,https://previews.cambridge-mt.com/NotAlone_Full_Preview.mp3
+You & Me & The Radio,https://mtkdata.cambridgemusictechnology.co.uk/Telefunken/HumanRadio_YouMeAndTheRadio_Full.zip,https://previews.cambridge-mt.com/YouAndMeAndTheRadio_Full_Preview.mp3
+Funkkihillo,https://mtkdata.cambridgemusictechnology.co.uk/MTK015/IlmariKontia_Funkkihillo_Full.zip,https://previews.cambridge-mt.com/Funkkihillo_Full_Preview.mp3
+The English Actor,https://mtkdata.cambridgemusictechnology.co.uk/MTK001/MR0902_JamesElder_Full.zip,https://previews.cambridge-mt.com/0902_Remix.mp3
+Through My Eyes,https://mtkdata.cambridgemusictechnology.co.uk/MTK005/MR1001_JayMenon_Full.zip,https://previews.cambridge-mt.com/1001_Remix.mp3
+Never Stop,https://mtkdata.cambridgemusictechnology.co.uk/MTK010/JulesKing_NeverStop_Full.zip,https://previews.cambridge-mt.com/NeverStop_Full_Preview.mp3
+By My Side,https://mtkdata.cambridgemusictechnology.co.uk/Telefunken/KatWright_ByMySide_Full.zip,https://previews.cambridge-mt.com/ByMySide_Full_Preview.mp3
+Contact,https://mtkdata.cambridgemusictechnology.co.uk/Telefunken/KatWright_Contact_Full.zip,https://previews.cambridge-mt.com/Contact_Full_Preview.mp3
+Afterglow,https://mtkdata.cambridgemusictechnology.co.uk/MTK010/KeystoneAngel_Afterglow_Full.zip,https://previews.cambridge-mt.com/Afterglow_Full_Preview.mp3
+Come Around,https://mtkdata.cambridgemusictechnology.co.uk/MTK007/MR0702_Leaf_Full.zip,https://previews.cambridge-mt.com/0702_Remix.mp3
+Summerghost,https://mtkdata.cambridgemusictechnology.co.uk/MTK007/Leaf_Summerghost_Full.zip,https://previews.cambridge-mt.com/Summerghost_Full_Preview.mp3
+Wicked,https://mtkdata.cambridgemusictechnology.co.uk/MTK007/Leaf_Wicked_Full.zip,https://previews.cambridge-mt.com/Wicked_Full_Preview.mp3
+Catching Up,https://mtkdata.cambridgemusictechnology.co.uk/MTK007/LyndseyOllard_CatchingUp_Full.zip,https://previews.cambridge-mt.com/CatchingUp_Full_Preview.mp3
+Sorry,https://multitracks.cambridge-mt.com/MattiasSkantze_Sorry_Full.zip,https://previews.cambridge-mt.com/Sorry_Full_Preview.mp3
+Encanto Tropical,http://www.puremix.net/zelab-mixing-contest/zelab-session-35-monsieur-perine.html,https://previews.cambridge-mt.com/EncantoTropical_Full_Preview.mp3
+Big Dummy Shake,https://mtkdata.cambridgemusictechnology.co.uk/MTK002/MR0903_Moosmusic_Full.zip,https://previews.cambridge-mt.com/0903_Remix.mp3
+Pure Luxury,http://www.puremix.net/zelab-mixing-contest/zelab-session-41-nzca-lines.html,https://previews.cambridge-mt.com/PureLuxury_Full_Preview.mp3
+El Marinero,https://multitracks.cambridge-mt.com/PlanCaliente_ElMarinero_Full.zip,https://previews.cambridge-mt.com/ElMarinero_Full_Preview.mp3
+Tiring,https://mtkdata.cambridgemusictechnology.co.uk/MTK009/RaftMonk_Tiring_Full.zip,https://previews.cambridge-mt.com/Tiring_Full_Preview.mp3
+Crazy For Me,https://multitracks.cambridge-mt.com/RandomSomebody_CrazyForMe_Full.zip,https://previews.cambridge-mt.com/CrazyForMe_Full_Preview.mp3
+C U Next Time,https://mtkdata.cambridgemusictechnology.co.uk/MTK006/RememberDecember_CUNextTime_Full.zip,https://previews.cambridge-mt.com/CUNextTime_Full_Preview.mp3
+Don't Put Me On Hold,https://mtkdata.cambridgemusictechnology.co.uk/Telefunken/RememberJones_DontPutMeOnHold_Full.zip,https://previews.cambridge-mt.com/DontPutMeOnHold_Full_Preview.mp3
+Dream No. 12,https://multitracks.cambridge-mt.com/RicardoSantiago_DreamNo12_Full.zip,https://previews.cambridge-mt.com/DreamNo12_Full_Preview.mp3
+Let The Music Fade Away,https://multitracks.cambridge-mt.com/RicardoSantiago_LetTheMusicFadeAway_Full.zip,https://previews.cambridge-mt.com/LetTheMusicFadeAway_Full_Preview.mp3
+Going To The Moon,https://multitracks.cambridge-mt.com/RickyLegend_GoingToTheMoon_Full.zip,https://previews.cambridge-mt.com/GoingToTheMoon_Full_Preview.mp3
+Why Don't You Stay,https://multitracks.cambridge-mt.com/RonnieJones_WhyDontYouStay_Full.zip,https://previews.cambridge-mt.com/WhyDontYouStay_Full_Preview.mp3
+Carousel Ride,https://mtkdata.cambridgemusictechnology.co.uk/Telefunken/Rubblebucket_CarouselRide_Full.zip,https://previews.cambridge-mt.com/CarouselRide_Full_Preview.mp3
+Kaathaadi,https://mtkdata.cambridgemusictechnology.co.uk/MTK003/MR1202_SambasevamShanmugam_Full.zip,https://previews.cambridge-mt.com/1202_Remix.mp3
+What Have You Done To Me,https://mtkdata.cambridgemusictechnology.co.uk/MTK001/MR1107_SigneJakobsen_Full.zip,https://previews.cambridge-mt.com/1107_Remix.mp3
+Learning How To Fly,https://multitracks.cambridge-mt.com/Silona_LearningHowToFly_Full.zip,https://previews.cambridge-mt.com/LearningHowToFly_Full_Preview.mp3
+Prodigal,https://multitracks.cambridge-mt.com/StarnesAndShah_Prodigal_Full.zip,https://previews.cambridge-mt.com/Prodigal_Full_Preview.mp3
+Gone,https://multitracks.cambridge-mt.com/Strobe_Gone_Full.zip,https://previews.cambridge-mt.com/Gone_Full_Preview.mp3
+Maya,https://multitracks.cambridge-mt.com/Strobe_Maya_Full.zip,https://previews.cambridge-mt.com/Maya_Full_Preview.mp3
+Nostalgic,https://multitracks.cambridge-mt.com/Strobe_Nostalgic_Full.zip,https://previews.cambridge-mt.com/Nostalgic_Full_Preview.mp3
+Word Gets Around,https://mtkdata.cambridgemusictechnology.co.uk/MTK002/MR0811_StVitus_Full.zip,https://previews.cambridge-mt.com/0811_Remix.mp3
+Spirit Cold,https://mtkdata.cambridgemusictechnology.co.uk/Telefunken/TallHeights_SpiritCold_Full.zip,https://previews.cambridge-mt.com/SpiritCold_Full_Preview.mp3
+Convertible,https://multitracks.cambridge-mt.com/TedBehrman_Convertible_Full.zip,https://previews.cambridge-mt.com/Convertible_Full_Preview.mp3
+Just Don't Talk,https://multitracks.cambridge-mt.com/TimoAndTheTimezone_JustDontTalk_Full.zip,https://previews.cambridge-mt.com/JustDontTalk_Full_Preview.mp3
+Window,https://mtkdata.cambridgemusictechnology.co.uk/MTK010/TrickBird_Window_Full.zip,https://previews.cambridge-mt.com/Window_Full_Preview.mp3
+Widow (feat. The Fiend),https://mtkdata.cambridgemusictechnology.co.uk/MTK004/Triviul_Widow_Full.zip,https://previews.cambridge-mt.com/Widow_Full_Preview.mp3
+Alright?,https://mtkdata.cambridgemusictechnology.co.uk/MTK004/Triviul_Alright_Full.zip,https://previews.cambridge-mt.com/Alright_Full_Preview.mp3
+Angelsaint,https://mtkdata.cambridgemusictechnology.co.uk/MTK004/Triviul_Angelsaint_Full.zip,https://previews.cambridge-mt.com/Angelsaint_Full_Preview.mp3
+Better?,https://mtkdata.cambridgemusictechnology.co.uk/MTK004/Triviul_Better_Full.zip,https://previews.cambridge-mt.com/Better_Full_Preview.mp3
+Dorothy,https://mtkdata.cambridgemusictechnology.co.uk/MTK004/Triviul_Dorothy_Full.zip,https://previews.cambridge-mt.com/Dorothy_Full_Preview.mp3
+Gimme,https://mtkdata.cambridgemusictechnology.co.uk/MTK004/Triviul_Gimme_Full.zip,https://previews.cambridge-mt.com/Gimme_Full_Preview.mp3
+To Sam Rawfers,https://mtkdata.cambridgemusictechnology.co.uk/MTK004/Triviul_ToSamRawfers_Full.zip,https://previews.cambridge-mt.com/ToSamRawfers_Full_Preview.mp3
+Another Day Calling,https://mtkdata.cambridgemusictechnology.co.uk/MTK010/TurnBackToSpring_AnotherDayCalling_Full.zip,https://previews.cambridge-mt.com/AnotherDayCalling_Full_Preview.mp3
+Rothko,https://mtkdata.cambridgemusictechnology.co.uk/MTK006/MR1303_WrongUns_Full.zip,https://previews.cambridge-mt.com/1303_Remix.mp3
+Boat Ride,https://multitracks.cambridge-mt.com/AlanMansfieldAndJohnPritchard_BoatRide_Full.zip,https://previews.cambridge-mt.com/BoatRide_Full_Preview.mp3
+Flores De Abril,https://multitracks.cambridge-mt.com/AndresGuazzelli_FloresDeAbril_Full.zip,https://previews.cambridge-mt.com/FloresDeAbril_Full_Preview.mp3
+Attention,https://multitracks.cambridge-mt.com/AndresGuazzelli_Attention_Full.zip,https://previews.cambridge-mt.com/Attention_Full_Preview.mp3
+Run Run Run,https://mtkdata.cambridgemusictechnology.co.uk/MTK003/MR1111_Arise_Full.zip,https://previews.cambridge-mt.com/1111_Remix.mp3
+All I Know,https://mtkdata.cambridgemusictechnology.co.uk/MTK010/Avalon_AllIKnow_Full.zip,https://previews.cambridge-mt.com/AllIKnow_Full_Preview.mp3
+Black Out Betty,https://mtkdata.cambridgemusictechnology.co.uk/MTK005/BannedFromTheZoo_BlackOutBetty_Full.zip,https://previews.cambridge-mt.com/BlackOutBetty_Full_Preview.mp3
+Encore,https://mtkdata.cambridgemusictechnology.co.uk/MTK005/BannedFromTheZoo_Encore_Full.zip,https://previews.cambridge-mt.com/Encore_Full_Preview.mp3
+Fish Tacos,https://mtkdata.cambridgemusictechnology.co.uk/MTK005/BannedFromTheZoo_FishTacos_Full.zip,https://previews.cambridge-mt.com/FishTacos_Full_Preview.mp3
+Turn On Me,https://mtkdata.cambridgemusictechnology.co.uk/MTK005/BannedFromTheZoo_TurnOnMe_Full.zip,https://previews.cambridge-mt.com/TurnOnMe_Full_Preview.mp3
+Hey Delilah,https://mtkdata.cambridgemusictechnology.co.uk/Telefunken/BigHeadToddAndTheMonsters_HeyDelilah_Full.zip,https://previews.cambridge-mt.com/HeyDelilah_Full_Preview.mp3
+Contraband,https://mtkdata.cambridgemusictechnology.co.uk/Telefunken/BigMeanSoundMachine_Contraband_Full.zip,https://previews.cambridge-mt.com/Contraband_Full_Preview.mp3
+Fragile Thoughts,https://mtkdata.cambridgemusictechnology.co.uk/MTK001/BigStoneCulture_FragileThoughts_Full.zip,https://previews.cambridge-mt.com/FragileThoughts_Full_Preview.mp3
+If You Want Success,https://mtkdata.cambridgemusictechnology.co.uk/MTK001/MR1004_BlackBloc_Full.zip,https://previews.cambridge-mt.com/1004_Remix.mp3
+Sugar,https://multitracks.cambridge-mt.com/BluesBastards_Sugar_Full.zip,https://previews.cambridge-mt.com/Sugar_Full_Preview.mp3
+Lights Out!,https://multitracks.cambridge-mt.com/BluesBastards_LightsOut_Full.zip,https://previews.cambridge-mt.com/LightsOut_Full_Preview.mp3
+Stitch Up,https://mtkdata.cambridgemusictechnology.co.uk/MTK003/MR0911_BobbyNobody_Full.zip,https://previews.cambridge-mt.com/0911_Remix.mp3
+It's My Right,https://mtkdata.cambridgemusictechnology.co.uk/MTK010/BoogieSnakes_ItsMyRight_Full.zip,https://previews.cambridge-mt.com/ItsMyRight_Full_Preview.mp3
+Morning Sickness,https://mtkdata.cambridgemusictechnology.co.uk/Telefunken/BosnianRainbows_MorningSickness_Full.zip,https://previews.cambridge-mt.com/MorningSickness_Full_Preview.mp3
+Mister Mister,https://mtkdata.cambridgemusictechnology.co.uk/Telefunken/BronzeRadioReturn_MisterMister_Full.zip,https://previews.cambridge-mt.com/MisterMister_Full_Preview.mp3
+Revo X,https://mtkdata.cambridgemusictechnology.co.uk/MTK007/Buitraker_RevoX_Full.zip,https://previews.cambridge-mt.com/RevoX_Full_Preview.mp3
+An Ultra Violet Apology,https://mtkdata.cambridgemusictechnology.co.uk/MTK008/ButterflyEffect_AnUltraVioletApology_Full.zip,https://previews.cambridge-mt.com/AnUltraVioletApology_Full_Preview.mp3
+Fairytale,https://mtkdata.cambridgemusictechnology.co.uk/MTK008/ButterflyEffect_Fairytale_Full.zip,https://previews.cambridge-mt.com/Fairytale_Full_Preview.mp3
+Preach Right Here,https://mtkdata.cambridgemusictechnology.co.uk/MTK008/ButterflyEffect_PreachRightHere_Full.zip,https://previews.cambridge-mt.com/PreachRightHere_Full_Preview.mp3
+Odi A La Barretina,https://multitracks.cambridge-mt.com/Catfolkin_OdiALaBarretina_Full.zip,https://previews.cambridge-mt.com/OdiALaBarretina_Full_Preview.mp3
+Sant Jordi v2.0,https://multitracks.cambridge-mt.com/Catfolkin_SantJordi_Full.zip,https://previews.cambridge-mt.com/SantJordi_Full_Preview.mp3
+Viviendo Del Reves,https://mtkdata.cambridgemusictechnology.co.uk/MTK015/CEFMallorcaGSSII_ViviendoDelReves_Full.zip,https://previews.cambridge-mt.com/ViviendoDelReves_Full_Preview.mp3
+Heather Jane,https://multitracks.cambridge-mt.com/ChrisColtraine_HeatherJane_Full.zip,https://previews.cambridge-mt.com/HeatherJane_Full_Preview.mp3
+That's How I Got To Memphis,https://multitracks.cambridge-mt.com/ChrisColtraine_ThatsHowIGotToMemphis_Full.zip,https://previews.cambridge-mt.com/ThatsHowIGotToMemphis_Full_Preview.mp3
+21 Grams,https://mtkdata.cambridgemusictechnology.co.uk/MTK014/ColtonBenjamin_21Grams_Full.zip,https://previews.cambridge-mt.com/21Grams_Full_Preview.mp3
+Can't Let You Go,https://mtkdata.cambridgemusictechnology.co.uk/MTK014/ColtonBenjamin_CantLetYouGo_Full.zip,https://previews.cambridge-mt.com/CantLetYouGo_Full_Preview.mp3
+Sail Away,https://mtkdata.cambridgemusictechnology.co.uk/MTK014/ColtonBenjamin_SailAway_Full.zip,https://previews.cambridge-mt.com/SailAway_Full_Preview.mp3
+Rainy Day II,https://mtkdata.cambridgemusictechnology.co.uk/MTK015/CottonDrifting_RainyDayII_Full.zip,https://previews.cambridge-mt.com/RainyDayII_Full_Preview.mp3
+Walkie Talkie,https://mtkdata.cambridgemusictechnology.co.uk/MTK006/DetskySad_WalkieTalkie_Full.zip,https://previews.cambridge-mt.com/WalkieTalkie_Full_Preview.mp3
+Colour Me Red,https://multitracks.cambridge-mt.com/Diesel13_ColourMeRed_Full.zip,https://previews.cambridge-mt.com/ColourMeRed_Full_Preview.mp3
+Roar,https://mtkdata.cambridgemusictechnology.co.uk/MTK015/Diesel13_Roar_Full.zip,https://previews.cambridge-mt.com/Roar_Full_Preview.mp3
+Atrophy,https://mtkdata.cambridgemusictechnology.co.uk/MTK003/DopplerShift_Atrophy_Full.zip,https://previews.cambridge-mt.com/Atrophy_Full_Preview.mp3
+EnDance,https://mtkdata.cambridgemusictechnology.co.uk/MTK005/DunningKruger_EnDance_Full.zip,https://previews.cambridge-mt.com/EnDance_Full_Preview.mp3
+Japan Song,https://mtkdata.cambridgemusictechnology.co.uk/MTK005/DunningKruger_JapanSong_Full.zip,https://previews.cambridge-mt.com/JapanSong_Full_Preview.mp3
+Sascha,https://mtkdata.cambridgemusictechnology.co.uk/MTK005/DunningKruger_Sascha_Full.zip,https://previews.cambridge-mt.com/Sascha_Full_Preview.mp3
+The Last Elm,https://multitracks.cambridge-mt.com/EagerSails_TheLastElm_Full.zip,https://previews.cambridge-mt.com/TheLastElm_Full_Preview.mp3
+Post Rock Is Dumb,https://multitracks.cambridge-mt.com/EagerSails_PostRockIsDumb_Full.zip,https://previews.cambridge-mt.com/PostRockIsDumb_Full_Preview.mp3
+Two Bare Hands,https://mtkdata.cambridgemusictechnology.co.uk/Telefunken/EnterTheHaggis_TwoBareHands_Full.zip,https://previews.cambridge-mt.com/TwoBareHands_Full_Preview.mp3
+Passenger Side,https://mtkdata.cambridgemusictechnology.co.uk/Telefunken/EveningDarling_PassengerSide_Full.zip,https://previews.cambridge-mt.com/PassengerSide_Full_Preview.mp3
+Back From The Start,https://mtkdata.cambridgemusictechnology.co.uk/MTK006/Fergessen_BackFromTheStart_Full.zip,https://previews.cambridge-mt.com/BackFromTheStart_Full_Preview.mp3
+Nos Palpitants,https://mtkdata.cambridgemusictechnology.co.uk/MTK006/Fergessen_NosPalpitants_Full.zip,https://previews.cambridge-mt.com/NosPalpitants_Full_Preview.mp3
+The Wind,https://mtkdata.cambridgemusictechnology.co.uk/MTK006/Fergessen_TheWind_Full.zip,https://previews.cambridge-mt.com/TheWind_Full_Preview.mp3
+54,https://mtkdata.cambridgemusictechnology.co.uk/MTK001/MR1103_Flags_Full.zip,https://previews.cambridge-mt.com/1103_Remix.mp3
+Santa Fe,https://mtkdata.cambridgemusictechnology.co.uk/Telefunken/Fruition_SantaFe_Full.zip,https://previews.cambridge-mt.com/SantaFe_Full_Preview.mp3
+Ja Make Ya Dance,https://mtkdata.cambridgemusictechnology.co.uk/Telefunken/GhostNote_JaMakeYaDance_Full.zip,https://previews.cambridge-mt.com/JaMakeYaDance_Full_Preview.mp3
+Die Young,https://mtkdata.cambridgemusictechnology.co.uk/Telefunken/TheGreatEnough_DieYoung_Full.zip,https://previews.cambridge-mt.com/DieYoung_Full_Preview.mp3
+You Know Better,https://mtkdata.cambridgemusictechnology.co.uk/MTK016/HannesKeseberg_YouKnowBetter_Full.zip,https://previews.cambridge-mt.com/YouKnowBetter_Full_Preview.mp3
+A Mi Lado,https://multitracks.cambridge-mt.com/Hazael_AMiLado_Full.zip,https://previews.cambridge-mt.com/AMiLado_Full_Preview.mp3
+Resistencia Para Un Nuevo Comenzar,https://multitracks.cambridge-mt.com/Hazael_ResistenciaParaUnNuevoComenzar_Full.zip,https://previews.cambridge-mt.com/ResistenciaParaUnNuevoComenzar_Full_Preview.mp3
+Gravediggers,https://mtkdata.cambridgemusictechnology.co.uk/MTK015/Hollowstate_Gravediggers_Full.zip,https://previews.cambridge-mt.com/Gravediggers_Full_Preview.mp3
+Heart On My Thumb,https://mtkdata.cambridgemusictechnology.co.uk/MTK001/HowToKillAConversation_HeartOnMyThumb_Full.zip,https://previews.cambridge-mt.com/HeartOnMyThumb_Full_Preview.mp3
+Location Location,https://mtkdata.cambridgemusictechnology.co.uk/MTK001/HowToKillAConversation_LocationLocation_Full.zip,https://previews.cambridge-mt.com/LocationLocation_Full_Preview.mp3
+Mute,https://mtkdata.cambridgemusictechnology.co.uk/MTK001/HowToKillAConversation_Mute_Full.zip,https://previews.cambridge-mt.com/Mute_Full_Preview.mp3
+Oil,https://mtkdata.cambridgemusictechnology.co.uk/MTK001/HowToKillAConversation_Oil_Full.zip,https://previews.cambridge-mt.com/Oil_Full_Preview.mp3
+Showmonster,https://mtkdata.cambridgemusictechnology.co.uk/MTK001/HowToKillAConversation_Showmonster_Full.zip,https://previews.cambridge-mt.com/Showmonster_Full_Preview.mp3
+Living In The City,https://mtkdata.cambridgemusictechnology.co.uk/Telefunken/HurrayForTheRiffRaff_LivingInTheCity_Full.zip,https://previews.cambridge-mt.com/LivingInTheCity_Full_Preview.mp3
+The Last Stand,https://mtkdata.cambridgemusictechnology.co.uk/Telefunken/IkebeShakedown_TheLastStand_Full.zip,https://previews.cambridge-mt.com/TheLastStand_Full_Preview.mp3
+Don't Let The Devil Take Your Mind,https://mtkdata.cambridgemusictechnology.co.uk/Telefunken/JackieGreene_DontLetTheDevilTakeYourMind_Full.zip,https://previews.cambridge-mt.com/DontLetTheDevilTakeYourMind_Full_Preview.mp3
+Can You Say The Same,https://multitracks.cambridge-mt.com/JamesTimmsBenjaminCoosemans_CanYouSayTheSame_Full.zip,https://previews.cambridge-mt.com/CanYouSayTheSame_Full_Preview.mp3
+All American Mutt,https://mtkdata.cambridgemusictechnology.co.uk/Telefunken/JamieKent_AllAmericanMutt_Full.zip,https://previews.cambridge-mt.com/AllAmericanMutt_Full_Preview.mp3
+Sea Of Leaves,https://mtkdata.cambridgemusictechnology.co.uk/MTK003/MR1204_JokersJacksKings_Full.zip,https://previews.cambridge-mt.com/1204_Remix.mp3
+Joy Ride,https://mtkdata.cambridgemusictechnology.co.uk/Telefunken/KungFu_JoyRide_Full.zip,https://previews.cambridge-mt.com/JoyRide_Full_Preview.mp3
+River's Risin,https://mtkdata.cambridgemusictechnology.co.uk/Telefunken/LeftoverSalmon_RiversRisin_Full.zip,https://previews.cambridge-mt.com/RiversRisin_Full_Preview.mp3
+Just One Minute,https://multitracks.cambridge-mt.com/LinguaFunqa_JustOneMinute_Full.zip,https://previews.cambridge-mt.com/JustOneMinute_Full_Preview.mp3
+Matterplay,https://mtkdata.cambridgemusictechnology.co.uk/MTK010/MalenkySlovos_Matterplay_Full.zip,https://previews.cambridge-mt.com/Matterplay_Full_Preview.mp3
+Maggie May,https://mtkdata.cambridgemusictechnology.co.uk/MTK001/ManAboutADog_MaggieMay_Full.zip,https://previews.cambridge-mt.com/MaggieMay_Full_Preview.mp3
+Shut Up And Play,https://mtkdata.cambridgemusictechnology.co.uk/MTK015/MarcusBoeltz_ShutUpAndPlay_Full.zip,https://previews.cambridge-mt.com/ShutUpAndPlay_Full_Preview.mp3
+Buildin' It Up,https://mtkdata.cambridgemusictechnology.co.uk/Telefunken/McLovins_BuildinItUp_Full.zip,https://previews.cambridge-mt.com/BuildinItUp_Full_Preview.mp3
+Shore,https://mtkdata.cambridgemusictechnology.co.uk/MTK007/MotorTapes_Shore_Full.zip,https://previews.cambridge-mt.com/Shore_Full_Preview.mp3
+Mallory,https://mtkdata.cambridgemusictechnology.co.uk/MTK004/MR1205_MountaineeringClub_Full.zip,https://previews.cambridge-mt.com/1205_Remix.mp3
+Take It Off,https://mtkdata.cambridgemusictechnology.co.uk/MTK010/NeonHornet_TakeItOff_Full.zip,https://previews.cambridge-mt.com/TakeItOff_Full_Preview.mp3
+Living Lie,https://multitracks.cambridge-mt.com/Nerve9_LivingLie_Full.zip,https://previews.cambridge-mt.com/LivingLie_Full_Preview.mp3
+Pray For The Rain,https://mtkdata.cambridgemusictechnology.co.uk/MTK009/Nerve9_PrayForTheRain_Full.zip,https://previews.cambridge-mt.com/PrayForTheRain_Full_Preview.mp3
+One Time Weekend,https://mtkdata.cambridgemusictechnology.co.uk/Telefunken/OneTimeWeekend_OneTimeWeekend_Full.zip,https://previews.cambridge-mt.com/OneTimeWeekend_Full_Preview.mp3
+Seat Back,https://mtkdata.cambridgemusictechnology.co.uk/Telefunken/ThePennilessWild_SeatBack_Full.zip,https://previews.cambridge-mt.com/SeatBack_Full_Preview.mp3
+Meu Bem,https://multitracks.cambridge-mt.com/PerdidosNaZonaSul_MeuBem_Full.zip,https://previews.cambridge-mt.com/MeuBem_Full_Preview.mp3
+The Blues Is A Lady,https://mtkdata.cambridgemusictechnology.co.uk/MTK010/PeterWhite_TheBluesIsALady_Full.zip,https://previews.cambridge-mt.com/TheBluesIsALady_Full_Preview.mp3
+Crazy Girl,https://multitracks.cambridge-mt.com/PeterWhite_CrazyGirl_Full.zip,https://previews.cambridge-mt.com/CrazyGirl_Full_Preview.mp3
+Everybody's Falling Apart,https://mtkdata.cambridgemusictechnology.co.uk/MTK001/MR1008_PhreTheEon_Full.zip,https://previews.cambridge-mt.com/1008_Remix.mp3
+Last Night's Gig,https://mtkdata.cambridgemusictechnology.co.uk/Telefunken/PlywoodCowboy_LastNightsGig_Full.zip,https://previews.cambridge-mt.com/LastNightsGig_Full_Preview.mp3
+Access Denied,https://multitracks.cambridge-mt.com/PurpleHatMob_AccessDenied_Full.zip,https://previews.cambridge-mt.com/AccessDenied_Full_Preview.mp3
+Ayni Nehirde,https://multitracks.cambridge-mt.com/Qupe_AyniNehirde_Full.zip,https://previews.cambridge-mt.com/AyniNehirde_Full_Preview.mp3
+4 Out Of 10,https://mtkdata.cambridgemusictechnology.co.uk/Telefunken/Ripe_4OutOf10_Full.zip,https://previews.cambridge-mt.com/4OutOf10_Full_Preview.mp3
+Little Lighter,https://mtkdata.cambridgemusictechnology.co.uk/Telefunken/Ripe_LittleLighter_Full.zip,https://previews.cambridge-mt.com/LittleLighter_Full_Preview.mp3
+GÃ¶kyÃ¼zÃ¼,https://multitracks.cambridge-mt.com/Salon8_Gokyuzu_Full.zip,https://previews.cambridge-mt.com/Gokyuzu_Full_Preview.mp3
+Borderline,https://mtkdata.cambridgemusictechnology.co.uk/MTK007/Secretariat_Borderline_Full.zip,https://previews.cambridge-mt.com/Borderline_Full_Preview.mp3
+Homebound,https://mtkdata.cambridgemusictechnology.co.uk/MTK007/Secretariat_Homebound_Full.zip,https://previews.cambridge-mt.com/Homebound_Full_Preview.mp3
+Over The Top,https://mtkdata.cambridgemusictechnology.co.uk/MTK007/Secretariat_OverTheTop_Full.zip,https://previews.cambridge-mt.com/OverTheTop_Full_Preview.mp3
+Hope And The Sea,https://mtkdata.cambridgemusictechnology.co.uk/Telefunken/SixFoxWhiskey_HopeAndTheSea_Full.zip,https://previews.cambridge-mt.com/HopeAndTheSea_Full_Preview.mp3
+Banana Split,https://mtkdata.cambridgemusictechnology.co.uk/MTK017/SkyeezAndTheWhiteflies_BananaSplit_Full.zip,https://previews.cambridge-mt.com/BananaSplit_Full_Preview.mp3
+Jump Across,https://multitracks.cambridge-mt.com/SkyeezAndTheWhiteflies_JumpAcross_Full.zip,https://previews.cambridge-mt.com/JumpAcross_Full_Preview.mp3
+Mike's Sulking,https://mtkdata.cambridgemusictechnology.co.uk/MTK003/SpikeMullings_MikesSulking_Full.zip,https://previews.cambridge-mt.com/MikesSulking_Full_Preview.mp3
+For I Am The Moon,https://mtkdata.cambridgemusictechnology.co.uk/Telefunken/SunshineGarciaBand_ForIAmTheMoon_Full.zip,https://previews.cambridge-mt.com/ForIAmTheMoon_Full_Preview.mp3
+Lost My Way,https://mtkdata.cambridgemusictechnology.co.uk/MTK005/SwingingSteaks_LostMyWay_Full.zip,https://previews.cambridge-mt.com/LostMyWay_Full_Preview.mp3
+Heart Of My Home Town,https://mtkdata.cambridgemusictechnology.co.uk/Telefunken/MattSzlachetka_HeartOfMyHomeTown_Full.zip,https://previews.cambridge-mt.com/HeartOfMyHomeTown_Full_Preview.mp3
+Kings And Queens,https://multitracks.cambridge-mt.com/thelvnguage_KingsAndQueens_Full.zip,https://previews.cambridge-mt.com/KingsAndQueens_Full_Preview.mp3
+Raspberry Jam,https://multitracks.cambridge-mt.com/thelvnguage_RaspberryJam_Full.zip,https://previews.cambridge-mt.com/RaspberryJam_Full_Preview.mp3
+GOTGF,https://multitracks.cambridge-mt.com/TheTimezone_GOTGF_Full.zip,https://previews.cambridge-mt.com/GOTGF_Full_Preview.mp3
+Happy Blues,https://multitracks.cambridge-mt.com/TommyMarcinek_HappyBlues_Full.zip,https://previews.cambridge-mt.com/HappyBlues_Full_Preview.mp3
+My Childhood Sweetheart,https://multitracks.cambridge-mt.com/TommyMarcinek_MyChildhoodSweetheart_Full.zip,https://previews.cambridge-mt.com/MyChildhoodSweetheart_Full_Preview.mp3
+Once More (With Feeling),https://mtkdata.cambridgemusictechnology.co.uk/MTK002/TrafficExperiment_OnceMore_Full.zip,https://previews.cambridge-mt.com/OnceMore_Full_Preview.mp3
+Sirens,https://mtkdata.cambridgemusictechnology.co.uk/MTK002/TrafficExperiment_Sirens_Full.zip,https://previews.cambridge-mt.com/Sirens_Full_Preview.mp3
+Passing Ships,https://mtkdata.cambridgemusictechnology.co.uk/MTK010/TheTravellingBand_PassingShips_Full.zip,https://previews.cambridge-mt.com/PassingShips_Full_Preview.mp3
+Quicksand,https://mtkdata.cambridgemusictechnology.co.uk/MTK010/TheTravellingBand_Quicksand_Full.zip,https://previews.cambridge-mt.com/Quicksand_Full_Preview.mp3
+Lookin' Tough Feelin' Good,https://mtkdata.cambridgemusictechnology.co.uk/Telefunken/Turkuaz_LookinToughFeelinGood_Full.zip,https://previews.cambridge-mt.com/LookinToughFeelinGood_Full_Preview.mp3
+Tip Toe Through The Crypto,https://mtkdata.cambridgemusictechnology.co.uk/Telefunken/Turkuaz_TipTopThroughTheCrypto_Full.zip,https://previews.cambridge-mt.com/TipToeThroughTheCrypto_Full_Preview.mp3
+Backroom In Tulsa,https://mtkdata.cambridgemusictechnology.co.uk/MTK005/WesleyMorgan_BackroomInTulsa_Full.zip,https://previews.cambridge-mt.com/BackroomInTulsa_Full_Preview.mp3
+Flesh And Bone,https://mtkdata.cambridgemusictechnology.co.uk/MTK005/WesleyMorgan_FleshAndBone_Full.zip,https://previews.cambridge-mt.com/FleshAndBone_Full_Preview.mp3
+64 Bristol,https://multitracks.cambridge-mt.com/WessMeetsWest_64Bristol_Full.zip,https://previews.cambridge-mt.com/64Bristol_Full_Preview.mp3
+Direct Experience,https://multitracks.cambridge-mt.com/WessMeetsWest_DirectExperience_Full.zip,https://previews.cambridge-mt.com/DirectExperience_Full_Preview.mp3
+Like You Do,https://mtkdata.cambridgemusictechnology.co.uk/Telefunken/TheWesternDen_LikeYouDo_Full.zip,https://previews.cambridge-mt.com/LikeYouDo_Full_Preview.mp3
+Into The Forest,https://multitracks.cambridge-mt.com/WideWaters_IntoTheForest_Full_Pt1.zip,https://previews.cambridge-mt.com/IntoTheForest_Full_Preview.mp3
+Funky To The Bone,https://multitracks.cambridge-mt.com/WIND_FunkyToTheBone_Full.zip,https://previews.cambridge-mt.com/FunkyToTheBone_Full_Preview.mp3
+Temporary Happiness,https://multitracks.cambridge-mt.com/WIND_TemporaryHappiness_Full.zip,https://previews.cambridge-mt.com/TemporaryHappiness_Full_Preview.mp3
+Animals,https://mtkdata.cambridgemusictechnology.co.uk/MTK014/Woodfire_Animals_Full.zip,https://previews.cambridge-mt.com/Animals_Full_Preview.mp3
+Get Fooled,https://mtkdata.cambridgemusictechnology.co.uk/MTK014/Woodfire_GetFooled_Full.zip,https://previews.cambridge-mt.com/GetFooled_Full_Preview.mp3
+Haunted House,https://mtkdata.cambridgemusictechnology.co.uk/MTK014/Woodfire_HauntedHouse_Full.zip,https://previews.cambridge-mt.com/HauntedHouse_Full_Preview.mp3
+Outer _,https://mtkdata.cambridgemusictechnology.co.uk/MTK014/Woodfire_Outer_Full.zip,https://previews.cambridge-mt.com/Outer_Full_Preview.mp3
+Wealthy In Time,https://mtkdata.cambridgemusictechnology.co.uk/MTK014/Woodfire_WealthyInTime_Full.zip,https://previews.cambridge-mt.com/WealthyInTime_Full_Preview.mp3
+Signs,https://mtkdata.cambridgemusictechnology.co.uk/MTK001/MR1003_Zeno_Full.zip,https://previews.cambridge-mt.com/1003_Remix.mp3
+Nosso Mundo Deixou De Existir,https://mtkdata.cambridgemusictechnology.co.uk/MTK016/AleLak_NossoMundoDeixouDeExistir_Full.zip,https://previews.cambridge-mt.com/NossoMundoDeixouDeExistir_Full_Preview.mp3
+Ambitions,https://multitracks.cambridge-mt.com/AllHandsLost_Ambitions_Full.zip,https://previews.cambridge-mt.com/Ambitions_Full_Preview.mp3
+I'm Alright,https://mtkdata.cambridgemusictechnology.co.uk/MTK006/AngelsInAmplifiers_ImAlright_Full.zip,https://previews.cambridge-mt.com/ImAlright_Full_Preview.mp3
+Still Flyin,https://multitracks.cambridge-mt.com/TheApprehended_StillFlyin_Full.zip,https://previews.cambridge-mt.com/StillFlyin_Full_Preview.mp3
+Children Of No-one,https://mtkdata.cambridgemusictechnology.co.uk/MTK005/MR1212_BillChudziak_Full.zip,https://previews.cambridge-mt.com/1212_Remix.mp3
+Cage,https://multitracks.cambridge-mt.com/TheBlackCrown_Cage_Full.zip,https://previews.cambridge-mt.com/Cage_Full_Preview.mp3
+Flames,https://multitracks.cambridge-mt.com/TheBlackCrown_Flames_Full.zip,https://previews.cambridge-mt.com/Flames_Full_Preview.mp3
+What I Want,https://mtkdata.cambridgemusictechnology.co.uk/Telefunken/TheBrew_WhatIWant_Full.zip,https://previews.cambridge-mt.com/WhatIWant_Full_Preview.mp3
+Happy Pills,https://mtkdata.cambridgemusictechnology.co.uk/Telefunken/Candlebox_HappyPills_Full.zip,https://previews.cambridge-mt.com/HappyPills_Full_Preview.mp3
+Surrendering,https://mtkdata.cambridgemusictechnology.co.uk/Telefunken/Candlebox_Surrendering_Full.zip,https://previews.cambridge-mt.com/Surrendering_Full_Preview.mp3
+Bannockburn,https://mtkdata.cambridgemusictechnology.co.uk/MTK002/CnocAnTursa_Bannockburn_Full.zip,https://previews.cambridge-mt.com/Bannockburn_Full_Preview.mp3
+Etc,https://mtkdata.cambridgemusictechnology.co.uk/MTK001/Complainiacs_Etc_Full.zip,https://previews.cambridge-mt.com/Etc_Full_Preview.mp3
+Dead Enemies,https://mtkdata.cambridgemusictechnology.co.uk/MTK008/DarkRide_DeadEnemies_Full.zip,https://previews.cambridge-mt.com/DeadEnemies_Full_Preview.mp3
+Burning Bridges,https://mtkdata.cambridgemusictechnology.co.uk/MTK008/DarkRide_BurningBridges_Full.zip,https://previews.cambridge-mt.com/BurningBridges_Full_Preview.mp3
+Deny Control,https://multitracks.cambridge-mt.com/DarkRide_DenyControl_Full.zip,https://previews.cambridge-mt.com/DenyControl_Full_Preview.mp3
+Hammer Down,https://mtkdata.cambridgemusictechnology.co.uk/MTK008/DarkRide_HammerDown_Full.zip,https://previews.cambridge-mt.com/HammerDown_Full_Preview.mp3
+Piece Of Me,https://mtkdata.cambridgemusictechnology.co.uk/MTK008/DarkRide_PieceOfMe_Full.zip,https://previews.cambridge-mt.com/PieceOfMe_Full_Preview.mp3
+The Well,https://multitracks.cambridge-mt.com/DeathOfARomantic_TheWell_Full.zip,https://previews.cambridge-mt.com/TheWell_Full_Preview.mp3
+Unseen,https://multitracks.cambridge-mt.com/Decypher_Unseen_Full.zip,https://previews.cambridge-mt.com/Unseen_Full_Preview.mp3
+Iron Sheik,http://www.puremix.net/zelab-mixing-contest/zelab-session-11-iron-sheik.html,https://previews.cambridge-mt.com/IronSheik_Full_Preview.mp3
+Today's The Day,https://multitracks.cambridge-mt.com/EatTheFeeder_TodaysTheDay_Full.zip,https://previews.cambridge-mt.com/TodaysTheDay_Full_Preview.mp3
+Wickerman,https://multitracks.cambridge-mt.com/EatTheFeeder_Wickerman_Full.zip,https://previews.cambridge-mt.com/Wickerman_Full_Preview.mp3
+Semantics,https://mtkdata.cambridgemusictechnology.co.uk/MTK008/Forkupines_Semantics_Full.zip,https://previews.cambridge-mt.com/Semantics_Full_Preview.mp3
+Sugar - Faith,https://multitracks.cambridge-mt.com/Forkupines_SugarFaith_Full.zip,https://previews.cambridge-mt.com/SugarFaith_Full_Preview.mp3
+Sleep By The Fire Bloom In Water,https://mtkdata.cambridgemusictechnology.co.uk/MTK008/Forkupines_SleepByTheFireBloomInWater_Full.zip,https://previews.cambridge-mt.com/SleepByTheFireBloomInWater_Full_Preview.mp3
+Bitter,https://mtkdata.cambridgemusictechnology.co.uk/MTK016/Fytakyte_Bitter_Full.zip,https://previews.cambridge-mt.com/Bitter_Full_Preview.mp3
+Life Gets In The Way,https://mtkdata.cambridgemusictechnology.co.uk/MTK016/Fytakyte_LifeGetsInTheWay_Full.zip,https://previews.cambridge-mt.com/LifeGetsInTheWay_Full_Preview.mp3
+Outa Control,https://mtkdata.cambridgemusictechnology.co.uk/MTK016/Fytakyte_OutaControl_Full.zip,https://previews.cambridge-mt.com/OutaControl_Full_Preview.mp3
+New Day Dawning,https://mtkdata.cambridgemusictechnology.co.uk/MTK015/GBassProject_NewDayDawning_Full.zip,https://previews.cambridge-mt.com/NewDayDawning_Full_Preview.mp3
+You Make Me Smile,https://mtkdata.cambridgemusictechnology.co.uk/MTK015/GBassProject_YouMakeMeSmile_Full.zip,https://previews.cambridge-mt.com/YouMakeMeSmile_Full_Preview.mp3
+Chasque,https://multitracks.cambridge-mt.com/GeometriaChicken_Chasque_Full.zip,https://previews.cambridge-mt.com/Chasque_Full_Preview.mp3
+Das Funkeren,https://multitracks.cambridge-mt.com/GeometriaChicken_DasFunkeren_Full.zip,https://previews.cambridge-mt.com/DasFunkeren_Full_Preview.mp3
+Tubos De Cristal Tela Adhesiva Y Grapas,https://multitracks.cambridge-mt.com/GeometriaChicken_TubosDeCristal_Full.zip,https://previews.cambridge-mt.com/TubosDeCristal_Full_Preview.mp3
+XXXV,https://multitracks.cambridge-mt.com/HeadwoundHarry_XXXV_Full.zip,https://previews.cambridge-mt.com/XXXV_Full_Preview.mp3
+Ill Fate,https://mtkdata.cambridgemusictechnology.co.uk/MTK002/HollowGround_IllFate_Full.zip,https://previews.cambridge-mt.com/IllFate_Full_Preview.mp3
+Left Blind,https://mtkdata.cambridgemusictechnology.co.uk/MTK002/HollowGround_LeftBlind_Full.zip,https://previews.cambridge-mt.com/LeftBlind_Full_Preview.mp3
+Believe,https://onedrive.live.com/redir?resid=E679268A3E5B5D83!270675&authkey=!AGzv8G3SkTwKcyA&ithint=file%2czip,https://previews.cambridge-mt.com/Believe_Full_Preview.mp3
+Another Life,https://multitracks.cambridge-mt.com/ImpAct_AnotherLife_Full.zip,https://previews.cambridge-mt.com/AnotherLife_Full_Preview.mp3
+The Island Of Alsocanla,https://multitracks.cambridge-mt.com/ImpAct_TheIslandOfAlsocanla_Full.zip,https://previews.cambridge-mt.com/TheIslandOfAlsocanla_Full_Preview.mp3
+Back In Time,https://multitracks.cambridge-mt.com/ImpAct_BackInTime_Full.zip,https://previews.cambridge-mt.com/BackInTime_Full_Preview.mp3
+Dune Rider,https://mtkdata.cambridgemusictechnology.co.uk/MTK006/ImpossibleColours_DuneRider_Full.zip,https://previews.cambridge-mt.com/DuneRider_Full_Preview.mp3
+The Truth,https://mtkdata.cambridgemusictechnology.co.uk/MTK006/ImpossibleColours_TheTruth_Full.zip,https://previews.cambridge-mt.com/TheTruth_Full_Preview.mp3
+Suit You,https://mtkdata.cambridgemusictechnology.co.uk/MTK014/JetB_SuitYou_Full.zip,https://previews.cambridge-mt.com/SuitYou_Full_Preview.mp3
+To The Wolves,https://mtkdata.cambridgemusictechnology.co.uk/MTK014/JetB_ToTheWolves_Full.zip,https://previews.cambridge-mt.com/ToTheWolves_Full_Preview.mp3
+Daisy Daisy,https://mtkdata.cambridgemusictechnology.co.uk/MTK001/JohnMcKay_DaisyDaisy_Full.zip,https://previews.cambridge-mt.com/DaisyDaisy_Full_Preview.mp3
+Promises & Lies,https://mtkdata.cambridgemusictechnology.co.uk/MTK001/MR1101_JohnnyLokke_Full.zip,https://previews.cambridge-mt.com/1101_Remix.mp3
+Whisper To A Scream,https://mtkdata.cambridgemusictechnology.co.uk/MTK001/JohnnyLokke_WhisperToAScream_Full.zip,https://previews.cambridge-mt.com/WhisperToAScream_Full_Preview.mp3
+Dios Salve El R&R - Cielo Sin Santos,https://mtkdata.cambridgemusictechnology.co.uk/MTK015/JuanitaDientesVerdes_DiosSalveElRockAndRollCieloSinSantos_Full.zip,https://previews.cambridge-mt.com/DiosSalveElRockAndRollCieloSinSantos_Full_Preview.mp3
+Donde No Llega La Luz,https://mtkdata.cambridgemusictechnology.co.uk/MTK015/JuanitaDientesVerdes_DondeNoLlegaLaLuz_Full.zip,https://previews.cambridge-mt.com/DondeNoLlegaLaLuz_Full_Preview.mp3
+Placido Domingo,https://mtkdata.cambridgemusictechnology.co.uk/MTK015/JuanitaDientesVerdes_PlacidoDomingo_Full.zip,https://previews.cambridge-mt.com/PlacidoDomingo_Full_Preview.mp3
+Who's Who In Hell,https://multitracks.cambridge-mt.com/Lastlegacy_WhosWhoInHell_Full.zip,https://previews.cambridge-mt.com/WhosWhoInHell_Full_Preview.mp3
+The Dice,https://multitracks.cambridge-mt.com/LeadInc_TheDice_Full.zip,https://previews.cambridge-mt.com/TheDice_Full_Preview.mp3
+The Inner Circle,https://multitracks.cambridge-mt.com/LeadInc_InnerCircle_Full.zip,https://previews.cambridge-mt.com/InnerCircle_Full_Preview.mp3
+Way Of Life,https://multitracks.cambridge-mt.com/LeadInc_WayOfLife_Full.zip,https://previews.cambridge-mt.com/WayOfLife_Full_Preview.mp3
+Good Time,https://mtkdata.cambridgemusictechnology.co.uk/MTK003/LouisCressyBand_GoodTime_Full.zip,https://previews.cambridge-mt.com/GoodTime_Full_Preview.mp3
+Get Out Of Bed,https://multitracks.cambridge-mt.com/MagiciansNephew_GetOutOfBed_Full.zip,https://previews.cambridge-mt.com/GetOutOfBed_Full_Preview.mp3
+Symphony Of Silence,https://multitracks.cambridge-mt.com/MagiciansNephew_SymphonyOfSilence_Full.zip,https://previews.cambridge-mt.com/SymphonyOfSilence_Full_Preview.mp3
+One Flip Flop,https://multitracks.cambridge-mt.com/TheMaybeNextYears_OneFlipFlop_Full.zip,https://previews.cambridge-mt.com/OneFlipFlop_Full_Preview.mp3
+Alive (Yet Free),https://multitracks.cambridge-mt.com/Mekaphil_AliveYetFree_Full.zip,https://previews.cambridge-mt.com/AliveYetFree_Full_Preview.mp3
+Carnival Charade,https://multitracks.cambridge-mt.com/Mistrusted_CarnivalCharade_Full.zip,https://previews.cambridge-mt.com/CarnivalCharade_Full_Preview.mp3
+Cascade,https://multitracks.cambridge-mt.com/Mistrusted_Cascade_Full.zip,https://previews.cambridge-mt.com/Cascade_Full_Preview.mp3
+Polemic,https://multitracks.cambridge-mt.com/Mistrusted_Polemic_Full.zip,https://previews.cambridge-mt.com/Polemic_Full_Preview.mp3
+Trapped,https://multitracks.cambridge-mt.com/Mistrusted_Trapped_Full.zip,https://previews.cambridge-mt.com/Trapped_Full_Preview.mp3
+All The Same,https://mtkdata.cambridgemusictechnology.co.uk/MTK003/MR0912_NorthToAlaska_Full.zip,https://previews.cambridge-mt.com/0912_Remix.mp3
+Four Graham,https://multitracks.cambridge-mt.com/NovaOneStudio_FourGraham_Full.zip,https://previews.cambridge-mt.com/FourGraham_Full_Preview.mp3
+Progresivo 1 El Vuelo,https://mtkdata.cambridgemusictechnology.co.uk/MTK009/PabloMartin_Progresivo1ElVuelo_Full.zip,https://previews.cambridge-mt.com/Progresivo1ElVuelo_Full_Preview.mp3
+Piers,https://multitracks.cambridge-mt.com/PaintedSkies_Piers_Full.zip,https://previews.cambridge-mt.com/Piers_Full_Preview.mp3
+Duty & Memories,https://multitracks.cambridge-mt.com/PerpetualEscape_DutyAndMemories_Full.zip,https://previews.cambridge-mt.com/DutyAndMemories_Full_Preview.mp3
+Into My Dreams,https://multitracks.cambridge-mt.com/PerpetualEscape_IntoMyDreams_Full_1.zip,https://previews.cambridge-mt.com/IntoMyDreams_Full_Preview.mp3
+Roots Of Mankind,https://multitracks.cambridge-mt.com/PerpetualEscape_RootsOfMankind_Full.zip,https://previews.cambridge-mt.com/RootsOfMankind_Full_Preview.mp3
+Sin Six,https://multitracks.cambridge-mt.com/PerpetualEscape_SinSix_Full.zip,https://previews.cambridge-mt.com/SinSix_Full_Preview.mp3
+Stop And Rise,https://multitracks.cambridge-mt.com/PerpetualEscape_StopAndRise_Full.zip,https://previews.cambridge-mt.com/StopAndRise_Full_Preview.mp3
+Burial Of Silence,https://multitracks.cambridge-mt.com/RebuildTheEvil_BurialOfSilence_Full.zip,https://previews.cambridge-mt.com/BurialOfSilence_Full_Preview.mp3
+The Elephant,https://multitracks.cambridge-mt.com/RobertHammon_TheElephant_Full.zip,https://previews.cambridge-mt.com/TheElephant_Full_Preview.mp3
+Rat Race,https://multitracks.cambridge-mt.com/RubyRoads_RatRace_Full.zip,https://previews.cambridge-mt.com/RatRace_Full_Preview.mp3
+Aeternum Vale,https://mtkdata.cambridgemusictechnology.co.uk/MTK014/ScottElliott_AeternumVale_Full.zip,https://previews.cambridge-mt.com/AeternumVale_Full_Preview.mp3
+The Forthcoming Turn,https://multitracks.cambridge-mt.com/SilenceIsNear_TheForthcomingTurn_Full.zip,https://previews.cambridge-mt.com/TheForthcomingTurn_Full_Preview.mp3
+Of Ice And Hopeless Fate,https://multitracks.cambridge-mt.com/StormOfParticles_OfIceAndHopelessFate_Full.zip,https://previews.cambridge-mt.com/OfIceAndHopelessFate_Full_Preview.mp3
+I'd Rather Be Drinkin,https://mtkdata.cambridgemusictechnology.co.uk/MTK008/StreetNoise_IdRatherBeDrinkin_Full.zip,https://previews.cambridge-mt.com/IdRatherBeDrinkin_Full_Preview.mp3
+Revelations,https://mtkdata.cambridgemusictechnology.co.uk/MTK008/StreetNoise_Revelations_Full.zip,https://previews.cambridge-mt.com/Revelations_Full_Preview.mp3
+You Are The One,https://mtkdata.cambridgemusictechnology.co.uk/MTK008/StreetNoise_YouAreTheOne_Full.zip,https://previews.cambridge-mt.com/YouAreTheOne_Full_Preview.mp3
+Death Metal Sucks,https://mtkdata.cambridgemusictechnology.co.uk/MTK014/SzymonSkiba_DeathMetalSucks_Full.zip,https://previews.cambridge-mt.com/DeathMetalSucks_Full_Preview.mp3
+Let's Dance,https://mtkdata.cambridgemusictechnology.co.uk/MTK014/SzymonSkiba_LetsDance_Full.zip,https://previews.cambridge-mt.com/LetsDance_Full_Preview.mp3
+Some Trashy Thrash I Guess,https://mtkdata.cambridgemusictechnology.co.uk/MTK014/SzymonSkiba_SomeTrashyThrashIGuess_Full.zip,https://previews.cambridge-mt.com/SomeTrashyThrashIGuess_Full_Preview.mp3
+The Feeling,https://multitracks.cambridge-mt.com/TheLeftBacks_TheFeeling_Full.zip,https://previews.cambridge-mt.com/TheFeeling_Full_Preview.mp3
+Such Fine People,https://multitracks.cambridge-mt.com/TholasP_SuchFinePeople_Full.zip,https://previews.cambridge-mt.com/SuchFinePeople_Full_Preview.mp3
+Pony,https://mtkdata.cambridgemusictechnology.co.uk/MTK002/Timboz_Pony_Full.zip,https://previews.cambridge-mt.com/Pony_Full_Preview.mp3
+Haunted Age,https://mtkdata.cambridgemusictechnology.co.uk/MTK009/Titanium_HauntedAge_Full.zip,https://previews.cambridge-mt.com/HauntedAge_Full_Preview.mp3
+My Father Never Loved Me,https://multitracks.cambridge-mt.com/Trafficker_MyFatherNeverLovedMe_Full.zip,https://previews.cambridge-mt.com/MyFatherNeverLovedMe_Full_Preview.mp3
+Magilla,https://multitracks.cambridge-mt.com/Turbosauro_Magilla_Full.zip,https://previews.cambridge-mt.com/Magilla_Full_Preview.mp3
+Maybe,https://multitracks.cambridge-mt.com/UnicornRodeo_Maybe_Full.zip,https://previews.cambridge-mt.com/Maybe_Full_Preview.mp3
+Aureus Necrosis,https://multitracks.cambridge-mt.com/VMGY_AureusNecrosis_Full.zip,https://previews.cambridge-mt.com/AureusNecrosis_Full_Preview.mp3
+Bloodshed,https://multitracks.cambridge-mt.com/VMGY_Bloodshed_Full.zip,https://previews.cambridge-mt.com/Bloodshed_Full_Preview.mp3
+The Crown,https://multitracks.cambridge-mt.com/VMGY_TheCrown_Full.zip,https://previews.cambridge-mt.com/TheCrown_Full_Preview.mp3
+Equilibrium,https://multitracks.cambridge-mt.com/VMGY_Equilibrium_Full.zip,https://previews.cambridge-mt.com/Equilibrium_Full_Preview.mp3
+Omen,https://multitracks.cambridge-mt.com/VMGY_Omen_Full.zip,https://previews.cambridge-mt.com/Omen_Full_Preview.mp3
+Comfort Lives In Belief,https://mtkdata.cambridgemusictechnology.co.uk/MTK007/Voelund_ComfortLivesInBelief_Full.zip,https://previews.cambridge-mt.com/ComfortLivesInBelief_Full_Preview.mp3
+Femme,https://mtkdata.cambridgemusictechnology.co.uk/MTK009/WallOfDeath_Femme_Full.zip,https://previews.cambridge-mt.com/Femme_Full_Preview.mp3
+Not You,https://mtkdata.cambridgemusictechnology.co.uk/MTK003/MR1105_WeFellFromTheSky_Full.zip,https://previews.cambridge-mt.com/1105_Remix.mp3
+Red On You,https://multitracks.cambridge-mt.com/Wires_RedOnYou_Full.zip,https://previews.cambridge-mt.com/RedOnYou_Full_Preview.mp3
+Blood To Bone,https://mtkdata.cambridgemusictechnology.co.uk/MTK002/YoungGriffo_BloodToBone_Full.zip,https://previews.cambridge-mt.com/BloodToBone_Full_Preview.mp3
+Facade,https://mtkdata.cambridgemusictechnology.co.uk/MTK002/MR1110_YoungGriffo_Full.zip,https://previews.cambridge-mt.com/1110_Remix.mp3
+Pennies,https://mtkdata.cambridgemusictechnology.co.uk/MTK002/YoungGriffo_Pennies_Full.zip,https://previews.cambridge-mt.com/Pennies_Full_Preview.mp3
+Talk To Me Baby,https://mtkdata.cambridgemusictechnology.co.uk/Telefunken/ZaneCarneyAndFriends_TalkToMeBaby_Full.zip,https://previews.cambridge-mt.com/ZaneCarneyAndFriends_TalkToMeBaby_Full.mp3
+Keeps Flowing,https://mtkdata.cambridgemusictechnology.co.uk/MTK005/AdmiralCrumple_KeepsFlowing_Full.zip,https://previews.cambridge-mt.com/KeepsFlowing_Full_Preview.mp3
+Naturally,https://mtkdata.cambridgemusictechnology.co.uk/Telefunken/AllenStone_Naturally_Full.zip,https://previews.cambridge-mt.com/Naturally_Full_Preview.mp3
+Saudade Do Teu Beijo,https://multitracks.cambridge-mt.com/EgdaCarolyn_SaudadeDoTeuBeijo_Full.zip,https://previews.cambridge-mt.com/SaudadeDoTeuBeijo_Full_Preview.mp3
+Slow Down,https://mtkdata.cambridgemusictechnology.co.uk/Telefunken/JessicaChildress_SlowDown_Full.zip,https://previews.cambridge-mt.com/SlowDown_Full_Preview.mp3
+Alone With You,https://multitracks.cambridge-mt.com/JustinMyles_AloneWithYou_Full.zip,https://previews.cambridge-mt.com/AloneWithYou_Full_Preview.mp3
+Animal,https://mtkdata.cambridgemusictechnology.co.uk/MTK016/Kangoro_Animal_Full.zip,https://previews.cambridge-mt.com/Animal_Full_Preview.mp3
+Bitch Is Paranoid,https://mtkdata.cambridgemusictechnology.co.uk/MTK016/Kangoro_BitchIsParanoid_Full.zip,https://previews.cambridge-mt.com/BitchIsParanoid_Full_Preview.mp3
+Clinic A,https://mtkdata.cambridgemusictechnology.co.uk/MTK016/Kangoro_ClinicA_Full.zip,https://previews.cambridge-mt.com/ClinicA_Full_Preview.mp3
+Easy Tiger,https://mtkdata.cambridgemusictechnology.co.uk/MTK016/Kangoro_EasyTiger_Full.zip,https://previews.cambridge-mt.com/EasyTiger_Full_Preview.mp3
+King Rascal,https://mtkdata.cambridgemusictechnology.co.uk/MTK016/Kangoro_KingRascal_Full.zip,https://previews.cambridge-mt.com/KingRascal_Full_Preview.mp3
+Rockshow,https://mtkdata.cambridgemusictechnology.co.uk/MTK016/Kangoro_Rockshow_Full.zip,https://previews.cambridge-mt.com/Rockshow_Full_Preview.mp3
+Window,https://mtkdata.cambridgemusictechnology.co.uk/MTK016/KillaL_Window_Full.zip,https://previews.cambridge-mt.com/Window2_Full_Preview.mp3
+My Own,https://mtkdata.cambridgemusictechnology.co.uk/MTK006/LittleChicagosFinest_MyOwn_Full.zip,https://previews.cambridge-mt.com/MyOwn_Full_Preview.mp3
+Knockout,https://mtkdata.cambridgemusictechnology.co.uk/MTK002/MERCMusic_Knockout_Full.zip,https://previews.cambridge-mt.com/Knockout_Full_Preview.mp3
+Tochka,https://mtkdata.cambridgemusictechnology.co.uk/MTK015/Pepelpovetru_Tochka_Full.zip,https://previews.cambridge-mt.com/Tochka_Full_Preview.mp3
+Back Down,https://multitracks.cambridge-mt.com/RyanCali_BackDown_Full.zip,https://previews.cambridge-mt.com/BackDown_Full_Preview.mp3
+Crazy,https://multitracks.cambridge-mt.com/RyanCali_Crazy_Full.zip,https://previews.cambridge-mt.com/Crazy_Full_Preview.mp3
+Sing With Me,https://mtkdata.cambridgemusictechnology.co.uk/MTK002/MR1002_SideEffectsProject_Full.zip,https://previews.cambridge-mt.com/1002_Remix.mp3
+Foundation,http://www.puremix.net/zelab-mixing-contest/zelab-session-27-stephano-petrocca.html,https://previews.cambridge-mt.com/Foundation_Full_Preview.mp3
+Kane Guru,https://mtkdata.cambridgemusictechnology.co.uk/Telefunken/WestEndBlend_KaneGuru_Full.zip,https://previews.cambridge-mt.com/KaneGuru_Full_Preview.mp3
+Must Be Voodoo,https://mtkdata.cambridgemusictechnology.co.uk/Telefunken/WestEndBlend_MustBeVoodoo_Full.zip,https://previews.cambridge-mt.com/MustBeVoodoo_Full_Preview.mp3
