@@ -7,40 +7,66 @@ if __name__ == "__main__":
     html = requests.get(url=webside)
 
     bf = BeautifulSoup(html.text, "html.parser")
-    texts = bf.find_all('div', class_ = 'm-mtk-track__main')
-
+    genres = bf.find_all('div',class_ = 'c-mtk__genre')
     items = []
-
-    for text in texts:
+    
+    for genre in genres:
         
-        bftext = BeautifulSoup(str(text), "html.parser")
-        name = None
-        mixurl = None
-        fullurl = None
-
-        # get project name
-        contents = bftext.find_all('span', class_ = 'm-mtk-track__name')[0].contents
-        if len(contents) == 1:
-            name = contents[0].strip().strip('\'').replace(',','').replace('\n\'',' ')
-        else:
-            name = contents[1].strip().strip('\'').replace(',','').replace('\n\'',' ')
+        bfgenre = BeautifulSoup(str(genre), "html.parser")
+        track_high_genre = None
+        track_high_genre = bfgenre.h3.string
         
-        # get full track url
-        fulls = bftext.find_all('li', class_ = 'm-mtk-download')
-        for full in fulls:
-            fulltype = full.div.div
-            if fulltype and fulltype.contents[0].startswith("Full"):
-                fullurl = full.find('a')['href']
+        songs = bfgenre.find_all('div',class_ = 'c-mtk__artist m-container m-container--artist')
+        for song in songs:
+            
+            bfsong = BeautifulSoup(str(song), "html.parser")
+            
+            
+            artist_name = None
+            artist_name = bfsong.h4.string
+            track_sub_genre = None
+            track_sub_genre = bfsong.find('span', class_ = 'm-container__title-bar-item').string
 
-        mixeds = bftext.find_all('span', class_ = 'l-nowrap')
-        for mix in mixeds:
-            content = mix.contents[0]
-            if content.startswith("Full"):
-                mixurl = mix.a['href']
+            # one artist may have more than one song
+            texts = bfsong.find_all('div', class_ = 'm-mtk-track__main')
 
-        if name and fullurl and  mixurl:
-            items.append((name, fullurl, mixurl))
-    with open("downloadurls.txt", "w") as f:
+            for text in texts:
+                
+                name = None
+                mixurl = None
+                fullurl = None
+                bftext = BeautifulSoup(str(text), "html.parser")
+
+                # get song name
+                contents = bftext.find_all('span', class_ = 'm-mtk-track__name')[0].contents
+                if len(contents) == 1:
+                    name = contents[0].strip().strip('\'').replace(',','').replace('\n\'',' ')
+                else:
+                    name = contents[1].strip().strip('\'').replace(',','').replace('\n\'',' ')
+
+                
+                # get full track url
+                fulls = bftext.find_all('li', class_ = 'm-mtk-download')
+                for full in fulls:
+                    fulltype = full.div.div
+                    if fulltype and fulltype.contents[0].startswith("Full"):
+                        fullurl = full.find('a')['href']
+                    elif fulltype and fulltype.contents[0].startswith("Edited"):
+                        fullurl = full.find('a')['href']
+
+                mixeds = bftext.find_all('span', class_ = 'l-nowrap')
+                for mix in mixeds:
+                    content = mix.contents[0]
+                    if content.startswith("Full"):
+                        mixurl = mix.a['href']
+                    elif content.startswith("Excerpt"):
+                        mixurl = mix.a['href']
+
+                if name and fullurl and  mixurl and track_high_genre and track_sub_genre and artist_name:
+                    items.append((track_high_genre, track_sub_genre, name, artist_name, fullurl, mixurl))
+    #print(count)
+    print("{} songs in Total".format(len(items)))    
+    with open("downloadurls.txt", "w",encoding = 'utf-8') as f:
         for item in items:
-            f.write("{},{},{}\n".format(item[0], item[1], item[2]))
+            f.write("{},{},{},{},{},{}\n".format(item[0], item[1], item[2], item[3], item[4], item[5]))
         
