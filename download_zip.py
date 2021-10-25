@@ -9,7 +9,7 @@ opener.addheaders = [('User-agent', 'Mozilla/5.0')]
 request.install_opener(opener)
 
 # dataset_location = str(sys.argv[1])
-dataset_location = 'E:'
+dataset_location = 'H:'
 print(dataset_location)
 
 pbar = None
@@ -59,8 +59,8 @@ with open('downloadurls.txt') as f1:
         # create folders 
         if not os.path.exists(dataset_location+'/multitrack_zip/'):
             os.makedirs(dataset_location+'/multitrack_zip/')
-        if not os.path.exists(dataset_location+'/mixture/'):
-            os.makedirs(dataset_location+'/mixture/')
+        # if not os.path.exists(dataset_location+'/mixture/'):
+        #     os.makedirs(dataset_location+'/mixture/')
 
         print(track_name)
         print(multitrack_location)
@@ -76,14 +76,14 @@ with open('downloadurls.txt') as f1:
             else:
                 print(track_name, ' Multitrack already exists.')
                 
-            if i in error_info:
-                print('Downloading mixture of ', track_name)    
-                request.urlretrieve(mixture_url,mixture_location,show_progress)
-            elif not os.path.exists(mixture_location):
-                print('Downloading mixture of ', track_name)    
-                request.urlretrieve(mixture_url,mixture_location,show_progress)
-            else:
-                print(track_name, ' Mixture already exists.')
+            # if i in error_info:
+            #     print('Downloading mixture of ', track_name)    
+            #     request.urlretrieve(mixture_url,mixture_location,show_progress)
+            # elif not os.path.exists(mixture_location):
+            #     print('Downloading mixture of ', track_name)    
+            #     request.urlretrieve(mixture_url,mixture_location,show_progress)
+            # else:
+            #     print(track_name, ' Mixture already exists.')
             
             success_info.append(i)
             
