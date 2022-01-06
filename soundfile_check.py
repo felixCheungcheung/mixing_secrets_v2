@@ -1,45 +1,41 @@
 import os
-import soundfile
-import sox
+import torchaudio
 
-root_path = './dataset/sox_vocal_dataset'
-file_list = []
-error = []
-s_error = []
-count = 0
+if __name__ == "__main__":
+    root_path = 'E:/unzip_multitrack/train'
+    file_list = []
+    error = []
+    s_error = []
+    count = 0
 
-for i,(root,dirs,files) in enumerate(os.walk(root_path)):
+    for i,(root,dirs,files) in enumerate(os.walk(root_path)):
 
-    for file in files:
-        if file.split('.')[-1]=='txt':
-            continue
-        source_path = os.path.join(root,file)
-        try:
-            
-            sample_rate = sox.file_info.sample_rate(source_path)
-            
-            
-            if sample_rate != 44100:
-                # resampling
-                s_error.append(source_path)
-                print('sampling rate error:', source_path)
-                output_path = os.path.join(root,'44k_'+file)
-                tfm = sox.Transformer()
-                tfm.set_output_format(rate=44100)
+        for file in files:
+            if file.split('.')[-1]=='txt':
+                continue
+            source_path = os.path.join(root,file)
+            try:
                 
-                tfm.build_file(input_filepath=source_path,sample_rate_in= sample_rate,output_filepath = output_path)
-                print('Successfully resample: ',output_path)
+                info = torchaudio.info(source_path)
+                
 
-                os.remove(source_path)
-                print("Successfully remove, ", source_path)
+                
+                if ((not info.sample_rate == 44100) or (not info.bits_per_sample ==16) or (not source_path.split('.')[-1]=='wav')):
+                    # resampling
+                    s_error.append(source_path)
+                    print('sampling rate error:', source_path)
+                    output_path = source_path
+                    audio, original_sf = torchaudio.load(source_path,normalize = True)
+                    resampled_audio = torchaudio.transforms.Resample(original_sf, 44100)(audio)
+                    torchaudio.save(filepath=output_path, src=resampled_audio, sample_rate=44100,encoding="PCM_S", bits_per_sample=16)
+                    print('Successfully resample: ',output_path)
 
-                os.rename(output_path,source_path)
-                print("Successfully rename, ", source_path)
-        except sox.core.SoxiError as err:
-            error.append(source_path)
-            print(err)
+
+            except Exception as err:
+                error.append(source_path)
+                print(err)
 
 
-print('sampling rate error:', s_error)
-for e in error:
-    print('soundfile error:', e)
+    print('sampling rate error:', s_error)
+    for e in error:
+        print('soundfile error:', e)

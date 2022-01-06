@@ -66,7 +66,7 @@ if __name__ == "__main__":
                     items.append((track_high_genre, track_sub_genre, name, artist_name, fullurl, mixurl))
     #print(count)
     print("{} songs in Total".format(len(items)))    
-    with open("downloadurls.txt", "w",encoding = 'utf-8') as f:
+    with open("downloadurls.txt", "w",encoding = 'latin-1') as f:
         for item in items:
             f.write("{},{},{},{},{},{}\n".format(item[0], item[1], item[2], item[3], item[4], item[5]))
         
