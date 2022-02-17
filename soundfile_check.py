@@ -1,39 +1,96 @@
 import os
+from numpy import roots
 import torchaudio
+import torch
+import argparse
+from multiprocessing.dummy import Pool as ThreadPool
 
+# python soundfile_check.py -p E:/ms21/train -sr 16000 -bt 16 -m true -pd true
 if __name__ == "__main__":
-    root_path = 'E:/unzip_multitrack/train'
+    parser = argparse.ArgumentParser()
+    parser.add_argument('--path', '-p', type=str, help='Dataset directory')
+    # parser.add_argument('--thread', '-t', type=int, help='number of threads')
+    parser.add_argument('--samplerate', '-sr', type=int, help='Sampling Rates')
+    parser.add_argument('--bitrate', '-bt', type=int, help='Bit Rate')
+    parser.add_argument('--mono', '-m', type=bool, help='Stereo: False, Mono: True')
+    parser.add_argument('--pad', '-pd', type=bool, help='For zero-padding, boolean')
+
+    exp = parser.parse_args()
+    root_path = exp.path
+    sampling_rate = exp.samplerate
+    bit_rate = exp.bitrate
+    Mono = exp.mono
+    zeropad = exp.pad
+    
     file_list = []
     error = []
     s_error = []
     count = 0
 
     for i,(root,dirs,files) in enumerate(os.walk(root_path)):
+        for dir in dirs:
 
-        for file in files:
-            if file.split('.')[-1]=='txt':
-                continue
-            source_path = os.path.join(root,file)
-            try:
-                
+            
+            max_len_multitrack = []
+
+            for file in os.listdir(os.path.join(root,dir)):
+                if file.split('.')[-1] != 'wav' or file.split('.')[0]=='':
+                    continue
+                source_path = os.path.join(root,dir,file)
+
+                    
                 info = torchaudio.info(source_path)
-                
 
                 
-                if ((not info.sample_rate == 44100) or (not info.bits_per_sample ==16) or (not source_path.split('.')[-1]=='wav')):
+                if ((not info.sample_rate == sampling_rate) or (not info.bits_per_sample ==bit_rate) or (not info.num_channels ==1)):
                     # resampling
                     s_error.append(source_path)
                     print('sampling rate error:', source_path)
                     output_path = source_path
                     audio, original_sf = torchaudio.load(source_path,normalize = True)
-                    resampled_audio = torchaudio.transforms.Resample(original_sf, 44100)(audio)
-                    torchaudio.save(filepath=output_path, src=resampled_audio, sample_rate=44100,encoding="PCM_S", bits_per_sample=16)
+                    resampled_audio = torchaudio.transforms.Resample(original_sf, sampling_rate)(audio)
+                    if Mono == True:
+                        resampled_audio = torch.mean(resampled_audio, dim=0, keepdim=True)
+                        print('Successfully monorize: ',output_path)
+                    torchaudio.save(filepath=output_path, src=resampled_audio, sample_rate=sampling_rate,encoding="PCM_S", bits_per_sample=bit_rate)
                     print('Successfully resample: ',output_path)
 
 
-            except Exception as err:
-                error.append(source_path)
-                print(err)
+            # find max len        
+            for file in os.listdir(os.path.join(root,dir)):
+                if file.split('.')[-1] != 'wav' or file.split('.')[0]=='':
+                    continue
+                source_path = os.path.join(root,dir, file)
+                audio, original_sf = torchaudio.load(source_path,normalize = True)
+                max_len_multitrack.append(audio.shape[1])
+
+            # zero padding
+            if zeropad == True:
+                
+                print(dir)
+                for file in os.listdir(os.path.join(root,dir)):
+                    if file.split('.')[-1] != 'wav' or file.split('.')[0]=='':
+                        continue
+                    max_len = max(max_len_multitrack)
+                    # print(max_len)
+                    source_path = os.path.join(root,dir, file)
+                    audio, original_sf = torchaudio.load(source_path,normalize = True)
+                    if audio.shape[1] < max_len:
+                        # print('Start zeropadding')
+                        output_path = source_path
+                        if Mono:
+                            target = torch.zeros(1,max_len)
+                        else:
+                            target = torch.zeros(2,max_len)
+                        source_len = audio.shape[1]
+                        target[:,:source_len] = audio
+                        torchaudio.save(filepath=output_path, src=target, sample_rate=sampling_rate,encoding="PCM_S", bits_per_sample=bit_rate)
+                        print('Successfully zeropad: ',output_path)
+                    elif audio.shape[1] == max_len:
+                        continue
+                    elif audio.shape[1] > max_len:
+                        error.append(source_path)
+            
 
 
     print('sampling rate error:', s_error)
