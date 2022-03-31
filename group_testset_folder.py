@@ -66,6 +66,7 @@ musdb18_test_tracks = [
     'We Fell From The Sky - Not You', 
     'Zeno - Signs']
 
+
 import os
 import shutil
 import pandas as pd
@@ -74,7 +75,7 @@ import argparse
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
     parser.add_argument('--train_path', '-t', type=str, help='Dataset train directory')
-    parser.add_argument('--des_path', '-d', type=str, help='Dataset destination directory')
+    parser.add_argument('--des_path', '-d', type=str, help='subset destination directory')
     
     exp = parser.parse_args()
     root_path = exp.train_path
