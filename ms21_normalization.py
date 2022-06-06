@@ -1,4 +1,4 @@
-import yaml
+# import yaml
 import re
 import os, errno
 import librosa
@@ -23,7 +23,7 @@ def loud_norm(path, output_path):
     # measure the loudness first 
     meter = pyln.Meter(rate) # create BS.1770 meter
     loudness = meter.integrated_loudness(data)
-    loudness_normalized_audio = pyln.normalize.loudness(data, loudness, -20.0) 
+    loudness_normalized_audio = pyln.normalize.loudness(data, loudness, -25.0) 
     sf.write(os.path.join(output_path,dir,file),loudness_normalized_audio, rate)
     print("Normalized ",path)
 
