@@ -1,4 +1,4 @@
-import yaml
+# import yaml
 import re
 import os, errno
 import librosa
@@ -18,24 +18,26 @@ output_path = sys.argv[2] #  '/media/felix/dataset/ms21_norm'
 os.makedirs(output_path,exist_ok=True)
 # print(base_path)
 fail_list = []
-def loud_norm(path, output_path, dir):
+def loud_norm(path, output_path, split, dir, file_name):
     data, rate = sf.read(path) # load audio
     # measure the loudness first 
     meter = pyln.Meter(rate) # create BS.1770 meter
     loudness = meter.integrated_loudness(data)
     loudness_normalized_audio = pyln.normalize.loudness(data, loudness, -25.0) 
-    sf.write(os.path.join(output_path,dir,file),loudness_normalized_audio, rate)
+    sf.write(os.path.join(output_path,split,dir,file_name),loudness_normalized_audio, rate)
     print("Normalized ",path)
 
 for root, dirs, files in os.walk(base_path):
     for file in files:
         if file.endswith('.wav'):
             path = os.path.join(root,file)
+            file_name = file.split('\\')[-1]
             dir = root.split('\\')[-1]
-            print(dir)
-            os.makedirs(os.path.join(output_path,dir),exist_ok=True)
+            split = root.split('\\')[-2]
+            print("dir = ", dir)
+            os.makedirs(os.path.join(output_path,split,dir),exist_ok=True)
             try:
-                loud_norm(path, output_path, dir)
+                loud_norm(path, output_path, split, dir,file_name)
             except:
                 print("something wrong", path)
                 fail_list.append(path)
@@ -43,3 +45,4 @@ for root, dirs, files in os.walk(base_path):
 with os.path.join(output_path,'fail_list.txt','w') as f0:
     for i in fail_list:
         f0.write(i)
+    
