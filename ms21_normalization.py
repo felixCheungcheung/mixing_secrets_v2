@@ -42,7 +42,7 @@ for root, dirs, files in os.walk(base_path):
                 print("something wrong", path)
                 fail_list.append(path)
                 
-with os.path.join(output_path,'fail_list.txt','w') as f0:
+with open(os.path.join(output_path,'fail_list.txt'),'w') as f0:
     for i in fail_list:
         f0.write(i)
     
