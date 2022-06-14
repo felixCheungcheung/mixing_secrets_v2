@@ -9,12 +9,13 @@ import json
 from pydub import AudioSegment
 import pyloudnorm as pyln
 import shutil
+import sys
 
 # Reference: https://github.com/SiddGururani/mixing_secrets/blob/master/generate_yaml.py
 
 
 
-def gen_yaml(anno_file_path, hierarchy_path, directory, base_path, save_path, move_raw = False):
+def gen_yaml(anno_file_path, hierarchy_path, directory, base_path, save_path, move_raw = True):
     csv_anno = pd.read_csv(anno_file_path)
     hierarchy_file = json.load(open(hierarchy_path, 'r'))
     artist, song = directory.split(' - ')
@@ -32,7 +33,8 @@ def gen_yaml(anno_file_path, hierarchy_path, directory, base_path, save_path, mo
     else: 
         yaml_obj['vocal_has_bleed'] = 'yes' # check vocal has bleed or not
 
-    vocal = np.any(track_df.loc["Lead_Vocal":"Backing_Vocal"].values != '[]')
+    vocal = np.any([i != '[]' for i in track_df.T.loc["Lead_Vocal":"Backing_Vocal"].values] )
+
     if vocal:
         yaml_obj['instrumental'] = 'no' 
     else:
@@ -63,7 +65,7 @@ def gen_yaml(anno_file_path, hierarchy_path, directory, base_path, save_path, mo
         make_stem(yaml_obj, os.path.join(save_path, ID, ID+'_STEMS'), os.path.join(base_path, directory), track_df, tracks_name, inst, ID+f'_STEM_{inst}.wav')
 
     # create mix file
-    make_mix(os.path.join(save_path, ID, ID+'_STEMS'), os.path.join(save_path, ID), yaml_obj['mix_filename'])
+    make_mix(yaml_obj, os.path.join(save_path, ID, ID+'_STEMS'), os.path.join(save_path, ID), yaml_obj['mix_filename'])
 
     # Move all raw files to RAW folder. Default False
     if move_raw == True:
@@ -84,6 +86,7 @@ def init_medley_yaml():
     object['has_bleed'] = ''
     object['instrumental'] = ''
     object['mix_filename'] = ''
+    object['mix_integrated_loudness']  = ''
     object['origin'] = ''
     object['producer'] = ''
     object['raw_dir'] = ''
@@ -94,10 +97,11 @@ def init_medley_yaml():
     object['website'] = ''
     object['csv_anno_path'] = ''
     object['hieararchy_file_path'] = ''
+
     return object
     
 
-def make_mix(stems_path, directory_path, file_name):
+def make_mix(obj,stems_path, directory_path, file_name):
     # get all stem tracks
     tracks = [os.path.join(stems_path, i) for i in os.listdir(stems_path)]
     # print(tracks)
@@ -116,7 +120,8 @@ def make_mix(stems_path, directory_path, file_name):
         elif l < l_add:
             y = np.pad(y, (0, l_add - l), 'constant')
         y += y_add
-    y = loudness_normalization(y, sr, -16.0)
+    y, loudness = loudness_normalization(y, sr, -20)
+    obj['mix_integrated_loudness'] = f'{loudness:.4f}' + ' LUFS'
     path_to_write = os.path.join(directory_path, file_name)
     sf.write(path_to_write, y, sr)
     
@@ -169,7 +174,8 @@ def make_stem(obj, stems_path, directory_path, track_df, inst_names, stem_inst_n
         elif l < l_add:
             y = np.pad(y, (0, l_add - l), 'constant')
         y += y_add
-    y = loudness_normalization(y, sr, -20)
+    y, loudness = loudness_normalization(y, sr, -20)
+    obj['stems']['S'+count]['integrated_loudness'] = f'{loudness:.4f}' + ' LUFS'
     path_to_write = os.path.join(stems_path, file_name)
     sf.write(path_to_write, y, sr)
     
@@ -236,20 +242,17 @@ def loudness_normalization(data, rate, target_loudness=-20.0):
     # measure the loudness first 
     meter = pyln.Meter(rate) # create BS.1770 meter
     loudness = meter.integrated_loudness(data)
-    # loudness normalize audio to -12 dB LUFS
     loudness_normalized_audio = pyln.normalize.loudness(data, loudness, target_loudness)
-    return loudness_normalized_audio
+    return loudness_normalized_audio, meter.integrated_loudness(loudness_normalized_audio)
 
-base_path = sys.argv[1] # '/media/felix/dataset/ms21' 
+base_path = sys.argv[1] # '/media/felix/dataset/ms21/train' need to contain the subfolder
 
-output_path = sys.argv[2] #  '/media/felix/dataset/ms21_norm'
+output_path = sys.argv[2] #  '/media/felix/dataset/ms21_DB
 # print(output_path)
 os.makedirs(output_path,exist_ok=True)
 
-save_path = 'D:\\smc_master_thesis_2021\\mixing_secrets\\Medley_Format\\mstest_pyloudnorm' # Path to MedleyDB Audio Directory
-anno_file_path = 'D:\\smc_master_thesis_2021\\HMIS\\paper_experiments\\felix_ms21_trial\\mixing_secret_dataset_final_name.csv'
-hierarchy_path = 'D:\\smc_master_thesis_2021\\mixing_secrets\\hierarchy.json'
+anno_file_path = './mixing_secret_dataset_final_name.csv'
+hierarchy_path = './hierarchy.json'
 
 for i, directory in enumerate(os.listdir(base_path)):
-    print(i, directory)
-    gen_yaml(anno_file_path, hierarchy_path, directory, base_path, save_path, move_raw = True)
+    gen_yaml(anno_file_path, hierarchy_path, directory, base_path, output_path, move_raw = True)
