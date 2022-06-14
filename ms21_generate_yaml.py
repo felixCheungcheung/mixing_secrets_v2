@@ -1,4 +1,4 @@
-from matplotlib.pyplot import stem
+
 import yaml
 import re
 import os, errno
