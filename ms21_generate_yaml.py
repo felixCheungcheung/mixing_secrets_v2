@@ -1,3 +1,4 @@
+from matplotlib.pyplot import stem
 import yaml
 import re
 import os, errno
@@ -47,6 +48,8 @@ def gen_yaml(anno_file_path, hierarchy_path, directory, base_path, save_path, mo
     make_dir(os.path.join(save_path, ID))
     make_dir(os.path.join(save_path, ID, ID+'_RAW'))
     make_dir(os.path.join(save_path, ID, ID+'_STEMS'))
+    make_dir(os.path.join(save_path, ID, ID+'_STEMS', 'Inst'))
+    make_dir(os.path.join(save_path, ID, ID+'_STEMS', 'MUSDB'))
     # if os.path.isfile(os.path.join(save_path, ID, ID+'_METADATA.yaml')):
     #     # Write code here to fix the drum tracks by adding the room mic to the drum stem.
     #     print('Metadata exists')
@@ -62,10 +65,12 @@ def gen_yaml(anno_file_path, hierarchy_path, directory, base_path, save_path, mo
 
     for inst, tracks_name in hierarchy_file["mix"]["track2inst"].items():
         # print(inst, tracks_name)
-        make_stem(yaml_obj, os.path.join(save_path, ID, ID+'_STEMS'), os.path.join(base_path, directory), track_df, tracks_name, inst, ID+f'_STEM_{inst}.wav')
-
+        make_stem(yaml_obj, os.path.join(save_path, ID, ID+'_STEMS', 'Inst'), os.path.join(base_path, directory), track_df, tracks_name, inst, ID+f'_STEM_Inst_{inst}.wav')
+    for stem, inst_name in hierarchy_file["mix"]["inst2stem"].items():
+        # print(inst, tracks_name)
+        make_stem(yaml_obj, os.path.join(save_path, ID, ID+'_STEMS', 'MUSDB'), os.path.join(save_path, ID, ID+'_STEMS', 'Inst'), track_df, inst_name, stem, ID+f'_STEM_MUSDB_{stem}.wav')
     # create mix file
-    make_mix(yaml_obj, os.path.join(save_path, ID, ID+'_STEMS'), os.path.join(save_path, ID), yaml_obj['mix_filename'])
+    make_mix(yaml_obj, os.path.join(save_path, ID, ID+'_STEMS', 'Inst'), os.path.join(save_path, ID), yaml_obj['mix_filename'])
 
     # Move all raw files to RAW folder. Default False
     if move_raw == True:
@@ -91,7 +96,8 @@ def init_medley_yaml():
     object['producer'] = ''
     object['raw_dir'] = ''
     object['stem_dir'] = ''
-    object['stems'] = {}
+    object['stems_Inst'] = {}
+    object['stems_MUSDB'] = {}
     object['title'] = ''
     object['version'] = ''
     object['website'] = ''
@@ -129,40 +135,68 @@ def make_mix(obj,stems_path, directory_path, file_name):
 
 def make_stem(obj, stems_path, directory_path, track_df, inst_names, stem_inst_name, file_name):
     tracks = []
-    # Add stem to yaml object
-    count = len(obj['stems'])
-    if count+1 < 10:
-        count = '0'+str(count+1)
+    if 'MUSDB' in stems_path:
+        # Add stem to yaml object
+        count = len(obj['stems_MUSDB'])
+        if count+1 < 10:
+            count = '0'+str(count+1)
+        else:
+            count = str(count+1)
+        obj['stems_MUSDB']['S'+count] = {}
+        obj['stems_MUSDB']['S'+count]['component'] = ''
+        obj['stems_MUSDB']['S'+count]['filename'] = file_name
+        obj['stems_MUSDB']['S'+count]['instrument'] = stem_inst_name
+        obj['stems_MUSDB']['S'+count]['raw'] = {}
+        for i, name in enumerate(inst_names):
+            for wav in os.listdir(directory_path):
+                if name in wav:
+                    tracks.append(os.path.join(directory_path, wav))
+                    if i < 10:
+                        raw_count = '0'+str(i+1)
+                    else:
+                        raw_count = str(i+1)
+                    obj['stems_MUSDB']['S'+count]['raw']['R'+raw_count] = {}
+                    obj['stems_MUSDB']['S'+count]['raw']['R'+raw_count]['filename'] = wav
+                    obj['stems_MUSDB']['S'+count]['raw']['R'+raw_count]['instrument'] = name
+        if len(tracks) == 0:
+            print('Empty track list sent for stem creation')
+            # delete the empty stem dict
+            obj['stems_MUSDB'].pop('S'+count)
+            return               
     else:
-        count = str(count+1)
-    obj['stems']['S'+count] = {}
-    obj['stems']['S'+count]['component'] = ''
-    obj['stems']['S'+count]['filename'] = file_name
-    obj['stems']['S'+count]['instrument'] = stem_inst_name
-    obj['stems']['S'+count]['raw'] = {}
+                # Add stem to yaml object
+        count = len(obj['stems_Inst'])
+        if count+1 < 10:
+            count = '0'+str(count+1)
+        else:
+            count = str(count+1)
+        obj['stems_Inst']['S'+count] = {}
+        obj['stems_Inst']['S'+count]['component'] = ''
+        obj['stems_Inst']['S'+count]['filename'] = file_name
+        obj['stems_Inst']['S'+count]['instrument'] = stem_inst_name
+        obj['stems_Inst']['S'+count]['raw'] = {}
+        for idx, name in enumerate(inst_names):
+            wav_lists = track_df[name].tolist()[0]
+            if wav_lists == '[]':
+                continue
+            for i, wav in enumerate(wav_lists.strip('[]').split(', ')):
+                wav = wav.strip("'")
+                if i < 10:
+                    raw_count = '0'+str(i+1)
+                else:
+                    raw_count = str(i+1)
+                obj['stems_Inst']['S'+count]['raw']['R'+raw_count] = {}
+                obj['stems_Inst']['S'+count]['raw']['R'+raw_count]['filename'] = wav
+                obj['stems_Inst']['S'+count]['raw']['R'+raw_count]['instrument'] = name
+            
+                tracks.append(os.path.join(directory_path, wav))
 
-    for idx, name in enumerate(inst_names):
-        wav_lists = track_df[name].tolist()[0]
-        if wav_lists == '[]':
-            continue
-        for i, wav in enumerate(wav_lists.strip('[]').split(', ')):
-            wav = wav.strip("'")
-            if i < 10:
-                raw_count = '0'+str(i+1)
-            else:
-                raw_count = str(i+1)
-            obj['stems']['S'+count]['raw']['R'+raw_count] = {}
-            obj['stems']['S'+count]['raw']['R'+raw_count]['filename'] = wav
-            obj['stems']['S'+count]['raw']['R'+raw_count]['instrument'] = name
+        if len(tracks) == 0:
+            print('Empty track list sent for stem creation')
+            # delete the empty stem dict
+            obj['stems_Inst'].pop('S'+count)
+            return
         
-            tracks.append(os.path.join(directory_path, wav))
-    
-    if len(tracks) == 0:
-        print('Empty track list sent for stem creation')
-        # delete the empty stem dict
-        obj['stems'].pop('S'+count)
-        return
-    
 
     y, sr = librosa.load(tracks[0], sr=None)
     for i in range(len(tracks) - 1):
@@ -175,7 +209,10 @@ def make_stem(obj, stems_path, directory_path, track_df, inst_names, stem_inst_n
             y = np.pad(y, (0, l_add - l), 'constant')
         y += y_add
     y, loudness = loudness_normalization(y, sr, -20)
-    obj['stems']['S'+count]['integrated_loudness'] = f'{loudness:.4f}' + ' LUFS'
+    if 'MUSDB' in stems_path:
+        obj['stems_MUSDB']['S'+count]['integrated_loudness'] = f'{loudness:.4f}' + ' LUFS'
+    else:
+        obj['stems_Inst']['S'+count]['integrated_loudness'] = f'{loudness:.4f}' + ' LUFS'
     path_to_write = os.path.join(stems_path, file_name)
     sf.write(path_to_write, y, sr)
     
@@ -255,4 +292,4 @@ anno_file_path = './mixing_secret_dataset_final_name.csv'
 hierarchy_path = './hierarchy.json'
 
 for i, directory in enumerate(os.listdir(base_path)):
-    gen_yaml(anno_file_path, hierarchy_path, directory, base_path, output_path, move_raw = True)
+    gen_yaml(anno_file_path, hierarchy_path, directory, base_path, output_path, move_raw = False)
