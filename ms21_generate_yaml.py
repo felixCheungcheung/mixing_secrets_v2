@@ -126,7 +126,7 @@ def make_mix(obj,stems_path, directory_path, file_name):
         elif l < l_add:
             y = np.pad(y, (0, l_add - l), 'constant')
         y += y_add
-    y, loudness = loudness_normalization(y, sr, -20)
+    y, loudness = loudness_normalization(y, sr, 'mix', -20)
     obj['mix_integrated_loudness'] = f'{loudness:.4f}' + ' LUFS'
     path_to_write = os.path.join(directory_path, file_name)
     sf.write(path_to_write, y, sr)
@@ -208,7 +208,7 @@ def make_stem(obj, stems_path, directory_path, track_df, inst_names, stem_inst_n
         elif l < l_add:
             y = np.pad(y, (0, l_add - l), 'constant')
         y += y_add
-    y, loudness = loudness_normalization(y, sr, -20)
+    y, loudness = loudness_normalization(y, sr, stem_inst_name, -20)
     if 'MUSDB' in stems_path:
         obj['stems_MUSDB']['S'+count]['integrated_loudness'] = f'{loudness:.4f}' + ' LUFS'
     else:
@@ -273,14 +273,20 @@ def match_target_amplitude(root, file, output_path, target_dBFS=-20):
         audio.export(os.path.join(output_path,dir,file), format="wav")
         print("Suceessfully normalized ", file)
 
-def loudness_normalization(data, rate, target_loudness=-20.0):
-    # peak normalize audio to -1 dB
-    peak_normalized_audio = pyln.normalize.peak(data, -1.0)
-    # measure the loudness first 
-    meter = pyln.Meter(rate) # create BS.1770 meter
-    loudness = meter.integrated_loudness(data)
-    loudness_normalized_audio = pyln.normalize.loudness(data, loudness, target_loudness)
-    return loudness_normalized_audio, meter.integrated_loudness(loudness_normalized_audio)
+def loudness_normalization(data, rate, stem_inst_name, target_loudness=-20.0):
+
+    if stem_inst_name in ['percussion', 'nontonal_percussion', 'drum_set']:
+        # peak normalize audio to -1 dB
+        normalized_audio = pyln.normalize.peak(data, -1.0)
+        meter = pyln.Meter(rate) # create BS.1770 meter
+        return normalized_audio, meter.integrated_loudness(normalized_audio)
+    else:
+        # measure the loudness first 
+        meter = pyln.Meter(rate) # create BS.1770 meter
+        loudness = meter.integrated_loudness(data)
+        normalized_audio = pyln.normalize.loudness(data, loudness, target_loudness)
+        return normalized_audio, meter.integrated_loudness(normalized_audio)
+    
 
 base_path = sys.argv[1] # '/media/felix/dataset/ms21/train' need to contain the subfolder
 
