@@ -1,5 +1,5 @@
 # This script is to make the 44.1kHz ms21 dataset share the same dataset split with the 16kHz version
-from msilib.schema import FileSFPCatalog
+
 import os
 import sys
 from typing import List
