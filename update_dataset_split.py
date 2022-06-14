@@ -28,9 +28,9 @@ def show(list):
     for i in list:
         print(i)
 
-# for key, val in dataframe.items():
-#     print(key, '*'*50)
-#     show(val)
+for key, val in dataframe.items():
+    print(key, '*'*50)
+    show(val)
 
 print(list(set(dataframe['test']).intersection(dataframe['train'])))
 show(list(set(dataframe['val']).intersection(dataframe['train'])))
