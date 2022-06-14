@@ -28,9 +28,9 @@ def show(list):
     for i in list:
         print(i)
 
-for key, val in dataframe.items():
-    print(key, '*'*50)
-    show(val)
+# for key, val in dataframe.items():
+#     print(key, '*'*50)
+#     show(val)
 
 print(list(set(dataframe['test']).intersection(dataframe['train'])))
 show(list(set(dataframe['val']).intersection(dataframe['train'])))
@@ -41,3 +41,6 @@ def get_artist(list):
 print(list(set(get_artist(dataframe['test'])).intersection(get_artist(dataframe['train']))))
 print(list(set(get_artist(dataframe['val'])).intersection(get_artist(dataframe['train']))))
 print(list(set(get_artist(dataframe['val'])).intersection(get_artist(dataframe['test']))))
+
+# server_frame = pd.read_excel("D:\smc_master_thesis_2021\MTG_2021_MASTER_THESIS\ms21_dataset_split.xlsx")
+# print(list(set(dataframe['train']).difference(server_frame['train'])))
