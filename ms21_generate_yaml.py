@@ -70,7 +70,7 @@ def gen_yaml(anno_file_path, hierarchy_path, directory, base_path, save_path, mo
         # print(inst, tracks_name)
         make_stem(yaml_obj, os.path.join(save_path, ID, ID+'_STEMS', 'MUSDB'), os.path.join(save_path, ID, ID+'_STEMS', 'Inst'), track_df, inst_name, stem, ID+f'_STEM_MUSDB_{stem}.wav')
     # create mix file
-    make_mix(yaml_obj, os.path.join(save_path, ID, ID+'_STEMS', 'Inst'), os.path.join(save_path, ID), yaml_obj['mix_filename'])
+    make_mix(yaml_obj, os.path.join(save_path, ID, ID+'_STEMS', 'MUSDB'), os.path.join(save_path, ID), yaml_obj['mix_filename'])
 
     # Move all raw files to RAW folder. Default False
     if move_raw == True:
@@ -126,8 +126,8 @@ def make_mix(obj,stems_path, directory_path, file_name):
         elif l < l_add:
             y = np.pad(y, (0, l_add - l), 'constant')
         y += y_add
-    y, loudness = loudness_normalization(y, sr, 'mix', -20)
-    obj['mix_integrated_loudness'] = f'{loudness:.4f}' + ' LUFS'
+    y, loudness, types = loudness_normalization(y, sr, 'mix', -25)
+    obj['mix_loudness'] = types + f'{loudness:.4f}' + ' LUFS'
     path_to_write = os.path.join(directory_path, file_name)
     sf.write(path_to_write, y, sr)
     
@@ -149,7 +149,9 @@ def make_stem(obj, stems_path, directory_path, track_df, inst_names, stem_inst_n
         obj['stems_MUSDB']['S'+count]['raw'] = {}
         for i, name in enumerate(inst_names):
             for wav in os.listdir(directory_path):
-                if name in wav:
+                # print(f"name: {name}; wav: {wav}")
+                if wav.split('_Inst_')[-1]  == name + '.wav':
+                    # print(f"adding {wav} into stem {stem_inst_name}")
                     tracks.append(os.path.join(directory_path, wav))
                     if i < 10:
                         raw_count = '0'+str(i+1)
@@ -208,11 +210,11 @@ def make_stem(obj, stems_path, directory_path, track_df, inst_names, stem_inst_n
         elif l < l_add:
             y = np.pad(y, (0, l_add - l), 'constant')
         y += y_add
-    y, loudness = loudness_normalization(y, sr, stem_inst_name, -20)
+    y, loudness, types = loudness_normalization(y, sr, stem_inst_name, -25)
     if 'MUSDB' in stems_path:
-        obj['stems_MUSDB']['S'+count]['integrated_loudness'] = f'{loudness:.4f}' + ' LUFS'
+        obj['stems_MUSDB']['S'+count]['loudness'] = types + f'{loudness:.4f}' + ' LUFS'
     else:
-        obj['stems_Inst']['S'+count]['integrated_loudness'] = f'{loudness:.4f}' + ' LUFS'
+        obj['stems_Inst']['S'+count]['loudness'] =types + f'{loudness:.4f}' + ' LUFS'
     path_to_write = os.path.join(stems_path, file_name)
     sf.write(path_to_write, y, sr)
     
@@ -275,17 +277,17 @@ def match_target_amplitude(root, file, output_path, target_dBFS=-20):
 
 def loudness_normalization(data, rate, stem_inst_name, target_loudness=-20.0):
 
-    if stem_inst_name in ['percussion', 'nontonal_percussion', 'drum_set']:
+    if stem_inst_name in ['nontonal_percussion', 'drum_set']:
         # peak normalize audio to -1 dB
         normalized_audio = pyln.normalize.peak(data, -1.0)
         meter = pyln.Meter(rate) # create BS.1770 meter
-        return normalized_audio, meter.integrated_loudness(normalized_audio)
+        return normalized_audio, meter.integrated_loudness(normalized_audio), 'PEAK'
     else:
         # measure the loudness first 
         meter = pyln.Meter(rate) # create BS.1770 meter
         loudness = meter.integrated_loudness(data)
         normalized_audio = pyln.normalize.loudness(data, loudness, target_loudness)
-        return normalized_audio, meter.integrated_loudness(normalized_audio)
+        return normalized_audio, meter.integrated_loudness(normalized_audio), 'INTEGRATED'
     
 
 base_path = sys.argv[1] # '/media/felix/dataset/ms21/train' need to contain the subfolder
@@ -298,4 +300,4 @@ anno_file_path = './mixing_secret_dataset_final_name.csv'
 hierarchy_path = './hierarchy.json'
 
 for i, directory in enumerate(os.listdir(base_path)):
-    gen_yaml(anno_file_path, hierarchy_path, directory, base_path, output_path, move_raw = False)
+    gen_yaml(anno_file_path, hierarchy_path, directory, base_path, output_path, move_raw = True)
