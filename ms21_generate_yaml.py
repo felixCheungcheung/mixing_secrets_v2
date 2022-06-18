@@ -1,4 +1,5 @@
-
+from multiprocessing import Process
+from multiprocessing.dummy import Pool as ThreadPool
 import yaml
 import re
 import os, errno
@@ -14,22 +15,31 @@ import sys
 
 # Reference: https://github.com/SiddGururani/mixing_secrets/blob/master/generate_yaml.py
 
+base_path = sys.argv[1] # '/media/felix/dataset/ms21/train' need to contain the subfolder
+
+save_path = sys.argv[2] #  '/media/felix/dataset/ms21_DB
+# print(output_path)
+os.makedirs(save_path,exist_ok=True)
+
+anno_file_path = './mixing_secret_dataset_final_name.csv'
+hierarchy_path = './hierarchy.json'
 
 
-def gen_yaml(anno_file_path, hierarchy_path, directory, base_path, save_path, move_raw = True):
+def gen_yaml(directory, move_raw = True):
     csv_anno = pd.read_csv(anno_file_path)
     hierarchy_file = json.load(open(hierarchy_path, 'r'))
-    artist, song = directory.split(' - ')
-    ID = '_'.join([artist, song])
     
     track_df = csv_anno.loc[csv_anno['Music_Title']==directory]
+    artist = track_df['Artist'].values[0]
+    song = track_df['Track_Name'].values[0]
+    ID = '_'.join([artist, song])
     yaml_obj = init_medley_yaml()
     yaml_obj['csv_anno_path'] = anno_file_path
     yaml_obj['hieararchy_file_path'] = hierarchy_path
     yaml_obj['artist'] = artist
     yaml_obj['genre'] = track_df['Sub_Genre'].values[0]
     yaml_obj['title'] = song
-    if np.any(track_df["Vocal_Quality"]) == True :
+    if track_df["Vocal_Quality"].values[0] == 1 :
         yaml_obj['vocal_has_bleed'] = 'no'  
     else: 
         yaml_obj['vocal_has_bleed'] = 'yes' # check vocal has bleed or not
@@ -161,7 +171,7 @@ def make_stem(obj, stems_path, directory_path, track_df, inst_names, stem_inst_n
                     obj['stems_MUSDB']['S'+count]['raw']['R'+raw_count]['filename'] = wav
                     obj['stems_MUSDB']['S'+count]['raw']['R'+raw_count]['instrument'] = name
         if len(tracks) == 0:
-            print('Empty track list sent for stem creation')
+            # print('Empty track list sent for stem creation')
             # delete the empty stem dict
             obj['stems_MUSDB'].pop('S'+count)
             return               
@@ -194,7 +204,7 @@ def make_stem(obj, stems_path, directory_path, track_df, inst_names, stem_inst_n
                 tracks.append(os.path.join(directory_path, wav))
 
         if len(tracks) == 0:
-            print('Empty track list sent for stem creation')
+            # print('Empty track list sent for stem creation')
             # delete the empty stem dict
             obj['stems_Inst'].pop('S'+count)
             return
@@ -290,14 +300,9 @@ def loudness_normalization(data, rate, stem_inst_name, target_loudness=-20.0):
         return normalized_audio, meter.integrated_loudness(normalized_audio), 'INTEGRATED'
     
 
-base_path = sys.argv[1] # '/media/felix/dataset/ms21/train' need to contain the subfolder
 
-output_path = sys.argv[2] #  '/media/felix/dataset/ms21_DB
-# print(output_path)
-os.makedirs(output_path,exist_ok=True)
+pool = ThreadPool(8)
+arg_list = []
 
-anno_file_path = './mixing_secret_dataset_final_name.csv'
-hierarchy_path = './hierarchy.json'
-
-for i, directory in enumerate(os.listdir(base_path)):
-    gen_yaml(anno_file_path, hierarchy_path, directory, base_path, output_path, move_raw = True)
+with pool:
+    pool.map(gen_yaml, [i for i in os.listdir(base_path)])
