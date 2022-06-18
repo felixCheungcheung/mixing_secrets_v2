@@ -304,6 +304,8 @@ hierarchy_path = './hierarchy.json'
 pool = ThreadPool(int(sys.argv[3]))
 arg_list = []
 for split in os.listdir(root_path):
+    if split == 'temp':
+        continue
     base_path = os.path.join(root_path, split)
     save_path = os.path.join(out_path,split)
     os.makedirs(save_path, exist_ok=True)
