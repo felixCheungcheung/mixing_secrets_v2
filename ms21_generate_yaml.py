@@ -32,7 +32,7 @@ def gen_yaml(directory, move_raw = True):
     track_df = csv_anno.loc[csv_anno['Music_Title']==directory]
     artist = track_df['Artist'].values[0]
     song = track_df['Track_Name'].values[0]
-    ID = '_'.join([artist, song])
+    ID = directory
     yaml_obj = init_medley_yaml()
     yaml_obj['csv_anno_path'] = anno_file_path
     yaml_obj['hieararchy_file_path'] = hierarchy_path
