@@ -301,7 +301,7 @@ hierarchy_path = './hierarchy.json'
 
 
 
-pool = ThreadPool(sys.argv[3])
+pool = ThreadPool(int(sys.argv[3]))
 arg_list = []
 for split in os.listdir(root_path):
     base_path = os.path.join(root_path, split)
