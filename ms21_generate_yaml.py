@@ -15,15 +15,6 @@ import sys
 
 # Reference: https://github.com/SiddGururani/mixing_secrets/blob/master/generate_yaml.py
 
-base_path = sys.argv[1] # '/media/felix/dataset/ms21/train' need to contain the subfolder
-
-save_path = sys.argv[2] #  '/media/felix/dataset/ms21_DB
-# print(output_path)
-os.makedirs(save_path,exist_ok=True)
-
-anno_file_path = './mixing_secret_dataset_final_name.csv'
-hierarchy_path = './hierarchy.json'
-
 
 def gen_yaml(directory, move_raw = True):
     csv_anno = pd.read_csv(anno_file_path)
@@ -137,7 +128,7 @@ def make_mix(obj,stems_path, directory_path, file_name):
             y = np.pad(y, (0, l_add - l), 'constant')
         y += y_add
     y, loudness, types = loudness_normalization(y, sr, 'mix', -25)
-    obj['mix_loudness'] = types + f'{loudness:.4f}' + ' LUFS'
+    obj['mix_integrated_loudness'] = types + f'{loudness:.4f}' + ' LUFS'
     path_to_write = os.path.join(directory_path, file_name)
     sf.write(path_to_write, y, sr)
     
@@ -299,10 +290,22 @@ def loudness_normalization(data, rate, stem_inst_name, target_loudness=-20.0):
         normalized_audio = pyln.normalize.loudness(data, loudness, target_loudness)
         return normalized_audio, meter.integrated_loudness(normalized_audio), 'INTEGRATED'
     
+root_path = sys.argv[1] # '/media/felix/dataset/ms21/train' need to contain the subfolder
+
+out_path = sys.argv[2] #  '/media/felix/dataset/ms21_DB
+# print(output_path)
+os.makedirs(out_path,exist_ok=True)
+
+anno_file_path = './mixing_secret_dataset_final_name.csv'
+hierarchy_path = './hierarchy.json'
 
 
-pool = ThreadPool(8)
+
+pool = ThreadPool(4)
 arg_list = []
-
-with pool:
-    pool.map(gen_yaml, [i for i in os.listdir(base_path)])
+for split in os.listdir(root_path):
+    base_path = os.path.join(root_path, split)
+    save_path = os.path.join(out_path,split)
+    os.makedirs(save_path, exist_ok=True)
+    with pool:
+        pool.map(gen_yaml, [i for i in os.listdir(base_path)])
