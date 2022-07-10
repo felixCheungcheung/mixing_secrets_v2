@@ -15,7 +15,7 @@ if __name__ == "__main__":
         for track in os.listdir('/home/data/ms21_DB/test'):
             hq_track = track.split(' - ')[-1].replace(' ', '_')
             if os.path.exists(os.path.join(root_path,hq_track)):
-                shutil.copy(os.path.join(root_path,hq_track),os.path.join(des,track))
+                shutil.copytree(os.path.join(root_path,hq_track),os.path.join(des,track))
                 print("Successfully find ", track)
             else:
                 print("error finding ", track)
@@ -24,7 +24,7 @@ if __name__ == "__main__":
         for track in os.listdir('/home/data/ms21_DB/val'):
             hq_track = track.split(' - ')[-1].replace(' ', '_')
             if os.path.exists(os.path.join(root_path,hq_track)):
-                shutil.copy(os.path.join(root_path,hq_track),os.path.join(des,track))
+                shutil.copytree(os.path.join(root_path,hq_track),os.path.join(des,track))
                 print("Successfully find ", track)
             else:
                 print("error finding ", track)
@@ -32,7 +32,7 @@ if __name__ == "__main__":
         for track in os.listdir('/home/data/ms21_DB/train'):
             hq_track = track.split(' - ')[-1].replace(' ', '_')
             if os.path.exists(os.path.join(root_path,hq_track)):
-                shutil.copy(os.path.join(root_path,hq_track),os.path.join(des,track))
+                shutil.copytree(os.path.join(root_path,hq_track),os.path.join(des,track))
                 print("Successfully find ", track)
             else:
                 print("error finding ", track)
