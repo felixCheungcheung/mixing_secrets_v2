@@ -12,8 +12,8 @@ if __name__ == "__main__":
     # parser.add_argument('--thread', '-t', type=int, help='number of threads')
     parser.add_argument('--samplerate', '-sr', type=int, help='Sampling Rates')
     parser.add_argument('--bitrate', '-bt', type=int, help='Bit Rate')
-    parser.add_argument('--mono', '-m', type=bool, help='Stereo: False, Mono: True')
-    parser.add_argument('--pad', '-pd', type=bool, help='For zero-padding, boolean')
+    parser.add_argument('--mono', '-m', action='store_true', help='Stereo: False, Mono: True')
+    parser.add_argument('--pad', '-pd', action='store_true', help='For zero-padding, boolean')
 
     exp = parser.parse_args()
     root_path = exp.path
