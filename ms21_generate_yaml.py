@@ -117,15 +117,22 @@ def make_mix(obj,stems_path, directory_path, file_name):
         print('Empty track list sent for mix creation')
         return
 
-    y, sr = librosa.load(tracks[0], sr=None)
+    y, sr = sf.read(tracks[0], always_2d=True)
+    
+    if y.shape[1] != 2:
+        y = np.repeat(y,2, axis=1)
+
     for i in range(len(tracks) - 1):
-        y_add = librosa.load(tracks[i+1], sr=None)[0]
-        l = len(y)
-        l_add = len(y_add)
-        if l > l_add:
-            y_add = np.pad(y_add, (0, l - l_add), 'constant')
-        elif l < l_add:
-            y = np.pad(y, (0, l_add - l), 'constant')
+        y_add = sf.read(tracks[i+1], always_2d=True)[0]
+        if y_add.shape[1] != 2:
+            y_add = np.repeat(y_add, 2, axis=1)
+
+        # l = y.shape[1]
+        # l_add = y_add.shape[1]
+        # if l > l_add:
+        #     y_add = np.pad(y_add, (0, l - l_add), 'constant')
+        # elif l < l_add:
+        #     y = np.pad(y, (0, l_add - l), 'constant')
         y += y_add
     y, loudness, types = loudness_normalization(y, sr, 'mix', -25)
     obj['mix_integrated_loudness'] = types + f'{loudness:.4f}' + ' LUFS'
@@ -201,15 +208,22 @@ def make_stem(obj, stems_path, directory_path, track_df, inst_names, stem_inst_n
             return
         
 
-    y, sr = librosa.load(tracks[0], sr=None)
+    y, sr = sf.read(tracks[0], always_2d=True)
+    
+    if y.shape[1] != 2:
+        y = np.repeat(y,2, axis=1)
+
     for i in range(len(tracks) - 1):
-        y_add = librosa.load(tracks[i+1], sr=None)[0]
-        l = len(y)
-        l_add = len(y_add)
-        if l > l_add:
-            y_add = np.pad(y_add, (0, l - l_add), 'constant')
-        elif l < l_add:
-            y = np.pad(y, (0, l_add - l), 'constant')
+        y_add = sf.read(tracks[i+1], always_2d=True)[0]
+        if y_add.shape[1] != 2:
+            y_add = np.repeat(y_add, 2, axis=1)
+
+        # l = y.shape[1]
+        # l_add = y_add.shape[1]
+        # if l > l_add:
+        #     y_add = np.pad(y_add, (0, l - l_add), 'constant')
+        # elif l < l_add:
+        #     y = np.pad(y, (0, l_add - l), 'constant')
         y += y_add
     y, loudness, types = loudness_normalization(y, sr, stem_inst_name, -25)
     if 'MUSDB' in stems_path:
