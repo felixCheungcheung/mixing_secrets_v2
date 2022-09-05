@@ -44,5 +44,5 @@ for root, dirs, files in os.walk(base_path):
                 
 with open(os.path.join(output_path,'fail_list.txt'),'w') as f0:
     for i in fail_list:
-        f0.write(i)
+        f0.write(i + '\n')
     

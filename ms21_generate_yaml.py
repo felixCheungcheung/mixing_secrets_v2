@@ -318,7 +318,7 @@ hierarchy_path = './hierarchy.json'
 threads = int(sys.argv[3])
 arg_list = []
 for split in os.listdir(root_path):
-    if split not in ['test','val']:
+    if split not in ['test','val']: # modified to quick evaluate the dataset
         continue
     pool = ThreadPool(threads)
     base_path = os.path.join(root_path, split)
