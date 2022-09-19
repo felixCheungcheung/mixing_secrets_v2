@@ -326,7 +326,7 @@ for split in os.listdir(root_path):
     os.makedirs(save_path, exist_ok=True)
     residual_path_list = []
     for i in os.listdir(base_path):
-        if os.path.exists(os.path.join(save_path,i,i+'_MIX.wav')):
+        if not os.path.exists(os.path.join(save_path,i,i+'_MIX.wav')):
             residual_path_list.append(i)
     print(len(residual_path_list))
     with pool:
