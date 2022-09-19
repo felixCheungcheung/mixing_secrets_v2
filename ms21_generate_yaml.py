@@ -19,7 +19,7 @@ import sys
 def gen_yaml(directory, move_raw = True):
     csv_anno = pd.read_csv(anno_file_path)
     hierarchy_file = json.load(open(hierarchy_path, 'r'))
-    
+    print(directory)
     track_df = csv_anno.loc[csv_anno['Music_Title']==directory]
     artist = track_df['Artist'].values[0]
     song = track_df['Track_Name'].values[0]
