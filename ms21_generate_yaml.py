@@ -328,6 +328,6 @@ for split in os.listdir(root_path):
     for i in os.listdir(base_path):
         if os.path.exists(os.path.join(save_path,i,i+'_MIX.wav')):
             residual_path_list.append(i)
-    
+    print(len(residual_path_list))
     with pool:
         pool.map(gen_yaml, residual_path_list)
