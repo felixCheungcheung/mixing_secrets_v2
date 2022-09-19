@@ -324,5 +324,10 @@ for split in os.listdir(root_path):
     base_path = os.path.join(root_path, split)
     save_path = os.path.join(out_path,split)
     os.makedirs(save_path, exist_ok=True)
+    residual_path_list = []
+    for i in os.listdir(base_path):
+        if i not in os.listdir(save_path):
+            residual_path_list.append(i)
+    
     with pool:
-        pool.map(gen_yaml, [i for i in os.listdir(base_path)])
+        pool.map(gen_yaml, residual_path_list)
