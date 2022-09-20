@@ -1,0 +1,435 @@
+{
+    "mix": {
+        "Main System": [
+            "Main System"
+        ],
+        "accordion": [
+            "accordion"
+        ],
+        "acoustic guitar": [
+            "acoustic guitar"
+        ],
+        "acoustic guitar_melody": [
+            "acoustic guitar"
+        ],
+        "alto saxophone_melody": [
+            "alto saxophone"
+        ],
+        "auxiliary percussion": [
+            "sleigh bells",
+            "cymbal",
+            "auxiliary percussion",
+            "doumbek",
+            "vibraphone",
+            "shaker",
+            "whistle",
+            "darbuka",
+            "fx/processed sound",
+            "cowbell",
+            "guiro",
+            "tambourine",
+            "cabasa",
+            "toms"
+        ],
+        "bamboo flute_melody": [
+            "bamboo flute"
+        ],
+        "banjo": [
+            "banjo"
+        ],
+        "baritone saxophone_melody": [
+            "baritone saxophone"
+        ],
+        "bass clarinet_melody": [
+            "bass clarinet"
+        ],
+        "bass drum": [
+            "bass drum"
+        ],
+        "bassoon": [
+            "bassoon"
+        ],
+        "bassoon_melody": [
+            "bassoon"
+        ],
+        "bongo": [
+            "bongo"
+        ],
+        "brass section": [
+            "brass section"
+        ],
+        "brass section_melody": [
+            "euphonium",
+            "brass section",
+            "cornet",
+            "trumpet"
+        ],
+        "cello": [
+            "cello"
+        ],
+        "cello section": [
+            "cello section"
+        ],
+        "cello_melody": [
+            "cello"
+        ],
+        "chimes": [
+            "chimes"
+        ],
+        "claps": [
+            "claps"
+        ],
+        "clarinet": [
+            "clarinet"
+        ],
+        "clarinet section": [
+            "clarinet section"
+        ],
+        "clarinet section_melody": [
+            "clarinet section"
+        ],
+        "clarinet_melody": [
+            "clarinet"
+        ],
+        "clean electric guitar": [
+            "clean electric guitar",
+            "acoustic guitar",
+            "distorted electric guitar",
+            "fx/processed sound",
+            "electric bass"
+        ],
+        "clean electric guitar_melody": [
+            "clean electric guitar"
+        ],
+        "cymbal": [
+            "cymbal"
+        ],
+        "darbuka": [
+            "darbuka"
+        ],
+        "distorted electric guitar": [
+            "electric bass",
+            "distorted electric guitar",
+            "clean electric guitar"
+        ],
+        "distorted electric guitar_melody": [
+            "distorted electric guitar",
+            "clean electric guitar"
+        ],
+        "dizi_melody": [
+            "dizi"
+        ],
+        "double bass_bass": [
+            "double bass"
+        ],
+        "double bass_melody": [
+            "double bass"
+        ],
+        "doumbek": [
+            "doumbek"
+        ],
+        "drum machine": [
+            "snare drum",
+            "kick drum",
+            "fx/processed sound",
+            "drum machine",
+            "tambourine",
+            "high hat"
+        ],
+        "drum set": [
+            "cymbal",
+            "snare drum",
+            "kick drum",
+            "drum set",
+            "bass drum",
+            "fx/processed sound",
+            "drum machine",
+            "tambourine",
+            "high hat",
+            "toms"
+        ],
+        "electric bass": [
+            "electric bass",
+            "clean electric guitar"
+        ],
+        "electric bass_bass": [
+            "electric bass"
+        ],
+        "electric piano": [
+            "electric piano"
+        ],
+        "electric piano_melody": [
+            "electric piano"
+        ],
+        "erhu": [
+            "erhu"
+        ],
+        "erhu_melody": [
+            "erhu"
+        ],
+        "female singer": [
+            "female singer"
+        ],
+        "female singer_melody": [
+            "fx/processed sound",
+            "female singer"
+        ],
+        "flute": [
+            "flute"
+        ],
+        "flute section": [
+            "flute section"
+        ],
+        "flute section_melody": [
+            "flute section"
+        ],
+        "flute_melody": [
+            "flute"
+        ],
+        "french horn": [
+            "french horn"
+        ],
+        "french horn section": [
+            "french horn section"
+        ],
+        "french horn_melody": [
+            "french horn"
+        ],
+        "fx/processed sound": [
+            "cymbal",
+            "clean electric guitar",
+            "fx/processed sound",
+            "synthesizer",
+            "male singer"
+        ],
+        "glockenspiel": [
+            "fx/processed sound",
+            "glockenspiel"
+        ],
+        "glockenspiel_melody": [
+            "glockenspiel"
+        ],
+        "gong": [
+            "gong"
+        ],
+        "gu": [
+            "gu"
+        ],
+        "guzheng": [
+            "guzheng"
+        ],
+        "guzheng_melody": [
+            "guzheng"
+        ],
+        "harmonica": [
+            "harmonica"
+        ],
+        "harmonica_melody": [
+            "harmonica"
+        ],
+        "harp": [
+            "harp"
+        ],
+        "harp_melody": [
+            "harp"
+        ],
+        "horn section": [
+            "horn section"
+        ],
+        "horn section_melody": [
+            "horn section"
+        ],
+        "kick drum": [
+            "kick drum"
+        ],
+        "lap steel guitar": [
+            "lap steel guitar"
+        ],
+        "lap steel guitar_melody": [
+            "lap steel guitar"
+        ],
+        "liuqin_melody": [
+            "liuqin"
+        ],
+        "male rapper": [
+            "male rapper"
+        ],
+        "male singer": [
+            "male singer"
+        ],
+        "male singer_melody": [
+            "male singer"
+        ],
+        "male speaker": [
+            "male speaker"
+        ],
+        "mandolin": [
+            "mandolin"
+        ],
+        "mandolin_melody": [
+            "mandolin"
+        ],
+        "melodica": [
+            "melodica"
+        ],
+        "oboe": [
+            "oboe"
+        ],
+        "oboe_melody": [
+            "oboe"
+        ],
+        "oud_melody": [
+            "oud"
+        ],
+        "piano": [
+            "fx/processed sound",
+            "piano",
+            "tack piano"
+        ],
+        "piano_melody": [
+            "piano"
+        ],
+        "piccolo": [
+            "piccolo"
+        ],
+        "piccolo_melody": [
+            "piccolo"
+        ],
+        "sampler": [
+            "fx/processed sound",
+            "sampler",
+            "vocalists"
+        ],
+        "scratches": [
+            "scratches"
+        ],
+        "shaker": [
+            "shaker"
+        ],
+        "snare drum": [
+            "snare drum"
+        ],
+        "soprano saxophone_melody": [
+            "soprano saxophone"
+        ],
+        "string section": [
+            "string section",
+            "cello",
+            "violin section"
+        ],
+        "string section_melody": [
+            "string section",
+            "cello"
+        ],
+        "synthesizer": [
+            "fx/processed sound",
+            "vibraphone",
+            "synthesizer"
+        ],
+        "synthesizer_bass": [
+            "synthesizer"
+        ],
+        "synthesizer_melody": [
+            "synthesizer"
+        ],
+        "tabla": [
+            "tabla"
+        ],
+        "tack piano": [
+            "tack piano",
+            "synthesizer"
+        ],
+        "tack piano_melody": [
+            "tack piano",
+            "piano"
+        ],
+        "tambourine": [
+            "tambourine"
+        ],
+        "tenor saxophone_melody": [
+            "tenor saxophone"
+        ],
+        "timpani": [
+            "synthesizer",
+            "timpani"
+        ],
+        "toms": [
+            "toms"
+        ],
+        "trombone": [
+            "trombone"
+        ],
+        "trombone section": [
+            "trombone section"
+        ],
+        "trumpet": [
+            "trumpet"
+        ],
+        "trumpet section": [
+            "trumpet section",
+            "trumpet"
+        ],
+        "trumpet section_melody": [
+            "trumpet section",
+            "trumpet"
+        ],
+        "trumpet_melody": [
+            "trumpet"
+        ],
+        "tuba": [
+            "tuba"
+        ],
+        "tuba_bass": [
+            "tuba"
+        ],
+        "vibraphone": [
+            "vibraphone"
+        ],
+        "viola": [
+            "viola"
+        ],
+        "viola section": [
+            "viola section"
+        ],
+        "viola section_melody": [
+            "viola"
+        ],
+        "viola_melody": [
+            "viola"
+        ],
+        "violin": [
+            "violin"
+        ],
+        "violin section": [
+            "lap steel guitar",
+            "violin section"
+        ],
+        "violin section_melody": [
+            "violin section"
+        ],
+        "violin_melody": [
+            "violin"
+        ],
+        "vocalists": [
+            "male singer",
+            "vocalists",
+            "female singer"
+        ],
+        "vocalists_melody": [
+            "male singer",
+            "female singer"
+        ],
+        "yangqin": [
+            "yangqin"
+        ],
+        "yangqin_melody": [
+            "yangqin"
+        ],
+        "zhongruan": [
+            "zhongruan"
+        ],
+        "zhongruan_melody": [
+            "zhongruan"
+        ]
+    }
+}

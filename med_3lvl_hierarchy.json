@@ -1,0 +1,44 @@
+{"mix":{
+    "track2inst": {
+        "lead_vocal": ["female singer_melody", "male rapper","male singer_melody", "male speaker", "vocalists_melody"], 
+        "backing_vocal":["female singer", "male singer", "vocalists"], 
+        "nontonal_percussion": ["auxiliary percussion", "bongo", "claps", "gong", "gu", "shaker", 
+            "tabla", "tambourine", "timpani"], 
+        "drum_set":["bass drum", "cymbal", "drum machine", "drum set", "kick drum", "snare drum", 
+            "toms" ],
+        "bass": ["electric bass", "electric bass_bass", "double bass", "double bass_bass", "double bass_melody", "synthesizer_bass"], 
+        "tonal_percussion": ["chimes", "glockenspiel", "glockenspiel_melody", "vibraphone"], 
+        "woodwinds": ["bamboo flute_melody", "accordion", "alto saxophone", "bamboo flute", "baritone saxophone", 
+            "bass clarinet", "bassoon", "clarinet", "clarinet section", "dizi", "dizi_melody", "baritone saxophone_melody",
+            "flute", "flute section", "harmonica", "bass clarinet_melody", "bassoon_melody", "clarinet section_melody",
+            "clarinet_melody", "flute section_melody", "flute_melody", "harmonica_melody", "oboe_melody", "piccolo_melody",
+            "melodica", "oboe", "piccolo", "soprano saxophone", "tenor saxophone", "alto saxophone_melody", "soprano saxophone_melody",
+            "tenor saxophone_melody"],
+        "brass": ["brass section","trombone", "french horn", "french horn section", "horn section", "horn section_melody",
+            "trombone section", "trumpet", "trumpet section", "tuba", "brass section_melody",  "french horn_melody", "trumpet section_melody",
+            "trumpet_melody", "tuba_bass"],
+        "fx/processed_sound": ["fx/processed sound", "sampler", "scratches"],
+        "electronic_keyboards": ["synthesizer", "synthesizer_melody"], 
+        "pianos": ["electric piano", "electric piano_melody", "piano", "piano_melody", "tack piano", "tack piano_melody"], 
+        "electric_guitar": ["clean electric guitar", "distorted electric guitar", "distorted electric guitar_melody",
+            "lap steel guitar", "lap steel guitar_melody", "clean electric guitar_melody"], 
+        "acoustic_guitar": ["acoustic guitar", "banjo", "acoustic guitar_melody", "mandolin", "mandolin_melody"], 
+        "strings": ["cello", "cello section", "cello_melody", "erhu", "erhu_melody", "guzheng", "guzheng_melody", 
+            "harp", "liuqin", "harp_melody", "liuqin_melody", "oud_melody", 
+            "oud", "string section", "viola section", "viola", "violin section", "violin", "violin section_melody",
+            "yangqin", "yangqin_melody", "zhongruan", "zhongruan_melody", "string section_melody", "viola section_melody", "viola_melody", "violin_melody"]
+        },
+    "inst2stem":{
+        "vocal":["lead_vocal", "backing_vocal"],
+        "percussion": ["nontonal_percussion", "drum_set"],
+        "bass": ["bass"],
+        "other": ["tonal_percussion", "woodwinds", "brass", "electronic_keyboards", "pianos", 
+        "electric_guitar", "acoustic_guitar", "strings", "fx/processed_sound"]
+    },
+    "stem2stem":{
+        "vocal":["vocal"],
+        "accompaniment":["percussion", "bass", "other"]
+    }
+
+}
+}
