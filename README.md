@@ -19,4 +19,5 @@ The link to my master thesis: https://zenodo.org/record/7116102#.YzR0L3ZBzBU
   url          = {https://doi.org/10.5281/zenodo.7116102}
 }
 ```
+The link to my presentation: https://docs.google.com/presentation/d/1BD4iTVwp2obUxl8mThp9g8DmRBhJg3G42zwxMGK_bLg/edit?usp=sharing
 The link to the dataset from zenodo is coming soon!! It is big and I need to contact zenodo to increase my quota.
