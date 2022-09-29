@@ -1,9 +1,9 @@
-from multiprocessing import Process
+# from multiprocessing import Process
 from multiprocessing.dummy import Pool as ThreadPool
 import yaml
 import re
 import os, errno
-import librosa
+# import librosa
 import soundfile as sf
 import numpy as np
 import pandas as pd
@@ -12,6 +12,7 @@ from pydub import AudioSegment
 import pyloudnorm as pyln
 import shutil
 import sys
+from rule_based_mixing import inst_spec_mix
 
 # Reference: https://github.com/SiddGururani/mixing_secrets/blob/master/generate_yaml.py
 
@@ -57,8 +58,9 @@ def gen_yaml(directory, move_raw = True):
     #     return
     
     # Get all track paths
-    all_tracks = os.listdir(os.path.join(base_path, directory))
-    all_tracks = [os.path.join(base_path, directory, track) for track in all_tracks if track.endswith('.wav')]
+    # all_tracks = os.listdir(os.path.join(base_path, directory))
+    all_tracks = os.listdir(os.path.join(base_path, directory, directory+'_RAW')) # modify whether to use the tracks in RAW folder or not
+    all_tracks = [os.path.join(base_path, directory, directory+'_RAW', track) for track in all_tracks if track.endswith('.wav')]
     
     # Make stems for drums, sfx, loops and synths
     # TODO loudness normalization should be considered
@@ -66,7 +68,7 @@ def gen_yaml(directory, move_raw = True):
 
     for inst, tracks_name in hierarchy_file["mix"]["track2inst"].items():
         # print(inst, tracks_name)
-        make_stem(yaml_obj, os.path.join(save_path, ID, ID+'_STEMS', 'Inst'), os.path.join(base_path, directory), track_df, tracks_name, inst, ID+f'_STEM_Inst_{inst}.wav')
+        make_stem(yaml_obj, os.path.join(save_path, ID, ID+'_STEMS', 'Inst'), os.path.join(base_path, directory, directory+'_RAW'), track_df, tracks_name, inst, ID+f'_STEM_Inst_{inst}.wav')
     for stem, inst_name in hierarchy_file["mix"]["inst2stem"].items():
         # print(inst, tracks_name)
         make_stem(yaml_obj, os.path.join(save_path, ID, ID+'_STEMS', 'MUSDB'), os.path.join(save_path, ID, ID+'_STEMS', 'Inst'), track_df, inst_name, stem, ID+f'_STEM_MUSDB_{stem}.wav')
@@ -174,7 +176,7 @@ def make_stem(obj, stems_path, directory_path, track_df, inst_names, stem_inst_n
             obj['stems_MUSDB'].pop('S'+count)
             return               
     else:
-                # Add stem to yaml object
+        # Add stem to yaml object
         count = len(obj['stems_Inst'])
         if count+1 < 10:
             count = '0'+str(count+1)
@@ -207,25 +209,23 @@ def make_stem(obj, stems_path, directory_path, track_df, inst_names, stem_inst_n
             obj['stems_Inst'].pop('S'+count)
             return
         
+    if stem_inst_name == 'backing_vocal':
+        print("updating new backing vocal track")
+        y, loudness, types = inst_spec_mix(tracks, stem_inst_name, threshold=-60)
+        sr = 44100
 
-    y, sr = sf.read(tracks[0], always_2d=True)
-    
-    if y.shape[1] != 2:
-        y = np.repeat(y,2, axis=1)
+    else:
+        y, sr = sf.read(tracks[0], always_2d=True)
+        
+        if y.shape[1] != 2:
+            y = np.repeat(y,2, axis=1)
 
-    for i in range(len(tracks) - 1):
-        y_add = sf.read(tracks[i+1], always_2d=True)[0]
-        if y_add.shape[1] != 2:
-            y_add = np.repeat(y_add, 2, axis=1)
-
-        # l = y.shape[1]
-        # l_add = y_add.shape[1]
-        # if l > l_add:
-        #     y_add = np.pad(y_add, (0, l - l_add), 'constant')
-        # elif l < l_add:
-        #     y = np.pad(y, (0, l_add - l), 'constant')
-        y += y_add
-    y, loudness, types = loudness_normalization(y, sr, stem_inst_name, -25)
+        for i in range(len(tracks) - 1):
+            y_add = sf.read(tracks[i+1], always_2d=True)[0]
+            if y_add.shape[1] != 2:
+                y_add = np.repeat(y_add, 2, axis=1)
+            y += y_add
+        y, loudness, types = loudness_normalization(y, sr, stem_inst_name, -25)
     if 'MUSDB' in stems_path:
         obj['stems_MUSDB']['S'+count]['loudness'] = types + f'{loudness:.4f}' + ' LUFS'
     else:
@@ -304,30 +304,33 @@ def loudness_normalization(data, rate, stem_inst_name, target_loudness=-20.0):
         normalized_audio = pyln.normalize.loudness(data, loudness, target_loudness)
         return normalized_audio, meter.integrated_loudness(normalized_audio), 'INTEGRATED'
     
-root_path = sys.argv[1] # '/media/felix/dataset/ms21/train' need to contain the subfolder
+if __name__ == "__main__":
+    root_path = sys.argv[1] # '/media/felix/dataset/ms21/train' need to contain the subfolder
 
-out_path = sys.argv[2] #  '/media/felix/dataset/ms21_DB
-# print(output_path)
-os.makedirs(out_path,exist_ok=True)
+    out_path = sys.argv[2] #  '/media/felix/dataset/ms21_DB
+    # print(output_path)
+    os.makedirs(out_path,exist_ok=True)
 
-anno_file_path = './mixing_secret_dataset_final_name.csv'
-hierarchy_path = './hierarchy.json'
+    anno_file_path = './mixing_secret_dataset_final_name.csv'
+    hierarchy_path = './hierarchy.json'
 
 
 
-threads = int(sys.argv[3])
-arg_list = []
-for split in os.listdir(root_path):
-    if split not in ['train']: # modified to quick evaluate the dataset
-        continue
-    pool = ThreadPool(threads)
-    base_path = os.path.join(root_path, split)
-    save_path = os.path.join(out_path,split)
-    os.makedirs(save_path, exist_ok=True)
-    residual_path_list = []
-    for i in os.listdir(base_path):
-        if not os.path.exists(os.path.join(save_path,i,i+'_MIX.wav')):
-            residual_path_list.append(i)
-    print(len(residual_path_list))
-    with pool:
-        pool.map(gen_yaml, residual_path_list)
+    threads = int(sys.argv[3])
+    arg_list = []
+    for split in os.listdir(root_path):
+        if split in ['train']: # modify to quick evaluate the dataset
+            continue
+        pool = ThreadPool(threads)
+        base_path = os.path.join(root_path, split)
+        save_path = os.path.join(out_path,split)
+        os.makedirs(save_path, exist_ok=True)
+        residual_path_list = []
+        for i in os.listdir(base_path):
+            if not os.path.exists(os.path.join(save_path,i,i+'_MIX.wav')):
+                residual_path_list.append(i)
+        print(len(residual_path_list))
+        with pool:
+            pool.map(gen_yaml, residual_path_list)
+        # for i in residual_path_list:
+        #     gen_yaml(i)
