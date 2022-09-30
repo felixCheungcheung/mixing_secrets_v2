@@ -1,8 +1,9 @@
 import os
 from zipfile import ZipFile
+import sys
 
 if __name__ == "__main__":
-    dataset_location = 'E:'
+    dataset_location = sys.argv[1]
     multitrack_zip_location = dataset_location+'/multitrack_zip/'
     multitrack_unzip_location = dataset_location+'/unzip_multitrack/'
     # create folders 

@@ -10,8 +10,8 @@ if __name__ == "__main__":
     opener.addheaders = [('User-agent', 'Mozilla/5.0')]
     request.install_opener(opener)
 
-    # dataset_location = str(sys.argv[1])
-    dataset_location = 'H:'
+    dataset_location = str(sys.argv[1])
+    # dataset_location = 'H:'
     print(dataset_location)
 
     pbar = None

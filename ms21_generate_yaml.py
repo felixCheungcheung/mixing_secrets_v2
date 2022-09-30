@@ -59,18 +59,26 @@ def gen_yaml(directory, move_raw = True):
     
     # Get all track paths
     # all_tracks = os.listdir(os.path.join(base_path, directory))
+    # all_tracks = [os.path.join(base_path, directory, track) for track in all_tracks if track.endswith('.wav')]
+
+    
+    # uncomment to use the tracks in RAW folder (updating based on the raw tracks in ms21DB)
     all_tracks = os.listdir(os.path.join(base_path, directory, directory+'_RAW')) # modify whether to use the tracks in RAW folder or not
     all_tracks = [os.path.join(base_path, directory, directory+'_RAW', track) for track in all_tracks if track.endswith('.wav')]
+
     
     # Make stems for drums, sfx, loops and synths
     # TODO loudness normalization should be considered
     
 
     for inst, tracks_name in hierarchy_file["mix"]["track2inst"].items():
-        # print(inst, tracks_name)
+        # uncomment to use the tracks in RAW folder (updating based on the raw tracks in ms21DB)
         make_stem(yaml_obj, os.path.join(save_path, ID, ID+'_STEMS', 'Inst'), os.path.join(base_path, directory, directory+'_RAW'), track_df, tracks_name, inst, ID+f'_STEM_Inst_{inst}.wav')
+        
+        # make_stem(yaml_obj, os.path.join(save_path, ID, ID+'_STEMS', 'Inst'), os.path.join(base_path, directory), track_df, tracks_name, inst, ID+f'_STEM_Inst_{inst}.wav')
+
     for stem, inst_name in hierarchy_file["mix"]["inst2stem"].items():
-        # print(inst, tracks_name)
+        
         make_stem(yaml_obj, os.path.join(save_path, ID, ID+'_STEMS', 'MUSDB'), os.path.join(save_path, ID, ID+'_STEMS', 'Inst'), track_df, inst_name, stem, ID+f'_STEM_MUSDB_{stem}.wav')
     # create mix file
     make_mix(yaml_obj, os.path.join(save_path, ID, ID+'_STEMS', 'MUSDB'), os.path.join(save_path, ID), yaml_obj['mix_filename'])
@@ -305,7 +313,7 @@ def loudness_normalization(data, rate, stem_inst_name, target_loudness=-20.0):
         return normalized_audio, meter.integrated_loudness(normalized_audio), 'INTEGRATED'
     
 if __name__ == "__main__":
-    root_path = sys.argv[1] # '/media/felix/dataset/ms21/train' need to contain the subfolder
+    root_path = sys.argv[1] # '/media/felix/dataset/ms21/train' 
 
     out_path = sys.argv[2] #  '/media/felix/dataset/ms21_DB
     # print(output_path)
@@ -314,13 +322,12 @@ if __name__ == "__main__":
     anno_file_path = './mixing_secret_dataset_final_name.csv'
     hierarchy_path = './hierarchy.json'
 
-
-
     threads = int(sys.argv[3])
+    
     arg_list = []
     for split in os.listdir(root_path):
-        if split in ['train']: # modify to quick evaluate the dataset
-            continue
+        # if split not in ['val']: # modify to quick update the dataset if better automatic mixing algorithm is provided
+        #     continue
         pool = ThreadPool(threads)
         base_path = os.path.join(root_path, split)
         save_path = os.path.join(out_path,split)
@@ -329,7 +336,8 @@ if __name__ == "__main__":
         for i in os.listdir(base_path):
             if not os.path.exists(os.path.join(save_path,i,i+'_MIX.wav')):
                 residual_path_list.append(i)
-        print(len(residual_path_list))
+        print(residual_path_list)
+        
         with pool:
             pool.map(gen_yaml, residual_path_list)
         # for i in residual_path_list:

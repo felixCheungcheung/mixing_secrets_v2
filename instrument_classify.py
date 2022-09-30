@@ -6,7 +6,7 @@ import csv
 import check
 
 if __name__ == "__main__":
-    dataset_file = "mixing_secret_dataset.csv"
+    dataset_file = "mixing_secret_dataset_auto.csv"
     dataset_w = open(dataset_file, 'w',encoding = 'latin-1',newline='')
     writer = csv.writer(dataset_w)
     writer.writerow(['Music_Title','Drum_Kick','Drum_Snare','Drum_HiHat','Drum_Cymbals','Drum_Overheads','Drum_Tom','Drum_Room','Percussion','Bass','Acoustic_Guitar','Electric_Guitar','Piano','Electric_Piano','Brass','String','WoodWind','Other','Lead_Vocal', 'Backing_Vocal','Unused'])
@@ -14,13 +14,13 @@ if __name__ == "__main__":
 
 
     # raed track name
-    root_path = 'E:\\unzip_multitrack\\'
+    root_path = sys.argv[1] # path to unzip_multitrack
     in_dir = os.listdir(root_path)
     fail_id = []
     #print(in_dir)
-    not_anno_list = check.check_annotation()
-    print(not_anno_list)
-    for i in not_anno_list:
+    # not_anno_list = check.check_annotation()
+    # print(not_anno_list)
+    for i in in_dir:
 
         try:
             result_row = []
@@ -59,8 +59,8 @@ if __name__ == "__main__":
             result_row.append(Music_Title)   
             #print(Music_Title)
             
-            folder_name = Music_Title.replace(' ','_')
-            for track_name in os.listdir(os.path.join(root_path,'test',folder_name)) :
+            # folder_name = Music_Title.replace(' ','_')
+            for track_name in os.listdir(os.path.join(root_path,i)) :
                 if track_name.split('.')[-1] == 'wav' and track_name.split('_')[0] != '.':
 
 

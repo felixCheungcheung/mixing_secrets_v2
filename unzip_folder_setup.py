@@ -1,8 +1,12 @@
 import os
 import shutil
+import sys
 
 if __name__ == "__main__":
-    root_path = 'E:\\unzip_multitrack\\'
+    """
+    Put all the unzipped song folders in a parent folder
+    """
+    root_path = sys.argv[1] # 'E:\\new_training_tracks'
     file_list = []
     count = 0
     for root,dirs,files in os.walk(root_path):
@@ -16,7 +20,7 @@ if __name__ == "__main__":
                 print("Successfully deleted ", root+'\\'+dir)
 
         for file in files:
-            if root.split('\\')[-2] != 'unzip_multitrack':
+            if root.split('\\')[-2] != root_path.split('\\')[-1]:
 
                 print("Root = ",root)
                 print('Dir = ',dir)

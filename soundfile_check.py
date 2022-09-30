@@ -10,8 +10,8 @@ if __name__ == "__main__":
     parser = argparse.ArgumentParser()
     parser.add_argument('--path', '-p', type=str, help='Dataset directory')
     # parser.add_argument('--thread', '-t', type=int, help='number of threads')
-    parser.add_argument('--samplerate', '-sr', type=int, help='Sampling Rates')
-    parser.add_argument('--bitrate', '-bt', type=int, help='Bit Rate')
+    parser.add_argument('--samplerate', '-sr', type=int, help='Target Sampling Rates')
+    parser.add_argument('--bitrate', '-bt', type=int, help='Target Bit Rate')
     parser.add_argument('--mono', '-m', action='store_true', help='Stereo: False, Mono: True')
     parser.add_argument('--pad', '-pd', action='store_true', help='For zero-padding, boolean')
 
@@ -41,19 +41,33 @@ if __name__ == "__main__":
                     
                 info = torchaudio.info(source_path)
 
-                
-                if ((not info.sample_rate == sampling_rate) or (not info.bits_per_sample ==bit_rate) or (not info.num_channels ==1)):
-                    # resampling
-                    s_error.append(source_path)
-                    print('sampling rate error:', source_path)
-                    output_path = source_path
-                    audio, original_sf = torchaudio.load(source_path,normalize = True)
-                    resampled_audio = torchaudio.transforms.Resample(original_sf, sampling_rate)(audio)
+                if not info.num_channels ==1:
                     if Mono == True:
-                        resampled_audio = torch.mean(resampled_audio, dim=0, keepdim=True)
+                        
+                        output_path = source_path
+                        audio, original_sf = torchaudio.load(source_path,normalize = True)
+                        audio = torch.mean(audio, dim=0, keepdim=True)
                         print('Successfully monorize: ',output_path)
-                    torchaudio.save(filepath=output_path, src=resampled_audio, sample_rate=sampling_rate,encoding="PCM_S", bits_per_sample=bit_rate)
-                    print('Successfully resample: ',output_path)
+                    else:
+                        output_path = source_path
+                        audio, original_sf = torchaudio.load(source_path,normalize = True)
+                    if ((not info.sample_rate == sampling_rate) or (not info.bits_per_sample ==bit_rate) ):
+                        # resampling
+                        s_error.append(source_path)
+                        print('sampling rate error or bit rate error:', source_path)
+                        resampled_audio = torchaudio.transforms.Resample(original_sf, sampling_rate)(audio)
+                        torchaudio.save(filepath=output_path, src=resampled_audio, sample_rate=sampling_rate,encoding="PCM_S", bits_per_sample=bit_rate)
+                        print('Successfully resample: ',output_path)
+                else:
+                    if ((not info.sample_rate == sampling_rate) or (not info.bits_per_sample ==bit_rate) ):
+                        # resampling
+                        s_error.append(source_path)
+                        print('sampling rate error or bit rate error:', source_path)
+                        output_path = source_path
+                        audio, original_sf = torchaudio.load(source_path,normalize = True)
+                        resampled_audio = torchaudio.transforms.Resample(original_sf, sampling_rate)(audio)
+                        torchaudio.save(filepath=output_path, src=resampled_audio, sample_rate=sampling_rate,encoding="PCM_S", bits_per_sample=bit_rate)
+                        print('Successfully resample: ',output_path)
 
 
             # find max len        
