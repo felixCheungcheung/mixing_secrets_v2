@@ -2,7 +2,22 @@
 
 This is an accompanying repository of a submission to Late Breaking Demo of International Society of Music Information Retrieval 2022: 
 
-This repository contains scripts for 1) Data Gathering from Mixing Secret Website; 2) Semi-automatically annotation generation; 2) Basic DSP for audio files :Resampling, zero-padding, "monorizing", loudness normalization; 4) Automatic Stem generation and Formatting: Same folder structure of MedleyDB and special automatic mixing algorithm for generating stereo backing vocal stem. 
+This repository contains scripts for:
+* Data Gathering from [The 'Mixing Secrets' Free Multitrack Download Library](https://cambridge-mt.com/ms/mtk/); 
+```
+python geturl.py                               # To generate downloadurls.txt, which will be stored in the same folder
+python download_zip.py  "path_to_storage"      # To download the zipped multi-track archives and mp3 mixtures using the urls in downloadurls.txt
+python unrar.py "path_to_storage"              # To unzip the zipped archives in the "multitrack_zip" folder and put them in the "unzip_multitrack" folder
+python unzip_folder_setup.py "path_to_unzip_multitrack_directory"         # To unify the folder structure
+```
+
+* Semi-automatically annotation generation;
+```
+python instrument_classify.py                 # To generate annotation .csv
+```
+* Basic DSP for audio files :Resampling, zero-padding, "monorizing", loudness normalization;
+* Automatic Stem generation and Formatting: Same folder structure of MedleyDB and special automatic mixing algorithm for generating stereo backing vocal stem. 
+
 
 
 ## Citation
