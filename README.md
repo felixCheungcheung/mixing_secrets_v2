@@ -20,7 +20,7 @@ The link to my presentation: https://docs.google.com/presentation/d/1BD4iTVwp2ob
 The link to the dataset from zenodo is coming soon!! It is big and I need to contact zenodo to increase my quota.
 
 ## Purpose of this repository:
-This repository contains the scripts for constructing MS21. For evaluation experiment, our work is based on the X-UMX implementation found in Asteroid, in a branch  called [ms21](https://github.com/felixCheungcheung/asteroid/tree/ms21/egs/musdb18/X-UMX).
+This repository contains the scripts for constructing MS21. For evaluation experiment, our code is in a branch of Asteroid which called [ms21](https://github.com/felixCheungcheung/asteroid/tree/ms21/egs/musdb18/X-UMX).
 * **Creat a conda environment:**
 ```
 conda env create -f environment.yml
