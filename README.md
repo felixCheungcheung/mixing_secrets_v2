@@ -13,11 +13,28 @@ python unzip_folder_setup.py "path_to_unzip_multitrack_directory"         # To u
 
 * Semi-automatically annotation generation;
 ```
-python instrument_classify.py                 # To generate annotation .csv
+python instrument_classify.py "path_to_unzip_multitrack"                 # To generate annotation .csv
 ```
-* Basic DSP for audio files :Resampling, zero-padding, "monorizing", loudness normalization;
-* Automatic Stem generation and Formatting: Same folder structure of MedleyDB and special automatic mixing algorithm for generating stereo backing vocal stem. 
+* Basic DSP for audio files :Resampling, zero-padding, "monorizing";
+```
 
+python soundfile_check.py -h
+  --path PATH, -p PATH  Dataset directory
+  --samplerate SAMPLERATE, -sr SAMPLERATE
+                        Target Sampling Rates
+  --bitrate BITRATE, -bt BITRATE
+                        Target Bit Rate
+  --mono, -m            Stereo: False, Mono: True
+  --pad, -pd            For zero-padding, boolean
+```
+* After splitting the dataset. we can do track-level loudness normalization:
+```
+python ms21_normalization.py "path_to_dataset" "output_path" -25      # Default target_loudness = -25 LUKS
+```
+* Automatic Stem generation and Formatting: Same folder structure of MedleyDB and special automatic mixing algorithm for generating stereo backing vocal stem. 
+```
+python ms21_generate_yaml.py "path_to_the_splitted_and_normalized_dataset" "outpath_to_the_well_structured_dataset"       #Note that within the script target loudness is set to -25 LUFS
+```
 
 
 ## Citation
