@@ -15,7 +15,7 @@ base_path = sys.argv[1] # '/media/felix/dataset/ms21'
 
 output_path = sys.argv[2] #  '/media/felix/dataset/ms21_norm'
 
-target_loudness = sys.argv[3] # default to be -25 LUKS
+target_loudness = int(sys.argv[3]) # default to be -25 LUKS
 # print(output_path)
 os.makedirs(output_path,exist_ok=True)
 # print(base_path)
