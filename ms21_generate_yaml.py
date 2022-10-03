@@ -326,8 +326,8 @@ if __name__ == "__main__":
     
     arg_list = []
     for split in os.listdir(root_path):
-        # if split not in ['train']: # modify to quick update the dataset if better automatic mixing algorithm is provided
-        #     continue
+        if split not in ['train']: # modify to quick update the dataset if better automatic mixing algorithm is provided
+            continue
         pool = ThreadPool(threads)
         base_path = os.path.join(root_path, split)
         save_path = os.path.join(out_path,split)
