@@ -60,7 +60,7 @@ python ms21_normalization.py "path_to_dataset" "output_path" -25      # Default 
 ```
 * **Automatic Stem generation and Dataset Formatting**: Same folder structure of MedleyDB and special automatic mixing algorithm for generating stereo backing vocal stem. 
 ```
-python ms21_generate_yaml.py "path_to_the_splitted_and_normalized_dataset" "outpath_to_the_well_structured_dataset"       #Note that within the script target loudness is set to -25 LUFS
+python ms21_generate_yaml.py "path_to_the_splitted_and_normalized_dataset" "outpath_to_the_well_structured_dataset" num_threads      #Note that within the script target loudness is set to -25 LUFS
 ```
 
 
