@@ -1,11 +1,10 @@
 import os
-from numpy import roots
 import torchaudio
 import torch
 import argparse
 from multiprocessing.dummy import Pool as ThreadPool
 
-# python soundfile_check.py -p E:/ms21/train -sr 16000 -bt 16 -m true -pd true
+
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
     parser.add_argument('--path', '-p', type=str, help='Dataset directory')

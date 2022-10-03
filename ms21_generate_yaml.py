@@ -3,12 +3,10 @@ from multiprocessing.dummy import Pool as ThreadPool
 import yaml
 import re
 import os, errno
-# import librosa
 import soundfile as sf
 import numpy as np
 import pandas as pd
 import json
-from pydub import AudioSegment
 import pyloudnorm as pyln
 import shutil
 import sys
@@ -284,19 +282,6 @@ def make_dir(directory):
     except OSError as e:
         if e.errno != errno.EEXIST:
             raise
-def match_target_amplitude(root, file, output_path, target_dBFS=-20):
-    if file.endswith('.wav'):
-        path = os.path.join(root,file)
-        dir = root.split('\\')[-1]
-        sound = AudioSegment.from_file(path)
-        change_in_dBFS = target_dBFS - sound.dBFS
-        # loudness normalization over this audio clip
-        # TODO normailization over chunks, 
-        # set up a threshold to filter out silent clips and only consider the chunks above threshold
-        audio = sound.apply_gain(change_in_dBFS)
-        os.makedirs(os.path.join(output_path,dir),exist_ok=True)
-        audio.export(os.path.join(output_path,dir,file), format="wav")
-        print("Suceessfully normalized ", file)
 
 def loudness_normalization(data, rate, stem_inst_name, target_loudness=-20.0):
 

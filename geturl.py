@@ -1,7 +1,6 @@
 import requests
 from bs4 import BeautifulSoup
-#Poor Boy
-#Mystery
+
 if __name__ == "__main__":
     webside = "https://cambridge-mt.com/ms/mtk/"
     html = requests.get(url=webside)

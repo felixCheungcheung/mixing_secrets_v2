@@ -1,9 +1,8 @@
 import os 
-import pandas
 import sys
 import csv
-#from MTG_2021_MASTER_THESIS.check import check_annotation
-import check
+
+
 
 if __name__ == "__main__":
     dataset_file = "mixing_secret_dataset_auto.csv"
@@ -17,9 +16,7 @@ if __name__ == "__main__":
     root_path = sys.argv[1] # path to unzip_multitrack
     in_dir = os.listdir(root_path)
     fail_id = []
-    #print(in_dir)
-    # not_anno_list = check.check_annotation()
-    # print(not_anno_list)
+
     for i in in_dir:
 
         try:
@@ -47,12 +44,7 @@ if __name__ == "__main__":
             WoodWind = []
             Other = []
             Unused = []
-            
-            #Music_Title = 
-            
-            #if len(os.listdir(root)) < 2: continue # count 底层目录
-            #if ii == 0 : continue # not counting track/目录
-            #print(root)
+
             
             Music_Title = i
             
@@ -132,7 +124,7 @@ if __name__ == "__main__":
             result_row.append(Unused)
             #print(result_row[3] == [])
             if all(item == [] for item in result_row[1:]):
-                if len(os.listdir(os.path.join(root_path,'test',folder_name))) ==1:
+                if len(os.listdir(os.path.join(root_path,'test',Music_Title))) ==1:
                     print(Music_Title)
                 continue
             else:

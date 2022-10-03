@@ -1,14 +1,8 @@
-# import yaml
-import re
-import os, errno
-import librosa
+import os
 import soundfile as sf
-import numpy as np
-import pandas as pd
-import json
 import sys
 import pyloudnorm as pyln
-import shutil
+
 
 
 base_path = sys.argv[1] # '/media/felix/dataset/ms21' 
