@@ -230,15 +230,16 @@ def inst_spec_mix(track_path_list, stem_inst_name, threshold = -60):
                     # frame wise loudness normalization
 
             else:
+                # print("Mono audio",audio.shape)
                 mono_audio_pan.append(audio[:,0])
                 if count == 0:
                     count += 1
                     mono2st_submix = np.zeros_like(audio[:,0])
                     mono_submix = np.zeros_like(audio[:,0])
                     norm_mono_submix = np.tile(mono_submix, (2,1)).T
-                    norm_mono2st_submix = np.tile(mono2st_submix, (2,1)).T
-                    st_submix = np.zeros_like(audio)
-                    norm_st_submix = np.zeros_like(audio)
+                    norm_mono2st_submix = np.zeros_like(norm_mono_submix)
+                    st_submix = np.zeros_like(norm_mono_submix)
+                    norm_st_submix = np.zeros_like(norm_mono_submix)
 
         if mono_audio_pan != []:
             units, idp_idx = unit_assign(mono_audio_pan, threshold)
@@ -257,6 +258,7 @@ def inst_spec_mix(track_path_list, stem_inst_name, threshold = -60):
             print("No mono tracks for panning")
 
         if st_audio_pan != []:
+            # print(st_audio_pan.shape)
             for i in range(len(st_audio_pan)):
                 st_submix += st_audio_pan[i]
             
