@@ -24,6 +24,8 @@ This repository contains the scripts for constructing MS21. This data is only fo
 The material contained in it should not be used for any commercial purpose without the express permission of the copyright holders. Please refer to www.cambridge-mt.com for further details.
 
 For evaluation experiment, our code is in a branch of Asteroid which called [ms21](https://github.com/felixCheungcheung/asteroid/tree/ms21/egs/musdb18/X-UMX).
+
+## Constructing Mixing Secrets Dataset: Step by Step
 * **Creat a conda environment:**
 ```
 conda env create -f environment.yml
