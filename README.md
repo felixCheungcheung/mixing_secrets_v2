@@ -58,7 +58,7 @@ python soundfile_check.py -h
 ```
 * After splitting the dataset. we can do track-level **loudness normalization**:
 ```
-python ms21_normalization.py "path_to_dataset" "output_path" -25      # Default target_loudness = -25 LUKS
+python ms21_normalization.py "path_to_dataset" "output_path" -25      # Default target_loudness = -25 LUFS
 ```
 * **Automatic Stem generation and Dataset Formatting**: Same folder structure of MedleyDB and special automatic mixing algorithm for generating stereo backing vocal stem. 
 ```
