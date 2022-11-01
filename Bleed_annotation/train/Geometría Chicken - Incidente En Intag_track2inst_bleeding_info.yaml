@@ -1,0 +1,217 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer: {}
+  SFX: {}
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    01_Kick.wav:
+      Track_path: "Geometr\xEDa Chicken - Incidente En Intag\\Geometr\xEDa Chicken\
+        \ - Incidente En Intag_RAW\\01_Kick.wav"
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    02_KickSample.wav:
+      Track_path: "Geometr\xEDa Chicken - Incidente En Intag\\Geometr\xEDa Chicken\
+        \ - Incidente En Intag_RAW\\02_KickSample.wav"
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Snare:
+    04_SnareUp.wav:
+      Track_path: "Geometr\xEDa Chicken - Incidente En Intag\\Geometr\xEDa Chicken\
+        \ - Incidente En Intag_RAW\\04_SnareUp.wav"
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    05_SnareDown.wav:
+      Track_path: "Geometr\xEDa Chicken - Incidente En Intag\\Geometr\xEDa Chicken\
+        \ - Incidente En Intag_RAW\\05_SnareDown.wav"
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_HiHat: {}
+  Drum_Cymbals: {}
+  Drum_Overheads:
+    03_Overheads.wav:
+      Track_path: "Geometr\xEDa Chicken - Incidente En Intag\\Geometr\xEDa Chicken\
+        \ - Incidente En Intag_RAW\\03_Overheads.wav"
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Tom:
+    06_Tom1.wav:
+      Track_path: "Geometr\xEDa Chicken - Incidente En Intag\\Geometr\xEDa Chicken\
+        \ - Incidente En Intag_RAW\\06_Tom1.wav"
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    07_Tom2.wav:
+      Track_path: "Geometr\xEDa Chicken - Incidente En Intag\\Geometr\xEDa Chicken\
+        \ - Incidente En Intag_RAW\\07_Tom2.wav"
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_Room: {}
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine:
+    08_Tambourine.wav:
+      Track_path: "Geometr\xEDa Chicken - Incidente En Intag\\Geometr\xEDa Chicken\
+        \ - Incidente En Intag_RAW\\08_Tambourine.wav"
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Loop: {}
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion:
+    09_Cachapas.wav:
+      Track_path: "Geometr\xEDa Chicken - Incidente En Intag\\Geometr\xEDa Chicken\
+        \ - Incidente En Intag_RAW\\09_Cachapas.wav"
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Synth_Bass: {}
+  Electric_Bass:
+    10_Bass.wav:
+      Track_path: "Geometr\xEDa Chicken - Incidente En Intag\\Geometr\xEDa Chicken\
+        \ - Incidente En Intag_RAW\\10_Bass.wav"
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Acoustic_Guitar: {}
+  Electric_Guitar:
+    11_ElecGtr1.wav:
+      Track_path: "Geometr\xEDa Chicken - Incidente En Intag\\Geometr\xEDa Chicken\
+        \ - Incidente En Intag_RAW\\11_ElecGtr1.wav"
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    12_ElecGtr2.wav:
+      Track_path: "Geometr\xEDa Chicken - Incidente En Intag\\Geometr\xEDa Chicken\
+        \ - Incidente En Intag_RAW\\12_ElecGtr2.wav"
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    13_ElecGtr2DT.wav:
+      Track_path: "Geometr\xEDa Chicken - Incidente En Intag\\Geometr\xEDa Chicken\
+        \ - Incidente En Intag_RAW\\13_ElecGtr2DT.wav"
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    14_ElecGtr3.wav:
+      Track_path: "Geometr\xEDa Chicken - Incidente En Intag\\Geometr\xEDa Chicken\
+        \ - Incidente En Intag_RAW\\14_ElecGtr3.wav"
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    15_ElecGtr4.wav:
+      Track_path: "Geometr\xEDa Chicken - Incidente En Intag\\Geometr\xEDa Chicken\
+        \ - Incidente En Intag_RAW\\15_ElecGtr4.wav"
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    16_ElecGtr5.wav:
+      Track_path: "Geometr\xEDa Chicken - Incidente En Intag\\Geometr\xEDa Chicken\
+        \ - Incidente En Intag_RAW\\16_ElecGtr5.wav"
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Piano: {}
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    17_LeadVox1.wav:
+      Track_path: "Geometr\xEDa Chicken - Incidente En Intag\\Geometr\xEDa Chicken\
+        \ - Incidente En Intag_RAW\\17_LeadVox1.wav"
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    18_LeadVox1DT.wav:
+      Track_path: "Geometr\xEDa Chicken - Incidente En Intag\\Geometr\xEDa Chicken\
+        \ - Incidente En Intag_RAW\\18_LeadVox1DT.wav"
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    19_LeadVox2.wav:
+      Track_path: "Geometr\xEDa Chicken - Incidente En Intag\\Geometr\xEDa Chicken\
+        \ - Incidente En Intag_RAW\\19_LeadVox2.wav"
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Choir: {}
+  Backing_Vocal:
+    20_BackingVoxSFX1.wav:
+      Track_path: "Geometr\xEDa Chicken - Incidente En Intag\\Geometr\xEDa Chicken\
+        \ - Incidente En Intag_RAW\\20_BackingVoxSFX1.wav"
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    21_BackingVoxSFX2.wav:
+      Track_path: "Geometr\xEDa Chicken - Incidente En Intag\\Geometr\xEDa Chicken\
+        \ - Incidente En Intag_RAW\\21_BackingVoxSFX2.wav"
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    22_BackingVoxSFX3.wav:
+      Track_path: "Geometr\xEDa Chicken - Incidente En Intag\\Geometr\xEDa Chicken\
+        \ - Incidente En Intag_RAW\\22_BackingVoxSFX3.wav"
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    23_BackingVoxSFX4.wav:
+      Track_path: "Geometr\xEDa Chicken - Incidente En Intag\\Geometr\xEDa Chicken\
+        \ - Incidente En Intag_RAW\\23_BackingVoxSFX4.wav"
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    24_BackingVoxSFX5.wav:
+      Track_path: "Geometr\xEDa Chicken - Incidente En Intag\\Geometr\xEDa Chicken\
+        \ - Incidente En Intag_RAW\\24_BackingVoxSFX5.wav"
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Unused: {}
+  Ambient_Microphone: {}

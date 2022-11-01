@@ -1,0 +1,323 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer:
+    40_Mellotron.wav:
+      Track_path: Hollowstate - Gravediggers\Hollowstate - Gravediggers_RAW\40_Mellotron.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    41_Synth.wav:
+      Track_path: Hollowstate - Gravediggers\Hollowstate - Gravediggers_RAW\41_Synth.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  SFX:
+    25_SFX.wav:
+      Track_path: Hollowstate - Gravediggers\Hollowstate - Gravediggers_RAW\25_SFX.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    01_KickMic1.wav:
+      Track_path: Hollowstate - Gravediggers\Hollowstate - Gravediggers_RAW\01_KickMic1.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    02_KickMic2.wav:
+      Track_path: Hollowstate - Gravediggers\Hollowstate - Gravediggers_RAW\02_KickMic2.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    03_KickFX.wav:
+      Track_path: Hollowstate - Gravediggers\Hollowstate - Gravediggers_RAW\03_KickFX.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    23_KickSample.wav:
+      Track_path: Hollowstate - Gravediggers\Hollowstate - Gravediggers_RAW\23_KickSample.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_Snare:
+    04_SnareUp.wav:
+      Track_path: Hollowstate - Gravediggers\Hollowstate - Gravediggers_RAW\04_SnareUp.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    05_SnareDown.wav:
+      Track_path: Hollowstate - Gravediggers\Hollowstate - Gravediggers_RAW\05_SnareDown.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    06_SnareSide.wav:
+      Track_path: Hollowstate - Gravediggers\Hollowstate - Gravediggers_RAW\06_SnareSide.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    07_SnareFX.wav:
+      Track_path: Hollowstate - Gravediggers\Hollowstate - Gravediggers_RAW\07_SnareFX.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_HiHat:
+    08_HiHat.wav:
+      Track_path: Hollowstate - Gravediggers\Hollowstate - Gravediggers_RAW\08_HiHat.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_Cymbals: {}
+  Drum_Overheads:
+    12_OverheadsStereo.wav:
+      Track_path: Hollowstate - Gravediggers\Hollowstate - Gravediggers_RAW\12_OverheadsStereo.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    13_OverheadMono.wav:
+      Track_path: Hollowstate - Gravediggers\Hollowstate - Gravediggers_RAW\13_OverheadMono.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    14_DrumsSansamp.wav:
+      Track_path: Hollowstate - Gravediggers\Hollowstate - Gravediggers_RAW\14_DrumsSansamp.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Tom:
+    09_Tom1.wav:
+      Track_path: Hollowstate - Gravediggers\Hollowstate - Gravediggers_RAW\09_Tom1.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    10_Tom2.wav:
+      Track_path: Hollowstate - Gravediggers\Hollowstate - Gravediggers_RAW\10_Tom2.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    11_Tom3.wav:
+      Track_path: Hollowstate - Gravediggers\Hollowstate - Gravediggers_RAW\11_Tom3.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_Room:
+    15_DrumsRoomStereo1.wav:
+      Track_path: Hollowstate - Gravediggers\Hollowstate - Gravediggers_RAW\15_DrumsRoomStereo1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    16_DrumsRoomStereo2.wav:
+      Track_path: Hollowstate - Gravediggers\Hollowstate - Gravediggers_RAW\16_DrumsRoomStereo2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    17_DrumsRoomStereo3.wav:
+      Track_path: Hollowstate - Gravediggers\Hollowstate - Gravediggers_RAW\17_DrumsRoomStereo3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    18_DrumsRoomMono1.wav:
+      Track_path: Hollowstate - Gravediggers\Hollowstate - Gravediggers_RAW\18_DrumsRoomMono1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    19_DrumsRoomMono2.wav:
+      Track_path: Hollowstate - Gravediggers\Hollowstate - Gravediggers_RAW\19_DrumsRoomMono2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Shaker:
+    20_Shaker.wav:
+      Track_path: Hollowstate - Gravediggers\Hollowstate - Gravediggers_RAW\20_Shaker.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga:
+    21_Congas.wav:
+      Track_path: Hollowstate - Gravediggers\Hollowstate - Gravediggers_RAW\21_Congas.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop:
+    22_Loop.wav:
+      Track_path: Hollowstate - Gravediggers\Hollowstate - Gravediggers_RAW\22_Loop.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    24_Break.wav:
+      Track_path: Hollowstate - Gravediggers\Hollowstate - Gravediggers_RAW\24_Break.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass: {}
+  Electric_Bass:
+    26_Bass.wav:
+      Track_path: Hollowstate - Gravediggers\Hollowstate - Gravediggers_RAW\26_Bass.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Acoustic_Guitar: {}
+  Electric_Guitar:
+    27_ElecGtr01.wav:
+      Track_path: Hollowstate - Gravediggers\Hollowstate - Gravediggers_RAW\27_ElecGtr01.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    28_ElecGtr02.wav:
+      Track_path: Hollowstate - Gravediggers\Hollowstate - Gravediggers_RAW\28_ElecGtr02.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    29_ElecGtr03.wav:
+      Track_path: Hollowstate - Gravediggers\Hollowstate - Gravediggers_RAW\29_ElecGtr03.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    30_ElecGtr04.wav:
+      Track_path: Hollowstate - Gravediggers\Hollowstate - Gravediggers_RAW\30_ElecGtr04.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    31_ElecGtr05.wav:
+      Track_path: Hollowstate - Gravediggers\Hollowstate - Gravediggers_RAW\31_ElecGtr05.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    32_ElecGtr06.wav:
+      Track_path: Hollowstate - Gravediggers\Hollowstate - Gravediggers_RAW\32_ElecGtr06.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    33_ElecGtr07.wav:
+      Track_path: Hollowstate - Gravediggers\Hollowstate - Gravediggers_RAW\33_ElecGtr07.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    34_ElecGtr08.wav:
+      Track_path: Hollowstate - Gravediggers\Hollowstate - Gravediggers_RAW\34_ElecGtr08.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    35_ElecGtr08DT.wav:
+      Track_path: Hollowstate - Gravediggers\Hollowstate - Gravediggers_RAW\35_ElecGtr08DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    36_ElecGtr09.wav:
+      Track_path: Hollowstate - Gravediggers\Hollowstate - Gravediggers_RAW\36_ElecGtr09.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    37_ElecGtr10.wav:
+      Track_path: Hollowstate - Gravediggers\Hollowstate - Gravediggers_RAW\37_ElecGtr10.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    38_ElecGtr11.wav:
+      Track_path: Hollowstate - Gravediggers\Hollowstate - Gravediggers_RAW\38_ElecGtr11.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    39_ElecGtr12.wav:
+      Track_path: Hollowstate - Gravediggers\Hollowstate - Gravediggers_RAW\39_ElecGtr12.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Piano: {}
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    42_LeadVox1.wav:
+      Track_path: Hollowstate - Gravediggers\Hollowstate - Gravediggers_RAW\42_LeadVox1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    43_LeadVox2.wav:
+      Track_path: Hollowstate - Gravediggers\Hollowstate - Gravediggers_RAW\43_LeadVox2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    44_LeadVox2DT.wav:
+      Track_path: Hollowstate - Gravediggers\Hollowstate - Gravediggers_RAW\44_LeadVox2DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Choir: {}
+  Backing_Vocal:
+    45_BackingVox1.wav:
+      Track_path: Hollowstate - Gravediggers\Hollowstate - Gravediggers_RAW\45_BackingVox1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    46_BackingVox1DT.wav:
+      Track_path: Hollowstate - Gravediggers\Hollowstate - Gravediggers_RAW\46_BackingVox1DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    47_BackingVox2.wav:
+      Track_path: Hollowstate - Gravediggers\Hollowstate - Gravediggers_RAW\47_BackingVox2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    48_BackingVox2DT.wav:
+      Track_path: Hollowstate - Gravediggers\Hollowstate - Gravediggers_RAW\48_BackingVox2DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    49_BackingVox3.wav:
+      Track_path: Hollowstate - Gravediggers\Hollowstate - Gravediggers_RAW\49_BackingVox3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    50_BackingVox3DT.wav:
+      Track_path: Hollowstate - Gravediggers\Hollowstate - Gravediggers_RAW\50_BackingVox3DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Unused: {}
+  Ambient_Microphone: {}

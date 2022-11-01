@@ -1,0 +1,198 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer:
+    20_Synth.wav:
+      Track_path: Marc Ellason - Upside Down\Marc Ellason - Upside Down_RAW\20_Synth.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  SFX: {}
+  Marimba: {}
+  Bell:
+    21_HandBells.wav:
+      Track_path: Marc Ellason - Upside Down\Marc Ellason - Upside Down_RAW\21_HandBells.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    01_Kick1.wav:
+      Track_path: Marc Ellason - Upside Down\Marc Ellason - Upside Down_RAW\01_Kick1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    02_Kick2.wav:
+      Track_path: Marc Ellason - Upside Down\Marc Ellason - Upside Down_RAW\02_Kick2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Snare:
+    03_Snare1.wav:
+      Track_path: Marc Ellason - Upside Down\Marc Ellason - Upside Down_RAW\03_Snare1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    04_Snare2.wav:
+      Track_path: Marc Ellason - Upside Down\Marc Ellason - Upside Down_RAW\04_Snare2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_HiHat:
+    05_HiHat.wav:
+      Track_path: Marc Ellason - Upside Down\Marc Ellason - Upside Down_RAW\05_HiHat.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Cymbals: {}
+  Drum_Overheads:
+    08_Overheads.wav:
+      Track_path: Marc Ellason - Upside Down\Marc Ellason - Upside Down_RAW\08_Overheads.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Tom:
+    06_Toms1.wav:
+      Track_path: Marc Ellason - Upside Down\Marc Ellason - Upside Down_RAW\06_Toms1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    07_Toms2.wav:
+      Track_path: Marc Ellason - Upside Down\Marc Ellason - Upside Down_RAW\07_Toms2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Room: {}
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop: {}
+  Clicks: {}
+  Claps:
+    09_Claps.wav:
+      Track_path: Marc Ellason - Upside Down\Marc Ellason - Upside Down_RAW\09_Claps.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong:
+    10_Gong.wav:
+      Track_path: Marc Ellason - Upside Down\Marc Ellason - Upside Down_RAW\10_Gong.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass: {}
+  Electric_Bass:
+    11_Bass.wav:
+      Track_path: Marc Ellason - Upside Down\Marc Ellason - Upside Down_RAW\11_Bass.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Acoustic_Guitar: {}
+  Electric_Guitar:
+    12_ElecGtr1.wav:
+      Track_path: Marc Ellason - Upside Down\Marc Ellason - Upside Down_RAW\12_ElecGtr1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    13_ElecGtr2Mic1.wav:
+      Track_path: Marc Ellason - Upside Down\Marc Ellason - Upside Down_RAW\13_ElecGtr2Mic1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    14_ElecGtr2Mic2.wav:
+      Track_path: Marc Ellason - Upside Down\Marc Ellason - Upside Down_RAW\14_ElecGtr2Mic2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    15_ElecGtr3Mic1.wav:
+      Track_path: Marc Ellason - Upside Down\Marc Ellason - Upside Down_RAW\15_ElecGtr3Mic1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    16_ElecGtr3Mic2.wav:
+      Track_path: Marc Ellason - Upside Down\Marc Ellason - Upside Down_RAW\16_ElecGtr3Mic2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    17_ElecGtr4.wav:
+      Track_path: Marc Ellason - Upside Down\Marc Ellason - Upside Down_RAW\17_ElecGtr4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    18_ElecGtr5.wav:
+      Track_path: Marc Ellason - Upside Down\Marc Ellason - Upside Down_RAW\18_ElecGtr5.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    19_ElecGtr6.wav:
+      Track_path: Marc Ellason - Upside Down\Marc Ellason - Upside Down_RAW\19_ElecGtr6.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Piano: {}
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    22_LeadVox.wav:
+      Track_path: Marc Ellason - Upside Down\Marc Ellason - Upside Down_RAW\22_LeadVox.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    23_LeadVoxDT.wav:
+      Track_path: Marc Ellason - Upside Down\Marc Ellason - Upside Down_RAW\23_LeadVoxDT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Choir: {}
+  Backing_Vocal:
+    24_BackingVox.wav:
+      Track_path: Marc Ellason - Upside Down\Marc Ellason - Upside Down_RAW\24_BackingVox.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    25_VoxSample.wav:
+      Track_path: Marc Ellason - Upside Down\Marc Ellason - Upside Down_RAW\25_VoxSample.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Unused: {}
+  Ambient_Microphone: {}

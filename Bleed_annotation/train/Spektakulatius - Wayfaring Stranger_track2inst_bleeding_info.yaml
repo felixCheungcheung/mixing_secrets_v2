@@ -1,0 +1,118 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer: {}
+  SFX: {}
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    01_Kick_LiveRoom.wav:
+      Track_path: Spektakulatius - Wayfaring Stranger\Spektakulatius - Wayfaring Stranger_RAW\01_Kick_LiveRoom.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Saxophone, Drum_Overheads, Piano, Double_Bass'
+      Comment: ''
+  Drum_Snare:
+    02_Snare_LiveRoom.wav:
+      Track_path: Spektakulatius - Wayfaring Stranger\Spektakulatius - Wayfaring Stranger_RAW\02_Snare_LiveRoom.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Saxophone, Drum_Overheads, Piano, Double_Bass'
+      Comment: ''
+  Drum_HiHat: {}
+  Drum_Cymbals: {}
+  Drum_Overheads:
+    03_Overheads_LiveRoom.wav:
+      Track_path: Spektakulatius - Wayfaring Stranger\Spektakulatius - Wayfaring Stranger_RAW\03_Overheads_LiveRoom.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Saxophone, Piano, Double_Bass'
+      Comment: ''
+  Drum_Tom:
+    04_Toms_LiveRoom.wav:
+      Track_path: Spektakulatius - Wayfaring Stranger\Spektakulatius - Wayfaring Stranger_RAW\04_Toms_LiveRoom.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Saxophone, Drum_Overheads, Piano, Double_Bass'
+      Comment: ''
+  Drum_Room: {}
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop: {}
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass: {}
+  Electric_Bass: {}
+  Acoustic_Guitar: {}
+  Electric_Guitar: {}
+  Piano:
+    07_Piano_LiveRoom.wav:
+      Track_path: Spektakulatius - Wayfaring Stranger\Spektakulatius - Wayfaring Stranger_RAW\07_Piano_LiveRoom.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads, Saxophone'
+      Comment: ''
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone:
+    08_Saxophone_LiveRoom.wav:
+      Track_path: Spektakulatius - Wayfaring Stranger\Spektakulatius - Wayfaring Stranger_RAW\08_Saxophone_LiveRoom.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads, Piano'
+      Comment: ''
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass:
+    05_BassMic_LiveRoom.wav:
+      Track_path: Spektakulatius - Wayfaring Stranger\Spektakulatius - Wayfaring Stranger_RAW\05_BassMic_LiveRoom.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Saxophone, Drum_Overheads, Piano'
+      Comment: ''
+    06_BassDI_LiveRoom.wav:
+      Track_path: Spektakulatius - Wayfaring Stranger\Spektakulatius - Wayfaring Stranger_RAW\06_BassDI_LiveRoom.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Saxophone'
+      Comment: ''
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    09_LeadVox_IsoBooth.wav:
+      Track_path: Spektakulatius - Wayfaring Stranger\Spektakulatius - Wayfaring Stranger_RAW\09_LeadVox_IsoBooth.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads, Saxophone, Piano'
+      Comment: ''
+  Choir: {}
+  Backing_Vocal: {}
+  Unused: {}
+  Ambient_Microphone: {}

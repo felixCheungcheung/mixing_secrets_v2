@@ -1,0 +1,163 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer: {}
+  SFX: {}
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    Drums-Kick In-M82.wav:
+      Track_path: Ripe - 4 Out Of 10\Ripe - 4 Out Of 10_RAW\Drums-Kick In-M82.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads'
+      Comment: ''
+    Drums-Kick Out-Cu29.wav:
+      Track_path: Ripe - 4 Out Of 10\Ripe - 4 Out Of 10_RAW\Drums-Kick Out-Cu29.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads'
+      Comment: ''
+  Drum_Snare:
+    Drums-Snare Bottom-M80.wav:
+      Track_path: Ripe - 4 Out Of 10\Ripe - 4 Out Of 10_RAW\Drums-Snare Bottom-M80.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads'
+      Comment: ''
+    Drums-Snare Top-M60.wav:
+      Track_path: Ripe - 4 Out Of 10\Ripe - 4 Out Of 10_RAW\Drums-Snare Top-M60.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads'
+      Comment: ''
+  Drum_HiHat:
+    Drums-Hat-M60.wav:
+      Track_path: Ripe - 4 Out Of 10\Ripe - 4 Out Of 10_RAW\Drums-Hat-M60.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads, Lead_Vocal'
+      Comment: ''
+  Drum_Cymbals: {}
+  Drum_Overheads:
+    Drums-Overhead-Ar51.wav:
+      Track_path: Ripe - 4 Out Of 10\Ripe - 4 Out Of 10_RAW\Drums-Overhead-Ar51.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Lead_Vocal, Trumpet'
+      Comment: ''
+  Drum_Tom:
+    Drums-Floor Tom-M82.wav:
+      Track_path: Ripe - 4 Out Of 10\Ripe - 4 Out Of 10_RAW\Drums-Floor Tom-M82.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads, Lead_Vocal'
+      Comment: ''
+    Drums-Tom1-M81.wav:
+      Track_path: Ripe - 4 Out Of 10\Ripe - 4 Out Of 10_RAW\Drums-Tom1-M81.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads, Lead_Vocal'
+      Comment: ''
+  Drum_Room: {}
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop: {}
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass: {}
+  Electric_Bass:
+    Bass-DI.wav:
+      Track_path: Ripe - 4 Out Of 10\Ripe - 4 Out Of 10_RAW\Bass-DI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Acoustic_Guitar: {}
+  Electric_Guitar:
+    Guitar-Condenser Jon-Cu29.wav:
+      Track_path: Ripe - 4 Out Of 10\Ripe - 4 Out Of 10_RAW\Guitar-Condenser Jon-Cu29.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Guitar-Condenser Tory-Cu29.wav:
+      Track_path: Ripe - 4 Out Of 10\Ripe - 4 Out Of 10_RAW\Guitar-Condenser Tory-Cu29.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Guitar-Dynamic Jon-M81.wav:
+      Track_path: Ripe - 4 Out Of 10\Ripe - 4 Out Of 10_RAW\Guitar-Dynamic Jon-M81.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Guitar-Dynamic Tory-M80sh.wav:
+      Track_path: Ripe - 4 Out Of 10\Ripe - 4 Out Of 10_RAW\Guitar-Dynamic Tory-M80sh.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Piano: {}
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet:
+    Horns-Trumpet-M81sh.wav:
+      Track_path: Ripe - 4 Out Of 10\Ripe - 4 Out Of 10_RAW\Horns-Trumpet-M81sh.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads, Electric_Guitar, Lead_Vocal, Trombone'
+      Comment: ''
+  French_Horn: {}
+  Trombone:
+    Horns-Bone-M82.wav:
+      Track_path: Ripe - 4 Out Of 10\Ripe - 4 Out Of 10_RAW\Horns-Bone-M82.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads, Electric_Guitar, Lead_Vocal, Trumpet'
+      Comment: ''
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    Vocals-Main-M80.wav:
+      Track_path: Ripe - 4 Out Of 10\Ripe - 4 Out Of 10_RAW\Vocals-Main-M80.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads, Electric_Guitar, Trumpet, Trombone'
+      Comment: ''
+  Choir: {}
+  Backing_Vocal: {}
+  Unused: {}
+  Ambient_Microphone:
+    Chamber-Ar70.wav:
+      Track_path: Ripe - 4 Out Of 10\Ripe - 4 Out Of 10_RAW\Chamber-Ar70.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Room-U47.wav:
+      Track_path: Ripe - 4 Out Of 10\Ripe - 4 Out Of 10_RAW\Room-U47.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: ''
+      Comment: ''

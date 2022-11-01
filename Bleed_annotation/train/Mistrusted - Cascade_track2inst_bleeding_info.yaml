@@ -1,0 +1,183 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer:
+    18_Stylophone.wav:
+      Track_path: Mistrusted - Cascade\Mistrusted - Cascade_RAW\18_Stylophone.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  SFX: {}
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    01_Kick.wav:
+      Track_path: Mistrusted - Cascade\Mistrusted - Cascade_RAW\01_Kick.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_Snare:
+    02_SnareUp.wav:
+      Track_path: Mistrusted - Cascade\Mistrusted - Cascade_RAW\02_SnareUp.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    03_SnareFX.wav:
+      Track_path: Mistrusted - Cascade\Mistrusted - Cascade_RAW\03_SnareFX.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_HiHat: {}
+  Drum_Cymbals: {}
+  Drum_Overheads:
+    06_OverheadMono.wav:
+      Track_path: Mistrusted - Cascade\Mistrusted - Cascade_RAW\06_OverheadMono.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    07_OverheadsStereo.wav:
+      Track_path: Mistrusted - Cascade\Mistrusted - Cascade_RAW\07_OverheadsStereo.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Tom:
+    04_Tom1.wav:
+      Track_path: Mistrusted - Cascade\Mistrusted - Cascade_RAW\04_Tom1.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    05_Tom2.wav:
+      Track_path: Mistrusted - Cascade\Mistrusted - Cascade_RAW\05_Tom2.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_Room:
+    08_DrumsRoom.wav:
+      Track_path: Mistrusted - Cascade\Mistrusted - Cascade_RAW\08_DrumsRoom.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Shaker:
+    09_Shaker.wav:
+      Track_path: Mistrusted - Cascade\Mistrusted - Cascade_RAW\09_Shaker.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop: {}
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass: {}
+  Electric_Bass:
+    10_BassAmp.wav:
+      Track_path: Mistrusted - Cascade\Mistrusted - Cascade_RAW\10_BassAmp.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    11_BassDI.wav:
+      Track_path: Mistrusted - Cascade\Mistrusted - Cascade_RAW\11_BassDI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Acoustic_Guitar: {}
+  Electric_Guitar:
+    12_ElecGtr01.wav:
+      Track_path: Mistrusted - Cascade\Mistrusted - Cascade_RAW\12_ElecGtr01.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    13_ElecGtr01DT.wav:
+      Track_path: Mistrusted - Cascade\Mistrusted - Cascade_RAW\13_ElecGtr01DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    14_ElecGtr02.wav:
+      Track_path: Mistrusted - Cascade\Mistrusted - Cascade_RAW\14_ElecGtr02.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    15_ElecGtr03.wav:
+      Track_path: Mistrusted - Cascade\Mistrusted - Cascade_RAW\15_ElecGtr03.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    16_ElecGtr04.wav:
+      Track_path: Mistrusted - Cascade\Mistrusted - Cascade_RAW\16_ElecGtr04.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    17_ElecGtr04DT.wav:
+      Track_path: Mistrusted - Cascade\Mistrusted - Cascade_RAW\17_ElecGtr04DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Piano: {}
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    19_LeadVox.wav:
+      Track_path: Mistrusted - Cascade\Mistrusted - Cascade_RAW\19_LeadVox.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    20_LeadVoxDT.wav:
+      Track_path: Mistrusted - Cascade\Mistrusted - Cascade_RAW\20_LeadVoxDT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Choir: {}
+  Backing_Vocal:
+    21_BackingVox.wav:
+      Track_path: Mistrusted - Cascade\Mistrusted - Cascade_RAW\21_BackingVox.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    22_BackingVoxDT.wav:
+      Track_path: Mistrusted - Cascade\Mistrusted - Cascade_RAW\22_BackingVoxDT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Unused: {}
+  Ambient_Microphone: {}

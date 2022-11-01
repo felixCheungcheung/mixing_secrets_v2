@@ -1,0 +1,193 @@
+Track2inst:
+  Electric_Organ:
+    Keys-Nord- Active DI.wav:
+      Track_path: Szlachetka - Heart Of My Home Town\Szlachetka - Heart Of My Home
+        Town_RAW\Keys-Nord- Active DI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Synthesizer: {}
+  SFX: {}
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    Drums-Kick-M82.wav:
+      Track_path: Szlachetka - Heart Of My Home Town\Szlachetka - Heart Of My Home
+        Town_RAW\Drums-Kick-M82.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads, Electric_Guitar'
+      Comment: ''
+  Drum_Snare:
+    Drums-Snare Bottom-M81.wav:
+      Track_path: Szlachetka - Heart Of My Home Town\Szlachetka - Heart Of My Home
+        Town_RAW\Drums-Snare Bottom-M81.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads, Electric_Guitar'
+      Comment: ''
+    Drums-Snare Top-M80.wav:
+      Track_path: Szlachetka - Heart Of My Home Town\Szlachetka - Heart Of My Home
+        Town_RAW\Drums-Snare Top-M80.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads, Electric_Guitar'
+      Comment: ''
+  Drum_HiHat:
+    Drums-HAT- Ela M 260.wav:
+      Track_path: Szlachetka - Heart Of My Home Town\Szlachetka - Heart Of My Home
+        Town_RAW\Drums-HAT- Ela M 260.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Cymbals: {}
+  Drum_Overheads:
+    Drums-Overheads-M60.wav:
+      Track_path: Szlachetka - Heart Of My Home Town\Szlachetka - Heart Of My Home
+        Town_RAW\Drums-Overheads-M60.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Electric_Guitar'
+      Comment: ''
+  Drum_Tom:
+    Drums-Floor Tom-M81.wav:
+      Track_path: Szlachetka - Heart Of My Home Town\Szlachetka - Heart Of My Home
+        Town_RAW\Drums-Floor Tom-M81.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads, Electric_Guitar'
+      Comment: ''
+    Drums-Rack Tom-M80.wav:
+      Track_path: Szlachetka - Heart Of My Home Town\Szlachetka - Heart Of My Home
+        Town_RAW\Drums-Rack Tom-M80.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads, Electric_Guitar'
+      Comment: ''
+  Drum_Room:
+    Drums-Chamber- AR70.wav:
+      Track_path: Szlachetka - Heart Of My Home Town\Szlachetka - Heart Of My Home
+        Town_RAW\Drums-Chamber- AR70.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Electric_Guitar'
+      Comment: ''
+    Drums-WVO- AR51.wav:
+      Track_path: Szlachetka - Heart Of My Home Town\Szlachetka - Heart Of My Home
+        Town_RAW\Drums-WVO- AR51.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Electric_Guitar, Electric_Organ'
+      Comment: ''
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop: {}
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass: {}
+  Electric_Bass:
+    Bass-Active DI.wav:
+      Track_path: Szlachetka - Heart Of My Home Town\Szlachetka - Heart Of My Home
+        Town_RAW\Bass-Active DI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Bass-Amp-AK47.wav:
+      Track_path: Szlachetka - Heart Of My Home Town\Szlachetka - Heart Of My Home
+        Town_RAW\Bass-Amp-AK47.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Acoustic_Guitar: {}
+  Electric_Guitar:
+    ELE Guitar-Amp1-M80.wav:
+      Track_path: Szlachetka - Heart Of My Home Town\Szlachetka - Heart Of My Home
+        Town_RAW\ELE Guitar-Amp1-M80.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads'
+      Comment: ''
+    ELE Guitar-Amp2-M81.wav:
+      Track_path: Szlachetka - Heart Of My Home Town\Szlachetka - Heart Of My Home
+        Town_RAW\ELE Guitar-Amp2-M81.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads'
+      Comment: ''
+  Piano: {}
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    Vocals-Lead-M80_18-14.wav:
+      Track_path: Szlachetka - Heart Of My Home Town\Szlachetka - Heart Of My Home
+        Town_RAW\Vocals-Lead-M80_18-14.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads, Electric_Guitar'
+      Comment: ''
+  Choir: {}
+  Backing_Vocal:
+    Vocals-BG Bass- M81-19.wav:
+      Track_path: Szlachetka - Heart Of My Home Town\Szlachetka - Heart Of My Home
+        Town_RAW\Vocals-BG Bass- M81-19.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads, Electric_Guitar'
+      Comment: ''
+    Vocals-Keys2-M81_09-07.wav:
+      Track_path: Szlachetka - Heart Of My Home Town\Szlachetka - Heart Of My Home
+        Town_RAW\Vocals-Keys2-M81_09-07.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads, Electric_Guitar'
+      Comment: ''
+  Unused:
+    Vocals-BG Keys-M81_09-07.wav:
+      Track_path: Szlachetka - Heart Of My Home Town\Szlachetka - Heart Of My Home
+        Town_RAW\Vocals-BG Keys-M81_09-07.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: ''
+      Comment: 'too much leakage'
+    Keys-Piano- M60.wav:
+      Track_path: Szlachetka - Heart Of My Home Town\Szlachetka - Heart Of My Home
+        Town_RAW\Keys-Piano- M60.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: ''
+      Comment: 'no piano content'
+    Keys-Piano- M80.wav:
+      Track_path: Szlachetka - Heart Of My Home Town\Szlachetka - Heart Of My Home
+        Town_RAW\Keys-Piano- M80.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: ''
+      Comment: 'no piano content'
+  Ambient_Microphone: {}

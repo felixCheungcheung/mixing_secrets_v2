@@ -1,0 +1,199 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer:
+    18_Synth1.wav:
+      Track_path: Nahum Strickland - Steampunk Siege\Nahum Strickland - Steampunk
+        Siege_RAW\18_Synth1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    19_Synth2.wav:
+      Track_path: Nahum Strickland - Steampunk Siege\Nahum Strickland - Steampunk
+        Siege_RAW\19_Synth2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    20_Synth3.wav:
+      Track_path: Nahum Strickland - Steampunk Siege\Nahum Strickland - Steampunk
+        Siege_RAW\20_Synth3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  SFX:
+    01_SFXLoop1.wav:
+      Track_path: Nahum Strickland - Steampunk Siege\Nahum Strickland - Steampunk
+        Siege_RAW\01_SFXLoop1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    02_SFXLoop2.wav:
+      Track_path: Nahum Strickland - Steampunk Siege\Nahum Strickland - Steampunk
+        Siege_RAW\02_SFXLoop2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    03_SFXLoop3.wav:
+      Track_path: Nahum Strickland - Steampunk Siege\Nahum Strickland - Steampunk
+        Siege_RAW\03_SFXLoop3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    04_SFXLoop4.wav:
+      Track_path: Nahum Strickland - Steampunk Siege\Nahum Strickland - Steampunk
+        Siege_RAW\04_SFXLoop4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    10_SFX1.wav:
+      Track_path: Nahum Strickland - Steampunk Siege\Nahum Strickland - Steampunk
+        Siege_RAW\10_SFX1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    11_SFX2.wav:
+      Track_path: Nahum Strickland - Steampunk Siege\Nahum Strickland - Steampunk
+        Siege_RAW\11_SFX2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick: {}
+  Drum_Snare: {}
+  Drum_HiHat: {}
+  Drum_Cymbals:
+    09_Cymbal.wav:
+      Track_path: Nahum Strickland - Steampunk Siege\Nahum Strickland - Steampunk
+        Siege_RAW\09_Cymbal.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Overheads: {}
+  Drum_Tom: {}
+  Drum_Room: {}
+  Shaker: {}
+  Taiko:
+    08_Taiko.wav:
+      Track_path: Nahum Strickland - Steampunk Siege\Nahum Strickland - Steampunk
+        Siege_RAW\08_Taiko.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop: {}
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion:
+    05_Drums1.wav:
+      Track_path: Nahum Strickland - Steampunk Siege\Nahum Strickland - Steampunk
+        Siege_RAW\05_Drums1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    06_Drums2.wav:
+      Track_path: Nahum Strickland - Steampunk Siege\Nahum Strickland - Steampunk
+        Siege_RAW\06_Drums2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    07_Drums3.wav:
+      Track_path: Nahum Strickland - Steampunk Siege\Nahum Strickland - Steampunk
+        Siege_RAW\07_Drums3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Synth_Bass:
+    21_Synth4.wav:
+      Track_path: Nahum Strickland - Steampunk Siege\Nahum Strickland - Steampunk
+        Siege_RAW\21_Synth4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Electric_Bass:
+    12_BassLo.wav:
+      Track_path: Nahum Strickland - Steampunk Siege\Nahum Strickland - Steampunk
+        Siege_RAW\12_BassLo.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    13_BassHi.wav:
+      Track_path: Nahum Strickland - Steampunk Siege\Nahum Strickland - Steampunk
+        Siege_RAW\13_BassHi.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Acoustic_Guitar: {}
+  Electric_Guitar: {}
+  Piano: {}
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello:
+    17_Cellos.wav:
+      Track_path: Nahum Strickland - Steampunk Siege\Nahum Strickland - Steampunk
+        Siege_RAW\17_Cellos.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Flute:
+    14_Recordier.wav:
+      Track_path: Nahum Strickland - Steampunk Siege\Nahum Strickland - Steampunk
+        Siege_RAW\14_Recordier.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    15_EthnoFlute.wav:
+      Track_path: Nahum Strickland - Steampunk Siege\Nahum Strickland - Steampunk
+        Siege_RAW\15_EthnoFlute.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal: {}
+  Choir:
+    16_Choir.wav:
+      Track_path: Nahum Strickland - Steampunk Siege\Nahum Strickland - Steampunk
+        Siege_RAW\16_Choir.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Backing_Vocal: {}
+  Unused: {}
+  Ambient_Microphone: {}

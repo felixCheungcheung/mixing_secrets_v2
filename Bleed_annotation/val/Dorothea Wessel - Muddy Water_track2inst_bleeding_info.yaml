@@ -1,0 +1,363 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer:
+    22_Synth01.wav:
+      Track_path: Dorothea Wessel - Muddy Water\Dorothea Wessel - Muddy Water_RAW\22_Synth01.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    23_Synth02_RemixAddition.wav:
+      Track_path: Dorothea Wessel - Muddy Water\Dorothea Wessel - Muddy Water_RAW\23_Synth02_RemixAddition.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    24_Synth03_RemixAddition.wav:
+      Track_path: Dorothea Wessel - Muddy Water\Dorothea Wessel - Muddy Water_RAW\24_Synth03_RemixAddition.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    25_Synth04_RemixAddition.wav:
+      Track_path: Dorothea Wessel - Muddy Water\Dorothea Wessel - Muddy Water_RAW\25_Synth04_RemixAddition.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    26_Synth05_RemixAddition.wav:
+      Track_path: Dorothea Wessel - Muddy Water\Dorothea Wessel - Muddy Water_RAW\26_Synth05_RemixAddition.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    27_Synth06_RemixAddition.wav:
+      Track_path: Dorothea Wessel - Muddy Water\Dorothea Wessel - Muddy Water_RAW\27_Synth06_RemixAddition.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    28_Synth07_RemixAddition.wav:
+      Track_path: Dorothea Wessel - Muddy Water\Dorothea Wessel - Muddy Water_RAW\28_Synth07_RemixAddition.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    29_Synth08_RemixAddition.wav:
+      Track_path: Dorothea Wessel - Muddy Water\Dorothea Wessel - Muddy Water_RAW\29_Synth08_RemixAddition.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    30_Synth09_RemixAddition.wav:
+      Track_path: Dorothea Wessel - Muddy Water\Dorothea Wessel - Muddy Water_RAW\30_Synth09_RemixAddition.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    31_Synth10_RemixAddition.wav:
+      Track_path: Dorothea Wessel - Muddy Water\Dorothea Wessel - Muddy Water_RAW\31_Synth10_RemixAddition.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    32_Synth11.wav:
+      Track_path: Dorothea Wessel - Muddy Water\Dorothea Wessel - Muddy Water_RAW\32_Synth11.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    33_Synth12.wav:
+      Track_path: Dorothea Wessel - Muddy Water\Dorothea Wessel - Muddy Water_RAW\33_Synth12.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    34_Synth13_RemixAddition.wav:
+      Track_path: Dorothea Wessel - Muddy Water\Dorothea Wessel - Muddy Water_RAW\34_Synth13_RemixAddition.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  SFX:
+    12_Drip.wav:
+      Track_path: Dorothea Wessel - Muddy Water\Dorothea Wessel - Muddy Water_RAW\12_Drip.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp:
+    38_HarpSFX_RemixAddition.wav:
+      Track_path: Dorothea Wessel - Muddy Water\Dorothea Wessel - Muddy Water_RAW\38_HarpSFX_RemixAddition.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    01_Kick.wav:
+      Track_path: Dorothea Wessel - Muddy Water\Dorothea Wessel - Muddy Water_RAW\01_Kick.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Snare:
+    02_Snare.wav:
+      Track_path: Dorothea Wessel - Muddy Water\Dorothea Wessel - Muddy Water_RAW\02_Snare.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_HiHat:
+    04_HiHat.wav:
+      Track_path: Dorothea Wessel - Muddy Water\Dorothea Wessel - Muddy Water_RAW\04_HiHat.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Cymbals:
+    09_Overheads_CymbalsOnly.wav:
+      Track_path: Dorothea Wessel - Muddy Water\Dorothea Wessel - Muddy Water_RAW\09_Overheads_CymbalsOnly.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    11_Room_CymbalsOnly.wav:
+      Track_path: Dorothea Wessel - Muddy Water\Dorothea Wessel - Muddy Water_RAW\11_Room_CymbalsOnly.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    13_ReverseCymbal.wav:
+      Track_path: Dorothea Wessel - Muddy Water\Dorothea Wessel - Muddy Water_RAW\13_ReverseCymbal.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    15_CymbalSwell_RemixAddition.wav:
+      Track_path: Dorothea Wessel - Muddy Water\Dorothea Wessel - Muddy Water_RAW\15_CymbalSwell_RemixAddition.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    17_FingerCymbals_RemixAddition.wav:
+      Track_path: Dorothea Wessel - Muddy Water\Dorothea Wessel - Muddy Water_RAW\17_FingerCymbals_RemixAddition.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Overheads:
+    08_Overheads.wav:
+      Track_path: Dorothea Wessel - Muddy Water\Dorothea Wessel - Muddy Water_RAW\08_Overheads.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    03_KickSnareFX.wav:
+      Track_path: Dorothea Wessel - Muddy Water\Dorothea Wessel - Muddy Water_RAW\03_KickSnareFX.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Tom:
+    05_Tom1.wav:
+      Track_path: Dorothea Wessel - Muddy Water\Dorothea Wessel - Muddy Water_RAW\05_Tom1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    06_Tom2.wav:
+      Track_path: Dorothea Wessel - Muddy Water\Dorothea Wessel - Muddy Water_RAW\06_Tom2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    07_Tom3.wav:
+      Track_path: Dorothea Wessel - Muddy Water\Dorothea Wessel - Muddy Water_RAW\07_Tom3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Room:
+    10_Room.wav:
+      Track_path: Dorothea Wessel - Muddy Water\Dorothea Wessel - Muddy Water_RAW\10_Room.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop:
+    16_PercussionLoop_RemixAddition.wav:
+      Track_path: Dorothea Wessel - Muddy Water\Dorothea Wessel - Muddy Water_RAW\16_PercussionLoop_RemixAddition.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong:
+    14_GongSwell_RemixAddition.wav:
+      Track_path: Dorothea Wessel - Muddy Water\Dorothea Wessel - Muddy Water_RAW\14_GongSwell_RemixAddition.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass:
+    19_BassSynth.wav:
+      Track_path: Dorothea Wessel - Muddy Water\Dorothea Wessel - Muddy Water_RAW\19_BassSynth.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    20_BassSubSynth_RemixAddition.wav:
+      Track_path: Dorothea Wessel - Muddy Water\Dorothea Wessel - Muddy Water_RAW\20_BassSubSynth_RemixAddition.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Electric_Bass: {}
+  Acoustic_Guitar:
+    21_AcousticGtr_RemixEdit.wav:
+      Track_path: Dorothea Wessel - Muddy Water\Dorothea Wessel - Muddy Water_RAW\21_AcousticGtr_RemixEdit.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Electric_Guitar:
+    18_BassGuitar.wav:
+      Track_path: Dorothea Wessel - Muddy Water\Dorothea Wessel - Muddy Water_RAW\18_BassGuitar.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Piano: {}
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet:
+    35_Trumpet.wav:
+      Track_path: Dorothea Wessel - Muddy Water\Dorothea Wessel - Muddy Water_RAW\35_Trumpet.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass:
+    37_DoubleBasses_RemixAddition.wav:
+      Track_path: Dorothea Wessel - Muddy Water\Dorothea Wessel - Muddy Water_RAW\37_DoubleBasses_RemixAddition.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Violin: {}
+  Viola:
+    36_Violas_RemixAddition.wav:
+      Track_path: Dorothea Wessel - Muddy Water\Dorothea Wessel - Muddy Water_RAW\36_Violas_RemixAddition.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    39_LeadVox.wav:
+      Track_path: Dorothea Wessel - Muddy Water\Dorothea Wessel - Muddy Water_RAW\39_LeadVox.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    40_LeadVoxDT.wav:
+      Track_path: Dorothea Wessel - Muddy Water\Dorothea Wessel - Muddy Water_RAW\40_LeadVoxDT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Choir: {}
+  Backing_Vocal:
+    41_BackingVox01.wav:
+      Track_path: Dorothea Wessel - Muddy Water\Dorothea Wessel - Muddy Water_RAW\41_BackingVox01.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    42_BackingVox02.wav:
+      Track_path: Dorothea Wessel - Muddy Water\Dorothea Wessel - Muddy Water_RAW\42_BackingVox02.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    43_BackingVox02DT.wav:
+      Track_path: Dorothea Wessel - Muddy Water\Dorothea Wessel - Muddy Water_RAW\43_BackingVox02DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    44_BackingVox03.wav:
+      Track_path: Dorothea Wessel - Muddy Water\Dorothea Wessel - Muddy Water_RAW\44_BackingVox03.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    45_BackingVox03DT.wav:
+      Track_path: Dorothea Wessel - Muddy Water\Dorothea Wessel - Muddy Water_RAW\45_BackingVox03DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    46_BackingVox04.wav:
+      Track_path: Dorothea Wessel - Muddy Water\Dorothea Wessel - Muddy Water_RAW\46_BackingVox04.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    47_BackingVox04DT.wav:
+      Track_path: Dorothea Wessel - Muddy Water\Dorothea Wessel - Muddy Water_RAW\47_BackingVox04DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    48_BackingVox05.wav:
+      Track_path: Dorothea Wessel - Muddy Water\Dorothea Wessel - Muddy Water_RAW\48_BackingVox05.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    49_BackingVox05DT.wav:
+      Track_path: Dorothea Wessel - Muddy Water\Dorothea Wessel - Muddy Water_RAW\49_BackingVox05DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    50_BackingVox06.wav:
+      Track_path: Dorothea Wessel - Muddy Water\Dorothea Wessel - Muddy Water_RAW\50_BackingVox06.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    51_BackingVox06DT.wav:
+      Track_path: Dorothea Wessel - Muddy Water\Dorothea Wessel - Muddy Water_RAW\51_BackingVox06DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    52_BackingVox07.wav:
+      Track_path: Dorothea Wessel - Muddy Water\Dorothea Wessel - Muddy Water_RAW\52_BackingVox07.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    53_BackingVox07DT.wav:
+      Track_path: Dorothea Wessel - Muddy Water\Dorothea Wessel - Muddy Water_RAW\53_BackingVox07DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    54_BackingVox08.wav:
+      Track_path: Dorothea Wessel - Muddy Water\Dorothea Wessel - Muddy Water_RAW\54_BackingVox08.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    55_BackingVox08DT.wav:
+      Track_path: Dorothea Wessel - Muddy Water\Dorothea Wessel - Muddy Water_RAW\55_BackingVox08DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    56_BackingVox09.wav:
+      Track_path: Dorothea Wessel - Muddy Water\Dorothea Wessel - Muddy Water_RAW\56_BackingVox09.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    57_BackingVox10.wav:
+      Track_path: Dorothea Wessel - Muddy Water\Dorothea Wessel - Muddy Water_RAW\57_BackingVox10.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    58_BackingVox11.wav:
+      Track_path: Dorothea Wessel - Muddy Water\Dorothea Wessel - Muddy Water_RAW\58_BackingVox11.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Unused: {}
+  Ambient_Microphone: {}

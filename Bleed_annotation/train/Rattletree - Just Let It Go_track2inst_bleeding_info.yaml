@@ -1,0 +1,448 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer:
+    40_Synth01.wav:
+      Track_path: Rattletree - Just Let It Go\Rattletree - Just Let It Go_RAW\40_Synth01.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    41_Synth02.wav:
+      Track_path: Rattletree - Just Let It Go\Rattletree - Just Let It Go_RAW\41_Synth02.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    42_Synth03.wav:
+      Track_path: Rattletree - Just Let It Go\Rattletree - Just Let It Go_RAW\42_Synth03.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    43_Synth04.wav:
+      Track_path: Rattletree - Just Let It Go\Rattletree - Just Let It Go_RAW\43_Synth04.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    44_Synth05.wav:
+      Track_path: Rattletree - Just Let It Go\Rattletree - Just Let It Go_RAW\44_Synth05.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    45_Synth06.wav:
+      Track_path: Rattletree - Just Let It Go\Rattletree - Just Let It Go_RAW\45_Synth06.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    46_Synth07.wav:
+      Track_path: Rattletree - Just Let It Go\Rattletree - Just Let It Go_RAW\46_Synth07.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    47_Synth08.wav:
+      Track_path: Rattletree - Just Let It Go\Rattletree - Just Let It Go_RAW\47_Synth08.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    48_Synth09.wav:
+      Track_path: Rattletree - Just Let It Go\Rattletree - Just Let It Go_RAW\48_Synth09.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    49_Synth10.wav:
+      Track_path: Rattletree - Just Let It Go\Rattletree - Just Let It Go_RAW\49_Synth10.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    50_Synth11.wav:
+      Track_path: Rattletree - Just Let It Go\Rattletree - Just Let It Go_RAW\50_Synth11.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    51_Synth12.wav:
+      Track_path: Rattletree - Just Let It Go\Rattletree - Just Let It Go_RAW\51_Synth12.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    52_Synth13.wav:
+      Track_path: Rattletree - Just Let It Go\Rattletree - Just Let It Go_RAW\52_Synth13.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    53_Synth14.wav:
+      Track_path: Rattletree - Just Let It Go\Rattletree - Just Let It Go_RAW\53_Synth14.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    54_Synth15.wav:
+      Track_path: Rattletree - Just Let It Go\Rattletree - Just Let It Go_RAW\54_Synth15.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    55_Synth16.wav:
+      Track_path: Rattletree - Just Let It Go\Rattletree - Just Let It Go_RAW\55_Synth16.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    56_Synth17.wav:
+      Track_path: Rattletree - Just Let It Go\Rattletree - Just Let It Go_RAW\56_Synth17.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    57_Synth18.wav:
+      Track_path: Rattletree - Just Let It Go\Rattletree - Just Let It Go_RAW\57_Synth18.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    58_Synth19.wav:
+      Track_path: Rattletree - Just Let It Go\Rattletree - Just Let It Go_RAW\58_Synth19.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    59_Synth20.wav:
+      Track_path: Rattletree - Just Let It Go\Rattletree - Just Let It Go_RAW\59_Synth20.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    60_Synth21.wav:
+      Track_path: Rattletree - Just Let It Go\Rattletree - Just Let It Go_RAW\60_Synth21.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    61_Synth22.wav:
+      Track_path: Rattletree - Just Let It Go\Rattletree - Just Let It Go_RAW\61_Synth22.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    62_Synth23.wav:
+      Track_path: Rattletree - Just Let It Go\Rattletree - Just Let It Go_RAW\62_Synth23.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    63_Synth24.wav:
+      Track_path: Rattletree - Just Let It Go\Rattletree - Just Let It Go_RAW\63_Synth24.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    64_Synth25.wav:
+      Track_path: Rattletree - Just Let It Go\Rattletree - Just Let It Go_RAW\64_Synth25.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    65_Synth26.wav:
+      Track_path: Rattletree - Just Let It Go\Rattletree - Just Let It Go_RAW\65_Synth26.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  SFX:
+    16_SFX01.wav:
+      Track_path: Rattletree - Just Let It Go\Rattletree - Just Let It Go_RAW\16_SFX01.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    17_SFX02.wav:
+      Track_path: Rattletree - Just Let It Go\Rattletree - Just Let It Go_RAW\17_SFX02.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    18_SFX03.wav:
+      Track_path: Rattletree - Just Let It Go\Rattletree - Just Let It Go_RAW\18_SFX03.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    19_SFX04.wav:
+      Track_path: Rattletree - Just Let It Go\Rattletree - Just Let It Go_RAW\19_SFX04.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    20_SFX05.wav:
+      Track_path: Rattletree - Just Let It Go\Rattletree - Just Let It Go_RAW\20_SFX05.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    21_SFX06.wav:
+      Track_path: Rattletree - Just Let It Go\Rattletree - Just Let It Go_RAW\21_SFX06.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    22_SFX07.wav:
+      Track_path: Rattletree - Just Let It Go\Rattletree - Just Let It Go_RAW\22_SFX07.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    23_SFX08.wav:
+      Track_path: Rattletree - Just Let It Go\Rattletree - Just Let It Go_RAW\23_SFX08.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    24_SFX09.wav:
+      Track_path: Rattletree - Just Let It Go\Rattletree - Just Let It Go_RAW\24_SFX09.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    25_SFX10.wav:
+      Track_path: Rattletree - Just Let It Go\Rattletree - Just Let It Go_RAW\25_SFX10.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    26_SFX11.wav:
+      Track_path: Rattletree - Just Let It Go\Rattletree - Just Let It Go_RAW\26_SFX11.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    27_SFX12.wav:
+      Track_path: Rattletree - Just Let It Go\Rattletree - Just Let It Go_RAW\27_SFX12.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    28_SFX13.wav:
+      Track_path: Rattletree - Just Let It Go\Rattletree - Just Let It Go_RAW\28_SFX13.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    29_SFX14.wav:
+      Track_path: Rattletree - Just Let It Go\Rattletree - Just Let It Go_RAW\29_SFX14.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    30_SFX15.wav:
+      Track_path: Rattletree - Just Let It Go\Rattletree - Just Let It Go_RAW\30_SFX15.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    01_Kick1.wav:
+      Track_path: Rattletree - Just Let It Go\Rattletree - Just Let It Go_RAW\01_Kick1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    02_Kick2.wav:
+      Track_path: Rattletree - Just Let It Go\Rattletree - Just Let It Go_RAW\02_Kick2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    03_Kick3.wav:
+      Track_path: Rattletree - Just Let It Go\Rattletree - Just Let It Go_RAW\03_Kick3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Snare:
+    11_Snare1.wav:
+      Track_path: Rattletree - Just Let It Go\Rattletree - Just Let It Go_RAW\11_Snare1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    12_Snare2.wav:
+      Track_path: Rattletree - Just Let It Go\Rattletree - Just Let It Go_RAW\12_Snare2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    13_Snare3.wav:
+      Track_path: Rattletree - Just Let It Go\Rattletree - Just Let It Go_RAW\13_Snare3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_HiHat:
+    09_HiHat1.wav:
+      Track_path: Rattletree - Just Let It Go\Rattletree - Just Let It Go_RAW\09_HiHat1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    10_HiHat2.wav:
+      Track_path: Rattletree - Just Let It Go\Rattletree - Just Let It Go_RAW\10_HiHat2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Cymbals:
+    14_Crash.wav:
+      Track_path: Rattletree - Just Let It Go\Rattletree - Just Let It Go_RAW\14_Crash.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    15_Ride.wav:
+      Track_path: Rattletree - Just Let It Go\Rattletree - Just Let It Go_RAW\15_Ride.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Overheads: {}
+  Drum_Tom: {}
+  Drum_Room: {}
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga:
+    05_Congas.wav:
+      Track_path: Rattletree - Just Let It Go\Rattletree - Just Let It Go_RAW\05_Congas.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop: {}
+  Clicks: {}
+  Claps:
+    04_Clap.wav:
+      Track_path: Rattletree - Just Let It Go\Rattletree - Just Let It Go_RAW\04_Clap.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion:
+    06_Gidamba.wav:
+      Track_path: Rattletree - Just Let It Go\Rattletree - Just Let It Go_RAW\06_Gidamba.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    07_Diabara.wav:
+      Track_path: Rattletree - Just Let It Go\Rattletree - Just Let It Go_RAW\07_Diabara.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    08_Percussion.wav:
+      Track_path: Rattletree - Just Let It Go\Rattletree - Just Let It Go_RAW\08_Percussion.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Synth_Bass:
+    31_BassLayer1.wav:
+      Track_path: Rattletree - Just Let It Go\Rattletree - Just Let It Go_RAW\31_BassLayer1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    32_BassLayer2.wav:
+      Track_path: Rattletree - Just Let It Go\Rattletree - Just Let It Go_RAW\32_BassLayer2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    33_BassLayer3.wav:
+      Track_path: Rattletree - Just Let It Go\Rattletree - Just Let It Go_RAW\33_BassLayer3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    34_BassLayer4.wav:
+      Track_path: Rattletree - Just Let It Go\Rattletree - Just Let It Go_RAW\34_BassLayer4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    35_BassLayer5.wav:
+      Track_path: Rattletree - Just Let It Go\Rattletree - Just Let It Go_RAW\35_BassLayer5.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    36_BassLayer6.wav:
+      Track_path: Rattletree - Just Let It Go\Rattletree - Just Let It Go_RAW\36_BassLayer6.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    37_BassLayer7.wav:
+      Track_path: Rattletree - Just Let It Go\Rattletree - Just Let It Go_RAW\37_BassLayer7.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    38_BassLayer8.wav:
+      Track_path: Rattletree - Just Let It Go\Rattletree - Just Let It Go_RAW\38_BassLayer8.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    39_BassLayer9.wav:
+      Track_path: Rattletree - Just Let It Go\Rattletree - Just Let It Go_RAW\39_BassLayer9.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Electric_Bass: {}
+  Acoustic_Guitar: {}
+  Electric_Guitar: {}
+  Piano:
+    67_Piano1.wav:
+      Track_path: Rattletree - Just Let It Go\Rattletree - Just Let It Go_RAW\67_Piano1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    68_Piano2.wav:
+      Track_path: Rattletree - Just Let It Go\Rattletree - Just Let It Go_RAW\68_Piano2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    69_Piano3.wav:
+      Track_path: Rattletree - Just Let It Go\Rattletree - Just Let It Go_RAW\69_Piano3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    70_PianoStrings.wav:
+      Track_path: Rattletree - Just Let It Go\Rattletree - Just Let It Go_RAW\70_PianoStrings.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section:
+    66_Strings.wav:
+      Track_path: Rattletree - Just Let It Go\Rattletree - Just Let It Go_RAW\66_Strings.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    71_Vox1.wav:
+      Track_path: Rattletree - Just Let It Go\Rattletree - Just Let It Go_RAW\71_Vox1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    72_Vox2.wav:
+      Track_path: Rattletree - Just Let It Go\Rattletree - Just Let It Go_RAW\72_Vox2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    73_Vox3.wav:
+      Track_path: Rattletree - Just Let It Go\Rattletree - Just Let It Go_RAW\73_Vox3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    74_Vox4.wav:
+      Track_path: Rattletree - Just Let It Go\Rattletree - Just Let It Go_RAW\74_Vox4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    75_Vox5.wav:
+      Track_path: Rattletree - Just Let It Go\Rattletree - Just Let It Go_RAW\75_Vox5.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Choir: {}
+  Backing_Vocal: {}
+  Unused: {}
+  Ambient_Microphone: {}

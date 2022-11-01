@@ -1,0 +1,163 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer:
+    14_Synth1.wav:
+      Track_path: cryonicPAX - Excessive\cryonicPAX - Excessive_RAW\14_Synth1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    15_Synth2.wav:
+      Track_path: cryonicPAX - Excessive\cryonicPAX - Excessive_RAW\15_Synth2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    16_Synth3.wav:
+      Track_path: cryonicPAX - Excessive\cryonicPAX - Excessive_RAW\16_Synth3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    17_Synth4.wav:
+      Track_path: cryonicPAX - Excessive\cryonicPAX - Excessive_RAW\17_Synth4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    18_Synth5.wav:
+      Track_path: cryonicPAX - Excessive\cryonicPAX - Excessive_RAW\18_Synth5.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  SFX: {}
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    01_Kick.wav:
+      Track_path: cryonicPAX - Excessive\cryonicPAX - Excessive_RAW\01_Kick.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Snare:
+    03_Snare1.wav:
+      Track_path: cryonicPAX - Excessive\cryonicPAX - Excessive_RAW\03_Snare1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    04_Snare1SFX1.wav:
+      Track_path: cryonicPAX - Excessive\cryonicPAX - Excessive_RAW\04_Snare1SFX1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    05_Snare1SFX2.wav:
+      Track_path: cryonicPAX - Excessive\cryonicPAX - Excessive_RAW\05_Snare1SFX2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    06_Snare2.wav:
+      Track_path: cryonicPAX - Excessive\cryonicPAX - Excessive_RAW\06_Snare2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    07_Snare3.wav:
+      Track_path: cryonicPAX - Excessive\cryonicPAX - Excessive_RAW\07_Snare3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    08_Snare3SFX.wav:
+      Track_path: cryonicPAX - Excessive\cryonicPAX - Excessive_RAW\08_Snare3SFX.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_HiHat: {}
+  Drum_Cymbals:
+    09_Crashes.wav:
+      Track_path: cryonicPAX - Excessive\cryonicPAX - Excessive_RAW\09_Crashes.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Overheads: {}
+  Drum_Tom: {}
+  Drum_Room: {}
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop:
+    02_Loop.wav:
+      Track_path: cryonicPAX - Excessive\cryonicPAX - Excessive_RAW\02_Loop.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion:
+    10_PercussionSFX1.wav:
+      Track_path: cryonicPAX - Excessive\cryonicPAX - Excessive_RAW\10_PercussionSFX1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    11_PercussionSFX2.wav:
+      Track_path: cryonicPAX - Excessive\cryonicPAX - Excessive_RAW\11_PercussionSFX2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Synth_Bass:
+    12_Subbass.wav:
+      Track_path: cryonicPAX - Excessive\cryonicPAX - Excessive_RAW\12_Subbass.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    13_Bass.wav:
+      Track_path: cryonicPAX - Excessive\cryonicPAX - Excessive_RAW\13_Bass.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Electric_Bass: {}
+  Acoustic_Guitar: {}
+  Electric_Guitar: {}
+  Piano: {}
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal: {}
+  Choir: {}
+  Backing_Vocal: {}
+  Unused: {}
+  Ambient_Microphone: {}

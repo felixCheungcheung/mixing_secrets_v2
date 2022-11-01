@@ -1,0 +1,128 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer:
+    07_Synth.wav:
+      Track_path: Sound On Sound Demo - Mystery\Sound On Sound Demo - Mystery_RAW\07_Synth.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  SFX: {}
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    01_Kick.wav:
+      Track_path: Sound On Sound Demo - Mystery\Sound On Sound Demo - Mystery_RAW\01_Kick.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Snare:
+    02_Snare.wav:
+      Track_path: Sound On Sound Demo - Mystery\Sound On Sound Demo - Mystery_RAW\02_Snare.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_HiHat:
+    03_Hat.wav:
+      Track_path: Sound On Sound Demo - Mystery\Sound On Sound Demo - Mystery_RAW\03_Hat.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Cymbals: {}
+  Drum_Overheads: {}
+  Drum_Tom: {}
+  Drum_Room: {}
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine:
+    04_VinylTamb.wav:
+      Track_path: Sound On Sound Demo - Mystery\Sound On Sound Demo - Mystery_RAW\04_VinylTamb.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Loop: {}
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass: {}
+  Electric_Bass:
+    05_Bass.wav:
+      Track_path: Sound On Sound Demo - Mystery\Sound On Sound Demo - Mystery_RAW\05_Bass.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    06_Clav.wav:
+      Track_path: Sound On Sound Demo - Mystery\Sound On Sound Demo - Mystery_RAW\06_Clav.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Acoustic_Guitar: {}
+  Electric_Guitar:
+    08_Guitars.wav:
+      Track_path: Sound On Sound Demo - Mystery\Sound On Sound Demo - Mystery_RAW\08_Guitars.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Piano: {}
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    09_LeadVox.wav:
+      Track_path: Sound On Sound Demo - Mystery\Sound On Sound Demo - Mystery_RAW\09_LeadVox.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Choir: {}
+  Backing_Vocal:
+    10_LowBVs.wav:
+      Track_path: Sound On Sound Demo - Mystery\Sound On Sound Demo - Mystery_RAW\10_LowBVs.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    11_HighBVs.wav:
+      Track_path: Sound On Sound Demo - Mystery\Sound On Sound Demo - Mystery_RAW\11_HighBVs.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Unused: {}
+  Ambient_Microphone: {}

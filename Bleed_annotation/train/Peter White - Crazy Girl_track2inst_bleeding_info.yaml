@@ -1,0 +1,258 @@
+Track2inst:
+  Electric_Organ:
+    24_Hammond.wav:
+      Track_path: Peter White - Crazy Girl\Peter White - Crazy Girl_RAW\24_Hammond.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Synthesizer:
+    25_Synth1.wav:
+      Track_path: Peter White - Crazy Girl\Peter White - Crazy Girl_RAW\25_Synth1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    26_Synth2.wav:
+      Track_path: Peter White - Crazy Girl\Peter White - Crazy Girl_RAW\26_Synth2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  SFX: {}
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    01_Kick.wav:
+      Track_path: Peter White - Crazy Girl\Peter White - Crazy Girl_RAW\01_Kick.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Snare:
+    02_Snare.wav:
+      Track_path: Peter White - Crazy Girl\Peter White - Crazy Girl_RAW\02_Snare.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_HiHat:
+    03_HiHat.wav:
+      Track_path: Peter White - Crazy Girl\Peter White - Crazy Girl_RAW\03_HiHat.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Cymbals:
+    04_Ride.wav:
+      Track_path: Peter White - Crazy Girl\Peter White - Crazy Girl_RAW\04_Ride.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    06_Cymbals.wav:
+      Track_path: Peter White - Crazy Girl\Peter White - Crazy Girl_RAW\06_Cymbals.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Overheads: {}
+  Drum_Tom: {}
+  Drum_Room: {}
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine:
+    05_Tambourine.wav:
+      Track_path: Peter White - Crazy Girl\Peter White - Crazy Girl_RAW\05_Tambourine.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Loop: {}
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass: {}
+  Electric_Bass:
+    07_BassDI.wav:
+      Track_path: Peter White - Crazy Girl\Peter White - Crazy Girl_RAW\07_BassDI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Acoustic_Guitar:
+    08_AcousticGtr1.wav:
+      Track_path: Peter White - Crazy Girl\Peter White - Crazy Girl_RAW\08_AcousticGtr1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    09_AcousticGtr2.wav:
+      Track_path: Peter White - Crazy Girl\Peter White - Crazy Girl_RAW\09_AcousticGtr2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Electric_Guitar:
+    10_ElecGtr1.wav:
+      Track_path: Peter White - Crazy Girl\Peter White - Crazy Girl_RAW\10_ElecGtr1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    11_ElecGtr2DI.wav:
+      Track_path: Peter White - Crazy Girl\Peter White - Crazy Girl_RAW\11_ElecGtr2DI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    12_ElecGtr1DT1.wav:
+      Track_path: Peter White - Crazy Girl\Peter White - Crazy Girl_RAW\12_ElecGtr1DT1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    13_ElecGtr2DIDT1.wav:
+      Track_path: Peter White - Crazy Girl\Peter White - Crazy Girl_RAW\13_ElecGtr2DIDT1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    14_ElecGtr1DT2.wav:
+      Track_path: Peter White - Crazy Girl\Peter White - Crazy Girl_RAW\14_ElecGtr1DT2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    15_ElecGtr2DIDT2.wav:
+      Track_path: Peter White - Crazy Girl\Peter White - Crazy Girl_RAW\15_ElecGtr2DIDT2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    16_ElecGtr1DT3.wav:
+      Track_path: Peter White - Crazy Girl\Peter White - Crazy Girl_RAW\16_ElecGtr1DT3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    17_ElecGtr2DIDT3.wav:
+      Track_path: Peter White - Crazy Girl\Peter White - Crazy Girl_RAW\17_ElecGtr2DIDT3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    18_ElecGtr1DT4.wav:
+      Track_path: Peter White - Crazy Girl\Peter White - Crazy Girl_RAW\18_ElecGtr1DT4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    19_ElecGtr2DIDT4.wav:
+      Track_path: Peter White - Crazy Girl\Peter White - Crazy Girl_RAW\19_ElecGtr2DIDT4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    20_ElecGtr3.wav:
+      Track_path: Peter White - Crazy Girl\Peter White - Crazy Girl_RAW\20_ElecGtr3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Piano:
+    21_Piano.wav:
+      Track_path: Peter White - Crazy Girl\Peter White - Crazy Girl_RAW\21_Piano.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Electric_Piano:
+    22_ElecPiano1.wav:
+      Track_path: Peter White - Crazy Girl\Peter White - Crazy Girl_RAW\22_ElecPiano1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    23_ElecPiano2.wav:
+      Track_path: Peter White - Crazy Girl\Peter White - Crazy Girl_RAW\23_ElecPiano2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    27_LeadVox.wav:
+      Track_path: Peter White - Crazy Girl\Peter White - Crazy Girl_RAW\27_LeadVox.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    33_BackingVox6.wav:
+      Track_path: Peter White - Crazy Girl\Peter White - Crazy Girl_RAW\33_BackingVox6.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Choir: {}
+  Backing_Vocal:
+    28_BackingVox1.wav:
+      Track_path: Peter White - Crazy Girl\Peter White - Crazy Girl_RAW\28_BackingVox1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    29_BackingVox2.wav:
+      Track_path: Peter White - Crazy Girl\Peter White - Crazy Girl_RAW\29_BackingVox2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    30_BackingVox3.wav:
+      Track_path: Peter White - Crazy Girl\Peter White - Crazy Girl_RAW\30_BackingVox3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    31_BackingVox4.wav:
+      Track_path: Peter White - Crazy Girl\Peter White - Crazy Girl_RAW\31_BackingVox4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    32_BackingVox5.wav:
+      Track_path: Peter White - Crazy Girl\Peter White - Crazy Girl_RAW\32_BackingVox5.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    34_BackingVox7.wav:
+      Track_path: Peter White - Crazy Girl\Peter White - Crazy Girl_RAW\34_BackingVox7.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    35_BackingVox7DT.wav:
+      Track_path: Peter White - Crazy Girl\Peter White - Crazy Girl_RAW\35_BackingVox7DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    36_BackingVox8.wav:
+      Track_path: Peter White - Crazy Girl\Peter White - Crazy Girl_RAW\36_BackingVox8.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    37_BackingVox8DT.wav:
+      Track_path: Peter White - Crazy Girl\Peter White - Crazy Girl_RAW\37_BackingVox8DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Unused: {}
+  Ambient_Microphone: {}

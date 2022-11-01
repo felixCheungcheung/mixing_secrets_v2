@@ -1,0 +1,243 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer: {}
+  SFX:
+    03_VinylNoise.wav:
+      Track_path: Ilmari Kontia - Funkkihillo\Ilmari Kontia - Funkkihillo_RAW\03_VinylNoise.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    01_Kick.wav:
+      Track_path: Ilmari Kontia - Funkkihillo\Ilmari Kontia - Funkkihillo_RAW\01_Kick.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_Snare: {}
+  Drum_HiHat: {}
+  Drum_Cymbals: {}
+  Drum_Overheads:
+    02_Overheads.wav:
+      Track_path: Ilmari Kontia - Funkkihillo\Ilmari Kontia - Funkkihillo_RAW\02_Overheads.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Tom: {}
+  Drum_Room: {}
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop: {}
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass: {}
+  Electric_Bass:
+    04_Bass.wav:
+      Track_path: Ilmari Kontia - Funkkihillo\Ilmari Kontia - Funkkihillo_RAW\04_Bass.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Acoustic_Guitar:
+    05_AcousticGtr.wav:
+      Track_path: Ilmari Kontia - Funkkihillo\Ilmari Kontia - Funkkihillo_RAW\05_AcousticGtr.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Electric_Guitar:
+    06_ElecGtr01.wav:
+      Track_path: Ilmari Kontia - Funkkihillo\Ilmari Kontia - Funkkihillo_RAW\06_ElecGtr01.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    07_ElecGtr02.wav:
+      Track_path: Ilmari Kontia - Funkkihillo\Ilmari Kontia - Funkkihillo_RAW\07_ElecGtr02.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    08_ElecGtr03.wav:
+      Track_path: Ilmari Kontia - Funkkihillo\Ilmari Kontia - Funkkihillo_RAW\08_ElecGtr03.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    09_ElecGtr04.wav:
+      Track_path: Ilmari Kontia - Funkkihillo\Ilmari Kontia - Funkkihillo_RAW\09_ElecGtr04.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    10_ElecGtr05.wav:
+      Track_path: Ilmari Kontia - Funkkihillo\Ilmari Kontia - Funkkihillo_RAW\10_ElecGtr05.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    11_ElecGtr06.wav:
+      Track_path: Ilmari Kontia - Funkkihillo\Ilmari Kontia - Funkkihillo_RAW\11_ElecGtr06.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    12_ElecGtr07.wav:
+      Track_path: Ilmari Kontia - Funkkihillo\Ilmari Kontia - Funkkihillo_RAW\12_ElecGtr07.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    13_ElecGtr08.wav:
+      Track_path: Ilmari Kontia - Funkkihillo\Ilmari Kontia - Funkkihillo_RAW\13_ElecGtr08.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    14_ElecGtr09.wav:
+      Track_path: Ilmari Kontia - Funkkihillo\Ilmari Kontia - Funkkihillo_RAW\14_ElecGtr09.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    15_ElecGtr10.wav:
+      Track_path: Ilmari Kontia - Funkkihillo\Ilmari Kontia - Funkkihillo_RAW\15_ElecGtr10.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    16_ElecGtr11.wav:
+      Track_path: Ilmari Kontia - Funkkihillo\Ilmari Kontia - Funkkihillo_RAW\16_ElecGtr11.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    17_ElecGtr12.wav:
+      Track_path: Ilmari Kontia - Funkkihillo\Ilmari Kontia - Funkkihillo_RAW\17_ElecGtr12.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    18_ElecGtr13.wav:
+      Track_path: Ilmari Kontia - Funkkihillo\Ilmari Kontia - Funkkihillo_RAW\18_ElecGtr13.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    19_ElecGtr14.wav:
+      Track_path: Ilmari Kontia - Funkkihillo\Ilmari Kontia - Funkkihillo_RAW\19_ElecGtr14.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    20_ElecGtr15.wav:
+      Track_path: Ilmari Kontia - Funkkihillo\Ilmari Kontia - Funkkihillo_RAW\20_ElecGtr15.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    21_ElecGtr16.wav:
+      Track_path: Ilmari Kontia - Funkkihillo\Ilmari Kontia - Funkkihillo_RAW\21_ElecGtr16.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    22_ElecGtr17.wav:
+      Track_path: Ilmari Kontia - Funkkihillo\Ilmari Kontia - Funkkihillo_RAW\22_ElecGtr17.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    23_ElecGtr18.wav:
+      Track_path: Ilmari Kontia - Funkkihillo\Ilmari Kontia - Funkkihillo_RAW\23_ElecGtr18.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    24_ElecGtr19.wav:
+      Track_path: Ilmari Kontia - Funkkihillo\Ilmari Kontia - Funkkihillo_RAW\24_ElecGtr19.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    25_ElecGtr20.wav:
+      Track_path: Ilmari Kontia - Funkkihillo\Ilmari Kontia - Funkkihillo_RAW\25_ElecGtr20.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    26_ElecGtr21.wav:
+      Track_path: Ilmari Kontia - Funkkihillo\Ilmari Kontia - Funkkihillo_RAW\26_ElecGtr21.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    27_ElecGtr22.wav:
+      Track_path: Ilmari Kontia - Funkkihillo\Ilmari Kontia - Funkkihillo_RAW\27_ElecGtr22.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Piano: {}
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    28_LeadVox.wav:
+      Track_path: Ilmari Kontia - Funkkihillo\Ilmari Kontia - Funkkihillo_RAW\28_LeadVox.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    29_LeadVoxDT.wav:
+      Track_path: Ilmari Kontia - Funkkihillo\Ilmari Kontia - Funkkihillo_RAW\29_LeadVoxDT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Choir: {}
+  Backing_Vocal:
+    30_BackingVox.wav:
+      Track_path: Ilmari Kontia - Funkkihillo\Ilmari Kontia - Funkkihillo_RAW\30_BackingVox.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    31_BackingVox.wav:
+      Track_path: Ilmari Kontia - Funkkihillo\Ilmari Kontia - Funkkihillo_RAW\31_BackingVox.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    32_BackingVox.wav:
+      Track_path: Ilmari Kontia - Funkkihillo\Ilmari Kontia - Funkkihillo_RAW\32_BackingVox.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    33_BackingVox.wav:
+      Track_path: Ilmari Kontia - Funkkihillo\Ilmari Kontia - Funkkihillo_RAW\33_BackingVox.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    34_BackingVox.wav:
+      Track_path: Ilmari Kontia - Funkkihillo\Ilmari Kontia - Funkkihillo_RAW\34_BackingVox.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Unused: {}
+  Ambient_Microphone: {}

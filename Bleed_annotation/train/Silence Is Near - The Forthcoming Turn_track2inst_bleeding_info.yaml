@@ -1,0 +1,307 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer:
+    25_Synth1.wav:
+      Track_path: Silence Is Near - The Forthcoming Turn\Silence Is Near - The Forthcoming
+        Turn_RAW\25_Synth1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    26_Synth2.wav:
+      Track_path: Silence Is Near - The Forthcoming Turn\Silence Is Near - The Forthcoming
+        Turn_RAW\26_Synth2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    27_Synth3.wav:
+      Track_path: Silence Is Near - The Forthcoming Turn\Silence Is Near - The Forthcoming
+        Turn_RAW\27_Synth3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    28_Synth4.wav:
+      Track_path: Silence Is Near - The Forthcoming Turn\Silence Is Near - The Forthcoming
+        Turn_RAW\28_Synth4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    29_Synth5.wav:
+      Track_path: Silence Is Near - The Forthcoming Turn\Silence Is Near - The Forthcoming
+        Turn_RAW\29_Synth5.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  SFX: {}
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    01_KickIn.wav:
+      Track_path: Silence Is Near - The Forthcoming Turn\Silence Is Near - The Forthcoming
+        Turn_RAW\01_KickIn.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    02_KickOut.wav:
+      Track_path: Silence Is Near - The Forthcoming Turn\Silence Is Near - The Forthcoming
+        Turn_RAW\02_KickOut.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    03_KickSub.wav:
+      Track_path: Silence Is Near - The Forthcoming Turn\Silence Is Near - The Forthcoming
+        Turn_RAW\03_KickSub.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_Snare:
+    04_SnareUp.wav:
+      Track_path: Silence Is Near - The Forthcoming Turn\Silence Is Near - The Forthcoming
+        Turn_RAW\04_SnareUp.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    05_SnareDown.wav:
+      Track_path: Silence Is Near - The Forthcoming Turn\Silence Is Near - The Forthcoming
+        Turn_RAW\05_SnareDown.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_HiHat:
+    06_HiHat.wav:
+      Track_path: Silence Is Near - The Forthcoming Turn\Silence Is Near - The Forthcoming
+        Turn_RAW\06_HiHat.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_Cymbals: {}
+  Drum_Overheads:
+    07_Overheads.wav:
+      Track_path: Silence Is Near - The Forthcoming Turn\Silence Is Near - The Forthcoming
+        Turn_RAW\07_Overheads.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Tom:
+    08_Tom1.wav:
+      Track_path: Silence Is Near - The Forthcoming Turn\Silence Is Near - The Forthcoming
+        Turn_RAW\08_Tom1.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    09_Tom2.wav:
+      Track_path: Silence Is Near - The Forthcoming Turn\Silence Is Near - The Forthcoming
+        Turn_RAW\09_Tom2.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    10_Tom3.wav:
+      Track_path: Silence Is Near - The Forthcoming Turn\Silence Is Near - The Forthcoming
+        Turn_RAW\10_Tom3.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    11_Tom4.wav:
+      Track_path: Silence Is Near - The Forthcoming Turn\Silence Is Near - The Forthcoming
+        Turn_RAW\11_Tom4.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    12_Tom5.wav:
+      Track_path: Silence Is Near - The Forthcoming Turn\Silence Is Near - The Forthcoming
+        Turn_RAW\12_Tom5.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_Room:
+    13_DrumsRoom1.wav:
+      Track_path: Silence Is Near - The Forthcoming Turn\Silence Is Near - The Forthcoming
+        Turn_RAW\13_DrumsRoom1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    14_DrumsRoom2.wav:
+      Track_path: Silence Is Near - The Forthcoming Turn\Silence Is Near - The Forthcoming
+        Turn_RAW\14_DrumsRoom2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    15_DrumsRoom3.wav:
+      Track_path: Silence Is Near - The Forthcoming Turn\Silence Is Near - The Forthcoming
+        Turn_RAW\15_DrumsRoom3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop: {}
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass: {}
+  Electric_Bass:
+    16_BassDI.wav:
+      Track_path: Silence Is Near - The Forthcoming Turn\Silence Is Near - The Forthcoming
+        Turn_RAW\16_BassDI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    17_BassAmp.wav:
+      Track_path: Silence Is Near - The Forthcoming Turn\Silence Is Near - The Forthcoming
+        Turn_RAW\17_BassAmp.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Acoustic_Guitar: {}
+  Electric_Guitar:
+    18_ElecGtr1.wav:
+      Track_path: Silence Is Near - The Forthcoming Turn\Silence Is Near - The Forthcoming
+        Turn_RAW\18_ElecGtr1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    19_ElecGtr2.wav:
+      Track_path: Silence Is Near - The Forthcoming Turn\Silence Is Near - The Forthcoming
+        Turn_RAW\19_ElecGtr2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    20_ElecGtr2DI.wav:
+      Track_path: Silence Is Near - The Forthcoming Turn\Silence Is Near - The Forthcoming
+        Turn_RAW\20_ElecGtr2DI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    21_ElecGtr3.wav:
+      Track_path: Silence Is Near - The Forthcoming Turn\Silence Is Near - The Forthcoming
+        Turn_RAW\21_ElecGtr3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    22_ElecGtr3DI.wav:
+      Track_path: Silence Is Near - The Forthcoming Turn\Silence Is Near - The Forthcoming
+        Turn_RAW\22_ElecGtr3DI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    23_ElecGtr4.wav:
+      Track_path: Silence Is Near - The Forthcoming Turn\Silence Is Near - The Forthcoming
+        Turn_RAW\23_ElecGtr4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    24_ElecGtr4DI.wav:
+      Track_path: Silence Is Near - The Forthcoming Turn\Silence Is Near - The Forthcoming
+        Turn_RAW\24_ElecGtr4DI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Piano: {}
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass:
+    38_DoubleBassesA.wav:
+      Track_path: Silence Is Near - The Forthcoming Turn\Silence Is Near - The Forthcoming
+        Turn_RAW\38_DoubleBassesA.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    39_DoubleBassesB.wav:
+      Track_path: Silence Is Near - The Forthcoming Turn\Silence Is Near - The Forthcoming
+        Turn_RAW\39_DoubleBassesB.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Violin:
+    30_Violins1A.wav:
+      Track_path: Silence Is Near - The Forthcoming Turn\Silence Is Near - The Forthcoming
+        Turn_RAW\30_Violins1A.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    31_Violins1B.wav:
+      Track_path: Silence Is Near - The Forthcoming Turn\Silence Is Near - The Forthcoming
+        Turn_RAW\31_Violins1B.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    32_Violins2A.wav:
+      Track_path: Silence Is Near - The Forthcoming Turn\Silence Is Near - The Forthcoming
+        Turn_RAW\32_Violins2A.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    33_Violins2B.wav:
+      Track_path: Silence Is Near - The Forthcoming Turn\Silence Is Near - The Forthcoming
+        Turn_RAW\33_Violins2B.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Viola:
+    34_ViolasA.wav:
+      Track_path: Silence Is Near - The Forthcoming Turn\Silence Is Near - The Forthcoming
+        Turn_RAW\34_ViolasA.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    35_ViolasB.wav:
+      Track_path: Silence Is Near - The Forthcoming Turn\Silence Is Near - The Forthcoming
+        Turn_RAW\35_ViolasB.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Cello:
+    36_CellosA.wav:
+      Track_path: Silence Is Near - The Forthcoming Turn\Silence Is Near - The Forthcoming
+        Turn_RAW\36_CellosA.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    37_CellosB.wav:
+      Track_path: Silence Is Near - The Forthcoming Turn\Silence Is Near - The Forthcoming
+        Turn_RAW\37_CellosB.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal: {}
+  Choir: {}
+  Backing_Vocal: {}
+  Unused: {}
+  Ambient_Microphone: {}

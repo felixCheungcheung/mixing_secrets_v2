@@ -1,0 +1,223 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer: {}
+  SFX:
+    12_SubDrop.wav:
+      Track_path: Remember December - C U Next Time\Remember December - C U Next Time_RAW\12_SubDrop.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    01_Kick.wav:
+      Track_path: Remember December - C U Next Time\Remember December - C U Next Time_RAW\01_Kick.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_Snare:
+    02_Snare.wav:
+      Track_path: Remember December - C U Next Time\Remember December - C U Next Time_RAW\02_Snare.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    03_SnareSample1.wav:
+      Track_path: Remember December - C U Next Time\Remember December - C U Next Time_RAW\03_SnareSample1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    04_SnareSample2.wav:
+      Track_path: Remember December - C U Next Time\Remember December - C U Next Time_RAW\04_SnareSample2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    05_SnareSample3.wav:
+      Track_path: Remember December - C U Next Time\Remember December - C U Next Time_RAW\05_SnareSample3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_HiHat: {}
+  Drum_Cymbals:
+    10_RevCymbal.wav:
+      Track_path: Remember December - C U Next Time\Remember December - C U Next Time_RAW\10_RevCymbal.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Overheads:
+    08_Overheads.wav:
+      Track_path: Remember December - C U Next Time\Remember December - C U Next Time_RAW\08_Overheads.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Tom:
+    06_Tom1.wav:
+      Track_path: Remember December - C U Next Time\Remember December - C U Next Time_RAW\06_Tom1.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    07_Tom2.wav:
+      Track_path: Remember December - C U Next Time\Remember December - C U Next Time_RAW\07_Tom2.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_Room:
+    09_DrumsRoom.wav:
+      Track_path: Remember December - C U Next Time\Remember December - C U Next Time_RAW\09_DrumsRoom.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop: {}
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass: {}
+  Electric_Bass:
+    11_Bass_bip.wav:
+      Track_path: Remember December - C U Next Time\Remember December - C U Next Time_RAW\11_Bass_bip.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Acoustic_Guitar: {}
+  Electric_Guitar:
+    13_ElecGtr1.wav:
+      Track_path: Remember December - C U Next Time\Remember December - C U Next Time_RAW\13_ElecGtr1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    14_ElecGtr2.wav:
+      Track_path: Remember December - C U Next Time\Remember December - C U Next Time_RAW\14_ElecGtr2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    15_ElecGtr3.wav:
+      Track_path: Remember December - C U Next Time\Remember December - C U Next Time_RAW\15_ElecGtr3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    16_ElecGtr4.wav:
+      Track_path: Remember December - C U Next Time\Remember December - C U Next Time_RAW\16_ElecGtr4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    17_ElecGtr5.wav:
+      Track_path: Remember December - C U Next Time\Remember December - C U Next Time_RAW\17_ElecGtr5.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    18_ElecGtr6.wav:
+      Track_path: Remember December - C U Next Time\Remember December - C U Next Time_RAW\18_ElecGtr6.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Piano: {}
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section:
+    19_Strings.wav:
+      Track_path: Remember December - C U Next Time\Remember December - C U Next Time_RAW\19_Strings.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    20_LeadVox1.wav:
+      Track_path: Remember December - C U Next Time\Remember December - C U Next Time_RAW\20_LeadVox1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    21_LeadVox2.wav:
+      Track_path: Remember December - C U Next Time\Remember December - C U Next Time_RAW\21_LeadVox2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    22_LeadVox3.wav:
+      Track_path: Remember December - C U Next Time\Remember December - C U Next Time_RAW\22_LeadVox3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Choir: {}
+  Backing_Vocal:
+    23_BackingVox1.wav:
+      Track_path: Remember December - C U Next Time\Remember December - C U Next Time_RAW\23_BackingVox1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    24_BackingVox2.wav:
+      Track_path: Remember December - C U Next Time\Remember December - C U Next Time_RAW\24_BackingVox2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    25_BackingVox3.wav:
+      Track_path: Remember December - C U Next Time\Remember December - C U Next Time_RAW\25_BackingVox3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    26_BackingVox4.wav:
+      Track_path: Remember December - C U Next Time\Remember December - C U Next Time_RAW\26_BackingVox4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    27_BackingVox5.wav:
+      Track_path: Remember December - C U Next Time\Remember December - C U Next Time_RAW\27_BackingVox5.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    28_BackingVox6.wav:
+      Track_path: Remember December - C U Next Time\Remember December - C U Next Time_RAW\28_BackingVox6.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    29_BackingVox7.wav:
+      Track_path: Remember December - C U Next Time\Remember December - C U Next Time_RAW\29_BackingVox7.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    30_BackingVox8.wav:
+      Track_path: Remember December - C U Next Time\Remember December - C U Next Time_RAW\30_BackingVox8.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Unused: {}
+  Ambient_Microphone: {}

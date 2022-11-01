@@ -1,0 +1,247 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer: {}
+  SFX: {}
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    01_Kick808.wav:
+      Track_path: "Geometr\xEDa Chicken - Das Funkeren\\Geometr\xEDa Chicken - Das\
+        \ Funkeren_RAW\\01_Kick808.wav"
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    04_Drumkit_Kick.wav:
+      Track_path: "Geometr\xEDa Chicken - Das Funkeren\\Geometr\xEDa Chicken - Das\
+        \ Funkeren_RAW\\04_Drumkit_Kick.wav"
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads'
+      Comment: ''
+  Drum_Snare:
+    02_Snare808.wav:
+      Track_path: "Geometr\xEDa Chicken - Das Funkeren\\Geometr\xEDa Chicken - Das\
+        \ Funkeren_RAW\\02_Snare808.wav"
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    05_Drumkit_Snare.wav:
+      Track_path: "Geometr\xEDa Chicken - Das Funkeren\\Geometr\xEDa Chicken - Das\
+        \ Funkeren_RAW\\05_Drumkit_Snare.wav"
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads'
+      Comment: ''
+  Drum_HiHat:
+    03_HiHat808.wav:
+      Track_path: "Geometr\xEDa Chicken - Das Funkeren\\Geometr\xEDa Chicken - Das\
+        \ Funkeren_RAW\\03_HiHat808.wav"
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Cymbals: {}
+  Drum_Overheads:
+    06_Drumkit_Overheads.wav:
+      Track_path: "Geometr\xEDa Chicken - Das Funkeren\\Geometr\xEDa Chicken - Das\
+        \ Funkeren_RAW\\06_Drumkit_Overheads.wav"
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Tom:
+    07_Tom1OD.wav:
+      Track_path: "Geometr\xEDa Chicken - Das Funkeren\\Geometr\xEDa Chicken - Das\
+        \ Funkeren_RAW\\07_Tom1OD.wav"
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads'
+      Comment: ''
+    08_Tom2OD.wav:
+      Track_path: "Geometr\xEDa Chicken - Das Funkeren\\Geometr\xEDa Chicken - Das\
+        \ Funkeren_RAW\\08_Tom2OD.wav"
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads'
+      Comment: ''
+  Drum_Room: {}
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks:
+    10_SidestickOD_Overheads.wav:
+      Track_path: "Geometr\xEDa Chicken - Das Funkeren\\Geometr\xEDa Chicken - Das\
+        \ Funkeren_RAW\\10_SidestickOD_Overheads.wav"
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    09_SidestickOD_Tom2.wav:
+      Track_path: "Geometr\xEDa Chicken - Das Funkeren\\Geometr\xEDa Chicken - Das\
+        \ Funkeren_RAW\\09_SidestickOD_Tom2.wav"
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop: {}
+  Clicks: {}
+  Claps:
+    11_Claps1.wav:
+      Track_path: "Geometr\xEDa Chicken - Das Funkeren\\Geometr\xEDa Chicken - Das\
+        \ Funkeren_RAW\\11_Claps1.wav"
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    12_Claps2.wav:
+      Track_path: "Geometr\xEDa Chicken - Das Funkeren\\Geometr\xEDa Chicken - Das\
+        \ Funkeren_RAW\\12_Claps2.wav"
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    13_Claps3.wav:
+      Track_path: "Geometr\xEDa Chicken - Das Funkeren\\Geometr\xEDa Chicken - Das\
+        \ Funkeren_RAW\\13_Claps3.wav"
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass: {}
+  Electric_Bass:
+    14_Bass1.wav:
+      Track_path: "Geometr\xEDa Chicken - Das Funkeren\\Geometr\xEDa Chicken - Das\
+        \ Funkeren_RAW\\14_Bass1.wav"
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    15_Bass2.wav:
+      Track_path: "Geometr\xEDa Chicken - Das Funkeren\\Geometr\xEDa Chicken - Das\
+        \ Funkeren_RAW\\15_Bass2.wav"
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    16_BassFX1.wav:
+      Track_path: "Geometr\xEDa Chicken - Das Funkeren\\Geometr\xEDa Chicken - Das\
+        \ Funkeren_RAW\\16_BassFX1.wav"
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    17_BassFX2.wav:
+      Track_path: "Geometr\xEDa Chicken - Das Funkeren\\Geometr\xEDa Chicken - Das\
+        \ Funkeren_RAW\\17_BassFX2.wav"
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Acoustic_Guitar:
+    26_AcousticGtr1.wav:
+      Track_path: "Geometr\xEDa Chicken - Das Funkeren\\Geometr\xEDa Chicken - Das\
+        \ Funkeren_RAW\\26_AcousticGtr1.wav"
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Electric_Guitar:
+    18_ElecGtr1.wav:
+      Track_path: "Geometr\xEDa Chicken - Das Funkeren\\Geometr\xEDa Chicken - Das\
+        \ Funkeren_RAW\\18_ElecGtr1.wav"
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    19_ElecGtr2.wav:
+      Track_path: "Geometr\xEDa Chicken - Das Funkeren\\Geometr\xEDa Chicken - Das\
+        \ Funkeren_RAW\\19_ElecGtr2.wav"
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    20_ElecGtr3.wav:
+      Track_path: "Geometr\xEDa Chicken - Das Funkeren\\Geometr\xEDa Chicken - Das\
+        \ Funkeren_RAW\\20_ElecGtr3.wav"
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    21_ElecGtr4.wav:
+      Track_path: "Geometr\xEDa Chicken - Das Funkeren\\Geometr\xEDa Chicken - Das\
+        \ Funkeren_RAW\\21_ElecGtr4.wav"
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    22_ElecGtr5.wav:
+      Track_path: "Geometr\xEDa Chicken - Das Funkeren\\Geometr\xEDa Chicken - Das\
+        \ Funkeren_RAW\\22_ElecGtr5.wav"
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    23_ElecGtr6.wav:
+      Track_path: "Geometr\xEDa Chicken - Das Funkeren\\Geometr\xEDa Chicken - Das\
+        \ Funkeren_RAW\\23_ElecGtr6.wav"
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    24_ElecGtr7.wav:
+      Track_path: "Geometr\xEDa Chicken - Das Funkeren\\Geometr\xEDa Chicken - Das\
+        \ Funkeren_RAW\\24_ElecGtr7.wav"
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    25_ElecGtr8.wav:
+      Track_path: "Geometr\xEDa Chicken - Das Funkeren\\Geometr\xEDa Chicken - Das\
+        \ Funkeren_RAW\\25_ElecGtr8.wav"
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    27_AcousticGtr2.wav:
+      Track_path: "Geometr\xEDa Chicken - Das Funkeren\\Geometr\xEDa Chicken - Das\
+        \ Funkeren_RAW\\27_AcousticGtr2.wav"
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Piano: {}
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    28_LeadVox1.wav:
+      Track_path: "Geometr\xEDa Chicken - Das Funkeren\\Geometr\xEDa Chicken - Das\
+        \ Funkeren_RAW\\28_LeadVox1.wav"
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    29_LeadVox2.wav:
+      Track_path: "Geometr\xEDa Chicken - Das Funkeren\\Geometr\xEDa Chicken - Das\
+        \ Funkeren_RAW\\29_LeadVox2.wav"
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Choir: {}
+  Backing_Vocal: {}
+  Unused: {}
+  Ambient_Microphone: {}

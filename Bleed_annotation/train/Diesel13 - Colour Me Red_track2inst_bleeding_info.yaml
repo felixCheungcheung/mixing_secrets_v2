@@ -1,0 +1,348 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer: {}
+  SFX: {}
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    01_Kick.wav:
+      Track_path: Diesel13 - Colour Me Red\Diesel13 - Colour Me Red_RAW\01_Kick.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_Snare:
+    02_SnareUp.wav:
+      Track_path: Diesel13 - Colour Me Red\Diesel13 - Colour Me Red_RAW\02_SnareUp.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    03_SnareDown.wav:
+      Track_path: Diesel13 - Colour Me Red\Diesel13 - Colour Me Red_RAW\03_SnareDown.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_HiHat: {}
+  Drum_Cymbals:
+    10_CymbalOD_Overheads.wav:
+      Track_path: Diesel13 - Colour Me Red\Diesel13 - Colour Me Red_RAW\10_CymbalOD_Overheads.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    11_CymbalOD_DrumsRoom.wav:
+      Track_path: Diesel13 - Colour Me Red\Diesel13 - Colour Me Red_RAW\11_CymbalOD_DrumsRoom.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Overheads:
+    08_Overheads.wav:
+      Track_path: Diesel13 - Colour Me Red\Diesel13 - Colour Me Red_RAW\08_Overheads.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Tom:
+    04_Tom1.wav:
+      Track_path: Diesel13 - Colour Me Red\Diesel13 - Colour Me Red_RAW\04_Tom1.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    05_Tom1Sample.wav:
+      Track_path: Diesel13 - Colour Me Red\Diesel13 - Colour Me Red_RAW\05_Tom1Sample.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    06_Tom2.wav:
+      Track_path: Diesel13 - Colour Me Red\Diesel13 - Colour Me Red_RAW\06_Tom2.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    07_Tom2Sample.wav:
+      Track_path: Diesel13 - Colour Me Red\Diesel13 - Colour Me Red_RAW\07_Tom2Sample.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Room:
+    09_DrumsRoom.wav:
+      Track_path: Diesel13 - Colour Me Red\Diesel13 - Colour Me Red_RAW\09_DrumsRoom.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop: {}
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass: {}
+  Electric_Bass:
+    12_BassDI.wav:
+      Track_path: Diesel13 - Colour Me Red\Diesel13 - Colour Me Red_RAW\12_BassDI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    13_BassAmpMic1.wav:
+      Track_path: Diesel13 - Colour Me Red\Diesel13 - Colour Me Red_RAW\13_BassAmpMic1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    14_BassAmpMic2.wav:
+      Track_path: Diesel13 - Colour Me Red\Diesel13 - Colour Me Red_RAW\14_BassAmpMic2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Acoustic_Guitar:
+    23_AcousticGtr01Mic.wav:
+      Track_path: Diesel13 - Colour Me Red\Diesel13 - Colour Me Red_RAW\23_AcousticGtr01Mic.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    24_AcousticGtr01DI.wav:
+      Track_path: Diesel13 - Colour Me Red\Diesel13 - Colour Me Red_RAW\24_AcousticGtr01DI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    25_AcousticGtr02.wav:
+      Track_path: Diesel13 - Colour Me Red\Diesel13 - Colour Me Red_RAW\25_AcousticGtr02.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    26_AcousticGtr03.wav:
+      Track_path: Diesel13 - Colour Me Red\Diesel13 - Colour Me Red_RAW\26_AcousticGtr03.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    27_AcousticGtr03DT.wav:
+      Track_path: Diesel13 - Colour Me Red\Diesel13 - Colour Me Red_RAW\27_AcousticGtr03DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    28_Banjo.wav:
+      Track_path: Diesel13 - Colour Me Red\Diesel13 - Colour Me Red_RAW\28_Banjo.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Electric_Guitar:
+    15_ElecGtr01.wav:
+      Track_path: Diesel13 - Colour Me Red\Diesel13 - Colour Me Red_RAW\15_ElecGtr01.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    16_ElecGtr01DI.wav:
+      Track_path: Diesel13 - Colour Me Red\Diesel13 - Colour Me Red_RAW\16_ElecGtr01DI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    17_ElecGtr02.wav:
+      Track_path: Diesel13 - Colour Me Red\Diesel13 - Colour Me Red_RAW\17_ElecGtr02.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    18_ElecGtr02DI.wav:
+      Track_path: Diesel13 - Colour Me Red\Diesel13 - Colour Me Red_RAW\18_ElecGtr02DI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    19_ElecGtr03.wav:
+      Track_path: Diesel13 - Colour Me Red\Diesel13 - Colour Me Red_RAW\19_ElecGtr03.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    20_ElecGtr03DI.wav:
+      Track_path: Diesel13 - Colour Me Red\Diesel13 - Colour Me Red_RAW\20_ElecGtr03DI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    21_ElecGtr04.wav:
+      Track_path: Diesel13 - Colour Me Red\Diesel13 - Colour Me Red_RAW\21_ElecGtr04.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    22_ElecGtr04DI.wav:
+      Track_path: Diesel13 - Colour Me Red\Diesel13 - Colour Me Red_RAW\22_ElecGtr04DI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Piano: {}
+  Electric_Piano:
+    29_RhodesAmp.wav:
+      Track_path: Diesel13 - Colour Me Red\Diesel13 - Colour Me Red_RAW\29_RhodesAmp.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    30_RhodesDI.wav:
+      Track_path: Diesel13 - Colour Me Red\Diesel13 - Colour Me Red_RAW\30_RhodesDI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    31_LeadVox.wav:
+      Track_path: Diesel13 - Colour Me Red\Diesel13 - Colour Me Red_RAW\31_LeadVox.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Choir: {}
+  Backing_Vocal:
+    32_BackingVox01a.wav:
+      Track_path: Diesel13 - Colour Me Red\Diesel13 - Colour Me Red_RAW\32_BackingVox01a.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    33_BackingVox01b.wav:
+      Track_path: Diesel13 - Colour Me Red\Diesel13 - Colour Me Red_RAW\33_BackingVox01b.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    34_BackingVox01c.wav:
+      Track_path: Diesel13 - Colour Me Red\Diesel13 - Colour Me Red_RAW\34_BackingVox01c.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    35_BackingVox01d.wav:
+      Track_path: Diesel13 - Colour Me Red\Diesel13 - Colour Me Red_RAW\35_BackingVox01d.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    36_BackingVox02a.wav:
+      Track_path: Diesel13 - Colour Me Red\Diesel13 - Colour Me Red_RAW\36_BackingVox02a.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    37_BackingVox02b.wav:
+      Track_path: Diesel13 - Colour Me Red\Diesel13 - Colour Me Red_RAW\37_BackingVox02b.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    38_BackingVox02c.wav:
+      Track_path: Diesel13 - Colour Me Red\Diesel13 - Colour Me Red_RAW\38_BackingVox02c.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    39_BackingVox02d.wav:
+      Track_path: Diesel13 - Colour Me Red\Diesel13 - Colour Me Red_RAW\39_BackingVox02d.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    40_BackingVox03a.wav:
+      Track_path: Diesel13 - Colour Me Red\Diesel13 - Colour Me Red_RAW\40_BackingVox03a.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    41_BackingVox03b.wav:
+      Track_path: Diesel13 - Colour Me Red\Diesel13 - Colour Me Red_RAW\41_BackingVox03b.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    42_BackingVox03c.wav:
+      Track_path: Diesel13 - Colour Me Red\Diesel13 - Colour Me Red_RAW\42_BackingVox03c.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    43_BackingVox03d.wav:
+      Track_path: Diesel13 - Colour Me Red\Diesel13 - Colour Me Red_RAW\43_BackingVox03d.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    44_BackingVox04a.wav:
+      Track_path: Diesel13 - Colour Me Red\Diesel13 - Colour Me Red_RAW\44_BackingVox04a.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    45_BackingVox04b.wav:
+      Track_path: Diesel13 - Colour Me Red\Diesel13 - Colour Me Red_RAW\45_BackingVox04b.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    46_BackingVox04c.wav:
+      Track_path: Diesel13 - Colour Me Red\Diesel13 - Colour Me Red_RAW\46_BackingVox04c.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    47_BackingVox04d.wav:
+      Track_path: Diesel13 - Colour Me Red\Diesel13 - Colour Me Red_RAW\47_BackingVox04d.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    48_BackingVox05a.wav:
+      Track_path: Diesel13 - Colour Me Red\Diesel13 - Colour Me Red_RAW\48_BackingVox05a.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    49_BackingVox05b.wav:
+      Track_path: Diesel13 - Colour Me Red\Diesel13 - Colour Me Red_RAW\49_BackingVox05b.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    50_BackingVox05c.wav:
+      Track_path: Diesel13 - Colour Me Red\Diesel13 - Colour Me Red_RAW\50_BackingVox05c.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    51_BackingVox05d.wav:
+      Track_path: Diesel13 - Colour Me Red\Diesel13 - Colour Me Red_RAW\51_BackingVox05d.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    52_BackingVox06a.wav:
+      Track_path: Diesel13 - Colour Me Red\Diesel13 - Colour Me Red_RAW\52_BackingVox06a.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    53_BackingVox06b.wav:
+      Track_path: Diesel13 - Colour Me Red\Diesel13 - Colour Me Red_RAW\53_BackingVox06b.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    54_BackingVox06c.wav:
+      Track_path: Diesel13 - Colour Me Red\Diesel13 - Colour Me Red_RAW\54_BackingVox06c.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    55_BackingVox06d.wav:
+      Track_path: Diesel13 - Colour Me Red\Diesel13 - Colour Me Red_RAW\55_BackingVox06d.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Unused: {}
+  Ambient_Microphone: {}

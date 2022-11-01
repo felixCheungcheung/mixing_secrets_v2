@@ -1,0 +1,168 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer: {}
+  SFX:
+    13_Radio.wav:
+      Track_path: Avalon - All I Know\Avalon - All I Know_RAW\13_Radio.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    01_Kick.wav:
+      Track_path: Avalon - All I Know\Avalon - All I Know_RAW\01_Kick.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Snare:
+    02_Snare.wav:
+      Track_path: Avalon - All I Know\Avalon - All I Know_RAW\02_Snare.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_HiHat:
+    03_HiHat.wav:
+      Track_path: Avalon - All I Know\Avalon - All I Know_RAW\03_HiHat.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Cymbals: {}
+  Drum_Overheads:
+    04_Drums.wav:
+      Track_path: Avalon - All I Know\Avalon - All I Know_RAW\04_Drums.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Tom: {}
+  Drum_Room: {}
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop: {}
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion:
+    05_Percussion.wav:
+      Track_path: Avalon - All I Know\Avalon - All I Know_RAW\05_Percussion.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Synth_Bass: {}
+  Electric_Bass:
+    06_Bass.wav:
+      Track_path: Avalon - All I Know\Avalon - All I Know_RAW\06_Bass.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Acoustic_Guitar: {}
+  Electric_Guitar:
+    07_ElecGtr1.wav:
+      Track_path: Avalon - All I Know\Avalon - All I Know_RAW\07_ElecGtr1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    08_ElecGtr2.wav:
+      Track_path: Avalon - All I Know\Avalon - All I Know_RAW\08_ElecGtr2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    09_ElecGtr3.wav:
+      Track_path: Avalon - All I Know\Avalon - All I Know_RAW\09_ElecGtr3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    10_ElecGtr3DT.wav:
+      Track_path: Avalon - All I Know\Avalon - All I Know_RAW\10_ElecGtr3DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Piano:
+    11_BellPiano.wav:
+      Track_path: Avalon - All I Know\Avalon - All I Know_RAW\11_BellPiano.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    12_PianoSynth.wav:
+      Track_path: Avalon - All I Know\Avalon - All I Know_RAW\12_PianoSynth.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    15_Vox1.wav:
+      Track_path: Avalon - All I Know\Avalon - All I Know_RAW\15_Vox1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    16_Vox2.wav:
+      Track_path: Avalon - All I Know\Avalon - All I Know_RAW\16_Vox2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    17_Vox3.wav:
+      Track_path: Avalon - All I Know\Avalon - All I Know_RAW\17_Vox3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Choir: {}
+  Backing_Vocal:
+    19_Vox5.wav:
+      Track_path: Avalon - All I Know\Avalon - All I Know_RAW\19_Vox5.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Unused:
+    14_Speech.wav:
+      Track_path: Avalon - All I Know\Avalon - All I Know_RAW\14_Speech.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    18_Vox4.wav:
+      Track_path: Avalon - All I Know\Avalon - All I Know_RAW\18_Vox4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: 'Vox4 is a submix of Vox2 and Vox5'
+  Ambient_Microphone: {}

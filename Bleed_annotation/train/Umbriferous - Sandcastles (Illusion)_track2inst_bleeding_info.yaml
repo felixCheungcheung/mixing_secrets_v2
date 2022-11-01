@@ -1,0 +1,293 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer:
+    37_Synth1.wav:
+      Track_path: Umbriferous - Sandcastles (Illusion)\Umbriferous - Sandcastles (Illusion)_RAW\37_Synth1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    38_Synth2.wav:
+      Track_path: Umbriferous - Sandcastles (Illusion)\Umbriferous - Sandcastles (Illusion)_RAW\38_Synth2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    39_Synth3.wav:
+      Track_path: Umbriferous - Sandcastles (Illusion)\Umbriferous - Sandcastles (Illusion)_RAW\39_Synth3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    40_Synth4.wav:
+      Track_path: Umbriferous - Sandcastles (Illusion)\Umbriferous - Sandcastles (Illusion)_RAW\40_Synth4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    41_Synth5.wav:
+      Track_path: Umbriferous - Sandcastles (Illusion)\Umbriferous - Sandcastles (Illusion)_RAW\41_Synth5.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    42_Synth6.wav:
+      Track_path: Umbriferous - Sandcastles (Illusion)\Umbriferous - Sandcastles (Illusion)_RAW\42_Synth6.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  SFX: {}
+  Marimba: {}
+  Bell:
+    07_Bell.wav:
+      Track_path: Umbriferous - Sandcastles (Illusion)\Umbriferous - Sandcastles (Illusion)_RAW\07_Bell.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    01_Kick.wav:
+      Track_path: Umbriferous - Sandcastles (Illusion)\Umbriferous - Sandcastles (Illusion)_RAW\01_Kick.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Snare:
+    02_SnareUp.wav:
+      Track_path: Umbriferous - Sandcastles (Illusion)\Umbriferous - Sandcastles (Illusion)_RAW\02_SnareUp.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    03_SnareDown.wav:
+      Track_path: Umbriferous - Sandcastles (Illusion)\Umbriferous - Sandcastles (Illusion)_RAW\03_SnareDown.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    04_SnareSample.wav:
+      Track_path: Umbriferous - Sandcastles (Illusion)\Umbriferous - Sandcastles (Illusion)_RAW\04_SnareSample.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_HiHat:
+    05_HiHat.wav:
+      Track_path: Umbriferous - Sandcastles (Illusion)\Umbriferous - Sandcastles (Illusion)_RAW\05_HiHat.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_Cymbals:
+    06_Ride.wav:
+      Track_path: Umbriferous - Sandcastles (Illusion)\Umbriferous - Sandcastles (Illusion)_RAW\06_Ride.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_Overheads:
+    11_Overheads.wav:
+      Track_path: Umbriferous - Sandcastles (Illusion)\Umbriferous - Sandcastles (Illusion)_RAW\11_Overheads.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Tom:
+    08_Tom1.wav:
+      Track_path: Umbriferous - Sandcastles (Illusion)\Umbriferous - Sandcastles (Illusion)_RAW\08_Tom1.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    09_Tom2.wav:
+      Track_path: Umbriferous - Sandcastles (Illusion)\Umbriferous - Sandcastles (Illusion)_RAW\09_Tom2.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    10_Tom3.wav:
+      Track_path: Umbriferous - Sandcastles (Illusion)\Umbriferous - Sandcastles (Illusion)_RAW\10_Tom3.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_Room:
+    12_DrumsRoom.wav:
+      Track_path: Umbriferous - Sandcastles (Illusion)\Umbriferous - Sandcastles (Illusion)_RAW\12_DrumsRoom.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop: {}
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass: {}
+  Electric_Bass:
+    13_BassAmp.wav:
+      Track_path: Umbriferous - Sandcastles (Illusion)\Umbriferous - Sandcastles (Illusion)_RAW\13_BassAmp.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    14_BassDI.wav:
+      Track_path: Umbriferous - Sandcastles (Illusion)\Umbriferous - Sandcastles (Illusion)_RAW\14_BassDI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Acoustic_Guitar: {}
+  Electric_Guitar:
+    15_ElecGtr1.wav:
+      Track_path: Umbriferous - Sandcastles (Illusion)\Umbriferous - Sandcastles (Illusion)_RAW\15_ElecGtr1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    16_ElecGtr1DI.wav:
+      Track_path: Umbriferous - Sandcastles (Illusion)\Umbriferous - Sandcastles (Illusion)_RAW\16_ElecGtr1DI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    17_ElecGtr1DT.wav:
+      Track_path: Umbriferous - Sandcastles (Illusion)\Umbriferous - Sandcastles (Illusion)_RAW\17_ElecGtr1DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    18_ElecGtr1DTDI.wav:
+      Track_path: Umbriferous - Sandcastles (Illusion)\Umbriferous - Sandcastles (Illusion)_RAW\18_ElecGtr1DTDI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    19_ElecGtr2.wav:
+      Track_path: Umbriferous - Sandcastles (Illusion)\Umbriferous - Sandcastles (Illusion)_RAW\19_ElecGtr2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    20_ElecGtr2DI.wav:
+      Track_path: Umbriferous - Sandcastles (Illusion)\Umbriferous - Sandcastles (Illusion)_RAW\20_ElecGtr2DI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    21_ElecGtr2DT.wav:
+      Track_path: Umbriferous - Sandcastles (Illusion)\Umbriferous - Sandcastles (Illusion)_RAW\21_ElecGtr2DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    22_ElecGtr2DTDI.wav:
+      Track_path: Umbriferous - Sandcastles (Illusion)\Umbriferous - Sandcastles (Illusion)_RAW\22_ElecGtr2DTDI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    23_ElecGtr3.wav:
+      Track_path: Umbriferous - Sandcastles (Illusion)\Umbriferous - Sandcastles (Illusion)_RAW\23_ElecGtr3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    24_ElecGtr3DI.wav:
+      Track_path: Umbriferous - Sandcastles (Illusion)\Umbriferous - Sandcastles (Illusion)_RAW\24_ElecGtr3DI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    25_ElecGtr3DT.wav:
+      Track_path: Umbriferous - Sandcastles (Illusion)\Umbriferous - Sandcastles (Illusion)_RAW\25_ElecGtr3DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    26_ElecGtr3DTDI.wav:
+      Track_path: Umbriferous - Sandcastles (Illusion)\Umbriferous - Sandcastles (Illusion)_RAW\26_ElecGtr3DTDI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    27_ElecGtr4.wav:
+      Track_path: Umbriferous - Sandcastles (Illusion)\Umbriferous - Sandcastles (Illusion)_RAW\27_ElecGtr4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    28_ElecGtr4DI.wav:
+      Track_path: Umbriferous - Sandcastles (Illusion)\Umbriferous - Sandcastles (Illusion)_RAW\28_ElecGtr4DI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    29_ElecGtr4DT.wav:
+      Track_path: Umbriferous - Sandcastles (Illusion)\Umbriferous - Sandcastles (Illusion)_RAW\29_ElecGtr4DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    30_ElecGtr4DTDI.wav:
+      Track_path: Umbriferous - Sandcastles (Illusion)\Umbriferous - Sandcastles (Illusion)_RAW\30_ElecGtr4DTDI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    31_ElecGtr5.wav:
+      Track_path: Umbriferous - Sandcastles (Illusion)\Umbriferous - Sandcastles (Illusion)_RAW\31_ElecGtr5.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    32_ElecGtr5DI.wav:
+      Track_path: Umbriferous - Sandcastles (Illusion)\Umbriferous - Sandcastles (Illusion)_RAW\32_ElecGtr5DI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    33_ElecGtr5DT.wav:
+      Track_path: Umbriferous - Sandcastles (Illusion)\Umbriferous - Sandcastles (Illusion)_RAW\33_ElecGtr5DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    34_ElecGtr5DTDI.wav:
+      Track_path: Umbriferous - Sandcastles (Illusion)\Umbriferous - Sandcastles (Illusion)_RAW\34_ElecGtr5DTDI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    35_ElecGtr6.wav:
+      Track_path: Umbriferous - Sandcastles (Illusion)\Umbriferous - Sandcastles (Illusion)_RAW\35_ElecGtr6.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    36_ElecGtr6DI.wav:
+      Track_path: Umbriferous - Sandcastles (Illusion)\Umbriferous - Sandcastles (Illusion)_RAW\36_ElecGtr6DI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Piano: {}
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    43_LeadVox1.wav:
+      Track_path: Umbriferous - Sandcastles (Illusion)\Umbriferous - Sandcastles (Illusion)_RAW\43_LeadVox1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    44_LeadVox2.wav:
+      Track_path: Umbriferous - Sandcastles (Illusion)\Umbriferous - Sandcastles (Illusion)_RAW\44_LeadVox2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Choir: {}
+  Backing_Vocal: {}
+  Unused: {}
+  Ambient_Microphone: {}

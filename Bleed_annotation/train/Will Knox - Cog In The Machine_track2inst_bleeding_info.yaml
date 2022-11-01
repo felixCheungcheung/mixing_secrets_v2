@@ -1,0 +1,152 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer: {}
+  SFX: {}
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    kick IN.wav:
+      Track_path: Will Knox - Cog In The Machine\Will Knox - Cog In The Machine_RAW\kick
+        IN.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads'
+      Comment: ''
+    kick OUT.wav:
+      Track_path: Will Knox - Cog In The Machine\Will Knox - Cog In The Machine_RAW\kick
+        OUT.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Acoustic_Guitar, Violin, Drum_Overheads, Lead_Vocal'
+      Comment: ''
+  Drum_Snare:
+    snare.wav:
+      Track_path: Will Knox - Cog In The Machine\Will Knox - Cog In The Machine_RAW\snare.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Violin, Drum_Overheads'
+      Comment: ''
+  Drum_HiHat:
+    hats.wav:
+      Track_path: Will Knox - Cog In The Machine\Will Knox - Cog In The Machine_RAW\hats.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Acoustic_Guitar, Violin, Drum_Overheads, Lead_Vocal'
+      Comment: ''
+  Drum_Cymbals: {}
+  Drum_Overheads:
+    OHs.wav:
+      Track_path: Will Knox - Cog In The Machine\Will Knox - Cog In The Machine_RAW\OHs.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Acoustic_Guitar, Violin, Lead_Vocal'
+      Comment: ''
+  Drum_Tom:
+    flTOM.wav:
+      Track_path: Will Knox - Cog In The Machine\Will Knox - Cog In The Machine_RAW\flTOM.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Acoustic_Guitar, Violin, Drum_Overheads, Lead_Vocal'
+      Comment: ''
+    rTOM.wav:
+      Track_path: Will Knox - Cog In The Machine\Will Knox - Cog In The Machine_RAW\rTOM.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Acoustic_Guitar, Violin, Drum_Overheads, Lead_Vocal'
+      Comment: ''
+  Drum_Room: {}
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop: {}
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass: {}
+  Electric_Bass: {}
+  Acoustic_Guitar:
+    acGTR.wav:
+      Track_path: Will Knox - Cog In The Machine\Will Knox - Cog In The Machine_RAW\acGTR.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Lead_Vocal, Drum_Overheads, Violin'
+      Comment: ''
+    ACGTRDI.wav:
+      Track_path: Will Knox - Cog In The Machine\Will Knox - Cog In The Machine_RAW\ACGTRDI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Electric_Guitar: {}
+  Piano: {}
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass:
+    bass.wav:
+      Track_path: Will Knox - Cog In The Machine\Will Knox - Cog In The Machine_RAW\bass.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Violin, Lead_Vocal, Drum_Overheads, Acoustic_Guitar'
+      Comment: ''
+  Violin:
+    violin.wav:
+      Track_path: Will Knox - Cog In The Machine\Will Knox - Cog In The Machine_RAW\violin.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Acoustic_Guitar, Drum_Overheads, Lead_Vocal'
+      Comment: ''
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    Vox.wav:
+      Track_path: Will Knox - Cog In The Machine\Will Knox - Cog In The Machine_RAW\Vox.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Acoustic_Guitar, Violin, Drum_Overheads'
+      Comment: ''
+  Choir: {}
+  Backing_Vocal: {}
+  Unused:
+    ON STAGE MIX.wav:
+      Track_path: Will Knox - Cog In The Machine\Will Knox - Cog In The Machine_RAW\ON
+        STAGE MIX.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: ''
+      Comment: ''
+    TRACKING DATE ROUGH MIX.wav:
+      Track_path: Will Knox - Cog In The Machine\Will Knox - Cog In The Machine_RAW\TRACKING
+        DATE ROUGH MIX.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Ambient_Microphone:
+    room.wav:
+      Track_path: Will Knox - Cog In The Machine\Will Knox - Cog In The Machine_RAW\room.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Acoustic_Guitar, Violin, Drum_Overheads, Lead_Vocal, Double_Bass'
+      Comment: ''

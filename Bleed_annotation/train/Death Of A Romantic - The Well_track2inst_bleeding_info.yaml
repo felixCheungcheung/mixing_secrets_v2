@@ -1,0 +1,198 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer:
+    19_Synth.wav:
+      Track_path: Death Of A Romantic - The Well\Death Of A Romantic - The Well_RAW\19_Synth.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  SFX: {}
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    01_Kick.wav:
+      Track_path: Death Of A Romantic - The Well\Death Of A Romantic - The Well_RAW\01_Kick.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads'
+      Comment: ''
+    02_KickSample.wav:
+      Track_path: Death Of A Romantic - The Well\Death Of A Romantic - The Well_RAW\02_KickSample.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Snare:
+    03_SnareUp.wav:
+      Track_path: Death Of A Romantic - The Well\Death Of A Romantic - The Well_RAW\03_SnareUp.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads'
+      Comment: ''
+    04_SnareDown.wav:
+      Track_path: Death Of A Romantic - The Well\Death Of A Romantic - The Well_RAW\04_SnareDown.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads'
+      Comment: ''
+    05_SnareSample.wav:
+      Track_path: Death Of A Romantic - The Well\Death Of A Romantic - The Well_RAW\05_SnareSample.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_HiHat: {}
+  Drum_Cymbals: {}
+  Drum_Overheads:
+    06_Overheads.wav:
+      Track_path: Death Of A Romantic - The Well\Death Of A Romantic - The Well_RAW\06_Overheads.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Tom:
+    07_Tom1Sample.wav:
+      Track_path: Death Of A Romantic - The Well\Death Of A Romantic - The Well_RAW\07_Tom1Sample.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    08_Tom2Sample.wav:
+      Track_path: Death Of A Romantic - The Well\Death Of A Romantic - The Well_RAW\08_Tom2Sample.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Room: {}
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop: {}
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass: {}
+  Electric_Bass:
+    09_BassDI.wav:
+      Track_path: Death Of A Romantic - The Well\Death Of A Romantic - The Well_RAW\09_BassDI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    10_BassFX.wav:
+      Track_path: Death Of A Romantic - The Well\Death Of A Romantic - The Well_RAW\10_BassFX.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Acoustic_Guitar: {}
+  Electric_Guitar:
+    11_ElecGtr01.wav:
+      Track_path: Death Of A Romantic - The Well\Death Of A Romantic - The Well_RAW\11_ElecGtr01.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    12_ElecGtr01DI.wav:
+      Track_path: Death Of A Romantic - The Well\Death Of A Romantic - The Well_RAW\12_ElecGtr01DI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    13_ElecGtr02.wav:
+      Track_path: Death Of A Romantic - The Well\Death Of A Romantic - The Well_RAW\13_ElecGtr02.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    14_ElecGtr02DI.wav:
+      Track_path: Death Of A Romantic - The Well\Death Of A Romantic - The Well_RAW\14_ElecGtr02DI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    15_ElecGtr03.wav:
+      Track_path: Death Of A Romantic - The Well\Death Of A Romantic - The Well_RAW\15_ElecGtr03.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    16_ElecGtr03DI.wav:
+      Track_path: Death Of A Romantic - The Well\Death Of A Romantic - The Well_RAW\16_ElecGtr03DI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    17_ElecGtr04.wav:
+      Track_path: Death Of A Romantic - The Well\Death Of A Romantic - The Well_RAW\17_ElecGtr04.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    18_ElecGtr04DI.wav:
+      Track_path: Death Of A Romantic - The Well\Death Of A Romantic - The Well_RAW\18_ElecGtr04DI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Piano: {}
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    20_Vox1.wav:
+      Track_path: Death Of A Romantic - The Well\Death Of A Romantic - The Well_RAW\20_Vox1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    21_Vox2.wav:
+      Track_path: Death Of A Romantic - The Well\Death Of A Romantic - The Well_RAW\21_Vox2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    22_Vox3.wav:
+      Track_path: Death Of A Romantic - The Well\Death Of A Romantic - The Well_RAW\22_Vox3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    23_Vox4.wav:
+      Track_path: Death Of A Romantic - The Well\Death Of A Romantic - The Well_RAW\23_Vox4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    24_Vox5.wav:
+      Track_path: Death Of A Romantic - The Well\Death Of A Romantic - The Well_RAW\24_Vox5.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    25_Vox6.wav:
+      Track_path: Death Of A Romantic - The Well\Death Of A Romantic - The Well_RAW\25_Vox6.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Choir: {}
+  Backing_Vocal: {}
+  Unused: {}
+  Ambient_Microphone: {}

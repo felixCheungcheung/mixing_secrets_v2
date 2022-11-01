@@ -1,0 +1,421 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer: {}
+  SFX: {}
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick: {}
+  Drum_Snare: {}
+  Drum_HiHat: {}
+  Drum_Cymbals: {}
+  Drum_Overheads: {}
+  Drum_Tom: {}
+  Drum_Room: {}
+  Shaker:
+    SHAKER-CU29-API1608.wav:
+      Track_path: The Sunshine Garcia Band - For I Am The Moon\The Sunshine Garcia
+        Band - For I Am The Moon_RAW\SHAKER-CU29-API1608.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine:
+    TAMBORINE-CU29-API1608.wav:
+      Track_path: The Sunshine Garcia Band - For I Am The Moon\The Sunshine Garcia
+        Band - For I Am The Moon_RAW\TAMBORINE-CU29-API1608.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Loop: {}
+  Clicks: {}
+  Claps: {}
+  Djembe:
+    DJEMBE TOP-AR51-SSL6000E.wav:
+      Track_path: The Sunshine Garcia Band - For I Am The Moon\The Sunshine Garcia
+        Band - For I Am The Moon_RAW\DJEMBE TOP-AR51-SSL6000E.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    DJEMBE TOP-U47-SSL6000E.wav:
+      Track_path: The Sunshine Garcia Band - For I Am The Moon\The Sunshine Garcia
+        Band - For I Am The Moon_RAW\DJEMBE TOP-U47-SSL6000E.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    DJEMBE BOTTOM-260-SSL6000E.wav:
+      Track_path: The Sunshine Garcia Band - For I Am The Moon\The Sunshine Garcia
+        Band - For I Am The Moon_RAW\DJEMBE BOTTOM-260-SSL6000E.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion:
+    BEATBOX ALTO A-251E-SSL6000E.wav:
+      Track_path: The Sunshine Garcia Band - For I Am The Moon\The Sunshine Garcia
+        Band - For I Am The Moon_RAW\BEATBOX ALTO A-251E-SSL6000E.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    BEATBOX ALTO B-AK47-SSL6000E.wav:
+      Track_path: The Sunshine Garcia Band - For I Am The Moon\The Sunshine Garcia
+        Band - For I Am The Moon_RAW\BEATBOX ALTO B-AK47-SSL6000E.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    BEATBOX GROUP OMNI-260-SSL6000E.wav:
+      Track_path: The Sunshine Garcia Band - For I Am The Moon\The Sunshine Garcia
+        Band - For I Am The Moon_RAW\BEATBOX GROUP OMNI-260-SSL6000E.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    BEATBOX GROUP OMNI-U47-SSL6000E.wav:
+      Track_path: The Sunshine Garcia Band - For I Am The Moon\The Sunshine Garcia
+        Band - For I Am The Moon_RAW\BEATBOX GROUP OMNI-U47-SSL6000E.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    BEATBOX SOPRANO-CU29-SSL6000E.wav:
+      Track_path: The Sunshine Garcia Band - For I Am The Moon\The Sunshine Garcia
+        Band - For I Am The Moon_RAW\BEATBOX SOPRANO-CU29-SSL6000E.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    BEATBOX TENOR-251AC-SSL6000E.wav:
+      Track_path: The Sunshine Garcia Band - For I Am The Moon\The Sunshine Garcia
+        Band - For I Am The Moon_RAW\BEATBOX TENOR-251AC-SSL6000E.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Synth_Bass:
+    BASS SYNTH-DI-SSL6000E.wav:
+      Track_path: The Sunshine Garcia Band - For I Am The Moon\The Sunshine Garcia
+        Band - For I Am The Moon_RAW\BASS SYNTH-DI-SSL6000E.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Electric_Bass:
+    BASS-DI-SSL6000E.wav:
+      Track_path: The Sunshine Garcia Band - For I Am The Moon\The Sunshine Garcia
+        Band - For I Am The Moon_RAW\BASS-DI-SSL6000E.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Acoustic_Guitar:
+    UKULELE-260-SSL6000E.wav:
+      Track_path: The Sunshine Garcia Band - For I Am The Moon\The Sunshine Garcia
+        Band - For I Am The Moon_RAW\UKULELE-260-SSL6000E.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Electric_Guitar: {}
+  Piano: {}
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    LD VOX ALTO A-251AC-SSL6000E.wav:
+      Track_path: The Sunshine Garcia Band - For I Am The Moon\The Sunshine Garcia
+        Band - For I Am The Moon_RAW\LD VOX ALTO A-251AC-SSL6000E.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    LD VOX ALTO A-CU29-SSL6000E.wav:
+      Track_path: The Sunshine Garcia Band - For I Am The Moon\The Sunshine Garcia
+        Band - For I Am The Moon_RAW\LD VOX ALTO A-CU29-SSL6000E.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    LD VOX ALTO A-U47-SSL6000E.wav:
+      Track_path: The Sunshine Garcia Band - For I Am The Moon\The Sunshine Garcia
+        Band - For I Am The Moon_RAW\LD VOX ALTO A-U47-SSL6000E.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    LD VOX ALTO B-251E-SSL6000E.wav:
+      Track_path: The Sunshine Garcia Band - For I Am The Moon\The Sunshine Garcia
+        Band - For I Am The Moon_RAW\LD VOX ALTO B-251E-SSL6000E.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    LD VOX ALTO B-260-SSL6000E.wav:
+      Track_path: The Sunshine Garcia Band - For I Am The Moon\The Sunshine Garcia
+        Band - For I Am The Moon_RAW\LD VOX ALTO B-260-SSL6000E.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    LD VOX ALTO B-AK47-SSL6000E.wav:
+      Track_path: The Sunshine Garcia Band - For I Am The Moon\The Sunshine Garcia
+        Band - For I Am The Moon_RAW\LD VOX ALTO B-AK47-SSL6000E.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    LD VOX SOPRANO A-251E-SSL6000E.wav:
+      Track_path: The Sunshine Garcia Band - For I Am The Moon\The Sunshine Garcia
+        Band - For I Am The Moon_RAW\LD VOX SOPRANO A-251E-SSL6000E.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    LD VOX SOPRANO A-260-SSL6000E.wav:
+      Track_path: The Sunshine Garcia Band - For I Am The Moon\The Sunshine Garcia
+        Band - For I Am The Moon_RAW\LD VOX SOPRANO A-260-SSL6000E.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    LD VOX SOPRANO A-AK47-SSL6000E.wav:
+      Track_path: The Sunshine Garcia Band - For I Am The Moon\The Sunshine Garcia
+        Band - For I Am The Moon_RAW\LD VOX SOPRANO A-AK47-SSL6000E.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    LD VOX SOPRANO B-251AC-SSL6000E.wav:
+      Track_path: The Sunshine Garcia Band - For I Am The Moon\The Sunshine Garcia
+        Band - For I Am The Moon_RAW\LD VOX SOPRANO B-251AC-SSL6000E.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    LD VOX SOPRANO B-CU29-SSL6000E.wav:
+      Track_path: The Sunshine Garcia Band - For I Am The Moon\The Sunshine Garcia
+        Band - For I Am The Moon_RAW\LD VOX SOPRANO B-CU29-SSL6000E.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    LD VOX SOPRANO B-U47-SSL6000E.wav:
+      Track_path: The Sunshine Garcia Band - For I Am The Moon\The Sunshine Garcia
+        Band - For I Am The Moon_RAW\LD VOX SOPRANO B-U47-SSL6000E.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Choir: {}
+  Backing_Vocal:
+    GUITAR VOX ALTO-CU29-SSL6000E.wav:
+      Track_path: The Sunshine Garcia Band - For I Am The Moon\The Sunshine Garcia
+        Band - For I Am The Moon_RAW\GUITAR VOX ALTO-CU29-SSL6000E.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    GUITAR VOX ALTO-U47-SSL6000E.wav:
+      Track_path: The Sunshine Garcia Band - For I Am The Moon\The Sunshine Garcia
+        Band - For I Am The Moon_RAW\GUITAR VOX ALTO-U47-SSL6000E.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    ORGAN DBL VOX ALTO-CU29-SSL6000E.wav:
+      Track_path: The Sunshine Garcia Band - For I Am The Moon\The Sunshine Garcia
+        Band - For I Am The Moon_RAW\ORGAN DBL VOX ALTO-CU29-SSL6000E.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    ORGAN DBL VOX ALTO-U47-SSL6000E.wav:
+      Track_path: The Sunshine Garcia Band - For I Am The Moon\The Sunshine Garcia
+        Band - For I Am The Moon_RAW\ORGAN DBL VOX ALTO-U47-SSL6000E.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    ORGAN DBL VOX TENOR-251E-SSL6000E.wav:
+      Track_path: The Sunshine Garcia Band - For I Am The Moon\The Sunshine Garcia
+        Band - For I Am The Moon_RAW\ORGAN DBL VOX TENOR-251E-SSL6000E.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    ORGAN DBL VOX TENOR-AK47-SSL6000E.wav:
+      Track_path: The Sunshine Garcia Band - For I Am The Moon\The Sunshine Garcia
+        Band - For I Am The Moon_RAW\ORGAN DBL VOX TENOR-AK47-SSL6000E.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    ORGAN VOX ALTO-CU29-SSL6000E.wav:
+      Track_path: The Sunshine Garcia Band - For I Am The Moon\The Sunshine Garcia
+        Band - For I Am The Moon_RAW\ORGAN VOX ALTO-CU29-SSL6000E.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    ORGAN VOX ALTO-U47-SSL6000E.wav:
+      Track_path: The Sunshine Garcia Band - For I Am The Moon\The Sunshine Garcia
+        Band - For I Am The Moon_RAW\ORGAN VOX ALTO-U47-SSL6000E.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    ORGAN VOX TENOR-251E-SSL6000E.wav:
+      Track_path: The Sunshine Garcia Band - For I Am The Moon\The Sunshine Garcia
+        Band - For I Am The Moon_RAW\ORGAN VOX TENOR-251E-SSL6000E.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    ORGAN VOX TENOR-AK47-SSL6000E.wav:
+      Track_path: The Sunshine Garcia Band - For I Am The Moon\The Sunshine Garcia
+        Band - For I Am The Moon_RAW\ORGAN VOX TENOR-AK47-SSL6000E.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    SCRATCH VOX ALTO-M80-SSL6000E.wav:
+      Track_path: The Sunshine Garcia Band - For I Am The Moon\The Sunshine Garcia
+        Band - For I Am The Moon_RAW\SCRATCH VOX ALTO-M80-SSL6000E.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    ADLIB ALTO A-AK47-SSL6000E.wav:
+      Track_path: The Sunshine Garcia Band - For I Am The Moon\The Sunshine Garcia
+        Band - For I Am The Moon_RAW\ADLIB ALTO A-AK47-SSL6000E.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    ADLIB ALTO B-251E-SSL6000E.wav:
+      Track_path: The Sunshine Garcia Band - For I Am The Moon\The Sunshine Garcia
+        Band - For I Am The Moon_RAW\ADLIB ALTO B-251E-SSL6000E.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    ADLIB GROUP OMNI-260-SSL6000E.wav:
+      Track_path: The Sunshine Garcia Band - For I Am The Moon\The Sunshine Garcia
+        Band - For I Am The Moon_RAW\ADLIB GROUP OMNI-260-SSL6000E.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    ADLIB GROUP OMNI-U47-SSL6000E.wav:
+      Track_path: The Sunshine Garcia Band - For I Am The Moon\The Sunshine Garcia
+        Band - For I Am The Moon_RAW\ADLIB GROUP OMNI-U47-SSL6000E.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    ADLIB SOPRANO-251AC-SSL6000E.wav:
+      Track_path: The Sunshine Garcia Band - For I Am The Moon\The Sunshine Garcia
+        Band - For I Am The Moon_RAW\ADLIB SOPRANO-251AC-SSL6000E.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    ADLIB TENOR-CU29-SSL6000E.wav:
+      Track_path: The Sunshine Garcia Band - For I Am The Moon\The Sunshine Garcia
+        Band - For I Am The Moon_RAW\ADLIB TENOR-CU29-SSL6000E.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    AH ALTO-251E-SSL6000E.wav:
+      Track_path: The Sunshine Garcia Band - For I Am The Moon\The Sunshine Garcia
+        Band - For I Am The Moon_RAW\AH ALTO-251E-SSL6000E.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    AH ALTO-AK47-SSL6000E.wav:
+      Track_path: The Sunshine Garcia Band - For I Am The Moon\The Sunshine Garcia
+        Band - For I Am The Moon_RAW\AH ALTO-AK47-SSL6000E.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    AH DBL ALTO-251E-SSL6000E.wav:
+      Track_path: The Sunshine Garcia Band - For I Am The Moon\The Sunshine Garcia
+        Band - For I Am The Moon_RAW\AH DBL ALTO-251E-SSL6000E.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    AH DBL ALTO-AK47-SSL6000E.wav:
+      Track_path: The Sunshine Garcia Band - For I Am The Moon\The Sunshine Garcia
+        Band - For I Am The Moon_RAW\AH DBL ALTO-AK47-SSL6000E.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    AH DBL SOPRANO-CU29-SSL6000E.wav:
+      Track_path: The Sunshine Garcia Band - For I Am The Moon\The Sunshine Garcia
+        Band - For I Am The Moon_RAW\AH DBL SOPRANO-CU29-SSL6000E.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    AH DBL SOPRANO-U47-SSL6000E.wav:
+      Track_path: The Sunshine Garcia Band - For I Am The Moon\The Sunshine Garcia
+        Band - For I Am The Moon_RAW\AH DBL SOPRANO-U47-SSL6000E.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    AH SOPRANO-CU29-SSL6000E.wav:
+      Track_path: The Sunshine Garcia Band - For I Am The Moon\The Sunshine Garcia
+        Band - For I Am The Moon_RAW\AH SOPRANO-CU29-SSL6000E.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    AH SOPRANO-U47-SSL6000E.wav:
+      Track_path: The Sunshine Garcia Band - For I Am The Moon\The Sunshine Garcia
+        Band - For I Am The Moon_RAW\AH SOPRANO-U47-SSL6000E.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    OUTRO ALTO-251E-SSL6000E.wav:
+      Track_path: The Sunshine Garcia Band - For I Am The Moon\The Sunshine Garcia
+        Band - For I Am The Moon_RAW\OUTRO ALTO-251E-SSL6000E.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    OUTRO ALTO-AK47-SSL6000E.wav:
+      Track_path: The Sunshine Garcia Band - For I Am The Moon\The Sunshine Garcia
+        Band - For I Am The Moon_RAW\OUTRO ALTO-AK47-SSL6000E.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    OUTRO SOPRANO-CU29-SSL6000E.wav:
+      Track_path: The Sunshine Garcia Band - For I Am The Moon\The Sunshine Garcia
+        Band - For I Am The Moon_RAW\OUTRO SOPRANO-CU29-SSL6000E.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    OUTRO SOPRANO-U47-SSL6000E.wav:
+      Track_path: The Sunshine Garcia Band - For I Am The Moon\The Sunshine Garcia
+        Band - For I Am The Moon_RAW\OUTRO SOPRANO-U47-SSL6000E.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Unused:
+    UKULELE-251E-SSL6000E.wav:
+      Track_path: The Sunshine Garcia Band - For I Am The Moon\The Sunshine Garcia
+        Band - For I Am The Moon_RAW\UKULELE-251E-SSL6000E.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    TELEFUNKEN SoVoSo All Starts SINGER B.wav:
+      Track_path: The Sunshine Garcia Band - For I Am The Moon\The Sunshine Garcia
+        Band - For I Am The Moon_RAW\TELEFUNKEN SoVoSo All Starts SINGER B.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    TELEFUNKEN SoVoSo All-Stars SINGER A.wav:
+      Track_path: The Sunshine Garcia Band - For I Am The Moon\The Sunshine Garcia
+        Band - For I Am The Moon_RAW\TELEFUNKEN SoVoSo All-Stars SINGER A.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Ambient_Microphone: {}

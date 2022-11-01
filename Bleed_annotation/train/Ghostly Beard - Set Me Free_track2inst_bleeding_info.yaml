@@ -1,0 +1,188 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer: {}
+  SFX: {}
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    01_KickIn.wav:
+      Track_path: Ghostly Beard - Set Me Free\Ghostly Beard - Set Me Free_RAW\01_KickIn.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    02_KickOut.wav:
+      Track_path: Ghostly Beard - Set Me Free\Ghostly Beard - Set Me Free_RAW\02_KickOut.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Snare:
+    03_SnareUp.wav:
+      Track_path: Ghostly Beard - Set Me Free\Ghostly Beard - Set Me Free_RAW\03_SnareUp.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    04_SnareDown.wav:
+      Track_path: Ghostly Beard - Set Me Free\Ghostly Beard - Set Me Free_RAW\04_SnareDown.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_HiHat:
+    05_HiHat.wav:
+      Track_path: Ghostly Beard - Set Me Free\Ghostly Beard - Set Me Free_RAW\05_HiHat.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Cymbals: {}
+  Drum_Overheads:
+    09_Overheads.wav:
+      Track_path: Ghostly Beard - Set Me Free\Ghostly Beard - Set Me Free_RAW\09_Overheads.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Tom:
+    06_Tom1.wav:
+      Track_path: Ghostly Beard - Set Me Free\Ghostly Beard - Set Me Free_RAW\06_Tom1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    07_Tom2.wav:
+      Track_path: Ghostly Beard - Set Me Free\Ghostly Beard - Set Me Free_RAW\07_Tom2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    08_Tom3.wav:
+      Track_path: Ghostly Beard - Set Me Free\Ghostly Beard - Set Me Free_RAW\08_Tom3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Room:
+    10_DrumsRoom1.wav:
+      Track_path: Ghostly Beard - Set Me Free\Ghostly Beard - Set Me Free_RAW\10_DrumsRoom1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    11_DrumsRoom2.wav:
+      Track_path: Ghostly Beard - Set Me Free\Ghostly Beard - Set Me Free_RAW\11_DrumsRoom2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Shaker:
+    13_Shaker.wav:
+      Track_path: Ghostly Beard - Set Me Free\Ghostly Beard - Set Me Free_RAW\13_Shaker.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop:
+    12_DrumLoop.wav:
+      Track_path: Ghostly Beard - Set Me Free\Ghostly Beard - Set Me Free_RAW\12_DrumLoop.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass: {}
+  Electric_Bass:
+    14_Bass.wav:
+      Track_path: Ghostly Beard - Set Me Free\Ghostly Beard - Set Me Free_RAW\14_Bass.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Acoustic_Guitar: {}
+  Electric_Guitar:
+    15_ElecGtr01.wav:
+      Track_path: Ghostly Beard - Set Me Free\Ghostly Beard - Set Me Free_RAW\15_ElecGtr01.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    16_ElecGtr02.wav:
+      Track_path: Ghostly Beard - Set Me Free\Ghostly Beard - Set Me Free_RAW\16_ElecGtr02.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    17_ElecGtr03.wav:
+      Track_path: Ghostly Beard - Set Me Free\Ghostly Beard - Set Me Free_RAW\17_ElecGtr03.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    18_ElecGtr03DT.wav:
+      Track_path: Ghostly Beard - Set Me Free\Ghostly Beard - Set Me Free_RAW\18_ElecGtr03DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Piano: {}
+  Electric_Piano:
+    20_Keys.wav:
+      Track_path: Ghostly Beard - Set Me Free\Ghostly Beard - Set Me Free_RAW\20_Keys.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn:
+    19_Horns.wav:
+      Track_path: Ghostly Beard - Set Me Free\Ghostly Beard - Set Me Free_RAW\19_Horns.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    21_LeadVox.wav:
+      Track_path: Ghostly Beard - Set Me Free\Ghostly Beard - Set Me Free_RAW\21_LeadVox.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Choir: {}
+  Backing_Vocal:
+    22_BackingVox1.wav:
+      Track_path: Ghostly Beard - Set Me Free\Ghostly Beard - Set Me Free_RAW\22_BackingVox1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    23_BackingVox2.wav:
+      Track_path: Ghostly Beard - Set Me Free\Ghostly Beard - Set Me Free_RAW\23_BackingVox2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Unused: {}
+  Ambient_Microphone: {}

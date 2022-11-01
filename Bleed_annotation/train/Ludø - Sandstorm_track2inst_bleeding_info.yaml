@@ -1,0 +1,308 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer:
+    32_Synth01.wav:
+      Track_path: "Lud\xF8 - Sandstorm\\Lud\xF8 - Sandstorm_RAW\\32_Synth01.wav"
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    33_Synth02.wav:
+      Track_path: "Lud\xF8 - Sandstorm\\Lud\xF8 - Sandstorm_RAW\\33_Synth02.wav"
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    34_Synth03.wav:
+      Track_path: "Lud\xF8 - Sandstorm\\Lud\xF8 - Sandstorm_RAW\\34_Synth03.wav"
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    35_Synth04.wav:
+      Track_path: "Lud\xF8 - Sandstorm\\Lud\xF8 - Sandstorm_RAW\\35_Synth04.wav"
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    36_Synth05.wav:
+      Track_path: "Lud\xF8 - Sandstorm\\Lud\xF8 - Sandstorm_RAW\\36_Synth05.wav"
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    37_Synth06.wav:
+      Track_path: "Lud\xF8 - Sandstorm\\Lud\xF8 - Sandstorm_RAW\\37_Synth06.wav"
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    38_Synth07.wav:
+      Track_path: "Lud\xF8 - Sandstorm\\Lud\xF8 - Sandstorm_RAW\\38_Synth07.wav"
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    39_Synth08.wav:
+      Track_path: "Lud\xF8 - Sandstorm\\Lud\xF8 - Sandstorm_RAW\\39_Synth08.wav"
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    40_Synth09.wav:
+      Track_path: "Lud\xF8 - Sandstorm\\Lud\xF8 - Sandstorm_RAW\\40_Synth09.wav"
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    41_Synth10.wav:
+      Track_path: "Lud\xF8 - Sandstorm\\Lud\xF8 - Sandstorm_RAW\\41_Synth10.wav"
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    42_Synth11.wav:
+      Track_path: "Lud\xF8 - Sandstorm\\Lud\xF8 - Sandstorm_RAW\\42_Synth11.wav"
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    43_Synth12.wav:
+      Track_path: "Lud\xF8 - Sandstorm\\Lud\xF8 - Sandstorm_RAW\\43_Synth12.wav"
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    44_Synth13.wav:
+      Track_path: "Lud\xF8 - Sandstorm\\Lud\xF8 - Sandstorm_RAW\\44_Synth13.wav"
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    45_Synth14.wav:
+      Track_path: "Lud\xF8 - Sandstorm\\Lud\xF8 - Sandstorm_RAW\\45_Synth14.wav"
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    46_Synth15.wav:
+      Track_path: "Lud\xF8 - Sandstorm\\Lud\xF8 - Sandstorm_RAW\\46_Synth15.wav"
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    47_Synth16.wav:
+      Track_path: "Lud\xF8 - Sandstorm\\Lud\xF8 - Sandstorm_RAW\\47_Synth16.wav"
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  SFX: {}
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    01_KickIn.wav:
+      Track_path: "Lud\xF8 - Sandstorm\\Lud\xF8 - Sandstorm_RAW\\01_KickIn.wav"
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    02_KickOut.wav:
+      Track_path: "Lud\xF8 - Sandstorm\\Lud\xF8 - Sandstorm_RAW\\02_KickOut.wav"
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    03_KickSub.wav:
+      Track_path: "Lud\xF8 - Sandstorm\\Lud\xF8 - Sandstorm_RAW\\03_KickSub.wav"
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    04_KickSample.wav:
+      Track_path: "Lud\xF8 - Sandstorm\\Lud\xF8 - Sandstorm_RAW\\04_KickSample.wav"
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Snare:
+    05_SnareUp.wav:
+      Track_path: "Lud\xF8 - Sandstorm\\Lud\xF8 - Sandstorm_RAW\\05_SnareUp.wav"
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    06_SnareDown.wav:
+      Track_path: "Lud\xF8 - Sandstorm\\Lud\xF8 - Sandstorm_RAW\\06_SnareDown.wav"
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_HiHat:
+    07_HiHat.wav:
+      Track_path: "Lud\xF8 - Sandstorm\\Lud\xF8 - Sandstorm_RAW\\07_HiHat.wav"
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Cymbals:
+    14_Cymbal.wav:
+      Track_path: "Lud\xF8 - Sandstorm\\Lud\xF8 - Sandstorm_RAW\\14_Cymbal.wav"
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Overheads:
+    08_Overheads.wav:
+      Track_path: "Lud\xF8 - Sandstorm\\Lud\xF8 - Sandstorm_RAW\\08_Overheads.wav"
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Tom:
+    10_Tom1.wav:
+      Track_path: "Lud\xF8 - Sandstorm\\Lud\xF8 - Sandstorm_RAW\\10_Tom1.wav"
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    11_Tom2.wav:
+      Track_path: "Lud\xF8 - Sandstorm\\Lud\xF8 - Sandstorm_RAW\\11_Tom2.wav"
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    12_Tom3.wav:
+      Track_path: "Lud\xF8 - Sandstorm\\Lud\xF8 - Sandstorm_RAW\\12_Tom3.wav"
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    13_Tom4.wav:
+      Track_path: "Lud\xF8 - Sandstorm\\Lud\xF8 - Sandstorm_RAW\\13_Tom4.wav"
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Room:
+    09_DrumsRoom.wav:
+      Track_path: "Lud\xF8 - Sandstorm\\Lud\xF8 - Sandstorm_RAW\\09_DrumsRoom.wav"
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop: {}
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong:
+    15_Gong.wav:
+      Track_path: "Lud\xF8 - Sandstorm\\Lud\xF8 - Sandstorm_RAW\\15_Gong.wav"
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass: {}
+  Electric_Bass:
+    16_Bass.wav:
+      Track_path: "Lud\xF8 - Sandstorm\\Lud\xF8 - Sandstorm_RAW\\16_Bass.wav"
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Acoustic_Guitar:
+    17_AcousticGtrFX.wav:
+      Track_path: "Lud\xF8 - Sandstorm\\Lud\xF8 - Sandstorm_RAW\\17_AcousticGtrFX.wav"
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Electric_Guitar:
+    18_ElecGtr1.wav:
+      Track_path: "Lud\xF8 - Sandstorm\\Lud\xF8 - Sandstorm_RAW\\18_ElecGtr1.wav"
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    19_ElecGtr2.wav:
+      Track_path: "Lud\xF8 - Sandstorm\\Lud\xF8 - Sandstorm_RAW\\19_ElecGtr2.wav"
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Piano:
+    30_Piano.wav:
+      Track_path: "Lud\xF8 - Sandstorm\\Lud\xF8 - Sandstorm_RAW\\30_Piano.wav"
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Electric_Piano: {}
+  Brass_Section:
+    25_Euphoniiums.wav:
+      Track_path: "Lud\xF8 - Sandstorm\\Lud\xF8 - Sandstorm_RAW\\25_Euphoniiums.wav"
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    26_Cimbassi.wav:
+      Track_path: "Lud\xF8 - Sandstorm\\Lud\xF8 - Sandstorm_RAW\\26_Cimbassi.wav"
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Saxophone: {}
+  Trumpet:
+    23_Trumpets.wav:
+      Track_path: "Lud\xF8 - Sandstorm\\Lud\xF8 - Sandstorm_RAW\\23_Trumpets.wav"
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  French_Horn:
+    24_FrenchHorns.wav:
+      Track_path: "Lud\xF8 - Sandstorm\\Lud\xF8 - Sandstorm_RAW\\24_FrenchHorns.wav"
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Trombone:
+    27_BassTrombones.wav:
+      Track_path: "Lud\xF8 - Sandstorm\\Lud\xF8 - Sandstorm_RAW\\27_BassTrombones.wav"
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Tuba:
+    28_Tubas1.wav:
+      Track_path: "Lud\xF8 - Sandstorm\\Lud\xF8 - Sandstorm_RAW\\28_Tubas1.wav"
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    29_Tubas2.wav:
+      Track_path: "Lud\xF8 - Sandstorm\\Lud\xF8 - Sandstorm_RAW\\29_Tubas2.wav"
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  String_Section:
+    20_Strings1.wav:
+      Track_path: "Lud\xF8 - Sandstorm\\Lud\xF8 - Sandstorm_RAW\\20_Strings1.wav"
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    21_Strings2.wav:
+      Track_path: "Lud\xF8 - Sandstorm\\Lud\xF8 - Sandstorm_RAW\\21_Strings2.wav"
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    22_Strings3.wav:
+      Track_path: "Lud\xF8 - Sandstorm\\Lud\xF8 - Sandstorm_RAW\\22_Strings3.wav"
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal: {}
+  Choir:
+    31_Choir.wav:
+      Track_path: "Lud\xF8 - Sandstorm\\Lud\xF8 - Sandstorm_RAW\\31_Choir.wav"
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Backing_Vocal: {}
+  Unused: {}
+  Ambient_Microphone: {}

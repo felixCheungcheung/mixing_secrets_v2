@@ -1,0 +1,308 @@
+Track2inst:
+  Electric_Organ:
+    25_Organ.wav:
+      Track_path: ShortWave RadioBand - SomeDay\ShortWave RadioBand - SomeDay_RAW\25_Organ.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Synthesizer: {}
+  SFX:
+    12_SFX.wav:
+      Track_path: ShortWave RadioBand - SomeDay\ShortWave RadioBand - SomeDay_RAW\12_SFX.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    01_Kick.wav:
+      Track_path: ShortWave RadioBand - SomeDay\ShortWave RadioBand - SomeDay_RAW\01_Kick.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_Snare:
+    02_SnareUp.wav:
+      Track_path: ShortWave RadioBand - SomeDay\ShortWave RadioBand - SomeDay_RAW\02_SnareUp.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    03_SnareDown.wav:
+      Track_path: ShortWave RadioBand - SomeDay\ShortWave RadioBand - SomeDay_RAW\03_SnareDown.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_HiHat:
+    06_HiHat.wav:
+      Track_path: ShortWave RadioBand - SomeDay\ShortWave RadioBand - SomeDay_RAW\06_HiHat.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_Cymbals:
+    08_CymbalsOD.wav:
+      Track_path: ShortWave RadioBand - SomeDay\ShortWave RadioBand - SomeDay_RAW\08_CymbalsOD.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_Overheads:
+    07_Overheads.wav:
+      Track_path: ShortWave RadioBand - SomeDay\ShortWave RadioBand - SomeDay_RAW\07_Overheads.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Tom:
+    04_Tom1.wav:
+      Track_path: ShortWave RadioBand - SomeDay\ShortWave RadioBand - SomeDay_RAW\04_Tom1.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    05_Tom2.wav:
+      Track_path: ShortWave RadioBand - SomeDay\ShortWave RadioBand - SomeDay_RAW\05_Tom2.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_Room: {}
+  Shaker:
+    10_Shaker.wav:
+      Track_path: ShortWave RadioBand - SomeDay\ShortWave RadioBand - SomeDay_RAW\10_Shaker.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine:
+    09_Tambourine.wav:
+      Track_path: ShortWave RadioBand - SomeDay\ShortWave RadioBand - SomeDay_RAW\09_Tambourine.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Loop: {}
+  Clicks: {}
+  Claps:
+    11_Claps.wav:
+      Track_path: ShortWave RadioBand - SomeDay\ShortWave RadioBand - SomeDay_RAW\11_Claps.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass: {}
+  Electric_Bass:
+    13_Bass.wav:
+      Track_path: ShortWave RadioBand - SomeDay\ShortWave RadioBand - SomeDay_RAW\13_Bass.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Acoustic_Guitar:
+    22_AcousticGtr1a.wav:
+      Track_path: ShortWave RadioBand - SomeDay\ShortWave RadioBand - SomeDay_RAW\22_AcousticGtr1a.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    23_AcousticGtr1b.wav:
+      Track_path: ShortWave RadioBand - SomeDay\ShortWave RadioBand - SomeDay_RAW\23_AcousticGtr1b.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    24_AcousticGtr2.wav:
+      Track_path: ShortWave RadioBand - SomeDay\ShortWave RadioBand - SomeDay_RAW\24_AcousticGtr2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Electric_Guitar:
+    14_ElecGtr1.wav:
+      Track_path: ShortWave RadioBand - SomeDay\ShortWave RadioBand - SomeDay_RAW\14_ElecGtr1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    15_ElecGtr2.wav:
+      Track_path: ShortWave RadioBand - SomeDay\ShortWave RadioBand - SomeDay_RAW\15_ElecGtr2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    16_ElecGtr3.wav:
+      Track_path: ShortWave RadioBand - SomeDay\ShortWave RadioBand - SomeDay_RAW\16_ElecGtr3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    17_ElecGtr4.wav:
+      Track_path: ShortWave RadioBand - SomeDay\ShortWave RadioBand - SomeDay_RAW\17_ElecGtr4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    18_ElecGtr5.wav:
+      Track_path: ShortWave RadioBand - SomeDay\ShortWave RadioBand - SomeDay_RAW\18_ElecGtr5.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    19_ElecGtr6.wav:
+      Track_path: ShortWave RadioBand - SomeDay\ShortWave RadioBand - SomeDay_RAW\19_ElecGtr6.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    20_ElecGtr7a.wav:
+      Track_path: ShortWave RadioBand - SomeDay\ShortWave RadioBand - SomeDay_RAW\20_ElecGtr7a.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    21_ElecGtr7b.wav:
+      Track_path: ShortWave RadioBand - SomeDay\ShortWave RadioBand - SomeDay_RAW\21_ElecGtr7b.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Piano:
+    26_Piano.wav:
+      Track_path: ShortWave RadioBand - SomeDay\ShortWave RadioBand - SomeDay_RAW\26_Piano.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Electric_Piano: {}
+  Brass_Section:
+    30_Brass.wav:
+      Track_path: ShortWave RadioBand - SomeDay\ShortWave RadioBand - SomeDay_RAW\30_Brass.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    31_BrassDrop.wav:
+      Track_path: ShortWave RadioBand - SomeDay\ShortWave RadioBand - SomeDay_RAW\31_BrassDrop.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Saxophone:
+    29_Saxophones.wav:
+      Track_path: ShortWave RadioBand - SomeDay\ShortWave RadioBand - SomeDay_RAW\29_Saxophones.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Trumpet:
+    27_Trumpets.wav:
+      Track_path: ShortWave RadioBand - SomeDay\ShortWave RadioBand - SomeDay_RAW\27_Trumpets.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    28_Flugelhorns.wav:
+      Track_path: ShortWave RadioBand - SomeDay\ShortWave RadioBand - SomeDay_RAW\28_Flugelhorns.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    32_LeadVox1a.wav:
+      Track_path: ShortWave RadioBand - SomeDay\ShortWave RadioBand - SomeDay_RAW\32_LeadVox1a.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    33_LeadVox1b.wav:
+      Track_path: ShortWave RadioBand - SomeDay\ShortWave RadioBand - SomeDay_RAW\33_LeadVox1b.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    34_LeadVox1DT.wav:
+      Track_path: ShortWave RadioBand - SomeDay\ShortWave RadioBand - SomeDay_RAW\34_LeadVox1DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    38_LeadVox2.wav:
+      Track_path: ShortWave RadioBand - SomeDay\ShortWave RadioBand - SomeDay_RAW\38_LeadVox2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    39_LeadVox2DT.wav:
+      Track_path: ShortWave RadioBand - SomeDay\ShortWave RadioBand - SomeDay_RAW\39_LeadVox2DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Choir: {}
+  Backing_Vocal:
+    35_LeadVox1Harm1.wav:
+      Track_path: ShortWave RadioBand - SomeDay\ShortWave RadioBand - SomeDay_RAW\35_LeadVox1Harm1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    36_LeadVox1Harm2.wav:
+      Track_path: ShortWave RadioBand - SomeDay\ShortWave RadioBand - SomeDay_RAW\36_LeadVox1Harm2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    37_LeadVox1Harm3.wav:
+      Track_path: ShortWave RadioBand - SomeDay\ShortWave RadioBand - SomeDay_RAW\37_LeadVox1Harm3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    40_LeadVox2Harm.wav:
+      Track_path: ShortWave RadioBand - SomeDay\ShortWave RadioBand - SomeDay_RAW\40_LeadVox2Harm.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    41_BackingVox1.wav:
+      Track_path: ShortWave RadioBand - SomeDay\ShortWave RadioBand - SomeDay_RAW\41_BackingVox1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    42_BackingVox1.wav:
+      Track_path: ShortWave RadioBand - SomeDay\ShortWave RadioBand - SomeDay_RAW\42_BackingVox1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    43_BackingVox1DT1.wav:
+      Track_path: ShortWave RadioBand - SomeDay\ShortWave RadioBand - SomeDay_RAW\43_BackingVox1DT1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    44_BackingVox1DT2.wav:
+      Track_path: ShortWave RadioBand - SomeDay\ShortWave RadioBand - SomeDay_RAW\44_BackingVox1DT2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    45_BackingVox2.wav:
+      Track_path: ShortWave RadioBand - SomeDay\ShortWave RadioBand - SomeDay_RAW\45_BackingVox2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    46_BackingVox3.wav:
+      Track_path: ShortWave RadioBand - SomeDay\ShortWave RadioBand - SomeDay_RAW\46_BackingVox3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    47_BackingVox3DT.wav:
+      Track_path: ShortWave RadioBand - SomeDay\ShortWave RadioBand - SomeDay_RAW\47_BackingVox3DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Unused: {}
+  Ambient_Microphone: {}

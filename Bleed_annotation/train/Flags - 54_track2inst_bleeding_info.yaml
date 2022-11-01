@@ -1,0 +1,388 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer:
+    49_SynthReverse1.wav:
+      Track_path: Flags - 54\Flags - 54_RAW\49_SynthReverse1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    50_SynthReverse2.wav:
+      Track_path: Flags - 54\Flags - 54_RAW\50_SynthReverse2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    51_Synth1.wav:
+      Track_path: Flags - 54\Flags - 54_RAW\51_Synth1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    52_Synth2.wav:
+      Track_path: Flags - 54\Flags - 54_RAW\52_Synth2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    53_Synth3.wav:
+      Track_path: Flags - 54\Flags - 54_RAW\53_Synth3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    54_Synth4.wav:
+      Track_path: Flags - 54\Flags - 54_RAW\54_Synth4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  SFX:
+    55_GlitchSFX.wav:
+      Track_path: Flags - 54\Flags - 54_RAW\55_GlitchSFX.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Marimba:
+    33_MarimbaNear.wav:
+      Track_path: Flags - 54\Flags - 54_RAW\33_MarimbaNear.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    34_MarimbaFar.wav:
+      Track_path: Flags - 54\Flags - 54_RAW\34_MarimbaFar.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Bell:
+    26_Cowbell1Near.wav:
+      Track_path: Flags - 54\Flags - 54_RAW\26_Cowbell1Near.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    27_Cowbell1Far.wav:
+      Track_path: Flags - 54\Flags - 54_RAW\27_Cowbell1Far.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    28_Cowbell2Near.wav:
+      Track_path: Flags - 54\Flags - 54_RAW\28_Cowbell2Near.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    29_Cowbell2Far.wav:
+      Track_path: Flags - 54\Flags - 54_RAW\29_Cowbell2Far.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    01_Kick.wav:
+      Track_path: Flags - 54\Flags - 54_RAW\01_Kick.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_Snare:
+    02_SnareUp.wav:
+      Track_path: Flags - 54\Flags - 54_RAW\02_SnareUp.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    03_SnareDown.wav:
+      Track_path: Flags - 54\Flags - 54_RAW\03_SnareDown.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    04_SnareSample.wav:
+      Track_path: Flags - 54\Flags - 54_RAW\04_SnareSample.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_HiHat:
+    05_HiHat.wav:
+      Track_path: Flags - 54\Flags - 54_RAW\05_HiHat.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_Cymbals: {}
+  Drum_Overheads:
+    06_Overheads.wav:
+      Track_path: Flags - 54\Flags - 54_RAW\06_Overheads.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Tom:
+    08_Tom1.wav:
+      Track_path: Flags - 54\Flags - 54_RAW\08_Tom1.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    09_Tom2.wav:
+      Track_path: Flags - 54\Flags - 54_RAW\09_Tom2.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_Room:
+    07_DrumsRoom.wav:
+      Track_path: Flags - 54\Flags - 54_RAW\07_DrumsRoom.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Shaker:
+    15_Shaker.wav:
+      Track_path: Flags - 54\Flags - 54_RAW\15_Shaker.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: 'Second half contain very slight handdrum leakage'
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil:
+    30_Anvil.wav:
+      Track_path: Flags - 54\Flags - 54_RAW\30_Anvil.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Woodblock:
+    31_WoodblockClose.wav:
+      Track_path: Flags - 54\Flags - 54_RAW\31_WoodblockClose.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    32_WoodblockFar.wav:
+      Track_path: Flags - 54\Flags - 54_RAW\32_WoodblockFar.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Handdrum:
+    16_HandDrum1Mic1.wav:
+      Track_path: Flags - 54\Flags - 54_RAW\16_HandDrum1Mic1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    17_HandDrum1Mic2.wav:
+      Track_path: Flags - 54\Flags - 54_RAW\17_HandDrum1Mic2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    18_HandDrum1Mic3.wav:
+      Track_path: Flags - 54\Flags - 54_RAW\18_HandDrum1Mic3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    19_HandDrum2.wav:
+      Track_path: Flags - 54\Flags - 54_RAW\19_HandDrum2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Tambourine:
+    14_Tambourine.wav:
+      Track_path: Flags - 54\Flags - 54_RAW\14_Tambourine.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Loop: {}
+  Clicks: {}
+  Claps:
+    20_Claps1Near.wav:
+      Track_path: Flags - 54\Flags - 54_RAW\20_Claps1Near.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    21_Claps1Far.wav:
+      Track_path: Flags - 54\Flags - 54_RAW\21_Claps1Far.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    22_Claps2Near.wav:
+      Track_path: Flags - 54\Flags - 54_RAW\22_Claps2Near.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    23_Claps2Far.wav:
+      Track_path: Flags - 54\Flags - 54_RAW\23_Claps2Far.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    24_Claps3Near.wav:
+      Track_path: Flags - 54\Flags - 54_RAW\24_Claps3Near.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    25_Claps3Far.wav:
+      Track_path: Flags - 54\Flags - 54_RAW\25_Claps3Far.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Djembe:
+    10_DjembeMic1.wav:
+      Track_path: Flags - 54\Flags - 54_RAW\10_DjembeMic1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    11_DjembeMic2.wav:
+      Track_path: Flags - 54\Flags - 54_RAW\11_DjembeMic2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    12_DjembeMic3.wav:
+      Track_path: Flags - 54\Flags - 54_RAW\12_DjembeMic3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    13_DjembeMic4.wav:
+      Track_path: Flags - 54\Flags - 54_RAW\13_DjembeMic4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass: {}
+  Electric_Bass:
+    35_Bass.wav:
+      Track_path: Flags - 54\Flags - 54_RAW\35_Bass.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Acoustic_Guitar:
+    36_AcGtrMic1.wav:
+      Track_path: Flags - 54\Flags - 54_RAW\36_AcGtrMic1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    37_AcGtrMic2.wav:
+      Track_path: Flags - 54\Flags - 54_RAW\37_AcGtrMic2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    38_AcGtrMic3.wav:
+      Track_path: Flags - 54\Flags - 54_RAW\38_AcGtrMic3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Electric_Guitar:
+    46_ElecGtrReverse1.wav:
+      Track_path: Flags - 54\Flags - 54_RAW\46_ElecGtrReverse1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    47_ElecGtrReverse2.wav:
+      Track_path: Flags - 54\Flags - 54_RAW\47_ElecGtrReverse2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    48_ElecGtrReverse3.wav:
+      Track_path: Flags - 54\Flags - 54_RAW\48_ElecGtrReverse3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Piano: {}
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet:
+    39_Trumpet.wav:
+      Track_path: Flags - 54\Flags - 54_RAW\39_Trumpet.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    40_Trumpet.wav:
+      Track_path: Flags - 54\Flags - 54_RAW\40_Trumpet.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    41_Trumpet.wav:
+      Track_path: Flags - 54\Flags - 54_RAW\41_Trumpet.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    42_Trumpet.wav:
+      Track_path: Flags - 54\Flags - 54_RAW\42_Trumpet.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    43_Trumpet.wav:
+      Track_path: Flags - 54\Flags - 54_RAW\43_Trumpet.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    44_TrumpetSFX.wav:
+      Track_path: Flags - 54\Flags - 54_RAW\44_TrumpetSFX.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  French_Horn: {}
+  Trombone: {}
+  Tuba:
+    45_Tuba.wav:
+      Track_path: Flags - 54\Flags - 54_RAW\45_Tuba.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    56_LeadVox.wav:
+      Track_path: Flags - 54\Flags - 54_RAW\56_LeadVox.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Choir: {}
+  Backing_Vocal:
+    57_BackingVox1.wav:
+      Track_path: Flags - 54\Flags - 54_RAW\57_BackingVox1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    58_BackingVox2.wav:
+      Track_path: Flags - 54\Flags - 54_RAW\58_BackingVox2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    59_BackingVox3.wav:
+      Track_path: Flags - 54\Flags - 54_RAW\59_BackingVox3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    60_BackingVox4.wav:
+      Track_path: Flags - 54\Flags - 54_RAW\60_BackingVox4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    61_BackingVox5.wav:
+      Track_path: Flags - 54\Flags - 54_RAW\61_BackingVox5.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    62_BackingVox6.wav:
+      Track_path: Flags - 54\Flags - 54_RAW\62_BackingVox6.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    63_BackingVox7.wav:
+      Track_path: Flags - 54\Flags - 54_RAW\63_BackingVox7.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Unused: {}
+  Ambient_Microphone: {}

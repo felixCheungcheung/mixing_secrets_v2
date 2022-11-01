@@ -1,0 +1,295 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer:
+    24_Synth1.wav:
+      Track_path: CEF Mallorca GSSII 2017-18 Sessions - Viviendo Del Reves\CEF Mallorca
+        GSSII 2017-18 Sessions - Viviendo Del Reves_RAW\24_Synth1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    25_Synth2.wav:
+      Track_path: CEF Mallorca GSSII 2017-18 Sessions - Viviendo Del Reves\CEF Mallorca
+        GSSII 2017-18 Sessions - Viviendo Del Reves_RAW\25_Synth2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    26_Synth3.wav:
+      Track_path: CEF Mallorca GSSII 2017-18 Sessions - Viviendo Del Reves\CEF Mallorca
+        GSSII 2017-18 Sessions - Viviendo Del Reves_RAW\26_Synth3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    27_Synth4.wav:
+      Track_path: CEF Mallorca GSSII 2017-18 Sessions - Viviendo Del Reves\CEF Mallorca
+        GSSII 2017-18 Sessions - Viviendo Del Reves_RAW\27_Synth4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    28_Synth5.wav:
+      Track_path: CEF Mallorca GSSII 2017-18 Sessions - Viviendo Del Reves\CEF Mallorca
+        GSSII 2017-18 Sessions - Viviendo Del Reves_RAW\28_Synth5.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  SFX: {}
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    01_Kick.wav:
+      Track_path: CEF Mallorca GSSII 2017-18 Sessions - Viviendo Del Reves\CEF Mallorca
+        GSSII 2017-18 Sessions - Viviendo Del Reves_RAW\01_Kick.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_Snare:
+    02_SnareUp.wav:
+      Track_path: CEF Mallorca GSSII 2017-18 Sessions - Viviendo Del Reves\CEF Mallorca
+        GSSII 2017-18 Sessions - Viviendo Del Reves_RAW\02_SnareUp.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    03_SnareDown.wav:
+      Track_path: CEF Mallorca GSSII 2017-18 Sessions - Viviendo Del Reves\CEF Mallorca
+        GSSII 2017-18 Sessions - Viviendo Del Reves_RAW\03_SnareDown.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_HiHat:
+    04_HiHat.wav:
+      Track_path: CEF Mallorca GSSII 2017-18 Sessions - Viviendo Del Reves\CEF Mallorca
+        GSSII 2017-18 Sessions - Viviendo Del Reves_RAW\04_HiHat.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_Cymbals: {}
+  Drum_Overheads:
+    07_Overheads.wav:
+      Track_path: CEF Mallorca GSSII 2017-18 Sessions - Viviendo Del Reves\CEF Mallorca
+        GSSII 2017-18 Sessions - Viviendo Del Reves_RAW\07_Overheads.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Tom:
+    05_Tom1.wav:
+      Track_path: CEF Mallorca GSSII 2017-18 Sessions - Viviendo Del Reves\CEF Mallorca
+        GSSII 2017-18 Sessions - Viviendo Del Reves_RAW\05_Tom1.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    06_Tom2.wav:
+      Track_path: CEF Mallorca GSSII 2017-18 Sessions - Viviendo Del Reves\CEF Mallorca
+        GSSII 2017-18 Sessions - Viviendo Del Reves_RAW\06_Tom2.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_Room: {}
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop: {}
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass: {}
+  Electric_Bass:
+    08_BassAmpMic1.wav:
+      Track_path: CEF Mallorca GSSII 2017-18 Sessions - Viviendo Del Reves\CEF Mallorca
+        GSSII 2017-18 Sessions - Viviendo Del Reves_RAW\08_BassAmpMic1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    09_BassAmpMic2.wav:
+      Track_path: CEF Mallorca GSSII 2017-18 Sessions - Viviendo Del Reves\CEF Mallorca
+        GSSII 2017-18 Sessions - Viviendo Del Reves_RAW\09_BassAmpMic2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    10_BassDI.wav:
+      Track_path: CEF Mallorca GSSII 2017-18 Sessions - Viviendo Del Reves\CEF Mallorca
+        GSSII 2017-18 Sessions - Viviendo Del Reves_RAW\10_BassDI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Acoustic_Guitar:
+    11_AcousticGtr1Mics1.wav:
+      Track_path: CEF Mallorca GSSII 2017-18 Sessions - Viviendo Del Reves\CEF Mallorca
+        GSSII 2017-18 Sessions - Viviendo Del Reves_RAW\11_AcousticGtr1Mics1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    12_AcousticGtr1Mic2.wav:
+      Track_path: CEF Mallorca GSSII 2017-18 Sessions - Viviendo Del Reves\CEF Mallorca
+        GSSII 2017-18 Sessions - Viviendo Del Reves_RAW\12_AcousticGtr1Mic2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    13_AcousticGtr1DI.wav:
+      Track_path: CEF Mallorca GSSII 2017-18 Sessions - Viviendo Del Reves\CEF Mallorca
+        GSSII 2017-18 Sessions - Viviendo Del Reves_RAW\13_AcousticGtr1DI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    14_AcousticGtr2.wav:
+      Track_path: CEF Mallorca GSSII 2017-18 Sessions - Viviendo Del Reves\CEF Mallorca
+        GSSII 2017-18 Sessions - Viviendo Del Reves_RAW\14_AcousticGtr2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    15_AcousticGtr3.wav:
+      Track_path: CEF Mallorca GSSII 2017-18 Sessions - Viviendo Del Reves\CEF Mallorca
+        GSSII 2017-18 Sessions - Viviendo Del Reves_RAW\15_AcousticGtr3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Electric_Guitar:
+    16_ElecGtr1Mic1.wav:
+      Track_path: CEF Mallorca GSSII 2017-18 Sessions - Viviendo Del Reves\CEF Mallorca
+        GSSII 2017-18 Sessions - Viviendo Del Reves_RAW\16_ElecGtr1Mic1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    17_ElecGtr1Mic2.wav:
+      Track_path: CEF Mallorca GSSII 2017-18 Sessions - Viviendo Del Reves\CEF Mallorca
+        GSSII 2017-18 Sessions - Viviendo Del Reves_RAW\17_ElecGtr1Mic2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    18_ElecGtr1Mics3.wav:
+      Track_path: CEF Mallorca GSSII 2017-18 Sessions - Viviendo Del Reves\CEF Mallorca
+        GSSII 2017-18 Sessions - Viviendo Del Reves_RAW\18_ElecGtr1Mics3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    19_ElecGtr2Mic1.wav:
+      Track_path: CEF Mallorca GSSII 2017-18 Sessions - Viviendo Del Reves\CEF Mallorca
+        GSSII 2017-18 Sessions - Viviendo Del Reves_RAW\19_ElecGtr2Mic1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    20_ElecGtr2Mic2.wav:
+      Track_path: CEF Mallorca GSSII 2017-18 Sessions - Viviendo Del Reves\CEF Mallorca
+        GSSII 2017-18 Sessions - Viviendo Del Reves_RAW\20_ElecGtr2Mic2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    21_ElecGtr2Mics3.wav:
+      Track_path: CEF Mallorca GSSII 2017-18 Sessions - Viviendo Del Reves\CEF Mallorca
+        GSSII 2017-18 Sessions - Viviendo Del Reves_RAW\21_ElecGtr2Mics3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    22_ElecGtr3.wav:
+      Track_path: CEF Mallorca GSSII 2017-18 Sessions - Viviendo Del Reves\CEF Mallorca
+        GSSII 2017-18 Sessions - Viviendo Del Reves_RAW\22_ElecGtr3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    23_ElecGtr4.wav:
+      Track_path: CEF Mallorca GSSII 2017-18 Sessions - Viviendo Del Reves\CEF Mallorca
+        GSSII 2017-18 Sessions - Viviendo Del Reves_RAW\23_ElecGtr4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Piano: {}
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    29_LeadVox1.wav:
+      Track_path: CEF Mallorca GSSII 2017-18 Sessions - Viviendo Del Reves\CEF Mallorca
+        GSSII 2017-18 Sessions - Viviendo Del Reves_RAW\29_LeadVox1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    30_LeadVox1DT.wav:
+      Track_path: CEF Mallorca GSSII 2017-18 Sessions - Viviendo Del Reves\CEF Mallorca
+        GSSII 2017-18 Sessions - Viviendo Del Reves_RAW\30_LeadVox1DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    31_LeadVox2.wav:
+      Track_path: CEF Mallorca GSSII 2017-18 Sessions - Viviendo Del Reves\CEF Mallorca
+        GSSII 2017-18 Sessions - Viviendo Del Reves_RAW\31_LeadVox2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    32_LeadVox2DT.wav:
+      Track_path: CEF Mallorca GSSII 2017-18 Sessions - Viviendo Del Reves\CEF Mallorca
+        GSSII 2017-18 Sessions - Viviendo Del Reves_RAW\32_LeadVox2DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Choir: {}
+  Backing_Vocal:
+    33_BackingVox1.wav:
+      Track_path: CEF Mallorca GSSII 2017-18 Sessions - Viviendo Del Reves\CEF Mallorca
+        GSSII 2017-18 Sessions - Viviendo Del Reves_RAW\33_BackingVox1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Unused:
+    34_BackingVox2.wav:
+      Track_path: CEF Mallorca GSSII 2017-18 Sessions - Viviendo Del Reves\CEF Mallorca
+        GSSII 2017-18 Sessions - Viviendo Del Reves_RAW\34_BackingVox2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    35_BackingVox3.wav:
+      Track_path: CEF Mallorca GSSII 2017-18 Sessions - Viviendo Del Reves\CEF Mallorca
+        GSSII 2017-18 Sessions - Viviendo Del Reves_RAW\35_BackingVox3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    36_BackingVox4.wav:
+      Track_path: CEF Mallorca GSSII 2017-18 Sessions - Viviendo Del Reves\CEF Mallorca
+        GSSII 2017-18 Sessions - Viviendo Del Reves_RAW\36_BackingVox4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    37_BackingVox5.wav:
+      Track_path: CEF Mallorca GSSII 2017-18 Sessions - Viviendo Del Reves\CEF Mallorca
+        GSSII 2017-18 Sessions - Viviendo Del Reves_RAW\37_BackingVox5.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Ambient_Microphone: {}

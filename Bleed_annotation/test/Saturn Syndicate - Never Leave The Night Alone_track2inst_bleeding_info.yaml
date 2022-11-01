@@ -1,0 +1,337 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer:
+    36_Synth1.wav:
+      Track_path: Saturn Syndicate - Never Leave The Night Alone\Saturn Syndicate
+        - Never Leave The Night Alone_RAW\36_Synth1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    37_Synth2.wav:
+      Track_path: Saturn Syndicate - Never Leave The Night Alone\Saturn Syndicate
+        - Never Leave The Night Alone_RAW\37_Synth2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    38_Synth3.wav:
+      Track_path: Saturn Syndicate - Never Leave The Night Alone\Saturn Syndicate
+        - Never Leave The Night Alone_RAW\38_Synth3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    39_Synth4.wav:
+      Track_path: Saturn Syndicate - Never Leave The Night Alone\Saturn Syndicate
+        - Never Leave The Night Alone_RAW\39_Synth4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    40_Synth5.wav:
+      Track_path: Saturn Syndicate - Never Leave The Night Alone\Saturn Syndicate
+        - Never Leave The Night Alone_RAW\40_Synth5.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    41_Synth6.wav:
+      Track_path: Saturn Syndicate - Never Leave The Night Alone\Saturn Syndicate
+        - Never Leave The Night Alone_RAW\41_Synth6.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  SFX:
+    16_SFX.wav:
+      Track_path: Saturn Syndicate - Never Leave The Night Alone\Saturn Syndicate
+        - Never Leave The Night Alone_RAW\16_SFX.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    01_Kick1.wav:
+      Track_path: Saturn Syndicate - Never Leave The Night Alone\Saturn Syndicate
+        - Never Leave The Night Alone_RAW\01_Kick1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    02_Kick2.wav:
+      Track_path: Saturn Syndicate - Never Leave The Night Alone\Saturn Syndicate
+        - Never Leave The Night Alone_RAW\02_Kick2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    03_Kick3.wav:
+      Track_path: Saturn Syndicate - Never Leave The Night Alone\Saturn Syndicate
+        - Never Leave The Night Alone_RAW\03_Kick3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Snare:
+    05_Snare1.wav:
+      Track_path: Saturn Syndicate - Never Leave The Night Alone\Saturn Syndicate
+        - Never Leave The Night Alone_RAW\05_Snare1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    06_Snare2.wav:
+      Track_path: Saturn Syndicate - Never Leave The Night Alone\Saturn Syndicate
+        - Never Leave The Night Alone_RAW\06_Snare2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    07_Snare3.wav:
+      Track_path: Saturn Syndicate - Never Leave The Night Alone\Saturn Syndicate
+        - Never Leave The Night Alone_RAW\07_Snare3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    08_Snare4.wav:
+      Track_path: Saturn Syndicate - Never Leave The Night Alone\Saturn Syndicate
+        - Never Leave The Night Alone_RAW\08_Snare4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_HiHat:
+    09_HiHat1.wav:
+      Track_path: Saturn Syndicate - Never Leave The Night Alone\Saturn Syndicate
+        - Never Leave The Night Alone_RAW\09_HiHat1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    10_HiHat2.wav:
+      Track_path: Saturn Syndicate - Never Leave The Night Alone\Saturn Syndicate
+        - Never Leave The Night Alone_RAW\10_HiHat2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    11_HiHat3.wav:
+      Track_path: Saturn Syndicate - Never Leave The Night Alone\Saturn Syndicate
+        - Never Leave The Night Alone_RAW\11_HiHat3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Cymbals:
+    04_Ride.wav:
+      Track_path: Saturn Syndicate - Never Leave The Night Alone\Saturn Syndicate
+        - Never Leave The Night Alone_RAW\04_Ride.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    15_Cymbal.wav:
+      Track_path: Saturn Syndicate - Never Leave The Night Alone\Saturn Syndicate
+        - Never Leave The Night Alone_RAW\15_Cymbal.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Overheads: {}
+  Drum_Tom:
+    12_Toms.wav:
+      Track_path: Saturn Syndicate - Never Leave The Night Alone\Saturn Syndicate
+        - Never Leave The Night Alone_RAW\12_Toms.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Room: {}
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop: {}
+  Clicks: {}
+  Claps:
+    12_Claps2.wav:
+      Track_path: Saturn Syndicate - Never Leave The Night Alone\Saturn Syndicate
+        - Never Leave The Night Alone_RAW\12_Claps2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    13_Claps1.wav:
+      Track_path: Saturn Syndicate - Never Leave The Night Alone\Saturn Syndicate
+        - Never Leave The Night Alone_RAW\13_Claps1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass:
+    17_BassSynth1.wav:
+      Track_path: Saturn Syndicate - Never Leave The Night Alone\Saturn Syndicate
+        - Never Leave The Night Alone_RAW\17_BassSynth1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    18_BassSynth2.wav:
+      Track_path: Saturn Syndicate - Never Leave The Night Alone\Saturn Syndicate
+        - Never Leave The Night Alone_RAW\18_BassSynth2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    19_BassSynth3.wav:
+      Track_path: Saturn Syndicate - Never Leave The Night Alone\Saturn Syndicate
+        - Never Leave The Night Alone_RAW\19_BassSynth3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    20_BassSynth4.wav:
+      Track_path: Saturn Syndicate - Never Leave The Night Alone\Saturn Syndicate
+        - Never Leave The Night Alone_RAW\20_BassSynth4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Electric_Bass: {}
+  Acoustic_Guitar: {}
+  Electric_Guitar:
+    21_ElecGtr1.wav:
+      Track_path: Saturn Syndicate - Never Leave The Night Alone\Saturn Syndicate
+        - Never Leave The Night Alone_RAW\21_ElecGtr1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    22_ElecGtr1DI.wav:
+      Track_path: Saturn Syndicate - Never Leave The Night Alone\Saturn Syndicate
+        - Never Leave The Night Alone_RAW\22_ElecGtr1DI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    23_ElecGtr1DT.wav:
+      Track_path: Saturn Syndicate - Never Leave The Night Alone\Saturn Syndicate
+        - Never Leave The Night Alone_RAW\23_ElecGtr1DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    24_ElecGtr1DTDI.wav:
+      Track_path: Saturn Syndicate - Never Leave The Night Alone\Saturn Syndicate
+        - Never Leave The Night Alone_RAW\24_ElecGtr1DTDI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    25_ElecGtr2.wav:
+      Track_path: Saturn Syndicate - Never Leave The Night Alone\Saturn Syndicate
+        - Never Leave The Night Alone_RAW\25_ElecGtr2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    26_ElecGtr2DI.wav:
+      Track_path: Saturn Syndicate - Never Leave The Night Alone\Saturn Syndicate
+        - Never Leave The Night Alone_RAW\26_ElecGtr2DI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    27_ElecGtr3.wav:
+      Track_path: Saturn Syndicate - Never Leave The Night Alone\Saturn Syndicate
+        - Never Leave The Night Alone_RAW\27_ElecGtr3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    28_ElecGtr3DI.wav:
+      Track_path: Saturn Syndicate - Never Leave The Night Alone\Saturn Syndicate
+        - Never Leave The Night Alone_RAW\28_ElecGtr3DI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    29_ElecGtr3DT.wav:
+      Track_path: Saturn Syndicate - Never Leave The Night Alone\Saturn Syndicate
+        - Never Leave The Night Alone_RAW\29_ElecGtr3DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    30_ElecGtr3DTDI.wav:
+      Track_path: Saturn Syndicate - Never Leave The Night Alone\Saturn Syndicate
+        - Never Leave The Night Alone_RAW\30_ElecGtr3DTDI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    31_ElecGtr4.wav:
+      Track_path: Saturn Syndicate - Never Leave The Night Alone\Saturn Syndicate
+        - Never Leave The Night Alone_RAW\31_ElecGtr4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    32_ElecGtr4DI.wav:
+      Track_path: Saturn Syndicate - Never Leave The Night Alone\Saturn Syndicate
+        - Never Leave The Night Alone_RAW\32_ElecGtr4DI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Piano: {}
+  Electric_Piano:
+    33_ElecPiano1.wav:
+      Track_path: Saturn Syndicate - Never Leave The Night Alone\Saturn Syndicate
+        - Never Leave The Night Alone_RAW\33_ElecPiano1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    34_ElecPiano2.wav:
+      Track_path: Saturn Syndicate - Never Leave The Night Alone\Saturn Syndicate
+        - Never Leave The Night Alone_RAW\34_ElecPiano2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    35_ElecPiano3.wav:
+      Track_path: Saturn Syndicate - Never Leave The Night Alone\Saturn Syndicate
+        - Never Leave The Night Alone_RAW\35_ElecPiano3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    42_LeadVox.wav:
+      Track_path: Saturn Syndicate - Never Leave The Night Alone\Saturn Syndicate
+        - Never Leave The Night Alone_RAW\42_LeadVox.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Choir: {}
+  Backing_Vocal:
+    43_BackingVox.wav:
+      Track_path: Saturn Syndicate - Never Leave The Night Alone\Saturn Syndicate
+        - Never Leave The Night Alone_RAW\43_BackingVox.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    44_BackingVoxDT.wav:
+      Track_path: Saturn Syndicate - Never Leave The Night Alone\Saturn Syndicate
+        - Never Leave The Night Alone_RAW\44_BackingVoxDT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Unused: {}
+  Ambient_Microphone: {}

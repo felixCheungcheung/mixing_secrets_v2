@@ -1,0 +1,128 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer:
+    09_Synth1_Unmodulated.wav:
+      Track_path: Albert Kader - Ubiquitous\Albert Kader - Ubiquitous_RAW\09_Synth1_Unmodulated.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    10_Synth2_PitchModulated.wav:
+      Track_path: Albert Kader - Ubiquitous\Albert Kader - Ubiquitous_RAW\10_Synth2_PitchModulated.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    11_Synth2.wav:
+      Track_path: Albert Kader - Ubiquitous\Albert Kader - Ubiquitous_RAW\11_Synth2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  SFX:
+    05_SFX1.wav:
+      Track_path: Albert Kader - Ubiquitous\Albert Kader - Ubiquitous_RAW\05_SFX1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    06_SFX2.wav:
+      Track_path: Albert Kader - Ubiquitous\Albert Kader - Ubiquitous_RAW\06_SFX2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    01_Kick.wav:
+      Track_path: Albert Kader - Ubiquitous\Albert Kader - Ubiquitous_RAW\01_Kick.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Snare: {}
+  Drum_HiHat:
+    02_HiHat1.wav:
+      Track_path: Albert Kader - Ubiquitous\Albert Kader - Ubiquitous_RAW\02_HiHat1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    03_HiHat2.wav:
+      Track_path: Albert Kader - Ubiquitous\Albert Kader - Ubiquitous_RAW\03_HiHat2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Cymbals: {}
+  Drum_Overheads: {}
+  Drum_Tom: {}
+  Drum_Room: {}
+  Shaker:
+    07_Shakers.wav:
+      Track_path: Albert Kader - Ubiquitous\Albert Kader - Ubiquitous_RAW\07_Shakers.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop: {}
+  Clicks: {}
+  Claps:
+    04_Claps.wav:
+      Track_path: Albert Kader - Ubiquitous\Albert Kader - Ubiquitous_RAW\04_Claps.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass: {}
+  Electric_Bass:
+    08_Bass.wav:
+      Track_path: Albert Kader - Ubiquitous\Albert Kader - Ubiquitous_RAW\08_Bass.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Acoustic_Guitar: {}
+  Electric_Guitar: {}
+  Piano: {}
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal: {}
+  Choir: {}
+  Backing_Vocal: {}
+  Unused: {}
+  Ambient_Microphone: {}

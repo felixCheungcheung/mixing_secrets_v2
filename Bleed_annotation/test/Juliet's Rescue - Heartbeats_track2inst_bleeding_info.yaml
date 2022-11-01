@@ -1,0 +1,298 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer:
+    33_Synth01.wav:
+      Track_path: Juliet's Rescue - Heartbeats\Juliet's Rescue - Heartbeats_RAW\33_Synth01.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    34_Synth02.wav:
+      Track_path: Juliet's Rescue - Heartbeats\Juliet's Rescue - Heartbeats_RAW\34_Synth02.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    35_Synth03.wav:
+      Track_path: Juliet's Rescue - Heartbeats\Juliet's Rescue - Heartbeats_RAW\35_Synth03.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    36_Synth04.wav:
+      Track_path: Juliet's Rescue - Heartbeats\Juliet's Rescue - Heartbeats_RAW\36_Synth04.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    37_Synth05.wav:
+      Track_path: Juliet's Rescue - Heartbeats\Juliet's Rescue - Heartbeats_RAW\37_Synth05.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    38_Synth06.wav:
+      Track_path: Juliet's Rescue - Heartbeats\Juliet's Rescue - Heartbeats_RAW\38_Synth06.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    39_Synth07.wav:
+      Track_path: Juliet's Rescue - Heartbeats\Juliet's Rescue - Heartbeats_RAW\39_Synth07.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    40_Synth08.wav:
+      Track_path: Juliet's Rescue - Heartbeats\Juliet's Rescue - Heartbeats_RAW\40_Synth08.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    41_Synth09.wav:
+      Track_path: Juliet's Rescue - Heartbeats\Juliet's Rescue - Heartbeats_RAW\41_Synth09.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  SFX: {}
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    01_Kick1.wav:
+      Track_path: Juliet's Rescue - Heartbeats\Juliet's Rescue - Heartbeats_RAW\01_Kick1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    02_Kick2In.wav:
+      Track_path: Juliet's Rescue - Heartbeats\Juliet's Rescue - Heartbeats_RAW\02_Kick2In.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    03_Kick2Out.wav:
+      Track_path: Juliet's Rescue - Heartbeats\Juliet's Rescue - Heartbeats_RAW\03_Kick2Out.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    04_Kick2Sub.wav:
+      Track_path: Juliet's Rescue - Heartbeats\Juliet's Rescue - Heartbeats_RAW\04_Kick2Sub.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Snare:
+    05_Snare1.wav:
+      Track_path: Juliet's Rescue - Heartbeats\Juliet's Rescue - Heartbeats_RAW\05_Snare1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    06_Snare2Over.wav:
+      Track_path: Juliet's Rescue - Heartbeats\Juliet's Rescue - Heartbeats_RAW\06_Snare2Over.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    08_Snare2Squash.wav:
+      Track_path: Juliet's Rescue - Heartbeats\Juliet's Rescue - Heartbeats_RAW\08_Snare2Squash.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_HiHat:
+    09_Hat1.wav:
+      Track_path: Juliet's Rescue - Heartbeats\Juliet's Rescue - Heartbeats_RAW\09_Hat1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    10_Hat2.wav:
+      Track_path: Juliet's Rescue - Heartbeats\Juliet's Rescue - Heartbeats_RAW\10_Hat2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    11_Hat3.wav:
+      Track_path: Juliet's Rescue - Heartbeats\Juliet's Rescue - Heartbeats_RAW\11_Hat3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Cymbals:
+    14_Cymbals.wav:
+      Track_path: Juliet's Rescue - Heartbeats\Juliet's Rescue - Heartbeats_RAW\14_Cymbals.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Overheads:
+    15_Overheads.wav:
+      Track_path: Juliet's Rescue - Heartbeats\Juliet's Rescue - Heartbeats_RAW\15_Overheads.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Tom:
+    12_Tom1.wav:
+      Track_path: Juliet's Rescue - Heartbeats\Juliet's Rescue - Heartbeats_RAW\12_Tom1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    13_Tom2.wav:
+      Track_path: Juliet's Rescue - Heartbeats\Juliet's Rescue - Heartbeats_RAW\13_Tom2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Room:
+    16_DrumsRoom.wav:
+      Track_path: Juliet's Rescue - Heartbeats\Juliet's Rescue - Heartbeats_RAW\16_DrumsRoom.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop: {}
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass: {}
+  Electric_Bass:
+    17_BassDI.wav:
+      Track_path: Juliet's Rescue - Heartbeats\Juliet's Rescue - Heartbeats_RAW\17_BassDI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    18_BassAmp.wav:
+      Track_path: Juliet's Rescue - Heartbeats\Juliet's Rescue - Heartbeats_RAW\18_BassAmp.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    19_BassSlideDI.wav:
+      Track_path: Juliet's Rescue - Heartbeats\Juliet's Rescue - Heartbeats_RAW\19_BassSlideDI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    20_BassSlideAmp.wav:
+      Track_path: Juliet's Rescue - Heartbeats\Juliet's Rescue - Heartbeats_RAW\20_BassSlideAmp.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Acoustic_Guitar: {}
+  Electric_Guitar:
+    21_ElecGtr01.wav:
+      Track_path: Juliet's Rescue - Heartbeats\Juliet's Rescue - Heartbeats_RAW\21_ElecGtr01.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    22_ElecGtr02.wav:
+      Track_path: Juliet's Rescue - Heartbeats\Juliet's Rescue - Heartbeats_RAW\22_ElecGtr02.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    23_ElecGtr03.wav:
+      Track_path: Juliet's Rescue - Heartbeats\Juliet's Rescue - Heartbeats_RAW\23_ElecGtr03.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    24_ElecGtr04.wav:
+      Track_path: Juliet's Rescue - Heartbeats\Juliet's Rescue - Heartbeats_RAW\24_ElecGtr04.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    25_ElecGtr05.wav:
+      Track_path: Juliet's Rescue - Heartbeats\Juliet's Rescue - Heartbeats_RAW\25_ElecGtr05.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    26_ElecGtr06.wav:
+      Track_path: Juliet's Rescue - Heartbeats\Juliet's Rescue - Heartbeats_RAW\26_ElecGtr06.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    27_ElecGtr07.wav:
+      Track_path: Juliet's Rescue - Heartbeats\Juliet's Rescue - Heartbeats_RAW\27_ElecGtr07.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    28_ElecGtr08.wav:
+      Track_path: Juliet's Rescue - Heartbeats\Juliet's Rescue - Heartbeats_RAW\28_ElecGtr08.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    29_ElecGtr09.wav:
+      Track_path: Juliet's Rescue - Heartbeats\Juliet's Rescue - Heartbeats_RAW\29_ElecGtr09.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    30_ElecGtr10.wav:
+      Track_path: Juliet's Rescue - Heartbeats\Juliet's Rescue - Heartbeats_RAW\30_ElecGtr10.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    31_ElecGtr11.wav:
+      Track_path: Juliet's Rescue - Heartbeats\Juliet's Rescue - Heartbeats_RAW\31_ElecGtr11.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    32_ElecGtr12.wav:
+      Track_path: Juliet's Rescue - Heartbeats\Juliet's Rescue - Heartbeats_RAW\32_ElecGtr12.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Piano: {}
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    42_LeadVox1.wav:
+      Track_path: Juliet's Rescue - Heartbeats\Juliet's Rescue - Heartbeats_RAW\42_LeadVox1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    43_LeadVox2.wav:
+      Track_path: Juliet's Rescue - Heartbeats\Juliet's Rescue - Heartbeats_RAW\43_LeadVox2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Choir: {}
+  Backing_Vocal:
+    44_BackingVox1.wav:
+      Track_path: Juliet's Rescue - Heartbeats\Juliet's Rescue - Heartbeats_RAW\44_BackingVox1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    45_BackingVox2.wav:
+      Track_path: Juliet's Rescue - Heartbeats\Juliet's Rescue - Heartbeats_RAW\45_BackingVox2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Unused:
+    07_Snare2Under.wav:
+      Track_path: Juliet's Rescue - Heartbeats\Juliet's Rescue - Heartbeats_RAW\07_Snare2Under.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Ambient_Microphone: {}

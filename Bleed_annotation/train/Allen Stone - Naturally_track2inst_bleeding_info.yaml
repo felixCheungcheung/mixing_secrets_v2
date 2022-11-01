@@ -1,0 +1,159 @@
+Track2inst:
+  Electric_Organ:
+    Keys-Organ-Active DI.wav:
+      Track_path: Allen Stone - Naturally\Allen Stone - Naturally_RAW\Keys-Organ-Active
+        DI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Synthesizer: {}
+  SFX: {}
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    Drums-Kick In-M82.wav:
+      Track_path: Allen Stone - Naturally\Allen Stone - Naturally_RAW\Drums-Kick In-M82.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads, Lead_Vocal, Backing_Vocal'
+      Comment: ''
+    Drums-Kick Out-Proto 647.wav:
+      Track_path: Allen Stone - Naturally\Allen Stone - Naturally_RAW\Drums-Kick Out-Proto
+        647.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads, Lead_Vocal, Backing_Vocal'
+      Comment: ''
+  Drum_Snare:
+    Drums-Snare Bottom-M81.wav:
+      Track_path: Allen Stone - Naturally\Allen Stone - Naturally_RAW\Drums-Snare
+        Bottom-M81.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads, Lead_Vocal, Backing_Vocal'
+      Comment: ''
+    Drums-Snare Top-M80.wav:
+      Track_path: Allen Stone - Naturally\Allen Stone - Naturally_RAW\Drums-Snare
+        Top-M80.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads, Lead_Vocal, Backing_Vocal'
+      Comment: ''
+  Drum_HiHat: {}
+  Drum_Cymbals: {}
+  Drum_Overheads:
+    Drums-Overhead-Ela M 260.wav:
+      Track_path: Allen Stone - Naturally\Allen Stone - Naturally_RAW\Drums-Overhead-Ela
+        M 260.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Lead_Vocal, Backing_Vocal'
+      Comment: ''
+  Drum_Tom:
+    Drums-Floor-M81.wav:
+      Track_path: Allen Stone - Naturally\Allen Stone - Naturally_RAW\Drums-Floor-M81.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads, Lead_Vocal, Backing_Vocal'
+      Comment: ''
+    Drums-Rack-M81.wav:
+      Track_path: Allen Stone - Naturally\Allen Stone - Naturally_RAW\Drums-Rack-M81.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads, Lead_Vocal, Backing_Vocal'
+      Comment: ''
+  Drum_Room:
+    Drums-Room-M60.wav:
+      Track_path: Allen Stone - Naturally\Allen Stone - Naturally_RAW\Drums-Room-M60.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Lead_Vocal, Backing_Vocal'
+      Comment: ''
+    Chamber-M60.wav:
+      Track_path: Allen Stone - Naturally\Allen Stone - Naturally_RAW\Chamber-M60.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Lead_Vocal, Backing_Vocal'
+      Comment: ''
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop: {}
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass:
+    Keys-Wurli-Active DI.wav:
+      Track_path: Allen Stone - Naturally\Allen Stone - Naturally_RAW\Keys-Wurli-Active
+        DI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Electric_Bass: {}
+  Acoustic_Guitar: {}
+  Electric_Guitar:
+    Ele Guitar-Amp-CU29.wav:
+      Track_path: Allen Stone - Naturally\Allen Stone - Naturally_RAW\Ele Guitar-Amp-CU29.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Ele Guitar-Amp-M80.wav:
+      Track_path: Allen Stone - Naturally\Allen Stone - Naturally_RAW\Ele Guitar-Amp-M80.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Piano: {}
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    Vocals-Lead-U47.wav:
+      Track_path: Allen Stone - Naturally\Allen Stone - Naturally_RAW\Vocals-Lead-U47.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads, Backing_Vocal'
+      Comment: ''
+  Choir: {}
+  Backing_Vocal:
+    Vocals-BV1-M81.wav:
+      Track_path: Allen Stone - Naturally\Allen Stone - Naturally_RAW\Vocals-BV1-M81.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads, Lead_Vocal'
+      Comment: ''
+    Vocals-BV2-M81.wav:
+      Track_path: Allen Stone - Naturally\Allen Stone - Naturally_RAW\Vocals-BV2-M81.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads, Lead_Vocal'
+      Comment: ''
+  Unused: {}
+  Ambient_Microphone: {}

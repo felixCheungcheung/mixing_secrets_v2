@@ -1,0 +1,757 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer:
+    Chorus lead bright synth AMS reverb_1.wav:
+      Track_path: Nzca Lines - Pure Luxury\Nzca Lines - Pure Luxury_RAW\Chorus lead
+        bright synth AMS reverb_1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Chorus lead bright synth Memoryman delay_1.wav:
+      Track_path: Nzca Lines - Pure Luxury\Nzca Lines - Pure Luxury_RAW\Chorus lead
+        bright synth Memoryman delay_1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Chorus lead bright synth Timefactor delay_1.wav:
+      Track_path: Nzca Lines - Pure Luxury\Nzca Lines - Pure Luxury_RAW\Chorus lead
+        bright synth Timefactor delay_1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Chorus lead bright synth_1.wav:
+      Track_path: Nzca Lines - Pure Luxury\Nzca Lines - Pure Luxury_RAW\Chorus lead
+        bright synth_1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Chorus lead OTO synth_1.wav:
+      Track_path: Nzca Lines - Pure Luxury\Nzca Lines - Pure Luxury_RAW\Chorus lead
+        OTO synth_1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Chorus TX7 chords flat [muted]_1.wav:
+      Track_path: Nzca Lines - Pure Luxury\Nzca Lines - Pure Luxury_RAW\Chorus TX7
+        chords flat [muted]_1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Chorus TX7 chords neve EQ_1.wav:
+      Track_path: Nzca Lines - Pure Luxury\Nzca Lines - Pure Luxury_RAW\Chorus TX7
+        chords neve EQ_1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    End vibe sample chords_1.wav:
+      Track_path: Nzca Lines - Pure Luxury\Nzca Lines - Pure Luxury_RAW\End vibe sample
+        chords_1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Intro lead synth .wav:
+      Track_path: Nzca Lines - Pure Luxury\Nzca Lines - Pure Luxury_RAW\Intro lead
+        synth .wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Rising synth pan L AMS reverb_1.wav:
+      Track_path: Nzca Lines - Pure Luxury\Nzca Lines - Pure Luxury_RAW\Rising synth
+        pan L AMS reverb_1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Rising synth pan L_1.wav:
+      Track_path: Nzca Lines - Pure Luxury\Nzca Lines - Pure Luxury_RAW\Rising synth
+        pan L_1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Rising synth pan R AMS reverb_1.wav:
+      Track_path: Nzca Lines - Pure Luxury\Nzca Lines - Pure Luxury_RAW\Rising synth
+        pan R AMS reverb_1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Rising synth pan R_1.wav:
+      Track_path: Nzca Lines - Pure Luxury\Nzca Lines - Pure Luxury_RAW\Rising synth
+        pan R_1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    VX end arp CE-1 chorus distorted_1.wav:
+      Track_path: Nzca Lines - Pure Luxury\Nzca Lines - Pure Luxury_RAW\VX end arp
+        CE-1 chorus distorted_1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    VX end arp_1.wav:
+      Track_path: Nzca Lines - Pure Luxury\Nzca Lines - Pure Luxury_RAW\VX end arp_1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  SFX:
+    Bleeps FX memory man_1.wav:
+      Track_path: Nzca Lines - Pure Luxury\Nzca Lines - Pure Luxury_RAW\Bleeps FX
+        memory man_1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Marimba: {}
+  Bell:
+    808 cbell AMS short verb_1.wav:
+      Track_path: Nzca Lines - Pure Luxury\Nzca Lines - Pure Luxury_RAW\808 cbell
+        AMS short verb_1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    808 cbell_1.wav:
+      Track_path: Nzca Lines - Pure Luxury\Nzca Lines - Pure Luxury_RAW\808 cbell_1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle:
+    Triangle_2.wav:
+      Track_path: Nzca Lines - Pure Luxury\Nzca Lines - Pure Luxury_RAW\Triangle_2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    808 kick dry [muted]_1.wav:
+      Track_path: Nzca Lines - Pure Luxury\Nzca Lines - Pure Luxury_RAW\808 kick dry
+        [muted]_1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    808 kick EQ + comp_1.wav:
+      Track_path: Nzca Lines - Pure Luxury\Nzca Lines - Pure Luxury_RAW\808 kick EQ
+        + comp_1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Kick dbl Drumtraks_1.wav:
+      Track_path: Nzca Lines - Pure Luxury\Nzca Lines - Pure Luxury_RAW\Kick dbl Drumtraks_1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Snare:
+    808 snare dry [muted]_1.wav:
+      Track_path: Nzca Lines - Pure Luxury\Nzca Lines - Pure Luxury_RAW\808 snare
+        dry [muted]_1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    808 snare EQ + comp_1.wav:
+      Track_path: Nzca Lines - Pure Luxury\Nzca Lines - Pure Luxury_RAW\808 snare
+        EQ + comp_1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_HiHat:
+    808 hats_1.wav:
+      Track_path: Nzca Lines - Pure Luxury\Nzca Lines - Pure Luxury_RAW\808 hats_1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Cymbals: {}
+  Drum_Overheads:
+    Drum break Odetta stereo full option [muted].wav:
+      Track_path: Nzca Lines - Pure Luxury\Nzca Lines - Pure Luxury_RAW\Drum break
+        Odetta stereo full option [muted].wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Drums - Odetta break (mono)_1.wav:
+      Track_path: Nzca Lines - Pure Luxury\Nzca Lines - Pure Luxury_RAW\Drums - Odetta
+        break (mono)_1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Drums - Orange K break .wav:
+      Track_path: Nzca Lines - Pure Luxury\Nzca Lines - Pure Luxury_RAW\Drums - Orange
+        K break .wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Drums all - flanger_1.wav:
+      Track_path: Nzca Lines - Pure Luxury\Nzca Lines - Pure Luxury_RAW\Drums all
+        - flanger_1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Drums Odetta break (stereo)_1.wav:
+      Track_path: Nzca Lines - Pure Luxury\Nzca Lines - Pure Luxury_RAW\Drums Odetta
+        break (stereo)_1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Tom:
+    Tom fills_1.wav:
+      Track_path: Nzca Lines - Pure Luxury\Nzca Lines - Pure Luxury_RAW\Tom fills_1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Room:
+    Drums - Odetta break Quantec room reverb_1.wav:
+      Track_path: Nzca Lines - Pure Luxury\Nzca Lines - Pure Luxury_RAW\Drums - Odetta
+        break Quantec room reverb_1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop: {}
+  Clicks: {}
+  Claps:
+    808 clap stereo delays .wav:
+      Track_path: Nzca Lines - Pure Luxury\Nzca Lines - Pure Luxury_RAW\808 clap stereo
+        delays .wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    808 clap_1.wav:
+      Track_path: Nzca Lines - Pure Luxury\Nzca Lines - Pure Luxury_RAW\808 clap_1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong:
+    Crash gong_1.wav:
+      Track_path: Nzca Lines - Pure Luxury\Nzca Lines - Pure Luxury_RAW\Crash gong_1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Timbale: {}
+  Pandeiro: {}
+  Percussion:
+    Blip percussion_1.wav:
+      Track_path: Nzca Lines - Pure Luxury\Nzca Lines - Pure Luxury_RAW\Blip percussion_1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Tambourine & congas perc_1.wav:
+      Track_path: Nzca Lines - Pure Luxury\Nzca Lines - Pure Luxury_RAW\Tambourine
+        & congas perc_1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    808 rim_1.wav:
+      Track_path: Nzca Lines - Pure Luxury\Nzca Lines - Pure Luxury_RAW\808 rim_1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Synth_Bass:
+    Bass synth .wav:
+      Track_path: Nzca Lines - Pure Luxury\Nzca Lines - Pure Luxury_RAW\Bass synth
+        .wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Electric_Bass: {}
+  Acoustic_Guitar: {}
+  Electric_Guitar:
+    Gtr rhythm pan L_1.wav:
+      Track_path: Nzca Lines - Pure Luxury\Nzca Lines - Pure Luxury_RAW\Gtr rhythm
+        pan L_1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Gtr rhythm pan R_1.wav:
+      Track_path: Nzca Lines - Pure Luxury\Nzca Lines - Pure Luxury_RAW\Gtr rhythm
+        pan R_1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Gtr rhythm_1.wav:
+      Track_path: Nzca Lines - Pure Luxury\Nzca Lines - Pure Luxury_RAW\Gtr rhythm_1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Gtr solo hi L_1.wav:
+      Track_path: Nzca Lines - Pure Luxury\Nzca Lines - Pure Luxury_RAW\Gtr solo hi
+        L_1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Gtr solo hi R_1.wav:
+      Track_path: Nzca Lines - Pure Luxury\Nzca Lines - Pure Luxury_RAW\Gtr solo hi
+        R_1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Gtr solo low L_1.wav:
+      Track_path: Nzca Lines - Pure Luxury\Nzca Lines - Pure Luxury_RAW\Gtr solo low
+        L_1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Gtr solo low R_1.wav:
+      Track_path: Nzca Lines - Pure Luxury\Nzca Lines - Pure Luxury_RAW\Gtr solo low
+        R_1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Gtr solo main L_1.wav:
+      Track_path: Nzca Lines - Pure Luxury\Nzca Lines - Pure Luxury_RAW\Gtr solo main
+        L_1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Gtr solo main R_1.wav:
+      Track_path: Nzca Lines - Pure Luxury\Nzca Lines - Pure Luxury_RAW\Gtr solo main
+        R_1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Guitar chorus cluster FX_1.wav:
+      Track_path: Nzca Lines - Pure Luxury\Nzca Lines - Pure Luxury_RAW\Guitar chorus
+        cluster FX_1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Guitar end cluster flux FX_1.wav:
+      Track_path: Nzca Lines - Pure Luxury\Nzca Lines - Pure Luxury_RAW\Guitar end
+        cluster flux FX_1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Gtr solo harm L_1.wav:
+      Track_path: Nzca Lines - Pure Luxury\Nzca Lines - Pure Luxury_RAW\Gtr solo harm
+        L_1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Gtr solo harm R_1.wav:
+      Track_path: Nzca Lines - Pure Luxury\Nzca Lines - Pure Luxury_RAW\Gtr solo harm
+        R_1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Piano: {}
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    Vox verse lead hi L_1.wav:
+      Track_path: Nzca Lines - Pure Luxury\Nzca Lines - Pure Luxury_RAW\Vox verse
+        lead hi L_1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Vox verse lead hi R_1.wav:
+      Track_path: Nzca Lines - Pure Luxury\Nzca Lines - Pure Luxury_RAW\Vox verse
+        lead hi R_1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Vox verse lead low L_1.wav:
+      Track_path: Nzca Lines - Pure Luxury\Nzca Lines - Pure Luxury_RAW\Vox verse
+        lead low L_1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Vox verse lead low R_1.wav:
+      Track_path: Nzca Lines - Pure Luxury\Nzca Lines - Pure Luxury_RAW\Vox verse
+        lead low R_1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Vox chorus lead 1 L_1.wav:
+      Track_path: Nzca Lines - Pure Luxury\Nzca Lines - Pure Luxury_RAW\Vox chorus
+        lead 1 L_1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Vox chorus lead 1 R_1.wav:
+      Track_path: Nzca Lines - Pure Luxury\Nzca Lines - Pure Luxury_RAW\Vox chorus
+        lead 1 R_1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Vox Sarah chorus dbl L_1.wav:
+      Track_path: Nzca Lines - Pure Luxury\Nzca Lines - Pure Luxury_RAW\Vox Sarah
+        chorus dbl L_1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Vox Sarah chorus dbl R_1.wav:
+      Track_path: Nzca Lines - Pure Luxury\Nzca Lines - Pure Luxury_RAW\Vox Sarah
+        chorus dbl R_1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Vox Sarah chorus full L_1.wav:
+      Track_path: Nzca Lines - Pure Luxury\Nzca Lines - Pure Luxury_RAW\Vox Sarah
+        chorus full L_1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Vox Sarah chorus full R_1.wav:
+      Track_path: Nzca Lines - Pure Luxury\Nzca Lines - Pure Luxury_RAW\Vox Sarah
+        chorus full R_1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Vox bridge dbl 1 L_1.wav:
+      Track_path: Nzca Lines - Pure Luxury\Nzca Lines - Pure Luxury_RAW\Vox bridge
+        dbl 1 L_1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Vox bridge dbl 1 R_1.wav:
+      Track_path: Nzca Lines - Pure Luxury\Nzca Lines - Pure Luxury_RAW\Vox bridge
+        dbl 1 R_1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Vox bridge dbl 2 L_1.wav:
+      Track_path: Nzca Lines - Pure Luxury\Nzca Lines - Pure Luxury_RAW\Vox bridge
+        dbl 2 L_1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Vox bridge dbl 2 R_1.wav:
+      Track_path: Nzca Lines - Pure Luxury\Nzca Lines - Pure Luxury_RAW\Vox bridge
+        dbl 2 R_1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Vox ch lead dbl L_1.wav:
+      Track_path: Nzca Lines - Pure Luxury\Nzca Lines - Pure Luxury_RAW\Vox ch lead
+        dbl L_1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Vox ch lead dbl R_1.wav:
+      Track_path: Nzca Lines - Pure Luxury\Nzca Lines - Pure Luxury_RAW\Vox ch lead
+        dbl R_1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Choir: {}
+  Backing_Vocal:
+    Vox bridge BVs hi pitched L_1.wav:
+      Track_path: Nzca Lines - Pure Luxury\Nzca Lines - Pure Luxury_RAW\Vox bridge
+        BVs hi pitched L_1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Vox bridge BVs hi pitched R_1.wav:
+      Track_path: Nzca Lines - Pure Luxury\Nzca Lines - Pure Luxury_RAW\Vox bridge
+        BVs hi pitched R_1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Vox bridge BVs lo L_1.wav:
+      Track_path: Nzca Lines - Pure Luxury\Nzca Lines - Pure Luxury_RAW\Vox bridge
+        BVs lo L_1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Vox bridge BVs lo R_1.wav:
+      Track_path: Nzca Lines - Pure Luxury\Nzca Lines - Pure Luxury_RAW\Vox bridge
+        BVs lo R_1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Vox Ch BVs hi L_1.wav:
+      Track_path: Nzca Lines - Pure Luxury\Nzca Lines - Pure Luxury_RAW\Vox Ch BVs
+        hi L_1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Vox Ch BVs hi R_1.wav:
+      Track_path: Nzca Lines - Pure Luxury\Nzca Lines - Pure Luxury_RAW\Vox Ch BVs
+        hi R_1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Vox Ch BVs lo L_1.wav:
+      Track_path: Nzca Lines - Pure Luxury\Nzca Lines - Pure Luxury_RAW\Vox Ch BVs
+        lo L_1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Vox Ch BVs lo R_1.wav:
+      Track_path: Nzca Lines - Pure Luxury\Nzca Lines - Pure Luxury_RAW\Vox Ch BVs
+        lo R_1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Vox ch pitched lo L_1.wav:
+      Track_path: Nzca Lines - Pure Luxury\Nzca Lines - Pure Luxury_RAW\Vox ch pitched
+        lo L_1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Vox ch pitched lo R_1.wav:
+      Track_path: Nzca Lines - Pure Luxury\Nzca Lines - Pure Luxury_RAW\Vox ch pitched
+        lo R_1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Vox FX shhh 1_1.wav:
+      Track_path: Nzca Lines - Pure Luxury\Nzca Lines - Pure Luxury_RAW\Vox FX shhh
+        1_1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Vox FX shhh 2_1.wav:
+      Track_path: Nzca Lines - Pure Luxury\Nzca Lines - Pure Luxury_RAW\Vox FX shhh
+        2_1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Vox FX shhh 3_1.wav:
+      Track_path: Nzca Lines - Pure Luxury\Nzca Lines - Pure Luxury_RAW\Vox FX shhh
+        3_1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Vox FX timestretch reversed_1.wav:
+      Track_path: Nzca Lines - Pure Luxury\Nzca Lines - Pure Luxury_RAW\Vox FX timestretch
+        reversed_1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Vox modulated BVs BUS_1.wav:
+      Track_path: Nzca Lines - Pure Luxury\Nzca Lines - Pure Luxury_RAW\Vox modulated
+        BVs BUS_1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Vox Sarah harm 1 L_1.wav:
+      Track_path: Nzca Lines - Pure Luxury\Nzca Lines - Pure Luxury_RAW\Vox Sarah
+        harm 1 L_1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Vox Sarah harm 1 R_1.wav:
+      Track_path: Nzca Lines - Pure Luxury\Nzca Lines - Pure Luxury_RAW\Vox Sarah
+        harm 1 R_1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Vox Sarah harm 2 L_1.wav:
+      Track_path: Nzca Lines - Pure Luxury\Nzca Lines - Pure Luxury_RAW\Vox Sarah
+        harm 2 L_1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Vox Sarah harm 2 R_1.wav:
+      Track_path: Nzca Lines - Pure Luxury\Nzca Lines - Pure Luxury_RAW\Vox Sarah
+        harm 2 R_1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Vox Sarah harm accent L_1.wav:
+      Track_path: Nzca Lines - Pure Luxury\Nzca Lines - Pure Luxury_RAW\Vox Sarah
+        harm accent L_1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Vox Sarah harm accent R_1.wav:
+      Track_path: Nzca Lines - Pure Luxury\Nzca Lines - Pure Luxury_RAW\Vox Sarah
+        harm accent R_1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Vox stacked ahhs all_1.wav:
+      Track_path: Nzca Lines - Pure Luxury\Nzca Lines - Pure Luxury_RAW\Vox stacked
+        ahhs all_1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Vox stop sample 1_1.wav:
+      Track_path: Nzca Lines - Pure Luxury\Nzca Lines - Pure Luxury_RAW\Vox stop sample
+        1_1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Vox stop sample 2_1.wav:
+      Track_path: Nzca Lines - Pure Luxury\Nzca Lines - Pure Luxury_RAW\Vox stop sample
+        2_1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Vox stop sample 3_1.wav:
+      Track_path: Nzca Lines - Pure Luxury\Nzca Lines - Pure Luxury_RAW\Vox stop sample
+        3_1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Vox stop sample 4_1.wav:
+      Track_path: Nzca Lines - Pure Luxury\Nzca Lines - Pure Luxury_RAW\Vox stop sample
+        4_1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Vox stop sample 5_1.wav:
+      Track_path: Nzca Lines - Pure Luxury\Nzca Lines - Pure Luxury_RAW\Vox stop sample
+        5_1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Vox stop sample 6_1.wav:
+      Track_path: Nzca Lines - Pure Luxury\Nzca Lines - Pure Luxury_RAW\Vox stop sample
+        6_1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Vox stop sample 7_1.wav:
+      Track_path: Nzca Lines - Pure Luxury\Nzca Lines - Pure Luxury_RAW\Vox stop sample
+        7_1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Vox verse 2 BVs 1_1.wav:
+      Track_path: Nzca Lines - Pure Luxury\Nzca Lines - Pure Luxury_RAW\Vox verse
+        2 BVs 1_1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Vox verse 2 BVs 2_1.wav:
+      Track_path: Nzca Lines - Pure Luxury\Nzca Lines - Pure Luxury_RAW\Vox verse
+        2 BVs 2_1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Vox verse 2 Pitchfactor_1.wav:
+      Track_path: Nzca Lines - Pure Luxury\Nzca Lines - Pure Luxury_RAW\Vox verse
+        2 Pitchfactor_1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Vox verse 2 reversed AMS verb_1.wav:
+      Track_path: Nzca Lines - Pure Luxury\Nzca Lines - Pure Luxury_RAW\Vox verse
+        2 reversed AMS verb_1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Vox Verse bridge BVs hi 1_1.wav:
+      Track_path: Nzca Lines - Pure Luxury\Nzca Lines - Pure Luxury_RAW\Vox Verse
+        bridge BVs hi 1_1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Vox Verse bridge BVs hi 2_1.wav:
+      Track_path: Nzca Lines - Pure Luxury\Nzca Lines - Pure Luxury_RAW\Vox Verse
+        bridge BVs hi 2_1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Vox Verse bridge BVs hi 3_1.wav:
+      Track_path: Nzca Lines - Pure Luxury\Nzca Lines - Pure Luxury_RAW\Vox Verse
+        bridge BVs hi 3_1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Vox Verse bridge BVs hi 4_1.wav:
+      Track_path: Nzca Lines - Pure Luxury\Nzca Lines - Pure Luxury_RAW\Vox Verse
+        bridge BVs hi 4_1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Vox Verse bridge BVs lo 1_1.wav:
+      Track_path: Nzca Lines - Pure Luxury\Nzca Lines - Pure Luxury_RAW\Vox Verse
+        bridge BVs lo 1_1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Vox Verse bridge BVs lo 2_1.wav:
+      Track_path: Nzca Lines - Pure Luxury\Nzca Lines - Pure Luxury_RAW\Vox Verse
+        bridge BVs lo 2_1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Vox Verse bridge BVs lo 3_1.wav:
+      Track_path: Nzca Lines - Pure Luxury\Nzca Lines - Pure Luxury_RAW\Vox Verse
+        bridge BVs lo 3_1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Unused:
+    Vox main BUS_1.wav:
+      Track_path: Nzca Lines - Pure Luxury\Nzca Lines - Pure Luxury_RAW\Vox main BUS_1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Vox Sarah BUS.wav:
+      Track_path: Nzca Lines - Pure Luxury\Nzca Lines - Pure Luxury_RAW\Vox Sarah
+        BUS.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    '"Vox FX ''down'' delay mem man [muted]_1.wav"':
+      Track_path: Nzca Lines - Pure Luxury\Nzca Lines - Pure Luxury_RAW\"Vox FX 'down'
+        delay mem man [muted]_1.wav"
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    '"Vox FX ''down'' delay mono [muted]_1.wav"':
+      Track_path: Nzca Lines - Pure Luxury\Nzca Lines - Pure Luxury_RAW\"Vox FX 'down'
+        delay mono [muted]_1.wav"
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    '"Vox FX ''down'' mono + delay stereo auto pan_1.wav"':
+      Track_path: Nzca Lines - Pure Luxury\Nzca Lines - Pure Luxury_RAW\"Vox FX 'down'
+        mono + delay stereo auto pan_1.wav"
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    '"Vox FX ''down'' Quadraverb room reverb_1.wav"':
+      Track_path: Nzca Lines - Pure Luxury\Nzca Lines - Pure Luxury_RAW\"Vox FX 'down'
+        Quadraverb room reverb_1.wav"
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    '"Vox FX timestretch ''tears'' long_1.wav"':
+      Track_path: Nzca Lines - Pure Luxury\Nzca Lines - Pure Luxury_RAW\"Vox FX timestretch
+        'tears' long_1.wav"
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    '"Vox FX timestretch ''tears'' short_1.wav"':
+      Track_path: Nzca Lines - Pure Luxury\Nzca Lines - Pure Luxury_RAW\"Vox FX timestretch
+        'tears' short_1.wav"
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Ambient_Microphone: {}

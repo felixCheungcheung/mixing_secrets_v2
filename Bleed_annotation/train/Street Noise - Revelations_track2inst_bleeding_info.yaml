@@ -1,0 +1,133 @@
+Track2inst:
+  Electric_Organ:
+    10_HammondLeslieHi.wav:
+      Track_path: Street Noise - Revelations\Street Noise - Revelations_RAW\10_HammondLeslieHi.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads, Electric_Guitar'
+      Comment: ''
+    11_HammondLeslieLo.wav:
+      Track_path: Street Noise - Revelations\Street Noise - Revelations_RAW\11_HammondLeslieLo.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads, Electric_Guitar'
+      Comment: ''
+  Synthesizer: {}
+  SFX: {}
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    01_Kick.wav:
+      Track_path: Street Noise - Revelations\Street Noise - Revelations_RAW\01_Kick.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads, Electric_Bass'
+      Comment: ''
+  Drum_Snare:
+    02_Snare.wav:
+      Track_path: Street Noise - Revelations\Street Noise - Revelations_RAW\02_Snare.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads, Electric_Bass'
+      Comment: ''
+  Drum_HiHat: {}
+  Drum_Cymbals:
+    04_Cymbals.wav:
+      Track_path: Street Noise - Revelations\Street Noise - Revelations_RAW\04_Cymbals.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads, Electric_Bass'
+      Comment: ''
+  Drum_Overheads:
+    03-Overheads-130729_0912.wav:
+      Track_path: Street Noise - Revelations\Street Noise - Revelations_RAW\03-Overheads-130729_0912.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Electric_Bass'
+      Comment: ''
+    03_Overheads.wav:
+      Track_path: Street Noise - Revelations\Street Noise - Revelations_RAW\03_Overheads.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Electric_Bass'
+      Comment: ''
+  Drum_Tom: {}
+  Drum_Room: {}
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga:
+    06_Congas.wav:
+      Track_path: Street Noise - Revelations\Street Noise - Revelations_RAW\06_Congas.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads, Electric_Bass, Electric_Guitar'
+      Comment: ''
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop: {}
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass: {}
+  Electric_Bass:
+    05_Bass.wav:
+      Track_path: Street Noise - Revelations\Street Noise - Revelations_RAW\05_Bass.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Acoustic_Guitar: {}
+  Electric_Guitar:
+    07_ElecGtr1.wav:
+      Track_path: Street Noise - Revelations\Street Noise - Revelations_RAW\07_ElecGtr1.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads'
+      Comment: ''
+    08_ElecGtr2.wav:
+      Track_path: Street Noise - Revelations\Street Noise - Revelations_RAW\08_ElecGtr2.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads'
+      Comment: ''
+  Piano: {}
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    09_LeadVox.wav:
+      Track_path: Street Noise - Revelations\Street Noise - Revelations_RAW\09_LeadVox.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads, Electric_Guitar'
+      Comment: ''
+  Choir: {}
+  Backing_Vocal: {}
+  Unused: {}
+  Ambient_Microphone: {}

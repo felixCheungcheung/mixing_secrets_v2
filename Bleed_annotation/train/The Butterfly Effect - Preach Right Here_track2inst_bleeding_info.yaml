@@ -1,0 +1,229 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer: {}
+  SFX:
+    19_SFX1.wav:
+      Track_path: The Butterfly Effect - Preach Right Here\The Butterfly Effect -
+        Preach Right Here_RAW\19_SFX1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    20_SFX2.wav:
+      Track_path: The Butterfly Effect - Preach Right Here\The Butterfly Effect -
+        Preach Right Here_RAW\20_SFX2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    21_SFX3.wav:
+      Track_path: The Butterfly Effect - Preach Right Here\The Butterfly Effect -
+        Preach Right Here_RAW\21_SFX3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    22_SFX4.wav:
+      Track_path: The Butterfly Effect - Preach Right Here\The Butterfly Effect -
+        Preach Right Here_RAW\22_SFX4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    01_Kick.wav:
+      Track_path: The Butterfly Effect - Preach Right Here\The Butterfly Effect -
+        Preach Right Here_RAW\01_Kick.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    02_KickSample.wav:
+      Track_path: The Butterfly Effect - Preach Right Here\The Butterfly Effect -
+        Preach Right Here_RAW\02_KickSample.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Snare:
+    03_Snare.wav:
+      Track_path: The Butterfly Effect - Preach Right Here\The Butterfly Effect -
+        Preach Right Here_RAW\03_Snare.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    04_SnareSample.wav:
+      Track_path: The Butterfly Effect - Preach Right Here\The Butterfly Effect -
+        Preach Right Here_RAW\04_SnareSample.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_HiHat: {}
+  Drum_Cymbals: {}
+  Drum_Overheads:
+    07_Overheads.wav:
+      Track_path: The Butterfly Effect - Preach Right Here\The Butterfly Effect -
+        Preach Right Here_RAW\07_Overheads.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Tom:
+    05_Tom1.wav:
+      Track_path: The Butterfly Effect - Preach Right Here\The Butterfly Effect -
+        Preach Right Here_RAW\05_Tom1.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    06_Tom2.wav:
+      Track_path: The Butterfly Effect - Preach Right Here\The Butterfly Effect -
+        Preach Right Here_RAW\06_Tom2.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_Room:
+    08_Room.wav:
+      Track_path: The Butterfly Effect - Preach Right Here\The Butterfly Effect -
+        Preach Right Here_RAW\08_Room.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Shaker:
+    10_Shaker.wav:
+      Track_path: The Butterfly Effect - Preach Right Here\The Butterfly Effect -
+        Preach Right Here_RAW\10_Shaker.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: 'contain noticeable pink noise, unappropriate recording gain'
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine:
+    09_Tambourine.wav:
+      Track_path: The Butterfly Effect - Preach Right Here\The Butterfly Effect -
+        Preach Right Here_RAW\09_Tambourine.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Loop: {}
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass: {}
+  Electric_Bass:
+    11_Bass1.wav:
+      Track_path: The Butterfly Effect - Preach Right Here\The Butterfly Effect -
+        Preach Right Here_RAW\11_Bass1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    12_Bass2.wav:
+      Track_path: The Butterfly Effect - Preach Right Here\The Butterfly Effect -
+        Preach Right Here_RAW\12_Bass2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Acoustic_Guitar:
+    13_AcousticGtr1.wav:
+      Track_path: The Butterfly Effect - Preach Right Here\The Butterfly Effect -
+        Preach Right Here_RAW\13_AcousticGtr1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    14_AcousticGtr2.wav:
+      Track_path: The Butterfly Effect - Preach Right Here\The Butterfly Effect -
+        Preach Right Here_RAW\14_AcousticGtr2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    15_Dulcimer1.wav:
+      Track_path: The Butterfly Effect - Preach Right Here\The Butterfly Effect -
+        Preach Right Here_RAW\15_Dulcimer1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    16_Dulcimer2.wav:
+      Track_path: The Butterfly Effect - Preach Right Here\The Butterfly Effect -
+        Preach Right Here_RAW\16_Dulcimer2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Electric_Guitar:
+    17_ElecGtr1.wav:
+      Track_path: The Butterfly Effect - Preach Right Here\The Butterfly Effect -
+        Preach Right Here_RAW\17_ElecGtr1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    18_ElecGtr2.wav:
+      Track_path: The Butterfly Effect - Preach Right Here\The Butterfly Effect -
+        Preach Right Here_RAW\18_ElecGtr2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Piano: {}
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    23_LeadVox.wav:
+      Track_path: The Butterfly Effect - Preach Right Here\The Butterfly Effect -
+        Preach Right Here_RAW\23_LeadVox.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads'
+      Comment: ''
+  Choir: {}
+  Backing_Vocal:
+    24_BackingVox1.wav:
+      Track_path: The Butterfly Effect - Preach Right Here\The Butterfly Effect -
+        Preach Right Here_RAW\24_BackingVox1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: 'Lead_Vocal'
+      Comment: ''
+    25_BackingVox2.wav:
+      Track_path: The Butterfly Effect - Preach Right Here\The Butterfly Effect -
+        Preach Right Here_RAW\25_BackingVox2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    26_BackingVox3.wav:
+      Track_path: The Butterfly Effect - Preach Right Here\The Butterfly Effect -
+        Preach Right Here_RAW\26_BackingVox3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Unused: {}
+  Ambient_Microphone: {}

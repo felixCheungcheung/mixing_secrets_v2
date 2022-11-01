@@ -1,0 +1,203 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer: {}
+  SFX: {}
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    01_KickInMic1.wav:
+      Track_path: The Black Crown - Flames\The Black Crown - Flames_RAW\01_KickInMic1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    02_KickInMic2.wav:
+      Track_path: The Black Crown - Flames\The Black Crown - Flames_RAW\02_KickInMic2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    03_KickOut.wav:
+      Track_path: The Black Crown - Flames\The Black Crown - Flames_RAW\03_KickOut.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Snare:
+    04_Snare1Up.wav:
+      Track_path: The Black Crown - Flames\The Black Crown - Flames_RAW\04_Snare1Up.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    05_Snare1Down.wav:
+      Track_path: The Black Crown - Flames\The Black Crown - Flames_RAW\05_Snare1Down.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    06_Snare2Up.wav:
+      Track_path: The Black Crown - Flames\The Black Crown - Flames_RAW\06_Snare2Up.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    07_Snare2Room.wav:
+      Track_path: The Black Crown - Flames\The Black Crown - Flames_RAW\07_Snare2Room.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_HiHat:
+    08_HiHat.wav:
+      Track_path: The Black Crown - Flames\The Black Crown - Flames_RAW\08_HiHat.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Cymbals: {}
+  Drum_Overheads:
+    13_Overheads.wav:
+      Track_path: The Black Crown - Flames\The Black Crown - Flames_RAW\13_Overheads.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Tom:
+    09_Tom1.wav:
+      Track_path: The Black Crown - Flames\The Black Crown - Flames_RAW\09_Tom1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    10_Tom2.wav:
+      Track_path: The Black Crown - Flames\The Black Crown - Flames_RAW\10_Tom2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    11_Tom3.wav:
+      Track_path: The Black Crown - Flames\The Black Crown - Flames_RAW\11_Tom3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    12_Tom4.wav:
+      Track_path: The Black Crown - Flames\The Black Crown - Flames_RAW\12_Tom4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Room:
+    14_DrumsRoomStereo.wav:
+      Track_path: The Black Crown - Flames\The Black Crown - Flames_RAW\14_DrumsRoomStereo.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    15_DrumsRoomMono.wav:
+      Track_path: The Black Crown - Flames\The Black Crown - Flames_RAW\15_DrumsRoomMono.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop: {}
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass: {}
+  Electric_Bass:
+    16_BassDI.wav:
+      Track_path: The Black Crown - Flames\The Black Crown - Flames_RAW\16_BassDI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    17_BassAmp.wav:
+      Track_path: The Black Crown - Flames\The Black Crown - Flames_RAW\17_BassAmp.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Acoustic_Guitar: {}
+  Electric_Guitar:
+    18_ElecGtr1Amp.wav:
+      Track_path: The Black Crown - Flames\The Black Crown - Flames_RAW\18_ElecGtr1Amp.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    19_ElecGtr1DI.wav:
+      Track_path: The Black Crown - Flames\The Black Crown - Flames_RAW\19_ElecGtr1DI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    20_ElecGtr1DTAmp.wav:
+      Track_path: The Black Crown - Flames\The Black Crown - Flames_RAW\20_ElecGtr1DTAmp.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    21_ElecGtr1DTDI.wav:
+      Track_path: The Black Crown - Flames\The Black Crown - Flames_RAW\21_ElecGtr1DTDI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    22_ElecGtr2.wav:
+      Track_path: The Black Crown - Flames\The Black Crown - Flames_RAW\22_ElecGtr2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    23_ElecGtr3.wav:
+      Track_path: The Black Crown - Flames\The Black Crown - Flames_RAW\23_ElecGtr3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Piano: {}
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    24_LeadVox.wav:
+      Track_path: The Black Crown - Flames\The Black Crown - Flames_RAW\24_LeadVox.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    25_LeadVoxDT1.wav:
+      Track_path: The Black Crown - Flames\The Black Crown - Flames_RAW\25_LeadVoxDT1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    26_LeadVoxDT2.wav:
+      Track_path: The Black Crown - Flames\The Black Crown - Flames_RAW\26_LeadVoxDT2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Choir: {}
+  Backing_Vocal: {}
+  Unused: {}
+  Ambient_Microphone: {}

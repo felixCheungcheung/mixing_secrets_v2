@@ -1,0 +1,223 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer:
+    24_Synth1.wav:
+      Track_path: Babe Grand - King Of The Weekend\Babe Grand - King Of The Weekend_RAW\24_Synth1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    25_Synth2.wav:
+      Track_path: Babe Grand - King Of The Weekend\Babe Grand - King Of The Weekend_RAW\25_Synth2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  SFX:
+    20_SFX1.wav:
+      Track_path: Babe Grand - King Of The Weekend\Babe Grand - King Of The Weekend_RAW\20_SFX1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    21_SFX2.wav:
+      Track_path: Babe Grand - King Of The Weekend\Babe Grand - King Of The Weekend_RAW\21_SFX2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    22_SFX3.wav:
+      Track_path: Babe Grand - King Of The Weekend\Babe Grand - King Of The Weekend_RAW\22_SFX3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    23_SFX4.wav:
+      Track_path: Babe Grand - King Of The Weekend\Babe Grand - King Of The Weekend_RAW\23_SFX4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick: {}
+  Drum_Snare:
+    05_Snare1.wav:
+      Track_path: Babe Grand - King Of The Weekend\Babe Grand - King Of The Weekend_RAW\05_Snare1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    06_Snare2.wav:
+      Track_path: Babe Grand - King Of The Weekend\Babe Grand - King Of The Weekend_RAW\06_Snare2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_HiHat:
+    03_HiHat1.wav:
+      Track_path: Babe Grand - King Of The Weekend\Babe Grand - King Of The Weekend_RAW\03_HiHat1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    04_HiHat2.wav:
+      Track_path: Babe Grand - King Of The Weekend\Babe Grand - King Of The Weekend_RAW\04_HiHat2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Cymbals:
+    07_Cymbal1.wav:
+      Track_path: Babe Grand - King Of The Weekend\Babe Grand - King Of The Weekend_RAW\07_Cymbal1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    08_Cymbal2.wav:
+      Track_path: Babe Grand - King Of The Weekend\Babe Grand - King Of The Weekend_RAW\08_Cymbal2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    09_Cymbal3.wav:
+      Track_path: Babe Grand - King Of The Weekend\Babe Grand - King Of The Weekend_RAW\09_Cymbal3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    10_Cymbal4.wav:
+      Track_path: Babe Grand - King Of The Weekend\Babe Grand - King Of The Weekend_RAW\10_Cymbal4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    11_Cymbal5.wav:
+      Track_path: Babe Grand - King Of The Weekend\Babe Grand - King Of The Weekend_RAW\11_Cymbal5.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Overheads: {}
+  Drum_Tom: {}
+  Drum_Room: {}
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop: {}
+  Clicks: {}
+  Claps:
+    02_Clap.wav:
+      Track_path: Babe Grand - King Of The Weekend\Babe Grand - King Of The Weekend_RAW\02_Clap.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion:
+    12_Percussion1.wav:
+      Track_path: Babe Grand - King Of The Weekend\Babe Grand - King Of The Weekend_RAW\12_Percussion1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    13_Percussion2.wav:
+      Track_path: Babe Grand - King Of The Weekend\Babe Grand - King Of The Weekend_RAW\13_Percussion2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    14_Percussion3.wav:
+      Track_path: Babe Grand - King Of The Weekend\Babe Grand - King Of The Weekend_RAW\14_Percussion3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    15_Percussion4.wav:
+      Track_path: Babe Grand - King Of The Weekend\Babe Grand - King Of The Weekend_RAW\15_Percussion4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    16_Percussion5.wav:
+      Track_path: Babe Grand - King Of The Weekend\Babe Grand - King Of The Weekend_RAW\16_Percussion5.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    17_Percussion6.wav:
+      Track_path: Babe Grand - King Of The Weekend\Babe Grand - King Of The Weekend_RAW\17_Percussion6.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    18_Percussion7.wav:
+      Track_path: Babe Grand - King Of The Weekend\Babe Grand - King Of The Weekend_RAW\18_Percussion7.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    19_Percussion8.wav:
+      Track_path: Babe Grand - King Of The Weekend\Babe Grand - King Of The Weekend_RAW\19_Percussion8.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Synth_Bass: {}
+  Electric_Bass: {}
+  Acoustic_Guitar: {}
+  Electric_Guitar: {}
+  Piano: {}
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    26_Vox1.wav:
+      Track_path: Babe Grand - King Of The Weekend\Babe Grand - King Of The Weekend_RAW\26_Vox1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    27_Vox2.wav:
+      Track_path: Babe Grand - King Of The Weekend\Babe Grand - King Of The Weekend_RAW\27_Vox2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    28_Vox3.wav:
+      Track_path: Babe Grand - King Of The Weekend\Babe Grand - King Of The Weekend_RAW\28_Vox3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    29_Vox4.wav:
+      Track_path: Babe Grand - King Of The Weekend\Babe Grand - King Of The Weekend_RAW\29_Vox4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    30_Vox5.wav:
+      Track_path: Babe Grand - King Of The Weekend\Babe Grand - King Of The Weekend_RAW\30_Vox5.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Choir: {}
+  Backing_Vocal: {}
+  Unused:
+    01_KickBass.wav:
+      Track_path: Babe Grand - King Of The Weekend\Babe Grand - King Of The Weekend_RAW\01_KickBass.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Ambient_Microphone: {}

@@ -1,0 +1,469 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer: {}
+  SFX: {}
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    01_KickIn.wav:
+      Track_path: Perpetual Escape - Roots Of Mankind\Perpetual Escape - Roots Of
+        Mankind_RAW\01_KickIn.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    02_KickOut.wav:
+      Track_path: Perpetual Escape - Roots Of Mankind\Perpetual Escape - Roots Of
+        Mankind_RAW\02_KickOut.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_Snare:
+    03_Snare1Up.wav:
+      Track_path: Perpetual Escape - Roots Of Mankind\Perpetual Escape - Roots Of
+        Mankind_RAW\03_Snare1Up.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    04_Snare1Down.wav:
+      Track_path: Perpetual Escape - Roots Of Mankind\Perpetual Escape - Roots Of
+        Mankind_RAW\04_Snare1Down.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    05_Snare2Up.wav:
+      Track_path: Perpetual Escape - Roots Of Mankind\Perpetual Escape - Roots Of
+        Mankind_RAW\05_Snare2Up.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_HiHat:
+    06_HiHat.wav:
+      Track_path: Perpetual Escape - Roots Of Mankind\Perpetual Escape - Roots Of
+        Mankind_RAW\06_HiHat.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_Cymbals: {}
+  Drum_Overheads:
+    12_Overheads.wav:
+      Track_path: Perpetual Escape - Roots Of Mankind\Perpetual Escape - Roots Of
+        Mankind_RAW\12_Overheads.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Tom:
+    07_Tom1.wav:
+      Track_path: Perpetual Escape - Roots Of Mankind\Perpetual Escape - Roots Of
+        Mankind_RAW\07_Tom1.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    08_Tom2.wav:
+      Track_path: Perpetual Escape - Roots Of Mankind\Perpetual Escape - Roots Of
+        Mankind_RAW\08_Tom2.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    09_Tom3.wav:
+      Track_path: Perpetual Escape - Roots Of Mankind\Perpetual Escape - Roots Of
+        Mankind_RAW\09_Tom3.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    10_Tom4.wav:
+      Track_path: Perpetual Escape - Roots Of Mankind\Perpetual Escape - Roots Of
+        Mankind_RAW\10_Tom4.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    11_Tom5.wav:
+      Track_path: Perpetual Escape - Roots Of Mankind\Perpetual Escape - Roots Of
+        Mankind_RAW\11_Tom5.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_Room:
+    13_DrumsRoom1.wav:
+      Track_path: Perpetual Escape - Roots Of Mankind\Perpetual Escape - Roots Of
+        Mankind_RAW\13_DrumsRoom1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    14_DrumsRoom2.wav:
+      Track_path: Perpetual Escape - Roots Of Mankind\Perpetual Escape - Roots Of
+        Mankind_RAW\14_DrumsRoom2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Shaker:
+    15_Shaker.wav:
+      Track_path: Perpetual Escape - Roots Of Mankind\Perpetual Escape - Roots Of
+        Mankind_RAW\15_Shaker.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine:
+    16_Tambourine.wav:
+      Track_path: Perpetual Escape - Roots Of Mankind\Perpetual Escape - Roots Of
+        Mankind_RAW\16_Tambourine.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Loop: {}
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass: {}
+  Electric_Bass:
+    17_Bass DI.wav:
+      Track_path: Perpetual Escape - Roots Of Mankind\Perpetual Escape - Roots Of
+        Mankind_RAW\17_Bass DI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Acoustic_Guitar: {}
+  Electric_Guitar:
+    18_ElecGtr01Mic1.wav:
+      Track_path: Perpetual Escape - Roots Of Mankind\Perpetual Escape - Roots Of
+        Mankind_RAW\18_ElecGtr01Mic1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    19_ElecGtr01Mic2.wav:
+      Track_path: Perpetual Escape - Roots Of Mankind\Perpetual Escape - Roots Of
+        Mankind_RAW\19_ElecGtr01Mic2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    20_ElecGtr01Mic3.wav:
+      Track_path: Perpetual Escape - Roots Of Mankind\Perpetual Escape - Roots Of
+        Mankind_RAW\20_ElecGtr01Mic3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    21_ElecGtr01Mic4.wav:
+      Track_path: Perpetual Escape - Roots Of Mankind\Perpetual Escape - Roots Of
+        Mankind_RAW\21_ElecGtr01Mic4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    22_ElecGtr02Mic1.wav:
+      Track_path: Perpetual Escape - Roots Of Mankind\Perpetual Escape - Roots Of
+        Mankind_RAW\22_ElecGtr02Mic1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    23_ElecGtr02Mic2.wav:
+      Track_path: Perpetual Escape - Roots Of Mankind\Perpetual Escape - Roots Of
+        Mankind_RAW\23_ElecGtr02Mic2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    24_ElecGtr02Mic3.wav:
+      Track_path: Perpetual Escape - Roots Of Mankind\Perpetual Escape - Roots Of
+        Mankind_RAW\24_ElecGtr02Mic3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    25_ElecGtr02Mic4.wav:
+      Track_path: Perpetual Escape - Roots Of Mankind\Perpetual Escape - Roots Of
+        Mankind_RAW\25_ElecGtr02Mic4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    26_ElecGtr03Mic1.wav:
+      Track_path: Perpetual Escape - Roots Of Mankind\Perpetual Escape - Roots Of
+        Mankind_RAW\26_ElecGtr03Mic1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    27_ElecGtr03Mic2.wav:
+      Track_path: Perpetual Escape - Roots Of Mankind\Perpetual Escape - Roots Of
+        Mankind_RAW\27_ElecGtr03Mic2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    28_ElecGtr03Mic3.wav:
+      Track_path: Perpetual Escape - Roots Of Mankind\Perpetual Escape - Roots Of
+        Mankind_RAW\28_ElecGtr03Mic3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    29_ElecGtr03Mic4.wav:
+      Track_path: Perpetual Escape - Roots Of Mankind\Perpetual Escape - Roots Of
+        Mankind_RAW\29_ElecGtr03Mic4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    30_ElecGtr04Mic1.wav:
+      Track_path: Perpetual Escape - Roots Of Mankind\Perpetual Escape - Roots Of
+        Mankind_RAW\30_ElecGtr04Mic1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    31_ElecGtr04Mic2.wav:
+      Track_path: Perpetual Escape - Roots Of Mankind\Perpetual Escape - Roots Of
+        Mankind_RAW\31_ElecGtr04Mic2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    32_ElecGtr04Mic3.wav:
+      Track_path: Perpetual Escape - Roots Of Mankind\Perpetual Escape - Roots Of
+        Mankind_RAW\32_ElecGtr04Mic3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    33_ElecGtr04Mic4.wav:
+      Track_path: Perpetual Escape - Roots Of Mankind\Perpetual Escape - Roots Of
+        Mankind_RAW\33_ElecGtr04Mic4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    34_ElecGtr05Mic1.wav:
+      Track_path: Perpetual Escape - Roots Of Mankind\Perpetual Escape - Roots Of
+        Mankind_RAW\34_ElecGtr05Mic1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    35_ElecGtr05Mic2.wav:
+      Track_path: Perpetual Escape - Roots Of Mankind\Perpetual Escape - Roots Of
+        Mankind_RAW\35_ElecGtr05Mic2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    36_ElecGtr05Mic3.wav:
+      Track_path: Perpetual Escape - Roots Of Mankind\Perpetual Escape - Roots Of
+        Mankind_RAW\36_ElecGtr05Mic3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    37_ElecGtr05Mic4.wav:
+      Track_path: Perpetual Escape - Roots Of Mankind\Perpetual Escape - Roots Of
+        Mankind_RAW\37_ElecGtr05Mic4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    38_ElecGtr06Mic1.wav:
+      Track_path: Perpetual Escape - Roots Of Mankind\Perpetual Escape - Roots Of
+        Mankind_RAW\38_ElecGtr06Mic1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    39_ElecGtr06Mic2.wav:
+      Track_path: Perpetual Escape - Roots Of Mankind\Perpetual Escape - Roots Of
+        Mankind_RAW\39_ElecGtr06Mic2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    40_ElecGtr06Mic3.wav:
+      Track_path: Perpetual Escape - Roots Of Mankind\Perpetual Escape - Roots Of
+        Mankind_RAW\40_ElecGtr06Mic3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    41_ElecGtr06Mic4.wav:
+      Track_path: Perpetual Escape - Roots Of Mankind\Perpetual Escape - Roots Of
+        Mankind_RAW\41_ElecGtr06Mic4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    42_ElecGtr07Mic1.wav:
+      Track_path: Perpetual Escape - Roots Of Mankind\Perpetual Escape - Roots Of
+        Mankind_RAW\42_ElecGtr07Mic1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    43_ElecGtr07Mic2.wav:
+      Track_path: Perpetual Escape - Roots Of Mankind\Perpetual Escape - Roots Of
+        Mankind_RAW\43_ElecGtr07Mic2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    44_ElecGtr07Mic3.wav:
+      Track_path: Perpetual Escape - Roots Of Mankind\Perpetual Escape - Roots Of
+        Mankind_RAW\44_ElecGtr07Mic3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    45_ElecGtr07Mic4.wav:
+      Track_path: Perpetual Escape - Roots Of Mankind\Perpetual Escape - Roots Of
+        Mankind_RAW\45_ElecGtr07Mic4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    46_ElecGtr08Mic1.wav:
+      Track_path: Perpetual Escape - Roots Of Mankind\Perpetual Escape - Roots Of
+        Mankind_RAW\46_ElecGtr08Mic1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    47_ElecGtr08Mic2.wav:
+      Track_path: Perpetual Escape - Roots Of Mankind\Perpetual Escape - Roots Of
+        Mankind_RAW\47_ElecGtr08Mic2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    48_ElecGtr08Mic3.wav:
+      Track_path: Perpetual Escape - Roots Of Mankind\Perpetual Escape - Roots Of
+        Mankind_RAW\48_ElecGtr08Mic3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    49_ElecGtr08Mic4.wav:
+      Track_path: Perpetual Escape - Roots Of Mankind\Perpetual Escape - Roots Of
+        Mankind_RAW\49_ElecGtr08Mic4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    50_ElecGtr09Mic1.wav:
+      Track_path: Perpetual Escape - Roots Of Mankind\Perpetual Escape - Roots Of
+        Mankind_RAW\50_ElecGtr09Mic1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    51_ElecGtr09Mic2.wav:
+      Track_path: Perpetual Escape - Roots Of Mankind\Perpetual Escape - Roots Of
+        Mankind_RAW\51_ElecGtr09Mic2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    52_ElecGtr09Mic3.wav:
+      Track_path: Perpetual Escape - Roots Of Mankind\Perpetual Escape - Roots Of
+        Mankind_RAW\52_ElecGtr09Mic3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    53_ElecGtr09Mic4.wav:
+      Track_path: Perpetual Escape - Roots Of Mankind\Perpetual Escape - Roots Of
+        Mankind_RAW\53_ElecGtr09Mic4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    54_ElecGtr10Mic1.wav:
+      Track_path: Perpetual Escape - Roots Of Mankind\Perpetual Escape - Roots Of
+        Mankind_RAW\54_ElecGtr10Mic1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    55_ElecGtr10Mic2.wav:
+      Track_path: Perpetual Escape - Roots Of Mankind\Perpetual Escape - Roots Of
+        Mankind_RAW\55_ElecGtr10Mic2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    56_ElecGtr10Mic3.wav:
+      Track_path: Perpetual Escape - Roots Of Mankind\Perpetual Escape - Roots Of
+        Mankind_RAW\56_ElecGtr10Mic3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    57_ElecGtr10Mic4.wav:
+      Track_path: Perpetual Escape - Roots Of Mankind\Perpetual Escape - Roots Of
+        Mankind_RAW\57_ElecGtr10Mic4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Piano: {}
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    58_LeadVox1.wav:
+      Track_path: Perpetual Escape - Roots Of Mankind\Perpetual Escape - Roots Of
+        Mankind_RAW\58_LeadVox1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    59_LeadVox2.wav:
+      Track_path: Perpetual Escape - Roots Of Mankind\Perpetual Escape - Roots Of
+        Mankind_RAW\59_LeadVox2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    60_LeadVoxDT.wav:
+      Track_path: Perpetual Escape - Roots Of Mankind\Perpetual Escape - Roots Of
+        Mankind_RAW\60_LeadVoxDT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    61_LeadVox3.wav:
+      Track_path: Perpetual Escape - Roots Of Mankind\Perpetual Escape - Roots Of
+        Mankind_RAW\61_LeadVox3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Choir: {}
+  Backing_Vocal:
+    62_BackingVox1.wav:
+      Track_path: Perpetual Escape - Roots Of Mankind\Perpetual Escape - Roots Of
+        Mankind_RAW\62_BackingVox1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    63_BackingVox2.wav:
+      Track_path: Perpetual Escape - Roots Of Mankind\Perpetual Escape - Roots Of
+        Mankind_RAW\63_BackingVox2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    64_BackingVox3.wav:
+      Track_path: Perpetual Escape - Roots Of Mankind\Perpetual Escape - Roots Of
+        Mankind_RAW\64_BackingVox3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    65_BackingVox4.wav:
+      Track_path: Perpetual Escape - Roots Of Mankind\Perpetual Escape - Roots Of
+        Mankind_RAW\65_BackingVox4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    66_BackingVox5.wav:
+      Track_path: Perpetual Escape - Roots Of Mankind\Perpetual Escape - Roots Of
+        Mankind_RAW\66_BackingVox5.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Unused: {}
+  Ambient_Microphone: {}

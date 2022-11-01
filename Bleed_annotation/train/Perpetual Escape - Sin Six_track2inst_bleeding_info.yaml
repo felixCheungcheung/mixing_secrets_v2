@@ -1,0 +1,323 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer: {}
+  SFX: {}
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    01_KickIn.wav:
+      Track_path: Perpetual Escape - Sin Six\Perpetual Escape - Sin Six_RAW\01_KickIn.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    02_KickOut.wav:
+      Track_path: Perpetual Escape - Sin Six\Perpetual Escape - Sin Six_RAW\02_KickOut.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_Snare:
+    03_SnareUp.wav:
+      Track_path: Perpetual Escape - Sin Six\Perpetual Escape - Sin Six_RAW\03_SnareUp.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    04_SnareDown.wav:
+      Track_path: Perpetual Escape - Sin Six\Perpetual Escape - Sin Six_RAW\04_SnareDown.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_HiHat:
+    05_HiHat.wav:
+      Track_path: Perpetual Escape - Sin Six\Perpetual Escape - Sin Six_RAW\05_HiHat.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_Cymbals: {}
+  Drum_Overheads:
+    11_Overheads.wav:
+      Track_path: Perpetual Escape - Sin Six\Perpetual Escape - Sin Six_RAW\11_Overheads.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Tom:
+    06_Tom1.wav:
+      Track_path: Perpetual Escape - Sin Six\Perpetual Escape - Sin Six_RAW\06_Tom1.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    07_Tom2.wav:
+      Track_path: Perpetual Escape - Sin Six\Perpetual Escape - Sin Six_RAW\07_Tom2.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    08_Tom3.wav:
+      Track_path: Perpetual Escape - Sin Six\Perpetual Escape - Sin Six_RAW\08_Tom3.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    09_Tom4.wav:
+      Track_path: Perpetual Escape - Sin Six\Perpetual Escape - Sin Six_RAW\09_Tom4.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    10_Tom5.wav:
+      Track_path: Perpetual Escape - Sin Six\Perpetual Escape - Sin Six_RAW\10_Tom5.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_Room:
+    12_DrumsRoom1.wav:
+      Track_path: Perpetual Escape - Sin Six\Perpetual Escape - Sin Six_RAW\12_DrumsRoom1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    13_DrumsRoom2.wav:
+      Track_path: Perpetual Escape - Sin Six\Perpetual Escape - Sin Six_RAW\13_DrumsRoom2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Shaker:
+    14_Shaker.wav:
+      Track_path: Perpetual Escape - Sin Six\Perpetual Escape - Sin Six_RAW\14_Shaker.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine:
+    15_Tambourine.wav:
+      Track_path: Perpetual Escape - Sin Six\Perpetual Escape - Sin Six_RAW\15_Tambourine.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Loop: {}
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass: {}
+  Electric_Bass:
+    16_BassDI.wav:
+      Track_path: Perpetual Escape - Sin Six\Perpetual Escape - Sin Six_RAW\16_BassDI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Acoustic_Guitar: {}
+  Electric_Guitar:
+    17_ElecGtr01Mic1.wav:
+      Track_path: Perpetual Escape - Sin Six\Perpetual Escape - Sin Six_RAW\17_ElecGtr01Mic1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    18_ElecGtr01Mic2.wav:
+      Track_path: Perpetual Escape - Sin Six\Perpetual Escape - Sin Six_RAW\18_ElecGtr01Mic2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    19_ElecGtr01Mic3.wav:
+      Track_path: Perpetual Escape - Sin Six\Perpetual Escape - Sin Six_RAW\19_ElecGtr01Mic3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    20_ElecGtr01Mic4.wav:
+      Track_path: Perpetual Escape - Sin Six\Perpetual Escape - Sin Six_RAW\20_ElecGtr01Mic4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    21_ElecGtr01DTMic1.wav:
+      Track_path: Perpetual Escape - Sin Six\Perpetual Escape - Sin Six_RAW\21_ElecGtr01DTMic1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    22_ElecGtr01DTMic2.wav:
+      Track_path: Perpetual Escape - Sin Six\Perpetual Escape - Sin Six_RAW\22_ElecGtr01DTMic2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    23_ElecGtr01DTMic3.wav:
+      Track_path: Perpetual Escape - Sin Six\Perpetual Escape - Sin Six_RAW\23_ElecGtr01DTMic3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    24_ElecGtr01DTMic4.wav:
+      Track_path: Perpetual Escape - Sin Six\Perpetual Escape - Sin Six_RAW\24_ElecGtr01DTMic4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    25_ElecGtr02Mic1.wav:
+      Track_path: Perpetual Escape - Sin Six\Perpetual Escape - Sin Six_RAW\25_ElecGtr02Mic1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    26_ElecGtr02Mic2.wav:
+      Track_path: Perpetual Escape - Sin Six\Perpetual Escape - Sin Six_RAW\26_ElecGtr02Mic2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    27_ElecGtr02Mic3.wav:
+      Track_path: Perpetual Escape - Sin Six\Perpetual Escape - Sin Six_RAW\27_ElecGtr02Mic3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    28_ElecGtr02Mic4.wav:
+      Track_path: Perpetual Escape - Sin Six\Perpetual Escape - Sin Six_RAW\28_ElecGtr02Mic4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    29_ElecGtr02DTMic1.wav:
+      Track_path: Perpetual Escape - Sin Six\Perpetual Escape - Sin Six_RAW\29_ElecGtr02DTMic1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    30_ElecGtr02DTMic2.wav:
+      Track_path: Perpetual Escape - Sin Six\Perpetual Escape - Sin Six_RAW\30_ElecGtr02DTMic2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    31_ElecGtr02DTMic3.wav:
+      Track_path: Perpetual Escape - Sin Six\Perpetual Escape - Sin Six_RAW\31_ElecGtr02DTMic3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    32_ElecGtr02DTMic4.wav:
+      Track_path: Perpetual Escape - Sin Six\Perpetual Escape - Sin Six_RAW\32_ElecGtr02DTMic4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    33_ElecGtr03Mic1.wav:
+      Track_path: Perpetual Escape - Sin Six\Perpetual Escape - Sin Six_RAW\33_ElecGtr03Mic1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    34_ElecGtr03Mic2.wav:
+      Track_path: Perpetual Escape - Sin Six\Perpetual Escape - Sin Six_RAW\34_ElecGtr03Mic2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    35_ElecGtr03Mic3.wav:
+      Track_path: Perpetual Escape - Sin Six\Perpetual Escape - Sin Six_RAW\35_ElecGtr03Mic3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    36_ElecGtr03Mic4.wav:
+      Track_path: Perpetual Escape - Sin Six\Perpetual Escape - Sin Six_RAW\36_ElecGtr03Mic4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    37_ElecGtr03DTMic1.wav:
+      Track_path: Perpetual Escape - Sin Six\Perpetual Escape - Sin Six_RAW\37_ElecGtr03DTMic1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    38_ElecGtr03DTMic2.wav:
+      Track_path: Perpetual Escape - Sin Six\Perpetual Escape - Sin Six_RAW\38_ElecGtr03DTMic2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    39_ElecGtr03DTMic3.wav:
+      Track_path: Perpetual Escape - Sin Six\Perpetual Escape - Sin Six_RAW\39_ElecGtr03DTMic3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    40_ElecGtr03DTMic4.wav:
+      Track_path: Perpetual Escape - Sin Six\Perpetual Escape - Sin Six_RAW\40_ElecGtr03DTMic4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    41_ElecGtr04Mic1.wav:
+      Track_path: Perpetual Escape - Sin Six\Perpetual Escape - Sin Six_RAW\41_ElecGtr04Mic1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    42_ElecGtr04Mic2.wav:
+      Track_path: Perpetual Escape - Sin Six\Perpetual Escape - Sin Six_RAW\42_ElecGtr04Mic2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    43_ElecGtr04Mic3.wav:
+      Track_path: Perpetual Escape - Sin Six\Perpetual Escape - Sin Six_RAW\43_ElecGtr04Mic3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    44_ElecGtr04Mic4.wav:
+      Track_path: Perpetual Escape - Sin Six\Perpetual Escape - Sin Six_RAW\44_ElecGtr04Mic4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Piano: {}
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    45_LeadVox1.wav:
+      Track_path: Perpetual Escape - Sin Six\Perpetual Escape - Sin Six_RAW\45_LeadVox1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    46_LeadVox2.wav:
+      Track_path: Perpetual Escape - Sin Six\Perpetual Escape - Sin Six_RAW\46_LeadVox2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Choir: {}
+  Backing_Vocal:
+    47_BackingVox1.wav:
+      Track_path: Perpetual Escape - Sin Six\Perpetual Escape - Sin Six_RAW\47_BackingVox1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    48_BackingVox1DT.wav:
+      Track_path: Perpetual Escape - Sin Six\Perpetual Escape - Sin Six_RAW\48_BackingVox1DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    49_BackingVox2.wav:
+      Track_path: Perpetual Escape - Sin Six\Perpetual Escape - Sin Six_RAW\49_BackingVox2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    50_BackingVox2DT.wav:
+      Track_path: Perpetual Escape - Sin Six\Perpetual Escape - Sin Six_RAW\50_BackingVox2DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Unused: {}
+  Ambient_Microphone: {}

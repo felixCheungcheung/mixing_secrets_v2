@@ -1,0 +1,185 @@
+Track2inst:
+  Electric_Organ:
+    Keys-2-Passive DI.wav:
+      Track_path: Will Evans - Me And My Crew\Will Evans - Me And My Crew_RAW\Keys-2-Passive
+        DI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Synthesizer: {}
+  SFX: {}
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    Drums-Kick In-M82.wav:
+      Track_path: Will Evans - Me And My Crew\Will Evans - Me And My Crew_RAW\Drums-Kick
+        In-M82.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Electric_Guitar, Drum_Overheads'
+      Comment: ''
+    Drums-Kick Out-CU29.wav:
+      Track_path: Will Evans - Me And My Crew\Will Evans - Me And My Crew_RAW\Drums-Kick
+        Out-CU29.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Electric_Guitar, Drum_Overheads, Saxophone'
+      Comment: ''
+  Drum_Snare:
+    Drums-Snare Bottom-M80.wav:
+      Track_path: Will Evans - Me And My Crew\Will Evans - Me And My Crew_RAW\Drums-Snare
+        Bottom-M80.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Electric_Guitar, Drum_Overheads, Saxophone'
+      Comment: ''
+    Drums-Snare Top-M81.wav:
+      Track_path: Will Evans - Me And My Crew\Will Evans - Me And My Crew_RAW\Drums-Snare
+        Top-M81.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Electric_Guitar, Drum_Overheads, Saxophone'
+      Comment: ''
+  Drum_HiHat: {}
+  Drum_Cymbals: {}
+  Drum_Overheads:
+    Drums-Overhead-ELA M 260.wav:
+      Track_path: Will Evans - Me And My Crew\Will Evans - Me And My Crew_RAW\Drums-Overhead-ELA
+        M 260.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Electric_Guitar, Saxophone'
+      Comment: ''
+    Drums-Overhead-U48.wav:
+      Track_path: Will Evans - Me And My Crew\Will Evans - Me And My Crew_RAW\Drums-Overhead-U48.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Electric_Guitar, Saxophone'
+      Comment: ''
+  Drum_Tom:
+    Drums-Floor Tom-M81.wav:
+      Track_path: Will Evans - Me And My Crew\Will Evans - Me And My Crew_RAW\Drums-Floor
+        Tom-M81.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Electric_Guitar, Drum_Overheads, Saxophone'
+      Comment: ''
+    Drums-Rack Tom-M80.wav:
+      Track_path: Will Evans - Me And My Crew\Will Evans - Me And My Crew_RAW\Drums-Rack
+        Tom-M80.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Electric_Guitar, Drum_Overheads, Saxophone'
+      Comment: ''
+  Drum_Room: {}
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop: {}
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass: {}
+  Electric_Bass:
+    Bass-Active DI.wav:
+      Track_path: Will Evans - Me And My Crew\Will Evans - Me And My Crew_RAW\Bass-Active
+        DI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Bass-Amp-AK47.wav:
+      Track_path: Will Evans - Me And My Crew\Will Evans - Me And My Crew_RAW\Bass-Amp-AK47.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Acoustic_Guitar: {}
+  Electric_Guitar:
+    ELE Guitar 2-Con-CU29.wav:
+      Track_path: Will Evans - Me And My Crew\Will Evans - Me And My Crew_RAW\ELE
+        Guitar 2-Con-CU29.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    ELE Guitar 2-Dyn-M81.wav:
+      Track_path: Will Evans - Me And My Crew\Will Evans - Me And My Crew_RAW\ELE
+        Guitar 2-Dyn-M81.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Piano: {}
+  Electric_Piano:
+    Keys-Passive DI.wav:
+      Track_path: Will Evans - Me And My Crew\Will Evans - Me And My Crew_RAW\Keys-Passive
+        DI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Brass_Section: {}
+  Saxophone:
+    Horns-Sax-M80.wav:
+      Track_path: Will Evans - Me And My Crew\Will Evans - Me And My Crew_RAW\Horns-Sax-M80.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Electric_Guitar, Drum_Overheads'
+      Comment: ''
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    Vocals-Will-M80.wav:
+      Track_path: Will Evans - Me And My Crew\Will Evans - Me And My Crew_RAW\Vocals-Will-M80.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Electric_Guitar, Drum_Overheads, Saxophone'
+      Comment: ''
+  Choir: {}
+  Backing_Vocal:
+    Vocals-Bass-M80.wav:
+      Track_path: Will Evans - Me And My Crew\Will Evans - Me And My Crew_RAW\Vocals-Bass-M80.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Electric_Guitar, Drum_Overheads, Saxophone'
+      Comment: ''
+    Vocals-Drums-M81.wav:
+      Track_path: Will Evans - Me And My Crew\Will Evans - Me And My Crew_RAW\Vocals-Drums-M81.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Electric_Guitar, Drum_Overheads, Saxophone'
+      Comment: ''
+  Unused:
+    Drums-Chamber-AR70.wav:
+      Track_path: Will Evans - Me And My Crew\Will Evans - Me And My Crew_RAW\Drums-Chamber-AR70.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Drums-Room-M81.wav:
+      Track_path: Will Evans - Me And My Crew\Will Evans - Me And My Crew_RAW\Drums-Room-M81.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Ambient_Microphone: {}

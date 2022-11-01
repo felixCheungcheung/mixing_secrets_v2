@@ -1,0 +1,233 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer:
+    21_Synth1.wav:
+      Track_path: Mu - Too Bright\Mu - Too Bright_RAW\21_Synth1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    22_Synth2.wav:
+      Track_path: Mu - Too Bright\Mu - Too Bright_RAW\22_Synth2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    23_Synth3.wav:
+      Track_path: Mu - Too Bright\Mu - Too Bright_RAW\23_Synth3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    24_Synth4.wav:
+      Track_path: Mu - Too Bright\Mu - Too Bright_RAW\24_Synth4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  SFX: {}
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    01_Drums1Kick.wav:
+      Track_path: Mu - Too Bright\Mu - Too Bright_RAW\01_Drums1Kick.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    05_Drums2Kick.wav:
+      Track_path: Mu - Too Bright\Mu - Too Bright_RAW\05_Drums2Kick.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    09_Drums3Kick.wav:
+      Track_path: Mu - Too Bright\Mu - Too Bright_RAW\09_Drums3Kick.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Snare:
+    02_Drums1Snare.wav:
+      Track_path: Mu - Too Bright\Mu - Too Bright_RAW\02_Drums1Snare.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    06_Drums2Snare.wav:
+      Track_path: Mu - Too Bright\Mu - Too Bright_RAW\06_Drums2Snare.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    10_Drums3Snare.wav:
+      Track_path: Mu - Too Bright\Mu - Too Bright_RAW\10_Drums3Snare.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_HiHat:
+    03_Drums1HiHat.wav:
+      Track_path: Mu - Too Bright\Mu - Too Bright_RAW\03_Drums1HiHat.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    07_Drums2HiHat.wav:
+      Track_path: Mu - Too Bright\Mu - Too Bright_RAW\07_Drums2HiHat.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    11_Drums3HiHat.wav:
+      Track_path: Mu - Too Bright\Mu - Too Bright_RAW\11_Drums3HiHat.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Cymbals: {}
+  Drum_Overheads:
+    04_Drums1Overheads.wav:
+      Track_path: Mu - Too Bright\Mu - Too Bright_RAW\04_Drums1Overheads.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    08_Drums2Overheads.wav:
+      Track_path: Mu - Too Bright\Mu - Too Bright_RAW\08_Drums2Overheads.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Tom: {}
+  Drum_Room: {}
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop: {}
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass: {}
+  Electric_Bass:
+    12_Bass.wav:
+      Track_path: Mu - Too Bright\Mu - Too Bright_RAW\12_Bass.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Acoustic_Guitar: {}
+  Electric_Guitar:
+    13_ElecGtr1.wav:
+      Track_path: Mu - Too Bright\Mu - Too Bright_RAW\13_ElecGtr1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    14_ElecGtr2.wav:
+      Track_path: Mu - Too Bright\Mu - Too Bright_RAW\14_ElecGtr2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    15_ElecGtr3.wav:
+      Track_path: Mu - Too Bright\Mu - Too Bright_RAW\15_ElecGtr3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    16_ElecGtr4.wav:
+      Track_path: Mu - Too Bright\Mu - Too Bright_RAW\16_ElecGtr4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    17_ElecGtr5.wav:
+      Track_path: Mu - Too Bright\Mu - Too Bright_RAW\17_ElecGtr5.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    18_ElecGtr6.wav:
+      Track_path: Mu - Too Bright\Mu - Too Bright_RAW\18_ElecGtr6.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Piano: {}
+  Electric_Piano:
+    19_Rhodes.wav:
+      Track_path: Mu - Too Bright\Mu - Too Bright_RAW\19_Rhodes.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    20_RhodesSFX.wav:
+      Track_path: Mu - Too Bright\Mu - Too Bright_RAW\20_RhodesSFX.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    25_LeadVox1.wav:
+      Track_path: Mu - Too Bright\Mu - Too Bright_RAW\25_LeadVox1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    26_LeadVox2.wav:
+      Track_path: Mu - Too Bright\Mu - Too Bright_RAW\26_LeadVox2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Choir: {}
+  Backing_Vocal:
+    27_BackingVox1.wav:
+      Track_path: Mu - Too Bright\Mu - Too Bright_RAW\27_BackingVox1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    28_BackingVox1DT.wav:
+      Track_path: Mu - Too Bright\Mu - Too Bright_RAW\28_BackingVox1DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    29_BackingVox2.wav:
+      Track_path: Mu - Too Bright\Mu - Too Bright_RAW\29_BackingVox2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    30_BackingVox2DT.wav:
+      Track_path: Mu - Too Bright\Mu - Too Bright_RAW\30_BackingVox2DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    31_BackingVox3.wav:
+      Track_path: Mu - Too Bright\Mu - Too Bright_RAW\31_BackingVox3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    32_BackingVox3DT.wav:
+      Track_path: Mu - Too Bright\Mu - Too Bright_RAW\32_BackingVox3DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Unused: {}
+  Ambient_Microphone: {}

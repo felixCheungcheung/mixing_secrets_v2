@@ -1,0 +1,289 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer: {}
+  SFX: {}
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    DRUM KICK (OUTSIDE) -M82 - API 1608.wav:
+      Track_path: Zane Carney & Friends - Talk To Me Baby\Zane Carney & Friends -
+        Talk To Me Baby_RAW\DRUM KICK (OUTSIDE) -M82 - API 1608.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads, Lead_Vocal, Electric_Guitar, Electric_Bass'
+      Comment: ''
+  Drum_Snare:
+    DRUM SNARE BOTTOM - M81 - API 1608.wav:
+      Track_path: Zane Carney & Friends - Talk To Me Baby\Zane Carney & Friends -
+        Talk To Me Baby_RAW\DRUM SNARE BOTTOM - M81 - API 1608.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads, Lead_Vocal, Electric_Guitar, Electric_Bass'
+      Comment: ''
+    DRUM SNARE TOP - M80-SH - API 1608.wav:
+      Track_path: Zane Carney & Friends - Talk To Me Baby\Zane Carney & Friends -
+        Talk To Me Baby_RAW\DRUM SNARE TOP - M80-SH - API 1608.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads, Lead_Vocal, Electric_Guitar, Electric_Bass'
+      Comment: ''
+  Drum_HiHat:
+    DRUM HI HAT - M60 FET hypercardioid - API 1608.wav:
+      Track_path: Zane Carney & Friends - Talk To Me Baby\Zane Carney & Friends -
+        Talk To Me Baby_RAW\DRUM HI HAT - M60 FET hypercardioid - API 1608.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads, Lead_Vocal, Electric_Guitar, Electric_Bass'
+      Comment: ''
+  Drum_Cymbals: {}
+  Drum_Overheads:
+    DRUM OVERHEAD L - CU-29 Copperhead - API 1608 .wav:
+      Track_path: Zane Carney & Friends - Talk To Me Baby\Zane Carney & Friends -
+        Talk To Me Baby_RAW\DRUM OVERHEAD L - CU-29 Copperhead - API 1608 .wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Lead_Vocal, Electric_Guitar, Electric_Bass'
+      Comment: ''
+    DRUM OVERHEAD R - CU-29 Copperhead - API 1608 .wav:
+      Track_path: Zane Carney & Friends - Talk To Me Baby\Zane Carney & Friends -
+        Talk To Me Baby_RAW\DRUM OVERHEAD R - CU-29 Copperhead - API 1608 .wav
+      Bleeding: 'No'
+      Bleeding_Instrument: 'Lead_Vocal, Electric_Guitar, Electric_Bass'
+      Comment: ''
+  Drum_Tom:
+    DRUM TOM 1 - M81-SH - API 1608.wav:
+      Track_path: Zane Carney & Friends - Talk To Me Baby\Zane Carney & Friends -
+        Talk To Me Baby_RAW\DRUM TOM 1 - M81-SH - API 1608.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads, Lead_Vocal, Electric_Guitar, Electric_Bass'
+      Comment: ''
+    DRUM TOM 3 - M81-SH - API 1608.wav:
+      Track_path: Zane Carney & Friends - Talk To Me Baby\Zane Carney & Friends -
+        Talk To Me Baby_RAW\DRUM TOM 3 - M81-SH - API 1608.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads, Lead_Vocal, Electric_Guitar, Electric_Bass'
+      Comment: ''
+  Drum_Room: {}
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop: {}
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass: {}
+  Electric_Bass:
+    BASS - RED DI - API 1608.wav:
+      Track_path: Zane Carney & Friends - Talk To Me Baby\Zane Carney & Friends -
+        Talk To Me Baby_RAW\BASS - RED DI - API 1608.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Acoustic_Guitar:
+    A GUITAR 1 - M60 FET - API 1608.wav:
+      Track_path: Zane Carney & Friends - Talk To Me Baby\Zane Carney & Friends -
+        Talk To Me Baby_RAW\A GUITAR 1 - M60 FET - API 1608.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    A GUITAR 2 - M60 FET - API 1608.wav:
+      Track_path: Zane Carney & Friends - Talk To Me Baby\Zane Carney & Friends -
+        Talk To Me Baby_RAW\A GUITAR 2 - M60 FET - API 1608.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Electric_Guitar:
+    E GUITAR (LIVE) - M81 - API 1608.wav:
+      Track_path: Zane Carney & Friends - Talk To Me Baby\Zane Carney & Friends -
+        Talk To Me Baby_RAW\E GUITAR (LIVE) - M81 - API 1608.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads'
+      Comment: ''
+    E GUITAR (SOLO) - M81 - API 1608.wav:
+      Track_path: Zane Carney & Friends - Talk To Me Baby\Zane Carney & Friends -
+        Talk To Me Baby_RAW\E GUITAR (SOLO) - M81 - API 1608.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    E GUITAR 2 - M81 - API 1608.wav:
+      Track_path: Zane Carney & Friends - Talk To Me Baby\Zane Carney & Friends -
+        Talk To Me Baby_RAW\E GUITAR 2 - M81 - API 1608.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: 'slight drum leakage, acceptable'
+    E GUITAR 3 - M81 - API 1608.wav:
+      Track_path: Zane Carney & Friends - Talk To Me Baby\Zane Carney & Friends -
+        Talk To Me Baby_RAW\E GUITAR 3 - M81 - API 1608.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: 'slight drum leakage, acceptable'
+    E GUITAR 4 - M81 - API 1608.wav:
+      Track_path: Zane Carney & Friends - Talk To Me Baby\Zane Carney & Friends -
+        Talk To Me Baby_RAW\E GUITAR 4 - M81 - API 1608.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    E GUITAR 5 - M81 - API 1608.wav:
+      Track_path: Zane Carney & Friends - Talk To Me Baby\Zane Carney & Friends -
+        Talk To Me Baby_RAW\E GUITAR 5 - M81 - API 1608.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Piano: {}
+  Electric_Piano:
+    KEYS 1 - DI - API 1608.wav:
+      Track_path: Zane Carney & Friends - Talk To Me Baby\Zane Carney & Friends -
+        Talk To Me Baby_RAW\KEYS 1 - DI - API 1608.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    KEYS 2 - DI - API 1608.wav:
+      Track_path: Zane Carney & Friends - Talk To Me Baby\Zane Carney & Friends -
+        Talk To Me Baby_RAW\KEYS 2 - DI - API 1608.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    KEYS 3 - DI - API 1608.wav:
+      Track_path: Zane Carney & Friends - Talk To Me Baby\Zane Carney & Friends -
+        Talk To Me Baby_RAW\KEYS 3 - DI - API 1608.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    VOX STUDIO - C12 - API 1608-01.wav:
+      Track_path: Zane Carney & Friends - Talk To Me Baby\Zane Carney & Friends -
+        Talk To Me Baby_RAW\VOX STUDIO - C12 - API 1608-01.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    VOX STUDIO - U47 - API 1608.wav:
+      Track_path: Zane Carney & Friends - Talk To Me Baby\Zane Carney & Friends -
+        Talk To Me Baby_RAW\VOX STUDIO - U47 - API 1608.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Choir: {}
+  Backing_Vocal:
+    HARM VOX 1 - C12 - API 1608.wav:
+      Track_path: Zane Carney & Friends - Talk To Me Baby\Zane Carney & Friends -
+        Talk To Me Baby_RAW\HARM VOX 1 - C12 - API 1608.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    HARM VOX 10 - C12 - API 1608.wav:
+      Track_path: Zane Carney & Friends - Talk To Me Baby\Zane Carney & Friends -
+        Talk To Me Baby_RAW\HARM VOX 10 - C12 - API 1608.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    HARM VOX 11 - C12 - API 1608.wav:
+      Track_path: Zane Carney & Friends - Talk To Me Baby\Zane Carney & Friends -
+        Talk To Me Baby_RAW\HARM VOX 11 - C12 - API 1608.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    HARM VOX 12 - C12 - API 1608.wav:
+      Track_path: Zane Carney & Friends - Talk To Me Baby\Zane Carney & Friends -
+        Talk To Me Baby_RAW\HARM VOX 12 - C12 - API 1608.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    HARM VOX 13 - C12 - API 1608.wav:
+      Track_path: Zane Carney & Friends - Talk To Me Baby\Zane Carney & Friends -
+        Talk To Me Baby_RAW\HARM VOX 13 - C12 - API 1608.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    HARM VOX 2 - C12 - API 1608.wav:
+      Track_path: Zane Carney & Friends - Talk To Me Baby\Zane Carney & Friends -
+        Talk To Me Baby_RAW\HARM VOX 2 - C12 - API 1608.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    HARM VOX 3 - C12 - API 1608.wav:
+      Track_path: Zane Carney & Friends - Talk To Me Baby\Zane Carney & Friends -
+        Talk To Me Baby_RAW\HARM VOX 3 - C12 - API 1608.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    HARM VOX 4 - C12 - API 1608.wav:
+      Track_path: Zane Carney & Friends - Talk To Me Baby\Zane Carney & Friends -
+        Talk To Me Baby_RAW\HARM VOX 4 - C12 - API 1608.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    HARM VOX 5 - C12 - API 1608.wav:
+      Track_path: Zane Carney & Friends - Talk To Me Baby\Zane Carney & Friends -
+        Talk To Me Baby_RAW\HARM VOX 5 - C12 - API 1608.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    HARM VOX 6 - C12 - API 1608.wav:
+      Track_path: Zane Carney & Friends - Talk To Me Baby\Zane Carney & Friends -
+        Talk To Me Baby_RAW\HARM VOX 6 - C12 - API 1608.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    HARM VOX 8 - C12 - API 1608.wav:
+      Track_path: Zane Carney & Friends - Talk To Me Baby\Zane Carney & Friends -
+        Talk To Me Baby_RAW\HARM VOX 8 - C12 - API 1608.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    HARM VOX 9 - C12 - API 1608.wav:
+      Track_path: Zane Carney & Friends - Talk To Me Baby\Zane Carney & Friends -
+        Talk To Me Baby_RAW\HARM VOX 9 - C12 - API 1608.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Unused:
+    VOX LIVE - M80 Dynamic - API 1608.wav:
+      Track_path: Zane Carney & Friends - Talk To Me Baby\Zane Carney & Friends -
+        Talk To Me Baby_RAW\VOX LIVE - M80 Dynamic - API 1608.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Ambient_Microphone:
+    ROOM MIC - ELA M 251E - API 1608.wav:
+      Track_path: Zane Carney & Friends - Talk To Me Baby\Zane Carney & Friends -
+        Talk To Me Baby_RAW\ROOM MIC - ELA M 251E - API 1608.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''

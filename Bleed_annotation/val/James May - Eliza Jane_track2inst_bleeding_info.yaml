@@ -1,0 +1,153 @@
+Track2inst:
+  Electric_Organ:
+    12_HammondMic1Hi.wav:
+      Track_path: James May - Eliza Jane\James May - Eliza Jane_RAW\12_HammondMic1Hi.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    13_HammondMic2Lo.wav:
+      Track_path: James May - Eliza Jane\James May - Eliza Jane_RAW\13_HammondMic2Lo.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Synthesizer: {}
+  SFX: {}
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    01_Kick.wav:
+      Track_path: James May - Eliza Jane\James May - Eliza Jane_RAW\01_Kick.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads'
+      Comment: ''
+  Drum_Snare:
+    02_Snare.wav:
+      Track_path: James May - Eliza Jane\James May - Eliza Jane_RAW\02_Snare.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads'
+      Comment: ''
+  Drum_HiHat:
+    03_HiHat.wav:
+      Track_path: James May - Eliza Jane\James May - Eliza Jane_RAW\03_HiHat.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads'
+      Comment: ''
+  Drum_Cymbals: {}
+  Drum_Overheads:
+    06_Overheads.wav:
+      Track_path: James May - Eliza Jane\James May - Eliza Jane_RAW\06_Overheads.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Tom:
+    04_Tom1.wav:
+      Track_path: James May - Eliza Jane\James May - Eliza Jane_RAW\04_Tom1.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads'
+      Comment: ''
+    05_Tom2.wav:
+      Track_path: James May - Eliza Jane\James May - Eliza Jane_RAW\05_Tom2.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads'
+      Comment: ''
+  Drum_Room: {}
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop: {}
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass: {}
+  Electric_Bass:
+    07_Bass.wav:
+      Track_path: James May - Eliza Jane\James May - Eliza Jane_RAW\07_Bass.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Acoustic_Guitar:
+    08_AcousticGtr1.wav:
+      Track_path: James May - Eliza Jane\James May - Eliza Jane_RAW\08_AcousticGtr1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Electric_Guitar:
+    14_PedalSteel.wav:
+      Track_path: James May - Eliza Jane\James May - Eliza Jane_RAW\14_PedalSteel.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Piano: {}
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    15_LeadVox.wav:
+      Track_path: James May - Eliza Jane\James May - Eliza Jane_RAW\15_LeadVox.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Choir: {}
+  Backing_Vocal:
+    16_BackingVox.wav:
+      Track_path: James May - Eliza Jane\James May - Eliza Jane_RAW\16_BackingVox.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Unused: {}
+  Ambient_Microphone:
+    09_AcousticGtr2.wav:
+      Track_path: James May - Eliza Jane\James May - Eliza Jane_RAW\09_AcousticGtr2.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: ''
+      Comment: 'Acoustic Guitar contains vocal(beginning) and kick drum noise (special technique)'
+    10_Mandolin1.wav:
+      Track_path: James May - Eliza Jane\James May - Eliza Jane_RAW\10_Mandolin1.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Bass'
+      Comment: 'noticeable'
+    11_Mandolin2.wav:
+      Track_path: James May - Eliza Jane\James May - Eliza Jane_RAW\11_Mandolin2.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Bass'
+      Comment: 'noticeable'

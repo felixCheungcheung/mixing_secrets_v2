@@ -1,0 +1,173 @@
+Track2inst:
+  Electric_Organ:
+    18_Hammond.wav:
+      Track_path: Dino On The Loose - Queen's Light\Dino On The Loose - Queen's Light_RAW\18_Hammond.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Synthesizer:
+    13_Synth1.wav:
+      Track_path: Dino On The Loose - Queen's Light\Dino On The Loose - Queen's Light_RAW\13_Synth1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    14_Synth2.wav:
+      Track_path: Dino On The Loose - Queen's Light\Dino On The Loose - Queen's Light_RAW\14_Synth2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    15_Synth3.wav:
+      Track_path: Dino On The Loose - Queen's Light\Dino On The Loose - Queen's Light_RAW\15_Synth3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    16_Synth4.wav:
+      Track_path: Dino On The Loose - Queen's Light\Dino On The Loose - Queen's Light_RAW\16_Synth4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  SFX: {}
+  Marimba: {}
+  Bell:
+    08_Cowbell.wav:
+      Track_path: Dino On The Loose - Queen's Light\Dino On The Loose - Queen's Light_RAW\08_Cowbell.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    01_KickIn.wav:
+      Track_path: Dino On The Loose - Queen's Light\Dino On The Loose - Queen's Light_RAW\01_KickIn.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    02_KickOut.wav:
+      Track_path: Dino On The Loose - Queen's Light\Dino On The Loose - Queen's Light_RAW\02_KickOut.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_Snare:
+    03_Snare.wav:
+      Track_path: Dino On The Loose - Queen's Light\Dino On The Loose - Queen's Light_RAW\03_Snare.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_HiHat:
+    04_HiHat.wav:
+      Track_path: Dino On The Loose - Queen's Light\Dino On The Loose - Queen's Light_RAW\04_HiHat.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_Cymbals: {}
+  Drum_Overheads:
+    07_Overheads.wav:
+      Track_path: Dino On The Loose - Queen's Light\Dino On The Loose - Queen's Light_RAW\07_Overheads.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Tom:
+    05_Tom1.wav:
+      Track_path: Dino On The Loose - Queen's Light\Dino On The Loose - Queen's Light_RAW\05_Tom1.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    06_Tom2.wav:
+      Track_path: Dino On The Loose - Queen's Light\Dino On The Loose - Queen's Light_RAW\06_Tom2.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_Room: {}
+  Shaker:
+    10_Shaker.wav:
+      Track_path: Dino On The Loose - Queen's Light\Dino On The Loose - Queen's Light_RAW\10_Shaker.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga:
+    09_Congas.wav:
+      Track_path: Dino On The Loose - Queen's Light\Dino On The Loose - Queen's Light_RAW\09_Congas.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine:
+    11_Tambourine.wav:
+      Track_path: Dino On The Loose - Queen's Light\Dino On The Loose - Queen's Light_RAW\11_Tambourine.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Loop: {}
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass: {}
+  Electric_Bass:
+    12_Bass.wav:
+      Track_path: Dino On The Loose - Queen's Light\Dino On The Loose - Queen's Light_RAW\12_Bass.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Acoustic_Guitar: {}
+  Electric_Guitar:
+    17_ElecGtr.wav:
+      Track_path: Dino On The Loose - Queen's Light\Dino On The Loose - Queen's Light_RAW\17_ElecGtr.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Piano: {}
+  Electric_Piano:
+    19_ElecPiano1.wav:
+      Track_path: Dino On The Loose - Queen's Light\Dino On The Loose - Queen's Light_RAW\19_ElecPiano1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    20_ElecPiano2.wav:
+      Track_path: Dino On The Loose - Queen's Light\Dino On The Loose - Queen's Light_RAW\20_ElecPiano2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal: {}
+  Choir: {}
+  Backing_Vocal: {}
+  Unused: {}
+  Ambient_Microphone: {}

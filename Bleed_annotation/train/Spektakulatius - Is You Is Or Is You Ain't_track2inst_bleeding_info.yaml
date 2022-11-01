@@ -1,0 +1,133 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer: {}
+  SFX: {}
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    01_Kick.wav:
+      Track_path: Spektakulatius - Is You Is Or Is You Ain't\Spektakulatius - Is You
+        Is Or Is You Ain't_RAW\01_Kick.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Saxophone, Drum_Overheads, Piano'
+      Comment: ''
+  Drum_Snare:
+    02_Snare.wav:
+      Track_path: Spektakulatius - Is You Is Or Is You Ain't\Spektakulatius - Is You
+        Is Or Is You Ain't_RAW\02_Snare.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Saxophone, Drum_Overheads, Piano'
+      Comment: ''
+  Drum_HiHat: {}
+  Drum_Cymbals: {}
+  Drum_Overheads:
+    03_Overheads.wav:
+      Track_path: Spektakulatius - Is You Is Or Is You Ain't\Spektakulatius - Is You
+        Is Or Is You Ain't_RAW\03_Overheads.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Saxophone, Piano, Double_Bass'
+      Comment: ''
+  Drum_Tom:
+    04_Toms.wav:
+      Track_path: Spektakulatius - Is You Is Or Is You Ain't\Spektakulatius - Is You
+        Is Or Is You Ain't_RAW\04_Toms.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Saxophone, Drum_Overheads, Piano'
+      Comment: ''
+  Drum_Room: {}
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop: {}
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass: {}
+  Electric_Bass: {}
+  Acoustic_Guitar: {}
+  Electric_Guitar: {}
+  Piano:
+    07_Piano.wav:
+      Track_path: Spektakulatius - Is You Is Or Is You Ain't\Spektakulatius - Is You
+        Is Or Is You Ain't_RAW\07_Piano.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads'
+      Comment: ''
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone:
+    08_Sax1.wav:
+      Track_path: Spektakulatius - Is You Is Or Is You Ain't\Spektakulatius - Is You
+        Is Or Is You Ain't_RAW\08_Sax1.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads'
+      Comment: ''
+    09_Sax2_OD.wav:
+      Track_path: Spektakulatius - Is You Is Or Is You Ain't\Spektakulatius - Is You
+        Is Or Is You Ain't_RAW\09_Sax2_OD.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass:
+    05_BassMic.wav:
+      Track_path: Spektakulatius - Is You Is Or Is You Ain't\Spektakulatius - Is You
+        Is Or Is You Ain't_RAW\05_BassMic.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Saxophone, Drum_Overheads'
+      Comment: ''
+    06_BassDI.wav:
+      Track_path: Spektakulatius - Is You Is Or Is You Ain't\Spektakulatius - Is You
+        Is Or Is You Ain't_RAW\06_BassDI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    10_LeadVox.wav:
+      Track_path: Spektakulatius - Is You Is Or Is You Ain't\Spektakulatius - Is You
+        Is Or Is You Ain't_RAW\10_LeadVox.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Double_Bass, Saxophone, Drum_Overheads'
+      Comment: ''
+  Choir: {}
+  Backing_Vocal: {}
+  Unused: {}
+  Ambient_Microphone: {}

@@ -1,0 +1,451 @@
+Track2inst:
+  Electric_Organ:
+    26_Organ1.wav:
+      Track_path: Traffic Experiment - Once More (With Feeling)\Traffic Experiment
+        - Once More (With Feeling)_RAW\26_Organ1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    27_Organ2.wav:
+      Track_path: Traffic Experiment - Once More (With Feeling)\Traffic Experiment
+        - Once More (With Feeling)_RAW\27_Organ2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Synthesizer:
+    28_Synth1.wav:
+      Track_path: Traffic Experiment - Once More (With Feeling)\Traffic Experiment
+        - Once More (With Feeling)_RAW\28_Synth1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    29_Synth2.wav:
+      Track_path: Traffic Experiment - Once More (With Feeling)\Traffic Experiment
+        - Once More (With Feeling)_RAW\29_Synth2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    30_Synth3.wav:
+      Track_path: Traffic Experiment - Once More (With Feeling)\Traffic Experiment
+        - Once More (With Feeling)_RAW\30_Synth3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  SFX: {}
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle:
+    14_Triangle.wav:
+      Track_path: Traffic Experiment - Once More (With Feeling)\Traffic Experiment
+        - Once More (With Feeling)_RAW\14_Triangle.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    01_Kick.wav:
+      Track_path: Traffic Experiment - Once More (With Feeling)\Traffic Experiment
+        - Once More (With Feeling)_RAW\01_Kick.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    02_KickSub.wav:
+      Track_path: Traffic Experiment - Once More (With Feeling)\Traffic Experiment
+        - Once More (With Feeling)_RAW\02_KickSub.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_Snare:
+    03_SnareUp.wav:
+      Track_path: Traffic Experiment - Once More (With Feeling)\Traffic Experiment
+        - Once More (With Feeling)_RAW\03_SnareUp.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    04_SnareDown.wav:
+      Track_path: Traffic Experiment - Once More (With Feeling)\Traffic Experiment
+        - Once More (With Feeling)_RAW\04_SnareDown.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_HiHat:
+    05_HiHat.wav:
+      Track_path: Traffic Experiment - Once More (With Feeling)\Traffic Experiment
+        - Once More (With Feeling)_RAW\05_HiHat.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_Cymbals:
+    11_ReverseCymbal.wav:
+      Track_path: Traffic Experiment - Once More (With Feeling)\Traffic Experiment
+        - Once More (With Feeling)_RAW\11_ReverseCymbal.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    12_Ride.wav:
+      Track_path: Traffic Experiment - Once More (With Feeling)\Traffic Experiment
+        - Once More (With Feeling)_RAW\12_Ride.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Overheads:
+    06_Overheads.wav:
+      Track_path: Traffic Experiment - Once More (With Feeling)\Traffic Experiment
+        - Once More (With Feeling)_RAW\06_Overheads.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Tom:
+    08_Tom1.wav:
+      Track_path: Traffic Experiment - Once More (With Feeling)\Traffic Experiment
+        - Once More (With Feeling)_RAW\08_Tom1.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    09_Tom2.wav:
+      Track_path: Traffic Experiment - Once More (With Feeling)\Traffic Experiment
+        - Once More (With Feeling)_RAW\09_Tom2.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    10_Tom3.wav:
+      Track_path: Traffic Experiment - Once More (With Feeling)\Traffic Experiment
+        - Once More (With Feeling)_RAW\10_Tom3.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_Room:
+    07_Room.wav:
+      Track_path: Traffic Experiment - Once More (With Feeling)\Traffic Experiment
+        - Once More (With Feeling)_RAW\07_Room.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop: {}
+  Clicks: {}
+  Claps:
+    16_Handclap.wav:
+      Track_path: Traffic Experiment - Once More (With Feeling)\Traffic Experiment
+        - Once More (With Feeling)_RAW\16_Handclap.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas:
+    13_Maracas.wav:
+      Track_path: Traffic Experiment - Once More (With Feeling)\Traffic Experiment
+        - Once More (With Feeling)_RAW\13_Maracas.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Bongo:
+    15_Bongos.wav:
+      Track_path: Traffic Experiment - Once More (With Feeling)\Traffic Experiment
+        - Once More (With Feeling)_RAW\15_Bongos.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass: {}
+  Electric_Bass:
+    17_BassDI.wav:
+      Track_path: Traffic Experiment - Once More (With Feeling)\Traffic Experiment
+        - Once More (With Feeling)_RAW\17_BassDI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    18_BassAmp.wav:
+      Track_path: Traffic Experiment - Once More (With Feeling)\Traffic Experiment
+        - Once More (With Feeling)_RAW\18_BassAmp.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Acoustic_Guitar:
+    23_AcGuitar1.wav:
+      Track_path: Traffic Experiment - Once More (With Feeling)\Traffic Experiment
+        - Once More (With Feeling)_RAW\23_AcGuitar1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    24_AcGuitar2.wav:
+      Track_path: Traffic Experiment - Once More (With Feeling)\Traffic Experiment
+        - Once More (With Feeling)_RAW\24_AcGuitar2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Electric_Guitar:
+    19_ElecGtr1.wav:
+      Track_path: Traffic Experiment - Once More (With Feeling)\Traffic Experiment
+        - Once More (With Feeling)_RAW\19_ElecGtr1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    20_ElecGtr2.wav:
+      Track_path: Traffic Experiment - Once More (With Feeling)\Traffic Experiment
+        - Once More (With Feeling)_RAW\20_ElecGtr2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    21_ElecGtr3.wav:
+      Track_path: Traffic Experiment - Once More (With Feeling)\Traffic Experiment
+        - Once More (With Feeling)_RAW\21_ElecGtr3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    22_ElecGtr4.wav:
+      Track_path: Traffic Experiment - Once More (With Feeling)\Traffic Experiment
+        - Once More (With Feeling)_RAW\22_ElecGtr4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Piano:
+    25_Piano.wav:
+      Track_path: Traffic Experiment - Once More (With Feeling)\Traffic Experiment
+        - Once More (With Feeling)_RAW\25_Piano.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    31_LeadVox.wav:
+      Track_path: Traffic Experiment - Once More (With Feeling)\Traffic Experiment
+        - Once More (With Feeling)_RAW\31_LeadVox.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Choir: {}
+  Backing_Vocal:
+    32_BackingVox01.wav:
+      Track_path: Traffic Experiment - Once More (With Feeling)\Traffic Experiment
+        - Once More (With Feeling)_RAW\32_BackingVox01.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    33_BackingVox02.wav:
+      Track_path: Traffic Experiment - Once More (With Feeling)\Traffic Experiment
+        - Once More (With Feeling)_RAW\33_BackingVox02.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    34_BackingVox03.wav:
+      Track_path: Traffic Experiment - Once More (With Feeling)\Traffic Experiment
+        - Once More (With Feeling)_RAW\34_BackingVox03.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    35_BackingVox04.wav:
+      Track_path: Traffic Experiment - Once More (With Feeling)\Traffic Experiment
+        - Once More (With Feeling)_RAW\35_BackingVox04.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    36_BackingVox05.wav:
+      Track_path: Traffic Experiment - Once More (With Feeling)\Traffic Experiment
+        - Once More (With Feeling)_RAW\36_BackingVox05.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    37_BackingVox06.wav:
+      Track_path: Traffic Experiment - Once More (With Feeling)\Traffic Experiment
+        - Once More (With Feeling)_RAW\37_BackingVox06.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    38_BackingVox07.wav:
+      Track_path: Traffic Experiment - Once More (With Feeling)\Traffic Experiment
+        - Once More (With Feeling)_RAW\38_BackingVox07.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    39_BackingVox08.wav:
+      Track_path: Traffic Experiment - Once More (With Feeling)\Traffic Experiment
+        - Once More (With Feeling)_RAW\39_BackingVox08.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    40_BackingVox09.wav:
+      Track_path: Traffic Experiment - Once More (With Feeling)\Traffic Experiment
+        - Once More (With Feeling)_RAW\40_BackingVox09.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    41_BackingVox10.wav:
+      Track_path: Traffic Experiment - Once More (With Feeling)\Traffic Experiment
+        - Once More (With Feeling)_RAW\41_BackingVox10.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    42_BackingVox11.wav:
+      Track_path: Traffic Experiment - Once More (With Feeling)\Traffic Experiment
+        - Once More (With Feeling)_RAW\42_BackingVox11.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    43_BackingVox12.wav:
+      Track_path: Traffic Experiment - Once More (With Feeling)\Traffic Experiment
+        - Once More (With Feeling)_RAW\43_BackingVox12.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    44_BackingVox13.wav:
+      Track_path: Traffic Experiment - Once More (With Feeling)\Traffic Experiment
+        - Once More (With Feeling)_RAW\44_BackingVox13.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    45_BackingVox14.wav:
+      Track_path: Traffic Experiment - Once More (With Feeling)\Traffic Experiment
+        - Once More (With Feeling)_RAW\45_BackingVox14.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    46_BackingVox15.wav:
+      Track_path: Traffic Experiment - Once More (With Feeling)\Traffic Experiment
+        - Once More (With Feeling)_RAW\46_BackingVox15.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    47_BackingVox16.wav:
+      Track_path: Traffic Experiment - Once More (With Feeling)\Traffic Experiment
+        - Once More (With Feeling)_RAW\47_BackingVox16.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    48_BackingVox17.wav:
+      Track_path: Traffic Experiment - Once More (With Feeling)\Traffic Experiment
+        - Once More (With Feeling)_RAW\48_BackingVox17.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    49_BackingVox18.wav:
+      Track_path: Traffic Experiment - Once More (With Feeling)\Traffic Experiment
+        - Once More (With Feeling)_RAW\49_BackingVox18.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    50_BackingVox19.wav:
+      Track_path: Traffic Experiment - Once More (With Feeling)\Traffic Experiment
+        - Once More (With Feeling)_RAW\50_BackingVox19.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    51_BackingVox20.wav:
+      Track_path: Traffic Experiment - Once More (With Feeling)\Traffic Experiment
+        - Once More (With Feeling)_RAW\51_BackingVox20.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    52_BackingVox21.wav:
+      Track_path: Traffic Experiment - Once More (With Feeling)\Traffic Experiment
+        - Once More (With Feeling)_RAW\52_BackingVox21.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    53_BackingVox22.wav:
+      Track_path: Traffic Experiment - Once More (With Feeling)\Traffic Experiment
+        - Once More (With Feeling)_RAW\53_BackingVox22.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    54_BackingVox23.wav:
+      Track_path: Traffic Experiment - Once More (With Feeling)\Traffic Experiment
+        - Once More (With Feeling)_RAW\54_BackingVox23.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    55_BackingVox24.wav:
+      Track_path: Traffic Experiment - Once More (With Feeling)\Traffic Experiment
+        - Once More (With Feeling)_RAW\55_BackingVox24.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    56_BackingVox25.wav:
+      Track_path: Traffic Experiment - Once More (With Feeling)\Traffic Experiment
+        - Once More (With Feeling)_RAW\56_BackingVox25.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    57_BackingVox26.wav:
+      Track_path: Traffic Experiment - Once More (With Feeling)\Traffic Experiment
+        - Once More (With Feeling)_RAW\57_BackingVox26.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    58_BackingVox27.wav:
+      Track_path: Traffic Experiment - Once More (With Feeling)\Traffic Experiment
+        - Once More (With Feeling)_RAW\58_BackingVox27.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    59_BackingVox28.wav:
+      Track_path: Traffic Experiment - Once More (With Feeling)\Traffic Experiment
+        - Once More (With Feeling)_RAW\59_BackingVox28.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    60_BackingVox29.wav:
+      Track_path: Traffic Experiment - Once More (With Feeling)\Traffic Experiment
+        - Once More (With Feeling)_RAW\60_BackingVox29.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    61_BackingVox30.wav:
+      Track_path: Traffic Experiment - Once More (With Feeling)\Traffic Experiment
+        - Once More (With Feeling)_RAW\61_BackingVox30.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    62_BackingVox31.wav:
+      Track_path: Traffic Experiment - Once More (With Feeling)\Traffic Experiment
+        - Once More (With Feeling)_RAW\62_BackingVox31.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    63_BackingVox32.wav:
+      Track_path: Traffic Experiment - Once More (With Feeling)\Traffic Experiment
+        - Once More (With Feeling)_RAW\63_BackingVox32.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Unused: {}
+  Ambient_Microphone: {}

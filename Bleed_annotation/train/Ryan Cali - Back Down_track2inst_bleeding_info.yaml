@@ -1,0 +1,193 @@
+Track2inst:
+  Electric_Organ:
+    11_Organ.wav:
+      Track_path: Ryan Cali - Back Down\Ryan Cali - Back Down_RAW\11_Organ.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Synthesizer:
+    08_Synth1.wav:
+      Track_path: Ryan Cali - Back Down\Ryan Cali - Back Down_RAW\08_Synth1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    09_Synth2.wav:
+      Track_path: Ryan Cali - Back Down\Ryan Cali - Back Down_RAW\09_Synth2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  SFX: {}
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    01_Kick.wav:
+      Track_path: Ryan Cali - Back Down\Ryan Cali - Back Down_RAW\01_Kick.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Snare:
+    02_Snare.wav:
+      Track_path: Ryan Cali - Back Down\Ryan Cali - Back Down_RAW\02_Snare.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_HiHat:
+    03_HiHat1.wav:
+      Track_path: Ryan Cali - Back Down\Ryan Cali - Back Down_RAW\03_HiHat1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    04_HiHat2.wav:
+      Track_path: Ryan Cali - Back Down\Ryan Cali - Back Down_RAW\04_HiHat2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    05_HiHat3.wav:
+      Track_path: Ryan Cali - Back Down\Ryan Cali - Back Down_RAW\05_HiHat3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    06_HiHat4.wav:
+      Track_path: Ryan Cali - Back Down\Ryan Cali - Back Down_RAW\06_HiHat4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Cymbals: {}
+  Drum_Overheads: {}
+  Drum_Tom: {}
+  Drum_Room: {}
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop: {}
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass: {}
+  Electric_Bass:
+    07_Bass.wav:
+      Track_path: Ryan Cali - Back Down\Ryan Cali - Back Down_RAW\07_Bass.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Acoustic_Guitar: {}
+  Electric_Guitar: {}
+  Piano:
+    10_Piano.wav:
+      Track_path: Ryan Cali - Back Down\Ryan Cali - Back Down_RAW\10_Piano.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    12_Vox1.wav:
+      Track_path: Ryan Cali - Back Down\Ryan Cali - Back Down_RAW\12_Vox1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    13_Vox1DT.wav:
+      Track_path: Ryan Cali - Back Down\Ryan Cali - Back Down_RAW\13_Vox1DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    15_Vox3.wav:
+      Track_path: Ryan Cali - Back Down\Ryan Cali - Back Down_RAW\15_Vox3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    16_Vox3DT.wav:
+      Track_path: Ryan Cali - Back Down\Ryan Cali - Back Down_RAW\16_Vox3DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    17_Vox4.wav:
+      Track_path: Ryan Cali - Back Down\Ryan Cali - Back Down_RAW\17_Vox4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    18_Vox4DT.wav:
+      Track_path: Ryan Cali - Back Down\Ryan Cali - Back Down_RAW\18_Vox4DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    19_Vox5.wav:
+      Track_path: Ryan Cali - Back Down\Ryan Cali - Back Down_RAW\19_Vox5.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    20_Vox5DT1.wav:
+      Track_path: Ryan Cali - Back Down\Ryan Cali - Back Down_RAW\20_Vox5DT1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    21_Vox5DT2.wav:
+      Track_path: Ryan Cali - Back Down\Ryan Cali - Back Down_RAW\21_Vox5DT2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Choir: {}
+  Backing_Vocal:
+    14_Vox2.wav:
+      Track_path: Ryan Cali - Back Down\Ryan Cali - Back Down_RAW\14_Vox2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    22_Vox6.wav:
+      Track_path: Ryan Cali - Back Down\Ryan Cali - Back Down_RAW\22_Vox6.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    23_Vox6DT.wav:
+      Track_path: Ryan Cali - Back Down\Ryan Cali - Back Down_RAW\23_Vox6DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    24_VoxSFX.wav:
+      Track_path: Ryan Cali - Back Down\Ryan Cali - Back Down_RAW\24_VoxSFX.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Unused: {}
+  Ambient_Microphone: {}

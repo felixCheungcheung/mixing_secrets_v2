@@ -1,0 +1,283 @@
+Track2inst:
+  Electric_Organ:
+    26_Hammond01.wav:
+      Track_path: impossible c o l o u r s - The Truth\impossible c o l o u r s -
+        The Truth_RAW\26_Hammond01.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    27_Hammond02.wav:
+      Track_path: impossible c o l o u r s - The Truth\impossible c o l o u r s -
+        The Truth_RAW\27_Hammond02.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    28_Hammond03.wav:
+      Track_path: impossible c o l o u r s - The Truth\impossible c o l o u r s -
+        The Truth_RAW\28_Hammond03.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    29_Hammond04.wav:
+      Track_path: impossible c o l o u r s - The Truth\impossible c o l o u r s -
+        The Truth_RAW\29_Hammond04.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Synthesizer: {}
+  SFX: {}
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    01_Kick.wav:
+      Track_path: impossible c o l o u r s - The Truth\impossible c o l o u r s -
+        The Truth_RAW\01_Kick.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads'
+      Comment: ''
+  Drum_Snare:
+    02_Snare.wav:
+      Track_path: impossible c o l o u r s - The Truth\impossible c o l o u r s -
+        The Truth_RAW\02_Snare.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads'
+      Comment: ''
+  Drum_HiHat:
+    03_Hat.wav:
+      Track_path: impossible c o l o u r s - The Truth\impossible c o l o u r s -
+        The Truth_RAW\03_Hat.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads'
+      Comment: ''
+  Drum_Cymbals:
+    04_Ride.wav:
+      Track_path: impossible c o l o u r s - The Truth\impossible c o l o u r s -
+        The Truth_RAW\04_Ride.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Electric_Bass, Drum_Overheads'
+      Comment: ''
+  Drum_Overheads:
+    05_Overheads1.wav:
+      Track_path: impossible c o l o u r s - The Truth\impossible c o l o u r s -
+        The Truth_RAW\05_Overheads1.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Electric_Bass'
+      Comment: ''
+    06_Overheads2.wav:
+      Track_path: impossible c o l o u r s - The Truth\impossible c o l o u r s -
+        The Truth_RAW\06_Overheads2.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Electric_Bass'
+      Comment: ''
+  Drum_Tom:
+    07_Tom1.wav:
+      Track_path: impossible c o l o u r s - The Truth\impossible c o l o u r s -
+        The Truth_RAW\07_Tom1.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads'
+      Comment: ''
+    08_Tom2.wav:
+      Track_path: impossible c o l o u r s - The Truth\impossible c o l o u r s -
+        The Truth_RAW\08_Tom2.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads'
+      Comment: ''
+    09_Tom3.wav:
+      Track_path: impossible c o l o u r s - The Truth\impossible c o l o u r s -
+        The Truth_RAW\09_Tom3.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads'
+      Comment: ''
+  Drum_Room: {}
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop: {}
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass: {}
+  Electric_Bass:
+    10_BassAmp.wav:
+      Track_path: impossible c o l o u r s - The Truth\impossible c o l o u r s -
+        The Truth_RAW\10_BassAmp.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads'
+      Comment: ''
+    11_BassDI.wav:
+      Track_path: impossible c o l o u r s - The Truth\impossible c o l o u r s -
+        The Truth_RAW\11_BassDI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Acoustic_Guitar: {}
+  Electric_Guitar:
+    12_Gtr01_VsDown.wav:
+      Track_path: impossible c o l o u r s - The Truth\impossible c o l o u r s -
+        The Truth_RAW\12_Gtr01_VsDown.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    13_Gtr02_VsUp.wav:
+      Track_path: impossible c o l o u r s - The Truth\impossible c o l o u r s -
+        The Truth_RAW\13_Gtr02_VsUp.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    14_Gtr03_Vs1SFX1_Dark.wav:
+      Track_path: impossible c o l o u r s - The Truth\impossible c o l o u r s -
+        The Truth_RAW\14_Gtr03_Vs1SFX1_Dark.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    15_Gtr04_Vs1SFX1_Light.wav:
+      Track_path: impossible c o l o u r s - The Truth\impossible c o l o u r s -
+        The Truth_RAW\15_Gtr04_Vs1SFX1_Light.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    16_Gtr05_Vs1SFX2_Dark.wav:
+      Track_path: impossible c o l o u r s - The Truth\impossible c o l o u r s -
+        The Truth_RAW\16_Gtr05_Vs1SFX2_Dark.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    17_Gtr06_Vs1SFX2_Light.wav:
+      Track_path: impossible c o l o u r s - The Truth\impossible c o l o u r s -
+        The Truth_RAW\17_Gtr06_Vs1SFX2_Light.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    18_Gtr07_SectionC_Dark.wav:
+      Track_path: impossible c o l o u r s - The Truth\impossible c o l o u r s -
+        The Truth_RAW\18_Gtr07_SectionC_Dark.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    19_Gtr08_SectionC_Light.wav:
+      Track_path: impossible c o l o u r s - The Truth\impossible c o l o u r s -
+        The Truth_RAW\19_Gtr08_SectionC_Light.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    20_Gtr09_RisePatch_Dark.wav:
+      Track_path: impossible c o l o u r s - The Truth\impossible c o l o u r s -
+        The Truth_RAW\20_Gtr09_RisePatch_Dark.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    21_Gtr10_RisePatch_Light.wav:
+      Track_path: impossible c o l o u r s - The Truth\impossible c o l o u r s -
+        The Truth_RAW\21_Gtr10_RisePatch_Light.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    22_Gtr11_SectionD_Dark.wav:
+      Track_path: impossible c o l o u r s - The Truth\impossible c o l o u r s -
+        The Truth_RAW\22_Gtr11_SectionD_Dark.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    23_Gtr12_SectionD_Light.wav:
+      Track_path: impossible c o l o u r s - The Truth\impossible c o l o u r s -
+        The Truth_RAW\23_Gtr12_SectionD_Light.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    24_Gtr13_Solo.wav:
+      Track_path: impossible c o l o u r s - The Truth\impossible c o l o u r s -
+        The Truth_RAW\24_Gtr13_Solo.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    25_Gtr14_Solo.wav:
+      Track_path: impossible c o l o u r s - The Truth\impossible c o l o u r s -
+        The Truth_RAW\25_Gtr14_Solo.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Piano: {}
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    30_LeadVox1.wav:
+      Track_path: impossible c o l o u r s - The Truth\impossible c o l o u r s -
+        The Truth_RAW\30_LeadVox1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    31_LeadVox2.wav:
+      Track_path: impossible c o l o u r s - The Truth\impossible c o l o u r s -
+        The Truth_RAW\31_LeadVox2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Choir: {}
+  Backing_Vocal:
+    32_BackingVox01.wav:
+      Track_path: impossible c o l o u r s - The Truth\impossible c o l o u r s -
+        The Truth_RAW\32_BackingVox01.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    33_BackingVox02.wav:
+      Track_path: impossible c o l o u r s - The Truth\impossible c o l o u r s -
+        The Truth_RAW\33_BackingVox02.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    34_BackingVox03.wav:
+      Track_path: impossible c o l o u r s - The Truth\impossible c o l o u r s -
+        The Truth_RAW\34_BackingVox03.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    35_BackingVox04.wav:
+      Track_path: impossible c o l o u r s - The Truth\impossible c o l o u r s -
+        The Truth_RAW\35_BackingVox04.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Unused: {}
+  Ambient_Microphone: {}

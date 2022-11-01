@@ -1,0 +1,133 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer: {}
+  SFX: {}
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick: {}
+  Drum_Snare:
+    Snare DI.wav:
+      Track_path: "Monsieur Perin\xE9 - Encanto Tropical\\Monsieur Perin\xE9 - Encanto\
+        \ Tropical_RAW\\Snare DI.wav"
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_HiHat: {}
+  Drum_Cymbals: {}
+  Drum_Overheads:
+    Snare _ Hat Mic.wav:
+      Track_path: "Monsieur Perin\xE9 - Encanto Tropical\\Monsieur Perin\xE9 - Encanto\
+        \ Tropical_RAW\\Snare _ Hat Mic.wav"
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Tom: {}
+  Drum_Room: {}
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop: {}
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum:
+    Bass Drum.wav:
+      Track_path: "Monsieur Perin\xE9 - Encanto Tropical\\Monsieur Perin\xE9 - Encanto\
+        \ Tropical_RAW\\Bass Drum.wav"
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Acoustic_Guitar, Lead_Vocal'
+      Comment: ''
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass: {}
+  Electric_Bass:
+    Bass.wav:
+      Track_path: "Monsieur Perin\xE9 - Encanto Tropical\\Monsieur Perin\xE9 - Encanto\
+        \ Tropical_RAW\\Bass.wav"
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Acoustic_Guitar:
+    Quattro.wav:
+      Track_path: "Monsieur Perin\xE9 - Encanto Tropical\\Monsieur Perin\xE9 - Encanto\
+        \ Tropical_RAW\\Quattro.wav"
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Whistle, Lead_Vocal'
+      Comment: ''
+    Elkin Guitar.wav:
+      Track_path: "Monsieur Perin\xE9 - Encanto Tropical\\Monsieur Perin\xE9 - Encanto\
+        \ Tropical_RAW\\Elkin Guitar.wav"
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Backing_Vocal'
+      Comment: ''
+  Electric_Guitar: {}
+  Piano: {}
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle:
+    Santi Voice.wav:
+      Track_path: "Monsieur Perin\xE9 - Encanto Tropical\\Monsieur Perin\xE9 - Encanto\
+        \ Tropical_RAW\\Santi Voice.wav"
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Acoustic_Guitar, Lead_Vocal'
+      Comment: ''
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    Catalina Lead.wav:
+      Track_path: "Monsieur Perin\xE9 - Encanto Tropical\\Monsieur Perin\xE9 - Encanto\
+        \ Tropical_RAW\\Catalina Lead.wav"
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Backing_Vocal, Acoustic_Guitar'
+      Comment: ''
+  Choir: {}
+  Backing_Vocal:
+    Adinda Voice.wav:
+      Track_path: "Monsieur Perin\xE9 - Encanto Tropical\\Monsieur Perin\xE9 - Encanto\
+        \ Tropical_RAW\\Adinda Voice.wav"
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Acoustic_Guitar, Lead_Vocal'
+      Comment: ''
+    Elkin Voice.wav:
+      Track_path: "Monsieur Perin\xE9 - Encanto Tropical\\Monsieur Perin\xE9 - Encanto\
+        \ Tropical_RAW\\Elkin Voice.wav"
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Acoustic_Guitar, Lead_Vocal'
+      Comment: ''
+  Unused: {}
+  Ambient_Microphone: {}

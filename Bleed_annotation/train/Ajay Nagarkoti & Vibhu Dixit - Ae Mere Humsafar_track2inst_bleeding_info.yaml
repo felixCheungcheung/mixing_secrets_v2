@@ -1,0 +1,205 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer:
+    19_Synth.wav:
+      Track_path: Ajay Nagarkoti & Vibhu Dixit - Ae Mere Humsafar\Ajay Nagarkoti &
+        Vibhu Dixit - Ae Mere Humsafar_RAW\19_Synth.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  SFX:
+    07_SFX.wav:
+      Track_path: Ajay Nagarkoti & Vibhu Dixit - Ae Mere Humsafar\Ajay Nagarkoti &
+        Vibhu Dixit - Ae Mere Humsafar_RAW\07_SFX.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    01_Kick.wav:
+      Track_path: Ajay Nagarkoti & Vibhu Dixit - Ae Mere Humsafar\Ajay Nagarkoti &
+        Vibhu Dixit - Ae Mere Humsafar_RAW\01_Kick.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Snare:
+    03_Snare.wav:
+      Track_path: Ajay Nagarkoti & Vibhu Dixit - Ae Mere Humsafar\Ajay Nagarkoti &
+        Vibhu Dixit - Ae Mere Humsafar_RAW\03_Snare.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_HiHat:
+    04_HiHat.wav:
+      Track_path: Ajay Nagarkoti & Vibhu Dixit - Ae Mere Humsafar\Ajay Nagarkoti &
+        Vibhu Dixit - Ae Mere Humsafar_RAW\04_HiHat.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Cymbals:
+    06_RevCymbal.wav:
+      Track_path: Ajay Nagarkoti & Vibhu Dixit - Ae Mere Humsafar\Ajay Nagarkoti &
+        Vibhu Dixit - Ae Mere Humsafar_RAW\06_RevCymbal.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Overheads: {}
+  Drum_Tom: {}
+  Drum_Room: {}
+  Shaker:
+    05_Shaker.wav:
+      Track_path: Ajay Nagarkoti & Vibhu Dixit - Ae Mere Humsafar\Ajay Nagarkoti &
+        Vibhu Dixit - Ae Mere Humsafar_RAW\05_Shaker.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop: {}
+  Clicks: {}
+  Claps:
+    02_Clap.wav:
+      Track_path: Ajay Nagarkoti & Vibhu Dixit - Ae Mere Humsafar\Ajay Nagarkoti &
+        Vibhu Dixit - Ae Mere Humsafar_RAW\02_Clap.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass: {}
+  Electric_Bass:
+    08_Bass.wav:
+      Track_path: Ajay Nagarkoti & Vibhu Dixit - Ae Mere Humsafar\Ajay Nagarkoti &
+        Vibhu Dixit - Ae Mere Humsafar_RAW\08_Bass.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Acoustic_Guitar:
+    09_AcousticGtr1.wav:
+      Track_path: Ajay Nagarkoti & Vibhu Dixit - Ae Mere Humsafar\Ajay Nagarkoti &
+        Vibhu Dixit - Ae Mere Humsafar_RAW\09_AcousticGtr1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    10_AcousticGtr2.wav:
+      Track_path: Ajay Nagarkoti & Vibhu Dixit - Ae Mere Humsafar\Ajay Nagarkoti &
+        Vibhu Dixit - Ae Mere Humsafar_RAW\10_AcousticGtr2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    11_AcousticGtr3.wav:
+      Track_path: Ajay Nagarkoti & Vibhu Dixit - Ae Mere Humsafar\Ajay Nagarkoti &
+        Vibhu Dixit - Ae Mere Humsafar_RAW\11_AcousticGtr3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Electric_Guitar: {}
+  Piano:
+    12_Piano1.wav:
+      Track_path: Ajay Nagarkoti & Vibhu Dixit - Ae Mere Humsafar\Ajay Nagarkoti &
+        Vibhu Dixit - Ae Mere Humsafar_RAW\12_Piano1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    13_Piano2.wav:
+      Track_path: Ajay Nagarkoti & Vibhu Dixit - Ae Mere Humsafar\Ajay Nagarkoti &
+        Vibhu Dixit - Ae Mere Humsafar_RAW\13_Piano2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section:
+    15_Strings1.wav:
+      Track_path: Ajay Nagarkoti & Vibhu Dixit - Ae Mere Humsafar\Ajay Nagarkoti &
+        Vibhu Dixit - Ae Mere Humsafar_RAW\15_Strings1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    16_Strings2.wav:
+      Track_path: Ajay Nagarkoti & Vibhu Dixit - Ae Mere Humsafar\Ajay Nagarkoti &
+        Vibhu Dixit - Ae Mere Humsafar_RAW\16_Strings2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    17_Strings3.wav:
+      Track_path: Ajay Nagarkoti & Vibhu Dixit - Ae Mere Humsafar\Ajay Nagarkoti &
+        Vibhu Dixit - Ae Mere Humsafar_RAW\17_Strings3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola:
+    18_Viola.wav:
+      Track_path: Ajay Nagarkoti & Vibhu Dixit - Ae Mere Humsafar\Ajay Nagarkoti &
+        Vibhu Dixit - Ae Mere Humsafar_RAW\18_Viola.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    20_LeadVox.wav:
+      Track_path: Ajay Nagarkoti & Vibhu Dixit - Ae Mere Humsafar\Ajay Nagarkoti &
+        Vibhu Dixit - Ae Mere Humsafar_RAW\20_LeadVox.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Choir: {}
+  Backing_Vocal:
+    21_BackingVox1.wav:
+      Track_path: Ajay Nagarkoti & Vibhu Dixit - Ae Mere Humsafar\Ajay Nagarkoti &
+        Vibhu Dixit - Ae Mere Humsafar_RAW\21_BackingVox1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    22_BackingVox2.wav:
+      Track_path: Ajay Nagarkoti & Vibhu Dixit - Ae Mere Humsafar\Ajay Nagarkoti &
+        Vibhu Dixit - Ae Mere Humsafar_RAW\22_BackingVox2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Unused: {}
+  Ambient_Microphone:
+    14_PianoAndStrings.wav:
+      Track_path: Ajay Nagarkoti & Vibhu Dixit - Ae Mere Humsafar\Ajay Nagarkoti &
+        Vibhu Dixit - Ae Mere Humsafar_RAW\14_PianoAndStrings.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''

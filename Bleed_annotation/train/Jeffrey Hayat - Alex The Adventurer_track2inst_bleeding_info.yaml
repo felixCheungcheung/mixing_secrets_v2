@@ -1,0 +1,248 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer: {}
+  SFX: {}
+  Marimba: {}
+  Bell:
+    08_Bells.wav:
+      Track_path: Jeffrey Hayat - Alex The Adventurer\Jeffrey Hayat - Alex The Adventurer_RAW\08_Bells.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Accordian: {}
+  Harp:
+    10_Harp.wav:
+      Track_path: Jeffrey Hayat - Alex The Adventurer\Jeffrey Hayat - Alex The Adventurer_RAW\10_Harp.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic:
+    07_TriangleAndChimes.wav:
+      Track_path: Jeffrey Hayat - Alex The Adventurer\Jeffrey Hayat - Alex The Adventurer_RAW\07_TriangleAndChimes.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    11_Xylophone.wav:
+      Track_path: Jeffrey Hayat - Alex The Adventurer\Jeffrey Hayat - Alex The Adventurer_RAW\11_Xylophone.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    12_Glockenspiel.wav:
+      Track_path: Jeffrey Hayat - Alex The Adventurer\Jeffrey Hayat - Alex The Adventurer_RAW\12_Glockenspiel.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Kick: {}
+  Drum_Snare:
+    05_SnareDrum.wav:
+      Track_path: Jeffrey Hayat - Alex The Adventurer\Jeffrey Hayat - Alex The Adventurer_RAW\05_SnareDrum.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_HiHat: {}
+  Drum_Cymbals:
+    06_Cymbals.wav:
+      Track_path: Jeffrey Hayat - Alex The Adventurer\Jeffrey Hayat - Alex The Adventurer_RAW\06_Cymbals.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Overheads: {}
+  Drum_Tom: {}
+  Drum_Room: {}
+  Shaker: {}
+  Taiko: {}
+  Timpani:
+    03_TimpaniHits.wav:
+      Track_path: Jeffrey Hayat - Alex The Adventurer\Jeffrey Hayat - Alex The Adventurer_RAW\03_TimpaniHits.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    04_TimpaniRolls.wav:
+      Track_path: Jeffrey Hayat - Alex The Adventurer\Jeffrey Hayat - Alex The Adventurer_RAW\04_TimpaniRolls.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop: {}
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum:
+    01_BassDrum.wav:
+      Track_path: Jeffrey Hayat - Alex The Adventurer\Jeffrey Hayat - Alex The Adventurer_RAW\01_BassDrum.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion:
+    02_OutroHit.wav:
+      Track_path: Jeffrey Hayat - Alex The Adventurer\Jeffrey Hayat - Alex The Adventurer_RAW\02_OutroHit.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Synth_Bass: {}
+  Electric_Bass: {}
+  Acoustic_Guitar: {}
+  Electric_Guitar: {}
+  Piano:
+    09_Piano.wav:
+      Track_path: Jeffrey Hayat - Alex The Adventurer\Jeffrey Hayat - Alex The Adventurer_RAW\09_Piano.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Electric_Piano: {}
+  Brass_Section:
+    20_BrassStaccatoHi.wav:
+      Track_path: Jeffrey Hayat - Alex The Adventurer\Jeffrey Hayat - Alex The Adventurer_RAW\20_BrassStaccatoHi.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    21_BrassStaccatoLo.wav:
+      Track_path: Jeffrey Hayat - Alex The Adventurer\Jeffrey Hayat - Alex The Adventurer_RAW\21_BrassStaccatoLo.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    22_BrassCrescendo.wav:
+      Track_path: Jeffrey Hayat - Alex The Adventurer\Jeffrey Hayat - Alex The Adventurer_RAW\22_BrassCrescendo.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Saxophone: {}
+  Trumpet:
+    27_Trumpets.wav:
+      Track_path: Jeffrey Hayat - Alex The Adventurer\Jeffrey Hayat - Alex The Adventurer_RAW\27_Trumpets.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  French_Horn:
+    25_Horns.wav:
+      Track_path: Jeffrey Hayat - Alex The Adventurer\Jeffrey Hayat - Alex The Adventurer_RAW\25_Horns.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    26_Horns.wav:
+      Track_path: Jeffrey Hayat - Alex The Adventurer\Jeffrey Hayat - Alex The Adventurer_RAW\26_Horns.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Trombone:
+    24_Trombones.wav:
+      Track_path: Jeffrey Hayat - Alex The Adventurer\Jeffrey Hayat - Alex The Adventurer_RAW\24_Trombones.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Tuba:
+    23_Tuba.wav:
+      Track_path: Jeffrey Hayat - Alex The Adventurer\Jeffrey Hayat - Alex The Adventurer_RAW\23_Tuba.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  String_Section:
+    14_CellosAndBassesSpiccato.wav:
+      Track_path: Jeffrey Hayat - Alex The Adventurer\Jeffrey Hayat - Alex The Adventurer_RAW\14_CellosAndBassesSpiccato.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Fiddle: {}
+  Double_Bass:
+    13_Basses.wav:
+      Track_path: Jeffrey Hayat - Alex The Adventurer\Jeffrey Hayat - Alex The Adventurer_RAW\13_Basses.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Violin:
+    18_ViolinsLegato.wav:
+      Track_path: Jeffrey Hayat - Alex The Adventurer\Jeffrey Hayat - Alex The Adventurer_RAW\18_ViolinsLegato.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    19_ViolinsStaccato.wav:
+      Track_path: Jeffrey Hayat - Alex The Adventurer\Jeffrey Hayat - Alex The Adventurer_RAW\19_ViolinsStaccato.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Viola:
+    16_ViolasStaccato.wav:
+      Track_path: Jeffrey Hayat - Alex The Adventurer\Jeffrey Hayat - Alex The Adventurer_RAW\16_ViolasStaccato.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    17_ViolasTrills.wav:
+      Track_path: Jeffrey Hayat - Alex The Adventurer\Jeffrey Hayat - Alex The Adventurer_RAW\17_ViolasTrills.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Cello:
+    15_CellosLegatoAndTrills.wav:
+      Track_path: Jeffrey Hayat - Alex The Adventurer\Jeffrey Hayat - Alex The Adventurer_RAW\15_CellosLegatoAndTrills.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Flute:
+    34_Flutes.wav:
+      Track_path: Jeffrey Hayat - Alex The Adventurer\Jeffrey Hayat - Alex The Adventurer_RAW\34_Flutes.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    35_Piccolo.wav:
+      Track_path: Jeffrey Hayat - Alex The Adventurer\Jeffrey Hayat - Alex The Adventurer_RAW\35_Piccolo.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Clarinet:
+    32_Clarinet.wav:
+      Track_path: Jeffrey Hayat - Alex The Adventurer\Jeffrey Hayat - Alex The Adventurer_RAW\32_Clarinet.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon:
+    30_ContraBassoon.wav:
+      Track_path: Jeffrey Hayat - Alex The Adventurer\Jeffrey Hayat - Alex The Adventurer_RAW\30_ContraBassoon.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    31_Bassoon.wav:
+      Track_path: Jeffrey Hayat - Alex The Adventurer\Jeffrey Hayat - Alex The Adventurer_RAW\31_Bassoon.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Oboe:
+    33_Oboes.wav:
+      Track_path: Jeffrey Hayat - Alex The Adventurer\Jeffrey Hayat - Alex The Adventurer_RAW\33_Oboes.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  WoodWind_Section:
+    28_WoodwindStaccato.wav:
+      Track_path: Jeffrey Hayat - Alex The Adventurer\Jeffrey Hayat - Alex The Adventurer_RAW\28_WoodwindStaccato.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    29_WoodwindRuns.wav:
+      Track_path: Jeffrey Hayat - Alex The Adventurer\Jeffrey Hayat - Alex The Adventurer_RAW\29_WoodwindRuns.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Lead_Vocal: {}
+  Choir: {}
+  Backing_Vocal: {}
+  Unused: {}
+  Ambient_Microphone: {}

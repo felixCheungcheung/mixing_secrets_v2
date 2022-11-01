@@ -1,0 +1,418 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer:
+    27_Synth1.wav:
+      Track_path: Kangoro - Animal\Kangoro - Animal_RAW\27_Synth1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    28_Synth2.wav:
+      Track_path: Kangoro - Animal\Kangoro - Animal_RAW\28_Synth2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    29_Synth3.wav:
+      Track_path: Kangoro - Animal\Kangoro - Animal_RAW\29_Synth3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    30_Synth4.wav:
+      Track_path: Kangoro - Animal\Kangoro - Animal_RAW\30_Synth4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    31_Synth5.wav:
+      Track_path: Kangoro - Animal\Kangoro - Animal_RAW\31_Synth5.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    32_Synth6.wav:
+      Track_path: Kangoro - Animal\Kangoro - Animal_RAW\32_Synth6.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  SFX:
+    33_SFX01.wav:
+      Track_path: Kangoro - Animal\Kangoro - Animal_RAW\33_SFX01.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    34_SFX02.wav:
+      Track_path: Kangoro - Animal\Kangoro - Animal_RAW\34_SFX02.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    35_SFX03.wav:
+      Track_path: Kangoro - Animal\Kangoro - Animal_RAW\35_SFX03.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    36_SFX04.wav:
+      Track_path: Kangoro - Animal\Kangoro - Animal_RAW\36_SFX04.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    37_SFX05.wav:
+      Track_path: Kangoro - Animal\Kangoro - Animal_RAW\37_SFX05.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    38_SFX06.wav:
+      Track_path: Kangoro - Animal\Kangoro - Animal_RAW\38_SFX06.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    39_SFX07.wav:
+      Track_path: Kangoro - Animal\Kangoro - Animal_RAW\39_SFX07.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    40_SFX08.wav:
+      Track_path: Kangoro - Animal\Kangoro - Animal_RAW\40_SFX08.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    41_SFX09.wav:
+      Track_path: Kangoro - Animal\Kangoro - Animal_RAW\41_SFX09.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    42_SFX10.wav:
+      Track_path: Kangoro - Animal\Kangoro - Animal_RAW\42_SFX10.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    43_SFX11.wav:
+      Track_path: Kangoro - Animal\Kangoro - Animal_RAW\43_SFX11.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    44_SFX12.wav:
+      Track_path: Kangoro - Animal\Kangoro - Animal_RAW\44_SFX12.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    45_SFX13.wav:
+      Track_path: Kangoro - Animal\Kangoro - Animal_RAW\45_SFX13.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    46_SFX14.wav:
+      Track_path: Kangoro - Animal\Kangoro - Animal_RAW\46_SFX14.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    47_SFX15.wav:
+      Track_path: Kangoro - Animal\Kangoro - Animal_RAW\47_SFX15.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    48_SFX16.wav:
+      Track_path: Kangoro - Animal\Kangoro - Animal_RAW\48_SFX16.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    49_SFX17.wav:
+      Track_path: Kangoro - Animal\Kangoro - Animal_RAW\49_SFX17.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    50_SFX18.wav:
+      Track_path: Kangoro - Animal\Kangoro - Animal_RAW\50_SFX18.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    51_SFX19.wav:
+      Track_path: Kangoro - Animal\Kangoro - Animal_RAW\51_SFX19.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    01_Kick1.wav:
+      Track_path: Kangoro - Animal\Kangoro - Animal_RAW\01_Kick1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    02_Kick2.wav:
+      Track_path: Kangoro - Animal\Kangoro - Animal_RAW\02_Kick2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    03_Kick3.wav:
+      Track_path: Kangoro - Animal\Kangoro - Animal_RAW\03_Kick3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    04_Kick4.wav:
+      Track_path: Kangoro - Animal\Kangoro - Animal_RAW\04_Kick4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Snare:
+    05_Snare1.wav:
+      Track_path: Kangoro - Animal\Kangoro - Animal_RAW\05_Snare1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    06_Snare2.wav:
+      Track_path: Kangoro - Animal\Kangoro - Animal_RAW\06_Snare2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    07_Snare3.wav:
+      Track_path: Kangoro - Animal\Kangoro - Animal_RAW\07_Snare3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_HiHat: {}
+  Drum_Cymbals:
+    08_Crash1.wav:
+      Track_path: Kangoro - Animal\Kangoro - Animal_RAW\08_Crash1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    09_Crash2.wav:
+      Track_path: Kangoro - Animal\Kangoro - Animal_RAW\09_Crash2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    10_Crash3.wav:
+      Track_path: Kangoro - Animal\Kangoro - Animal_RAW\10_Crash3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    11_Crash4.wav:
+      Track_path: Kangoro - Animal\Kangoro - Animal_RAW\11_Crash4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Overheads: {}
+  Drum_Tom: {}
+  Drum_Room:
+    12_DrumsRoom.wav:
+      Track_path: Kangoro - Animal\Kangoro - Animal_RAW\12_DrumsRoom.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine:
+    13_Tambourine.wav:
+      Track_path: Kangoro - Animal\Kangoro - Animal_RAW\13_Tambourine.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Loop:
+    14_Loops1.wav:
+      Track_path: Kangoro - Animal\Kangoro - Animal_RAW\14_Loops1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass: {}
+  Electric_Bass:
+    16_Bass1.wav:
+      Track_path: Kangoro - Animal\Kangoro - Animal_RAW\16_Bass1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    17_Bass2.wav:
+      Track_path: Kangoro - Animal\Kangoro - Animal_RAW\17_Bass2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    18_Bass3.wav:
+      Track_path: Kangoro - Animal\Kangoro - Animal_RAW\18_Bass3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    19_Bass4.wav:
+      Track_path: Kangoro - Animal\Kangoro - Animal_RAW\19_Bass4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    20_Bass5.wav:
+      Track_path: Kangoro - Animal\Kangoro - Animal_RAW\20_Bass5.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    21_Bass6.wav:
+      Track_path: Kangoro - Animal\Kangoro - Animal_RAW\21_Bass6.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Acoustic_Guitar: {}
+  Electric_Guitar:
+    22_ElecGtr1.wav:
+      Track_path: Kangoro - Animal\Kangoro - Animal_RAW\22_ElecGtr1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    23_ElecGtr2.wav:
+      Track_path: Kangoro - Animal\Kangoro - Animal_RAW\23_ElecGtr2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    24_ElecGtr3.wav:
+      Track_path: Kangoro - Animal\Kangoro - Animal_RAW\24_ElecGtr3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    25_ElecGtr4.wav:
+      Track_path: Kangoro - Animal\Kangoro - Animal_RAW\25_ElecGtr4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    26_ElecGtr5.wav:
+      Track_path: Kangoro - Animal\Kangoro - Animal_RAW\26_ElecGtr5.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Piano: {}
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section:
+    15_Loops2.wav:
+      Track_path: Kangoro - Animal\Kangoro - Animal_RAW\15_Loops2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    52_LeadVox1.wav:
+      Track_path: Kangoro - Animal\Kangoro - Animal_RAW\52_LeadVox1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    53_LeadVox1DT.wav:
+      Track_path: Kangoro - Animal\Kangoro - Animal_RAW\53_LeadVox1DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    54_LeadVox2.wav:
+      Track_path: Kangoro - Animal\Kangoro - Animal_RAW\54_LeadVox2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    55_LeadVox2DT.wav:
+      Track_path: Kangoro - Animal\Kangoro - Animal_RAW\55_LeadVox2DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    56_LeadVox3Hi.wav:
+      Track_path: Kangoro - Animal\Kangoro - Animal_RAW\56_LeadVox3Hi.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    57_LeadVox3Lo.wav:
+      Track_path: Kangoro - Animal\Kangoro - Animal_RAW\57_LeadVox3Lo.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Choir: {}
+  Backing_Vocal:
+    58_BackingVox01.wav:
+      Track_path: Kangoro - Animal\Kangoro - Animal_RAW\58_BackingVox01.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    59_BackingVox02.wav:
+      Track_path: Kangoro - Animal\Kangoro - Animal_RAW\59_BackingVox02.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    60_BackingVox03.wav:
+      Track_path: Kangoro - Animal\Kangoro - Animal_RAW\60_BackingVox03.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    61_BackingVox04.wav:
+      Track_path: Kangoro - Animal\Kangoro - Animal_RAW\61_BackingVox04.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    62_BackingVox05.wav:
+      Track_path: Kangoro - Animal\Kangoro - Animal_RAW\62_BackingVox05.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    63_BackingVox06.wav:
+      Track_path: Kangoro - Animal\Kangoro - Animal_RAW\63_BackingVox06.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    64_BackingVox07.wav:
+      Track_path: Kangoro - Animal\Kangoro - Animal_RAW\64_BackingVox07.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    65_BackingVox08.wav:
+      Track_path: Kangoro - Animal\Kangoro - Animal_RAW\65_BackingVox08.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    66_BackingVox09.wav:
+      Track_path: Kangoro - Animal\Kangoro - Animal_RAW\66_BackingVox09.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    67_BackingVox10.wav:
+      Track_path: Kangoro - Animal\Kangoro - Animal_RAW\67_BackingVox10.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    68_BackingVox11.wav:
+      Track_path: Kangoro - Animal\Kangoro - Animal_RAW\68_BackingVox11.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    69_BackingVox12.wav:
+      Track_path: Kangoro - Animal\Kangoro - Animal_RAW\69_BackingVox12.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Unused: {}
+  Ambient_Microphone: {}

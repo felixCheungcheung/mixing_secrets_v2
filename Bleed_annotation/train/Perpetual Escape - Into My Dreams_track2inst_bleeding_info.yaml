@@ -1,0 +1,158 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer: {}
+  SFX:
+    15_SFX.wav:
+      Track_path: Perpetual Escape - Into My Dreams\Perpetual Escape - Into My Dreams_RAW\15_SFX.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    01_KickIn.wav:
+      Track_path: Perpetual Escape - Into My Dreams\Perpetual Escape - Into My Dreams_RAW\01_KickIn.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    02_KickSub.wav:
+      Track_path: Perpetual Escape - Into My Dreams\Perpetual Escape - Into My Dreams_RAW\02_KickSub.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_Snare:
+    03_Snare1Up.wav:
+      Track_path: Perpetual Escape - Into My Dreams\Perpetual Escape - Into My Dreams_RAW\03_Snare1Up.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    04_Snare1Down.wav:
+      Track_path: Perpetual Escape - Into My Dreams\Perpetual Escape - Into My Dreams_RAW\04_Snare1Down.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    05_Snare2Up.wav:
+      Track_path: Perpetual Escape - Into My Dreams\Perpetual Escape - Into My Dreams_RAW\05_Snare2Up.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_HiHat:
+    06_HiHat.wav:
+      Track_path: Perpetual Escape - Into My Dreams\Perpetual Escape - Into My Dreams_RAW\06_HiHat.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_Cymbals: {}
+  Drum_Overheads:
+    07_Overheads.wav:
+      Track_path: Perpetual Escape - Into My Dreams\Perpetual Escape - Into My Dreams_RAW\07_Overheads.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Tom:
+    10_Tom1.wav:
+      Track_path: Perpetual Escape - Into My Dreams\Perpetual Escape - Into My Dreams_RAW\10_Tom1.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    11_Tom2.wav:
+      Track_path: Perpetual Escape - Into My Dreams\Perpetual Escape - Into My Dreams_RAW\11_Tom2.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    12_Tom3.wav:
+      Track_path: Perpetual Escape - Into My Dreams\Perpetual Escape - Into My Dreams_RAW\12_Tom3.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    13_Tom4.wav:
+      Track_path: Perpetual Escape - Into My Dreams\Perpetual Escape - Into My Dreams_RAW\13_Tom4.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    14_Tom5.wav:
+      Track_path: Perpetual Escape - Into My Dreams\Perpetual Escape - Into My Dreams_RAW\14_Tom5.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_Room:
+    08_DrumsRoom1.wav:
+      Track_path: Perpetual Escape - Into My Dreams\Perpetual Escape - Into My Dreams_RAW\08_DrumsRoom1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    09_DrumsRoom2.wav:
+      Track_path: Perpetual Escape - Into My Dreams\Perpetual Escape - Into My Dreams_RAW\09_DrumsRoom2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop: {}
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong:
+    16_Gong.wav:
+      Track_path: Perpetual Escape - Into My Dreams\Perpetual Escape - Into My Dreams_RAW\16_Gong.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass: {}
+  Electric_Bass:
+    17_BassDI.wav:
+      Track_path: Perpetual Escape - Into My Dreams\Perpetual Escape - Into My Dreams_RAW\17_BassDI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Acoustic_Guitar: {}
+  Electric_Guitar: {}
+  Piano: {}
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal: {}
+  Choir: {}
+  Backing_Vocal: {}
+  Unused: {}
+  Ambient_Microphone: {}

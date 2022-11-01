@@ -1,0 +1,243 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer: {}
+  SFX: {}
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    01_Kick.wav:
+      Track_path: North To Alaska - All The Same\North To Alaska - All The Same_RAW\01_Kick.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Snare:
+    02_Snare1.wav:
+      Track_path: North To Alaska - All The Same\North To Alaska - All The Same_RAW\02_Snare1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    03_Snare2.wav:
+      Track_path: North To Alaska - All The Same\North To Alaska - All The Same_RAW\03_Snare2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_HiHat: {}
+  Drum_Cymbals:
+    04_Cymbals1.wav:
+      Track_path: North To Alaska - All The Same\North To Alaska - All The Same_RAW\04_Cymbals1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    05_Cymbals2.wav:
+      Track_path: North To Alaska - All The Same\North To Alaska - All The Same_RAW\05_Cymbals2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Overheads: {}
+  Drum_Tom: {}
+  Drum_Room: {}
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop: {}
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass: {}
+  Electric_Bass:
+    06_Bass.wav:
+      Track_path: North To Alaska - All The Same\North To Alaska - All The Same_RAW\06_Bass.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Acoustic_Guitar: {}
+  Electric_Guitar:
+    07_ElecGtr01.wav:
+      Track_path: North To Alaska - All The Same\North To Alaska - All The Same_RAW\07_ElecGtr01.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    08_ElecGtr02.wav:
+      Track_path: North To Alaska - All The Same\North To Alaska - All The Same_RAW\08_ElecGtr02.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    09_ElecGtr03.wav:
+      Track_path: North To Alaska - All The Same\North To Alaska - All The Same_RAW\09_ElecGtr03.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    10_ElecGtr04.wav:
+      Track_path: North To Alaska - All The Same\North To Alaska - All The Same_RAW\10_ElecGtr04.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    11_ElecGtr05.wav:
+      Track_path: North To Alaska - All The Same\North To Alaska - All The Same_RAW\11_ElecGtr05.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    12_ElecGtr06.wav:
+      Track_path: North To Alaska - All The Same\North To Alaska - All The Same_RAW\12_ElecGtr06.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    13_ElecGtr07.wav:
+      Track_path: North To Alaska - All The Same\North To Alaska - All The Same_RAW\13_ElecGtr07.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    14_ElecGtr08.wav:
+      Track_path: North To Alaska - All The Same\North To Alaska - All The Same_RAW\14_ElecGtr08.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    15_ElecGtr09.wav:
+      Track_path: North To Alaska - All The Same\North To Alaska - All The Same_RAW\15_ElecGtr09.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    16_ElecGtr10.wav:
+      Track_path: North To Alaska - All The Same\North To Alaska - All The Same_RAW\16_ElecGtr10.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    17_ElecGtr11.wav:
+      Track_path: North To Alaska - All The Same\North To Alaska - All The Same_RAW\17_ElecGtr11.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    18_ElecGtr12.wav:
+      Track_path: North To Alaska - All The Same\North To Alaska - All The Same_RAW\18_ElecGtr12.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    19_ElecGtr13.wav:
+      Track_path: North To Alaska - All The Same\North To Alaska - All The Same_RAW\19_ElecGtr13.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    20_ElecGtr14.wav:
+      Track_path: North To Alaska - All The Same\North To Alaska - All The Same_RAW\20_ElecGtr14.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    21_ElecGtr15.wav:
+      Track_path: North To Alaska - All The Same\North To Alaska - All The Same_RAW\21_ElecGtr15.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    22_ElecGtr12DI.wav:
+      Track_path: North To Alaska - All The Same\North To Alaska - All The Same_RAW\22_ElecGtr12DI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    23_ElecGtr13DI.wav:
+      Track_path: North To Alaska - All The Same\North To Alaska - All The Same_RAW\23_ElecGtr13DI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    24_ElecGtr14DI.wav:
+      Track_path: North To Alaska - All The Same\North To Alaska - All The Same_RAW\24_ElecGtr14DI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    25_ElecGtr15DI.wav:
+      Track_path: North To Alaska - All The Same\North To Alaska - All The Same_RAW\25_ElecGtr15DI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    26_ElecGtr16.wav:
+      Track_path: North To Alaska - All The Same\North To Alaska - All The Same_RAW\26_ElecGtr16.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    27_ElecGtr17.wav:
+      Track_path: North To Alaska - All The Same\North To Alaska - All The Same_RAW\27_ElecGtr17.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    28_ElecGtr18.wav:
+      Track_path: North To Alaska - All The Same\North To Alaska - All The Same_RAW\28_ElecGtr18.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Piano: {}
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    29_LeadVox1.wav:
+      Track_path: North To Alaska - All The Same\North To Alaska - All The Same_RAW\29_LeadVox1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    30_LeadVox1DT.wav:
+      Track_path: North To Alaska - All The Same\North To Alaska - All The Same_RAW\30_LeadVox1DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    31_LeadVox2.wav:
+      Track_path: North To Alaska - All The Same\North To Alaska - All The Same_RAW\31_LeadVox2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    32_LeadVox2DT1.wav:
+      Track_path: North To Alaska - All The Same\North To Alaska - All The Same_RAW\32_LeadVox2DT1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    33_LeadVox2DT2.wav:
+      Track_path: North To Alaska - All The Same\North To Alaska - All The Same_RAW\33_LeadVox2DT2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    34_LeadVox2DT3.wav:
+      Track_path: North To Alaska - All The Same\North To Alaska - All The Same_RAW\34_LeadVox2DT3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Choir: {}
+  Backing_Vocal: {}
+  Unused: {}
+  Ambient_Microphone: {}

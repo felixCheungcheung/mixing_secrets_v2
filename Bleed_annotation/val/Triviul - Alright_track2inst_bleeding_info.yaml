@@ -1,0 +1,153 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer:
+    07_SynthsAndSFX.wav:
+      Track_path: Triviul - Alright\Triviul - Alright_RAW\07_SynthsAndSFX.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  SFX: {}
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick: {}
+  Drum_Snare: {}
+  Drum_HiHat: {}
+  Drum_Cymbals:
+    02_Cymbals.wav:
+      Track_path: Triviul - Alright\Triviul - Alright_RAW\02_Cymbals.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Overheads:
+    01_Drums.wav:
+      Track_path: Triviul - Alright\Triviul - Alright_RAW\01_Drums.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Tom: {}
+  Drum_Room: {}
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop: {}
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion:
+    03_Percussion.wav:
+      Track_path: Triviul - Alright\Triviul - Alright_RAW\03_Percussion.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Synth_Bass:
+    04_Bass1.wav:
+      Track_path: Triviul - Alright\Triviul - Alright_RAW\04_Bass1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    05_Bass2.wav:
+      Track_path: Triviul - Alright\Triviul - Alright_RAW\05_Bass2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Electric_Bass: {}
+  Acoustic_Guitar: {}
+  Electric_Guitar:
+    06_Guitar.wav:
+      Track_path: Triviul - Alright\Triviul - Alright_RAW\06_Guitar.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Piano: {}
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section:
+    08_Strings.wav:
+      Track_path: Triviul - Alright\Triviul - Alright_RAW\08_Strings.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    09_VerseVox1.wav:
+      Track_path: Triviul - Alright\Triviul - Alright_RAW\09_VerseVox1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    11_VerseVox3.wav:
+      Track_path: Triviul - Alright\Triviul - Alright_RAW\11_VerseVox3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    13_VerseVox5.wav:
+      Track_path: Triviul - Alright\Triviul - Alright_RAW\13_VerseVox5.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    15_ChorusVox1.wav:
+      Track_path: Triviul - Alright\Triviul - Alright_RAW\15_ChorusVox1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Choir: {}
+  Backing_Vocal:
+    10_VerseVox2.wav:
+      Track_path: Triviul - Alright\Triviul - Alright_RAW\10_VerseVox2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    12_VerseVox4.wav:
+      Track_path: Triviul - Alright\Triviul - Alright_RAW\12_VerseVox4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    14_VerseVox6.wav:
+      Track_path: Triviul - Alright\Triviul - Alright_RAW\14_VerseVox6.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    16_ChorusVox2.wav:
+      Track_path: Triviul - Alright\Triviul - Alright_RAW\16_ChorusVox2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Unused: {}
+  Ambient_Microphone: {}

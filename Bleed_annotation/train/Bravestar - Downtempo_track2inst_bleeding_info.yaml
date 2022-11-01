@@ -1,0 +1,208 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer:
+    12_Synth.wav:
+      Track_path: Bravestar - Downtempo\Bravestar - Downtempo_RAW\12_Synth.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    01_MainLoop.wav:
+      Track_path: Bravestar - Downtempo\Bravestar - Downtempo_RAW\01_MainLoop.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  SFX:
+    16_SFX01.wav:
+      Track_path: Bravestar - Downtempo\Bravestar - Downtempo_RAW\16_SFX01.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    17_SFX02.wav:
+      Track_path: Bravestar - Downtempo\Bravestar - Downtempo_RAW\17_SFX02.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    18_SFX03.wav:
+      Track_path: Bravestar - Downtempo\Bravestar - Downtempo_RAW\18_SFX03.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    19_SFX04.wav:
+      Track_path: Bravestar - Downtempo\Bravestar - Downtempo_RAW\19_SFX04.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    20_SFX05.wav:
+      Track_path: Bravestar - Downtempo\Bravestar - Downtempo_RAW\20_SFX05.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    21_SFX06.wav:
+      Track_path: Bravestar - Downtempo\Bravestar - Downtempo_RAW\21_SFX06.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    22_SFX07.wav:
+      Track_path: Bravestar - Downtempo\Bravestar - Downtempo_RAW\22_SFX07.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    23_SFX08.wav:
+      Track_path: Bravestar - Downtempo\Bravestar - Downtempo_RAW\23_SFX08.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    24_SFX09.wav:
+      Track_path: Bravestar - Downtempo\Bravestar - Downtempo_RAW\24_SFX09.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    25_SFX10.wav:
+      Track_path: Bravestar - Downtempo\Bravestar - Downtempo_RAW\25_SFX10.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    26_SFX11.wav:
+      Track_path: Bravestar - Downtempo\Bravestar - Downtempo_RAW\26_SFX11.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp:
+    15_Harp.wav:
+      Track_path: Bravestar - Downtempo\Bravestar - Downtempo_RAW\15_Harp.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    02_KickLayer1.wav:
+      Track_path: Bravestar - Downtempo\Bravestar - Downtempo_RAW\02_KickLayer1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    03_KickLayer2.wav:
+      Track_path: Bravestar - Downtempo\Bravestar - Downtempo_RAW\03_KickLayer2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    04_KickLayer3.wav:
+      Track_path: Bravestar - Downtempo\Bravestar - Downtempo_RAW\04_KickLayer3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Snare:
+    05_Snare.wav:
+      Track_path: Bravestar - Downtempo\Bravestar - Downtempo_RAW\05_Snare.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_HiHat:
+    06_HiHat.wav:
+      Track_path: Bravestar - Downtempo\Bravestar - Downtempo_RAW\06_HiHat.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Cymbals:
+    07_Cymbal.wav:
+      Track_path: Bravestar - Downtempo\Bravestar - Downtempo_RAW\07_Cymbal.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Overheads: {}
+  Drum_Tom: {}
+  Drum_Room: {}
+  Shaker:
+    08_Shaker.wav:
+      Track_path: Bravestar - Downtempo\Bravestar - Downtempo_RAW\08_Shaker.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Taiko: {}
+  Timpani:
+    10_Timpani.wav:
+      Track_path: Bravestar - Downtempo\Bravestar - Downtempo_RAW\10_Timpani.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop:
+    01_MainLoop.wav:
+      Track_path: Bravestar - Downtempo\Bravestar - Downtempo_RAW\01_MainLoop.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion:
+    09_MetalHit.wav:
+      Track_path: Bravestar - Downtempo\Bravestar - Downtempo_RAW\09_MetalHit.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Synth_Bass:
+    11_Bass.wav:
+      Track_path: Bravestar - Downtempo\Bravestar - Downtempo_RAW\11_Bass.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Electric_Bass: {}
+  Acoustic_Guitar: {}
+  Electric_Guitar: {}
+  Piano: {}
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section:
+    13_Strings.wav:
+      Track_path: Bravestar - Downtempo\Bravestar - Downtempo_RAW\13_Strings.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal: {}
+  Choir:
+    14_Choir.wav:
+      Track_path: Bravestar - Downtempo\Bravestar - Downtempo_RAW\14_Choir.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Backing_Vocal: {}
+  Unused: {}
+  Ambient_Microphone: {}

@@ -1,0 +1,183 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer: {}
+  SFX: {}
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    Kick Drum.wav:
+      Track_path: All Hands Lost - Ambitions\All Hands Lost - Ambitions_RAW\Kick Drum.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_Snare:
+    Snare Bottom.wav:
+      Track_path: All Hands Lost - Ambitions\All Hands Lost - Ambitions_RAW\Snare
+        Bottom.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    Snare Top.wav:
+      Track_path: All Hands Lost - Ambitions\All Hands Lost - Ambitions_RAW\Snare
+        Top.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_HiHat:
+    Hi-Hat.wav:
+      Track_path: All Hands Lost - Ambitions\All Hands Lost - Ambitions_RAW\Hi-Hat.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_Cymbals:
+    Ride.wav:
+      Track_path: All Hands Lost - Ambitions\All Hands Lost - Ambitions_RAW\Ride.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_Overheads:
+    Overhead Left.wav:
+      Track_path: All Hands Lost - Ambitions\All Hands Lost - Ambitions_RAW\Overhead
+        Left.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Overhead Right.wav:
+      Track_path: All Hands Lost - Ambitions\All Hands Lost - Ambitions_RAW\Overhead
+        Right.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Tom:
+    Tom 1.wav:
+      Track_path: All Hands Lost - Ambitions\All Hands Lost - Ambitions_RAW\Tom 1.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    Tom 2.wav:
+      Track_path: All Hands Lost - Ambitions\All Hands Lost - Ambitions_RAW\Tom 2.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    Tom 3.wav:
+      Track_path: All Hands Lost - Ambitions\All Hands Lost - Ambitions_RAW\Tom 3.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    Tom 4.wav:
+      Track_path: All Hands Lost - Ambitions\All Hands Lost - Ambitions_RAW\Tom 4.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_Room:
+    Drum Room.wav:
+      Track_path: All Hands Lost - Ambitions\All Hands Lost - Ambitions_RAW\Drum Room.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop: {}
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass: {}
+  Electric_Bass:
+    Bass DI.wav:
+      Track_path: All Hands Lost - Ambitions\All Hands Lost - Ambitions_RAW\Bass DI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Bass Mic.wav:
+      Track_path: All Hands Lost - Ambitions\All Hands Lost - Ambitions_RAW\Bass Mic.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Acoustic_Guitar: {}
+  Electric_Guitar:
+    Guitar 1.wav:
+      Track_path: All Hands Lost - Ambitions\All Hands Lost - Ambitions_RAW\Guitar
+        1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Guitar 2.wav:
+      Track_path: All Hands Lost - Ambitions\All Hands Lost - Ambitions_RAW\Guitar
+        2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Guitar 3.wav:
+      Track_path: All Hands Lost - Ambitions\All Hands Lost - Ambitions_RAW\Guitar
+        3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Guitar 4.wav:
+      Track_path: All Hands Lost - Ambitions\All Hands Lost - Ambitions_RAW\Guitar
+        4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Piano: {}
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    Vocal 1.wav:
+      Track_path: All Hands Lost - Ambitions\All Hands Lost - Ambitions_RAW\Vocal
+        1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Vocal 2.wav:
+      Track_path: All Hands Lost - Ambitions\All Hands Lost - Ambitions_RAW\Vocal
+        2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Choir: {}
+  Backing_Vocal: {}
+  Unused: {}
+  Ambient_Microphone: {}

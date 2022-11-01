@@ -1,0 +1,109 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer: {}
+  SFX: {}
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick: {}
+  Drum_Snare: {}
+  Drum_HiHat: {}
+  Drum_Cymbals: {}
+  Drum_Overheads: {}
+  Drum_Tom: {}
+  Drum_Room: {}
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop: {}
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass: {}
+  Electric_Bass: {}
+  Acoustic_Guitar:
+    Acoustic Guitar-Ela M 260.wav:
+      Track_path: Pretty Saro - Carolina In The Pines\Pretty Saro - Carolina In The
+        Pines_RAW\Acoustic Guitar-Ela M 260.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Violin, Lead_Vocal'
+      Comment: ''
+    Mandolin-Ela M 251.wav:
+      Track_path: Pretty Saro - Carolina In The Pines\Pretty Saro - Carolina In The
+        Pines_RAW\Mandolin-Ela M 251.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Violin, Lead_Vocal'
+      Comment: ''
+  Electric_Guitar: {}
+  Piano: {}
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass:
+    Bass-M60.wav:
+      Track_path: Pretty Saro - Carolina In The Pines\Pretty Saro - Carolina In The
+        Pines_RAW\Bass-M60.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Acoustic_Guitar, Violin, Lead_Vocal'
+      Comment: ''
+  Violin:
+    Violin-C12.wav:
+      Track_path: Pretty Saro - Carolina In The Pines\Pretty Saro - Carolina In The
+        Pines_RAW\Violin-C12.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Acoustic_Guitar, Lead_Vocal'
+      Comment: ''
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal: {}
+  Choir: {}
+  Backing_Vocal: {}
+  Unused: {}
+  Ambient_Microphone:
+    Blumlein-AR51.wav:
+      Track_path: Pretty Saro - Carolina In The Pines\Pretty Saro - Carolina In The
+        Pines_RAW\Blumlein-AR51.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Chamber-M60.wav:
+      Track_path: Pretty Saro - Carolina In The Pines\Pretty Saro - Carolina In The
+        Pines_RAW\Chamber-M60.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: ''
+      Comment: ''

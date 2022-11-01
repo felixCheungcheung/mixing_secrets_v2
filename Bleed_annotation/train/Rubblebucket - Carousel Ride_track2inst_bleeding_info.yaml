@@ -1,0 +1,121 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer: {}
+  SFX: {}
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick: {}
+  Drum_Snare: {}
+  Drum_HiHat: {}
+  Drum_Cymbals: {}
+  Drum_Overheads:
+    Drums-Mono Over-AR51.wav:
+      Track_path: Rubblebucket - Carousel Ride\Rubblebucket - Carousel Ride_RAW\Drums-Mono
+        Over-AR51.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Acoustic_Guitar, Lead_Vocal, Trumpet, Trombone, Shaker'
+      Comment: ''
+  Drum_Tom:
+    Drums-Floor-M82.wav:
+      Track_path: Rubblebucket - Carousel Ride\Rubblebucket - Carousel Ride_RAW\Drums-Floor-M82.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Acoustic_Guitar, Lead_Vocal, Trumpet, Trombone, Shaker'
+      Comment: ''
+  Drum_Room:
+    Room-ELA M 251E.wav:
+      Track_path: Rubblebucket - Carousel Ride\Rubblebucket - Carousel Ride_RAW\Room-ELA
+        M 251E.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Acoustic_Guitar, Lead_Vocal, Backing_Vocal, Trumpet, Trombone, Shaker'
+      Comment: ''
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop: {}
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass: {}
+  Electric_Bass: {}
+  Acoustic_Guitar:
+    Acoustic Guitar-ELA M 260.wav:
+      Track_path: Rubblebucket - Carousel Ride\Rubblebucket - Carousel Ride_RAW\Acoustic
+        Guitar-ELA M 260.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Lead_Vocal, Backing_Vocal, Trumpet, Trombone, Shaker'
+      Comment: ''
+  Electric_Guitar: {}
+  Piano: {}
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet:
+    Horns-Trumpet-M81.wav:
+      Track_path: Rubblebucket - Carousel Ride\Rubblebucket - Carousel Ride_RAW\Horns-Trumpet-M81.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Acoustic_Guitar, Claps, Trombone, Drum_Overheads'
+      Comment: ''
+  French_Horn: {}
+  Trombone:
+    Horns-Bone-M81.wav:
+      Track_path: Rubblebucket - Carousel Ride\Rubblebucket - Carousel Ride_RAW\Horns-Bone-M81.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Acoustic_Guitar, Claps, Trumpet, Drum_Overheads'
+      Comment: ''
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    Vocals-Lead-CU29.wav:
+      Track_path: Rubblebucket - Carousel Ride\Rubblebucket - Carousel Ride_RAW\Vocals-Lead-CU29.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Acoustic_Guitar, Claps, Trombone, Trumpet, Drum_Overheads, Shaker'
+      Comment: ''
+  Choir: {}
+  Backing_Vocal:
+    Vocals-BV-M81.wav:
+      Track_path: Rubblebucket - Carousel Ride\Rubblebucket - Carousel Ride_RAW\Vocals-BV-M81.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Acoustic_Guitar, Claps, Trombone, Trumpet, Drum_Overheads, Shaker'
+      Comment: ''
+    Vocals-BV2-M81.wav:
+      Track_path: Rubblebucket - Carousel Ride\Rubblebucket - Carousel Ride_RAW\Vocals-BV2-M81.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Acoustic_Guitar, Claps, Trombone, Trumpet, Drum_Overheads, Shaker'
+      Comment: ''
+  Unused: {}
+  Ambient_Microphone: {}

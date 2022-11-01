@@ -1,0 +1,168 @@
+Track2inst:
+  Electric_Organ:
+    15_Hammond.wav:
+      Track_path: Spike Mullings - Mike's Sulking\Spike Mullings - Mike's Sulking_RAW\15_Hammond.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Synthesizer: {}
+  SFX: {}
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic:
+    16_Glock.wav:
+      Track_path: Spike Mullings - Mike's Sulking\Spike Mullings - Mike's Sulking_RAW\16_Glock.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Kick:
+    01_Kick.wav:
+      Track_path: Spike Mullings - Mike's Sulking\Spike Mullings - Mike's Sulking_RAW\01_Kick.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Snare:
+    03_SnareUp.wav:
+      Track_path: Spike Mullings - Mike's Sulking\Spike Mullings - Mike's Sulking_RAW\03_SnareUp.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    04_SnareDown.wav:
+      Track_path: Spike Mullings - Mike's Sulking\Spike Mullings - Mike's Sulking_RAW\04_SnareDown.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_HiHat:
+    02_HiHat.wav:
+      Track_path: Spike Mullings - Mike's Sulking\Spike Mullings - Mike's Sulking_RAW\02_HiHat.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Cymbals: {}
+  Drum_Overheads:
+    05_Overheads.wav:
+      Track_path: Spike Mullings - Mike's Sulking\Spike Mullings - Mike's Sulking_RAW\05_Overheads.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Tom:
+    07_Toms.wav:
+      Track_path: Spike Mullings - Mike's Sulking\Spike Mullings - Mike's Sulking_RAW\07_Toms.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Room:
+    06_DrumsRoom.wav:
+      Track_path: Spike Mullings - Mike's Sulking\Spike Mullings - Mike's Sulking_RAW\06_DrumsRoom.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine:
+    08_Tambourine.wav:
+      Track_path: Spike Mullings - Mike's Sulking\Spike Mullings - Mike's Sulking_RAW\08_Tambourine.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Loop: {}
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass: {}
+  Electric_Bass:
+    09_BassDI.wav:
+      Track_path: Spike Mullings - Mike's Sulking\Spike Mullings - Mike's Sulking_RAW\09_BassDI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    10_BassAmp.wav:
+      Track_path: Spike Mullings - Mike's Sulking\Spike Mullings - Mike's Sulking_RAW\10_BassAmp.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Acoustic_Guitar: {}
+  Electric_Guitar:
+    11_ElecGtr1.wav:
+      Track_path: Spike Mullings - Mike's Sulking\Spike Mullings - Mike's Sulking_RAW\11_ElecGtr1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    12_ElecGtr2.wav:
+      Track_path: Spike Mullings - Mike's Sulking\Spike Mullings - Mike's Sulking_RAW\12_ElecGtr2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    13_ElecGtr3.wav:
+      Track_path: Spike Mullings - Mike's Sulking\Spike Mullings - Mike's Sulking_RAW\13_ElecGtr3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    14_ElecGtr4.wav:
+      Track_path: Spike Mullings - Mike's Sulking\Spike Mullings - Mike's Sulking_RAW\14_ElecGtr4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Piano: {}
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    17_LeadVox.wav:
+      Track_path: Spike Mullings - Mike's Sulking\Spike Mullings - Mike's Sulking_RAW\17_LeadVox.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Choir: {}
+  Backing_Vocal:
+    18_BackingVox1.wav:
+      Track_path: Spike Mullings - Mike's Sulking\Spike Mullings - Mike's Sulking_RAW\18_BackingVox1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    19_BackingVox2.wav:
+      Track_path: Spike Mullings - Mike's Sulking\Spike Mullings - Mike's Sulking_RAW\19_BackingVox2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Unused: {}
+  Ambient_Microphone: {}

@@ -1,0 +1,168 @@
+Track2inst:
+  Electric_Organ:
+    14_Hammond.wav:
+      Track_path: Random Somebody - Crazy For Me\Random Somebody - Crazy For Me_RAW\14_Hammond.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Synthesizer: {}
+  SFX: {}
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    01_Kick.wav:
+      Track_path: Random Somebody - Crazy For Me\Random Somebody - Crazy For Me_RAW\01_Kick.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_Snare:
+    02_SnareUp.wav:
+      Track_path: Random Somebody - Crazy For Me\Random Somebody - Crazy For Me_RAW\02_SnareUp.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    03_SnareDown.wav:
+      Track_path: Random Somebody - Crazy For Me\Random Somebody - Crazy For Me_RAW\03_SnareDown.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_HiHat:
+    04_HiHat.wav:
+      Track_path: Random Somebody - Crazy For Me\Random Somebody - Crazy For Me_RAW\04_HiHat.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_Cymbals: {}
+  Drum_Overheads:
+    05_Overheads.wav:
+      Track_path: Random Somebody - Crazy For Me\Random Somebody - Crazy For Me_RAW\05_Overheads.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Tom:
+    07_Tom1.wav:
+      Track_path: Random Somebody - Crazy For Me\Random Somebody - Crazy For Me_RAW\07_Tom1.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    08_Tom2.wav:
+      Track_path: Random Somebody - Crazy For Me\Random Somebody - Crazy For Me_RAW\08_Tom2.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    09_Tom3.wav:
+      Track_path: Random Somebody - Crazy For Me\Random Somebody - Crazy For Me_RAW\09_Tom3.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_Room:
+    06_DrumsRoom.wav:
+      Track_path: Random Somebody - Crazy For Me\Random Somebody - Crazy For Me_RAW\06_DrumsRoom.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop: {}
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass: {}
+  Electric_Bass:
+    10_Bass.wav:
+      Track_path: Random Somebody - Crazy For Me\Random Somebody - Crazy For Me_RAW\10_Bass.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Acoustic_Guitar:
+    13_AcousticGtr.wav:
+      Track_path: Random Somebody - Crazy For Me\Random Somebody - Crazy For Me_RAW\13_AcousticGtr.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Electric_Guitar:
+    11_ElecGtr1.wav:
+      Track_path: Random Somebody - Crazy For Me\Random Somebody - Crazy For Me_RAW\11_ElecGtr1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    12_ElecGtr2.wav:
+      Track_path: Random Somebody - Crazy For Me\Random Somebody - Crazy For Me_RAW\12_ElecGtr2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Piano: {}
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet:
+    15_Trumpet1.wav:
+      Track_path: Random Somebody - Crazy For Me\Random Somebody - Crazy For Me_RAW\15_Trumpet1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    16_Trumpet2.wav:
+      Track_path: Random Somebody - Crazy For Me\Random Somebody - Crazy For Me_RAW\16_Trumpet2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    17_Trumpet3.wav:
+      Track_path: Random Somebody - Crazy For Me\Random Somebody - Crazy For Me_RAW\17_Trumpet3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  French_Horn: {}
+  Trombone:
+    18_MIDITrombone.wav:
+      Track_path: Random Somebody - Crazy For Me\Random Somebody - Crazy For Me_RAW\18_MIDITrombone.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    19_LeadVox.wav:
+      Track_path: Random Somebody - Crazy For Me\Random Somebody - Crazy For Me_RAW\19_LeadVox.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Choir: {}
+  Backing_Vocal: {}
+  Unused: {}
+  Ambient_Microphone: {}

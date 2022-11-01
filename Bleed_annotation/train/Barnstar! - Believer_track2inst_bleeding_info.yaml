@@ -1,0 +1,129 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer: {}
+  SFX: {}
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick: {}
+  Drum_Snare: {}
+  Drum_HiHat: {}
+  Drum_Cymbals: {}
+  Drum_Overheads: {}
+  Drum_Tom: {}
+  Drum_Room: {}
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop: {}
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass: {}
+  Electric_Bass: {}
+  Acoustic_Guitar:
+    Acoustic Guitar-Ela M 260.wav:
+      Track_path: Barnstar! - Believer\Barnstar! - Believer_RAW\Acoustic Guitar-Ela
+        M 260.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Banjo-CU29.wav:
+      Track_path: Barnstar! - Believer\Barnstar! - Believer_RAW\Banjo-CU29.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Mandolin-Ela M 251.wav:
+      Track_path: Barnstar! - Believer\Barnstar! - Believer_RAW\Mandolin-Ela M 251.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Electric_Guitar: {}
+  Piano: {}
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass:
+    Bass-Active DI.wav:
+      Track_path: Barnstar! - Believer\Barnstar! - Believer_RAW\Bass-Active DI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Bass-M60.wav:
+      Track_path: Barnstar! - Believer\Barnstar! - Believer_RAW\Bass-M60.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Violin:
+    Violin-C12.wav:
+      Track_path: Barnstar! - Believer\Barnstar! - Believer_RAW\Violin-C12.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    Vocals-Acoustic Guitar-Proto.wav:
+      Track_path: Barnstar! - Believer\Barnstar! - Believer_RAW\Vocals-Acoustic Guitar-Proto.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Choir: {}
+  Backing_Vocal:
+    Vocals-Banjo-Proto.wav:
+      Track_path: Barnstar! - Believer\Barnstar! - Believer_RAW\Vocals-Banjo-Proto.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Vocals-Bass-Proto.wav:
+      Track_path: Barnstar! - Believer\Barnstar! - Believer_RAW\Vocals-Bass-Proto.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Vocals-Mando-Proto.wav:
+      Track_path: Barnstar! - Believer\Barnstar! - Believer_RAW\Vocals-Mando-Proto.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Unused: {}
+  Ambient_Microphone:
+    Room-AR70.wav:
+      Track_path: Barnstar! - Believer\Barnstar! - Believer_RAW\Room-AR70.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: ''
+      Comment: ''

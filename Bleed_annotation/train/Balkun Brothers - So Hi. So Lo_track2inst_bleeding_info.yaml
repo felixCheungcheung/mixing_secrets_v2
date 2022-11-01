@@ -1,0 +1,187 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer: {}
+  SFX: {}
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    Drums-Kick In-M82.wav:
+      Track_path: Balkun Brothers - So Hi. So Lo\Balkun Brothers - So Hi. So Lo_RAW\Drums-Kick
+        In-M82.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Lead_Vocal, Drum_Overheads'
+      Comment: ''
+    Drums-Kick Out-CU29.wav:
+      Track_path: Balkun Brothers - So Hi. So Lo\Balkun Brothers - So Hi. So Lo_RAW\Drums-Kick
+        Out-CU29.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Lead_Vocal, Drum_Overheads'
+      Comment: ''
+    Drums-Kick Out-Proto 647.wav:
+      Track_path: Balkun Brothers - So Hi. So Lo\Balkun Brothers - So Hi. So Lo_RAW\Drums-Kick
+        Out-Proto 647.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Lead_Vocal, Drum_Overheads'
+      Comment: ''
+    Drums-Sample-Passive DI.wav:
+      Track_path: Balkun Brothers - So Hi. So Lo\Balkun Brothers - So Hi. So Lo_RAW\Drums-Sample-Passive
+        DI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Snare:
+    Drums-Snare Bottom-M80.wav:
+      Track_path: Balkun Brothers - So Hi. So Lo\Balkun Brothers - So Hi. So Lo_RAW\Drums-Snare
+        Bottom-M80.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Lead_Vocal, Drum_Overheads'
+      Comment: ''
+    Drums-Snare Top-M81.wav:
+      Track_path: Balkun Brothers - So Hi. So Lo\Balkun Brothers - So Hi. So Lo_RAW\Drums-Snare
+        Top-M81.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Lead_Vocal, Drum_Overheads'
+      Comment: ''
+  Drum_HiHat:
+    Drums-Hat-ELA M 260.wav:
+      Track_path: Balkun Brothers - So Hi. So Lo\Balkun Brothers - So Hi. So Lo_RAW\Drums-Hat-ELA
+        M 260.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Lead_Vocal, Drum_Overheads'
+      Comment: ''
+  Drum_Cymbals: {}
+  Drum_Overheads:
+    Drums-Overhead-ELA M 250.wav:
+      Track_path: Balkun Brothers - So Hi. So Lo\Balkun Brothers - So Hi. So Lo_RAW\Drums-Overhead-ELA
+        M 250.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Lead_Vocal'
+      Comment: ''
+  Drum_Tom:
+    Drums-Rack-M81.wav:
+      Track_path: Balkun Brothers - So Hi. So Lo\Balkun Brothers - So Hi. So Lo_RAW\Drums-Rack-M81.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Lead_Vocal, Drum_Overheads'
+      Comment: ''
+  Drum_Room:
+    Drums-Floor Mic-M81.wav:
+      Track_path: Balkun Brothers - So Hi. So Lo\Balkun Brothers - So Hi. So Lo_RAW\Drums-Floor
+        Mic-M81.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Lead_Vocal'
+      Comment: ''
+    Drums-Floor-M81.wav:
+      Track_path: Balkun Brothers - So Hi. So Lo\Balkun Brothers - So Hi. So Lo_RAW\Drums-Floor-M81.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Lead_Vocal'
+      Comment: ''
+    Drums-Room-M60.wav:
+      Track_path: Balkun Brothers - So Hi. So Lo\Balkun Brothers - So Hi. So Lo_RAW\Drums-Room-M60.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Lead_Vocal'
+      Comment: ''
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop: {}
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass: {}
+  Electric_Bass:
+    Bass-Active DI.wav:
+      Track_path: Balkun Brothers - So Hi. So Lo\Balkun Brothers - So Hi. So Lo_RAW\Bass-Active
+        DI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Bass-Mic-M82.wav:
+      Track_path: Balkun Brothers - So Hi. So Lo\Balkun Brothers - So Hi. So Lo_RAW\Bass-Mic-M82.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Acoustic_Guitar: {}
+  Electric_Guitar:
+    ELE Guitar-Con-CU29.wav:
+      Track_path: Balkun Brothers - So Hi. So Lo\Balkun Brothers - So Hi. So Lo_RAW\ELE
+        Guitar-Con-CU29.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    ELE Guitar-Dyn-M81.wav:
+      Track_path: Balkun Brothers - So Hi. So Lo\Balkun Brothers - So Hi. So Lo_RAW\ELE
+        Guitar-Dyn-M81.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    ELE Guitar-Shelf Mic-AR51.wav:
+      Track_path: Balkun Brothers - So Hi. So Lo\Balkun Brothers - So Hi. So Lo_RAW\ELE
+        Guitar-Shelf Mic-AR51.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Piano: {}
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    Vocals-Clean-M81.wav:
+      Track_path: Balkun Brothers - So Hi. So Lo\Balkun Brothers - So Hi. So Lo_RAW\Vocals-Clean-M81.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads'
+      Comment: ''
+    Vocals-EFX-Shure 520DX.wav:
+      Track_path: Balkun Brothers - So Hi. So Lo\Balkun Brothers - So Hi. So Lo_RAW\Vocals-EFX-Shure
+        520DX.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads'
+      Comment: ''
+  Choir: {}
+  Backing_Vocal: {}
+  Unused:
+    Vocals-Drums-M81.wav:
+      Track_path: Balkun Brothers - So Hi. So Lo\Balkun Brothers - So Hi. So Lo_RAW\Vocals-Drums-M81.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads'
+      Comment: 'huge'
+  Ambient_Microphone: {}

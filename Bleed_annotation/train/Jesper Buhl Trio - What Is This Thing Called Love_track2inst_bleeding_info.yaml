@@ -1,0 +1,109 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer: {}
+  SFX: {}
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    01_KickInside.wav:
+      Track_path: Jesper Buhl Trio - What Is This Thing Called Love\Jesper Buhl Trio
+        - What Is This Thing Called Love_RAW\01_KickInside.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads, Piano'
+      Comment: ''
+    02_KickBeater.wav:
+      Track_path: Jesper Buhl Trio - What Is This Thing Called Love\Jesper Buhl Trio
+        - What Is This Thing Called Love_RAW\02_KickBeater.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads, Piano'
+      Comment: ''
+  Drum_Snare:
+    03_Snare.wav:
+      Track_path: Jesper Buhl Trio - What Is This Thing Called Love\Jesper Buhl Trio
+        - What Is This Thing Called Love_RAW\03_Snare.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads, Piano'
+      Comment: ''
+  Drum_HiHat: {}
+  Drum_Cymbals: {}
+  Drum_Overheads:
+    04_Overheads.wav:
+      Track_path: Jesper Buhl Trio - What Is This Thing Called Love\Jesper Buhl Trio
+        - What Is This Thing Called Love_RAW\04_Overheads.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Piano'
+      Comment: ''
+  Drum_Tom: {}
+  Drum_Room: {}
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop: {}
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass: {}
+  Electric_Bass:
+    05_Bass.wav:
+      Track_path: Jesper Buhl Trio - What Is This Thing Called Love\Jesper Buhl Trio
+        - What Is This Thing Called Love_RAW\05_Bass.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads, Piano'
+      Comment: ''
+  Acoustic_Guitar: {}
+  Electric_Guitar: {}
+  Piano:
+    06_Piano.wav:
+      Track_path: Jesper Buhl Trio - What Is This Thing Called Love\Jesper Buhl Trio
+        - What Is This Thing Called Love_RAW\06_Piano.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads, Lead_Vocal'
+      Comment: 'player is humming while playing'
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal: {}
+  Choir: {}
+  Backing_Vocal: {}
+  Unused: {}
+  Ambient_Microphone: {}

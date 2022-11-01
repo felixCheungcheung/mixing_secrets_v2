@@ -1,0 +1,228 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer:
+    31_Synth.wav:
+      Track_path: Imp Act - Another Life\Imp Act - Another Life_RAW\31_Synth.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  SFX: {}
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    01_KickIn.wav:
+      Track_path: Imp Act - Another Life\Imp Act - Another Life_RAW\01_KickIn.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads'
+      Comment: ''
+    02_KickOut.wav:
+      Track_path: Imp Act - Another Life\Imp Act - Another Life_RAW\02_KickOut.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads'
+      Comment: ''
+  Drum_Snare:
+    03_SnareUp.wav:
+      Track_path: Imp Act - Another Life\Imp Act - Another Life_RAW\03_SnareUp.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads'
+      Comment: ''
+    04_SnareDown.wav:
+      Track_path: Imp Act - Another Life\Imp Act - Another Life_RAW\04_SnareDown.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads'
+      Comment: ''
+  Drum_HiHat: {}
+  Drum_Cymbals:
+    08_Ride.wav:
+      Track_path: Imp Act - Another Life\Imp Act - Another Life_RAW\08_Ride.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads'
+      Comment: ''
+    10_ReverseCymbal.wav:
+      Track_path: Imp Act - Another Life\Imp Act - Another Life_RAW\10_ReverseCymbal.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Overheads:
+    09_Overheads.wav:
+      Track_path: Imp Act - Another Life\Imp Act - Another Life_RAW\09_Overheads.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Tom:
+    05_Tom1.wav:
+      Track_path: Imp Act - Another Life\Imp Act - Another Life_RAW\05_Tom1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    06_Tom2.wav:
+      Track_path: Imp Act - Another Life\Imp Act - Another Life_RAW\06_Tom2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    07_Tom3.wav:
+      Track_path: Imp Act - Another Life\Imp Act - Another Life_RAW\07_Tom3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Room: {}
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop: {}
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass: {}
+  Electric_Bass:
+    11_BassAmp.wav:
+      Track_path: Imp Act - Another Life\Imp Act - Another Life_RAW\11_BassAmp.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    12_BassDI.wav:
+      Track_path: Imp Act - Another Life\Imp Act - Another Life_RAW\12_BassDI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Acoustic_Guitar: {}
+  Electric_Guitar:
+    13_ElecGtr01.wav:
+      Track_path: Imp Act - Another Life\Imp Act - Another Life_RAW\13_ElecGtr01.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    14_ElecGtr02.wav:
+      Track_path: Imp Act - Another Life\Imp Act - Another Life_RAW\14_ElecGtr02.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    15_ElecGtr03.wav:
+      Track_path: Imp Act - Another Life\Imp Act - Another Life_RAW\15_ElecGtr03.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    16_ElecGtr04.wav:
+      Track_path: Imp Act - Another Life\Imp Act - Another Life_RAW\16_ElecGtr04.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    17_ElecGtr05Mics1.wav:
+      Track_path: Imp Act - Another Life\Imp Act - Another Life_RAW\17_ElecGtr05Mics1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    18_ElecGtr05Mics2.wav:
+      Track_path: Imp Act - Another Life\Imp Act - Another Life_RAW\18_ElecGtr05Mics2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    19_ElecGtr06.wav:
+      Track_path: Imp Act - Another Life\Imp Act - Another Life_RAW\19_ElecGtr06.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    20_ElecGtr06DT.wav:
+      Track_path: Imp Act - Another Life\Imp Act - Another Life_RAW\20_ElecGtr06DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    21_ElecGtr07.wav:
+      Track_path: Imp Act - Another Life\Imp Act - Another Life_RAW\21_ElecGtr07.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    22_ElecGtr07DT.wav:
+      Track_path: Imp Act - Another Life\Imp Act - Another Life_RAW\22_ElecGtr07DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    23_ElecGtr08.wav:
+      Track_path: Imp Act - Another Life\Imp Act - Another Life_RAW\23_ElecGtr08.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    24_ElecGtr08DT.wav:
+      Track_path: Imp Act - Another Life\Imp Act - Another Life_RAW\24_ElecGtr08DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    25_ElecGtr09.wav:
+      Track_path: Imp Act - Another Life\Imp Act - Another Life_RAW\25_ElecGtr09.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    26_ElecGtr10Ebow.wav:
+      Track_path: Imp Act - Another Life\Imp Act - Another Life_RAW\26_ElecGtr10Ebow.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Piano: {}
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section:
+    27_Strings1.wav:
+      Track_path: Imp Act - Another Life\Imp Act - Another Life_RAW\27_Strings1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    28_Strings2.wav:
+      Track_path: Imp Act - Another Life\Imp Act - Another Life_RAW\28_Strings2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    29_Strings3.wav:
+      Track_path: Imp Act - Another Life\Imp Act - Another Life_RAW\29_Strings3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    30_Strings4.wav:
+      Track_path: Imp Act - Another Life\Imp Act - Another Life_RAW\30_Strings4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal: {}
+  Choir: {}
+  Backing_Vocal: {}
+  Unused: {}
+  Ambient_Microphone: {}

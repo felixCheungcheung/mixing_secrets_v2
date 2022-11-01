@@ -1,0 +1,373 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer:
+    38_Synth1.wav:
+      Track_path: The Travelling Band - Passing Ships\The Travelling Band - Passing
+        Ships_RAW\38_Synth1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    39_Synth2.wav:
+      Track_path: The Travelling Band - Passing Ships\The Travelling Band - Passing
+        Ships_RAW\39_Synth2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  SFX: {}
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    01_KickMic1.wav:
+      Track_path: The Travelling Band - Passing Ships\The Travelling Band - Passing
+        Ships_RAW\01_KickMic1.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    02_KickMic2.wav:
+      Track_path: The Travelling Band - Passing Ships\The Travelling Band - Passing
+        Ships_RAW\02_KickMic2.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    03_KickSub.wav:
+      Track_path: The Travelling Band - Passing Ships\The Travelling Band - Passing
+        Ships_RAW\03_KickSub.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_Snare:
+    04_SnareUp.wav:
+      Track_path: The Travelling Band - Passing Ships\The Travelling Band - Passing
+        Ships_RAW\04_SnareUp.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    05_SnareDown.wav:
+      Track_path: The Travelling Band - Passing Ships\The Travelling Band - Passing
+        Ships_RAW\05_SnareDown.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_HiHat:
+    06_HiHat.wav:
+      Track_path: The Travelling Band - Passing Ships\The Travelling Band - Passing
+        Ships_RAW\06_HiHat.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_Cymbals:
+    07_Ride.wav:
+      Track_path: The Travelling Band - Passing Ships\The Travelling Band - Passing
+        Ships_RAW\07_Ride.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    13_CymbalsOD.wav:
+      Track_path: The Travelling Band - Passing Ships\The Travelling Band - Passing
+        Ships_RAW\13_CymbalsOD.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Overheads:
+    08_Overheads.wav:
+      Track_path: The Travelling Band - Passing Ships\The Travelling Band - Passing
+        Ships_RAW\08_Overheads.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Tom:
+    10_Tom1.wav:
+      Track_path: The Travelling Band - Passing Ships\The Travelling Band - Passing
+        Ships_RAW\10_Tom1.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    11_Tom2.wav:
+      Track_path: The Travelling Band - Passing Ships\The Travelling Band - Passing
+        Ships_RAW\11_Tom2.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    12_Tom3.wav:
+      Track_path: The Travelling Band - Passing Ships\The Travelling Band - Passing
+        Ships_RAW\12_Tom3.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_Room: {}
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop: {}
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass: {}
+  Electric_Bass:
+    14_BassDI.wav:
+      Track_path: The Travelling Band - Passing Ships\The Travelling Band - Passing
+        Ships_RAW\14_BassDI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Acoustic_Guitar:
+    30_AcousticGtr.wav:
+      Track_path: The Travelling Band - Passing Ships\The Travelling Band - Passing
+        Ships_RAW\30_AcousticGtr.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Electric_Guitar:
+    15_ElecGtr1Mic1.wav:
+      Track_path: The Travelling Band - Passing Ships\The Travelling Band - Passing
+        Ships_RAW\15_ElecGtr1Mic1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    16_ElecGtr1Mic2.wav:
+      Track_path: The Travelling Band - Passing Ships\The Travelling Band - Passing
+        Ships_RAW\16_ElecGtr1Mic2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    17_ElecGtr2Mic1.wav:
+      Track_path: The Travelling Band - Passing Ships\The Travelling Band - Passing
+        Ships_RAW\17_ElecGtr2Mic1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    18_ElecGtr2Mic2.wav:
+      Track_path: The Travelling Band - Passing Ships\The Travelling Band - Passing
+        Ships_RAW\18_ElecGtr2Mic2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    19_ElecGtr2DI.wav:
+      Track_path: The Travelling Band - Passing Ships\The Travelling Band - Passing
+        Ships_RAW\19_ElecGtr2DI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    20_ElecGtr3Mic1.wav:
+      Track_path: The Travelling Band - Passing Ships\The Travelling Band - Passing
+        Ships_RAW\20_ElecGtr3Mic1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    21_ElecGtr3Mic2.wav:
+      Track_path: The Travelling Band - Passing Ships\The Travelling Band - Passing
+        Ships_RAW\21_ElecGtr3Mic2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    22_ElecGtr3DI.wav:
+      Track_path: The Travelling Band - Passing Ships\The Travelling Band - Passing
+        Ships_RAW\22_ElecGtr3DI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    23_ElecGtr4Mic1.wav:
+      Track_path: The Travelling Band - Passing Ships\The Travelling Band - Passing
+        Ships_RAW\23_ElecGtr4Mic1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    24_ElecGtr4Mic2.wav:
+      Track_path: The Travelling Band - Passing Ships\The Travelling Band - Passing
+        Ships_RAW\24_ElecGtr4Mic2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    25_ElecGtr4DI.wav:
+      Track_path: The Travelling Band - Passing Ships\The Travelling Band - Passing
+        Ships_RAW\25_ElecGtr4DI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    26_ElecGtr5.wav:
+      Track_path: The Travelling Band - Passing Ships\The Travelling Band - Passing
+        Ships_RAW\26_ElecGtr5.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    27_ElecGtr6Mic1.wav:
+      Track_path: The Travelling Band - Passing Ships\The Travelling Band - Passing
+        Ships_RAW\27_ElecGtr6Mic1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    28_ElecGtr6Mic2.wav:
+      Track_path: The Travelling Band - Passing Ships\The Travelling Band - Passing
+        Ships_RAW\28_ElecGtr6Mic2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    29_ElecGtr6DI.wav:
+      Track_path: The Travelling Band - Passing Ships\The Travelling Band - Passing
+        Ships_RAW\29_ElecGtr6DI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Piano:
+    35_PianoMic1.wav:
+      Track_path: The Travelling Band - Passing Ships\The Travelling Band - Passing
+        Ships_RAW\35_PianoMic1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    36_PianoMic2.wav:
+      Track_path: The Travelling Band - Passing Ships\The Travelling Band - Passing
+        Ships_RAW\36_PianoMic2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    37_PianoRoom.wav:
+      Track_path: The Travelling Band - Passing Ships\The Travelling Band - Passing
+        Ships_RAW\37_PianoRoom.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello:
+    31_Cello1Mic1.wav:
+      Track_path: The Travelling Band - Passing Ships\The Travelling Band - Passing
+        Ships_RAW\31_Cello1Mic1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    32_Cello1Mic2.wav:
+      Track_path: The Travelling Band - Passing Ships\The Travelling Band - Passing
+        Ships_RAW\32_Cello1Mic2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    33_Cello2Mic1.wav:
+      Track_path: The Travelling Band - Passing Ships\The Travelling Band - Passing
+        Ships_RAW\33_Cello2Mic1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    34_Cello2Mic2.wav:
+      Track_path: The Travelling Band - Passing Ships\The Travelling Band - Passing
+        Ships_RAW\34_Cello2Mic2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    40_LeadVox.wav:
+      Track_path: The Travelling Band - Passing Ships\The Travelling Band - Passing
+        Ships_RAW\40_LeadVox.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    41_LeadVoxRoom.wav:
+      Track_path: The Travelling Band - Passing Ships\The Travelling Band - Passing
+        Ships_RAW\41_LeadVoxRoom.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Choir: {}
+  Backing_Vocal:
+    42_BackingVox1.wav:
+      Track_path: The Travelling Band - Passing Ships\The Travelling Band - Passing
+        Ships_RAW\42_BackingVox1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    43_BackingVox2.wav:
+      Track_path: The Travelling Band - Passing Ships\The Travelling Band - Passing
+        Ships_RAW\43_BackingVox2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    44_BackingVox3.wav:
+      Track_path: The Travelling Band - Passing Ships\The Travelling Band - Passing
+        Ships_RAW\44_BackingVox3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    45_BackingVox4.wav:
+      Track_path: The Travelling Band - Passing Ships\The Travelling Band - Passing
+        Ships_RAW\45_BackingVox4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    46_BackingVox5.wav:
+      Track_path: The Travelling Band - Passing Ships\The Travelling Band - Passing
+        Ships_RAW\46_BackingVox5.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    47_BackingVox6.wav:
+      Track_path: The Travelling Band - Passing Ships\The Travelling Band - Passing
+        Ships_RAW\47_BackingVox6.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    48_BackingVox7.wav:
+      Track_path: The Travelling Band - Passing Ships\The Travelling Band - Passing
+        Ships_RAW\48_BackingVox7.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    49_BackingVox8.wav:
+      Track_path: The Travelling Band - Passing Ships\The Travelling Band - Passing
+        Ships_RAW\49_BackingVox8.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    50_BackingVox9.wav:
+      Track_path: The Travelling Band - Passing Ships\The Travelling Band - Passing
+        Ships_RAW\50_BackingVox9.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Unused: {}
+  Ambient_Microphone:
+    09_DrumsRoom.wav:
+      Track_path: The Travelling Band - Passing Ships\The Travelling Band - Passing
+        Ships_RAW\09_DrumsRoom.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''

@@ -1,0 +1,162 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer: {}
+  SFX: {}
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    01_KickBeater.wav:
+      Track_path: Eduard Semenov - Big Man's Death\Eduard Semenov - Big Man's Death_RAW\01_KickBeater.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    02_KickOut.wav:
+      Track_path: Eduard Semenov - Big Man's Death\Eduard Semenov - Big Man's Death_RAW\02_KickOut.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Snare:
+    03_SnareUp.wav:
+      Track_path: Eduard Semenov - Big Man's Death\Eduard Semenov - Big Man's Death_RAW\03_SnareUp.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    04_SnareDown.wav:
+      Track_path: Eduard Semenov - Big Man's Death\Eduard Semenov - Big Man's Death_RAW\04_SnareDown.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_HiHat:
+    05_HiHat.wav:
+      Track_path: Eduard Semenov - Big Man's Death\Eduard Semenov - Big Man's Death_RAW\05_HiHat.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Cymbals:
+    08_Cymbal1.wav:
+      Track_path: Eduard Semenov - Big Man's Death\Eduard Semenov - Big Man's Death_RAW\08_Cymbal1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    09_Cymbal2.wav:
+      Track_path: Eduard Semenov - Big Man's Death\Eduard Semenov - Big Man's Death_RAW\09_Cymbal2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Overheads: {}
+  Drum_Tom:
+    06_Tom1.wav:
+      Track_path: Eduard Semenov - Big Man's Death\Eduard Semenov - Big Man's Death_RAW\06_Tom1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    07_Tom2.wav:
+      Track_path: Eduard Semenov - Big Man's Death\Eduard Semenov - Big Man's Death_RAW\07_Tom2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Room: {}
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop: {}
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass: {}
+  Electric_Bass:
+    10_BassDI.wav:
+      Track_path: Eduard Semenov - Big Man's Death\Eduard Semenov - Big Man's Death_RAW\10_BassDI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    11_BassAmp.wav:
+      Track_path: Eduard Semenov - Big Man's Death\Eduard Semenov - Big Man's Death_RAW\11_BassAmp.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Acoustic_Guitar:
+    12_ AcousticGtr1Mic.wav:
+      Track_path: Eduard Semenov - Big Man's Death\Eduard Semenov - Big Man's Death_RAW\12_
+        AcousticGtr1Mic.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    13_ AcousticGtr1DI.wav:
+      Track_path: Eduard Semenov - Big Man's Death\Eduard Semenov - Big Man's Death_RAW\13_
+        AcousticGtr1DI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    14_ AcousticGtr2Mic.wav:
+      Track_path: Eduard Semenov - Big Man's Death\Eduard Semenov - Big Man's Death_RAW\14_
+        AcousticGtr2Mic.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    15_ AcousticGtr2DI.wav:
+      Track_path: Eduard Semenov - Big Man's Death\Eduard Semenov - Big Man's Death_RAW\15_
+        AcousticGtr2DI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Electric_Guitar: {}
+  Piano: {}
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    16_LeadVox.wav:
+      Track_path: Eduard Semenov - Big Man's Death\Eduard Semenov - Big Man's Death_RAW\16_LeadVox.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    17_LeadVoxFX.wav:
+      Track_path: Eduard Semenov - Big Man's Death\Eduard Semenov - Big Man's Death_RAW\17_LeadVoxFX.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Choir: {}
+  Backing_Vocal: {}
+  Unused: {}
+  Ambient_Microphone: {}

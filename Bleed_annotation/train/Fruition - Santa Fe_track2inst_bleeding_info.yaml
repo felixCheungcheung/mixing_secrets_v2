@@ -1,0 +1,154 @@
+Track2inst:
+  Electric_Organ:
+    Keys-Amp-M81.wav:
+      Track_path: Fruition - Santa Fe\Fruition - Santa Fe_RAW\Keys-Amp-M81.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Synthesizer: {}
+  SFX: {}
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    Drums-Kick in-M82.wav:
+      Track_path: Fruition - Santa Fe\Fruition - Santa Fe_RAW\Drums-Kick in-M82.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads, Lead_Vocal, Backing_Vocal'
+      Comment: ''
+    Drums-Kick out-CU29.wav:
+      Track_path: Fruition - Santa Fe\Fruition - Santa Fe_RAW\Drums-Kick out-CU29.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads, Lead_Vocal, Backing_Vocal'
+      Comment: ''
+  Drum_Snare:
+    Drums-Snare bottom-M80.wav:
+      Track_path: Fruition - Santa Fe\Fruition - Santa Fe_RAW\Drums-Snare bottom-M80.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads, Lead_Vocal, Backing_Vocal'
+      Comment: ''
+    Drums-Snare top-M81.wav:
+      Track_path: Fruition - Santa Fe\Fruition - Santa Fe_RAW\Drums-Snare top-M81.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads, Lead_Vocal, Backing_Vocal'
+      Comment: ''
+  Drum_HiHat: {}
+  Drum_Cymbals: {}
+  Drum_Overheads:
+    Drums-Chamber-M81.wav:
+      Track_path: Fruition - Santa Fe\Fruition - Santa Fe_RAW\Drums-Chamber-M81.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Lead_Vocal, Backing_Vocal'
+      Comment: ''
+    Drums-Overhead-ELA M 260.wav:
+      Track_path: Fruition - Santa Fe\Fruition - Santa Fe_RAW\Drums-Overhead-ELA M
+        260.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Lead_Vocal, Backing_Vocal'
+      Comment: ''
+  Drum_Tom:
+    Drums-Floor-M81.wav:
+      Track_path: Fruition - Santa Fe\Fruition - Santa Fe_RAW\Drums-Floor-M81.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads, Lead_Vocal, Backing_Vocal'
+      Comment: ''
+    Drums-Rack-M81.wav:
+      Track_path: Fruition - Santa Fe\Fruition - Santa Fe_RAW\Drums-Rack-M81.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads, Lead_Vocal, Backing_Vocal'
+      Comment: ''
+  Drum_Room:
+    Drums-Room-M60.wav:
+      Track_path: Fruition - Santa Fe\Fruition - Santa Fe_RAW\Drums-Room-M60.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Lead_Vocal, Backing_Vocal'
+      Comment: ''
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop: {}
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass: {}
+  Electric_Bass:
+    Bass-DI.wav:
+      Track_path: Fruition - Santa Fe\Fruition - Santa Fe_RAW\Bass-DI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Acoustic_Guitar: {}
+  Electric_Guitar:
+    ELE Guitar-Amp-M60.wav:
+      Track_path: Fruition - Santa Fe\Fruition - Santa Fe_RAW\ELE Guitar-Amp-M60.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    ELE Guitar-AMP2-CU29.wav:
+      Track_path: Fruition - Santa Fe\Fruition - Santa Fe_RAW\ELE Guitar-AMP2-CU29.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Piano: {}
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    Vocals-1-M80.wav:
+      Track_path: Fruition - Santa Fe\Fruition - Santa Fe_RAW\Vocals-1-M80.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads'
+      Comment: ''
+  Choir: {}
+  Backing_Vocal:
+    Vocals-2-M80.wav:
+      Track_path: Fruition - Santa Fe\Fruition - Santa Fe_RAW\Vocals-2-M80.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads, Lead_Vocal'
+      Comment: 'contians sound check in the end. Should cut off from 3:44'
+    Vocals-3-M80.wav:
+      Track_path: Fruition - Santa Fe\Fruition - Santa Fe_RAW\Vocals-3-M80.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads, Lead_Vocal'
+      Comment: 'contains verbal introduction in the beginning, 20 seconds'
+  Unused: {}
+  Ambient_Microphone: {}

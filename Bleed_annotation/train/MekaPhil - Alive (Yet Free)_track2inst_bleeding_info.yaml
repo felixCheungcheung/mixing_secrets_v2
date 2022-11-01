@@ -1,0 +1,223 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer:
+    18_Synth1.wav:
+      Track_path: MekaPhil - Alive (Yet Free)\MekaPhil - Alive (Yet Free)_RAW\18_Synth1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    19_Synth2.wav:
+      Track_path: MekaPhil - Alive (Yet Free)\MekaPhil - Alive (Yet Free)_RAW\19_Synth2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  SFX: {}
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    01_Kick.wav:
+      Track_path: MekaPhil - Alive (Yet Free)\MekaPhil - Alive (Yet Free)_RAW\01_Kick.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Snare:
+    02_Snare.wav:
+      Track_path: MekaPhil - Alive (Yet Free)\MekaPhil - Alive (Yet Free)_RAW\02_Snare.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_HiHat:
+    06_HiHat.wav:
+      Track_path: MekaPhil - Alive (Yet Free)\MekaPhil - Alive (Yet Free)_RAW\06_HiHat.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Cymbals: {}
+  Drum_Overheads:
+    07_DrumsSLR.wav:
+      Track_path: MekaPhil - Alive (Yet Free)\MekaPhil - Alive (Yet Free)_RAW\07_DrumsSLR.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    08_Overheads.wav:
+      Track_path: MekaPhil - Alive (Yet Free)\MekaPhil - Alive (Yet Free)_RAW\08_Overheads.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Tom:
+    03_Tom1.wav:
+      Track_path: MekaPhil - Alive (Yet Free)\MekaPhil - Alive (Yet Free)_RAW\03_Tom1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    04_Tom2.wav:
+      Track_path: MekaPhil - Alive (Yet Free)\MekaPhil - Alive (Yet Free)_RAW\04_Tom2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    05_Tom3.wav:
+      Track_path: MekaPhil - Alive (Yet Free)\MekaPhil - Alive (Yet Free)_RAW\05_Tom3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Room:
+    09_DrumsRoom1.wav:
+      Track_path: MekaPhil - Alive (Yet Free)\MekaPhil - Alive (Yet Free)_RAW\09_DrumsRoom1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    10_DrumsRoom2.wav:
+      Track_path: MekaPhil - Alive (Yet Free)\MekaPhil - Alive (Yet Free)_RAW\10_DrumsRoom2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop:
+    11_Loop.wav:
+      Track_path: MekaPhil - Alive (Yet Free)\MekaPhil - Alive (Yet Free)_RAW\11_Loop.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass: {}
+  Electric_Bass:
+    12_Bass.wav:
+      Track_path: MekaPhil - Alive (Yet Free)\MekaPhil - Alive (Yet Free)_RAW\12_Bass.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Acoustic_Guitar: {}
+  Electric_Guitar:
+    13_ElecGtr1DI.wav:
+      Track_path: MekaPhil - Alive (Yet Free)\MekaPhil - Alive (Yet Free)_RAW\13_ElecGtr1DI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    14_ElecGtr2DI.wav:
+      Track_path: MekaPhil - Alive (Yet Free)\MekaPhil - Alive (Yet Free)_RAW\14_ElecGtr2DI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    15_ElecGtr2DTDI.wav:
+      Track_path: MekaPhil - Alive (Yet Free)\MekaPhil - Alive (Yet Free)_RAW\15_ElecGtr2DTDI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    16_ElecGtr3DI.wav:
+      Track_path: MekaPhil - Alive (Yet Free)\MekaPhil - Alive (Yet Free)_RAW\16_ElecGtr3DI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    17_ElecGtr4DI.wav:
+      Track_path: MekaPhil - Alive (Yet Free)\MekaPhil - Alive (Yet Free)_RAW\17_ElecGtr4DI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Piano: {}
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    20_LeadVox1.wav:
+      Track_path: MekaPhil - Alive (Yet Free)\MekaPhil - Alive (Yet Free)_RAW\20_LeadVox1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    21_LeadVox2.wav:
+      Track_path: MekaPhil - Alive (Yet Free)\MekaPhil - Alive (Yet Free)_RAW\21_LeadVox2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Choir: {}
+  Backing_Vocal:
+    22_BackingVox1.wav:
+      Track_path: MekaPhil - Alive (Yet Free)\MekaPhil - Alive (Yet Free)_RAW\22_BackingVox1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    23_BackingVox2.wav:
+      Track_path: MekaPhil - Alive (Yet Free)\MekaPhil - Alive (Yet Free)_RAW\23_BackingVox2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    24_BackingVox3.wav:
+      Track_path: MekaPhil - Alive (Yet Free)\MekaPhil - Alive (Yet Free)_RAW\24_BackingVox3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    25_BackingVox4.wav:
+      Track_path: MekaPhil - Alive (Yet Free)\MekaPhil - Alive (Yet Free)_RAW\25_BackingVox4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    26_BackingVox5.wav:
+      Track_path: MekaPhil - Alive (Yet Free)\MekaPhil - Alive (Yet Free)_RAW\26_BackingVox5.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    27_BackingVox6.wav:
+      Track_path: MekaPhil - Alive (Yet Free)\MekaPhil - Alive (Yet Free)_RAW\27_BackingVox6.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    28_BackingVox7.wav:
+      Track_path: MekaPhil - Alive (Yet Free)\MekaPhil - Alive (Yet Free)_RAW\28_BackingVox7.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    29_BackingVox8.wav:
+      Track_path: MekaPhil - Alive (Yet Free)\MekaPhil - Alive (Yet Free)_RAW\29_BackingVox8.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    30_BackingVox9.wav:
+      Track_path: MekaPhil - Alive (Yet Free)\MekaPhil - Alive (Yet Free)_RAW\30_BackingVox9.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Unused: {}
+  Ambient_Microphone: {}

@@ -1,0 +1,133 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer: {}
+  SFX: {}
+  Marimba: {}
+  Bell: {}
+  Accordian:
+    11_Accordion.wav:
+      Track_path: Enda Reilly - Cur An Long Ag Seol\Enda Reilly - Cur An Long Ag Seol_RAW\11_Accordion.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    01_DrumMic1.wav:
+      Track_path: Enda Reilly - Cur An Long Ag Seol\Enda Reilly - Cur An Long Ag Seol_RAW\01_DrumMic1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    02_DrumMic2.wav:
+      Track_path: Enda Reilly - Cur An Long Ag Seol\Enda Reilly - Cur An Long Ag Seol_RAW\02_DrumMic2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Snare: {}
+  Drum_HiHat: {}
+  Drum_Cymbals: {}
+  Drum_Overheads: {}
+  Drum_Tom: {}
+  Drum_Room: {}
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop: {}
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion:
+    03_Brushes.wav:
+      Track_path: Enda Reilly - Cur An Long Ag Seol\Enda Reilly - Cur An Long Ag Seol_RAW\03_Brushes.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Synth_Bass: {}
+  Electric_Bass: {}
+  Acoustic_Guitar:
+    06_AcousticGtr.wav:
+      Track_path: Enda Reilly - Cur An Long Ag Seol\Enda Reilly - Cur An Long Ag Seol_RAW\06_AcousticGtr.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    07_MandolinMic1.wav:
+      Track_path: Enda Reilly - Cur An Long Ag Seol\Enda Reilly - Cur An Long Ag Seol_RAW\07_MandolinMic1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    08_MandolinMic2.wav:
+      Track_path: Enda Reilly - Cur An Long Ag Seol\Enda Reilly - Cur An Long Ag Seol_RAW\08_MandolinMic2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Electric_Guitar: {}
+  Piano: {}
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle:
+    09_Fiddle1.wav:
+      Track_path: Enda Reilly - Cur An Long Ag Seol\Enda Reilly - Cur An Long Ag Seol_RAW\09_Fiddle1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    10_Fiddle2.wav:
+      Track_path: Enda Reilly - Cur An Long Ag Seol\Enda Reilly - Cur An Long Ag Seol_RAW\10_Fiddle2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Double_Bass:
+    04_BassMic1.wav:
+      Track_path: Enda Reilly - Cur An Long Ag Seol\Enda Reilly - Cur An Long Ag Seol_RAW\04_BassMic1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    05_BassMic2.wav:
+      Track_path: Enda Reilly - Cur An Long Ag Seol\Enda Reilly - Cur An Long Ag Seol_RAW\05_BassMic2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    12_LeadVox.wav:
+      Track_path: Enda Reilly - Cur An Long Ag Seol\Enda Reilly - Cur An Long Ag Seol_RAW\12_LeadVox.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Choir: {}
+  Backing_Vocal: {}
+  Unused: {}
+  Ambient_Microphone: {}

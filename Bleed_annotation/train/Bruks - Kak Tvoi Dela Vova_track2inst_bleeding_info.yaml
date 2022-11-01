@@ -1,0 +1,208 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer: {}
+  SFX: {}
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    01_Kick.wav:
+      Track_path: Bruks - Kak Tvoi Dela Vova\Bruks - Kak Tvoi Dela Vova_RAW\01_Kick.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Electric_Bass, Electric_Guitar, Drum_Overheads'
+      Comment: ''
+    03_KickSnare.wav:
+      Track_path: Bruks - Kak Tvoi Dela Vova\Bruks - Kak Tvoi Dela Vova_RAW\03_KickSnare.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Electric_Bass, Electric_Guitar, Drum_Overheads'
+      Comment: ''
+  Drum_Snare:
+    02_SnareUp.wav:
+      Track_path: Bruks - Kak Tvoi Dela Vova\Bruks - Kak Tvoi Dela Vova_RAW\02_SnareUp.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Electric_Bass, Electric_Guitar, Drum_Overheads'
+      Comment: ''
+  Drum_HiHat: {}
+  Drum_Cymbals: {}
+  Drum_Overheads:
+    04_Overheads.wav:
+      Track_path: Bruks - Kak Tvoi Dela Vova\Bruks - Kak Tvoi Dela Vova_RAW\04_Overheads.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Electric_Bass, Electric_Guitar'
+      Comment: ''
+  Drum_Tom:
+    06_Tom1.wav:
+      Track_path: Bruks - Kak Tvoi Dela Vova\Bruks - Kak Tvoi Dela Vova_RAW\06_Tom1.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Electric_Bass, Electric_Guitar, Drum_Overheads'
+      Comment: ''
+    07_Tom2.wav:
+      Track_path: Bruks - Kak Tvoi Dela Vova\Bruks - Kak Tvoi Dela Vova_RAW\07_Tom2.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Electric_Bass, lectric_Guitar, Drum_Overheads'
+      Comment: ''
+    08_Tom3.wav:
+      Track_path: Bruks - Kak Tvoi Dela Vova\Bruks - Kak Tvoi Dela Vova_RAW\08_Tom3.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Electric_Bass, Electric_Guitar, Drum_Overheads'
+      Comment: ''
+  Drum_Room: {}
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop: {}
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass: {}
+  Electric_Bass:
+    09_BassDI.wav:
+      Track_path: Bruks - Kak Tvoi Dela Vova\Bruks - Kak Tvoi Dela Vova_RAW\09_BassDI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    10_BassAmpMic1.wav:
+      Track_path: Bruks - Kak Tvoi Dela Vova\Bruks - Kak Tvoi Dela Vova_RAW\10_BassAmpMic1.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Electric_Guitar, Drum_Overheads'
+      Comment: ''
+    11_BassAmpMic2.wav:
+      Track_path: Bruks - Kak Tvoi Dela Vova\Bruks - Kak Tvoi Dela Vova_RAW\11_BassAmpMic2.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Electric_Guitar, Drum_Overheads'
+      Comment: ''
+  Acoustic_Guitar: {}
+  Electric_Guitar:
+    12_ElecGtr1.wav:
+      Track_path: Bruks - Kak Tvoi Dela Vova\Bruks - Kak Tvoi Dela Vova_RAW\12_ElecGtr1.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads'
+      Comment: ''
+    13_ElecGtr2.wav:
+      Track_path: Bruks - Kak Tvoi Dela Vova\Bruks - Kak Tvoi Dela Vova_RAW\13_ElecGtr2.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads'
+      Comment: ''
+  Piano:
+    14_Piano1.wav:
+      Track_path: Bruks - Kak Tvoi Dela Vova\Bruks - Kak Tvoi Dela Vova_RAW\14_Piano1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    15_Piano2.wav:
+      Track_path: Bruks - Kak Tvoi Dela Vova\Bruks - Kak Tvoi Dela Vova_RAW\15_Piano2.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: ''
+      Comment: 'band leakage, feet movement'
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    16_LeadVox.wav:
+      Track_path: Bruks - Kak Tvoi Dela Vova\Bruks - Kak Tvoi Dela Vova_RAW\16_LeadVox.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    17_LeadVoxDT.wav:
+      Track_path: Bruks - Kak Tvoi Dela Vova\Bruks - Kak Tvoi Dela Vova_RAW\17_LeadVoxDT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Choir: {}
+  Backing_Vocal:
+    18_BackingVox01.wav:
+      Track_path: Bruks - Kak Tvoi Dela Vova\Bruks - Kak Tvoi Dela Vova_RAW\18_BackingVox01.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: 'slight band leakage'
+    19_BackingVox01DT.wav:
+      Track_path: Bruks - Kak Tvoi Dela Vova\Bruks - Kak Tvoi Dela Vova_RAW\19_BackingVox01DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: 'slight band leakage'
+    20_BackingVox02.wav:
+      Track_path: Bruks - Kak Tvoi Dela Vova\Bruks - Kak Tvoi Dela Vova_RAW\20_BackingVox02.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    21_BackingVox02DT.wav:
+      Track_path: Bruks - Kak Tvoi Dela Vova\Bruks - Kak Tvoi Dela Vova_RAW\21_BackingVox02DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    22_BackingVox03.wav:
+      Track_path: Bruks - Kak Tvoi Dela Vova\Bruks - Kak Tvoi Dela Vova_RAW\22_BackingVox03.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    23_BackingVox03DT.wav:
+      Track_path: Bruks - Kak Tvoi Dela Vova\Bruks - Kak Tvoi Dela Vova_RAW\23_BackingVox03DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    24_BackingVox04.wav:
+      Track_path: Bruks - Kak Tvoi Dela Vova\Bruks - Kak Tvoi Dela Vova_RAW\24_BackingVox04.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    25_BackingVox04DT.wav:
+      Track_path: Bruks - Kak Tvoi Dela Vova\Bruks - Kak Tvoi Dela Vova_RAW\25_BackingVox04DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    26_BackingVox05.wav:
+      Track_path: Bruks - Kak Tvoi Dela Vova\Bruks - Kak Tvoi Dela Vova_RAW\26_BackingVox05.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    27_BackingVox05DT.wav:
+      Track_path: Bruks - Kak Tvoi Dela Vova\Bruks - Kak Tvoi Dela Vova_RAW\27_BackingVox05DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Unused:
+    05_RoomMic.wav:
+      Track_path: Bruks - Kak Tvoi Dela Vova\Bruks - Kak Tvoi Dela Vova_RAW\05_RoomMic.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Ambient_Microphone: {}

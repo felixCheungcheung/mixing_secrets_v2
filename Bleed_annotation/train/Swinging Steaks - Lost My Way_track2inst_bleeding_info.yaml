@@ -1,0 +1,203 @@
+Track2inst:
+  Electric_Organ:
+    15_Hammond.wav:
+      Track_path: Swinging Steaks - Lost My Way\Swinging Steaks - Lost My Way_RAW\15_Hammond.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Synthesizer: {}
+  SFX: {}
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    01_Kick.wav:
+      Track_path: Swinging Steaks - Lost My Way\Swinging Steaks - Lost My Way_RAW\01_Kick.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_Snare:
+    02_Snare.wav:
+      Track_path: Swinging Steaks - Lost My Way\Swinging Steaks - Lost My Way_RAW\02_Snare.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_HiHat:
+    03_HiHat.wav:
+      Track_path: Swinging Steaks - Lost My Way\Swinging Steaks - Lost My Way_RAW\03_HiHat.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_Cymbals: {}
+  Drum_Overheads:
+    04_Overheads.wav:
+      Track_path: Swinging Steaks - Lost My Way\Swinging Steaks - Lost My Way_RAW\04_Overheads.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Tom:
+    06_Tom1.wav:
+      Track_path: Swinging Steaks - Lost My Way\Swinging Steaks - Lost My Way_RAW\06_Tom1.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    07_Tom2.wav:
+      Track_path: Swinging Steaks - Lost My Way\Swinging Steaks - Lost My Way_RAW\07_Tom2.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_Room: {}
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop: {}
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass: {}
+  Electric_Bass:
+    08_Bass1DI.wav:
+      Track_path: Swinging Steaks - Lost My Way\Swinging Steaks - Lost My Way_RAW\08_Bass1DI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    09_Bass1Amp.wav:
+      Track_path: Swinging Steaks - Lost My Way\Swinging Steaks - Lost My Way_RAW\09_Bass1Amp.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    10_Bass2.wav:
+      Track_path: Swinging Steaks - Lost My Way\Swinging Steaks - Lost My Way_RAW\10_Bass2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Acoustic_Guitar:
+    14_AcousticGtr.wav:
+      Track_path: Swinging Steaks - Lost My Way\Swinging Steaks - Lost My Way_RAW\14_AcousticGtr.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Electric_Guitar:
+    11_ElecGtr.wav:
+      Track_path: Swinging Steaks - Lost My Way\Swinging Steaks - Lost My Way_RAW\11_ElecGtr.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    12_ElecGtr.wav:
+      Track_path: Swinging Steaks - Lost My Way\Swinging Steaks - Lost My Way_RAW\12_ElecGtr.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    13_ElecGtr.wav:
+      Track_path: Swinging Steaks - Lost My Way\Swinging Steaks - Lost My Way_RAW\13_ElecGtr.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Piano:
+    16_Piano1.wav:
+      Track_path: Swinging Steaks - Lost My Way\Swinging Steaks - Lost My Way_RAW\16_Piano1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    17_Piano2Reverb.wav:
+      Track_path: Swinging Steaks - Lost My Way\Swinging Steaks - Lost My Way_RAW\17_Piano2Reverb.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    18_LeadVox.wav:
+      Track_path: Swinging Steaks - Lost My Way\Swinging Steaks - Lost My Way_RAW\18_LeadVox.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    26_BackingVox8.wav:
+      Track_path: Swinging Steaks - Lost My Way\Swinging Steaks - Lost My Way_RAW\26_BackingVox8.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Choir: {}
+  Backing_Vocal:
+    19_BackingVox1.wav:
+      Track_path: Swinging Steaks - Lost My Way\Swinging Steaks - Lost My Way_RAW\19_BackingVox1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    20_BackingVox2.wav:
+      Track_path: Swinging Steaks - Lost My Way\Swinging Steaks - Lost My Way_RAW\20_BackingVox2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    21_BackingVox3.wav:
+      Track_path: Swinging Steaks - Lost My Way\Swinging Steaks - Lost My Way_RAW\21_BackingVox3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    22_BackingVox4.wav:
+      Track_path: Swinging Steaks - Lost My Way\Swinging Steaks - Lost My Way_RAW\22_BackingVox4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    23_BackingVox5.wav:
+      Track_path: Swinging Steaks - Lost My Way\Swinging Steaks - Lost My Way_RAW\23_BackingVox5.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    24_BackingVox6.wav:
+      Track_path: Swinging Steaks - Lost My Way\Swinging Steaks - Lost My Way_RAW\24_BackingVox6.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    25_BackingVox7.wav:
+      Track_path: Swinging Steaks - Lost My Way\Swinging Steaks - Lost My Way_RAW\25_BackingVox7.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Unused: {}
+  Ambient_Microphone:
+    05_Room.wav:
+      Track_path: Swinging Steaks - Lost My Way\Swinging Steaks - Lost My Way_RAW\05_Room.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''

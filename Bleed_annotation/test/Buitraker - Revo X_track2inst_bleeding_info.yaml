@@ -1,0 +1,228 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer:
+    22_Synth1.wav:
+      Track_path: Buitraker - Revo X\Buitraker - Revo X_RAW\22_Synth1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    23_Synth2.wav:
+      Track_path: Buitraker - Revo X\Buitraker - Revo X_RAW\23_Synth2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    24_Synth3.wav:
+      Track_path: Buitraker - Revo X\Buitraker - Revo X_RAW\24_Synth3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    25_Synth4.wav:
+      Track_path: Buitraker - Revo X\Buitraker - Revo X_RAW\25_Synth4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    26_Synth5.wav:
+      Track_path: Buitraker - Revo X\Buitraker - Revo X_RAW\26_Synth5.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    27_Synth6.wav:
+      Track_path: Buitraker - Revo X\Buitraker - Revo X_RAW\27_Synth6.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  SFX: {}
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    01_Kick.wav:
+      Track_path: Buitraker - Revo X\Buitraker - Revo X_RAW\01_Kick.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Snare:
+    02_SnareMic1.wav:
+      Track_path: Buitraker - Revo X\Buitraker - Revo X_RAW\02_SnareMic1.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads'
+      Comment: ''
+    03_SnareMic2.wav:
+      Track_path: Buitraker - Revo X\Buitraker - Revo X_RAW\03_SnareMic2.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads'
+      Comment: ''
+  Drum_HiHat:
+    04_HiHat.wav:
+      Track_path: Buitraker - Revo X\Buitraker - Revo X_RAW\04_HiHat.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads'
+      Comment: ''
+  Drum_Cymbals:
+    05_Ride.wav:
+      Track_path: Buitraker - Revo X\Buitraker - Revo X_RAW\05_Ride.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads'
+      Comment: ''
+    06_Cymbal1.wav:
+      Track_path: Buitraker - Revo X\Buitraker - Revo X_RAW\06_Cymbal1.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads'
+      Comment: ''
+    07_Cymbal2.wav:
+      Track_path: Buitraker - Revo X\Buitraker - Revo X_RAW\07_Cymbal2.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads'
+      Comment: ''
+  Drum_Overheads: {}
+  Drum_Tom:
+    09_TomSample1.wav:
+      Track_path: Buitraker - Revo X\Buitraker - Revo X_RAW\09_TomSample1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    10_TomSample2.wav:
+      Track_path: Buitraker - Revo X\Buitraker - Revo X_RAW\10_TomSample2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    11_TomSample3.wav:
+      Track_path: Buitraker - Revo X\Buitraker - Revo X_RAW\11_TomSample3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Room:
+    08_DrumsRoom.wav:
+      Track_path: Buitraker - Revo X\Buitraker - Revo X_RAW\08_DrumsRoom.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop:
+    12_Loop.wav:
+      Track_path: Buitraker - Revo X\Buitraker - Revo X_RAW\12_Loop.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass: {}
+  Electric_Bass:
+    14_Bass.wav:
+      Track_path: Buitraker - Revo X\Buitraker - Revo X_RAW\14_Bass.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Acoustic_Guitar: {}
+  Electric_Guitar:
+    15_ElecGtr1.wav:
+      Track_path: Buitraker - Revo X\Buitraker - Revo X_RAW\15_ElecGtr1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    16_ElecGtr2.wav:
+      Track_path: Buitraker - Revo X\Buitraker - Revo X_RAW\16_ElecGtr2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    17_ElecGtr3.wav:
+      Track_path: Buitraker - Revo X\Buitraker - Revo X_RAW\17_ElecGtr3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    18_ElecGtr4.wav:
+      Track_path: Buitraker - Revo X\Buitraker - Revo X_RAW\18_ElecGtr4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    19_ElecGtr5.wav:
+      Track_path: Buitraker - Revo X\Buitraker - Revo X_RAW\19_ElecGtr5.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    20_ElecGtr6.wav:
+      Track_path: Buitraker - Revo X\Buitraker - Revo X_RAW\20_ElecGtr6.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Piano: {}
+  Electric_Piano:
+    21_ElecPiano.wav:
+      Track_path: Buitraker - Revo X\Buitraker - Revo X_RAW\21_ElecPiano.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    28_LeadVox.wav:
+      Track_path: Buitraker - Revo X\Buitraker - Revo X_RAW\28_LeadVox.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Choir: {}
+  Backing_Vocal:
+    29_BackingVox1.wav:
+      Track_path: Buitraker - Revo X\Buitraker - Revo X_RAW\29_BackingVox1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    30_BackingVox2.wav:
+      Track_path: Buitraker - Revo X\Buitraker - Revo X_RAW\30_BackingVox2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    31_BackingVox3.wav:
+      Track_path: Buitraker - Revo X\Buitraker - Revo X_RAW\31_BackingVox3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Unused:
+    13_Click.wav:
+      Track_path: Buitraker - Revo X\Buitraker - Revo X_RAW\13_Click.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Ambient_Microphone: {}

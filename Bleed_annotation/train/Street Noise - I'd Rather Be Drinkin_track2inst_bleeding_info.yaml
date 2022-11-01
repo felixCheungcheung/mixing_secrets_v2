@@ -1,0 +1,151 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer: {}
+  SFX: {}
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    01_Kick.wav:
+      Track_path: Street Noise - I'd Rather Be Drinkin\Street Noise - I'd Rather Be
+        Drinkin_RAW\01_Kick.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_Snare:
+    02_Snare.wav:
+      Track_path: Street Noise - I'd Rather Be Drinkin\Street Noise - I'd Rather Be
+        Drinkin_RAW\02_Snare.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_HiHat:
+    03_HiHat.wav:
+      Track_path: Street Noise - I'd Rather Be Drinkin\Street Noise - I'd Rather Be
+        Drinkin_RAW\03_HiHat.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_Cymbals:
+    08_CymbalSample.wav:
+      Track_path: Street Noise - I'd Rather Be Drinkin\Street Noise - I'd Rather Be
+        Drinkin_RAW\08_CymbalSample.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_Overheads:
+    07_Overheads.wav:
+      Track_path: Street Noise - I'd Rather Be Drinkin\Street Noise - I'd Rather Be
+        Drinkin_RAW\07_Overheads.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Tom:
+    04_Tom1.wav:
+      Track_path: Street Noise - I'd Rather Be Drinkin\Street Noise - I'd Rather Be
+        Drinkin_RAW\04_Tom1.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    05_Tom2.wav:
+      Track_path: Street Noise - I'd Rather Be Drinkin\Street Noise - I'd Rather Be
+        Drinkin_RAW\05_Tom2.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    06_Tom3.wav:
+      Track_path: Street Noise - I'd Rather Be Drinkin\Street Noise - I'd Rather Be
+        Drinkin_RAW\06_Tom3.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_Room: {}
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop: {}
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass: {}
+  Electric_Bass:
+    09_Bass.wav:
+      Track_path: Street Noise - I'd Rather Be Drinkin\Street Noise - I'd Rather Be
+        Drinkin_RAW\09_Bass.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Acoustic_Guitar: {}
+  Electric_Guitar:
+    10_ElecGtr1.wav:
+      Track_path: Street Noise - I'd Rather Be Drinkin\Street Noise - I'd Rather Be
+        Drinkin_RAW\10_ElecGtr1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    11_ElecGtr2.wav:
+      Track_path: Street Noise - I'd Rather Be Drinkin\Street Noise - I'd Rather Be
+        Drinkin_RAW\11_ElecGtr2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Piano:
+    12_Piano.wav:
+      Track_path: Street Noise - I'd Rather Be Drinkin\Street Noise - I'd Rather Be
+        Drinkin_RAW\12_Piano.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    13_LeadVox.wav:
+      Track_path: Street Noise - I'd Rather Be Drinkin\Street Noise - I'd Rather Be
+        Drinkin_RAW\13_LeadVox.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Choir: {}
+  Backing_Vocal: {}
+  Unused: {}
+  Ambient_Microphone: {}

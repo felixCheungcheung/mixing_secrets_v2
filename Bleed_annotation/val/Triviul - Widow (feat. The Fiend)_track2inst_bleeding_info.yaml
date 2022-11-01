@@ -1,0 +1,253 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer:
+    09_Clav1.wav:
+      Track_path: Triviul - Widow (feat. The Fiend)\Triviul - Widow (feat. The Fiend)_RAW\09_Clav1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    10_Clav2.wav:
+      Track_path: Triviul - Widow (feat. The Fiend)\Triviul - Widow (feat. The Fiend)_RAW\10_Clav2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    11_Synth1.wav:
+      Track_path: Triviul - Widow (feat. The Fiend)\Triviul - Widow (feat. The Fiend)_RAW\11_Synth1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    12_Synth2.wav:
+      Track_path: Triviul - Widow (feat. The Fiend)\Triviul - Widow (feat. The Fiend)_RAW\12_Synth2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    13_Mellotron1.wav:
+      Track_path: Triviul - Widow (feat. The Fiend)\Triviul - Widow (feat. The Fiend)_RAW\13_Mellotron1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    14_Mellotron2.wav:
+      Track_path: Triviul - Widow (feat. The Fiend)\Triviul - Widow (feat. The Fiend)_RAW\14_Mellotron2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  SFX: {}
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp:
+    08_Sample2Harp.wav:
+      Track_path: Triviul - Widow (feat. The Fiend)\Triviul - Widow (feat. The Fiend)_RAW\08_Sample2Harp.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick: {}
+  Drum_Snare: {}
+  Drum_HiHat: {}
+  Drum_Cymbals:
+    04_Cymbals.wav:
+      Track_path: Triviul - Widow (feat. The Fiend)\Triviul - Widow (feat. The Fiend)_RAW\04_Cymbals.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Overheads:
+    01_Loop1Drums.wav:
+      Track_path: Triviul - Widow (feat. The Fiend)\Triviul - Widow (feat. The Fiend)_RAW\01_Loop1Drums.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Tom: {}
+  Drum_Room: {}
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop:
+    02_Loop2Percussion.wav:
+      Track_path: Triviul - Widow (feat. The Fiend)\Triviul - Widow (feat. The Fiend)_RAW\02_Loop2Percussion.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    03_Loop3Percussion.wav:
+      Track_path: Triviul - Widow (feat. The Fiend)\Triviul - Widow (feat. The Fiend)_RAW\03_Loop3Percussion.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass:
+    05_Bass1.wav:
+      Track_path: Triviul - Widow (feat. The Fiend)\Triviul - Widow (feat. The Fiend)_RAW\05_Bass1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    06_Bass2.wav:
+      Track_path: Triviul - Widow (feat. The Fiend)\Triviul - Widow (feat. The Fiend)_RAW\06_Bass2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Electric_Bass: {}
+  Acoustic_Guitar: {}
+  Electric_Guitar: {}
+  Piano: {}
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    15_LeadVox1.wav:
+      Track_path: Triviul - Widow (feat. The Fiend)\Triviul - Widow (feat. The Fiend)_RAW\15_LeadVox1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    16_LeadVox2.wav:
+      Track_path: Triviul - Widow (feat. The Fiend)\Triviul - Widow (feat. The Fiend)_RAW\16_LeadVox2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    17_LeadVox2DT1.wav:
+      Track_path: Triviul - Widow (feat. The Fiend)\Triviul - Widow (feat. The Fiend)_RAW\17_LeadVox2DT1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    18_LeadVox2DT2.wav:
+      Track_path: Triviul - Widow (feat. The Fiend)\Triviul - Widow (feat. The Fiend)_RAW\18_LeadVox2DT2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    19_LeadVox2DT3.wav:
+      Track_path: Triviul - Widow (feat. The Fiend)\Triviul - Widow (feat. The Fiend)_RAW\19_LeadVox2DT3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    20_LeadVox2DT4.wav:
+      Track_path: Triviul - Widow (feat. The Fiend)\Triviul - Widow (feat. The Fiend)_RAW\20_LeadVox2DT4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    21_LeadVox3.wav:
+      Track_path: Triviul - Widow (feat. The Fiend)\Triviul - Widow (feat. The Fiend)_RAW\21_LeadVox3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    22_LeadVox3DT1.wav:
+      Track_path: Triviul - Widow (feat. The Fiend)\Triviul - Widow (feat. The Fiend)_RAW\22_LeadVox3DT1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    23_LeadVox3DT2.wav:
+      Track_path: Triviul - Widow (feat. The Fiend)\Triviul - Widow (feat. The Fiend)_RAW\23_LeadVox3DT2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    24_LeadVox3DT3.wav:
+      Track_path: Triviul - Widow (feat. The Fiend)\Triviul - Widow (feat. The Fiend)_RAW\24_LeadVox3DT3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    25_LeadVox3DT4.wav:
+      Track_path: Triviul - Widow (feat. The Fiend)\Triviul - Widow (feat. The Fiend)_RAW\25_LeadVox3DT4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    26_LeadVox4AdLibs.wav:
+      Track_path: Triviul - Widow (feat. The Fiend)\Triviul - Widow (feat. The Fiend)_RAW\26_LeadVox4AdLibs.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Choir: {}
+  Backing_Vocal:
+    07_Sample1Vox.wav:
+      Track_path: Triviul - Widow (feat. The Fiend)\Triviul - Widow (feat. The Fiend)_RAW\07_Sample1Vox.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    27_BackingVox1.wav:
+      Track_path: Triviul - Widow (feat. The Fiend)\Triviul - Widow (feat. The Fiend)_RAW\27_BackingVox1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    28_BackingVox1DT1.wav:
+      Track_path: Triviul - Widow (feat. The Fiend)\Triviul - Widow (feat. The Fiend)_RAW\28_BackingVox1DT1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    29_BackingVox1DT2.wav:
+      Track_path: Triviul - Widow (feat. The Fiend)\Triviul - Widow (feat. The Fiend)_RAW\29_BackingVox1DT2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    30_BackingVox2.wav:
+      Track_path: Triviul - Widow (feat. The Fiend)\Triviul - Widow (feat. The Fiend)_RAW\30_BackingVox2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    31_BackingVox2DT1.wav:
+      Track_path: Triviul - Widow (feat. The Fiend)\Triviul - Widow (feat. The Fiend)_RAW\31_BackingVox2DT1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    32_BackingVox2DT2.wav:
+      Track_path: Triviul - Widow (feat. The Fiend)\Triviul - Widow (feat. The Fiend)_RAW\32_BackingVox2DT2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    33_BackingVox3.wav:
+      Track_path: Triviul - Widow (feat. The Fiend)\Triviul - Widow (feat. The Fiend)_RAW\33_BackingVox3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    34_BackingVox3DT1.wav:
+      Track_path: Triviul - Widow (feat. The Fiend)\Triviul - Widow (feat. The Fiend)_RAW\34_BackingVox3DT1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    35_BackingVox3DT2.wav:
+      Track_path: Triviul - Widow (feat. The Fiend)\Triviul - Widow (feat. The Fiend)_RAW\35_BackingVox3DT2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    36_BackingVox3DT3.wav:
+      Track_path: Triviul - Widow (feat. The Fiend)\Triviul - Widow (feat. The Fiend)_RAW\36_BackingVox3DT3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Unused: {}
+  Ambient_Microphone: {}

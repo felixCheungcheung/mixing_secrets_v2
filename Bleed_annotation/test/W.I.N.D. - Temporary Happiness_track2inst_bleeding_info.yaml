@@ -1,0 +1,243 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer: {}
+  SFX: {}
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    01_KickIn.wav:
+      Track_path: W.I.N.D. - Temporary Happiness\W.I.N.D. - Temporary Happiness_RAW\01_KickIn.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    02_KickOut.wav:
+      Track_path: W.I.N.D. - Temporary Happiness\W.I.N.D. - Temporary Happiness_RAW\02_KickOut.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    03_KickSub.wav:
+      Track_path: W.I.N.D. - Temporary Happiness\W.I.N.D. - Temporary Happiness_RAW\03_KickSub.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_Snare:
+    04_SnareUp.wav:
+      Track_path: W.I.N.D. - Temporary Happiness\W.I.N.D. - Temporary Happiness_RAW\04_SnareUp.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    05_SnareDown.wav:
+      Track_path: W.I.N.D. - Temporary Happiness\W.I.N.D. - Temporary Happiness_RAW\05_SnareDown.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_HiHat:
+    06_HiHat.wav:
+      Track_path: W.I.N.D. - Temporary Happiness\W.I.N.D. - Temporary Happiness_RAW\06_HiHat.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_Cymbals: {}
+  Drum_Overheads:
+    11_Overheads.wav:
+      Track_path: W.I.N.D. - Temporary Happiness\W.I.N.D. - Temporary Happiness_RAW\11_Overheads.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Tom:
+    08_Tom1.wav:
+      Track_path: W.I.N.D. - Temporary Happiness\W.I.N.D. - Temporary Happiness_RAW\08_Tom1.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    09_Tom2.wav:
+      Track_path: W.I.N.D. - Temporary Happiness\W.I.N.D. - Temporary Happiness_RAW\09_Tom2.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    10_Tom3.wav:
+      Track_path: W.I.N.D. - Temporary Happiness\W.I.N.D. - Temporary Happiness_RAW\10_Tom3.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_Room:
+    12_DrumsRoom1.wav:
+      Track_path: W.I.N.D. - Temporary Happiness\W.I.N.D. - Temporary Happiness_RAW\12_DrumsRoom1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    13_DrumsRoom2.wav:
+      Track_path: W.I.N.D. - Temporary Happiness\W.I.N.D. - Temporary Happiness_RAW\13_DrumsRoom2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine:
+    14_Tambourine.wav:
+      Track_path: W.I.N.D. - Temporary Happiness\W.I.N.D. - Temporary Happiness_RAW\14_Tambourine.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Loop: {}
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass: {}
+  Electric_Bass:
+    15_BassDI.wav:
+      Track_path: W.I.N.D. - Temporary Happiness\W.I.N.D. - Temporary Happiness_RAW\15_BassDI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    16_BassAmpMic1.wav:
+      Track_path: W.I.N.D. - Temporary Happiness\W.I.N.D. - Temporary Happiness_RAW\16_BassAmpMic1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    17_BassAmpMic2.wav:
+      Track_path: W.I.N.D. - Temporary Happiness\W.I.N.D. - Temporary Happiness_RAW\17_BassAmpMic2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Acoustic_Guitar: {}
+  Electric_Guitar:
+    18_ElecGtr1Mic1.wav:
+      Track_path: W.I.N.D. - Temporary Happiness\W.I.N.D. - Temporary Happiness_RAW\18_ElecGtr1Mic1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    19_ElecGtr1Mic2.wav:
+      Track_path: W.I.N.D. - Temporary Happiness\W.I.N.D. - Temporary Happiness_RAW\19_ElecGtr1Mic2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    20_ElecGtr1Mic3.wav:
+      Track_path: W.I.N.D. - Temporary Happiness\W.I.N.D. - Temporary Happiness_RAW\20_ElecGtr1Mic3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    21_ElecGtr2Mic1.wav:
+      Track_path: W.I.N.D. - Temporary Happiness\W.I.N.D. - Temporary Happiness_RAW\21_ElecGtr2Mic1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    22_ElecGtr2Mic2.wav:
+      Track_path: W.I.N.D. - Temporary Happiness\W.I.N.D. - Temporary Happiness_RAW\22_ElecGtr2Mic2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    23_ElecGtr1Mic3.wav:
+      Track_path: W.I.N.D. - Temporary Happiness\W.I.N.D. - Temporary Happiness_RAW\23_ElecGtr1Mic3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Piano: {}
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone:
+    26_Saxophone1.wav:
+      Track_path: W.I.N.D. - Temporary Happiness\W.I.N.D. - Temporary Happiness_RAW\26_Saxophone1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    27_Saxophone2.wav:
+      Track_path: W.I.N.D. - Temporary Happiness\W.I.N.D. - Temporary Happiness_RAW\27_Saxophone2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    28_Saxophone3.wav:
+      Track_path: W.I.N.D. - Temporary Happiness\W.I.N.D. - Temporary Happiness_RAW\28_Saxophone3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Trumpet:
+    24_Trumpet1.wav:
+      Track_path: W.I.N.D. - Temporary Happiness\W.I.N.D. - Temporary Happiness_RAW\24_Trumpet1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    25_Trumpet2.wav:
+      Track_path: W.I.N.D. - Temporary Happiness\W.I.N.D. - Temporary Happiness_RAW\25_Trumpet2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  French_Horn: {}
+  Trombone:
+    29_Trombone.wav:
+      Track_path: W.I.N.D. - Temporary Happiness\W.I.N.D. - Temporary Happiness_RAW\29_Trombone.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    30_LeadVox.wav:
+      Track_path: W.I.N.D. - Temporary Happiness\W.I.N.D. - Temporary Happiness_RAW\30_LeadVox.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Choir:
+    33_Choir1.wav:
+      Track_path: W.I.N.D. - Temporary Happiness\W.I.N.D. - Temporary Happiness_RAW\33_Choir1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    34_Choir2.wav:
+      Track_path: W.I.N.D. - Temporary Happiness\W.I.N.D. - Temporary Happiness_RAW\34_Choir2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Backing_Vocal:
+    31_BackingVox1.wav:
+      Track_path: W.I.N.D. - Temporary Happiness\W.I.N.D. - Temporary Happiness_RAW\31_BackingVox1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    32_BackingVox2.wav:
+      Track_path: W.I.N.D. - Temporary Happiness\W.I.N.D. - Temporary Happiness_RAW\32_BackingVox2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Unused:
+    07_Cowbell.wav:
+      Track_path: W.I.N.D. - Temporary Happiness\W.I.N.D. - Temporary Happiness_RAW\07_Cowbell.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: ''
+      Comment: 'CowBell full of drum leakage.'
+  Ambient_Microphone: {}

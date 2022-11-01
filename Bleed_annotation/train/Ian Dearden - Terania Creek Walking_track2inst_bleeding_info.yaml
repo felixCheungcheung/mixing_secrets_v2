@@ -1,0 +1,187 @@
+Track2inst:
+  Electric_Organ:
+    18_Organ.wav:
+      Track_path: Ian Dearden - Terania Creek Walking\Ian Dearden - Terania Creek
+        Walking_RAW\18_Organ.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Synthesizer:
+    15_Synth1.wav:
+      Track_path: Ian Dearden - Terania Creek Walking\Ian Dearden - Terania Creek
+        Walking_RAW\15_Synth1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    16_Synth2.wav:
+      Track_path: Ian Dearden - Terania Creek Walking\Ian Dearden - Terania Creek
+        Walking_RAW\16_Synth2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    17_Synth3.wav:
+      Track_path: Ian Dearden - Terania Creek Walking\Ian Dearden - Terania Creek
+        Walking_RAW\17_Synth3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  SFX:
+    11_LoopSFX.wav:
+      Track_path: Ian Dearden - Terania Creek Walking\Ian Dearden - Terania Creek
+        Walking_RAW\11_LoopSFX.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    12_SFX1.wav:
+      Track_path: Ian Dearden - Terania Creek Walking\Ian Dearden - Terania Creek
+        Walking_RAW\12_SFX1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    13_SFX2.wav:
+      Track_path: Ian Dearden - Terania Creek Walking\Ian Dearden - Terania Creek
+        Walking_RAW\13_SFX2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    01_Kick.wav:
+      Track_path: Ian Dearden - Terania Creek Walking\Ian Dearden - Terania Creek
+        Walking_RAW\01_Kick.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Snare:
+    02_Snare.wav:
+      Track_path: Ian Dearden - Terania Creek Walking\Ian Dearden - Terania Creek
+        Walking_RAW\02_Snare.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    03_SnareSample.wav:
+      Track_path: Ian Dearden - Terania Creek Walking\Ian Dearden - Terania Creek
+        Walking_RAW\03_SnareSample.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_HiHat:
+    04_HiHat.wav:
+      Track_path: Ian Dearden - Terania Creek Walking\Ian Dearden - Terania Creek
+        Walking_RAW\04_HiHat.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Cymbals:
+    08_Cymbal hit.wav:
+      Track_path: Ian Dearden - Terania Creek Walking\Ian Dearden - Terania Creek
+        Walking_RAW\08_Cymbal hit.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Overheads:
+    05_Overheads.wav:
+      Track_path: Ian Dearden - Terania Creek Walking\Ian Dearden - Terania Creek
+        Walking_RAW\05_Overheads.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Tom:
+    06_Tom1.wav:
+      Track_path: Ian Dearden - Terania Creek Walking\Ian Dearden - Terania Creek
+        Walking_RAW\06_Tom1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    07_Tom2.wav:
+      Track_path: Ian Dearden - Terania Creek Walking\Ian Dearden - Terania Creek
+        Walking_RAW\07_Tom2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Room: {}
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop: {}
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion:
+    09_Percussion1.wav:
+      Track_path: Ian Dearden - Terania Creek Walking\Ian Dearden - Terania Creek
+        Walking_RAW\09_Percussion1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    10_Percussion2.wav:
+      Track_path: Ian Dearden - Terania Creek Walking\Ian Dearden - Terania Creek
+        Walking_RAW\10_Percussion2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Synth_Bass:
+    14_Bass.wav:
+      Track_path: Ian Dearden - Terania Creek Walking\Ian Dearden - Terania Creek
+        Walking_RAW\14_Bass.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Electric_Bass: {}
+  Acoustic_Guitar: {}
+  Electric_Guitar: {}
+  Piano: {}
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal: {}
+  Choir: {}
+  Backing_Vocal: {}
+  Unused:
+    19_OrchestraHit.wav:
+      Track_path: Ian Dearden - Terania Creek Walking\Ian Dearden - Terania Creek
+        Walking_RAW\19_OrchestraHit.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Ambient_Microphone: {}

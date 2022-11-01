@@ -1,0 +1,183 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer:
+    20_Synth1.wav:
+      Track_path: The Doppler Shift - Atrophy\The Doppler Shift - Atrophy_RAW\20_Synth1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    21_Synth2.wav:
+      Track_path: The Doppler Shift - Atrophy\The Doppler Shift - Atrophy_RAW\21_Synth2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  SFX: {}
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    01_Kick.wav:
+      Track_path: The Doppler Shift - Atrophy\The Doppler Shift - Atrophy_RAW\01_Kick.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_Snare:
+    02_SnareUp.wav:
+      Track_path: The Doppler Shift - Atrophy\The Doppler Shift - Atrophy_RAW\02_SnareUp.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    03_SnareDown.wav:
+      Track_path: The Doppler Shift - Atrophy\The Doppler Shift - Atrophy_RAW\03_SnareDown.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_HiHat:
+    04_HiHat.wav:
+      Track_path: The Doppler Shift - Atrophy\The Doppler Shift - Atrophy_RAW\04_HiHat.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_Cymbals:
+    07_Ride.wav:
+      Track_path: The Doppler Shift - Atrophy\The Doppler Shift - Atrophy_RAW\07_Ride.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_Overheads:
+    05_Overheads.wav:
+      Track_path: The Doppler Shift - Atrophy\The Doppler Shift - Atrophy_RAW\05_Overheads.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Tom:
+    08_Tom1.wav:
+      Track_path: The Doppler Shift - Atrophy\The Doppler Shift - Atrophy_RAW\08_Tom1.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    09_Tom2.wav:
+      Track_path: The Doppler Shift - Atrophy\The Doppler Shift - Atrophy_RAW\09_Tom2.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    10_Tom3.wav:
+      Track_path: The Doppler Shift - Atrophy\The Doppler Shift - Atrophy_RAW\10_Tom3.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_Room:
+    06_DrumsRoom.wav:
+      Track_path: The Doppler Shift - Atrophy\The Doppler Shift - Atrophy_RAW\06_DrumsRoom.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop: {}
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass: {}
+  Electric_Bass:
+    11_Bass.wav:
+      Track_path: The Doppler Shift - Atrophy\The Doppler Shift - Atrophy_RAW\11_Bass.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Acoustic_Guitar: {}
+  Electric_Guitar:
+    12_ElecGtr1.wav:
+      Track_path: The Doppler Shift - Atrophy\The Doppler Shift - Atrophy_RAW\12_ElecGtr1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    13_ElecGtr2.wav:
+      Track_path: The Doppler Shift - Atrophy\The Doppler Shift - Atrophy_RAW\13_ElecGtr2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    14_ElecGtr3.wav:
+      Track_path: The Doppler Shift - Atrophy\The Doppler Shift - Atrophy_RAW\14_ElecGtr3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    15_ElecGtr4.wav:
+      Track_path: The Doppler Shift - Atrophy\The Doppler Shift - Atrophy_RAW\15_ElecGtr4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    16_ElecGtr5.wav:
+      Track_path: The Doppler Shift - Atrophy\The Doppler Shift - Atrophy_RAW\16_ElecGtr5.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    17_ElecGtr6.wav:
+      Track_path: The Doppler Shift - Atrophy\The Doppler Shift - Atrophy_RAW\17_ElecGtr6.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Piano: {}
+  Electric_Piano:
+    18_ElecPiano1.wav:
+      Track_path: The Doppler Shift - Atrophy\The Doppler Shift - Atrophy_RAW\18_ElecPiano1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    19_ElecPiano2.wav:
+      Track_path: The Doppler Shift - Atrophy\The Doppler Shift - Atrophy_RAW\19_ElecPiano2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    22_LeadVox.wav:
+      Track_path: The Doppler Shift - Atrophy\The Doppler Shift - Atrophy_RAW\22_LeadVox.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Choir: {}
+  Backing_Vocal: {}
+  Unused: {}
+  Ambient_Microphone: {}

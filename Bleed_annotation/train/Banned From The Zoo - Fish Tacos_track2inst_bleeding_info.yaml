@@ -1,0 +1,163 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer: {}
+  SFX: {}
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica:
+    16_Harmonica.wav:
+      Track_path: Banned From The Zoo - Fish Tacos\Banned From The Zoo - Fish Tacos_RAW\16_Harmonica.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    01_KickIn.wav:
+      Track_path: Banned From The Zoo - Fish Tacos\Banned From The Zoo - Fish Tacos_RAW\01_KickIn.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads'
+      Comment: ''
+    02_KickOut.wav:
+      Track_path: Banned From The Zoo - Fish Tacos\Banned From The Zoo - Fish Tacos_RAW\02_KickOut.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads'
+      Comment: ''
+  Drum_Snare:
+    03_SnareUp.wav:
+      Track_path: Banned From The Zoo - Fish Tacos\Banned From The Zoo - Fish Tacos_RAW\03_SnareUp.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads'
+      Comment: ''
+    04_SnareDown.wav:
+      Track_path: Banned From The Zoo - Fish Tacos\Banned From The Zoo - Fish Tacos_RAW\04_SnareDown.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads'
+      Comment: ''
+  Drum_HiHat:
+    05_HiHat.wav:
+      Track_path: Banned From The Zoo - Fish Tacos\Banned From The Zoo - Fish Tacos_RAW\05_HiHat.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads'
+      Comment: ''
+  Drum_Cymbals: {}
+  Drum_Overheads:
+    06_Overheads.wav:
+      Track_path: Banned From The Zoo - Fish Tacos\Banned From The Zoo - Fish Tacos_RAW\06_Overheads.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Tom:
+    09_Tom1.wav:
+      Track_path: Banned From The Zoo - Fish Tacos\Banned From The Zoo - Fish Tacos_RAW\09_Tom1.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads'
+      Comment: ''
+    10_Tom2.wav:
+      Track_path: Banned From The Zoo - Fish Tacos\Banned From The Zoo - Fish Tacos_RAW\10_Tom2.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Room:
+    07_Room.wav:
+      Track_path: Banned From The Zoo - Fish Tacos\Banned From The Zoo - Fish Tacos_RAW\07_Room.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    08_RoomLoFi.wav:
+      Track_path: Banned From The Zoo - Fish Tacos\Banned From The Zoo - Fish Tacos_RAW\08_RoomLoFi.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop: {}
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass: {}
+  Electric_Bass:
+    11_BassAmp.wav:
+      Track_path: Banned From The Zoo - Fish Tacos\Banned From The Zoo - Fish Tacos_RAW\11_BassAmp.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    12_BassDI.wav:
+      Track_path: Banned From The Zoo - Fish Tacos\Banned From The Zoo - Fish Tacos_RAW\12_BassDI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Acoustic_Guitar:
+    13_GuitarClose.wav:
+      Track_path: Banned From The Zoo - Fish Tacos\Banned From The Zoo - Fish Tacos_RAW\13_GuitarClose.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads'
+      Comment: 'slight'
+    14_GuitarFar.wav:
+      Track_path: Banned From The Zoo - Fish Tacos\Banned From The Zoo - Fish Tacos_RAW\14_GuitarFar.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads'
+      Comment: 'noticeable'
+    15_Ukelele.wav:
+      Track_path: Banned From The Zoo - Fish Tacos\Banned From The Zoo - Fish Tacos_RAW\15_Ukelele.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads, Electric_Bass'
+      Comment: 'noticeable'
+  Electric_Guitar: {}
+  Piano: {}
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    17_LeadVox.wav:
+      Track_path: Banned From The Zoo - Fish Tacos\Banned From The Zoo - Fish Tacos_RAW\17_LeadVox.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads, Electric_Bass'
+      Comment: 'noticeable'
+  Choir: {}
+  Backing_Vocal:
+    18_BackingVox.wav:
+      Track_path: Banned From The Zoo - Fish Tacos\Banned From The Zoo - Fish Tacos_RAW\18_BackingVox.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads, Electric_Bass'
+      Comment: 'noticeable'
+  Unused: {}
+  Ambient_Microphone: {}

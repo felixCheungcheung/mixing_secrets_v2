@@ -1,0 +1,188 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer: {}
+  SFX: {}
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    01_Kick.wav:
+      Track_path: Young Griffo - Blood To Bone\Young Griffo - Blood To Bone_RAW\01_Kick.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_Snare:
+    02_SnareUp.wav:
+      Track_path: Young Griffo - Blood To Bone\Young Griffo - Blood To Bone_RAW\02_SnareUp.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    03_SnareDown.wav:
+      Track_path: Young Griffo - Blood To Bone\Young Griffo - Blood To Bone_RAW\03_SnareDown.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_HiHat: {}
+  Drum_Cymbals: {}
+  Drum_Overheads:
+    04_Overheads.wav:
+      Track_path: Young Griffo - Blood To Bone\Young Griffo - Blood To Bone_RAW\04_Overheads.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Tom:
+    06_Tom1.wav:
+      Track_path: Young Griffo - Blood To Bone\Young Griffo - Blood To Bone_RAW\06_Tom1.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    07_Tom2.wav:
+      Track_path: Young Griffo - Blood To Bone\Young Griffo - Blood To Bone_RAW\07_Tom2.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_Room:
+    05_DrumRoom.wav:
+      Track_path: Young Griffo - Blood To Bone\Young Griffo - Blood To Bone_RAW\05_DrumRoom.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop: {}
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass: {}
+  Electric_Bass:
+    08_BassDI.wav:
+      Track_path: Young Griffo - Blood To Bone\Young Griffo - Blood To Bone_RAW\08_BassDI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    09_BassAmp1.wav:
+      Track_path: Young Griffo - Blood To Bone\Young Griffo - Blood To Bone_RAW\09_BassAmp1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    10_BassAmp2.wav:
+      Track_path: Young Griffo - Blood To Bone\Young Griffo - Blood To Bone_RAW\10_BassAmp2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Acoustic_Guitar: {}
+  Electric_Guitar:
+    11_Gtr1Amp1.wav:
+      Track_path: Young Griffo - Blood To Bone\Young Griffo - Blood To Bone_RAW\11_Gtr1Amp1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    12_Gtr1Amp2.wav:
+      Track_path: Young Griffo - Blood To Bone\Young Griffo - Blood To Bone_RAW\12_Gtr1Amp2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    13_Gtr1Amp3.wav:
+      Track_path: Young Griffo - Blood To Bone\Young Griffo - Blood To Bone_RAW\13_Gtr1Amp3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    14_Gtr2Amp1.wav:
+      Track_path: Young Griffo - Blood To Bone\Young Griffo - Blood To Bone_RAW\14_Gtr2Amp1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    15_Gtr2Amp2.wav:
+      Track_path: Young Griffo - Blood To Bone\Young Griffo - Blood To Bone_RAW\15_Gtr2Amp2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    16_Gtr3Amp1.wav:
+      Track_path: Young Griffo - Blood To Bone\Young Griffo - Blood To Bone_RAW\16_Gtr3Amp1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    17_Gtr3Amp2.wav:
+      Track_path: Young Griffo - Blood To Bone\Young Griffo - Blood To Bone_RAW\17_Gtr3Amp2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    18_Gtr3Amp3.wav:
+      Track_path: Young Griffo - Blood To Bone\Young Griffo - Blood To Bone_RAW\18_Gtr3Amp3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    19_Gtr3Amp4.wav:
+      Track_path: Young Griffo - Blood To Bone\Young Griffo - Blood To Bone_RAW\19_Gtr3Amp4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Piano: {}
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    20_LeadVox.wav:
+      Track_path: Young Griffo - Blood To Bone\Young Griffo - Blood To Bone_RAW\20_LeadVox.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    21_LeadVoxDoubletrack.wav:
+      Track_path: Young Griffo - Blood To Bone\Young Griffo - Blood To Bone_RAW\21_LeadVoxDoubletrack.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Choir: {}
+  Backing_Vocal:
+    22_BackingVox1.wav:
+      Track_path: Young Griffo - Blood To Bone\Young Griffo - Blood To Bone_RAW\22_BackingVox1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    23_BackingVox2.wav:
+      Track_path: Young Griffo - Blood To Bone\Young Griffo - Blood To Bone_RAW\23_BackingVox2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Unused: {}
+  Ambient_Microphone: {}

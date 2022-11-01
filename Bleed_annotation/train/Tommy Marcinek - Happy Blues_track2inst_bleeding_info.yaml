@@ -1,0 +1,168 @@
+Track2inst:
+  Electric_Organ:
+    16_Organ1.wav:
+      Track_path: Tommy Marcinek - Happy Blues\Tommy Marcinek - Happy Blues_RAW\16_Organ1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    17_Organ2.wav:
+      Track_path: Tommy Marcinek - Happy Blues\Tommy Marcinek - Happy Blues_RAW\17_Organ2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    18_Organ3.wav:
+      Track_path: Tommy Marcinek - Happy Blues\Tommy Marcinek - Happy Blues_RAW\18_Organ3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Synthesizer: {}
+  SFX: {}
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    01_Kick.wav:
+      Track_path: Tommy Marcinek - Happy Blues\Tommy Marcinek - Happy Blues_RAW\01_Kick.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Snare:
+    02_Snare.wav:
+      Track_path: Tommy Marcinek - Happy Blues\Tommy Marcinek - Happy Blues_RAW\02_Snare.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_HiHat:
+    03_HiHat.wav:
+      Track_path: Tommy Marcinek - Happy Blues\Tommy Marcinek - Happy Blues_RAW\03_HiHat.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Cymbals:
+    04_Ride.wav:
+      Track_path: Tommy Marcinek - Happy Blues\Tommy Marcinek - Happy Blues_RAW\04_Ride.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    09_Crash1.wav:
+      Track_path: Tommy Marcinek - Happy Blues\Tommy Marcinek - Happy Blues_RAW\09_Crash1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    10_Crash2.wav:
+      Track_path: Tommy Marcinek - Happy Blues\Tommy Marcinek - Happy Blues_RAW\10_Crash2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    11_Crash3.wav:
+      Track_path: Tommy Marcinek - Happy Blues\Tommy Marcinek - Happy Blues_RAW\11_Crash3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Overheads: {}
+  Drum_Tom:
+    05_Tom1.wav:
+      Track_path: Tommy Marcinek - Happy Blues\Tommy Marcinek - Happy Blues_RAW\05_Tom1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    06_Tom2.wav:
+      Track_path: Tommy Marcinek - Happy Blues\Tommy Marcinek - Happy Blues_RAW\06_Tom2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    07_Tom3.wav:
+      Track_path: Tommy Marcinek - Happy Blues\Tommy Marcinek - Happy Blues_RAW\07_Tom3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    08_Tom4.wav:
+      Track_path: Tommy Marcinek - Happy Blues\Tommy Marcinek - Happy Blues_RAW\08_Tom4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Room: {}
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop: {}
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass: {}
+  Electric_Bass:
+    12_Bass.wav:
+      Track_path: Tommy Marcinek - Happy Blues\Tommy Marcinek - Happy Blues_RAW\12_Bass.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Acoustic_Guitar: {}
+  Electric_Guitar:
+    13_ElecGtr1.wav:
+      Track_path: Tommy Marcinek - Happy Blues\Tommy Marcinek - Happy Blues_RAW\13_ElecGtr1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    14_ElecGtr2.wav:
+      Track_path: Tommy Marcinek - Happy Blues\Tommy Marcinek - Happy Blues_RAW\14_ElecGtr2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    15_ElecGtr3.wav:
+      Track_path: Tommy Marcinek - Happy Blues\Tommy Marcinek - Happy Blues_RAW\15_ElecGtr3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Piano: {}
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    19_LeadVox.wav:
+      Track_path: Tommy Marcinek - Happy Blues\Tommy Marcinek - Happy Blues_RAW\19_LeadVox.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Choir: {}
+  Backing_Vocal: {}
+  Unused: {}
+  Ambient_Microphone: {}

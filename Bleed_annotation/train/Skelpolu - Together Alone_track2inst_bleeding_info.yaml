@@ -1,0 +1,153 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer:
+    13_Synth.wav:
+      Track_path: Skelpolu - Together Alone\Skelpolu - Together Alone_RAW\13_Synth.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  SFX:
+    08_SFX.wav:
+      Track_path: Skelpolu - Together Alone\Skelpolu - Together Alone_RAW\08_SFX.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    03_Kick1.wav:
+      Track_path: Skelpolu - Together Alone\Skelpolu - Together Alone_RAW\03_Kick1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    04_Kick2.wav:
+      Track_path: Skelpolu - Together Alone\Skelpolu - Together Alone_RAW\04_Kick2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Snare:
+    05_Snare1.wav:
+      Track_path: Skelpolu - Together Alone\Skelpolu - Together Alone_RAW\05_Snare1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    06_Snare2.wav:
+      Track_path: Skelpolu - Together Alone\Skelpolu - Together Alone_RAW\06_Snare2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_HiHat: {}
+  Drum_Cymbals:
+    07_Cymbal.wav:
+      Track_path: Skelpolu - Together Alone\Skelpolu - Together Alone_RAW\07_Cymbal.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Overheads: {}
+  Drum_Tom: {}
+  Drum_Room: {}
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop:
+    01_Loop1.wav:
+      Track_path: Skelpolu - Together Alone\Skelpolu - Together Alone_RAW\01_Loop1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    02_Loop2.wav:
+      Track_path: Skelpolu - Together Alone\Skelpolu - Together Alone_RAW\02_Loop2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass:
+    09_Bass.wav:
+      Track_path: Skelpolu - Together Alone\Skelpolu - Together Alone_RAW\09_Bass.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Electric_Bass: {}
+  Acoustic_Guitar:
+    10_AcousticGtr1.wav:
+      Track_path: Skelpolu - Together Alone\Skelpolu - Together Alone_RAW\10_AcousticGtr1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    11_AcousticGtr2.wav:
+      Track_path: Skelpolu - Together Alone\Skelpolu - Together Alone_RAW\11_AcousticGtr2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Electric_Guitar: {}
+  Piano:
+    12_Piano.wav:
+      Track_path: Skelpolu - Together Alone\Skelpolu - Together Alone_RAW\12_Piano.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    14_LeadVox1.wav:
+      Track_path: Skelpolu - Together Alone\Skelpolu - Together Alone_RAW\14_LeadVox1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Choir: {}
+  Backing_Vocal:
+    15_LeadVox2.wav:
+      Track_path: Skelpolu - Together Alone\Skelpolu - Together Alone_RAW\15_LeadVox2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    16_LeadVox3.wav:
+      Track_path: Skelpolu - Together Alone\Skelpolu - Together Alone_RAW\16_LeadVox3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Unused: {}
+  Ambient_Microphone: {}

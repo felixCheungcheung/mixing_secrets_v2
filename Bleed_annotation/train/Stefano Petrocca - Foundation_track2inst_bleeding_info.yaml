@@ -1,0 +1,224 @@
+Track2inst:
+  Electric_Organ:
+    Organ HI.2.wav:
+      Track_path: Stefano Petrocca - Foundation\Stefano Petrocca - Foundation_RAW\Organ
+        HI.2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Organ HI.wav:
+      Track_path: Stefano Petrocca - Foundation\Stefano Petrocca - Foundation_RAW\Organ
+        HI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Organ Low.2.wav:
+      Track_path: Stefano Petrocca - Foundation\Stefano Petrocca - Foundation_RAW\Organ
+        Low.2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Organ Low.wav:
+      Track_path: Stefano Petrocca - Foundation\Stefano Petrocca - Foundation_RAW\Organ
+        Low.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Synthesizer: {}
+  SFX: {}
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    Kick.LA220.wav:
+      Track_path: Stefano Petrocca - Foundation\Stefano Petrocca - Foundation_RAW\Kick.LA220.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_Snare:
+    SN.LA320.wav:
+      Track_path: Stefano Petrocca - Foundation\Stefano Petrocca - Foundation_RAW\SN.LA320.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_HiHat: {}
+  Drum_Cymbals:
+    Cymb OD.wav:
+      Track_path: Stefano Petrocca - Foundation\Stefano Petrocca - Foundation_RAW\Cymb
+        OD.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_Overheads: {}
+  Drum_Tom: {}
+  Drum_Room: {}
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop: {}
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass: {}
+  Electric_Bass:
+    Bass Amp.LA320.wav:
+      Track_path: Stefano Petrocca - Foundation\Stefano Petrocca - Foundation_RAW\Bass
+        Amp.LA320.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Acoustic_Guitar:
+    DOBRO.LA320.wav:
+      Track_path: Stefano Petrocca - Foundation\Stefano Petrocca - Foundation_RAW\DOBRO.LA320.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Electric_Guitar:
+    El Gtr.LA220.wav:
+      Track_path: Stefano Petrocca - Foundation\Stefano Petrocca - Foundation_RAW\El
+        Gtr.LA220.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Piano: {}
+  Electric_Piano:
+    Wurli.LA220.wav:
+      Track_path: Stefano Petrocca - Foundation\Stefano Petrocca - Foundation_RAW\Wurli.LA220.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Brass_Section:
+    Horns CL.LA320.wav:
+      Track_path: Stefano Petrocca - Foundation\Stefano Petrocca - Foundation_RAW\Horns
+        CL.LA320.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Horns Room.LA220.wav:
+      Track_path: Stefano Petrocca - Foundation\Stefano Petrocca - Foundation_RAW\Horns
+        Room.LA220.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    Lead Bridge.wav:
+      Track_path: Stefano Petrocca - Foundation\Stefano Petrocca - Foundation_RAW\Lead
+        Bridge.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Lead Chorus.wav:
+      Track_path: Stefano Petrocca - Foundation\Stefano Petrocca - Foundation_RAW\Lead
+        Chorus.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Lead DB.wav:
+      Track_path: Stefano Petrocca - Foundation\Stefano Petrocca - Foundation_RAW\Lead
+        DB.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Lead Extra.wav:
+      Track_path: Stefano Petrocca - Foundation\Stefano Petrocca - Foundation_RAW\Lead
+        Extra.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Lead Low.L.wav:
+      Track_path: Stefano Petrocca - Foundation\Stefano Petrocca - Foundation_RAW\Lead
+        Low.L.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Lead Low.R.wav:
+      Track_path: Stefano Petrocca - Foundation\Stefano Petrocca - Foundation_RAW\Lead
+        Low.R.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Lead.LA320.wav:
+      Track_path: Stefano Petrocca - Foundation\Stefano Petrocca - Foundation_RAW\Lead.LA320.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Choir: {}
+  Backing_Vocal:
+    Caro & Doriane1.wav:
+      Track_path: Stefano Petrocca - Foundation\Stefano Petrocca - Foundation_RAW\Caro
+        & Doriane1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Caro & Doriane2.wav:
+      Track_path: Stefano Petrocca - Foundation\Stefano Petrocca - Foundation_RAW\Caro
+        & Doriane2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    LD Chorus.DB.L.wav:
+      Track_path: Stefano Petrocca - Foundation\Stefano Petrocca - Foundation_RAW\LD
+        Chorus.DB.L.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    LD Chorus.DB.R.wav:
+      Track_path: Stefano Petrocca - Foundation\Stefano Petrocca - Foundation_RAW\LD
+        Chorus.DB.R.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Unused:
+    Lauten Foundation DFT M4L.L.wav:
+      Track_path: Stefano Petrocca - Foundation\Stefano Petrocca - Foundation_RAW\Lauten
+        Foundation DFT M4L.L.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Lauten Foundation DFT M4L.R.wav:
+      Track_path: Stefano Petrocca - Foundation\Stefano Petrocca - Foundation_RAW\Lauten
+        Foundation DFT M4L.R.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Ambient_Microphone: {}

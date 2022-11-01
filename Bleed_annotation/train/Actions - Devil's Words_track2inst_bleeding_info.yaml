@@ -1,0 +1,208 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer: {}
+  SFX: {}
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick: {}
+  Drum_Snare:
+    02_Snare.wav:
+      Track_path: Actions - Devil's Words\Actions - Devil's Words_RAW\02_Snare.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads'
+      Comment: ''
+  Drum_HiHat: {}
+  Drum_Cymbals:
+    09_ReverseCymbal.wav:
+      Track_path: Actions - Devil's Words\Actions - Devil's Words_RAW\09_ReverseCymbal.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Overheads:
+    03_Overheads.wav:
+      Track_path: Actions - Devil's Words\Actions - Devil's Words_RAW\03_Overheads.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    08_DrumsReverb.wav:
+      Track_path: Actions - Devil's Words\Actions - Devil's Words_RAW\08_DrumsReverb.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Tom:
+    04_Tom1.wav:
+      Track_path: Actions - Devil's Words\Actions - Devil's Words_RAW\04_Tom1.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads'
+      Comment: ''
+    05_Tom2.wav:
+      Track_path: Actions - Devil's Words\Actions - Devil's Words_RAW\05_Tom2.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads'
+      Comment: ''
+  Drum_Room: {}
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine:
+    06_Tambourine.wav:
+      Track_path: Actions - Devil's Words\Actions - Devil's Words_RAW\06_Tambourine.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Loop:
+    07_Loop.wav:
+      Track_path: Actions - Devil's Words\Actions - Devil's Words_RAW\07_Loop.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass: {}
+  Electric_Bass:
+    10_Bass.wav:
+      Track_path: Actions - Devil's Words\Actions - Devil's Words_RAW\10_Bass.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Acoustic_Guitar: {}
+  Electric_Guitar:
+    11_ElecGtr1.wav:
+      Track_path: Actions - Devil's Words\Actions - Devil's Words_RAW\11_ElecGtr1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    12_ElecGtr2.wav:
+      Track_path: Actions - Devil's Words\Actions - Devil's Words_RAW\12_ElecGtr2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    13_ElecGtr3.wav:
+      Track_path: Actions - Devil's Words\Actions - Devil's Words_RAW\13_ElecGtr3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    14_ElecGtr4.wav:
+      Track_path: Actions - Devil's Words\Actions - Devil's Words_RAW\14_ElecGtr4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    15_ElecGtr5.wav:
+      Track_path: Actions - Devil's Words\Actions - Devil's Words_RAW\15_ElecGtr5.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    16_ElecGtr6.wav:
+      Track_path: Actions - Devil's Words\Actions - Devil's Words_RAW\16_ElecGtr6.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    17_ElecGtr6.wav:
+      Track_path: Actions - Devil's Words\Actions - Devil's Words_RAW\17_ElecGtr6.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Piano: {}
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    18_LeadVox.wav:
+      Track_path: Actions - Devil's Words\Actions - Devil's Words_RAW\18_LeadVox.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    19_LeadVoxDT.wav:
+      Track_path: Actions - Devil's Words\Actions - Devil's Words_RAW\19_LeadVoxDT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Choir: {}
+  Backing_Vocal:
+    20_BackingVox1.wav:
+      Track_path: Actions - Devil's Words\Actions - Devil's Words_RAW\20_BackingVox1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    21_BackingVox2.wav:
+      Track_path: Actions - Devil's Words\Actions - Devil's Words_RAW\21_BackingVox2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    22_BackingVox3.wav:
+      Track_path: Actions - Devil's Words\Actions - Devil's Words_RAW\22_BackingVox3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    23_BackingVox4.wav:
+      Track_path: Actions - Devil's Words\Actions - Devil's Words_RAW\23_BackingVox4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    24_BackingVox5.wav:
+      Track_path: Actions - Devil's Words\Actions - Devil's Words_RAW\24_BackingVox5.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    25_BackingVox6.wav:
+      Track_path: Actions - Devil's Words\Actions - Devil's Words_RAW\25_BackingVox6.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    26_BackingVox7.wav:
+      Track_path: Actions - Devil's Words\Actions - Devil's Words_RAW\26_BackingVox7.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    27_BackingVox8.wav:
+      Track_path: Actions - Devil's Words\Actions - Devil's Words_RAW\27_BackingVox8.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Unused:
+    01_KickTrigger.wav:
+      Track_path: Actions - Devil's Words\Actions - Devil's Words_RAW\01_KickTrigger.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Ambient_Microphone: {}

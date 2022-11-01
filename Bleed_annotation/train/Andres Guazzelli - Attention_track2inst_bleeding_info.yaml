@@ -1,0 +1,223 @@
+Track2inst:
+  Electric_Organ:
+    23_Hammond.wav:
+      Track_path: Andres Guazzelli - Attention\Andres Guazzelli - Attention_RAW\23_Hammond.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Synthesizer: {}
+  SFX:
+    25_SFX1.wav:
+      Track_path: Andres Guazzelli - Attention\Andres Guazzelli - Attention_RAW\25_SFX1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: 'SFX contains nature ambience like thuder, rain.'
+    26_SFX2.wav:
+      Track_path: Andres Guazzelli - Attention\Andres Guazzelli - Attention_RAW\26_SFX2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    27_SFX3.wav:
+      Track_path: Andres Guazzelli - Attention\Andres Guazzelli - Attention_RAW\27_SFX3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    28_SFX4.wav:
+      Track_path: Andres Guazzelli - Attention\Andres Guazzelli - Attention_RAW\28_SFX4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    29_SFX5.wav:
+      Track_path: Andres Guazzelli - Attention\Andres Guazzelli - Attention_RAW\29_SFX5.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    30_SFX6.wav:
+      Track_path: Andres Guazzelli - Attention\Andres Guazzelli - Attention_RAW\30_SFX6.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Marimba: {}
+  Bell:
+    24_SynthBells.wav:
+      Track_path: Andres Guazzelli - Attention\Andres Guazzelli - Attention_RAW\24_SynthBells.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    01_Kick.wav:
+      Track_path: Andres Guazzelli - Attention\Andres Guazzelli - Attention_RAW\01_Kick.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Snare:
+    02_SnareUp.wav:
+      Track_path: Andres Guazzelli - Attention\Andres Guazzelli - Attention_RAW\02_SnareUp.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    03_SnareDown.wav:
+      Track_path: Andres Guazzelli - Attention\Andres Guazzelli - Attention_RAW\03_SnareDown.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    04_SnareSample1.wav:
+      Track_path: Andres Guazzelli - Attention\Andres Guazzelli - Attention_RAW\04_SnareSample1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    05_SnareSample2.wav:
+      Track_path: Andres Guazzelli - Attention\Andres Guazzelli - Attention_RAW\05_SnareSample2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    06_SnareSample3.wav:
+      Track_path: Andres Guazzelli - Attention\Andres Guazzelli - Attention_RAW\06_SnareSample3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    07_SnareSample4.wav:
+      Track_path: Andres Guazzelli - Attention\Andres Guazzelli - Attention_RAW\07_SnareSample4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_HiHat:
+    08_HiHat.wav:
+      Track_path: Andres Guazzelli - Attention\Andres Guazzelli - Attention_RAW\08_HiHat.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Cymbals: {}
+  Drum_Overheads:
+    10_Overheads.wav:
+      Track_path: Andres Guazzelli - Attention\Andres Guazzelli - Attention_RAW\10_Overheads.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    12_DrumsSquash.wav:
+      Track_path: Andres Guazzelli - Attention\Andres Guazzelli - Attention_RAW\12_DrumsSquash.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    13_DrumsVerb.wav:
+      Track_path: Andres Guazzelli - Attention\Andres Guazzelli - Attention_RAW\13_DrumsVerb.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Tom:
+    09_Toms.wav:
+      Track_path: Andres Guazzelli - Attention\Andres Guazzelli - Attention_RAW\09_Toms.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Room:
+    11_DrumsRoom.wav:
+      Track_path: Andres Guazzelli - Attention\Andres Guazzelli - Attention_RAW\11_DrumsRoom.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop: {}
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass: {}
+  Electric_Bass:
+    14_Bass.wav:
+      Track_path: Andres Guazzelli - Attention\Andres Guazzelli - Attention_RAW\14_Bass.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Acoustic_Guitar:
+    21_AcousticGtr.wav:
+      Track_path: Andres Guazzelli - Attention\Andres Guazzelli - Attention_RAW\21_AcousticGtr.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Electric_Guitar:
+    15_ElecGtr1.wav:
+      Track_path: Andres Guazzelli - Attention\Andres Guazzelli - Attention_RAW\15_ElecGtr1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    16_ElecGtr1DT.wav:
+      Track_path: Andres Guazzelli - Attention\Andres Guazzelli - Attention_RAW\16_ElecGtr1DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    17_ElecGtr2.wav:
+      Track_path: Andres Guazzelli - Attention\Andres Guazzelli - Attention_RAW\17_ElecGtr2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    18_ElecGtr3.wav:
+      Track_path: Andres Guazzelli - Attention\Andres Guazzelli - Attention_RAW\18_ElecGtr3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    19_ElecGtr4.wav:
+      Track_path: Andres Guazzelli - Attention\Andres Guazzelli - Attention_RAW\19_ElecGtr4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    20_ElecGtr5.wav:
+      Track_path: Andres Guazzelli - Attention\Andres Guazzelli - Attention_RAW\20_ElecGtr5.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Piano:
+    22_Piano.wav:
+      Track_path: Andres Guazzelli - Attention\Andres Guazzelli - Attention_RAW\22_Piano.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal: {}
+  Choir: {}
+  Backing_Vocal: {}
+  Unused: {}
+  Ambient_Microphone: {}

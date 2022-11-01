@@ -1,0 +1,238 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer: {}
+  SFX:
+    23_Sample.wav:
+      Track_path: Pepelpovetru - Tochka\Pepelpovetru - Tochka_RAW\23_Sample.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    26_SfX.wav:
+      Track_path: Pepelpovetru - Tochka\Pepelpovetru - Tochka_RAW\26_SfX.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: 'nature sound bird and animal'
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    01_KickSample.wav:
+      Track_path: Pepelpovetru - Tochka\Pepelpovetru - Tochka_RAW\01_KickSample.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    05_Drumkit_Kick.wav:
+      Track_path: Pepelpovetru - Tochka\Pepelpovetru - Tochka_RAW\05_Drumkit_Kick.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads'
+      Comment: ''
+  Drum_Snare:
+    02_SnareSample.wav:
+      Track_path: Pepelpovetru - Tochka\Pepelpovetru - Tochka_RAW\02_SnareSample.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    06_Drumkit_SnareUp.wav:
+      Track_path: Pepelpovetru - Tochka\Pepelpovetru - Tochka_RAW\06_Drumkit_SnareUp.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads'
+      Comment: ''
+    07_Drumkit_SnareDown.wav:
+      Track_path: Pepelpovetru - Tochka\Pepelpovetru - Tochka_RAW\07_Drumkit_SnareDown.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads'
+      Comment: ''
+  Drum_HiHat: {}
+  Drum_Cymbals:
+    04_CymbalSFX.wav:
+      Track_path: Pepelpovetru - Tochka\Pepelpovetru - Tochka_RAW\04_CymbalSFX.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads'
+      Comment: ''
+    10_Drumkit_Cymbal.wav:
+      Track_path: Pepelpovetru - Tochka\Pepelpovetru - Tochka_RAW\10_Drumkit_Cymbal.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads'
+      Comment: ''
+  Drum_Overheads:
+    11_Drumkit_Overheads.wav:
+      Track_path: Pepelpovetru - Tochka\Pepelpovetru - Tochka_RAW\11_Drumkit_Overheads.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Tom:
+    08_Drumkit_Tom1.wav:
+      Track_path: Pepelpovetru - Tochka\Pepelpovetru - Tochka_RAW\08_Drumkit_Tom1.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads'
+      Comment: ''
+    09_Drumkit_Tom2.wav:
+      Track_path: Pepelpovetru - Tochka\Pepelpovetru - Tochka_RAW\09_Drumkit_Tom2.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads'
+      Comment: ''
+  Drum_Room:
+    12_Drumkit_Room.wav:
+      Track_path: Pepelpovetru - Tochka\Pepelpovetru - Tochka_RAW\12_Drumkit_Room.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop: {}
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion:
+    03_Percussion.wav:
+      Track_path: Pepelpovetru - Tochka\Pepelpovetru - Tochka_RAW\03_Percussion.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    13_Percussion.wav:
+      Track_path: Pepelpovetru - Tochka\Pepelpovetru - Tochka_RAW\13_Percussion.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Synth_Bass: {}
+  Electric_Bass:
+    14_Bass1.wav:
+      Track_path: Pepelpovetru - Tochka\Pepelpovetru - Tochka_RAW\14_Bass1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    15_Bass2.wav:
+      Track_path: Pepelpovetru - Tochka\Pepelpovetru - Tochka_RAW\15_Bass2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Acoustic_Guitar: {}
+  Electric_Guitar:
+    16_ElecGtr1.wav:
+      Track_path: Pepelpovetru - Tochka\Pepelpovetru - Tochka_RAW\16_ElecGtr1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    17_ElecGtr2.wav:
+      Track_path: Pepelpovetru - Tochka\Pepelpovetru - Tochka_RAW\17_ElecGtr2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    18_ElecGtr3.wav:
+      Track_path: Pepelpovetru - Tochka\Pepelpovetru - Tochka_RAW\18_ElecGtr3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    19_ElecGtr4.wav:
+      Track_path: Pepelpovetru - Tochka\Pepelpovetru - Tochka_RAW\19_ElecGtr4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    20_ElecGtr5.wav:
+      Track_path: Pepelpovetru - Tochka\Pepelpovetru - Tochka_RAW\20_ElecGtr5.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    21_ElecGtr6.wav:
+      Track_path: Pepelpovetru - Tochka\Pepelpovetru - Tochka_RAW\21_ElecGtr6.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Piano:
+    22_Piano.wav:
+      Track_path: Pepelpovetru - Tochka\Pepelpovetru - Tochka_RAW\22_Piano.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Electric_Piano: {}
+  Brass_Section:
+    25_Horns.wav:
+      Track_path: Pepelpovetru - Tochka\Pepelpovetru - Tochka_RAW\25_Horns.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    27_LeadVox1.wav:
+      Track_path: Pepelpovetru - Tochka\Pepelpovetru - Tochka_RAW\27_LeadVox1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    28_LeadVox1DT.wav:
+      Track_path: Pepelpovetru - Tochka\Pepelpovetru - Tochka_RAW\28_LeadVox1DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    29_LeadVox1FX.wav:
+      Track_path: Pepelpovetru - Tochka\Pepelpovetru - Tochka_RAW\29_LeadVox1FX.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    30_LeadVox2.wav:
+      Track_path: Pepelpovetru - Tochka\Pepelpovetru - Tochka_RAW\30_LeadVox2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Choir:
+    24_Choir.wav:
+      Track_path: Pepelpovetru - Tochka\Pepelpovetru - Tochka_RAW\24_Choir.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Backing_Vocal:
+    31_BackingVox1.wav:
+      Track_path: Pepelpovetru - Tochka\Pepelpovetru - Tochka_RAW\31_BackingVox1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    32_BackingVox2.wav:
+      Track_path: Pepelpovetru - Tochka\Pepelpovetru - Tochka_RAW\32_BackingVox2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    33_BackingVox3.wav:
+      Track_path: Pepelpovetru - Tochka\Pepelpovetru - Tochka_RAW\33_BackingVox3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Unused: {}
+  Ambient_Microphone: {}

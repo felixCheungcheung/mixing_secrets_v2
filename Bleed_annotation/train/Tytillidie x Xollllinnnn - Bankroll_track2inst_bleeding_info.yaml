@@ -1,0 +1,163 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer: {}
+  SFX: {}
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    01_Kick.wav:
+      Track_path: Tytillidie x Xollllinnnn - Bankroll\Tytillidie x Xollllinnnn - Bankroll_RAW\01_Kick.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Snare:
+    02_Snare.wav:
+      Track_path: Tytillidie x Xollllinnnn - Bankroll\Tytillidie x Xollllinnnn - Bankroll_RAW\02_Snare.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_HiHat:
+    06_HiHat.wav:
+      Track_path: Tytillidie x Xollllinnnn - Bankroll\Tytillidie x Xollllinnnn - Bankroll_RAW\06_HiHat.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    07_HiHat.wav:
+      Track_path: Tytillidie x Xollllinnnn - Bankroll\Tytillidie x Xollllinnnn - Bankroll_RAW\07_HiHat.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Cymbals: {}
+  Drum_Overheads: {}
+  Drum_Tom: {}
+  Drum_Room: {}
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks:
+    03_Sidestick.wav:
+      Track_path: Tytillidie x Xollllinnnn - Bankroll\Tytillidie x Xollllinnnn - Bankroll_RAW\03_Sidestick.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop: {}
+  Clicks: {}
+  Claps:
+    04_Clap1.wav:
+      Track_path: Tytillidie x Xollllinnnn - Bankroll\Tytillidie x Xollllinnnn - Bankroll_RAW\04_Clap1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    05_Clap2.wav:
+      Track_path: Tytillidie x Xollllinnnn - Bankroll\Tytillidie x Xollllinnnn - Bankroll_RAW\05_Clap2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass: {}
+  Electric_Bass: {}
+  Acoustic_Guitar: {}
+  Electric_Guitar: {}
+  Piano:
+    08_Piano.wav:
+      Track_path: Tytillidie x Xollllinnnn - Bankroll\Tytillidie x Xollllinnnn - Bankroll_RAW\08_Piano.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    09_Vox1.wav:
+      Track_path: Tytillidie x Xollllinnnn - Bankroll\Tytillidie x Xollllinnnn - Bankroll_RAW\09_Vox1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    10_Vox2.wav:
+      Track_path: Tytillidie x Xollllinnnn - Bankroll\Tytillidie x Xollllinnnn - Bankroll_RAW\10_Vox2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    12_Vox4.wav:
+      Track_path: Tytillidie x Xollllinnnn - Bankroll\Tytillidie x Xollllinnnn - Bankroll_RAW\12_Vox4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    13_Vox5.wav:
+      Track_path: Tytillidie x Xollllinnnn - Bankroll\Tytillidie x Xollllinnnn - Bankroll_RAW\13_Vox5.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    14_Vox6.wav:
+      Track_path: Tytillidie x Xollllinnnn - Bankroll\Tytillidie x Xollllinnnn - Bankroll_RAW\14_Vox6.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    15_Vox7.wav:
+      Track_path: Tytillidie x Xollllinnnn - Bankroll\Tytillidie x Xollllinnnn - Bankroll_RAW\15_Vox7.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    16_Vox8.wav:
+      Track_path: Tytillidie x Xollllinnnn - Bankroll\Tytillidie x Xollllinnnn - Bankroll_RAW\16_Vox8.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Choir: {}
+  Backing_Vocal:
+    11_Vox3.wav:
+      Track_path: Tytillidie x Xollllinnnn - Bankroll\Tytillidie x Xollllinnnn - Bankroll_RAW\11_Vox3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    17_VoxFX1.wav:
+      Track_path: Tytillidie x Xollllinnnn - Bankroll\Tytillidie x Xollllinnnn - Bankroll_RAW\17_VoxFX1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    18_VoxFX2.wav:
+      Track_path: Tytillidie x Xollllinnnn - Bankroll\Tytillidie x Xollllinnnn - Bankroll_RAW\18_VoxFX2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Unused: {}
+  Ambient_Microphone: {}

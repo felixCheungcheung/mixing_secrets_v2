@@ -1,0 +1,193 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer: {}
+  SFX: {}
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    01_Kick1.wav:
+      Track_path: Johnny Lokke - Whisper To A Scream\Johnny Lokke - Whisper To A Scream_RAW\01_Kick1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    02_Kick2.wav:
+      Track_path: Johnny Lokke - Whisper To A Scream\Johnny Lokke - Whisper To A Scream_RAW\02_Kick2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Snare:
+    03_SnareUp.wav:
+      Track_path: Johnny Lokke - Whisper To A Scream\Johnny Lokke - Whisper To A Scream_RAW\03_SnareUp.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    04_SnareDown.wav:
+      Track_path: Johnny Lokke - Whisper To A Scream\Johnny Lokke - Whisper To A Scream_RAW\04_SnareDown.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_HiHat:
+    05_HiHat.wav:
+      Track_path: Johnny Lokke - Whisper To A Scream\Johnny Lokke - Whisper To A Scream_RAW\05_HiHat.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Cymbals:
+    06_Ride.wav:
+      Track_path: Johnny Lokke - Whisper To A Scream\Johnny Lokke - Whisper To A Scream_RAW\06_Ride.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Overheads:
+    07_Overheads.wav:
+      Track_path: Johnny Lokke - Whisper To A Scream\Johnny Lokke - Whisper To A Scream_RAW\07_Overheads.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Tom:
+    08_Tom1.wav:
+      Track_path: Johnny Lokke - Whisper To A Scream\Johnny Lokke - Whisper To A Scream_RAW\08_Tom1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    09_Tom2.wav:
+      Track_path: Johnny Lokke - Whisper To A Scream\Johnny Lokke - Whisper To A Scream_RAW\09_Tom2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    10_Tom3.wav:
+      Track_path: Johnny Lokke - Whisper To A Scream\Johnny Lokke - Whisper To A Scream_RAW\10_Tom3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    11_Tom4.wav:
+      Track_path: Johnny Lokke - Whisper To A Scream\Johnny Lokke - Whisper To A Scream_RAW\11_Tom4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Room:
+    12_DrumsRoom1Mono.wav:
+      Track_path: Johnny Lokke - Whisper To A Scream\Johnny Lokke - Whisper To A Scream_RAW\12_DrumsRoom1Mono.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    13_DrumsRoom2Stereo.wav:
+      Track_path: Johnny Lokke - Whisper To A Scream\Johnny Lokke - Whisper To A Scream_RAW\13_DrumsRoom2Stereo.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop: {}
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass: {}
+  Electric_Bass:
+    14_BassDI.wav:
+      Track_path: Johnny Lokke - Whisper To A Scream\Johnny Lokke - Whisper To A Scream_RAW\14_BassDI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    15_BassAmp.wav:
+      Track_path: Johnny Lokke - Whisper To A Scream\Johnny Lokke - Whisper To A Scream_RAW\15_BassAmp.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Acoustic_Guitar: {}
+  Electric_Guitar:
+    16_ElecGtr1.wav:
+      Track_path: Johnny Lokke - Whisper To A Scream\Johnny Lokke - Whisper To A Scream_RAW\16_ElecGtr1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    17_ElecGtr2.wav:
+      Track_path: Johnny Lokke - Whisper To A Scream\Johnny Lokke - Whisper To A Scream_RAW\17_ElecGtr2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    18_ElecGtr3.wav:
+      Track_path: Johnny Lokke - Whisper To A Scream\Johnny Lokke - Whisper To A Scream_RAW\18_ElecGtr3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Piano: {}
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    19_LeadVox.wav:
+      Track_path: Johnny Lokke - Whisper To A Scream\Johnny Lokke - Whisper To A Scream_RAW\19_LeadVox.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    20_LeadVoxDT.wav:
+      Track_path: Johnny Lokke - Whisper To A Scream\Johnny Lokke - Whisper To A Scream_RAW\20_LeadVoxDT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Choir: {}
+  Backing_Vocal:
+    21_BackingVox1.wav:
+      Track_path: Johnny Lokke - Whisper To A Scream\Johnny Lokke - Whisper To A Scream_RAW\21_BackingVox1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    22_BackingVox2.wav:
+      Track_path: Johnny Lokke - Whisper To A Scream\Johnny Lokke - Whisper To A Scream_RAW\22_BackingVox2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    23_BackingVox3.wav:
+      Track_path: Johnny Lokke - Whisper To A Scream\Johnny Lokke - Whisper To A Scream_RAW\23_BackingVox3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    24_BackingVox4.wav:
+      Track_path: Johnny Lokke - Whisper To A Scream\Johnny Lokke - Whisper To A Scream_RAW\24_BackingVox4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Unused: {}
+  Ambient_Microphone: {}

@@ -1,0 +1,247 @@
+Track2inst:
+  Electric_Organ:
+    LESLIE LEFT - M80.wav:
+      Track_path: Jackie Greene - Don't Let The Devil Take Your Mind\Jackie Greene
+        - Don't Let The Devil Take Your Mind_RAW\LESLIE LEFT - M80.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Electric_Bass, Drum_Overheads, Electric_Guitar'
+      Comment: ''
+    LESLIE LOW - M81.wav:
+      Track_path: Jackie Greene - Don't Let The Devil Take Your Mind\Jackie Greene
+        - Don't Let The Devil Take Your Mind_RAW\LESLIE LOW - M81.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Electric_Bass, Drum_Overheads, Electric_Guitar'
+      Comment: ''
+    LESLIE RIGHT - M80.wav:
+      Track_path: Jackie Greene - Don't Let The Devil Take Your Mind\Jackie Greene
+        - Don't Let The Devil Take Your Mind_RAW\LESLIE RIGHT - M80.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Electric_Bass, Drum_Overheads, Electric_Guitar'
+      Comment: ''
+  Synthesizer: {}
+  SFX: {}
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    DRUMS - KICK M82.wav:
+      Track_path: Jackie Greene - Don't Let The Devil Take Your Mind\Jackie Greene
+        - Don't Let The Devil Take Your Mind_RAW\DRUMS - KICK M82.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Electric_Bass, Drum_Overheads, Electric_Organ, Electric_Guitar'
+      Comment: ''
+  Drum_Snare:
+    DRUMS - SNARE - M80-SH.wav:
+      Track_path: Jackie Greene - Don't Let The Devil Take Your Mind\Jackie Greene
+        - Don't Let The Devil Take Your Mind_RAW\DRUMS - SNARE - M80-SH.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Electric_Bass, Drum_Overheads, Electric_Organ, Electric_Guitar'
+      Comment: ''
+  Drum_HiHat:
+    DRUMS - HI HAT - ELA M 260.wav:
+      Track_path: Jackie Greene - Don't Let The Devil Take Your Mind\Jackie Greene
+        - Don't Let The Devil Take Your Mind_RAW\DRUMS - HI HAT - ELA M 260.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Electric_Bass, Drum_Overheads, Electric_Organ, Electric_Guitar'
+      Comment: ''
+  Drum_Cymbals: {}
+  Drum_Overheads:
+    DRUMS - OVERHEAD LEFT - ELA M 260.wav:
+      Track_path: Jackie Greene - Don't Let The Devil Take Your Mind\Jackie Greene
+        - Don't Let The Devil Take Your Mind_RAW\DRUMS - OVERHEAD LEFT - ELA M 260.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Electric_Bass, Electric_Organ, Electric_Guitar'
+      Comment: ''
+    DRUMS - OVERHEAD RIGHT - ELA M 260.wav:
+      Track_path: Jackie Greene - Don't Let The Devil Take Your Mind\Jackie Greene
+        - Don't Let The Devil Take Your Mind_RAW\DRUMS - OVERHEAD RIGHT - ELA M 260.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Electric_Bass, Electric_Organ, Electric_Guitar'
+      Comment: ''
+  Drum_Tom:
+    DRUMS - FLOOR TOM - M81-SH.wav:
+      Track_path: Jackie Greene - Don't Let The Devil Take Your Mind\Jackie Greene
+        - Don't Let The Devil Take Your Mind_RAW\DRUMS - FLOOR TOM - M81-SH.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Electric_Bass, Drum_Overheads, Electric_Organ, Electric_Guitar'
+      Comment: ''
+    DRUMS - TOM 1 - M81-SH.wav:
+      Track_path: Jackie Greene - Don't Let The Devil Take Your Mind\Jackie Greene
+        - Don't Let The Devil Take Your Mind_RAW\DRUMS - TOM 1 - M81-SH.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Electric_Bass, Drum_Overheads, Electric_Organ, Electric_Guitar'
+      Comment: ''
+  Drum_Room: {}
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop: {}
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass: {}
+  Electric_Bass:
+    BASS - M82.wav:
+      Track_path: Jackie Greene - Don't Let The Devil Take Your Mind\Jackie Greene
+        - Don't Let The Devil Take Your Mind_RAW\BASS - M82.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Lead_Vocal, Drum_Overheads, Electric_Organ, Electric_Guitar'
+      Comment: ''
+    BASS DI.wav:
+      Track_path: Jackie Greene - Don't Let The Devil Take Your Mind\Jackie Greene
+        - Don't Let The Devil Take Your Mind_RAW\BASS DI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Acoustic_Guitar: {}
+  Electric_Guitar:
+    GUITAR AMP 1 - M80.wav:
+      Track_path: Jackie Greene - Don't Let The Devil Take Your Mind\Jackie Greene
+        - Don't Let The Devil Take Your Mind_RAW\GUITAR AMP 1 - M80.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Lead_Vocal, Drum_Overheads, Electric_Organ'
+      Comment: ''
+    GUITAR AMP 2 - M81.wav:
+      Track_path: Jackie Greene - Don't Let The Devil Take Your Mind\Jackie Greene
+        - Don't Let The Devil Take Your Mind_RAW\GUITAR AMP 2 - M81.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Lead_Vocal, Drum_Overheads, Electric_Organ'
+      Comment: ''
+    GUITAR AMP 3 - M81.wav:
+      Track_path: Jackie Greene - Don't Let The Devil Take Your Mind\Jackie Greene
+        - Don't Let The Devil Take Your Mind_RAW\GUITAR AMP 3 - M81.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Lead_Vocal, Drum_Overheads, Electric_Organ'
+      Comment: ''
+    GUITAR AMP 4 - M80.wav:
+      Track_path: Jackie Greene - Don't Let The Devil Take Your Mind\Jackie Greene
+        - Don't Let The Devil Take Your Mind_RAW\GUITAR AMP 4 - M80.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Lead_Vocal, Drum_Overheads, Electric_Organ'
+      Comment: ''
+  Piano: {}
+  Electric_Piano:
+    KEY LEFT DI.wav:
+      Track_path: Jackie Greene - Don't Let The Devil Take Your Mind\Jackie Greene
+        - Don't Let The Devil Take Your Mind_RAW\KEY LEFT DI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    KEY RIGHT DI.wav:
+      Track_path: Jackie Greene - Don't Let The Devil Take Your Mind\Jackie Greene
+        - Don't Let The Devil Take Your Mind_RAW\KEY RIGHT DI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    VOX 1 - M80.wav:
+      Track_path: Jackie Greene - Don't Let The Devil Take Your Mind\Jackie Greene
+        - Don't Let The Devil Take Your Mind_RAW\VOX 1 - M80.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Electric_Bass, Drum_Overheads, Electric_Organ, Electric_Guitar'
+      Comment: ''
+  Choir: {}
+  Backing_Vocal:
+    VOX 2- M80.wav:
+      Track_path: Jackie Greene - Don't Let The Devil Take Your Mind\Jackie Greene
+        - Don't Let The Devil Take Your Mind_RAW\VOX 2- M80.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Lead_Vocal, Electric_Bass, Drum_Overheads, Electric_Organ, Electric_Guitar'
+      Comment: ''
+    VOX 3 - M80.wav:
+      Track_path: Jackie Greene - Don't Let The Devil Take Your Mind\Jackie Greene
+        - Don't Let The Devil Take Your Mind_RAW\VOX 3 - M80.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Lead_Vocal, Electric_Bass, Drum_Overheads, Electric_Organ, Electric_Guitar'
+      Comment: ''
+  Unused:
+    ACOUSTIC DI 1.wav:
+      Track_path: Jackie Greene - Don't Let The Devil Take Your Mind\Jackie Greene
+        - Don't Let The Devil Take Your Mind_RAW\ACOUSTIC DI 1.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: ''
+      Comment: ''
+    ACOUSTIC DI 2.wav:
+      Track_path: Jackie Greene - Don't Let The Devil Take Your Mind\Jackie Greene
+        - Don't Let The Devil Take Your Mind_RAW\ACOUSTIC DI 2.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Jackie Greene - Uptown Theater:
+      Track_path: Jackie Greene - Don't Let The Devil Take Your Mind\Jackie Greene
+        - Don't Let The Devil Take Your Mind_RAW\Jackie Greene - Uptown Theater
+      Bleeding: 'Yes'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Napa:
+      Track_path: Jackie Greene - Don't Let The Devil Take Your Mind\Jackie Greene
+        - Don't Let The Devil Take Your Mind_RAW\Napa
+      Bleeding: 'Yes'
+      Bleeding_Instrument: ''
+      Comment: ''
+    CA 04.07.2015-RUFF MIX.wav:
+      Track_path: Jackie Greene - Don't Let The Devil Take Your Mind\Jackie Greene
+        - Don't Let The Devil Take Your Mind_RAW\CA 04.07.2015-RUFF MIX.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Ambient_Microphone:
+    ROOM AB - 260 LEFT.wav:
+      Track_path: Jackie Greene - Don't Let The Devil Take Your Mind\Jackie Greene
+        - Don't Let The Devil Take Your Mind_RAW\ROOM AB - 260 LEFT.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: ''
+      Comment: ''
+    ROOM AB - 260 RIGHT.wav:
+      Track_path: Jackie Greene - Don't Let The Devil Take Your Mind\Jackie Greene
+        - Don't Let The Devil Take Your Mind_RAW\ROOM AB - 260 RIGHT.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: ''
+      Comment: ''
+    ROOM XY - AR-70 STEREO.wav:
+      Track_path: Jackie Greene - Don't Let The Devil Take Your Mind\Jackie Greene
+        - Don't Let The Devil Take Your Mind_RAW\ROOM XY - AR-70 STEREO.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: ''
+      Comment: ''

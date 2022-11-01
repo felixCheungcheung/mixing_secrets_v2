@@ -1,0 +1,258 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer:
+    19_Synth01.wav:
+      Track_path: APZX - Cyber Mower\APZX - Cyber Mower_RAW\19_Synth01.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    20_Synth02.wav:
+      Track_path: APZX - Cyber Mower\APZX - Cyber Mower_RAW\20_Synth02.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    21_Synth03.wav:
+      Track_path: APZX - Cyber Mower\APZX - Cyber Mower_RAW\21_Synth03.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    22_Synth04.wav:
+      Track_path: APZX - Cyber Mower\APZX - Cyber Mower_RAW\22_Synth04.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    23_Synth05.wav:
+      Track_path: APZX - Cyber Mower\APZX - Cyber Mower_RAW\23_Synth05.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    24_Synth06.wav:
+      Track_path: APZX - Cyber Mower\APZX - Cyber Mower_RAW\24_Synth06.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    25_Synth07.wav:
+      Track_path: APZX - Cyber Mower\APZX - Cyber Mower_RAW\25_Synth07.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    26_Synth08.wav:
+      Track_path: APZX - Cyber Mower\APZX - Cyber Mower_RAW\26_Synth08.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    27_Synth09.wav:
+      Track_path: APZX - Cyber Mower\APZX - Cyber Mower_RAW\27_Synth09.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    28_Synth10.wav:
+      Track_path: APZX - Cyber Mower\APZX - Cyber Mower_RAW\28_Synth10.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    29_Synth11.wav:
+      Track_path: APZX - Cyber Mower\APZX - Cyber Mower_RAW\29_Synth11.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    30_Synth12.wav:
+      Track_path: APZX - Cyber Mower\APZX - Cyber Mower_RAW\30_Synth12.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    31_Synth13.wav:
+      Track_path: APZX - Cyber Mower\APZX - Cyber Mower_RAW\31_Synth13.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    32_Synth14.wav:
+      Track_path: APZX - Cyber Mower\APZX - Cyber Mower_RAW\32_Synth14.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  SFX:
+    09_SubDrop.wav:
+      Track_path: APZX - Cyber Mower\APZX - Cyber Mower_RAW\09_SubDrop.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    33_SFX1.wav:
+      Track_path: APZX - Cyber Mower\APZX - Cyber Mower_RAW\33_SFX1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    34_SFX2.wav:
+      Track_path: APZX - Cyber Mower\APZX - Cyber Mower_RAW\34_SFX2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    35_SFX3.wav:
+      Track_path: APZX - Cyber Mower\APZX - Cyber Mower_RAW\35_SFX3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    36_SFX4.wav:
+      Track_path: APZX - Cyber Mower\APZX - Cyber Mower_RAW\36_SFX4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    37_SFX5.wav:
+      Track_path: APZX - Cyber Mower\APZX - Cyber Mower_RAW\37_SFX5.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic:
+    11_Percussion2.wav:
+      Track_path: APZX - Cyber Mower\APZX - Cyber Mower_RAW\11_Percussion2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Kick:
+    01_Kick1.wav:
+      Track_path: APZX - Cyber Mower\APZX - Cyber Mower_RAW\01_Kick1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    02_Kick2.wav:
+      Track_path: APZX - Cyber Mower\APZX - Cyber Mower_RAW\02_Kick2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Snare:
+    03_Snare1.wav:
+      Track_path: APZX - Cyber Mower\APZX - Cyber Mower_RAW\03_Snare1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    04_Snare2.wav:
+      Track_path: APZX - Cyber Mower\APZX - Cyber Mower_RAW\04_Snare2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_HiHat:
+    07_HiHat.wav:
+      Track_path: APZX - Cyber Mower\APZX - Cyber Mower_RAW\07_HiHat.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Cymbals:
+    15_RevCrash.wav:
+      Track_path: APZX - Cyber Mower\APZX - Cyber Mower_RAW\15_RevCrash.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    16_Crash1.wav:
+      Track_path: APZX - Cyber Mower\APZX - Cyber Mower_RAW\16_Crash1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    17_Crash2.wav:
+      Track_path: APZX - Cyber Mower\APZX - Cyber Mower_RAW\17_Crash2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Overheads: {}
+  Drum_Tom:
+    05_Tom1.wav:
+      Track_path: APZX - Cyber Mower\APZX - Cyber Mower_RAW\05_Tom1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    06_Tom2.wav:
+      Track_path: APZX - Cyber Mower\APZX - Cyber Mower_RAW\06_Tom2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Room: {}
+  Shaker:
+    08_Shaker.wav:
+      Track_path: APZX - Cyber Mower\APZX - Cyber Mower_RAW\08_Shaker.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop: {}
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion:
+    10_Percussion1.wav:
+      Track_path: APZX - Cyber Mower\APZX - Cyber Mower_RAW\10_Percussion1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    12_Percussion3.wav:
+      Track_path: APZX - Cyber Mower\APZX - Cyber Mower_RAW\12_Percussion3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    13_Percussion4.wav:
+      Track_path: APZX - Cyber Mower\APZX - Cyber Mower_RAW\13_Percussion4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    14_Percussion5.wav:
+      Track_path: APZX - Cyber Mower\APZX - Cyber Mower_RAW\14_Percussion5.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Synth_Bass:
+    18_Bass.wav:
+      Track_path: APZX - Cyber Mower\APZX - Cyber Mower_RAW\18_Bass.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Electric_Bass: {}
+  Acoustic_Guitar: {}
+  Electric_Guitar: {}
+  Piano: {}
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal: {}
+  Choir: {}
+  Backing_Vocal: {}
+  Unused: {}
+  Ambient_Microphone: {}

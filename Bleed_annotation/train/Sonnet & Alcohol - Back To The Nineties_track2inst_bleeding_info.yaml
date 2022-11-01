@@ -1,0 +1,151 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer: {}
+  SFX: {}
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    01_Kick.wav:
+      Track_path: Sonnet & Alcohol - Back To The Nineties\Sonnet & Alcohol - Back
+        To The Nineties_RAW\01_Kick.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Electric_Guitar, Lead_Vocal, Drum_Overheads'
+      Comment: ''
+  Drum_Snare:
+    02_Snare.wav:
+      Track_path: Sonnet & Alcohol - Back To The Nineties\Sonnet & Alcohol - Back
+        To The Nineties_RAW\02_Snare.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Electric_Guitar, Lead_Vocal, Drum_Overheads'
+      Comment: ''
+  Drum_HiHat: {}
+  Drum_Cymbals: {}
+  Drum_Overheads:
+    05_Overheads.wav:
+      Track_path: Sonnet & Alcohol - Back To The Nineties\Sonnet & Alcohol - Back
+        To The Nineties_RAW\05_Overheads.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Electric_Guitar, Lead_Vocal'
+      Comment: ''
+  Drum_Tom:
+    03_Tom1.wav:
+      Track_path: Sonnet & Alcohol - Back To The Nineties\Sonnet & Alcohol - Back
+        To The Nineties_RAW\03_Tom1.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Electric_Guitar, Lead_Vocal, Drum_Overheads'
+      Comment: ''
+    04_Tom2.wav:
+      Track_path: Sonnet & Alcohol - Back To The Nineties\Sonnet & Alcohol - Back
+        To The Nineties_RAW\04_Tom2.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Electric_Guitar, Lead_Vocal, Drum_Overheads'
+      Comment: ''
+  Drum_Room: {}
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop: {}
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass: {}
+  Electric_Bass:
+    07_BassDI.wav:
+      Track_path: Sonnet & Alcohol - Back To The Nineties\Sonnet & Alcohol - Back
+        To The Nineties_RAW\07_BassDI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Acoustic_Guitar: {}
+  Electric_Guitar:
+    08_ElecGtr1.wav:
+      Track_path: Sonnet & Alcohol - Back To The Nineties\Sonnet & Alcohol - Back
+        To The Nineties_RAW\08_ElecGtr1.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads'
+      Comment: ''
+    09_ElecGtr1DI.wav:
+      Track_path: Sonnet & Alcohol - Back To The Nineties\Sonnet & Alcohol - Back
+        To The Nineties_RAW\09_ElecGtr1DI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    10_ElecGtr2.wav:
+      Track_path: Sonnet & Alcohol - Back To The Nineties\Sonnet & Alcohol - Back
+        To The Nineties_RAW\10_ElecGtr2.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads'
+      Comment: ''
+    11_ElecGtr2DI.wav:
+      Track_path: Sonnet & Alcohol - Back To The Nineties\Sonnet & Alcohol - Back
+        To The Nineties_RAW\11_ElecGtr2DI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Piano: {}
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    12_LeadVox.wav:
+      Track_path: Sonnet & Alcohol - Back To The Nineties\Sonnet & Alcohol - Back
+        To The Nineties_RAW\12_LeadVox.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads, Electric_Guitar'
+      Comment: ''
+  Choir: {}
+  Backing_Vocal: {}
+  Unused:
+    13_BackingVox.wav:
+      Track_path: Sonnet & Alcohol - Back To The Nineties\Sonnet & Alcohol - Back
+        To The Nineties_RAW\13_BackingVox.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Ambient_Microphone:
+    06_Room.wav:
+      Track_path: Sonnet & Alcohol - Back To The Nineties\Sonnet & Alcohol - Back
+        To The Nineties_RAW\06_Room.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: ''
+      Comment: ''

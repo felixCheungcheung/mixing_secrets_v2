@@ -1,0 +1,203 @@
+Track2inst:
+  Electric_Organ:
+    OrgODL_CONS.wav:
+      Track_path: Fredy V - Not Alone\Fredy V - Not Alone_RAW\OrgODL_CONS.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    OrgODR_CONS.wav:
+      Track_path: Fredy V - Not Alone\Fredy V - Not Alone_RAW\OrgODR_CONS.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Synthesizer: {}
+  SFX: {}
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    KIn_CONS.wav:
+      Track_path: Fredy V - Not Alone\Fredy V - Not Alone_RAW\KIn_CONS.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads, Electric_Guitar'
+      Comment: ''
+    KOut_CONS.wav:
+      Track_path: Fredy V - Not Alone\Fredy V - Not Alone_RAW\KOut_CONS.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads, Electric_Guitar'
+      Comment: ''
+  Drum_Snare:
+    Sn_CONS.wav:
+      Track_path: Fredy V - Not Alone\Fredy V - Not Alone_RAW\Sn_CONS.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads, Electric_Guitar'
+      Comment: ''
+  Drum_HiHat:
+    HH_CONS.wav:
+      Track_path: Fredy V - Not Alone\Fredy V - Not Alone_RAW\HH_CONS.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads, Electric_Guitar'
+      Comment: ''
+  Drum_Cymbals: {}
+  Drum_Overheads:
+    MonoDr_CONS.wav:
+      Track_path: Fredy V - Not Alone\Fredy V - Not Alone_RAW\MonoDr_CONS.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Electric_Guitar'
+      Comment: 'noticebale'
+    OH St_CONS.L.wav:
+      Track_path: Fredy V - Not Alone\Fredy V - Not Alone_RAW\OH St_CONS.L.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Electric_Guitar'
+      Comment: ''
+    OH St_CONS.R.wav:
+      Track_path: Fredy V - Not Alone\Fredy V - Not Alone_RAW\OH St_CONS.R.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Electric_Guitar'
+      Comment: ''
+  Drum_Tom:
+    FlTom_CONS.wav:
+      Track_path: Fredy V - Not Alone\Fredy V - Not Alone_RAW\FlTom_CONS.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Tom1_CONS.wav:
+      Track_path: Fredy V - Not Alone\Fredy V - Not Alone_RAW\Tom1_CONS.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads, Electric_Guitar'
+      Comment: ''
+    Tom2_CONS.wav:
+      Track_path: Fredy V - Not Alone\Fredy V - Not Alone_RAW\Tom2_CONS.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads, Electric_Guitar'
+      Comment: ''
+  Drum_Room: {}
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop: {}
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass: {}
+  Electric_Bass:
+    BassDI_CONS.wav:
+      Track_path: Fredy V - Not Alone\Fredy V - Not Alone_RAW\BassDI_CONS.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Acoustic_Guitar: {}
+  Electric_Guitar:
+    EGtr1a_CONS.wav:
+      Track_path: Fredy V - Not Alone\Fredy V - Not Alone_RAW\EGtr1a_CONS.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads'
+      Comment: ''
+    EGtr1b_CONS.wav:
+      Track_path: Fredy V - Not Alone\Fredy V - Not Alone_RAW\EGtr1b_CONS.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads'
+      Comment: ''
+  Piano: {}
+  Electric_Piano:
+    EKeys1a_CONS.wav:
+      Track_path: Fredy V - Not Alone\Fredy V - Not Alone_RAW\EKeys1a_CONS.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    EKeys1b_CONS.wav:
+      Track_path: Fredy V - Not Alone\Fredy V - Not Alone_RAW\EKeys1b_CONS.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    LdV3DH_CONS.wav:
+      Track_path: Fredy V - Not Alone\Fredy V - Not Alone_RAW\LdV3DH_CONS.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    LdV3D_CONS.wav:
+      Track_path: Fredy V - Not Alone\Fredy V - Not Alone_RAW\LdV3D_CONS.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    LdVC2_CONS.wav:
+      Track_path: Fredy V - Not Alone\Fredy V - Not Alone_RAW\LdVC2_CONS.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Choir: {}
+  Backing_Vocal:
+    BkV1D_CONS.wav:
+      Track_path: Fredy V - Not Alone\Fredy V - Not Alone_RAW\BkV1D_CONS.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    BkV1_CONS.wav:
+      Track_path: Fredy V - Not Alone\Fredy V - Not Alone_RAW\BkV1_CONS.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    BkV2D_CONS.wav:
+      Track_path: Fredy V - Not Alone\Fredy V - Not Alone_RAW\BkV2D_CONS.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    BkV2_CONS.wav:
+      Track_path: Fredy V - Not Alone\Fredy V - Not Alone_RAW\BkV2_CONS.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    BkV3D_CONS.wav:
+      Track_path: Fredy V - Not Alone\Fredy V - Not Alone_RAW\BkV3D_CONS.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    BkV3_CONS.wav:
+      Track_path: Fredy V - Not Alone\Fredy V - Not Alone_RAW\BkV3_CONS.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Unused: {}
+  Ambient_Microphone: {}

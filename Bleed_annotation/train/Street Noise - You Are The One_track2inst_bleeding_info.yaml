@@ -1,0 +1,148 @@
+Track2inst:
+  Electric_Organ:
+    12_HammondLeslieHi.wav:
+      Track_path: Street Noise - You Are The One\Street Noise - You Are The One_RAW\12_HammondLeslieHi.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads, Electric_Guitar, Electric_Bass, Conga'
+      Comment: ''
+    13_HammondLeslieLo.wav:
+      Track_path: Street Noise - You Are The One\Street Noise - You Are The One_RAW\13_HammondLeslieLo.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads, Electric_Guitar, Electric_Bass, Conga'
+      Comment: ''
+  Synthesizer:
+    15_Synth.wav:
+      Track_path: Street Noise - You Are The One\Street Noise - You Are The One_RAW\15_Synth.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  SFX: {}
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick: {}
+  Drum_Snare:
+    02_Snare.wav:
+      Track_path: Street Noise - You Are The One\Street Noise - You Are The One_RAW\02_Snare.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads, Electric_Bass, Conga, Electric_Guitar'
+      Comment: ''
+  Drum_HiHat: {}
+  Drum_Cymbals:
+    04_Cymbals.wav:
+      Track_path: Street Noise - You Are The One\Street Noise - You Are The One_RAW\04_Cymbals.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads, Electric_Bass, Conga, Electric_Guitar'
+      Comment: ''
+  Drum_Overheads:
+    03_Overheads.wav:
+      Track_path: Street Noise - You Are The One\Street Noise - You Are The One_RAW\03_Overheads.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Electric_Bass, Conga, Electric_Guitar'
+      Comment: ''
+  Drum_Tom: {}
+  Drum_Room: {}
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga:
+    06_Congas.wav:
+      Track_path: Street Noise - You Are The One\Street Noise - You Are The One_RAW\06_Congas.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads, Electric_Bass, Electric_Guitar'
+      Comment: ''
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop: {}
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass: {}
+  Electric_Bass:
+    05_Bass.wav:
+      Track_path: Street Noise - You Are The One\Street Noise - You Are The One_RAW\05_Bass.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Electric_Guitar'
+      Comment: ''
+  Acoustic_Guitar:
+    09_AccGtr.wav:
+      Track_path: Street Noise - You Are The One\Street Noise - You Are The One_RAW\09_AccGtr.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Electric_Guitar, Electric_Bass, Conga'
+      Comment: ''
+  Electric_Guitar:
+    07_ElecGtr1.wav:
+      Track_path: Street Noise - You Are The One\Street Noise - You Are The One_RAW\07_ElecGtr1.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads, Electric_Bass, Conga'
+      Comment: ''
+    08_ElecGtr2.wav:
+      Track_path: Street Noise - You Are The One\Street Noise - You Are The One_RAW\08_ElecGtr2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Piano:
+    14_Piano.wav:
+      Track_path: Street Noise - You Are The One\Street Noise - You Are The One_RAW\14_Piano.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    10_LeadVox.wav:
+      Track_path: Street Noise - You Are The One\Street Noise - You Are The One_RAW\10_LeadVox.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Choir: {}
+  Backing_Vocal:
+    11_BackVox.wav:
+      Track_path: Street Noise - You Are The One\Street Noise - You Are The One_RAW\11_BackVox.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Lead_Vocal, Acoustic_Guitar, Drum_Overheads, Electric_Guitar'
+      Comment: ''
+  Unused:
+    01_Kick.wav:
+      Track_path: Street Noise - You Are The One\Street Noise - You Are The One_RAW\01_Kick.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Ambient_Microphone: {}

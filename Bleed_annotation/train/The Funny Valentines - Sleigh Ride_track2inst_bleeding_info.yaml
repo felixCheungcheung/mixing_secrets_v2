@@ -1,0 +1,115 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer: {}
+  SFX: {}
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    01_Kick.wav:
+      Track_path: The Funny Valentines - Sleigh Ride\The Funny Valentines - Sleigh
+        Ride_RAW\01_Kick.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads, Electric_Bass, Lead_Vocal, Piano'
+      Comment: ''
+  Drum_Snare: {}
+  Drum_HiHat: {}
+  Drum_Cymbals: {}
+  Drum_Overheads:
+    02_Overheads.wav:
+      Track_path: The Funny Valentines - Sleigh Ride\The Funny Valentines - Sleigh
+        Ride_RAW\02_Overheads.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Electric_Bass, Lead_Vocal, Piano'
+      Comment: 'Claps in the end'
+  Drum_Tom: {}
+  Drum_Room: {}
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop: {}
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass: {}
+  Electric_Bass:
+    03_BassDI.wav:
+      Track_path: The Funny Valentines - Sleigh Ride\The Funny Valentines - Sleigh
+        Ride_RAW\03_BassDI.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Lead_Vocal, Drum_Overheads, Piano'
+      Comment: 'slight'
+    04_BassAmp.wav:
+      Track_path: The Funny Valentines - Sleigh Ride\The Funny Valentines - Sleigh
+        Ride_RAW\04_BassAmp.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Lead_Vocal, Drum_Overheads, Piano'
+      Comment: 'huge'
+  Acoustic_Guitar: {}
+  Electric_Guitar: {}
+  Piano:
+    05_PianoInsideMics.wav:
+      Track_path: The Funny Valentines - Sleigh Ride\The Funny Valentines - Sleigh
+        Ride_RAW\05_PianoInsideMics.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Lead_Vocal'
+      Comment: ''
+    06_PianoOutsideMics.wav:
+      Track_path: The Funny Valentines - Sleigh Ride\The Funny Valentines - Sleigh
+        Ride_RAW\06_PianoOutsideMics.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Lead_Vocal, Drum_Overheads, Electric_Bass'
+      Comment: ''
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    07_LeadVox.wav:
+      Track_path: The Funny Valentines - Sleigh Ride\The Funny Valentines - Sleigh
+        Ride_RAW\07_LeadVox.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads, Piano'
+      Comment: ''
+  Choir: {}
+  Backing_Vocal: {}
+  Unused: {}
+  Ambient_Microphone: {}

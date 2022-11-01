@@ -1,0 +1,145 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer: {}
+  SFX: {}
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick: {}
+  Drum_Snare: {}
+  Drum_HiHat: {}
+  Drum_Cymbals: {}
+  Drum_Overheads:
+    01_Drum.wav:
+      Track_path: Wolf's Head & Vixen Morris Band - Lament\Wolf's Head & Vixen Morris
+        Band - Lament_RAW\01_Drum.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Tom: {}
+  Drum_Room: {}
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop: {}
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass: {}
+  Electric_Bass: {}
+  Acoustic_Guitar:
+    05_Mandolin.wav:
+      Track_path: Wolf's Head & Vixen Morris Band - Lament\Wolf's Head & Vixen Morris
+        Band - Lament_RAW\05_Mandolin.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    06_Bazouki.wav:
+      Track_path: Wolf's Head & Vixen Morris Band - Lament\Wolf's Head & Vixen Morris
+        Band - Lament_RAW\06_Bazouki.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    07_AcGuitar1.wav:
+      Track_path: Wolf's Head & Vixen Morris Band - Lament\Wolf's Head & Vixen Morris
+        Band - Lament_RAW\07_AcGuitar1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    08_AcGuitar2.wav:
+      Track_path: Wolf's Head & Vixen Morris Band - Lament\Wolf's Head & Vixen Morris
+        Band - Lament_RAW\08_AcGuitar2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Electric_Guitar: {}
+  Piano: {}
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section:
+    02_HurdyGurdy1.wav:
+      Track_path: Wolf's Head & Vixen Morris Band - Lament\Wolf's Head & Vixen Morris
+        Band - Lament_RAW\02_HurdyGurdy1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    03_HurdyGurdy2.wav:
+      Track_path: Wolf's Head & Vixen Morris Band - Lament\Wolf's Head & Vixen Morris
+        Band - Lament_RAW\03_HurdyGurdy2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    04_HurdyGurdy3.wav:
+      Track_path: Wolf's Head & Vixen Morris Band - Lament\Wolf's Head & Vixen Morris
+        Band - Lament_RAW\04_HurdyGurdy3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute:
+    11_Recorder.wav:
+      Track_path: Wolf's Head & Vixen Morris Band - Lament\Wolf's Head & Vixen Morris
+        Band - Lament_RAW\11_Recorder.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    12_BassRecorder.wav:
+      Track_path: Wolf's Head & Vixen Morris Band - Lament\Wolf's Head & Vixen Morris
+        Band - Lament_RAW\12_BassRecorder.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle:
+    09_TinWhistle1.wav:
+      Track_path: Wolf's Head & Vixen Morris Band - Lament\Wolf's Head & Vixen Morris
+        Band - Lament_RAW\09_TinWhistle1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    10_TinWhistle2.wav:
+      Track_path: Wolf's Head & Vixen Morris Band - Lament\Wolf's Head & Vixen Morris
+        Band - Lament_RAW\10_TinWhistle2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal: {}
+  Choir: {}
+  Backing_Vocal: {}
+  Unused: {}
+  Ambient_Microphone: {}

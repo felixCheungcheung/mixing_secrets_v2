@@ -1,0 +1,248 @@
+Track2inst:
+  Electric_Organ:
+    23_HammondLeslieLo.wav:
+      Track_path: The Travelling Band - Quicksand\The Travelling Band - Quicksand_RAW\23_HammondLeslieLo.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    24_HammondLeslieHi.wav:
+      Track_path: The Travelling Band - Quicksand\The Travelling Band - Quicksand_RAW\24_HammondLeslieHi.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    25_Organ.wav:
+      Track_path: The Travelling Band - Quicksand\The Travelling Band - Quicksand_RAW\25_Organ.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Synthesizer: {}
+  SFX: {}
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    01_KickClose.wav:
+      Track_path: The Travelling Band - Quicksand\The Travelling Band - Quicksand_RAW\01_KickClose.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    02_KickFar.wav:
+      Track_path: The Travelling Band - Quicksand\The Travelling Band - Quicksand_RAW\02_KickFar.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    03_KickSub.wav:
+      Track_path: The Travelling Band - Quicksand\The Travelling Band - Quicksand_RAW\03_KickSub.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_Snare:
+    04_SnareUp.wav:
+      Track_path: The Travelling Band - Quicksand\The Travelling Band - Quicksand_RAW\04_SnareUp.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    05_SnareDown.wav:
+      Track_path: The Travelling Band - Quicksand\The Travelling Band - Quicksand_RAW\05_SnareDown.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_HiHat:
+    06_HiHat.wav:
+      Track_path: The Travelling Band - Quicksand\The Travelling Band - Quicksand_RAW\06_HiHat.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_Cymbals: {}
+  Drum_Overheads:
+    07_Overheads.wav:
+      Track_path: The Travelling Band - Quicksand\The Travelling Band - Quicksand_RAW\07_Overheads.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Tom:
+    08_Tom1.wav:
+      Track_path: The Travelling Band - Quicksand\The Travelling Band - Quicksand_RAW\08_Tom1.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    09_Tom2.wav:
+      Track_path: The Travelling Band - Quicksand\The Travelling Band - Quicksand_RAW\09_Tom2.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    10_Tom3.wav:
+      Track_path: The Travelling Band - Quicksand\The Travelling Band - Quicksand_RAW\10_Tom3.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_Room: {}
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine:
+    12_Tambourine.wav:
+      Track_path: The Travelling Band - Quicksand\The Travelling Band - Quicksand_RAW\12_Tambourine.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Loop: {}
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass: {}
+  Electric_Bass:
+    13_BassDI.wav:
+      Track_path: The Travelling Band - Quicksand\The Travelling Band - Quicksand_RAW\13_BassDI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Acoustic_Guitar: {}
+  Electric_Guitar:
+    14_ElecGtr1Close.wav:
+      Track_path: The Travelling Band - Quicksand\The Travelling Band - Quicksand_RAW\14_ElecGtr1Close.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    15_ElecGtrFar.wav:
+      Track_path: The Travelling Band - Quicksand\The Travelling Band - Quicksand_RAW\15_ElecGtrFar.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    16_ElecGtr1DI.wav:
+      Track_path: The Travelling Band - Quicksand\The Travelling Band - Quicksand_RAW\16_ElecGtr1DI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    17_ElecGtr2Close.wav:
+      Track_path: The Travelling Band - Quicksand\The Travelling Band - Quicksand_RAW\17_ElecGtr2Close.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    18_ElecGtr2Far.wav:
+      Track_path: The Travelling Band - Quicksand\The Travelling Band - Quicksand_RAW\18_ElecGtr2Far.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    19_ElecGtr2DI.wav:
+      Track_path: The Travelling Band - Quicksand\The Travelling Band - Quicksand_RAW\19_ElecGtr2DI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    20_ElecGtr3Close.wav:
+      Track_path: The Travelling Band - Quicksand\The Travelling Band - Quicksand_RAW\20_ElecGtr3Close.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    21_ElecGtr3Far.wav:
+      Track_path: The Travelling Band - Quicksand\The Travelling Band - Quicksand_RAW\21_ElecGtr3Far.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    22_ElecGtr3DI.wav:
+      Track_path: The Travelling Band - Quicksand\The Travelling Band - Quicksand_RAW\22_ElecGtr3DI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Piano: {}
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section:
+    26_MellotronFlute.wav:
+      Track_path: The Travelling Band - Quicksand\The Travelling Band - Quicksand_RAW\26_MellotronFlute.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Lead_Vocal:
+    27_LeadVox.wav:
+      Track_path: The Travelling Band - Quicksand\The Travelling Band - Quicksand_RAW\27_LeadVox.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    28_LeadVoxFX.wav:
+      Track_path: The Travelling Band - Quicksand\The Travelling Band - Quicksand_RAW\28_LeadVoxFX.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Choir: {}
+  Backing_Vocal:
+    29_BackingVox1.wav:
+      Track_path: The Travelling Band - Quicksand\The Travelling Band - Quicksand_RAW\29_BackingVox1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    30_BackingVox2.wav:
+      Track_path: The Travelling Band - Quicksand\The Travelling Band - Quicksand_RAW\30_BackingVox2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    31_BackingVox3.wav:
+      Track_path: The Travelling Band - Quicksand\The Travelling Band - Quicksand_RAW\31_BackingVox3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Unused: {}
+  Ambient_Microphone:
+    11_Room.wav:
+      Track_path: The Travelling Band - Quicksand\The Travelling Band - Quicksand_RAW\11_Room.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    32_IntroClose1.wav:
+      Track_path: The Travelling Band - Quicksand\The Travelling Band - Quicksand_RAW\32_IntroClose1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    33_IntroClose2.wav:
+      Track_path: The Travelling Band - Quicksand\The Travelling Band - Quicksand_RAW\33_IntroClose2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    34_IntroFar1.wav:
+      Track_path: The Travelling Band - Quicksand\The Travelling Band - Quicksand_RAW\34_IntroFar1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    35_IntroFar2.wav:
+      Track_path: The Travelling Band - Quicksand\The Travelling Band - Quicksand_RAW\35_IntroFar2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''

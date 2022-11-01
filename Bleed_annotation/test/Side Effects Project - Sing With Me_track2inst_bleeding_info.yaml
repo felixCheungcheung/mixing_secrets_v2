@@ -1,0 +1,349 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer:
+    20_SynthLead.wav:
+      Track_path: Side Effects Project - Sing With Me\Side Effects Project - Sing
+        With Me_RAW\20_SynthLead.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  SFX:
+    22_Sample1.wav:
+      Track_path: Side Effects Project - Sing With Me\Side Effects Project - Sing
+        With Me_RAW\22_Sample1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: 'samples.wav is vocal but strange. I decide to put it to SFX'
+    23_Sample2.wav:
+      Track_path: Side Effects Project - Sing With Me\Side Effects Project - Sing
+        With Me_RAW\23_Sample2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    24_Sample3.wav:
+      Track_path: Side Effects Project - Sing With Me\Side Effects Project - Sing
+        With Me_RAW\24_Sample3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    25_Sample4.wav:
+      Track_path: Side Effects Project - Sing With Me\Side Effects Project - Sing
+        With Me_RAW\25_Sample4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    26_Sample5.wav:
+      Track_path: Side Effects Project - Sing With Me\Side Effects Project - Sing
+        With Me_RAW\26_Sample5.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp:
+    19_Harp.wav:
+      Track_path: Side Effects Project - Sing With Me\Side Effects Project - Sing
+        With Me_RAW\19_Harp.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    01_Kick.wav:
+      Track_path: Side Effects Project - Sing With Me\Side Effects Project - Sing
+        With Me_RAW\01_Kick.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Snare:
+    02_Snare1.wav:
+      Track_path: Side Effects Project - Sing With Me\Side Effects Project - Sing
+        With Me_RAW\02_Snare1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    03_Snare2.wav:
+      Track_path: Side Effects Project - Sing With Me\Side Effects Project - Sing
+        With Me_RAW\03_Snare2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_HiHat:
+    08_HiHat1.wav:
+      Track_path: Side Effects Project - Sing With Me\Side Effects Project - Sing
+        With Me_RAW\08_HiHat1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    09_HiHat2.wav:
+      Track_path: Side Effects Project - Sing With Me\Side Effects Project - Sing
+        With Me_RAW\09_HiHat2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    10_HiHat3.wav:
+      Track_path: Side Effects Project - Sing With Me\Side Effects Project - Sing
+        With Me_RAW\10_HiHat3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    11_HiHat4.wav:
+      Track_path: Side Effects Project - Sing With Me\Side Effects Project - Sing
+        With Me_RAW\11_HiHat4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Cymbals:
+    16_ReverseCymbal.wav:
+      Track_path: Side Effects Project - Sing With Me\Side Effects Project - Sing
+        With Me_RAW\16_ReverseCymbal.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Overheads: {}
+  Drum_Tom:
+    14_TomRim.wav:
+      Track_path: Side Effects Project - Sing With Me\Side Effects Project - Sing
+        With Me_RAW\14_TomRim.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    15_LowTom.wav:
+      Track_path: Side Effects Project - Sing With Me\Side Effects Project - Sing
+        With Me_RAW\15_LowTom.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Room: {}
+  Shaker:
+    17_Shaker.wav:
+      Track_path: Side Effects Project - Sing With Me\Side Effects Project - Sing
+        With Me_RAW\17_Shaker.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop: {}
+  Clicks: {}
+  Claps:
+    04_Clap1.wav:
+      Track_path: Side Effects Project - Sing With Me\Side Effects Project - Sing
+        With Me_RAW\04_Clap1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    05_Clap2.wav:
+      Track_path: Side Effects Project - Sing With Me\Side Effects Project - Sing
+        With Me_RAW\05_Clap2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    06_Clap3.wav:
+      Track_path: Side Effects Project - Sing With Me\Side Effects Project - Sing
+        With Me_RAW\06_Clap3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    07_Clap4.wav:
+      Track_path: Side Effects Project - Sing With Me\Side Effects Project - Sing
+        With Me_RAW\07_Clap4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo:
+    12_Bongo.wav:
+      Track_path: Side Effects Project - Sing With Me\Side Effects Project - Sing
+        With Me_RAW\12_Bongo.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Gong: {}
+  Timbale:
+    13_Timbale.wav:
+      Track_path: Side Effects Project - Sing With Me\Side Effects Project - Sing
+        With Me_RAW\13_Timbale.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass:
+    18_Bass.wav:
+      Track_path: Side Effects Project - Sing With Me\Side Effects Project - Sing
+        With Me_RAW\18_Bass.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Electric_Bass: {}
+  Acoustic_Guitar: {}
+  Electric_Guitar:
+    21_ElecGtrLoop.wav:
+      Track_path: Side Effects Project - Sing With Me\Side Effects Project - Sing
+        With Me_RAW\21_ElecGtrLoop.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Piano: {}
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    27_LeadVox1.wav:
+      Track_path: Side Effects Project - Sing With Me\Side Effects Project - Sing
+        With Me_RAW\27_LeadVox1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    28_LeadVox2.wav:
+      Track_path: Side Effects Project - Sing With Me\Side Effects Project - Sing
+        With Me_RAW\28_LeadVox2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    29_LeadVoxDT1.wav:
+      Track_path: Side Effects Project - Sing With Me\Side Effects Project - Sing
+        With Me_RAW\29_LeadVoxDT1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    30_LeadVoxDT2.wav:
+      Track_path: Side Effects Project - Sing With Me\Side Effects Project - Sing
+        With Me_RAW\30_LeadVoxDT2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    31_LeadVoxCh1.wav:
+      Track_path: Side Effects Project - Sing With Me\Side Effects Project - Sing
+        With Me_RAW\31_LeadVoxCh1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    32_LeadVoxCh2.wav:
+      Track_path: Side Effects Project - Sing With Me\Side Effects Project - Sing
+        With Me_RAW\32_LeadVoxCh2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    33_LeadVoxCh3.wav:
+      Track_path: Side Effects Project - Sing With Me\Side Effects Project - Sing
+        With Me_RAW\33_LeadVoxCh3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    34_LeadVoxCh4.wav:
+      Track_path: Side Effects Project - Sing With Me\Side Effects Project - Sing
+        With Me_RAW\34_LeadVoxCh4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Choir: {}
+  Backing_Vocal:
+    35_BackingVox01.wav:
+      Track_path: Side Effects Project - Sing With Me\Side Effects Project - Sing
+        With Me_RAW\35_BackingVox01.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    36_BackingVox02.wav:
+      Track_path: Side Effects Project - Sing With Me\Side Effects Project - Sing
+        With Me_RAW\36_BackingVox02.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    37_BackingVox03.wav:
+      Track_path: Side Effects Project - Sing With Me\Side Effects Project - Sing
+        With Me_RAW\37_BackingVox03.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    38_BackingVox04.wav:
+      Track_path: Side Effects Project - Sing With Me\Side Effects Project - Sing
+        With Me_RAW\38_BackingVox04.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    39_BackingVox05.wav:
+      Track_path: Side Effects Project - Sing With Me\Side Effects Project - Sing
+        With Me_RAW\39_BackingVox05.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    40_BackingVox06.wav:
+      Track_path: Side Effects Project - Sing With Me\Side Effects Project - Sing
+        With Me_RAW\40_BackingVox06.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    41_BackingVox07.wav:
+      Track_path: Side Effects Project - Sing With Me\Side Effects Project - Sing
+        With Me_RAW\41_BackingVox07.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    42_BackingVox08.wav:
+      Track_path: Side Effects Project - Sing With Me\Side Effects Project - Sing
+        With Me_RAW\42_BackingVox08.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    43_BackingVox09.wav:
+      Track_path: Side Effects Project - Sing With Me\Side Effects Project - Sing
+        With Me_RAW\43_BackingVox09.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    44_BackingVox10.wav:
+      Track_path: Side Effects Project - Sing With Me\Side Effects Project - Sing
+        With Me_RAW\44_BackingVox10.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    45_BackingVox11.wav:
+      Track_path: Side Effects Project - Sing With Me\Side Effects Project - Sing
+        With Me_RAW\45_BackingVox11.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    46_BackingVox12.wav:
+      Track_path: Side Effects Project - Sing With Me\Side Effects Project - Sing
+        With Me_RAW\46_BackingVox12.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Unused: {}
+  Ambient_Microphone: {}

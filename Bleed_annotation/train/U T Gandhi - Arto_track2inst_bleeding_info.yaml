@@ -1,0 +1,128 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer:
+    01_Synth1.wav:
+      Track_path: U T Gandhi - Arto\U T Gandhi - Arto_RAW\01_Synth1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    02_Synth2.wav:
+      Track_path: U T Gandhi - Arto\U T Gandhi - Arto_RAW\02_Synth2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    03_Synth3.wav:
+      Track_path: U T Gandhi - Arto\U T Gandhi - Arto_RAW\03_Synth3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    04_Synth4.wav:
+      Track_path: U T Gandhi - Arto\U T Gandhi - Arto_RAW\04_Synth4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  SFX: {}
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick: {}
+  Drum_Snare: {}
+  Drum_HiHat: {}
+  Drum_Cymbals: {}
+  Drum_Overheads: {}
+  Drum_Tom: {}
+  Drum_Room: {}
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine:
+    10_Tambourine.wav:
+      Track_path: U T Gandhi - Arto\U T Gandhi - Arto_RAW\10_Tambourine.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    11_TambourineBrush.wav:
+      Track_path: U T Gandhi - Arto\U T Gandhi - Arto_RAW\11_TambourineBrush.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Loop: {}
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion:
+    05_Percussion1.wav:
+      Track_path: U T Gandhi - Arto\U T Gandhi - Arto_RAW\05_Percussion1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    06_Percussion2.wav:
+      Track_path: U T Gandhi - Arto\U T Gandhi - Arto_RAW\06_Percussion2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    07_Percussion3.wav:
+      Track_path: U T Gandhi - Arto\U T Gandhi - Arto_RAW\07_Percussion3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    08_Percussion4.wav:
+      Track_path: U T Gandhi - Arto\U T Gandhi - Arto_RAW\08_Percussion4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    09_Percussion5.wav:
+      Track_path: U T Gandhi - Arto\U T Gandhi - Arto_RAW\09_Percussion5.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Synth_Bass: {}
+  Electric_Bass: {}
+  Acoustic_Guitar: {}
+  Electric_Guitar: {}
+  Piano: {}
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal: {}
+  Choir: {}
+  Backing_Vocal: {}
+  Unused: {}
+  Ambient_Microphone: {}

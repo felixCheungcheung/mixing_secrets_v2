@@ -1,0 +1,228 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer:
+    20_Synth1.wav:
+      Track_path: House Of Bedlam - Eventide\House Of Bedlam - Eventide_RAW\20_Synth1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    21_Synth2.wav:
+      Track_path: House Of Bedlam - Eventide\House Of Bedlam - Eventide_RAW\21_Synth2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  SFX: {}
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    01_Kick.wav:
+      Track_path: House Of Bedlam - Eventide\House Of Bedlam - Eventide_RAW\01_Kick.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Snare:
+    02_Snare.wav:
+      Track_path: House Of Bedlam - Eventide\House Of Bedlam - Eventide_RAW\02_Snare.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Kick'
+      Comment: ''
+  Drum_HiHat:
+    03_HiHat.wav:
+      Track_path: House Of Bedlam - Eventide\House Of Bedlam - Eventide_RAW\03_HiHat.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Cymbals: {}
+  Drum_Overheads:
+    05_Overheads.wav:
+      Track_path: House Of Bedlam - Eventide\House Of Bedlam - Eventide_RAW\05_Overheads.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Tom:
+    04_Toms.wav:
+      Track_path: House Of Bedlam - Eventide\House Of Bedlam - Eventide_RAW\04_Toms.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Room:
+    06_DrumsRoom.wav:
+      Track_path: House Of Bedlam - Eventide\House Of Bedlam - Eventide_RAW\06_DrumsRoom.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop: {}
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass: {}
+  Electric_Bass:
+    07_BassAmp1.wav:
+      Track_path: House Of Bedlam - Eventide\House Of Bedlam - Eventide_RAW\07_BassAmp1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    08_BassAmp2.wav:
+      Track_path: House Of Bedlam - Eventide\House Of Bedlam - Eventide_RAW\08_BassAmp2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    09_BassDI.wav:
+      Track_path: House Of Bedlam - Eventide\House Of Bedlam - Eventide_RAW\09_BassDI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Acoustic_Guitar: {}
+  Electric_Guitar:
+    10_ElecGtr1.wav:
+      Track_path: House Of Bedlam - Eventide\House Of Bedlam - Eventide_RAW\10_ElecGtr1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    11_ElecGtr1DT.wav:
+      Track_path: House Of Bedlam - Eventide\House Of Bedlam - Eventide_RAW\11_ElecGtr1DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    12_ElecGtr2.wav:
+      Track_path: House Of Bedlam - Eventide\House Of Bedlam - Eventide_RAW\12_ElecGtr2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    13_ElecGtr2DT.wav:
+      Track_path: House Of Bedlam - Eventide\House Of Bedlam - Eventide_RAW\13_ElecGtr2DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    14_ElecGtr3.wav:
+      Track_path: House Of Bedlam - Eventide\House Of Bedlam - Eventide_RAW\14_ElecGtr3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    15_ElecGtr4.wav:
+      Track_path: House Of Bedlam - Eventide\House Of Bedlam - Eventide_RAW\15_ElecGtr4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    16_ElecGtr4DT.wav:
+      Track_path: House Of Bedlam - Eventide\House Of Bedlam - Eventide_RAW\16_ElecGtr4DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    17_ElecGtr5.wav:
+      Track_path: House Of Bedlam - Eventide\House Of Bedlam - Eventide_RAW\17_ElecGtr5.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    18_ElecGtr6.wav:
+      Track_path: House Of Bedlam - Eventide\House Of Bedlam - Eventide_RAW\18_ElecGtr6.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    19_ElecGtr7.wav:
+      Track_path: House Of Bedlam - Eventide\House Of Bedlam - Eventide_RAW\19_ElecGtr7.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Piano: {}
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section:
+    22_Strings.wav:
+      Track_path: House Of Bedlam - Eventide\House Of Bedlam - Eventide_RAW\22_Strings.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    24_LeadVox1.wav:
+      Track_path: House Of Bedlam - Eventide\House Of Bedlam - Eventide_RAW\24_LeadVox1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    25_LeadVox1DT.wav:
+      Track_path: House Of Bedlam - Eventide\House Of Bedlam - Eventide_RAW\25_LeadVox1DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    26_LeadVox2.wav:
+      Track_path: House Of Bedlam - Eventide\House Of Bedlam - Eventide_RAW\26_LeadVox2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    27_LeadVox2DT.wav:
+      Track_path: House Of Bedlam - Eventide\House Of Bedlam - Eventide_RAW\27_LeadVox2DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Choir:
+    23_Choir.wav:
+      Track_path: House Of Bedlam - Eventide\House Of Bedlam - Eventide_RAW\23_Choir.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Backing_Vocal:
+    28_BackingVox1.wav:
+      Track_path: House Of Bedlam - Eventide\House Of Bedlam - Eventide_RAW\28_BackingVox1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    29_BackingVox2.wav:
+      Track_path: House Of Bedlam - Eventide\House Of Bedlam - Eventide_RAW\29_BackingVox2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    30_BackingVox3.wav:
+      Track_path: House Of Bedlam - Eventide\House Of Bedlam - Eventide_RAW\30_BackingVox3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    31_BackingVox4.wav:
+      Track_path: House Of Bedlam - Eventide\House Of Bedlam - Eventide_RAW\31_BackingVox4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Unused: {}
+  Ambient_Microphone: {}

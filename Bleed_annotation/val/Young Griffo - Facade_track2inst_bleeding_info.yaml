@@ -1,0 +1,173 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer: {}
+  SFX: {}
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    01_Kick.wav:
+      Track_path: Young Griffo - Facade\Young Griffo - Facade_RAW\01_Kick.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_Snare:
+    02_SnareUp.wav:
+      Track_path: Young Griffo - Facade\Young Griffo - Facade_RAW\02_SnareUp.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    03_SnareDown.wav:
+      Track_path: Young Griffo - Facade\Young Griffo - Facade_RAW\03_SnareDown.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_HiHat: {}
+  Drum_Cymbals: {}
+  Drum_Overheads:
+    04_Overheads.wav:
+      Track_path: Young Griffo - Facade\Young Griffo - Facade_RAW\04_Overheads.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Tom:
+    06_Tom1.wav:
+      Track_path: Young Griffo - Facade\Young Griffo - Facade_RAW\06_Tom1.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    07_Tom2.wav:
+      Track_path: Young Griffo - Facade\Young Griffo - Facade_RAW\07_Tom2.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_Room:
+    05_DrumsRoom.wav:
+      Track_path: Young Griffo - Facade\Young Griffo - Facade_RAW\05_DrumsRoom.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop: {}
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass: {}
+  Electric_Bass:
+    08_BassDI.wav:
+      Track_path: Young Griffo - Facade\Young Griffo - Facade_RAW\08_BassDI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    09_BassAmpMic1.wav:
+      Track_path: Young Griffo - Facade\Young Griffo - Facade_RAW\09_BassAmpMic1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    10_BassAmpMic2.wav:
+      Track_path: Young Griffo - Facade\Young Griffo - Facade_RAW\10_BassAmpMic2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Acoustic_Guitar: {}
+  Electric_Guitar:
+    11_ElecGtr1a_VoxM160.wav:
+      Track_path: Young Griffo - Facade\Young Griffo - Facade_RAW\11_ElecGtr1a_VoxM160.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    12_ElecGtr1b_VoxSM57.wav:
+      Track_path: Young Griffo - Facade\Young Griffo - Facade_RAW\12_ElecGtr1b_VoxSM57.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    15_ElecGtr2a_VoxM160.wav:
+      Track_path: Young Griffo - Facade\Young Griffo - Facade_RAW\15_ElecGtr2a_VoxM160.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    16_ElecGtr2b_VoxSM57.wav:
+      Track_path: Young Griffo - Facade\Young Griffo - Facade_RAW\16_ElecGtr2b_VoxSM57.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    13_ElecGtr1c_OrangeMD421.wav:
+      Track_path: Young Griffo - Facade\Young Griffo - Facade_RAW\13_ElecGtr1c_OrangeMD421.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    14_ElecGtr1d_OrangeFatHead.wav:
+      Track_path: Young Griffo - Facade\Young Griffo - Facade_RAW\14_ElecGtr1d_OrangeFatHead.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    17_ElecGtr2c_OrangeMD421.wav:
+      Track_path: Young Griffo - Facade\Young Griffo - Facade_RAW\17_ElecGtr2c_OrangeMD421.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    18_ElecGtr2d_OrangeFatHead.wav:
+      Track_path: Young Griffo - Facade\Young Griffo - Facade_RAW\18_ElecGtr2d_OrangeFatHead.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Piano: {}
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    19_LeadVox.wav:
+      Track_path: Young Griffo - Facade\Young Griffo - Facade_RAW\19_LeadVox.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Choir: {}
+  Backing_Vocal:
+    20_BackingVox.wav:
+      Track_path: Young Griffo - Facade\Young Griffo - Facade_RAW\20_BackingVox.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Unused: {}
+  Ambient_Microphone: {}

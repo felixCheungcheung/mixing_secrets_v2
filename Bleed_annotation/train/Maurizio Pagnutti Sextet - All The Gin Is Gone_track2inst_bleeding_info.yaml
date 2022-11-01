@@ -1,0 +1,169 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer: {}
+  SFX: {}
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    01_KickIn.wav:
+      Track_path: Maurizio Pagnutti Sextet - All The Gin Is Gone\Maurizio Pagnutti
+        Sextet - All The Gin Is Gone_RAW\01_KickIn.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    02_KickOut.wav:
+      Track_path: Maurizio Pagnutti Sextet - All The Gin Is Gone\Maurizio Pagnutti
+        Sextet - All The Gin Is Gone_RAW\02_KickOut.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_Snare:
+    03_SnareUp.wav:
+      Track_path: Maurizio Pagnutti Sextet - All The Gin Is Gone\Maurizio Pagnutti
+        Sextet - All The Gin Is Gone_RAW\03_SnareUp.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    04_SnareDown.wav:
+      Track_path: Maurizio Pagnutti Sextet - All The Gin Is Gone\Maurizio Pagnutti
+        Sextet - All The Gin Is Gone_RAW\04_SnareDown.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_HiHat:
+    05_HiHat.wav:
+      Track_path: Maurizio Pagnutti Sextet - All The Gin Is Gone\Maurizio Pagnutti
+        Sextet - All The Gin Is Gone_RAW\05_HiHat.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_Cymbals: {}
+  Drum_Overheads:
+    09_Overheads.wav:
+      Track_path: Maurizio Pagnutti Sextet - All The Gin Is Gone\Maurizio Pagnutti
+        Sextet - All The Gin Is Gone_RAW\09_Overheads.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Tom:
+    06_Tom1.wav:
+      Track_path: Maurizio Pagnutti Sextet - All The Gin Is Gone\Maurizio Pagnutti
+        Sextet - All The Gin Is Gone_RAW\06_Tom1.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    07_Tom2.wav:
+      Track_path: Maurizio Pagnutti Sextet - All The Gin Is Gone\Maurizio Pagnutti
+        Sextet - All The Gin Is Gone_RAW\07_Tom2.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    08_Tom3.wav:
+      Track_path: Maurizio Pagnutti Sextet - All The Gin Is Gone\Maurizio Pagnutti
+        Sextet - All The Gin Is Gone_RAW\08_Tom3.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_Room: {}
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop: {}
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass: {}
+  Electric_Bass: {}
+  Acoustic_Guitar: {}
+  Electric_Guitar: {}
+  Piano:
+    12_PianoMics1.wav:
+      Track_path: Maurizio Pagnutti Sextet - All The Gin Is Gone\Maurizio Pagnutti
+        Sextet - All The Gin Is Gone_RAW\12_PianoMics1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    13_PianoMics2.wav:
+      Track_path: Maurizio Pagnutti Sextet - All The Gin Is Gone\Maurizio Pagnutti
+        Sextet - All The Gin Is Gone_RAW\13_PianoMics2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone:
+    16_Saxophone.wav:
+      Track_path: Maurizio Pagnutti Sextet - All The Gin Is Gone\Maurizio Pagnutti
+        Sextet - All The Gin Is Gone_RAW\16_Saxophone.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Trumpet:
+    14_Trumpet.wav:
+      Track_path: Maurizio Pagnutti Sextet - All The Gin Is Gone\Maurizio Pagnutti
+        Sextet - All The Gin Is Gone_RAW\14_Trumpet.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Trombone'
+      Comment: ''
+  French_Horn: {}
+  Trombone:
+    15_Trombone.wav:
+      Track_path: Maurizio Pagnutti Sextet - All The Gin Is Gone\Maurizio Pagnutti
+        Sextet - All The Gin Is Gone_RAW\15_Trombone.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Trumpet'
+      Comment: ''
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass:
+    10_BassMic.wav:
+      Track_path: Maurizio Pagnutti Sextet - All The Gin Is Gone\Maurizio Pagnutti
+        Sextet - All The Gin Is Gone_RAW\10_BassMic.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads'
+      Comment: 'very slight'
+    11_BassDI.wav:
+      Track_path: Maurizio Pagnutti Sextet - All The Gin Is Gone\Maurizio Pagnutti
+        Sextet - All The Gin Is Gone_RAW\11_BassDI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal: {}
+  Choir: {}
+  Backing_Vocal: {}
+  Unused: {}
+  Ambient_Microphone: {}

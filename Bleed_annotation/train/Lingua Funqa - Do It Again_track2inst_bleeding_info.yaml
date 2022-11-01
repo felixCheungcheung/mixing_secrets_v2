@@ -1,0 +1,378 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer:
+    38_Keys.wav:
+      Track_path: Lingua Funqa - Do It Again\Lingua Funqa - Do It Again_RAW\38_Keys.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    39_Synth.wav:
+      Track_path: Lingua Funqa - Do It Again\Lingua Funqa - Do It Again_RAW\39_Synth.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  SFX:
+    25_SFX1.wav:
+      Track_path: Lingua Funqa - Do It Again\Lingua Funqa - Do It Again_RAW\25_SFX1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    26_SFX2.wav:
+      Track_path: Lingua Funqa - Do It Again\Lingua Funqa - Do It Again_RAW\26_SFX2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    27_SFX3.wav:
+      Track_path: Lingua Funqa - Do It Again\Lingua Funqa - Do It Again_RAW\27_SFX3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    40_PianoSFX1.wav:
+      Track_path: Lingua Funqa - Do It Again\Lingua Funqa - Do It Again_RAW\40_PianoSFX1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    41_PianoSFX2.wav:
+      Track_path: Lingua Funqa - Do It Again\Lingua Funqa - Do It Again_RAW\41_PianoSFX2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle:
+    24_Triangle.wav:
+      Track_path: Lingua Funqa - Do It Again\Lingua Funqa - Do It Again_RAW\24_Triangle.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    01_Drumkit_KickIn.wav:
+      Track_path: Lingua Funqa - Do It Again\Lingua Funqa - Do It Again_RAW\01_Drumkit_KickIn.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    13_Kick1.wav:
+      Track_path: Lingua Funqa - Do It Again\Lingua Funqa - Do It Again_RAW\13_Kick1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    14_Kick2.wav:
+      Track_path: Lingua Funqa - Do It Again\Lingua Funqa - Do It Again_RAW\14_Kick2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Snare:
+    02_Drumkit_SnareUp.wav:
+      Track_path: Lingua Funqa - Do It Again\Lingua Funqa - Do It Again_RAW\02_Drumkit_SnareUp.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    03_Drumkit_SnareDown.wav:
+      Track_path: Lingua Funqa - Do It Again\Lingua Funqa - Do It Again_RAW\03_Drumkit_SnareDown.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    15_Snare1.wav:
+      Track_path: Lingua Funqa - Do It Again\Lingua Funqa - Do It Again_RAW\15_Snare1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    16_Snare2.wav:
+      Track_path: Lingua Funqa - Do It Again\Lingua Funqa - Do It Again_RAW\16_Snare2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_HiHat:
+    04_Drumkit_HiHat.wav:
+      Track_path: Lingua Funqa - Do It Again\Lingua Funqa - Do It Again_RAW\04_Drumkit_HiHat.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    19_HiHat.wav:
+      Track_path: Lingua Funqa - Do It Again\Lingua Funqa - Do It Again_RAW\19_HiHat.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    20_HiHatSFX.wav:
+      Track_path: Lingua Funqa - Do It Again\Lingua Funqa - Do It Again_RAW\20_HiHatSFX.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Cymbals:
+    21_Ride.wav:
+      Track_path: Lingua Funqa - Do It Again\Lingua Funqa - Do It Again_RAW\21_Ride.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Overheads:
+    06_Drumkit_Overheads.wav:
+      Track_path: Lingua Funqa - Do It Again\Lingua Funqa - Do It Again_RAW\06_Drumkit_Overheads.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Tom:
+    05_Drumkit_Toms.wav:
+      Track_path: Lingua Funqa - Do It Again\Lingua Funqa - Do It Again_RAW\05_Drumkit_Toms.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    18_Toms.wav:
+      Track_path: Lingua Funqa - Do It Again\Lingua Funqa - Do It Again_RAW\18_Toms.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Room:
+    07_Drumkit_Room.wav:
+      Track_path: Lingua Funqa - Do It Again\Lingua Funqa - Do It Again_RAW\07_Drumkit_Room.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Shaker:
+    23_Shaker.wav:
+      Track_path: Lingua Funqa - Do It Again\Lingua Funqa - Do It Again_RAW\23_Shaker.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine:
+    22_Tambourine.wav:
+      Track_path: Lingua Funqa - Do It Again\Lingua Funqa - Do It Again_RAW\22_Tambourine.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Loop:
+    08_Loop1.wav:
+      Track_path: Lingua Funqa - Do It Again\Lingua Funqa - Do It Again_RAW\08_Loop1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    09_Loop2.wav:
+      Track_path: Lingua Funqa - Do It Again\Lingua Funqa - Do It Again_RAW\09_Loop2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    10_Loop3.wav:
+      Track_path: Lingua Funqa - Do It Again\Lingua Funqa - Do It Again_RAW\10_Loop3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    11_Loop4.wav:
+      Track_path: Lingua Funqa - Do It Again\Lingua Funqa - Do It Again_RAW\11_Loop4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    12_DrumFill.wav:
+      Track_path: Lingua Funqa - Do It Again\Lingua Funqa - Do It Again_RAW\12_DrumFill.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Clicks: {}
+  Claps:
+    17_Clap.wav:
+      Track_path: Lingua Funqa - Do It Again\Lingua Funqa - Do It Again_RAW\17_Clap.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass: {}
+  Electric_Bass:
+    28_Bass1.wav:
+      Track_path: Lingua Funqa - Do It Again\Lingua Funqa - Do It Again_RAW\28_Bass1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    29_Bass2.wav:
+      Track_path: Lingua Funqa - Do It Again\Lingua Funqa - Do It Again_RAW\29_Bass2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    30_Bass3.wav:
+      Track_path: Lingua Funqa - Do It Again\Lingua Funqa - Do It Again_RAW\30_Bass3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    31_Bass4.wav:
+      Track_path: Lingua Funqa - Do It Again\Lingua Funqa - Do It Again_RAW\31_Bass4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Acoustic_Guitar: {}
+  Electric_Guitar:
+    32_ElecGtr1.wav:
+      Track_path: Lingua Funqa - Do It Again\Lingua Funqa - Do It Again_RAW\32_ElecGtr1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    33_ElecGtr2.wav:
+      Track_path: Lingua Funqa - Do It Again\Lingua Funqa - Do It Again_RAW\33_ElecGtr2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    34_ElecGtr3.wav:
+      Track_path: Lingua Funqa - Do It Again\Lingua Funqa - Do It Again_RAW\34_ElecGtr3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    35_ElecGtr4.wav:
+      Track_path: Lingua Funqa - Do It Again\Lingua Funqa - Do It Again_RAW\35_ElecGtr4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    36_ElecGtr5.wav:
+      Track_path: Lingua Funqa - Do It Again\Lingua Funqa - Do It Again_RAW\36_ElecGtr5.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    37_ElecGtr6.wav:
+      Track_path: Lingua Funqa - Do It Again\Lingua Funqa - Do It Again_RAW\37_ElecGtr6.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Piano: {}
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    42_LeadVox_Edited.wav:
+      Track_path: Lingua Funqa - Do It Again\Lingua Funqa - Do It Again_RAW\42_LeadVox_Edited.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    44_LeadVoxDT1.wav:
+      Track_path: Lingua Funqa - Do It Again\Lingua Funqa - Do It Again_RAW\44_LeadVoxDT1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    45_LeadVoxDT2.wav:
+      Track_path: Lingua Funqa - Do It Again\Lingua Funqa - Do It Again_RAW\45_LeadVoxDT2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Choir: {}
+  Backing_Vocal:
+    46_BackingVox1.wav:
+      Track_path: Lingua Funqa - Do It Again\Lingua Funqa - Do It Again_RAW\46_BackingVox1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    47_BackingVox2.wav:
+      Track_path: Lingua Funqa - Do It Again\Lingua Funqa - Do It Again_RAW\47_BackingVox2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    48_BackingVox3.wav:
+      Track_path: Lingua Funqa - Do It Again\Lingua Funqa - Do It Again_RAW\48_BackingVox3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    49_VoxSFX01.wav:
+      Track_path: Lingua Funqa - Do It Again\Lingua Funqa - Do It Again_RAW\49_VoxSFX01.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    50_VoxSFX02.wav:
+      Track_path: Lingua Funqa - Do It Again\Lingua Funqa - Do It Again_RAW\50_VoxSFX02.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    51_VoxSFX03.wav:
+      Track_path: Lingua Funqa - Do It Again\Lingua Funqa - Do It Again_RAW\51_VoxSFX03.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    52_VoxSFX04.wav:
+      Track_path: Lingua Funqa - Do It Again\Lingua Funqa - Do It Again_RAW\52_VoxSFX04.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    53_VoxSFX05.wav:
+      Track_path: Lingua Funqa - Do It Again\Lingua Funqa - Do It Again_RAW\53_VoxSFX05.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    54_VoxSFX06.wav:
+      Track_path: Lingua Funqa - Do It Again\Lingua Funqa - Do It Again_RAW\54_VoxSFX06.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    55_VoxSFX07.wav:
+      Track_path: Lingua Funqa - Do It Again\Lingua Funqa - Do It Again_RAW\55_VoxSFX07.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    56_VoxSFX08.wav:
+      Track_path: Lingua Funqa - Do It Again\Lingua Funqa - Do It Again_RAW\56_VoxSFX08.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    57_VoxSFX09.wav:
+      Track_path: Lingua Funqa - Do It Again\Lingua Funqa - Do It Again_RAW\57_VoxSFX09.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    58_VoxSFX10.wav:
+      Track_path: Lingua Funqa - Do It Again\Lingua Funqa - Do It Again_RAW\58_VoxSFX10.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    59_VoxSFX11.wav:
+      Track_path: Lingua Funqa - Do It Again\Lingua Funqa - Do It Again_RAW\59_VoxSFX11.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    60_VoxSFX12.wav:
+      Track_path: Lingua Funqa - Do It Again\Lingua Funqa - Do It Again_RAW\60_VoxSFX12.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    61_VoxSFX13.wav:
+      Track_path: Lingua Funqa - Do It Again\Lingua Funqa - Do It Again_RAW\61_VoxSFX13.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Unused:
+    43_LeadVox_Raw.wav:
+      Track_path: Lingua Funqa - Do It Again\Lingua Funqa - Do It Again_RAW\43_LeadVox_Raw.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Ambient_Microphone: {}

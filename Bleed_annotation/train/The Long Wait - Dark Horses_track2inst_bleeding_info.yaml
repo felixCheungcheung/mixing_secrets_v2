@@ -1,0 +1,163 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer: {}
+  SFX: {}
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    01_Kick.wav:
+      Track_path: The Long Wait - Dark Horses\The Long Wait - Dark Horses_RAW\01_Kick.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_Snare:
+    02_Snare.wav:
+      Track_path: The Long Wait - Dark Horses\The Long Wait - Dark Horses_RAW\02_Snare.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_HiHat: {}
+  Drum_Cymbals: {}
+  Drum_Overheads:
+    03_Overheads.wav:
+      Track_path: The Long Wait - Dark Horses\The Long Wait - Dark Horses_RAW\03_Overheads.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Tom: {}
+  Drum_Room:
+    04_DrumsRoom.wav:
+      Track_path: The Long Wait - Dark Horses\The Long Wait - Dark Horses_RAW\04_DrumsRoom.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop: {}
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass: {}
+  Electric_Bass:
+    05_Bass.wav:
+      Track_path: The Long Wait - Dark Horses\The Long Wait - Dark Horses_RAW\05_Bass.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Acoustic_Guitar:
+    06_AcGtr.wav:
+      Track_path: The Long Wait - Dark Horses\The Long Wait - Dark Horses_RAW\06_AcGtr.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Electric_Guitar:
+    07_ElecGtr1Mic1.wav:
+      Track_path: The Long Wait - Dark Horses\The Long Wait - Dark Horses_RAW\07_ElecGtr1Mic1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    08_ElecGtr1Mic2.wav:
+      Track_path: The Long Wait - Dark Horses\The Long Wait - Dark Horses_RAW\08_ElecGtr1Mic2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    09_ElecGtr2Mic1.wav:
+      Track_path: The Long Wait - Dark Horses\The Long Wait - Dark Horses_RAW\09_ElecGtr2Mic1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    10_ElecGtr2Mic2.wav:
+      Track_path: The Long Wait - Dark Horses\The Long Wait - Dark Horses_RAW\10_ElecGtr2Mic2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    11_ElecGtr3Mic1.wav:
+      Track_path: The Long Wait - Dark Horses\The Long Wait - Dark Horses_RAW\11_ElecGtr3Mic1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    12_ElecGtr3Mic2.wav:
+      Track_path: The Long Wait - Dark Horses\The Long Wait - Dark Horses_RAW\12_ElecGtr3Mic2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    13_ElecGtr4Mic1.wav:
+      Track_path: The Long Wait - Dark Horses\The Long Wait - Dark Horses_RAW\13_ElecGtr4Mic1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    14_ElecGtr4Mic2.wav:
+      Track_path: The Long Wait - Dark Horses\The Long Wait - Dark Horses_RAW\14_ElecGtr4Mic2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Piano: {}
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    15_LeadVox.wav:
+      Track_path: The Long Wait - Dark Horses\The Long Wait - Dark Horses_RAW\15_LeadVox.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    16_LeadVoxDT.wav:
+      Track_path: The Long Wait - Dark Horses\The Long Wait - Dark Horses_RAW\16_LeadVoxDT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Choir: {}
+  Backing_Vocal:
+    17_BackingVox01.wav:
+      Track_path: The Long Wait - Dark Horses\The Long Wait - Dark Horses_RAW\17_BackingVox01.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    18_BackingVox02.wav:
+      Track_path: The Long Wait - Dark Horses\The Long Wait - Dark Horses_RAW\18_BackingVox02.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Unused: {}
+  Ambient_Microphone: {}

@@ -1,0 +1,228 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer:
+    13_Synth1.wav:
+      Track_path: oxeye - Sorry\oxeye - Sorry_RAW\13_Synth1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    14_Synth2.wav:
+      Track_path: oxeye - Sorry\oxeye - Sorry_RAW\14_Synth2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    15_Synth3.wav:
+      Track_path: oxeye - Sorry\oxeye - Sorry_RAW\15_Synth3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    16_Synth4.wav:
+      Track_path: oxeye - Sorry\oxeye - Sorry_RAW\16_Synth4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    17_Synth5.wav:
+      Track_path: oxeye - Sorry\oxeye - Sorry_RAW\17_Synth5.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  SFX:
+    04_SFX1.wav:
+      Track_path: oxeye - Sorry\oxeye - Sorry_RAW\04_SFX1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    05_SFX2.wav:
+      Track_path: oxeye - Sorry\oxeye - Sorry_RAW\05_SFX2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    06_SFX3.wav:
+      Track_path: oxeye - Sorry\oxeye - Sorry_RAW\06_SFX3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    07_Telephone.wav:
+      Track_path: oxeye - Sorry\oxeye - Sorry_RAW\07_Telephone.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    08_Traffic.wav:
+      Track_path: oxeye - Sorry\oxeye - Sorry_RAW\08_Traffic.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    01_Kick.wav:
+      Track_path: oxeye - Sorry\oxeye - Sorry_RAW\01_Kick.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Snare: {}
+  Drum_HiHat: {}
+  Drum_Cymbals: {}
+  Drum_Overheads: {}
+  Drum_Tom: {}
+  Drum_Room: {}
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop: {}
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion:
+    02_Rimshot1.wav:
+      Track_path: oxeye - Sorry\oxeye - Sorry_RAW\02_Rimshot1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    03_Rimshot2.wav:
+      Track_path: oxeye - Sorry\oxeye - Sorry_RAW\03_Rimshot2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Synth_Bass:
+    09_Bass1.wav:
+      Track_path: oxeye - Sorry\oxeye - Sorry_RAW\09_Bass1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    10_Bass2.wav:
+      Track_path: oxeye - Sorry\oxeye - Sorry_RAW\10_Bass2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Electric_Bass: {}
+  Acoustic_Guitar:
+    11_AcGtr1.wav:
+      Track_path: oxeye - Sorry\oxeye - Sorry_RAW\11_AcGtr1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    12_AcGtr2.wav:
+      Track_path: oxeye - Sorry\oxeye - Sorry_RAW\12_AcGtr2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Electric_Guitar: {}
+  Piano: {}
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    18_LeadVox.wav:
+      Track_path: oxeye - Sorry\oxeye - Sorry_RAW\18_LeadVox.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    20_LeadVoxDT.wav:
+      Track_path: oxeye - Sorry\oxeye - Sorry_RAW\20_LeadVoxDT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Choir: {}
+  Backing_Vocal:
+    22_BackingVox1.wav:
+      Track_path: oxeye - Sorry\oxeye - Sorry_RAW\22_BackingVox1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    30_Whispers.wav:
+      Track_path: oxeye - Sorry\oxeye - Sorry_RAW\30_Whispers.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    24_BackingVox2.wav:
+      Track_path: oxeye - Sorry\oxeye - Sorry_RAW\24_BackingVox2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    26_BackingVox3.wav:
+      Track_path: oxeye - Sorry\oxeye - Sorry_RAW\26_BackingVox3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    28_BackingVox4.wav:
+      Track_path: oxeye - Sorry\oxeye - Sorry_RAW\28_BackingVox4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    31_Vocoder.wav:
+      Track_path: oxeye - Sorry\oxeye - Sorry_RAW\31_Vocoder.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Unused:
+    19_LeadVox_NoPitchProcessing.wav:
+      Track_path: oxeye - Sorry\oxeye - Sorry_RAW\19_LeadVox_NoPitchProcessing.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    21_LeadVoxDT_NoPitchProcessing.wav:
+      Track_path: oxeye - Sorry\oxeye - Sorry_RAW\21_LeadVoxDT_NoPitchProcessing.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    23_BackingVox1_NoPitchProcessing.wav:
+      Track_path: oxeye - Sorry\oxeye - Sorry_RAW\23_BackingVox1_NoPitchProcessing.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    25_BackingVox2_NoPitchProcessing.wav:
+      Track_path: oxeye - Sorry\oxeye - Sorry_RAW\25_BackingVox2_NoPitchProcessing.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    27_BackingVox3_NoPitchProcessing.wav:
+      Track_path: oxeye - Sorry\oxeye - Sorry_RAW\27_BackingVox3_NoPitchProcessing.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    29_BackingVox4_NoPitchProcessing.wav:
+      Track_path: oxeye - Sorry\oxeye - Sorry_RAW\29_BackingVox4_NoPitchProcessing.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Ambient_Microphone: {}

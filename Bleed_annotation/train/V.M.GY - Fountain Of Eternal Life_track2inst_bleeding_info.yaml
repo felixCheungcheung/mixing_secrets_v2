@@ -1,0 +1,238 @@
+Track2inst:
+  Electric_Organ:
+    31_Organ.wav:
+      Track_path: V.M.GY - Fountain Of Eternal Life\V.M.GY - Fountain Of Eternal Life_RAW\31_Organ.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Synthesizer:
+    20_Synth1.wav:
+      Track_path: V.M.GY - Fountain Of Eternal Life\V.M.GY - Fountain Of Eternal Life_RAW\20_Synth1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    21_Synth2.wav:
+      Track_path: V.M.GY - Fountain Of Eternal Life\V.M.GY - Fountain Of Eternal Life_RAW\21_Synth2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    22_Synth3.wav:
+      Track_path: V.M.GY - Fountain Of Eternal Life\V.M.GY - Fountain Of Eternal Life_RAW\22_Synth3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    23_Synth4.wav:
+      Track_path: V.M.GY - Fountain Of Eternal Life\V.M.GY - Fountain Of Eternal Life_RAW\23_Synth4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    24_Synth5.wav:
+      Track_path: V.M.GY - Fountain Of Eternal Life\V.M.GY - Fountain Of Eternal Life_RAW\24_Synth5.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    25_Synth6.wav:
+      Track_path: V.M.GY - Fountain Of Eternal Life\V.M.GY - Fountain Of Eternal Life_RAW\25_Synth6.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    26_Synth7.wav:
+      Track_path: V.M.GY - Fountain Of Eternal Life\V.M.GY - Fountain Of Eternal Life_RAW\26_Synth7.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  SFX: {}
+  Marimba: {}
+  Bell:
+    33_TubularBells.wav:
+      Track_path: V.M.GY - Fountain Of Eternal Life\V.M.GY - Fountain Of Eternal Life_RAW\33_TubularBells.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    01_Kick.wav:
+      Track_path: V.M.GY - Fountain Of Eternal Life\V.M.GY - Fountain Of Eternal Life_RAW\01_Kick.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    02_KickSub.wav:
+      Track_path: V.M.GY - Fountain Of Eternal Life\V.M.GY - Fountain Of Eternal Life_RAW\02_KickSub.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Snare:
+    03_SnareUp.wav:
+      Track_path: V.M.GY - Fountain Of Eternal Life\V.M.GY - Fountain Of Eternal Life_RAW\03_SnareUp.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    04_SnareDown.wav:
+      Track_path: V.M.GY - Fountain Of Eternal Life\V.M.GY - Fountain Of Eternal Life_RAW\04_SnareDown.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_HiHat:
+    05_HiHat.wav:
+      Track_path: V.M.GY - Fountain Of Eternal Life\V.M.GY - Fountain Of Eternal Life_RAW\05_HiHat.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Cymbals: {}
+  Drum_Overheads:
+    10_Overheads.wav:
+      Track_path: V.M.GY - Fountain Of Eternal Life\V.M.GY - Fountain Of Eternal Life_RAW\10_Overheads.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Tom:
+    06_Tom1.wav:
+      Track_path: V.M.GY - Fountain Of Eternal Life\V.M.GY - Fountain Of Eternal Life_RAW\06_Tom1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    07_Tom2.wav:
+      Track_path: V.M.GY - Fountain Of Eternal Life\V.M.GY - Fountain Of Eternal Life_RAW\07_Tom2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    08_Tom3.wav:
+      Track_path: V.M.GY - Fountain Of Eternal Life\V.M.GY - Fountain Of Eternal Life_RAW\08_Tom3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    09_Tom4.wav:
+      Track_path: V.M.GY - Fountain Of Eternal Life\V.M.GY - Fountain Of Eternal Life_RAW\09_Tom4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Room:
+    11_DrumsRoom1.wav:
+      Track_path: V.M.GY - Fountain Of Eternal Life\V.M.GY - Fountain Of Eternal Life_RAW\11_DrumsRoom1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    12_DrumsRoom2.wav:
+      Track_path: V.M.GY - Fountain Of Eternal Life\V.M.GY - Fountain Of Eternal Life_RAW\12_DrumsRoom2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop: {}
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass: {}
+  Electric_Bass:
+    13_BassDI.wav:
+      Track_path: V.M.GY - Fountain Of Eternal Life\V.M.GY - Fountain Of Eternal Life_RAW\13_BassDI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Acoustic_Guitar: {}
+  Electric_Guitar:
+    14_ElecGtr1.wav:
+      Track_path: V.M.GY - Fountain Of Eternal Life\V.M.GY - Fountain Of Eternal Life_RAW\14_ElecGtr1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    15_ElecGtr2.wav:
+      Track_path: V.M.GY - Fountain Of Eternal Life\V.M.GY - Fountain Of Eternal Life_RAW\15_ElecGtr2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    16_ElecGtr2DT.wav:
+      Track_path: V.M.GY - Fountain Of Eternal Life\V.M.GY - Fountain Of Eternal Life_RAW\16_ElecGtr2DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    17_ElecGtr3.wav:
+      Track_path: V.M.GY - Fountain Of Eternal Life\V.M.GY - Fountain Of Eternal Life_RAW\17_ElecGtr3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    18_ElecGtr3DT.wav:
+      Track_path: V.M.GY - Fountain Of Eternal Life\V.M.GY - Fountain Of Eternal Life_RAW\18_ElecGtr3DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    19_ElecGtr4.wav:
+      Track_path: V.M.GY - Fountain Of Eternal Life\V.M.GY - Fountain Of Eternal Life_RAW\19_ElecGtr4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Piano:
+    32_Piano.wav:
+      Track_path: V.M.GY - Fountain Of Eternal Life\V.M.GY - Fountain Of Eternal Life_RAW\32_Piano.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Electric_Piano: {}
+  Brass_Section:
+    27_Brass.wav:
+      Track_path: V.M.GY - Fountain Of Eternal Life\V.M.GY - Fountain Of Eternal Life_RAW\27_Brass.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass:
+    28_Doublebasses.wav:
+      Track_path: V.M.GY - Fountain Of Eternal Life\V.M.GY - Fountain Of Eternal Life_RAW\28_Doublebasses.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal: {}
+  Choir:
+    29_Choir1.wav:
+      Track_path: V.M.GY - Fountain Of Eternal Life\V.M.GY - Fountain Of Eternal Life_RAW\29_Choir1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    30_Choir2.wav:
+      Track_path: V.M.GY - Fountain Of Eternal Life\V.M.GY - Fountain Of Eternal Life_RAW\30_Choir2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Backing_Vocal: {}
+  Unused: {}
+  Ambient_Microphone: {}

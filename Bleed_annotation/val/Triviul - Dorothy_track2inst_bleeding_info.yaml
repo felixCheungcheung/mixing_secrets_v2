@@ -1,0 +1,168 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer:
+    07_Mellotron.wav:
+      Track_path: Triviul - Dorothy\Triviul - Dorothy_RAW\07_Mellotron.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    08_Synth1.wav:
+      Track_path: Triviul - Dorothy\Triviul - Dorothy_RAW\08_Synth1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    09_Synth2.wav:
+      Track_path: Triviul - Dorothy\Triviul - Dorothy_RAW\09_Synth2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    10_Synth3.wav:
+      Track_path: Triviul - Dorothy\Triviul - Dorothy_RAW\10_Synth3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  SFX: {}
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp:
+    12_Harp.wav:
+      Track_path: Triviul - Dorothy\Triviul - Dorothy_RAW\12_Harp.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick: {}
+  Drum_Snare: {}
+  Drum_HiHat: {}
+  Drum_Cymbals:
+    02_Cymbals.wav:
+      Track_path: Triviul - Dorothy\Triviul - Dorothy_RAW\02_Cymbals.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Overheads:
+    01_Drums.wav:
+      Track_path: Triviul - Dorothy\Triviul - Dorothy_RAW\01_Drums.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Tom: {}
+  Drum_Room: {}
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop: {}
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass:
+    04_Bass2.wav:
+      Track_path: Triviul - Dorothy\Triviul - Dorothy_RAW\04_Bass2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Electric_Bass:
+    03_Bass1.wav:
+      Track_path: Triviul - Dorothy\Triviul - Dorothy_RAW\03_Bass1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Acoustic_Guitar: {}
+  Electric_Guitar:
+    06_MIDIGtr.wav:
+      Track_path: Triviul - Dorothy\Triviul - Dorothy_RAW\06_MIDIGtr.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Piano: {}
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section:
+    11_Strings.wav:
+      Track_path: Triviul - Dorothy\Triviul - Dorothy_RAW\11_Strings.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Fiddle: {}
+  Double_Bass:
+    05_PizzBass.wav:
+      Track_path: Triviul - Dorothy\Triviul - Dorothy_RAW\05_PizzBass.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    13_LeadVox.wav:
+      Track_path: Triviul - Dorothy\Triviul - Dorothy_RAW\13_LeadVox.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    14_LeadVoxDT.wav:
+      Track_path: Triviul - Dorothy\Triviul - Dorothy_RAW\14_LeadVoxDT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    15_LeadVoxKiddie.wav:
+      Track_path: Triviul - Dorothy\Triviul - Dorothy_RAW\15_LeadVoxKiddie.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Choir: {}
+  Backing_Vocal:
+    16_BackingVox1.wav:
+      Track_path: Triviul - Dorothy\Triviul - Dorothy_RAW\16_BackingVox1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    17_BackingVox2.wav:
+      Track_path: Triviul - Dorothy\Triviul - Dorothy_RAW\17_BackingVox2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    18_BackingVox3.wav:
+      Track_path: Triviul - Dorothy\Triviul - Dorothy_RAW\18_BackingVox3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    19_BackingVox4.wav:
+      Track_path: Triviul - Dorothy\Triviul - Dorothy_RAW\19_BackingVox4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Unused: {}
+  Ambient_Microphone: {}

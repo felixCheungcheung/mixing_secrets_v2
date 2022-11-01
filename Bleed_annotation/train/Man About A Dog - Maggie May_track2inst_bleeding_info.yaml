@@ -1,0 +1,148 @@
+Track2inst:
+  Electric_Organ:
+    11_Organ.wav:
+      Track_path: Man About A Dog - Maggie May\Man About A Dog - Maggie May_RAW\11_Organ.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Synthesizer: {}
+  SFX: {}
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    01_Kick.wav:
+      Track_path: Man About A Dog - Maggie May\Man About A Dog - Maggie May_RAW\01_Kick.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Electric_Guitar, Drum_Overheads, Electric_Bass, Electric_Organ, Lead_Vocal, Backing_Vocal'
+      Comment: ''
+  Drum_Snare:
+    02_Snare.wav:
+      Track_path: Man About A Dog - Maggie May\Man About A Dog - Maggie May_RAW\02_Snare.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Electric_Guitar, Drum_Overheads, Electric_Bass, Electric_Organ, Lead_Vocal, Backing_Vocal'
+      Comment: ''
+  Drum_HiHat: {}
+  Drum_Cymbals: {}
+  Drum_Overheads:
+    03_Overheads.wav:
+      Track_path: Man About A Dog - Maggie May\Man About A Dog - Maggie May_RAW\03_Overheads.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Electric_Guitar, Electric_Bass, Electric_Organ, Lead_Vocal, Backing_Vocal'
+      Comment: ''
+  Drum_Tom:
+    05_Tom1.wav:
+      Track_path: Man About A Dog - Maggie May\Man About A Dog - Maggie May_RAW\05_Tom1.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Electric_Guitar, Drum_Overheads, Electric_Bass, Electric_Organ, Lead_Vocal, Backing_Vocal'
+      Comment: ''
+    06_Tom2.wav:
+      Track_path: Man About A Dog - Maggie May\Man About A Dog - Maggie May_RAW\06_Tom2.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Electric_Guitar, Drum_Overheads, Electric_Bass, Electric_Organ, Lead_Vocal, Backing_Vocal'
+      Comment: ''
+  Drum_Room:
+    04_Room.wav:
+      Track_path: Man About A Dog - Maggie May\Man About A Dog - Maggie May_RAW\04_Room.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Electric_Guitar, Electric_Bass, Electric_Organ, Lead_Vocal, Backing_Vocal'
+      Comment: ''
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop: {}
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass: {}
+  Electric_Bass:
+    07_Bass.wav:
+      Track_path: Man About A Dog - Maggie May\Man About A Dog - Maggie May_RAW\07_Bass.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads, Electric_Guitar, Electric_Organ, Lead_Vocal, Backing_Vocal'
+      Comment: ''
+  Acoustic_Guitar: {}
+  Electric_Guitar:
+    08_Gtr1.wav:
+      Track_path: Man About A Dog - Maggie May\Man About A Dog - Maggie May_RAW\08_Gtr1.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads, Electric_Organ, Lead_Vocal, Backing_Vocal'
+      Comment: ''
+    09_Gtr2.wav:
+      Track_path: Man About A Dog - Maggie May\Man About A Dog - Maggie May_RAW\09_Gtr2.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads, Electric_Bass, Electric_Organ, Lead_Vocal, Backing_Vocal'
+      Comment: ''
+    10_Gtr3.wav:
+      Track_path: Man About A Dog - Maggie May\Man About A Dog - Maggie May_RAW\10_Gtr3.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads, Electric_Bass, Electric_Organ, Lead_Vocal, Backing_Vocal'
+      Comment: ''
+  Piano: {}
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    12_LeadVox.wav:
+      Track_path: Man About A Dog - Maggie May\Man About A Dog - Maggie May_RAW\12_LeadVox.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Choir: {}
+  Backing_Vocal:
+    14_BackingVox.wav:
+      Track_path: Man About A Dog - Maggie May\Man About A Dog - Maggie May_RAW\14_BackingVox.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    15_BackingVox.wav:
+      Track_path: Man About A Dog - Maggie May\Man About A Dog - Maggie May_RAW\15_BackingVox.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Unused:
+    13_LeadVoxScratch.wav:
+      Track_path: Man About A Dog - Maggie May\Man About A Dog - Maggie May_RAW\13_LeadVoxScratch.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'band'
+      Comment: ''
+  Ambient_Microphone: {}

@@ -1,0 +1,228 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer:
+    16_Synth01.wav:
+      Track_path: Aron Jaeger - Fly High\Aron Jaeger - Fly High_RAW\16_Synth01.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    17_Synth02.wav:
+      Track_path: Aron Jaeger - Fly High\Aron Jaeger - Fly High_RAW\17_Synth02.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    18_Synth03.wav:
+      Track_path: Aron Jaeger - Fly High\Aron Jaeger - Fly High_RAW\18_Synth03.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    19_Synth04.wav:
+      Track_path: Aron Jaeger - Fly High\Aron Jaeger - Fly High_RAW\19_Synth04.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    20_Synth05.wav:
+      Track_path: Aron Jaeger - Fly High\Aron Jaeger - Fly High_RAW\20_Synth05.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    21_Synth06.wav:
+      Track_path: Aron Jaeger - Fly High\Aron Jaeger - Fly High_RAW\21_Synth06.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    22_Synth07.wav:
+      Track_path: Aron Jaeger - Fly High\Aron Jaeger - Fly High_RAW\22_Synth07.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    23_Synth08.wav:
+      Track_path: Aron Jaeger - Fly High\Aron Jaeger - Fly High_RAW\23_Synth08.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    24_Synth09.wav:
+      Track_path: Aron Jaeger - Fly High\Aron Jaeger - Fly High_RAW\24_Synth09.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    25_Synth10.wav:
+      Track_path: Aron Jaeger - Fly High\Aron Jaeger - Fly High_RAW\25_Synth10.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    26_Synth11.wav:
+      Track_path: Aron Jaeger - Fly High\Aron Jaeger - Fly High_RAW\26_Synth11.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    27_Synth12.wav:
+      Track_path: Aron Jaeger - Fly High\Aron Jaeger - Fly High_RAW\27_Synth12.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    28_Synth13.wav:
+      Track_path: Aron Jaeger - Fly High\Aron Jaeger - Fly High_RAW\28_Synth13.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    29_Synth14.wav:
+      Track_path: Aron Jaeger - Fly High\Aron Jaeger - Fly High_RAW\29_Synth14.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    30_Synth15.wav:
+      Track_path: Aron Jaeger - Fly High\Aron Jaeger - Fly High_RAW\30_Synth15.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    31_Synth16.wav:
+      Track_path: Aron Jaeger - Fly High\Aron Jaeger - Fly High_RAW\31_Synth16.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  SFX:
+    10_ReverseSFX1.wav:
+      Track_path: Aron Jaeger - Fly High\Aron Jaeger - Fly High_RAW\10_ReverseSFX1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    11_ReverseSFX2.wav:
+      Track_path: Aron Jaeger - Fly High\Aron Jaeger - Fly High_RAW\11_ReverseSFX2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    12_SFX1.wav:
+      Track_path: Aron Jaeger - Fly High\Aron Jaeger - Fly High_RAW\12_SFX1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    13_SFX2.wav:
+      Track_path: Aron Jaeger - Fly High\Aron Jaeger - Fly High_RAW\13_SFX2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    14_SFX3.wav:
+      Track_path: Aron Jaeger - Fly High\Aron Jaeger - Fly High_RAW\14_SFX3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    01_Kick1.wav:
+      Track_path: Aron Jaeger - Fly High\Aron Jaeger - Fly High_RAW\01_Kick1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    02_Kick2.wav:
+      Track_path: Aron Jaeger - Fly High\Aron Jaeger - Fly High_RAW\02_Kick2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Snare:
+    03_Snare1.wav:
+      Track_path: Aron Jaeger - Fly High\Aron Jaeger - Fly High_RAW\03_Snare1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    04_Snare2.wav:
+      Track_path: Aron Jaeger - Fly High\Aron Jaeger - Fly High_RAW\04_Snare2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    05_Snare3.wav:
+      Track_path: Aron Jaeger - Fly High\Aron Jaeger - Fly High_RAW\05_Snare3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    06_Snare4.wav:
+      Track_path: Aron Jaeger - Fly High\Aron Jaeger - Fly High_RAW\06_Snare4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    07_ReverseSnare.wav:
+      Track_path: Aron Jaeger - Fly High\Aron Jaeger - Fly High_RAW\07_ReverseSnare.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_HiHat:
+    08_HiHat.wav:
+      Track_path: Aron Jaeger - Fly High\Aron Jaeger - Fly High_RAW\08_HiHat.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Cymbals: {}
+  Drum_Overheads: {}
+  Drum_Tom:
+    09_Toms.wav:
+      Track_path: Aron Jaeger - Fly High\Aron Jaeger - Fly High_RAW\09_Toms.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Room: {}
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop: {}
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass:
+    15_Bass.wav:
+      Track_path: Aron Jaeger - Fly High\Aron Jaeger - Fly High_RAW\15_Bass.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Electric_Bass: {}
+  Acoustic_Guitar: {}
+  Electric_Guitar: {}
+  Piano: {}
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal: {}
+  Choir: {}
+  Backing_Vocal: {}
+  Unused: {}
+  Ambient_Microphone: {}

@@ -1,0 +1,163 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer:
+    11_Synth1.wav:
+      Track_path: J0K3R - September Trance\J0K3R - September Trance_RAW\11_Synth1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    12_Synth2.wav:
+      Track_path: J0K3R - September Trance\J0K3R - September Trance_RAW\12_Synth2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    13_Synth3.wav:
+      Track_path: J0K3R - September Trance\J0K3R - September Trance_RAW\13_Synth3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    14_Synth4.wav:
+      Track_path: J0K3R - September Trance\J0K3R - September Trance_RAW\14_Synth4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    15_Synth5.wav:
+      Track_path: J0K3R - September Trance\J0K3R - September Trance_RAW\15_Synth5.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    16_Synth6.wav:
+      Track_path: J0K3R - September Trance\J0K3R - September Trance_RAW\16_Synth6.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    17_Synth7.wav:
+      Track_path: J0K3R - September Trance\J0K3R - September Trance_RAW\17_Synth7.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    18_Synth8.wav:
+      Track_path: J0K3R - September Trance\J0K3R - September Trance_RAW\18_Synth8.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  SFX:
+    06_SFX1.wav:
+      Track_path: J0K3R - September Trance\J0K3R - September Trance_RAW\06_SFX1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    07_SFX2.wav:
+      Track_path: J0K3R - September Trance\J0K3R - September Trance_RAW\07_SFX2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    08_SFX3.wav:
+      Track_path: J0K3R - September Trance\J0K3R - September Trance_RAW\08_SFX3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    03_Kick.wav:
+      Track_path: J0K3R - September Trance\J0K3R - September Trance_RAW\03_Kick.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Snare: {}
+  Drum_HiHat:
+    04_HiHat.wav:
+      Track_path: J0K3R - September Trance\J0K3R - September Trance_RAW\04_HiHat.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Cymbals: {}
+  Drum_Overheads: {}
+  Drum_Tom: {}
+  Drum_Room: {}
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop:
+    01_Loop1.wav:
+      Track_path: J0K3R - September Trance\J0K3R - September Trance_RAW\01_Loop1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    02_Loop2.wav:
+      Track_path: J0K3R - September Trance\J0K3R - September Trance_RAW\02_Loop2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Clicks: {}
+  Claps:
+    05_Claps.wav:
+      Track_path: J0K3R - September Trance\J0K3R - September Trance_RAW\05_Claps.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass: {}
+  Electric_Bass:
+    09_Bass1.wav:
+      Track_path: J0K3R - September Trance\J0K3R - September Trance_RAW\09_Bass1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    10_Bass2.wav:
+      Track_path: J0K3R - September Trance\J0K3R - September Trance_RAW\10_Bass2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Acoustic_Guitar: {}
+  Electric_Guitar: {}
+  Piano: {}
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal: {}
+  Choir: {}
+  Backing_Vocal: {}
+  Unused: {}
+  Ambient_Microphone: {}

@@ -1,0 +1,145 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer: {}
+  SFX: {}
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    01_Kick.wav:
+      Track_path: Szymon Skiba - Some Trashy Thrash I Guess\Szymon Skiba - Some Trashy
+        Thrash I Guess_RAW\01_Kick.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Snare:
+    02_Snare.wav:
+      Track_path: Szymon Skiba - Some Trashy Thrash I Guess\Szymon Skiba - Some Trashy
+        Thrash I Guess_RAW\02_Snare.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_HiHat:
+    03_HiHat.wav:
+      Track_path: Szymon Skiba - Some Trashy Thrash I Guess\Szymon Skiba - Some Trashy
+        Thrash I Guess_RAW\03_HiHat.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Cymbals:
+    07_Reversed Cymbal.wav:
+      Track_path: Szymon Skiba - Some Trashy Thrash I Guess\Szymon Skiba - Some Trashy
+        Thrash I Guess_RAW\07_Reversed Cymbal.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Overheads:
+    05_Overheads.wav:
+      Track_path: Szymon Skiba - Some Trashy Thrash I Guess\Szymon Skiba - Some Trashy
+        Thrash I Guess_RAW\05_Overheads.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Tom:
+    04_Toms.wav:
+      Track_path: Szymon Skiba - Some Trashy Thrash I Guess\Szymon Skiba - Some Trashy
+        Thrash I Guess_RAW\04_Toms.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Room:
+    06_DrumsRoom.wav:
+      Track_path: Szymon Skiba - Some Trashy Thrash I Guess\Szymon Skiba - Some Trashy
+        Thrash I Guess_RAW\06_DrumsRoom.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop: {}
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass: {}
+  Electric_Bass:
+    08_Bass.wav:
+      Track_path: Szymon Skiba - Some Trashy Thrash I Guess\Szymon Skiba - Some Trashy
+        Thrash I Guess_RAW\08_Bass.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Acoustic_Guitar: {}
+  Electric_Guitar:
+    09_ElecGtrDI1.wav:
+      Track_path: Szymon Skiba - Some Trashy Thrash I Guess\Szymon Skiba - Some Trashy
+        Thrash I Guess_RAW\09_ElecGtrDI1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    10_ElecGtrDI2.wav:
+      Track_path: Szymon Skiba - Some Trashy Thrash I Guess\Szymon Skiba - Some Trashy
+        Thrash I Guess_RAW\10_ElecGtrDI2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    11_ElecGtrDI3.wav:
+      Track_path: Szymon Skiba - Some Trashy Thrash I Guess\Szymon Skiba - Some Trashy
+        Thrash I Guess_RAW\11_ElecGtrDI3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    12_ElecGtrDI4.wav:
+      Track_path: Szymon Skiba - Some Trashy Thrash I Guess\Szymon Skiba - Some Trashy
+        Thrash I Guess_RAW\12_ElecGtrDI4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Piano: {}
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal: {}
+  Choir: {}
+  Backing_Vocal: {}
+  Unused: {}
+  Ambient_Microphone: {}

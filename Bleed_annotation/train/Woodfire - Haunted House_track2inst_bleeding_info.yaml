@@ -1,0 +1,148 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer: {}
+  SFX: {}
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    01_Kick.wav:
+      Track_path: Woodfire - Haunted House\Woodfire - Haunted House_RAW\01_Kick.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_Snare:
+    02_Snare.wav:
+      Track_path: Woodfire - Haunted House\Woodfire - Haunted House_RAW\02_Snare.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_HiHat: {}
+  Drum_Cymbals: {}
+  Drum_Overheads:
+    04_OverheadMono.wav:
+      Track_path: Woodfire - Haunted House\Woodfire - Haunted House_RAW\04_OverheadMono.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    05_OverheadsStereo.wav:
+      Track_path: Woodfire - Haunted House\Woodfire - Haunted House_RAW\05_OverheadsStereo.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Tom:
+    03_Tom.wav:
+      Track_path: Woodfire - Haunted House\Woodfire - Haunted House_RAW\03_Tom.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_Room:
+    06_DrumsRoom.wav:
+      Track_path: Woodfire - Haunted House\Woodfire - Haunted House_RAW\06_DrumsRoom.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop: {}
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass: {}
+  Electric_Bass:
+    07_BassDI.wav:
+      Track_path: Woodfire - Haunted House\Woodfire - Haunted House_RAW\07_BassDI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Acoustic_Guitar: {}
+  Electric_Guitar:
+    08_ElecGtr1a.wav:
+      Track_path: Woodfire - Haunted House\Woodfire - Haunted House_RAW\08_ElecGtr1a.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    09_ElecGtr1b.wav:
+      Track_path: Woodfire - Haunted House\Woodfire - Haunted House_RAW\09_ElecGtr1b.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    10_ElecGtr2a.wav:
+      Track_path: Woodfire - Haunted House\Woodfire - Haunted House_RAW\10_ElecGtr2a.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    11_ElecGtr2b.wav:
+      Track_path: Woodfire - Haunted House\Woodfire - Haunted House_RAW\11_ElecGtr2b.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    12_ElecGtr3a.wav:
+      Track_path: Woodfire - Haunted House\Woodfire - Haunted House_RAW\12_ElecGtr3a.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    13_ElecGtr3b.wav:
+      Track_path: Woodfire - Haunted House\Woodfire - Haunted House_RAW\13_ElecGtr3b.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Piano: {}
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    14_LeadVox.wav:
+      Track_path: Woodfire - Haunted House\Woodfire - Haunted House_RAW\14_LeadVox.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    15_LeadVoxDT.wav:
+      Track_path: Woodfire - Haunted House\Woodfire - Haunted House_RAW\15_LeadVoxDT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Choir: {}
+  Backing_Vocal: {}
+  Unused: {}
+  Ambient_Microphone: {}

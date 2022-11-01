@@ -1,0 +1,271 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer: {}
+  SFX: {}
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes:
+    10_Chimes.wav:
+      Track_path: Mykey Massacre - Don't Please Stay\Mykey Massacre - Don't Please
+        Stay_RAW\10_Chimes.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Other_Chromatic: {}
+  Drum_Kick:
+    01_Kick.wav:
+      Track_path: Mykey Massacre - Don't Please Stay\Mykey Massacre - Don't Please
+        Stay_RAW\01_Kick.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Snare:
+    02_Snare.wav:
+      Track_path: Mykey Massacre - Don't Please Stay\Mykey Massacre - Don't Please
+        Stay_RAW\02_Snare.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_HiHat:
+    03_HiHat.wav:
+      Track_path: Mykey Massacre - Don't Please Stay\Mykey Massacre - Don't Please
+        Stay_RAW\03_HiHat.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Cymbals:
+    04_Ride.wav:
+      Track_path: Mykey Massacre - Don't Please Stay\Mykey Massacre - Don't Please
+        Stay_RAW\04_Ride.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    11_Reverse Cymbal.wav:
+      Track_path: Mykey Massacre - Don't Please Stay\Mykey Massacre - Don't Please
+        Stay_RAW\11_Reverse Cymbal.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    08_Overheads.wav:
+      Track_path: Mykey Massacre - Don't Please Stay\Mykey Massacre - Don't Please
+        Stay_RAW\08_Overheads.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Overheads: {}
+  Drum_Tom:
+    05_Tom1.wav:
+      Track_path: Mykey Massacre - Don't Please Stay\Mykey Massacre - Don't Please
+        Stay_RAW\05_Tom1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    06_Tom2.wav:
+      Track_path: Mykey Massacre - Don't Please Stay\Mykey Massacre - Don't Please
+        Stay_RAW\06_Tom2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    07_Tom3.wav:
+      Track_path: Mykey Massacre - Don't Please Stay\Mykey Massacre - Don't Please
+        Stay_RAW\07_Tom3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Room:
+    09_DrumsRoom.wav:
+      Track_path: Mykey Massacre - Don't Please Stay\Mykey Massacre - Don't Please
+        Stay_RAW\09_DrumsRoom.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop: {}
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass: {}
+  Electric_Bass:
+    12_Bass.wav:
+      Track_path: Mykey Massacre - Don't Please Stay\Mykey Massacre - Don't Please
+        Stay_RAW\12_Bass.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Acoustic_Guitar: {}
+  Electric_Guitar:
+    13_ElecGtr1.wav:
+      Track_path: Mykey Massacre - Don't Please Stay\Mykey Massacre - Don't Please
+        Stay_RAW\13_ElecGtr1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    14_ElecGtr2.wav:
+      Track_path: Mykey Massacre - Don't Please Stay\Mykey Massacre - Don't Please
+        Stay_RAW\14_ElecGtr2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    15_ElecGtr3.wav:
+      Track_path: Mykey Massacre - Don't Please Stay\Mykey Massacre - Don't Please
+        Stay_RAW\15_ElecGtr3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    16_ElecGtr3DT.wav:
+      Track_path: Mykey Massacre - Don't Please Stay\Mykey Massacre - Don't Please
+        Stay_RAW\16_ElecGtr3DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    17_ElecGtr4.wav:
+      Track_path: Mykey Massacre - Don't Please Stay\Mykey Massacre - Don't Please
+        Stay_RAW\17_ElecGtr4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    18_ElecGtr5.wav:
+      Track_path: Mykey Massacre - Don't Please Stay\Mykey Massacre - Don't Please
+        Stay_RAW\18_ElecGtr5.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    19_ElecGtr5DT.wav:
+      Track_path: Mykey Massacre - Don't Please Stay\Mykey Massacre - Don't Please
+        Stay_RAW\19_ElecGtr5DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Piano: {}
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    20_LeadVox.wav:
+      Track_path: Mykey Massacre - Don't Please Stay\Mykey Massacre - Don't Please
+        Stay_RAW\20_LeadVox.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    21_LeadVoxDT1.wav:
+      Track_path: Mykey Massacre - Don't Please Stay\Mykey Massacre - Don't Please
+        Stay_RAW\21_LeadVoxDT1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    22_LeadVoxDT2.wav:
+      Track_path: Mykey Massacre - Don't Please Stay\Mykey Massacre - Don't Please
+        Stay_RAW\22_LeadVoxDT2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Choir: {}
+  Backing_Vocal:
+    23_BackingVox1.wav:
+      Track_path: Mykey Massacre - Don't Please Stay\Mykey Massacre - Don't Please
+        Stay_RAW\23_BackingVox1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    24_BackingVox2.wav:
+      Track_path: Mykey Massacre - Don't Please Stay\Mykey Massacre - Don't Please
+        Stay_RAW\24_BackingVox2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    25_BackingVox3.wav:
+      Track_path: Mykey Massacre - Don't Please Stay\Mykey Massacre - Don't Please
+        Stay_RAW\25_BackingVox3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    26_BackingVox4.wav:
+      Track_path: Mykey Massacre - Don't Please Stay\Mykey Massacre - Don't Please
+        Stay_RAW\26_BackingVox4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    27_BackingVox5.wav:
+      Track_path: Mykey Massacre - Don't Please Stay\Mykey Massacre - Don't Please
+        Stay_RAW\27_BackingVox5.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    28_BackingVox6.wav:
+      Track_path: Mykey Massacre - Don't Please Stay\Mykey Massacre - Don't Please
+        Stay_RAW\28_BackingVox6.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    29_BackingVox6DT1.wav:
+      Track_path: Mykey Massacre - Don't Please Stay\Mykey Massacre - Don't Please
+        Stay_RAW\29_BackingVox6DT1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    30_BackingVox6DT2.wav:
+      Track_path: Mykey Massacre - Don't Please Stay\Mykey Massacre - Don't Please
+        Stay_RAW\30_BackingVox6DT2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    31_BackingVox6DT3.wav:
+      Track_path: Mykey Massacre - Don't Please Stay\Mykey Massacre - Don't Please
+        Stay_RAW\31_BackingVox6DT3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    32_BackingVox6DT4.wav:
+      Track_path: Mykey Massacre - Don't Please Stay\Mykey Massacre - Don't Please
+        Stay_RAW\32_BackingVox6DT4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    33_BackingVox6DT5.wav:
+      Track_path: Mykey Massacre - Don't Please Stay\Mykey Massacre - Don't Please
+        Stay_RAW\33_BackingVox6DT5.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Unused: {}
+  Ambient_Microphone: {}

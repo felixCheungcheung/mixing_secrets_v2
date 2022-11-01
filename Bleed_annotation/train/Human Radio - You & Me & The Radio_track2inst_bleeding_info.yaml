@@ -1,0 +1,283 @@
+Track2inst:
+  Electric_Organ:
+    Organ L 260_01.wav:
+      Track_path: Human Radio - You & Me & The Radio\Human Radio - You & Me & The
+        Radio_RAW\Organ L 260_01.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Organ R 260_01.wav:
+      Track_path: Human Radio - You & Me & The Radio\Human Radio - You & Me & The
+        Radio_RAW\Organ R 260_01.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Synthesizer: {}
+  SFX: {}
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    DRUMS -Kick M82_01.wav:
+      Track_path: Human Radio - You & Me & The Radio\Human Radio - You & Me & The
+        Radio_RAW\DRUMS -Kick M82_01.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_Snare:
+    DRUMS - Snare Top M80_01.wav:
+      Track_path: Human Radio - You & Me & The Radio\Human Radio - You & Me & The
+        Radio_RAW\DRUMS - Snare Top M80_01.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    DRUMS -Snare Bottom M80_01.wav:
+      Track_path: Human Radio - You & Me & The Radio\Human Radio - You & Me & The
+        Radio_RAW\DRUMS -Snare Bottom M80_01.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_HiHat:
+    DRUMS - Hat 260_01.wav:
+      Track_path: Human Radio - You & Me & The Radio\Human Radio - You & Me & The
+        Radio_RAW\DRUMS - Hat 260_01.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_Cymbals: {}
+  Drum_Overheads:
+    DRUMS -OH L AR_01.wav:
+      Track_path: Human Radio - You & Me & The Radio\Human Radio - You & Me & The
+        Radio_RAW\DRUMS -OH L AR_01.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    DRUMS -OH R AR_01.wav:
+      Track_path: Human Radio - You & Me & The Radio\Human Radio - You & Me & The
+        Radio_RAW\DRUMS -OH R AR_01.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Tom:
+    DRUMS - Tom 1 M80_01.wav:
+      Track_path: Human Radio - You & Me & The Radio\Human Radio - You & Me & The
+        Radio_RAW\DRUMS - Tom 1 M80_01.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    DRUMS - Tom 2 M80_01.wav:
+      Track_path: Human Radio - You & Me & The Radio\Human Radio - You & Me & The
+        Radio_RAW\DRUMS - Tom 2 M80_01.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_Room:
+    DRUMS -Room L AR_01.wav:
+      Track_path: Human Radio - You & Me & The Radio\Human Radio - You & Me & The
+        Radio_RAW\DRUMS -Room L AR_01.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    DRUMS -Room R AR_01.wav:
+      Track_path: Human Radio - You & Me & The Radio\Human Radio - You & Me & The
+        Radio_RAW\DRUMS -Room R AR_01.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine:
+    DRUMS - Tamb CU_01.wav:
+      Track_path: Human Radio - You & Me & The Radio\Human Radio - You & Me & The
+        Radio_RAW\DRUMS - Tamb CU_01.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Loop: {}
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass: {}
+  Electric_Bass:
+    Bass CU_01.wav:
+      Track_path: Human Radio - You & Me & The Radio\Human Radio - You & Me & The
+        Radio_RAW\Bass CU_01.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Bass M81_01.wav:
+      Track_path: Human Radio - You & Me & The Radio\Human Radio - You & Me & The
+        Radio_RAW\Bass M81_01.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Acoustic_Guitar: {}
+  Electric_Guitar:
+    Guitar 2 AK_01.wav:
+      Track_path: Human Radio - You & Me & The Radio\Human Radio - You & Me & The
+        Radio_RAW\Guitar 2 AK_01.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Guitar 2 M80_01.wav:
+      Track_path: Human Radio - You & Me & The Radio\Human Radio - You & Me & The
+        Radio_RAW\Guitar 2 M80_01.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Guitar 3 AK_01.wav:
+      Track_path: Human Radio - You & Me & The Radio\Human Radio - You & Me & The
+        Radio_RAW\Guitar 3 AK_01.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Guitar 3 M80_01.wav:
+      Track_path: Human Radio - You & Me & The Radio\Human Radio - You & Me & The
+        Radio_RAW\Guitar 3 M80_01.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Guitar 4 AK_01.wav:
+      Track_path: Human Radio - You & Me & The Radio\Human Radio - You & Me & The
+        Radio_RAW\Guitar 4 AK_01.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Guitar 4 M80_01.wav:
+      Track_path: Human Radio - You & Me & The Radio\Human Radio - You & Me & The
+        Radio_RAW\Guitar 4 M80_01.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Guitar 5 M80_01.wav:
+      Track_path: Human Radio - You & Me & The Radio\Human Radio - You & Me & The
+        Radio_RAW\Guitar 5 M80_01.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Guitar 6 AK_01.wav:
+      Track_path: Human Radio - You & Me & The Radio\Human Radio - You & Me & The
+        Radio_RAW\Guitar 6 AK_01.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Guitar AK_01.wav:
+      Track_path: Human Radio - You & Me & The Radio\Human Radio - You & Me & The
+        Radio_RAW\Guitar AK_01.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Guitar M80_01.wav:
+      Track_path: Human Radio - You & Me & The Radio\Human Radio - You & Me & The
+        Radio_RAW\Guitar M80_01.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Piano:
+    Piano L CU_01.wav:
+      Track_path: Human Radio - You & Me & The Radio\Human Radio - You & Me & The
+        Radio_RAW\Piano L CU_01.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Piano R CU_01.wav:
+      Track_path: Human Radio - You & Me & The Radio\Human Radio - You & Me & The
+        Radio_RAW\Piano R CU_01.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    Vox 251_01.wav:
+      Track_path: Human Radio - You & Me & The Radio\Human Radio - You & Me & The
+        Radio_RAW\Vox 251_01.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Vox 47_01.wav:
+      Track_path: Human Radio - You & Me & The Radio\Human Radio - You & Me & The
+        Radio_RAW\Vox 47_01.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Choir: {}
+  Backing_Vocal:
+    BGV 1 251_01.wav:
+      Track_path: Human Radio - You & Me & The Radio\Human Radio - You & Me & The
+        Radio_RAW\BGV 1 251_01.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    BGV 2 251_01.wav:
+      Track_path: Human Radio - You & Me & The Radio\Human Radio - You & Me & The
+        Radio_RAW\BGV 2 251_01.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    BGV 3 251_01.wav:
+      Track_path: Human Radio - You & Me & The Radio\Human Radio - You & Me & The
+        Radio_RAW\BGV 3 251_01.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    BGV 4 251_01.wav:
+      Track_path: Human Radio - You & Me & The Radio\Human Radio - You & Me & The
+        Radio_RAW\BGV 4 251_01.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    BGV 5 251_01.wav:
+      Track_path: Human Radio - You & Me & The Radio\Human Radio - You & Me & The
+        Radio_RAW\BGV 5 251_01.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    BGV 6 251_01.wav:
+      Track_path: Human Radio - You & Me & The Radio\Human Radio - You & Me & The
+        Radio_RAW\BGV 6 251_01.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Unused: {}
+  Ambient_Microphone: {}

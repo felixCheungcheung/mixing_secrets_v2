@@ -1,0 +1,223 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer: {}
+  SFX: {}
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    01_KickMic1.wav:
+      Track_path: Pawel Maciwoda - 1 Of The First\Pawel Maciwoda - 1 Of The First_RAW\01_KickMic1.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    02_KickMic2.wav:
+      Track_path: Pawel Maciwoda - 1 Of The First\Pawel Maciwoda - 1 Of The First_RAW\02_KickMic2.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    03_KickMic3.wav:
+      Track_path: Pawel Maciwoda - 1 Of The First\Pawel Maciwoda - 1 Of The First_RAW\03_KickMic3.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_Snare:
+    04_SnareUp.wav:
+      Track_path: Pawel Maciwoda - 1 Of The First\Pawel Maciwoda - 1 Of The First_RAW\04_SnareUp.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    05_SnareDown.wav:
+      Track_path: Pawel Maciwoda - 1 Of The First\Pawel Maciwoda - 1 Of The First_RAW\05_SnareDown.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_HiHat:
+    06_HiHat.wav:
+      Track_path: Pawel Maciwoda - 1 Of The First\Pawel Maciwoda - 1 Of The First_RAW\06_HiHat.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_Cymbals: {}
+  Drum_Overheads:
+    07_Overheads.wav:
+      Track_path: Pawel Maciwoda - 1 Of The First\Pawel Maciwoda - 1 Of The First_RAW\07_Overheads.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Tom:
+    09_Tom1.wav:
+      Track_path: Pawel Maciwoda - 1 Of The First\Pawel Maciwoda - 1 Of The First_RAW\09_Tom1.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    10_Tom2.wav:
+      Track_path: Pawel Maciwoda - 1 Of The First\Pawel Maciwoda - 1 Of The First_RAW\10_Tom2.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    11_Tom3.wav:
+      Track_path: Pawel Maciwoda - 1 Of The First\Pawel Maciwoda - 1 Of The First_RAW\11_Tom3.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_Room:
+    08_DrumsRoom.wav:
+      Track_path: Pawel Maciwoda - 1 Of The First\Pawel Maciwoda - 1 Of The First_RAW\08_DrumsRoom.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop: {}
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass: {}
+  Electric_Bass:
+    15_Bass1.wav:
+      Track_path: Pawel Maciwoda - 1 Of The First\Pawel Maciwoda - 1 Of The First_RAW\15_Bass1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    16_Bass2.wav:
+      Track_path: Pawel Maciwoda - 1 Of The First\Pawel Maciwoda - 1 Of The First_RAW\16_Bass2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    17_Bass3.wav:
+      Track_path: Pawel Maciwoda - 1 Of The First\Pawel Maciwoda - 1 Of The First_RAW\17_Bass3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Acoustic_Guitar:
+    12_AcousticGtrMic1.wav:
+      Track_path: Pawel Maciwoda - 1 Of The First\Pawel Maciwoda - 1 Of The First_RAW\12_AcousticGtrMic1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    13_AcousticGtrMic2.wav:
+      Track_path: Pawel Maciwoda - 1 Of The First\Pawel Maciwoda - 1 Of The First_RAW\13_AcousticGtrMic2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Electric_Guitar:
+    14_ElecGtr.wav:
+      Track_path: Pawel Maciwoda - 1 Of The First\Pawel Maciwoda - 1 Of The First_RAW\14_ElecGtr.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Piano:
+    30_Piano.wav:
+      Track_path: Pawel Maciwoda - 1 Of The First\Pawel Maciwoda - 1 Of The First_RAW\30_Piano.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone:
+    18_Sax1Mic1.wav:
+      Track_path: Pawel Maciwoda - 1 Of The First\Pawel Maciwoda - 1 Of The First_RAW\18_Sax1Mic1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    19_Sax1Mic2.wav:
+      Track_path: Pawel Maciwoda - 1 Of The First\Pawel Maciwoda - 1 Of The First_RAW\19_Sax1Mic2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    20_Sax1Mic3.wav:
+      Track_path: Pawel Maciwoda - 1 Of The First\Pawel Maciwoda - 1 Of The First_RAW\20_Sax1Mic3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    21_Sax2Mic1.wav:
+      Track_path: Pawel Maciwoda - 1 Of The First\Pawel Maciwoda - 1 Of The First_RAW\21_Sax2Mic1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    22_Sax2Mic2.wav:
+      Track_path: Pawel Maciwoda - 1 Of The First\Pawel Maciwoda - 1 Of The First_RAW\22_Sax2Mic2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    23_Sax2Mic3.wav:
+      Track_path: Pawel Maciwoda - 1 Of The First\Pawel Maciwoda - 1 Of The First_RAW\23_Sax2Mic3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    24_Sax3Mic1.wav:
+      Track_path: Pawel Maciwoda - 1 Of The First\Pawel Maciwoda - 1 Of The First_RAW\24_Sax3Mic1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    25_Sax3Mic2.wav:
+      Track_path: Pawel Maciwoda - 1 Of The First\Pawel Maciwoda - 1 Of The First_RAW\25_Sax3Mic2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    26_Sax3Mic3.wav:
+      Track_path: Pawel Maciwoda - 1 Of The First\Pawel Maciwoda - 1 Of The First_RAW\26_Sax3Mic3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    27_Sax4Mic1.wav:
+      Track_path: Pawel Maciwoda - 1 Of The First\Pawel Maciwoda - 1 Of The First_RAW\27_Sax4Mic1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    28_Sax4Mic2.wav:
+      Track_path: Pawel Maciwoda - 1 Of The First\Pawel Maciwoda - 1 Of The First_RAW\28_Sax4Mic2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    29_Sax4Mic3.wav:
+      Track_path: Pawel Maciwoda - 1 Of The First\Pawel Maciwoda - 1 Of The First_RAW\29_Sax4Mic3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal: {}
+  Choir: {}
+  Backing_Vocal: {}
+  Unused: {}
+  Ambient_Microphone: {}

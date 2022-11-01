@@ -1,0 +1,253 @@
+Track2inst:
+  Electric_Organ:
+    20_Organ3.wav:
+      Track_path: Killa-L - Window\Killa-L - Window_RAW\20_Organ3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Synthesizer:
+    23_Synth1.wav:
+      Track_path: Killa-L - Window\Killa-L - Window_RAW\23_Synth1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    24_Synth2.wav:
+      Track_path: Killa-L - Window\Killa-L - Window_RAW\24_Synth2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    25_Synth3.wav:
+      Track_path: Killa-L - Window\Killa-L - Window_RAW\25_Synth3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    26_Synth4.wav:
+      Track_path: Killa-L - Window\Killa-L - Window_RAW\26_Synth4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    27_Synth5.wav:
+      Track_path: Killa-L - Window\Killa-L - Window_RAW\27_Synth5.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    28_Synth6.wav:
+      Track_path: Killa-L - Window\Killa-L - Window_RAW\28_Synth6.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    29_Synth7.wav:
+      Track_path: Killa-L - Window\Killa-L - Window_RAW\29_Synth7.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  SFX:
+    30_SynthSFX1.wav:
+      Track_path: Killa-L - Window\Killa-L - Window_RAW\30_SynthSFX1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    31_SynthSFX2.wav:
+      Track_path: Killa-L - Window\Killa-L - Window_RAW\31_SynthSFX2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    01_Kick1.wav:
+      Track_path: Killa-L - Window\Killa-L - Window_RAW\01_Kick1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    02_Kick2.wav:
+      Track_path: Killa-L - Window\Killa-L - Window_RAW\02_Kick2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    03_Kick3.wav:
+      Track_path: Killa-L - Window\Killa-L - Window_RAW\03_Kick3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    04_Kick4.wav:
+      Track_path: Killa-L - Window\Killa-L - Window_RAW\04_Kick4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    05_Kick5.wav:
+      Track_path: Killa-L - Window\Killa-L - Window_RAW\05_Kick5.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    06_Kick6.wav:
+      Track_path: Killa-L - Window\Killa-L - Window_RAW\06_Kick6.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    07_Kick7.wav:
+      Track_path: Killa-L - Window\Killa-L - Window_RAW\07_Kick7.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Snare:
+    08_Snare1.wav:
+      Track_path: Killa-L - Window\Killa-L - Window_RAW\08_Snare1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    09_Snare2.wav:
+      Track_path: Killa-L - Window\Killa-L - Window_RAW\09_Snare2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_HiHat:
+    10_HiHat1.wav:
+      Track_path: Killa-L - Window\Killa-L - Window_RAW\10_HiHat1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    11_HiHat2.wav:
+      Track_path: Killa-L - Window\Killa-L - Window_RAW\11_HiHat2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Cymbals:
+    12_Cymbal1.wav:
+      Track_path: Killa-L - Window\Killa-L - Window_RAW\12_Cymbal1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    13_Cymbal2.wav:
+      Track_path: Killa-L - Window\Killa-L - Window_RAW\13_Cymbal2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    14_Cymbal3.wav:
+      Track_path: Killa-L - Window\Killa-L - Window_RAW\14_Cymbal3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    15_RevCymbal1.wav:
+      Track_path: Killa-L - Window\Killa-L - Window_RAW\15_RevCymbal1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    16_RevCymbal2.wav:
+      Track_path: Killa-L - Window\Killa-L - Window_RAW\16_RevCymbal2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Overheads: {}
+  Drum_Tom: {}
+  Drum_Room: {}
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop: {}
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass:
+    18_Organ1.wav:
+      Track_path: Killa-L - Window\Killa-L - Window_RAW\18_Organ1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    19_Organ2.wav:
+      Track_path: Killa-L - Window\Killa-L - Window_RAW\19_Organ2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Electric_Bass: {}
+  Acoustic_Guitar: {}
+  Electric_Guitar: {}
+  Piano: {}
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section:
+    21_Strings1.wav:
+      Track_path: Killa-L - Window\Killa-L - Window_RAW\21_Strings1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    22_Strings2.wav:
+      Track_path: Killa-L - Window\Killa-L - Window_RAW\22_Strings2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    32_LeadVox1.wav:
+      Track_path: Killa-L - Window\Killa-L - Window_RAW\32_LeadVox1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    33_LeadVox2.wav:
+      Track_path: Killa-L - Window\Killa-L - Window_RAW\33_LeadVox2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    34_LeadVox3.wav:
+      Track_path: Killa-L - Window\Killa-L - Window_RAW\34_LeadVox3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    35_LeadVoxDT.wav:
+      Track_path: Killa-L - Window\Killa-L - Window_RAW\35_LeadVoxDT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Choir:
+    17_Choir.wav:
+      Track_path: Killa-L - Window\Killa-L - Window_RAW\17_Choir.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Backing_Vocal:
+    36_BackingVox.wav:
+      Track_path: Killa-L - Window\Killa-L - Window_RAW\36_BackingVox.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Unused: {}
+  Ambient_Microphone: {}

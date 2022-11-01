@@ -1,0 +1,223 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer: {}
+  SFX: {}
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic:
+    08_Sprinkles.wav:
+      Track_path: Actions - South Of The Water\Actions - South Of The Water_RAW\08_Sprinkles.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Kick: {}
+  Drum_Snare:
+    02_Snare.wav:
+      Track_path: Actions - South Of The Water\Actions - South Of The Water_RAW\02_Snare.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads'
+      Comment: ''
+  Drum_HiHat: {}
+  Drum_Cymbals:
+    07_RevCymbal.wav:
+      Track_path: Actions - South Of The Water\Actions - South Of The Water_RAW\07_RevCymbal.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Overheads:
+    03_Overheads.wav:
+      Track_path: Actions - South Of The Water\Actions - South Of The Water_RAW\03_Overheads.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Tom:
+    04_Tom1.wav:
+      Track_path: Actions - South Of The Water\Actions - South Of The Water_RAW\04_Tom1.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads'
+      Comment: ''
+    05_Tom2.wav:
+      Track_path: Actions - South Of The Water\Actions - South Of The Water_RAW\05_Tom2.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads'
+      Comment: ''
+  Drum_Room: {}
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine:
+    06_Tambourine.wav:
+      Track_path: Actions - South Of The Water\Actions - South Of The Water_RAW\06_Tambourine.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Loop: {}
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass: {}
+  Electric_Bass:
+    09_Bass.wav:
+      Track_path: Actions - South Of The Water\Actions - South Of The Water_RAW\09_Bass.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Acoustic_Guitar:
+    17_AcGtr.wav:
+      Track_path: Actions - South Of The Water\Actions - South Of The Water_RAW\17_AcGtr.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    18_AcGtr.wav:
+      Track_path: Actions - South Of The Water\Actions - South Of The Water_RAW\18_AcGtr.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Electric_Guitar:
+    10_ElecGtr1.wav:
+      Track_path: Actions - South Of The Water\Actions - South Of The Water_RAW\10_ElecGtr1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    11_ElecGtr2.wav:
+      Track_path: Actions - South Of The Water\Actions - South Of The Water_RAW\11_ElecGtr2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    12_ElecGtr3.wav:
+      Track_path: Actions - South Of The Water\Actions - South Of The Water_RAW\12_ElecGtr3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    13_ElecGtr4.wav:
+      Track_path: Actions - South Of The Water\Actions - South Of The Water_RAW\13_ElecGtr4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    14_ElecGtr5.wav:
+      Track_path: Actions - South Of The Water\Actions - South Of The Water_RAW\14_ElecGtr5.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    15_ElecGtr6.wav:
+      Track_path: Actions - South Of The Water\Actions - South Of The Water_RAW\15_ElecGtr6.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    16_ElecGtr7.wav:
+      Track_path: Actions - South Of The Water\Actions - South Of The Water_RAW\16_ElecGtr7.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Piano:
+    19_Piano.wav:
+      Track_path: Actions - South Of The Water\Actions - South Of The Water_RAW\19_Piano.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    20_LeadVox.wav:
+      Track_path: Actions - South Of The Water\Actions - South Of The Water_RAW\20_LeadVox.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    21_LeadVoxDT.wav:
+      Track_path: Actions - South Of The Water\Actions - South Of The Water_RAW\21_LeadVoxDT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Choir: {}
+  Backing_Vocal:
+    22_BackingVox1.wav:
+      Track_path: Actions - South Of The Water\Actions - South Of The Water_RAW\22_BackingVox1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    23_BackingVox2.wav:
+      Track_path: Actions - South Of The Water\Actions - South Of The Water_RAW\23_BackingVox2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    24_BackingVox3.wav:
+      Track_path: Actions - South Of The Water\Actions - South Of The Water_RAW\24_BackingVox3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    25_BackingVox4.wav:
+      Track_path: Actions - South Of The Water\Actions - South Of The Water_RAW\25_BackingVox4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    26_BackingVox5.wav:
+      Track_path: Actions - South Of The Water\Actions - South Of The Water_RAW\26_BackingVox5.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    27_BackingVox6.wav:
+      Track_path: Actions - South Of The Water\Actions - South Of The Water_RAW\27_BackingVox6.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    28_BackingVox7.wav:
+      Track_path: Actions - South Of The Water\Actions - South Of The Water_RAW\28_BackingVox7.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    29_BackingVox8.wav:
+      Track_path: Actions - South Of The Water\Actions - South Of The Water_RAW\29_BackingVox8.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    30_BackingVox9.wav:
+      Track_path: Actions - South Of The Water\Actions - South Of The Water_RAW\30_BackingVox9.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Unused:
+    01_KickTrigger.wav:
+      Track_path: Actions - South Of The Water\Actions - South Of The Water_RAW\01_KickTrigger.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Ambient_Microphone: {}

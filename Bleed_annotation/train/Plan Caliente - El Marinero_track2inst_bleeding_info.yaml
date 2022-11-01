@@ -1,0 +1,233 @@
+Track2inst:
+  Electric_Organ:
+    22_Organ.wav:
+      Track_path: Plan Caliente - El Marinero\Plan Caliente - El Marinero_RAW\22_Organ.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Synthesizer:
+    23_Synth1.wav:
+      Track_path: Plan Caliente - El Marinero\Plan Caliente - El Marinero_RAW\23_Synth1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    24_Synth2.wav:
+      Track_path: Plan Caliente - El Marinero\Plan Caliente - El Marinero_RAW\24_Synth2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  SFX:
+    12_SFX1.wav:
+      Track_path: Plan Caliente - El Marinero\Plan Caliente - El Marinero_RAW\12_SFX1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    13_SFX2.wav:
+      Track_path: Plan Caliente - El Marinero\Plan Caliente - El Marinero_RAW\13_SFX2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    14_SFX3.wav:
+      Track_path: Plan Caliente - El Marinero\Plan Caliente - El Marinero_RAW\14_SFX3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Marimba: {}
+  Bell:
+    08_Cowbell.wav:
+      Track_path: Plan Caliente - El Marinero\Plan Caliente - El Marinero_RAW\08_Cowbell.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes:
+    07_Chimes.wav:
+      Track_path: Plan Caliente - El Marinero\Plan Caliente - El Marinero_RAW\07_Chimes.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Other_Chromatic: {}
+  Drum_Kick:
+    02_Kick.wav:
+      Track_path: Plan Caliente - El Marinero\Plan Caliente - El Marinero_RAW\02_Kick.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Snare:
+    03_Snare.wav:
+      Track_path: Plan Caliente - El Marinero\Plan Caliente - El Marinero_RAW\03_Snare.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_HiHat:
+    04_HiHat1.wav:
+      Track_path: Plan Caliente - El Marinero\Plan Caliente - El Marinero_RAW\04_HiHat1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    05_HiHat2.wav:
+      Track_path: Plan Caliente - El Marinero\Plan Caliente - El Marinero_RAW\05_HiHat2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Cymbals: {}
+  Drum_Overheads: {}
+  Drum_Tom: {}
+  Drum_Room: {}
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha:
+    09_Vibraslap.wav:
+      Track_path: Plan Caliente - El Marinero\Plan Caliente - El Marinero_RAW\09_Vibraslap.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop: {}
+  Clicks: {}
+  Claps:
+    06_Claps.wav:
+      Track_path: Plan Caliente - El Marinero\Plan Caliente - El Marinero_RAW\06_Claps.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion:
+    10_Percussion1.wav:
+      Track_path: Plan Caliente - El Marinero\Plan Caliente - El Marinero_RAW\10_Percussion1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    11_Percussion2.wav:
+      Track_path: Plan Caliente - El Marinero\Plan Caliente - El Marinero_RAW\11_Percussion2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Synth_Bass: {}
+  Electric_Bass:
+    15_Bass1.wav:
+      Track_path: Plan Caliente - El Marinero\Plan Caliente - El Marinero_RAW\15_Bass1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    16_Bass2.wav:
+      Track_path: Plan Caliente - El Marinero\Plan Caliente - El Marinero_RAW\16_Bass2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Acoustic_Guitar:
+    21_AcousticGtr.wav:
+      Track_path: Plan Caliente - El Marinero\Plan Caliente - El Marinero_RAW\21_AcousticGtr.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Electric_Guitar:
+    17_ElecGtr1.wav:
+      Track_path: Plan Caliente - El Marinero\Plan Caliente - El Marinero_RAW\17_ElecGtr1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    18_ElecGtr2.wav:
+      Track_path: Plan Caliente - El Marinero\Plan Caliente - El Marinero_RAW\18_ElecGtr2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    19_ElecGtr3.wav:
+      Track_path: Plan Caliente - El Marinero\Plan Caliente - El Marinero_RAW\19_ElecGtr3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    20_ElecGtr4.wav:
+      Track_path: Plan Caliente - El Marinero\Plan Caliente - El Marinero_RAW\20_ElecGtr4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Piano: {}
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    25_LeadVox.wav:
+      Track_path: Plan Caliente - El Marinero\Plan Caliente - El Marinero_RAW\25_LeadVox.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Choir: {}
+  Backing_Vocal:
+    26_BackingVox1.wav:
+      Track_path: Plan Caliente - El Marinero\Plan Caliente - El Marinero_RAW\26_BackingVox1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    27_BackingVox2.wav:
+      Track_path: Plan Caliente - El Marinero\Plan Caliente - El Marinero_RAW\27_BackingVox2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    28_BackingVox3.wav:
+      Track_path: Plan Caliente - El Marinero\Plan Caliente - El Marinero_RAW\28_BackingVox3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    29_BackingVox4.wav:
+      Track_path: Plan Caliente - El Marinero\Plan Caliente - El Marinero_RAW\29_BackingVox4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    30_BackingVox5.wav:
+      Track_path: Plan Caliente - El Marinero\Plan Caliente - El Marinero_RAW\30_BackingVox5.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    31_BackingVox6.wav:
+      Track_path: Plan Caliente - El Marinero\Plan Caliente - El Marinero_RAW\31_BackingVox6.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    32_BackingVox7.wav:
+      Track_path: Plan Caliente - El Marinero\Plan Caliente - El Marinero_RAW\32_BackingVox7.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Unused:
+    01_Intro.wav:
+      Track_path: Plan Caliente - El Marinero\Plan Caliente - El Marinero_RAW\01_Intro.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Ambient_Microphone: {}

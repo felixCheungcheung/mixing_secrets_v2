@@ -1,0 +1,361 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer:
+    35_Synth1.wav:
+      Track_path: Skyeez & The Whiteflies - Banana Split\Skyeez & The Whiteflies -
+        Banana Split_RAW\35_Synth1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    36_Synth2.wav:
+      Track_path: Skyeez & The Whiteflies - Banana Split\Skyeez & The Whiteflies -
+        Banana Split_RAW\36_Synth2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    37_Synth3.wav:
+      Track_path: Skyeez & The Whiteflies - Banana Split\Skyeez & The Whiteflies -
+        Banana Split_RAW\37_Synth3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    38_Synth4.wav:
+      Track_path: Skyeez & The Whiteflies - Banana Split\Skyeez & The Whiteflies -
+        Banana Split_RAW\38_Synth4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    39_Synth5.wav:
+      Track_path: Skyeez & The Whiteflies - Banana Split\Skyeez & The Whiteflies -
+        Banana Split_RAW\39_Synth5.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  SFX:
+    19_SFX.wav:
+      Track_path: Skyeez & The Whiteflies - Banana Split\Skyeez & The Whiteflies -
+        Banana Split_RAW\19_SFX.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    40_Beep.wav:
+      Track_path: Skyeez & The Whiteflies - Banana Split\Skyeez & The Whiteflies -
+        Banana Split_RAW\40_Beep.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    01_KickIn.wav:
+      Track_path: Skyeez & The Whiteflies - Banana Split\Skyeez & The Whiteflies -
+        Banana Split_RAW\01_KickIn.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    02_KickOut.wav:
+      Track_path: Skyeez & The Whiteflies - Banana Split\Skyeez & The Whiteflies -
+        Banana Split_RAW\02_KickOut.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    03_KickSample.wav:
+      Track_path: Skyeez & The Whiteflies - Banana Split\Skyeez & The Whiteflies -
+        Banana Split_RAW\03_KickSample.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    07_KickSnare.wav:
+      Track_path: Skyeez & The Whiteflies - Banana Split\Skyeez & The Whiteflies -
+        Banana Split_RAW\07_KickSnare.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Snare:
+    04_SnareUp1.wav:
+      Track_path: Skyeez & The Whiteflies - Banana Split\Skyeez & The Whiteflies -
+        Banana Split_RAW\04_SnareUp1.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    05_SnareUp2.wav:
+      Track_path: Skyeez & The Whiteflies - Banana Split\Skyeez & The Whiteflies -
+        Banana Split_RAW\05_SnareUp2.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    06_SnareDown.wav:
+      Track_path: Skyeez & The Whiteflies - Banana Split\Skyeez & The Whiteflies -
+        Banana Split_RAW\06_SnareDown.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_HiHat:
+    08_HiHat.wav:
+      Track_path: Skyeez & The Whiteflies - Banana Split\Skyeez & The Whiteflies -
+        Banana Split_RAW\08_HiHat.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_Cymbals: {}
+  Drum_Overheads:
+    12_Overheads1.wav:
+      Track_path: Skyeez & The Whiteflies - Banana Split\Skyeez & The Whiteflies -
+        Banana Split_RAW\12_Overheads1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    13_Overheads2.wav:
+      Track_path: Skyeez & The Whiteflies - Banana Split\Skyeez & The Whiteflies -
+        Banana Split_RAW\13_Overheads2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Tom:
+    09_Tom1.wav:
+      Track_path: Skyeez & The Whiteflies - Banana Split\Skyeez & The Whiteflies -
+        Banana Split_RAW\09_Tom1.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    10_Tom2.wav:
+      Track_path: Skyeez & The Whiteflies - Banana Split\Skyeez & The Whiteflies -
+        Banana Split_RAW\10_Tom2.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    11_Tom3.wav:
+      Track_path: Skyeez & The Whiteflies - Banana Split\Skyeez & The Whiteflies -
+        Banana Split_RAW\11_Tom3.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_Room:
+    14_DrumsRoomStereo.wav:
+      Track_path: Skyeez & The Whiteflies - Banana Split\Skyeez & The Whiteflies -
+        Banana Split_RAW\14_DrumsRoomStereo.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    15_DrumsRoomMono.wav:
+      Track_path: Skyeez & The Whiteflies - Banana Split\Skyeez & The Whiteflies -
+        Banana Split_RAW\15_DrumsRoomMono.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Shaker:
+    16_Shaker.wav:
+      Track_path: Skyeez & The Whiteflies - Banana Split\Skyeez & The Whiteflies -
+        Banana Split_RAW\16_Shaker.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine:
+    17_Tamb1.wav:
+      Track_path: Skyeez & The Whiteflies - Banana Split\Skyeez & The Whiteflies -
+        Banana Split_RAW\17_Tamb1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    18_Tamb2.wav:
+      Track_path: Skyeez & The Whiteflies - Banana Split\Skyeez & The Whiteflies -
+        Banana Split_RAW\18_Tamb2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Loop: {}
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass: {}
+  Electric_Bass:
+    20_BassDI.wav:
+      Track_path: Skyeez & The Whiteflies - Banana Split\Skyeez & The Whiteflies -
+        Banana Split_RAW\20_BassDI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    21_BassAmp.wav:
+      Track_path: Skyeez & The Whiteflies - Banana Split\Skyeez & The Whiteflies -
+        Banana Split_RAW\21_BassAmp.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Acoustic_Guitar:
+    22_AcousticGtr1.wav:
+      Track_path: Skyeez & The Whiteflies - Banana Split\Skyeez & The Whiteflies -
+        Banana Split_RAW\22_AcousticGtr1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    23_AcousticGtr2.wav:
+      Track_path: Skyeez & The Whiteflies - Banana Split\Skyeez & The Whiteflies -
+        Banana Split_RAW\23_AcousticGtr2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    24_AcousticGtr2DT.wav:
+      Track_path: Skyeez & The Whiteflies - Banana Split\Skyeez & The Whiteflies -
+        Banana Split_RAW\24_AcousticGtr2DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    25_AcousticGtr3.wav:
+      Track_path: Skyeez & The Whiteflies - Banana Split\Skyeez & The Whiteflies -
+        Banana Split_RAW\25_AcousticGtr3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    26_AcousticGtr3DT.wav:
+      Track_path: Skyeez & The Whiteflies - Banana Split\Skyeez & The Whiteflies -
+        Banana Split_RAW\26_AcousticGtr3DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Electric_Guitar:
+    27_ElecGtr1.wav:
+      Track_path: Skyeez & The Whiteflies - Banana Split\Skyeez & The Whiteflies -
+        Banana Split_RAW\27_ElecGtr1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    28_ElecGtr1DT.wav:
+      Track_path: Skyeez & The Whiteflies - Banana Split\Skyeez & The Whiteflies -
+        Banana Split_RAW\28_ElecGtr1DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    29_ElecGtr2.wav:
+      Track_path: Skyeez & The Whiteflies - Banana Split\Skyeez & The Whiteflies -
+        Banana Split_RAW\29_ElecGtr2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    30_ElecGtr3.wav:
+      Track_path: Skyeez & The Whiteflies - Banana Split\Skyeez & The Whiteflies -
+        Banana Split_RAW\30_ElecGtr3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    31_ElecGtr3DT.wav:
+      Track_path: Skyeez & The Whiteflies - Banana Split\Skyeez & The Whiteflies -
+        Banana Split_RAW\31_ElecGtr3DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    32_ElecGtr4.wav:
+      Track_path: Skyeez & The Whiteflies - Banana Split\Skyeez & The Whiteflies -
+        Banana Split_RAW\32_ElecGtr4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    33_ElecGtr5.wav:
+      Track_path: Skyeez & The Whiteflies - Banana Split\Skyeez & The Whiteflies -
+        Banana Split_RAW\33_ElecGtr5.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    34_ElecGtr5DT.wav:
+      Track_path: Skyeez & The Whiteflies - Banana Split\Skyeez & The Whiteflies -
+        Banana Split_RAW\34_ElecGtr5DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Piano: {}
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    41_LeadVox1.wav:
+      Track_path: Skyeez & The Whiteflies - Banana Split\Skyeez & The Whiteflies -
+        Banana Split_RAW\41_LeadVox1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    42_LeadVox2.wav:
+      Track_path: Skyeez & The Whiteflies - Banana Split\Skyeez & The Whiteflies -
+        Banana Split_RAW\42_LeadVox2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Choir: {}
+  Backing_Vocal:
+    43_BackingVox1.wav:
+      Track_path: Skyeez & The Whiteflies - Banana Split\Skyeez & The Whiteflies -
+        Banana Split_RAW\43_BackingVox1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    44_BackingVox1DT.wav:
+      Track_path: Skyeez & The Whiteflies - Banana Split\Skyeez & The Whiteflies -
+        Banana Split_RAW\44_BackingVox1DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    45_BackingVox2.wav:
+      Track_path: Skyeez & The Whiteflies - Banana Split\Skyeez & The Whiteflies -
+        Banana Split_RAW\45_BackingVox2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    46_BackingVox2DT.wav:
+      Track_path: Skyeez & The Whiteflies - Banana Split\Skyeez & The Whiteflies -
+        Banana Split_RAW\46_BackingVox2DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    47_BackingVox3.wav:
+      Track_path: Skyeez & The Whiteflies - Banana Split\Skyeez & The Whiteflies -
+        Banana Split_RAW\47_BackingVox3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    48_BackingVox4.wav:
+      Track_path: Skyeez & The Whiteflies - Banana Split\Skyeez & The Whiteflies -
+        Banana Split_RAW\48_BackingVox4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Unused: {}
+  Ambient_Microphone: {}

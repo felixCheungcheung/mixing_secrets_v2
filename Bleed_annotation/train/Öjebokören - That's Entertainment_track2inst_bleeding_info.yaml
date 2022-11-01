@@ -1,0 +1,115 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer: {}
+  SFX: {}
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick: {}
+  Drum_Snare: {}
+  Drum_HiHat: {}
+  Drum_Cymbals: {}
+  Drum_Overheads: {}
+  Drum_Tom: {}
+  Drum_Room: {}
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop: {}
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass: {}
+  Electric_Bass: {}
+  Acoustic_Guitar: {}
+  Electric_Guitar: {}
+  Piano:
+    01_PianoDI.wav:
+      Track_path: "\xD6jebok\xF6ren - That's Entertainment\\\xD6jebok\xF6ren - That's\
+        \ Entertainment_RAW\\01_PianoDI.wav"
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    04_SopranoOD.wav:
+      Track_path: "\xD6jebok\xF6ren - That's Entertainment\\\xD6jebok\xF6ren - That's\
+        \ Entertainment_RAW\\04_SopranoOD.wav"
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    05_AltoOD.wav:
+      Track_path: "\xD6jebok\xF6ren - That's Entertainment\\\xD6jebok\xF6ren - That's\
+        \ Entertainment_RAW\\05_AltoOD.wav"
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    06_TenorOD.wav:
+      Track_path: "\xD6jebok\xF6ren - That's Entertainment\\\xD6jebok\xF6ren - That's\
+        \ Entertainment_RAW\\06_TenorOD.wav"
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    07_BassOD.wav:
+      Track_path: "\xD6jebok\xF6ren - That's Entertainment\\\xD6jebok\xF6ren - That's\
+        \ Entertainment_RAW\\07_BassOD.wav"
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Choir: {}
+  Backing_Vocal: {}
+  Unused: {}
+  Ambient_Microphone:
+    02_MainPair1_MSDecoded.wav:
+      Track_path: "\xD6jebok\xF6ren - That's Entertainment\\\xD6jebok\xF6ren - That's\
+        \ Entertainment_RAW\\02_MainPair1_MSDecoded.wav"
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    03_MainPair_AB.wav:
+      Track_path: "\xD6jebok\xF6ren - That's Entertainment\\\xD6jebok\xF6ren - That's\
+        \ Entertainment_RAW\\03_MainPair_AB.wav"
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''

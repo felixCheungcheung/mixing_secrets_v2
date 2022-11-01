@@ -1,0 +1,373 @@
+Track2inst:
+  Electric_Organ:
+    38_Hammond.wav:
+      Track_path: Fytakyte - Outa Control\Fytakyte - Outa Control_RAW\38_Hammond.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Synthesizer:
+    39_Clavinet.wav:
+      Track_path: Fytakyte - Outa Control\Fytakyte - Outa Control_RAW\39_Clavinet.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    40_Synth1.wav:
+      Track_path: Fytakyte - Outa Control\Fytakyte - Outa Control_RAW\40_Synth1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    41_Synth2.wav:
+      Track_path: Fytakyte - Outa Control\Fytakyte - Outa Control_RAW\41_Synth2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  SFX: {}
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    01_KickIn.wav:
+      Track_path: Fytakyte - Outa Control\Fytakyte - Outa Control_RAW\01_KickIn.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    02_KickOut.wav:
+      Track_path: Fytakyte - Outa Control\Fytakyte - Outa Control_RAW\02_KickOut.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Snare'
+      Comment: ''
+  Drum_Snare:
+    03_SnareUp.wav:
+      Track_path: Fytakyte - Outa Control\Fytakyte - Outa Control_RAW\03_SnareUp.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    04_SnareDown.wav:
+      Track_path: Fytakyte - Outa Control\Fytakyte - Outa Control_RAW\04_SnareDown.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Kick'
+      Comment: ''
+  Drum_HiHat:
+    05_HiHat.wav:
+      Track_path: Fytakyte - Outa Control\Fytakyte - Outa Control_RAW\05_HiHat.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Cymbals:
+    06_Ride.wav:
+      Track_path: Fytakyte - Outa Control\Fytakyte - Outa Control_RAW\06_Ride.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Overheads:
+    13_Overheads.wav:
+      Track_path: Fytakyte - Outa Control\Fytakyte - Outa Control_RAW\13_Overheads.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Tom:
+    07_Tom1.wav:
+      Track_path: Fytakyte - Outa Control\Fytakyte - Outa Control_RAW\07_Tom1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    08_Tom2.wav:
+      Track_path: Fytakyte - Outa Control\Fytakyte - Outa Control_RAW\08_Tom2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    09_Tom3.wav:
+      Track_path: Fytakyte - Outa Control\Fytakyte - Outa Control_RAW\09_Tom3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    10_Tom4.wav:
+      Track_path: Fytakyte - Outa Control\Fytakyte - Outa Control_RAW\10_Tom4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    11_Tom5.wav:
+      Track_path: Fytakyte - Outa Control\Fytakyte - Outa Control_RAW\11_Tom5.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    12_Tom6.wav:
+      Track_path: Fytakyte - Outa Control\Fytakyte - Outa Control_RAW\12_Tom6.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Room:
+    14_DrumsRoom1.wav:
+      Track_path: Fytakyte - Outa Control\Fytakyte - Outa Control_RAW\14_DrumsRoom1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    15_DrumsRoom2.wav:
+      Track_path: Fytakyte - Outa Control\Fytakyte - Outa Control_RAW\15_DrumsRoom2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine:
+    16_Tambourine.wav:
+      Track_path: Fytakyte - Outa Control\Fytakyte - Outa Control_RAW\16_Tambourine.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Loop: {}
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass: {}
+  Electric_Bass:
+    17_BassDI.wav:
+      Track_path: Fytakyte - Outa Control\Fytakyte - Outa Control_RAW\17_BassDI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    18_BassDist.wav:
+      Track_path: Fytakyte - Outa Control\Fytakyte - Outa Control_RAW\18_BassDist.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    19_BassAmp.wav:
+      Track_path: Fytakyte - Outa Control\Fytakyte - Outa Control_RAW\19_BassAmp.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Acoustic_Guitar:
+    35_AcousticGtr1.wav:
+      Track_path: Fytakyte - Outa Control\Fytakyte - Outa Control_RAW\35_AcousticGtr1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    36_AcousticGtr2.wav:
+      Track_path: Fytakyte - Outa Control\Fytakyte - Outa Control_RAW\36_AcousticGtr2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Electric_Guitar:
+    20_ElecGtr01.wav:
+      Track_path: Fytakyte - Outa Control\Fytakyte - Outa Control_RAW\20_ElecGtr01.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    21_ElecGtr02.wav:
+      Track_path: Fytakyte - Outa Control\Fytakyte - Outa Control_RAW\21_ElecGtr02.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    22_ElecGtr03.wav:
+      Track_path: Fytakyte - Outa Control\Fytakyte - Outa Control_RAW\22_ElecGtr03.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    23_ElecGtr04.wav:
+      Track_path: Fytakyte - Outa Control\Fytakyte - Outa Control_RAW\23_ElecGtr04.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    24_ElecGtr05.wav:
+      Track_path: Fytakyte - Outa Control\Fytakyte - Outa Control_RAW\24_ElecGtr05.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    25_ElecGtr06.wav:
+      Track_path: Fytakyte - Outa Control\Fytakyte - Outa Control_RAW\25_ElecGtr06.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    26_ElecGtr07.wav:
+      Track_path: Fytakyte - Outa Control\Fytakyte - Outa Control_RAW\26_ElecGtr07.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    27_ElecGtr08.wav:
+      Track_path: Fytakyte - Outa Control\Fytakyte - Outa Control_RAW\27_ElecGtr08.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    28_ElecGtr09.wav:
+      Track_path: Fytakyte - Outa Control\Fytakyte - Outa Control_RAW\28_ElecGtr09.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    29_ElecGtr10.wav:
+      Track_path: Fytakyte - Outa Control\Fytakyte - Outa Control_RAW\29_ElecGtr10.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    30_ElecGtr11.wav:
+      Track_path: Fytakyte - Outa Control\Fytakyte - Outa Control_RAW\30_ElecGtr11.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    31_ElecGtr12.wav:
+      Track_path: Fytakyte - Outa Control\Fytakyte - Outa Control_RAW\31_ElecGtr12.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    32_ElecGtr13.wav:
+      Track_path: Fytakyte - Outa Control\Fytakyte - Outa Control_RAW\32_ElecGtr13.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    33_ElecGtr14.wav:
+      Track_path: Fytakyte - Outa Control\Fytakyte - Outa Control_RAW\33_ElecGtr14.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    34_ElecGtr15.wav:
+      Track_path: Fytakyte - Outa Control\Fytakyte - Outa Control_RAW\34_ElecGtr15.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Piano: {}
+  Electric_Piano:
+    37_Rhodes.wav:
+      Track_path: Fytakyte - Outa Control\Fytakyte - Outa Control_RAW\37_Rhodes.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    42_LeadVox.wav:
+      Track_path: Fytakyte - Outa Control\Fytakyte - Outa Control_RAW\42_LeadVox.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    43_LeadVoxDT1.wav:
+      Track_path: Fytakyte - Outa Control\Fytakyte - Outa Control_RAW\43_LeadVoxDT1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    44_LeadVoxDT2.wav:
+      Track_path: Fytakyte - Outa Control\Fytakyte - Outa Control_RAW\44_LeadVoxDT2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Choir: {}
+  Backing_Vocal:
+    45_BackingVox1.wav:
+      Track_path: Fytakyte - Outa Control\Fytakyte - Outa Control_RAW\45_BackingVox1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    46_BackingVox1DT.wav:
+      Track_path: Fytakyte - Outa Control\Fytakyte - Outa Control_RAW\46_BackingVox1DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    47_BackingVox2.wav:
+      Track_path: Fytakyte - Outa Control\Fytakyte - Outa Control_RAW\47_BackingVox2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    48_BackingVox2DT.wav:
+      Track_path: Fytakyte - Outa Control\Fytakyte - Outa Control_RAW\48_BackingVox2DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    49_BackingVox3.wav:
+      Track_path: Fytakyte - Outa Control\Fytakyte - Outa Control_RAW\49_BackingVox3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    50_BackingVox3DT.wav:
+      Track_path: Fytakyte - Outa Control\Fytakyte - Outa Control_RAW\50_BackingVox3DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    51_BackingVox4.wav:
+      Track_path: Fytakyte - Outa Control\Fytakyte - Outa Control_RAW\51_BackingVox4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    52_BackingVox4DT.wav:
+      Track_path: Fytakyte - Outa Control\Fytakyte - Outa Control_RAW\52_BackingVox4DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    53_BackingVox5.wav:
+      Track_path: Fytakyte - Outa Control\Fytakyte - Outa Control_RAW\53_BackingVox5.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    54_BackingVox5DT.wav:
+      Track_path: Fytakyte - Outa Control\Fytakyte - Outa Control_RAW\54_BackingVox5DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    55_BackingVox6.wav:
+      Track_path: Fytakyte - Outa Control\Fytakyte - Outa Control_RAW\55_BackingVox6.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    56_BackingVox6DT.wav:
+      Track_path: Fytakyte - Outa Control\Fytakyte - Outa Control_RAW\56_BackingVox6DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    57_BackingVox7.wav:
+      Track_path: Fytakyte - Outa Control\Fytakyte - Outa Control_RAW\57_BackingVox7.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    58_BackingVox7DT.wav:
+      Track_path: Fytakyte - Outa Control\Fytakyte - Outa Control_RAW\58_BackingVox7DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    59_BackingVox8.wav:
+      Track_path: Fytakyte - Outa Control\Fytakyte - Outa Control_RAW\59_BackingVox8.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    60_BackingVox8DT.wav:
+      Track_path: Fytakyte - Outa Control\Fytakyte - Outa Control_RAW\60_BackingVox8DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Unused: {}
+  Ambient_Microphone: {}

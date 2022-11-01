@@ -1,0 +1,260 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer:
+    33_Synth01.wav:
+      Track_path: Perpetual Escape - Duty & Memories\Perpetual Escape - Duty & Memories_RAW\33_Synth01.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    34_Synth02.wav:
+      Track_path: Perpetual Escape - Duty & Memories\Perpetual Escape - Duty & Memories_RAW\34_Synth02.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  SFX: {}
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    01_KickIn.wav:
+      Track_path: Perpetual Escape - Duty & Memories\Perpetual Escape - Duty & Memories_RAW\01_KickIn.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    02_KickOut.wav:
+      Track_path: Perpetual Escape - Duty & Memories\Perpetual Escape - Duty & Memories_RAW\02_KickOut.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_Snare:
+    03_SnareUp.wav:
+      Track_path: Perpetual Escape - Duty & Memories\Perpetual Escape - Duty & Memories_RAW\03_SnareUp.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    04_SnareDown.wav:
+      Track_path: Perpetual Escape - Duty & Memories\Perpetual Escape - Duty & Memories_RAW\04_SnareDown.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_HiHat:
+    05_HiHat.wav:
+      Track_path: Perpetual Escape - Duty & Memories\Perpetual Escape - Duty & Memories_RAW\05_HiHat.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_Cymbals: {}
+  Drum_Overheads:
+    11_Overheads.wav:
+      Track_path: Perpetual Escape - Duty & Memories\Perpetual Escape - Duty & Memories_RAW\11_Overheads.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Tom:
+    06_Tom1.wav:
+      Track_path: Perpetual Escape - Duty & Memories\Perpetual Escape - Duty & Memories_RAW\06_Tom1.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    07_Tom2.wav:
+      Track_path: Perpetual Escape - Duty & Memories\Perpetual Escape - Duty & Memories_RAW\07_Tom2.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    08_Tom3.wav:
+      Track_path: Perpetual Escape - Duty & Memories\Perpetual Escape - Duty & Memories_RAW\08_Tom3.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    09_Tom4.wav:
+      Track_path: Perpetual Escape - Duty & Memories\Perpetual Escape - Duty & Memories_RAW\09_Tom4.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    10_Tom5.wav:
+      Track_path: Perpetual Escape - Duty & Memories\Perpetual Escape - Duty & Memories_RAW\10_Tom5.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_Room:
+    12_DrumsRoom1.wav:
+      Track_path: Perpetual Escape - Duty & Memories\Perpetual Escape - Duty & Memories_RAW\12_DrumsRoom1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    13_DrumsRoom2.wav:
+      Track_path: Perpetual Escape - Duty & Memories\Perpetual Escape - Duty & Memories_RAW\13_DrumsRoom2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop:
+    14_DrumLoop 1.wav:
+      Track_path: Perpetual Escape - Duty & Memories\Perpetual Escape - Duty & Memories_RAW\14_DrumLoop
+        1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    15_DrumLoop 2.wav:
+      Track_path: Perpetual Escape - Duty & Memories\Perpetual Escape - Duty & Memories_RAW\15_DrumLoop
+        2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass: {}
+  Electric_Bass:
+    16_BassDI.wav:
+      Track_path: Perpetual Escape - Duty & Memories\Perpetual Escape - Duty & Memories_RAW\16_BassDI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Acoustic_Guitar: {}
+  Electric_Guitar:
+    17_ElecGtr01Mic1.wav:
+      Track_path: Perpetual Escape - Duty & Memories\Perpetual Escape - Duty & Memories_RAW\17_ElecGtr01Mic1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    18_ElecGtr01Mic2.wav:
+      Track_path: Perpetual Escape - Duty & Memories\Perpetual Escape - Duty & Memories_RAW\18_ElecGtr01Mic2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    19_ElecGtr01Mic3.wav:
+      Track_path: Perpetual Escape - Duty & Memories\Perpetual Escape - Duty & Memories_RAW\19_ElecGtr01Mic3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    20_ElecGtr01Mic4.wav:
+      Track_path: Perpetual Escape - Duty & Memories\Perpetual Escape - Duty & Memories_RAW\20_ElecGtr01Mic4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    21_ElecGtr01DTMic1.wav:
+      Track_path: Perpetual Escape - Duty & Memories\Perpetual Escape - Duty & Memories_RAW\21_ElecGtr01DTMic1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    22_ElecGtr01DTMic2.wav:
+      Track_path: Perpetual Escape - Duty & Memories\Perpetual Escape - Duty & Memories_RAW\22_ElecGtr01DTMic2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    23_ElecGtr01DTMic3.wav:
+      Track_path: Perpetual Escape - Duty & Memories\Perpetual Escape - Duty & Memories_RAW\23_ElecGtr01DTMic3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    24_ElecGtr01DTMic4.wav:
+      Track_path: Perpetual Escape - Duty & Memories\Perpetual Escape - Duty & Memories_RAW\24_ElecGtr01DTMic4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    25_ElecGtr02Mic1.wav:
+      Track_path: Perpetual Escape - Duty & Memories\Perpetual Escape - Duty & Memories_RAW\25_ElecGtr02Mic1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    26_ElecGtr02Mic2.wav:
+      Track_path: Perpetual Escape - Duty & Memories\Perpetual Escape - Duty & Memories_RAW\26_ElecGtr02Mic2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    27_ElecGtr02Mic3.wav:
+      Track_path: Perpetual Escape - Duty & Memories\Perpetual Escape - Duty & Memories_RAW\27_ElecGtr02Mic3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    28_ElecGtr02Mic4.wav:
+      Track_path: Perpetual Escape - Duty & Memories\Perpetual Escape - Duty & Memories_RAW\28_ElecGtr02Mic4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    29_ElecGtr03Mic1.wav:
+      Track_path: Perpetual Escape - Duty & Memories\Perpetual Escape - Duty & Memories_RAW\29_ElecGtr03Mic1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    30_ElecGtr03Mic2.wav:
+      Track_path: Perpetual Escape - Duty & Memories\Perpetual Escape - Duty & Memories_RAW\30_ElecGtr03Mic2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    31_ElecGtr03Mic3.wav:
+      Track_path: Perpetual Escape - Duty & Memories\Perpetual Escape - Duty & Memories_RAW\31_ElecGtr03Mic3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    32_ElecGtr03Mic4.wav:
+      Track_path: Perpetual Escape - Duty & Memories\Perpetual Escape - Duty & Memories_RAW\32_ElecGtr03Mic4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Piano: {}
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    35_LeadVox01.wav:
+      Track_path: Perpetual Escape - Duty & Memories\Perpetual Escape - Duty & Memories_RAW\35_LeadVox01.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    36_LeadVox01DT.wav:
+      Track_path: Perpetual Escape - Duty & Memories\Perpetual Escape - Duty & Memories_RAW\36_LeadVox01DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    37_LeadVox02.wav:
+      Track_path: Perpetual Escape - Duty & Memories\Perpetual Escape - Duty & Memories_RAW\37_LeadVox02.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Choir: {}
+  Backing_Vocal: {}
+  Unused: {}
+  Ambient_Microphone: {}

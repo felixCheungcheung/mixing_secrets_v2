@@ -1,0 +1,289 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer:
+    12_Synth01.wav:
+      Track_path: BaumXmedia - Dream State (feat. Flora Lin)\BaumXmedia - Dream State
+        (feat. Flora Lin)_RAW\12_Synth01.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    13_Synth02.wav:
+      Track_path: BaumXmedia - Dream State (feat. Flora Lin)\BaumXmedia - Dream State
+        (feat. Flora Lin)_RAW\13_Synth02.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    14_Synth03.wav:
+      Track_path: BaumXmedia - Dream State (feat. Flora Lin)\BaumXmedia - Dream State
+        (feat. Flora Lin)_RAW\14_Synth03.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    15_Synth04.wav:
+      Track_path: BaumXmedia - Dream State (feat. Flora Lin)\BaumXmedia - Dream State
+        (feat. Flora Lin)_RAW\15_Synth04.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    16_Synth05.wav:
+      Track_path: BaumXmedia - Dream State (feat. Flora Lin)\BaumXmedia - Dream State
+        (feat. Flora Lin)_RAW\16_Synth05.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    17_Synth06.wav:
+      Track_path: BaumXmedia - Dream State (feat. Flora Lin)\BaumXmedia - Dream State
+        (feat. Flora Lin)_RAW\17_Synth06.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    18_Synth07.wav:
+      Track_path: BaumXmedia - Dream State (feat. Flora Lin)\BaumXmedia - Dream State
+        (feat. Flora Lin)_RAW\18_Synth07.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    19_Synth08.wav:
+      Track_path: BaumXmedia - Dream State (feat. Flora Lin)\BaumXmedia - Dream State
+        (feat. Flora Lin)_RAW\19_Synth08.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    20_Synth09.wav:
+      Track_path: BaumXmedia - Dream State (feat. Flora Lin)\BaumXmedia - Dream State
+        (feat. Flora Lin)_RAW\20_Synth09.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    21_Synth10.wav:
+      Track_path: BaumXmedia - Dream State (feat. Flora Lin)\BaumXmedia - Dream State
+        (feat. Flora Lin)_RAW\21_Synth10.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    22_Synth11.wav:
+      Track_path: BaumXmedia - Dream State (feat. Flora Lin)\BaumXmedia - Dream State
+        (feat. Flora Lin)_RAW\22_Synth11.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  SFX: {}
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes:
+    07_Chimes1.wav:
+      Track_path: BaumXmedia - Dream State (feat. Flora Lin)\BaumXmedia - Dream State
+        (feat. Flora Lin)_RAW\07_Chimes1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    08_Chimes2.wav:
+      Track_path: BaumXmedia - Dream State (feat. Flora Lin)\BaumXmedia - Dream State
+        (feat. Flora Lin)_RAW\08_Chimes2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Other_Chromatic: {}
+  Drum_Kick:
+    01_Kick1.wav:
+      Track_path: BaumXmedia - Dream State (feat. Flora Lin)\BaumXmedia - Dream State
+        (feat. Flora Lin)_RAW\01_Kick1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    02_Kick2.wav:
+      Track_path: BaumXmedia - Dream State (feat. Flora Lin)\BaumXmedia - Dream State
+        (feat. Flora Lin)_RAW\02_Kick2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Snare:
+    03_Snare.wav:
+      Track_path: BaumXmedia - Dream State (feat. Flora Lin)\BaumXmedia - Dream State
+        (feat. Flora Lin)_RAW\03_Snare.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_HiHat:
+    04_HiHat.wav:
+      Track_path: BaumXmedia - Dream State (feat. Flora Lin)\BaumXmedia - Dream State
+        (feat. Flora Lin)_RAW\04_HiHat.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Cymbals:
+    05_Cymbal.wav:
+      Track_path: BaumXmedia - Dream State (feat. Flora Lin)\BaumXmedia - Dream State
+        (feat. Flora Lin)_RAW\05_Cymbal.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    06_CymbalFX.wav:
+      Track_path: BaumXmedia - Dream State (feat. Flora Lin)\BaumXmedia - Dream State
+        (feat. Flora Lin)_RAW\06_CymbalFX.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Overheads: {}
+  Drum_Tom: {}
+  Drum_Room: {}
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop: {}
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass: {}
+  Electric_Bass:
+    09_Bass.wav:
+      Track_path: BaumXmedia - Dream State (feat. Flora Lin)\BaumXmedia - Dream State
+        (feat. Flora Lin)_RAW\09_Bass.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Acoustic_Guitar: {}
+  Electric_Guitar:
+    23_ElecGtrFX.wav:
+      Track_path: BaumXmedia - Dream State (feat. Flora Lin)\BaumXmedia - Dream State
+        (feat. Flora Lin)_RAW\23_ElecGtrFX.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Piano:
+    10_Piano1.wav:
+      Track_path: BaumXmedia - Dream State (feat. Flora Lin)\BaumXmedia - Dream State
+        (feat. Flora Lin)_RAW\10_Piano1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    11_Piano2.wav:
+      Track_path: BaumXmedia - Dream State (feat. Flora Lin)\BaumXmedia - Dream State
+        (feat. Flora Lin)_RAW\11_Piano2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section:
+    24_Strings1.wav:
+      Track_path: BaumXmedia - Dream State (feat. Flora Lin)\BaumXmedia - Dream State
+        (feat. Flora Lin)_RAW\24_Strings1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    25_Strings2.wav:
+      Track_path: BaumXmedia - Dream State (feat. Flora Lin)\BaumXmedia - Dream State
+        (feat. Flora Lin)_RAW\25_Strings2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    26_Strings3.wav:
+      Track_path: BaumXmedia - Dream State (feat. Flora Lin)\BaumXmedia - Dream State
+        (feat. Flora Lin)_RAW\26_Strings3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    27_LeadVox1.wav:
+      Track_path: BaumXmedia - Dream State (feat. Flora Lin)\BaumXmedia - Dream State
+        (feat. Flora Lin)_RAW\27_LeadVox1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    28_LeadVox2.wav:
+      Track_path: BaumXmedia - Dream State (feat. Flora Lin)\BaumXmedia - Dream State
+        (feat. Flora Lin)_RAW\28_LeadVox2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Choir: {}
+  Backing_Vocal:
+    29_BackingVox1.wav:
+      Track_path: BaumXmedia - Dream State (feat. Flora Lin)\BaumXmedia - Dream State
+        (feat. Flora Lin)_RAW\29_BackingVox1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    30_BackingVox1DT.wav:
+      Track_path: BaumXmedia - Dream State (feat. Flora Lin)\BaumXmedia - Dream State
+        (feat. Flora Lin)_RAW\30_BackingVox1DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    31_BackingVox2.wav:
+      Track_path: BaumXmedia - Dream State (feat. Flora Lin)\BaumXmedia - Dream State
+        (feat. Flora Lin)_RAW\31_BackingVox2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    32_BackingVox2DT.wav:
+      Track_path: BaumXmedia - Dream State (feat. Flora Lin)\BaumXmedia - Dream State
+        (feat. Flora Lin)_RAW\32_BackingVox2DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    33_BackingVox3.wav:
+      Track_path: BaumXmedia - Dream State (feat. Flora Lin)\BaumXmedia - Dream State
+        (feat. Flora Lin)_RAW\33_BackingVox3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    34_BackingVox3DT.wav:
+      Track_path: BaumXmedia - Dream State (feat. Flora Lin)\BaumXmedia - Dream State
+        (feat. Flora Lin)_RAW\34_BackingVox3DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    35_BackingVox4.wav:
+      Track_path: BaumXmedia - Dream State (feat. Flora Lin)\BaumXmedia - Dream State
+        (feat. Flora Lin)_RAW\35_BackingVox4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    36_BackingVox4DT.wav:
+      Track_path: BaumXmedia - Dream State (feat. Flora Lin)\BaumXmedia - Dream State
+        (feat. Flora Lin)_RAW\36_BackingVox4DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Unused: {}
+  Ambient_Microphone: {}

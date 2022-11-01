@@ -1,0 +1,193 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer: {}
+  SFX: {}
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick: {}
+  Drum_Snare:
+    18_SnareDrum.wav:
+      Track_path: Ethan Winer - Cello Concerto in A Minor\Ethan Winer - Cello Concerto
+        in A Minor_RAW\18_SnareDrum.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_HiHat: {}
+  Drum_Cymbals: {}
+  Drum_Overheads: {}
+  Drum_Tom: {}
+  Drum_Room: {}
+  Shaker: {}
+  Taiko: {}
+  Timpani:
+    19_Timpani.wav:
+      Track_path: Ethan Winer - Cello Concerto in A Minor\Ethan Winer - Cello Concerto
+        in A Minor_RAW\19_Timpani.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop: {}
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion:
+    20_Percussion.wav:
+      Track_path: Ethan Winer - Cello Concerto in A Minor\Ethan Winer - Cello Concerto
+        in A Minor_RAW\20_Percussion.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Synth_Bass: {}
+  Electric_Bass: {}
+  Acoustic_Guitar: {}
+  Electric_Guitar: {}
+  Piano: {}
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet:
+    14_Trumpets.wav:
+      Track_path: Ethan Winer - Cello Concerto in A Minor\Ethan Winer - Cello Concerto
+        in A Minor_RAW\14_Trumpets.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  French_Horn:
+    15_FrenchHorns.wav:
+      Track_path: Ethan Winer - Cello Concerto in A Minor\Ethan Winer - Cello Concerto
+        in A Minor_RAW\15_FrenchHorns.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Trombone:
+    16_Trombones.wav:
+      Track_path: Ethan Winer - Cello Concerto in A Minor\Ethan Winer - Cello Concerto
+        in A Minor_RAW\16_Trombones.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Tuba:
+    17_Tuba.wav:
+      Track_path: Ethan Winer - Cello Concerto in A Minor\Ethan Winer - Cello Concerto
+        in A Minor_RAW\17_Tuba.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass:
+    07_Basses.wav:
+      Track_path: Ethan Winer - Cello Concerto in A Minor\Ethan Winer - Cello Concerto
+        in A Minor_RAW\07_Basses.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Violin:
+    01_ViolinSolo.wav:
+      Track_path: Ethan Winer - Cello Concerto in A Minor\Ethan Winer - Cello Concerto
+        in A Minor_RAW\01_ViolinSolo.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    02_Violins1.wav:
+      Track_path: Ethan Winer - Cello Concerto in A Minor\Ethan Winer - Cello Concerto
+        in A Minor_RAW\02_Violins1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    03_Violins2.wav:
+      Track_path: Ethan Winer - Cello Concerto in A Minor\Ethan Winer - Cello Concerto
+        in A Minor_RAW\03_Violins2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Viola:
+    04_Violas.wav:
+      Track_path: Ethan Winer - Cello Concerto in A Minor\Ethan Winer - Cello Concerto
+        in A Minor_RAW\04_Violas.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Cello:
+    05_CelloSolo.wav:
+      Track_path: Ethan Winer - Cello Concerto in A Minor\Ethan Winer - Cello Concerto
+        in A Minor_RAW\05_CelloSolo.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    06_Cellos.wav:
+      Track_path: Ethan Winer - Cello Concerto in A Minor\Ethan Winer - Cello Concerto
+        in A Minor_RAW\06_Cellos.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Flute:
+    08_Piccolo.wav:
+      Track_path: Ethan Winer - Cello Concerto in A Minor\Ethan Winer - Cello Concerto
+        in A Minor_RAW\08_Piccolo.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    09_Flutes.wav:
+      Track_path: Ethan Winer - Cello Concerto in A Minor\Ethan Winer - Cello Concerto
+        in A Minor_RAW\09_Flutes.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Clarinet:
+    12_Clarinets.wav:
+      Track_path: Ethan Winer - Cello Concerto in A Minor\Ethan Winer - Cello Concerto
+        in A Minor_RAW\12_Clarinets.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    13_BassClarinet.wav:
+      Track_path: Ethan Winer - Cello Concerto in A Minor\Ethan Winer - Cello Concerto
+        in A Minor_RAW\13_BassClarinet.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon:
+    11_Bassoons.wav:
+      Track_path: Ethan Winer - Cello Concerto in A Minor\Ethan Winer - Cello Concerto
+        in A Minor_RAW\11_Bassoons.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Oboe:
+    10_Oboes.wav:
+      Track_path: Ethan Winer - Cello Concerto in A Minor\Ethan Winer - Cello Concerto
+        in A Minor_RAW\10_Oboes.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  WoodWind_Section: {}
+  Lead_Vocal: {}
+  Choir: {}
+  Backing_Vocal: {}
+  Unused: {}
+  Ambient_Microphone: {}

@@ -1,0 +1,143 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer:
+    09_Synth1.wav:
+      Track_path: Triviul - Angelsaint\Triviul - Angelsaint_RAW\09_Synth1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    10_Synth2.wav:
+      Track_path: Triviul - Angelsaint\Triviul - Angelsaint_RAW\10_Synth2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  SFX:
+    11_SFX.wav:
+      Track_path: Triviul - Angelsaint\Triviul - Angelsaint_RAW\11_SFX.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick: {}
+  Drum_Snare: {}
+  Drum_HiHat: {}
+  Drum_Cymbals: {}
+  Drum_Overheads:
+    01_Drums.wav:
+      Track_path: Triviul - Angelsaint\Triviul - Angelsaint_RAW\01_Drums.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Tom: {}
+  Drum_Room: {}
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop: {}
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass:
+    02_Bass.wav:
+      Track_path: Triviul - Angelsaint\Triviul - Angelsaint_RAW\02_Bass.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Electric_Bass: {}
+  Acoustic_Guitar: {}
+  Electric_Guitar: {}
+  Piano: {}
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin:
+    03_ViolinDI1.wav:
+      Track_path: Triviul - Angelsaint\Triviul - Angelsaint_RAW\03_ViolinDI1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    04_ViolinDI2.wav:
+      Track_path: Triviul - Angelsaint\Triviul - Angelsaint_RAW\04_ViolinDI2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    05_ViolinDI3.wav:
+      Track_path: Triviul - Angelsaint\Triviul - Angelsaint_RAW\05_ViolinDI3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    06_ViolinDI4.wav:
+      Track_path: Triviul - Angelsaint\Triviul - Angelsaint_RAW\06_ViolinDI4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Viola:
+    07_ViolaSoloRaw.wav:
+      Track_path: Triviul - Angelsaint\Triviul - Angelsaint_RAW\07_ViolaSoloRaw.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    08_ViolaSoloDist.wav:
+      Track_path: Triviul - Angelsaint\Triviul - Angelsaint_RAW\08_ViolaSoloDist.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    12_LeadVox.wav:
+      Track_path: Triviul - Angelsaint\Triviul - Angelsaint_RAW\12_LeadVox.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    13_LeadDouble.wav:
+      Track_path: Triviul - Angelsaint\Triviul - Angelsaint_RAW\13_LeadDouble.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Choir: {}
+  Backing_Vocal:
+    14_BackingVox.wav:
+      Track_path: Triviul - Angelsaint\Triviul - Angelsaint_RAW\14_BackingVox.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Unused: {}
+  Ambient_Microphone: {}

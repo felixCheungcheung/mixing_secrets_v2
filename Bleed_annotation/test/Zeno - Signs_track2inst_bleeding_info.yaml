@@ -1,0 +1,293 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer:
+    40_SynthPad.wav:
+      Track_path: Zeno - Signs\Zeno - Signs_RAW\40_SynthPad.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  SFX: {}
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    01_KickIn.wav:
+      Track_path: Zeno - Signs\Zeno - Signs_RAW\01_KickIn.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    02_KickSub.wav:
+      Track_path: Zeno - Signs\Zeno - Signs_RAW\02_KickSub.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    03_KickSample.wav:
+      Track_path: Zeno - Signs\Zeno - Signs_RAW\03_KickSample.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_Snare:
+    04_SnareUp1.wav:
+      Track_path: Zeno - Signs\Zeno - Signs_RAW\04_SnareUp1.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    05_SnareUp2.wav:
+      Track_path: Zeno - Signs\Zeno - Signs_RAW\05_SnareUp2.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    06_SnareSample.wav:
+      Track_path: Zeno - Signs\Zeno - Signs_RAW\06_SnareSample.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_HiHat:
+    09_HatSample.wav:
+      Track_path: Zeno - Signs\Zeno - Signs_RAW\09_HatSample.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_Cymbals: {}
+  Drum_Overheads:
+    07_OverheadsOH Stereo MK.wav:
+      Track_path: Zeno - Signs\Zeno - Signs_RAW\07_OverheadsOH Stereo MK.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Tom:
+    08_FloorTom.wav:
+      Track_path: Zeno - Signs\Zeno - Signs_RAW\08_FloorTom.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_Room: {}
+  Shaker:
+    17_Shaker.wav:
+      Track_path: Zeno - Signs\Zeno - Signs_RAW\17_Shaker.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop: {}
+  Clicks: {}
+  Claps:
+    10_Clap1.wav:
+      Track_path: Zeno - Signs\Zeno - Signs_RAW\10_Clap1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    11_Clap2.wav:
+      Track_path: Zeno - Signs\Zeno - Signs_RAW\11_Clap2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    12_Clap3.wav:
+      Track_path: Zeno - Signs\Zeno - Signs_RAW\12_Clap3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    13_Clap4.wav:
+      Track_path: Zeno - Signs\Zeno - Signs_RAW\13_Clap4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    14_Clap5.wav:
+      Track_path: Zeno - Signs\Zeno - Signs_RAW\14_Clap5.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    15_Clap6.wav:
+      Track_path: Zeno - Signs\Zeno - Signs_RAW\15_Clap6.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    16_Clap7.wav:
+      Track_path: Zeno - Signs\Zeno - Signs_RAW\16_Clap7.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass:
+    21_BassSynth.wav:
+      Track_path: Zeno - Signs\Zeno - Signs_RAW\21_BassSynth.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Electric_Bass:
+    18_BassDI.wav:
+      Track_path: Zeno - Signs\Zeno - Signs_RAW\18_BassDI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    19_BassAmp1.wav:
+      Track_path: Zeno - Signs\Zeno - Signs_RAW\19_BassAmp1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    20_BassAmp2.wav:
+      Track_path: Zeno - Signs\Zeno - Signs_RAW\20_BassAmp2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Acoustic_Guitar: {}
+  Electric_Guitar:
+    22_ElecGtr1.wav:
+      Track_path: Zeno - Signs\Zeno - Signs_RAW\22_ElecGtr1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    23_ElecGtr1DI.wav:
+      Track_path: Zeno - Signs\Zeno - Signs_RAW\23_ElecGtr1DI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    24_ElecGtr2.wav:
+      Track_path: Zeno - Signs\Zeno - Signs_RAW\24_ElecGtr2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    25_ElecGtr2DI.wav:
+      Track_path: Zeno - Signs\Zeno - Signs_RAW\25_ElecGtr2DI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    26_ElecGtr3.wav:
+      Track_path: Zeno - Signs\Zeno - Signs_RAW\26_ElecGtr3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    27_ElecGtr3DI.wav:
+      Track_path: Zeno - Signs\Zeno - Signs_RAW\27_ElecGtr3DI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    28_ElecGtr4.wav:
+      Track_path: Zeno - Signs\Zeno - Signs_RAW\28_ElecGtr4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    29_ElecGtr4DI.wav:
+      Track_path: Zeno - Signs\Zeno - Signs_RAW\29_ElecGtr4DI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    30_ElecGtr5.wav:
+      Track_path: Zeno - Signs\Zeno - Signs_RAW\30_ElecGtr5.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    31_ElecGtr5DI.wav:
+      Track_path: Zeno - Signs\Zeno - Signs_RAW\31_ElecGtr5DI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    32_ElecGtr6.wav:
+      Track_path: Zeno - Signs\Zeno - Signs_RAW\32_ElecGtr6.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    33_ElecGtr6DI.wav:
+      Track_path: Zeno - Signs\Zeno - Signs_RAW\33_ElecGtr6DI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    34_ElecGtr7.wav:
+      Track_path: Zeno - Signs\Zeno - Signs_RAW\34_ElecGtr7.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    35_ElecGtr7DI.wav:
+      Track_path: Zeno - Signs\Zeno - Signs_RAW\35_ElecGtr7DI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    36_ElecGtr8.wav:
+      Track_path: Zeno - Signs\Zeno - Signs_RAW\36_ElecGtr8.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    37_ElecGtr8DI.wav:
+      Track_path: Zeno - Signs\Zeno - Signs_RAW\37_ElecGtr8DI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    38_ElecGtr9.wav:
+      Track_path: Zeno - Signs\Zeno - Signs_RAW\38_ElecGtr9.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    39_ElecGtr9DI.wav:
+      Track_path: Zeno - Signs\Zeno - Signs_RAW\39_ElecGtr9DI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Piano:
+    41_Piano.wav:
+      Track_path: Zeno - Signs\Zeno - Signs_RAW\41_Piano.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    42_LeadVox1.wav:
+      Track_path: Zeno - Signs\Zeno - Signs_RAW\42_LeadVox1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    43_LeadVox2.wav:
+      Track_path: Zeno - Signs\Zeno - Signs_RAW\43_LeadVox2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Choir: {}
+  Backing_Vocal:
+    44_BackingVox.wav:
+      Track_path: Zeno - Signs\Zeno - Signs_RAW\44_BackingVox.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Unused: {}
+  Ambient_Microphone: {}

@@ -1,0 +1,158 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer:
+    01_Synth1.wav:
+      Track_path: James Fabio - Machines On Treadmills\James Fabio - Machines On Treadmills_RAW\01_Synth1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    02_Synth2.wav:
+      Track_path: James Fabio - Machines On Treadmills\James Fabio - Machines On Treadmills_RAW\02_Synth2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    03_Synth3.wav:
+      Track_path: James Fabio - Machines On Treadmills\James Fabio - Machines On Treadmills_RAW\03_Synth3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    04_Synth4.wav:
+      Track_path: James Fabio - Machines On Treadmills\James Fabio - Machines On Treadmills_RAW\04_Synth4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    05_Synth5.wav:
+      Track_path: James Fabio - Machines On Treadmills\James Fabio - Machines On Treadmills_RAW\05_Synth5.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    06_Synth6.wav:
+      Track_path: James Fabio - Machines On Treadmills\James Fabio - Machines On Treadmills_RAW\06_Synth6.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    07_Synth7.wav:
+      Track_path: James Fabio - Machines On Treadmills\James Fabio - Machines On Treadmills_RAW\07_Synth7.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    08_Synth8.wav:
+      Track_path: James Fabio - Machines On Treadmills\James Fabio - Machines On Treadmills_RAW\08_Synth8.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    09_Synth9.wav:
+      Track_path: James Fabio - Machines On Treadmills\James Fabio - Machines On Treadmills_RAW\09_Synth9.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  SFX:
+    10_SFX1.wav:
+      Track_path: James Fabio - Machines On Treadmills\James Fabio - Machines On Treadmills_RAW\10_SFX1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    11_SFX2.wav:
+      Track_path: James Fabio - Machines On Treadmills\James Fabio - Machines On Treadmills_RAW\11_SFX2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick: {}
+  Drum_Snare: {}
+  Drum_HiHat: {}
+  Drum_Cymbals: {}
+  Drum_Overheads: {}
+  Drum_Tom: {}
+  Drum_Room: {}
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop: {}
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass: {}
+  Electric_Bass: {}
+  Acoustic_Guitar: {}
+  Electric_Guitar: {}
+  Piano:
+    12_Piano.wav:
+      Track_path: James Fabio - Machines On Treadmills\James Fabio - Machines On Treadmills_RAW\12_Piano.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section:
+    13_Strings.wav:
+      Track_path: James Fabio - Machines On Treadmills\James Fabio - Machines On Treadmills_RAW\13_Strings.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    14_LeadVox1.wav:
+      Track_path: James Fabio - Machines On Treadmills\James Fabio - Machines On Treadmills_RAW\14_LeadVox1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    15_LeadVox2.wav:
+      Track_path: James Fabio - Machines On Treadmills\James Fabio - Machines On Treadmills_RAW\15_LeadVox2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Choir: {}
+  Backing_Vocal:
+    16_BackingVox1.wav:
+      Track_path: James Fabio - Machines On Treadmills\James Fabio - Machines On Treadmills_RAW\16_BackingVox1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    17_BackingVox2.wav:
+      Track_path: James Fabio - Machines On Treadmills\James Fabio - Machines On Treadmills_RAW\17_BackingVox2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Unused: {}
+  Ambient_Microphone: {}

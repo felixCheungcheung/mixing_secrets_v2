@@ -1,0 +1,223 @@
+Track2inst:
+  Electric_Organ:
+    16_OrganSFX.wav:
+      Track_path: Ricardo Santiago - Let The Music Fade Away\Ricardo Santiago - Let
+        The Music Fade Away_RAW\16_OrganSFX.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    17_Organ1.wav:
+      Track_path: Ricardo Santiago - Let The Music Fade Away\Ricardo Santiago - Let
+        The Music Fade Away_RAW\17_Organ1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    18_Organ2.wav:
+      Track_path: Ricardo Santiago - Let The Music Fade Away\Ricardo Santiago - Let
+        The Music Fade Away_RAW\18_Organ2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    19_Organ3.wav:
+      Track_path: Ricardo Santiago - Let The Music Fade Away\Ricardo Santiago - Let
+        The Music Fade Away_RAW\19_Organ3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Synthesizer:
+    20_Synth1.wav:
+      Track_path: Ricardo Santiago - Let The Music Fade Away\Ricardo Santiago - Let
+        The Music Fade Away_RAW\20_Synth1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    21_Synth2.wav:
+      Track_path: Ricardo Santiago - Let The Music Fade Away\Ricardo Santiago - Let
+        The Music Fade Away_RAW\21_Synth2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  SFX: {}
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    01_Kick.wav:
+      Track_path: Ricardo Santiago - Let The Music Fade Away\Ricardo Santiago - Let
+        The Music Fade Away_RAW\01_Kick.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    08_SubHit.wav:
+      Track_path: Ricardo Santiago - Let The Music Fade Away\Ricardo Santiago - Let
+        The Music Fade Away_RAW\08_SubHit.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Snare:
+    02_Snare.wav:
+      Track_path: Ricardo Santiago - Let The Music Fade Away\Ricardo Santiago - Let
+        The Music Fade Away_RAW\02_Snare.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_HiHat:
+    03_HiHat.wav:
+      Track_path: Ricardo Santiago - Let The Music Fade Away\Ricardo Santiago - Let
+        The Music Fade Away_RAW\03_HiHat.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Cymbals:
+    05_Cymbals.wav:
+      Track_path: Ricardo Santiago - Let The Music Fade Away\Ricardo Santiago - Let
+        The Music Fade Away_RAW\05_Cymbals.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Overheads: {}
+  Drum_Tom:
+    04_Toms.wav:
+      Track_path: Ricardo Santiago - Let The Music Fade Away\Ricardo Santiago - Let
+        The Music Fade Away_RAW\04_Toms.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Room:
+    06_DrumsRoomStereo.wav:
+      Track_path: Ricardo Santiago - Let The Music Fade Away\Ricardo Santiago - Let
+        The Music Fade Away_RAW\06_DrumsRoomStereo.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    07_DrumsRoomMono.wav:
+      Track_path: Ricardo Santiago - Let The Music Fade Away\Ricardo Santiago - Let
+        The Music Fade Away_RAW\07_DrumsRoomMono.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop: {}
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass: {}
+  Electric_Bass:
+    09_BassDI.wav:
+      Track_path: Ricardo Santiago - Let The Music Fade Away\Ricardo Santiago - Let
+        The Music Fade Away_RAW\09_BassDI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    10_BassAmp.wav:
+      Track_path: Ricardo Santiago - Let The Music Fade Away\Ricardo Santiago - Let
+        The Music Fade Away_RAW\10_BassAmp.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Acoustic_Guitar: {}
+  Electric_Guitar:
+    11_ElecGtr1.wav:
+      Track_path: Ricardo Santiago - Let The Music Fade Away\Ricardo Santiago - Let
+        The Music Fade Away_RAW\11_ElecGtr1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    12_ElecGtr2.wav:
+      Track_path: Ricardo Santiago - Let The Music Fade Away\Ricardo Santiago - Let
+        The Music Fade Away_RAW\12_ElecGtr2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    13_ElecGtr3.wav:
+      Track_path: Ricardo Santiago - Let The Music Fade Away\Ricardo Santiago - Let
+        The Music Fade Away_RAW\13_ElecGtr3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    14_ElecGtr4.wav:
+      Track_path: Ricardo Santiago - Let The Music Fade Away\Ricardo Santiago - Let
+        The Music Fade Away_RAW\14_ElecGtr4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    15_ElecGtr5.wav:
+      Track_path: Ricardo Santiago - Let The Music Fade Away\Ricardo Santiago - Let
+        The Music Fade Away_RAW\15_ElecGtr5.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Piano: {}
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    22_LeadVox1.wav:
+      Track_path: Ricardo Santiago - Let The Music Fade Away\Ricardo Santiago - Let
+        The Music Fade Away_RAW\22_LeadVox1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    23_LeadVox2.wav:
+      Track_path: Ricardo Santiago - Let The Music Fade Away\Ricardo Santiago - Let
+        The Music Fade Away_RAW\23_LeadVox2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    24_LeadVox2DT.wav:
+      Track_path: Ricardo Santiago - Let The Music Fade Away\Ricardo Santiago - Let
+        The Music Fade Away_RAW\24_LeadVox2DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Choir: {}
+  Backing_Vocal:
+    25_BackingVox.wav:
+      Track_path: Ricardo Santiago - Let The Music Fade Away\Ricardo Santiago - Let
+        The Music Fade Away_RAW\25_BackingVox.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Unused: {}
+  Ambient_Microphone: {}

@@ -1,0 +1,164 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer: {}
+  SFX: {}
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    01_Cajon.wav:
+      Track_path: Woven Hollow - Tell Me Nice\Woven Hollow - Tell Me Nice_RAW\01_Cajon.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Snare:
+    06_Snare Drum.wav:
+      Track_path: Woven Hollow - Tell Me Nice\Woven Hollow - Tell Me Nice_RAW\06_Snare
+        Drum.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_HiHat: {}
+  Drum_Cymbals: {}
+  Drum_Overheads: {}
+  Drum_Tom: {}
+  Drum_Room: {}
+  Shaker:
+    02_Shaker1.wav:
+      Track_path: Woven Hollow - Tell Me Nice\Woven Hollow - Tell Me Nice_RAW\02_Shaker1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    03_Shaker1DT.wav:
+      Track_path: Woven Hollow - Tell Me Nice\Woven Hollow - Tell Me Nice_RAW\03_Shaker1DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    04_Shaker2.wav:
+      Track_path: Woven Hollow - Tell Me Nice\Woven Hollow - Tell Me Nice_RAW\04_Shaker2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    05_Shaker2DT.wav:
+      Track_path: Woven Hollow - Tell Me Nice\Woven Hollow - Tell Me Nice_RAW\05_Shaker2DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine:
+    07_Tambourine.wav:
+      Track_path: Woven Hollow - Tell Me Nice\Woven Hollow - Tell Me Nice_RAW\07_Tambourine.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Loop: {}
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass: {}
+  Electric_Bass:
+    08_BassDI.wav:
+      Track_path: Woven Hollow - Tell Me Nice\Woven Hollow - Tell Me Nice_RAW\08_BassDI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    09_BassSwell.wav:
+      Track_path: Woven Hollow - Tell Me Nice\Woven Hollow - Tell Me Nice_RAW\09_BassSwell.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Acoustic_Guitar:
+    10_AcousticGtrMic.wav:
+      Track_path: Woven Hollow - Tell Me Nice\Woven Hollow - Tell Me Nice_RAW\10_AcousticGtrMic.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    11_AcousticGtrDI.wav:
+      Track_path: Woven Hollow - Tell Me Nice\Woven Hollow - Tell Me Nice_RAW\11_AcousticGtrDI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Electric_Guitar: {}
+  Piano:
+    12_Piano.wav:
+      Track_path: Woven Hollow - Tell Me Nice\Woven Hollow - Tell Me Nice_RAW\12_Piano.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    13_LeadVox1.wav:
+      Track_path: Woven Hollow - Tell Me Nice\Woven Hollow - Tell Me Nice_RAW\13_LeadVox1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    15_LeadVox3.wav:
+      Track_path: Woven Hollow - Tell Me Nice\Woven Hollow - Tell Me Nice_RAW\15_LeadVox3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Choir: {}
+  Backing_Vocal:
+    17_BackingVox1.wav:
+      Track_path: Woven Hollow - Tell Me Nice\Woven Hollow - Tell Me Nice_RAW\17_BackingVox1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    18_BackingVox2.wav:
+      Track_path: Woven Hollow - Tell Me Nice\Woven Hollow - Tell Me Nice_RAW\18_BackingVox2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    14_LeadVox2.wav:
+      Track_path: Woven Hollow - Tell Me Nice\Woven Hollow - Tell Me Nice_RAW\14_LeadVox2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    16_LeadVox4.wav:
+      Track_path: Woven Hollow - Tell Me Nice\Woven Hollow - Tell Me Nice_RAW\16_LeadVox4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Unused: {}
+  Ambient_Microphone: {}

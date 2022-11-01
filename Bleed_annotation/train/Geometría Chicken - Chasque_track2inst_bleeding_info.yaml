@@ -1,0 +1,145 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer: {}
+  SFX: {}
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    01_Kick.wav:
+      Track_path: "Geometr\xEDa Chicken - Chasque\\Geometr\xEDa Chicken - Chasque_RAW\\\
+        01_Kick.wav"
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_Snare:
+    02_SnareUp.wav:
+      Track_path: "Geometr\xEDa Chicken - Chasque\\Geometr\xEDa Chicken - Chasque_RAW\\\
+        02_SnareUp.wav"
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    03_SnareDown.wav:
+      Track_path: "Geometr\xEDa Chicken - Chasque\\Geometr\xEDa Chicken - Chasque_RAW\\\
+        03_SnareDown.wav"
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    04_SidestickSample.wav:
+      Track_path: "Geometr\xEDa Chicken - Chasque\\Geometr\xEDa Chicken - Chasque_RAW\\\
+        04_SidestickSample.wav"
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_HiHat: {}
+  Drum_Cymbals: {}
+  Drum_Overheads:
+    06_Overheads.wav:
+      Track_path: "Geometr\xEDa Chicken - Chasque\\Geometr\xEDa Chicken - Chasque_RAW\\\
+        06_Overheads.wav"
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Tom:
+    05_Tom.wav:
+      Track_path: "Geometr\xEDa Chicken - Chasque\\Geometr\xEDa Chicken - Chasque_RAW\\\
+        05_Tom.wav"
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_Room: {}
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop: {}
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass: {}
+  Electric_Bass:
+    07_Bass.wav:
+      Track_path: "Geometr\xEDa Chicken - Chasque\\Geometr\xEDa Chicken - Chasque_RAW\\\
+        07_Bass.wav"
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Acoustic_Guitar: {}
+  Electric_Guitar:
+    08_ElecGtr1.wav:
+      Track_path: "Geometr\xEDa Chicken - Chasque\\Geometr\xEDa Chicken - Chasque_RAW\\\
+        08_ElecGtr1.wav"
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    09_ElecGtr2.wav:
+      Track_path: "Geometr\xEDa Chicken - Chasque\\Geometr\xEDa Chicken - Chasque_RAW\\\
+        09_ElecGtr2.wav"
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    10_ElecGtr3.wav:
+      Track_path: "Geometr\xEDa Chicken - Chasque\\Geometr\xEDa Chicken - Chasque_RAW\\\
+        10_ElecGtr3.wav"
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    11_ElecGtr4.wav:
+      Track_path: "Geometr\xEDa Chicken - Chasque\\Geometr\xEDa Chicken - Chasque_RAW\\\
+        11_ElecGtr4.wav"
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Piano: {}
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    12_LeadVox.wav:
+      Track_path: "Geometr\xEDa Chicken - Chasque\\Geometr\xEDa Chicken - Chasque_RAW\\\
+        12_LeadVox.wav"
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Choir: {}
+  Backing_Vocal: {}
+  Unused: {}
+  Ambient_Microphone: {}

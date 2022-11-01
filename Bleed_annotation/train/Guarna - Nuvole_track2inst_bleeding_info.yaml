@@ -1,0 +1,178 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer:
+    11_Synth1.wav:
+      Track_path: Guarna - Nuvole\Guarna - Nuvole_RAW\11_Synth1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    12_Synth2.wav:
+      Track_path: Guarna - Nuvole\Guarna - Nuvole_RAW\12_Synth2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    13_Synth3.wav:
+      Track_path: Guarna - Nuvole\Guarna - Nuvole_RAW\13_Synth3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  SFX: {}
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    01_Kick.wav:
+      Track_path: Guarna - Nuvole\Guarna - Nuvole_RAW\01_Kick.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Snare:
+    02_Snare.wav:
+      Track_path: Guarna - Nuvole\Guarna - Nuvole_RAW\02_Snare.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_HiHat:
+    04_HiHat1.wav:
+      Track_path: Guarna - Nuvole\Guarna - Nuvole_RAW\04_HiHat1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    05_HiHat2.wav:
+      Track_path: Guarna - Nuvole\Guarna - Nuvole_RAW\05_HiHat2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    06_HiHat3.wav:
+      Track_path: Guarna - Nuvole\Guarna - Nuvole_RAW\06_HiHat3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Cymbals: {}
+  Drum_Overheads: {}
+  Drum_Tom: {}
+  Drum_Room: {}
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop: {}
+  Clicks: {}
+  Claps:
+    03_Clap.wav:
+      Track_path: Guarna - Nuvole\Guarna - Nuvole_RAW\03_Clap.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass: {}
+  Electric_Bass:
+    07_Bass.wav:
+      Track_path: Guarna - Nuvole\Guarna - Nuvole_RAW\07_Bass.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Acoustic_Guitar:
+    08_AcousticGtr1.wav:
+      Track_path: Guarna - Nuvole\Guarna - Nuvole_RAW\08_AcousticGtr1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    09_AcousticGtr2.wav:
+      Track_path: Guarna - Nuvole\Guarna - Nuvole_RAW\09_AcousticGtr2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Electric_Guitar: {}
+  Piano:
+    10_Piano.wav:
+      Track_path: Guarna - Nuvole\Guarna - Nuvole_RAW\10_Piano.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    15_LeadVox1.wav:
+      Track_path: Guarna - Nuvole\Guarna - Nuvole_RAW\15_LeadVox1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    16_LeadVox1DT1.wav:
+      Track_path: Guarna - Nuvole\Guarna - Nuvole_RAW\16_LeadVox1DT1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    17_LeadVox1DT2.wav:
+      Track_path: Guarna - Nuvole\Guarna - Nuvole_RAW\17_LeadVox1DT2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    18_LeadVox2.wav:
+      Track_path: Guarna - Nuvole\Guarna - Nuvole_RAW\18_LeadVox2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    19_LeadVox2DT.wav:
+      Track_path: Guarna - Nuvole\Guarna - Nuvole_RAW\19_LeadVox2DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Choir: {}
+  Backing_Vocal:
+    20_BackingVox1.wav:
+      Track_path: Guarna - Nuvole\Guarna - Nuvole_RAW\20_BackingVox1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    21_BackingVox2.wav:
+      Track_path: Guarna - Nuvole\Guarna - Nuvole_RAW\21_BackingVox2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    14_Vocoder.wav:
+      Track_path: Guarna - Nuvole\Guarna - Nuvole_RAW\14_Vocoder.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Unused: {}
+  Ambient_Microphone: {}

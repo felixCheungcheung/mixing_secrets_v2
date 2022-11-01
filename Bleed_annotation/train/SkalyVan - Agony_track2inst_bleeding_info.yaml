@@ -1,0 +1,243 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer: {}
+  SFX: {}
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    01_Kick.wav:
+      Track_path: SkalyVan - Agony\SkalyVan - Agony_RAW\01_Kick.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Snare:
+    02_Snare.wav:
+      Track_path: SkalyVan - Agony\SkalyVan - Agony_RAW\02_Snare.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_HiHat:
+    03_HiHat.wav:
+      Track_path: SkalyVan - Agony\SkalyVan - Agony_RAW\03_HiHat.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Cymbals:
+    04_Ride.wav:
+      Track_path: SkalyVan - Agony\SkalyVan - Agony_RAW\04_Ride.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    08_Cymbal.wav:
+      Track_path: SkalyVan - Agony\SkalyVan - Agony_RAW\08_Cymbal.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Overheads:
+    09_Overheads.wav:
+      Track_path: SkalyVan - Agony\SkalyVan - Agony_RAW\09_Overheads.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Tom:
+    05_Tom1.wav:
+      Track_path: SkalyVan - Agony\SkalyVan - Agony_RAW\05_Tom1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    06_Tom2.wav:
+      Track_path: SkalyVan - Agony\SkalyVan - Agony_RAW\06_Tom2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    07_Tom3.wav:
+      Track_path: SkalyVan - Agony\SkalyVan - Agony_RAW\07_Tom3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Room:
+    10_DrumsRoom.wav:
+      Track_path: SkalyVan - Agony\SkalyVan - Agony_RAW\10_DrumsRoom.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop: {}
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass: {}
+  Electric_Bass:
+    11_Bass.wav:
+      Track_path: SkalyVan - Agony\SkalyVan - Agony_RAW\11_Bass.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Acoustic_Guitar: {}
+  Electric_Guitar:
+    12_ElecGtr1DI.wav:
+      Track_path: SkalyVan - Agony\SkalyVan - Agony_RAW\12_ElecGtr1DI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    13_ElecGtr1DTDI.wav:
+      Track_path: SkalyVan - Agony\SkalyVan - Agony_RAW\13_ElecGtr1DTDI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    14_ElecGtr2DI.wav:
+      Track_path: SkalyVan - Agony\SkalyVan - Agony_RAW\14_ElecGtr2DI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    15_ElecGtr3DI.wav:
+      Track_path: SkalyVan - Agony\SkalyVan - Agony_RAW\15_ElecGtr3DI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    16_ElecGtr4DI.wav:
+      Track_path: SkalyVan - Agony\SkalyVan - Agony_RAW\16_ElecGtr4DI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    17_ElecGtr5DI.wav:
+      Track_path: SkalyVan - Agony\SkalyVan - Agony_RAW\17_ElecGtr5DI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Piano: {}
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin:
+    19_Strings2.wav:
+      Track_path: SkalyVan - Agony\SkalyVan - Agony_RAW\19_Strings2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Viola: {}
+  Cello:
+    18_Strings1.wav:
+      Track_path: SkalyVan - Agony\SkalyVan - Agony_RAW\18_Strings1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    23_Vox1.wav:
+      Track_path: SkalyVan - Agony\SkalyVan - Agony_RAW\23_Vox1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    24_Vox1DT.wav:
+      Track_path: SkalyVan - Agony\SkalyVan - Agony_RAW\24_Vox1DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    25_Vox2.wav:
+      Track_path: SkalyVan - Agony\SkalyVan - Agony_RAW\25_Vox2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    26_Vox2DT.wav:
+      Track_path: SkalyVan - Agony\SkalyVan - Agony_RAW\26_Vox2DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    27_Vox3.wav:
+      Track_path: SkalyVan - Agony\SkalyVan - Agony_RAW\27_Vox3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    31_Vox6.wav:
+      Track_path: SkalyVan - Agony\SkalyVan - Agony_RAW\31_Vox6.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    32_Vox7.wav:
+      Track_path: SkalyVan - Agony\SkalyVan - Agony_RAW\32_Vox7.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    33_Vox8.wav:
+      Track_path: SkalyVan - Agony\SkalyVan - Agony_RAW\33_Vox8.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    34_Vox9.wav:
+      Track_path: SkalyVan - Agony\SkalyVan - Agony_RAW\34_Vox9.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Choir:
+    20_Choir1.wav:
+      Track_path: SkalyVan - Agony\SkalyVan - Agony_RAW\20_Choir1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    21_Choir2.wav:
+      Track_path: SkalyVan - Agony\SkalyVan - Agony_RAW\21_Choir2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    22_Choir3.wav:
+      Track_path: SkalyVan - Agony\SkalyVan - Agony_RAW\22_Choir3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Backing_Vocal:
+    28_Vox4.wav:
+      Track_path: SkalyVan - Agony\SkalyVan - Agony_RAW\28_Vox4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    29_Vox5.wav:
+      Track_path: SkalyVan - Agony\SkalyVan - Agony_RAW\29_Vox5.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    30_Vox5DT.wav:
+      Track_path: SkalyVan - Agony\SkalyVan - Agony_RAW\30_Vox5DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Unused: {}
+  Ambient_Microphone: {}

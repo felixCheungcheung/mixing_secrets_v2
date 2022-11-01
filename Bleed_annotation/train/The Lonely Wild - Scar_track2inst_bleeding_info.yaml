@@ -1,0 +1,120 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer: {}
+  SFX: {}
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica:
+    Keys-Melodica-C12.wav:
+      Track_path: The Lonely Wild - Scar\The Lonely Wild - Scar_RAW\Keys-Melodica-C12.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Other_Chromatic, Acoustic_Guitar, Lead_Vocal, Backing_Vocal'
+      Comment: 'huge'
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic:
+    Keys-Toy Piano-ELA M 260.wav:
+      Track_path: The Lonely Wild - Scar\The Lonely Wild - Scar_RAW\Keys-Toy Piano-ELA
+        M 260.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Harmonica, Lead_Vocal, Acoustic_Guitar, Backing_Vocal'
+      Comment: 'huge'
+  Drum_Kick: {}
+  Drum_Snare: {}
+  Drum_HiHat: {}
+  Drum_Cymbals: {}
+  Drum_Overheads: {}
+  Drum_Tom: {}
+  Drum_Room: {}
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop: {}
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass: {}
+  Electric_Bass: {}
+  Acoustic_Guitar:
+    Keys-Keyboard-ELA M 260.wav:
+      Track_path: The Lonely Wild - Scar\The Lonely Wild - Scar_RAW\Keys-Keyboard-ELA
+        M 260.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Lead_Vocal, Backing_Vocal'
+      Comment: ''
+    Acoustic Guitar-Guitar1-M60.wav:
+      Track_path: The Lonely Wild - Scar\The Lonely Wild - Scar_RAW\Acoustic Guitar-Guitar1-M60.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Lead_Vocal, Backing_Vocal'
+      Comment: ''
+    Acoustic Guitar-Guitar2-M60.wav:
+      Track_path: The Lonely Wild - Scar\The Lonely Wild - Scar_RAW\Acoustic Guitar-Guitar2-M60.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Lead_Vocal, Backing_Vocal'
+      Comment: 'slight'
+  Electric_Guitar: {}
+  Piano: {}
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    Vocals-Vocal1-M80.wav:
+      Track_path: The Lonely Wild - Scar\The Lonely Wild - Scar_RAW\Vocals-Vocal1-M80.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Acoustic_Guitar'
+      Comment: 'slight'
+  Choir: {}
+  Backing_Vocal:
+    Vocals-Vocal2-M81.wav:
+      Track_path: The Lonely Wild - Scar\The Lonely Wild - Scar_RAW\Vocals-Vocal2-M81.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Acoustic_Guitar'
+      Comment: 'noticeable'
+    Vocals-Vocal3-M81.wav:
+      Track_path: The Lonely Wild - Scar\The Lonely Wild - Scar_RAW\Vocals-Vocal3-M81.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Acoustic_Guitar'
+      Comment: 'noticeable'
+  Unused: {}
+  Ambient_Microphone:
+    Room-AR70.wav:
+      Track_path: The Lonely Wild - Scar\The Lonely Wild - Scar_RAW\Room-AR70.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: ''
+      Comment: ''

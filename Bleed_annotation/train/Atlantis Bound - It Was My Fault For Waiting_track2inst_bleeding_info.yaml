@@ -1,0 +1,337 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer: {}
+  SFX:
+    31_SFX1.wav:
+      Track_path: Atlantis Bound - It Was My Fault For Waiting\Atlantis Bound - It
+        Was My Fault For Waiting_RAW\31_SFX1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    32_SFX2.wav:
+      Track_path: Atlantis Bound - It Was My Fault For Waiting\Atlantis Bound - It
+        Was My Fault For Waiting_RAW\32_SFX2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    33_SFX3.wav:
+      Track_path: Atlantis Bound - It Was My Fault For Waiting\Atlantis Bound - It
+        Was My Fault For Waiting_RAW\33_SFX3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    34_SFX4.wav:
+      Track_path: Atlantis Bound - It Was My Fault For Waiting\Atlantis Bound - It
+        Was My Fault For Waiting_RAW\34_SFX4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    01_Kick.wav:
+      Track_path: Atlantis Bound - It Was My Fault For Waiting\Atlantis Bound - It
+        Was My Fault For Waiting_RAW\01_Kick.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads'
+      Comment: ''
+    02_KickSub.wav:
+      Track_path: Atlantis Bound - It Was My Fault For Waiting\Atlantis Bound - It
+        Was My Fault For Waiting_RAW\02_KickSub.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads'
+      Comment: ''
+  Drum_Snare:
+    03_SnareUp.wav:
+      Track_path: Atlantis Bound - It Was My Fault For Waiting\Atlantis Bound - It
+        Was My Fault For Waiting_RAW\03_SnareUp.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads'
+      Comment: ''
+    04_SnareDown.wav:
+      Track_path: Atlantis Bound - It Was My Fault For Waiting\Atlantis Bound - It
+        Was My Fault For Waiting_RAW\04_SnareDown.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads'
+      Comment: ''
+  Drum_HiHat:
+    05_HiHat.wav:
+      Track_path: Atlantis Bound - It Was My Fault For Waiting\Atlantis Bound - It
+        Was My Fault For Waiting_RAW\05_HiHat.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads'
+      Comment: ''
+  Drum_Cymbals: {}
+  Drum_Overheads:
+    08_Overheads.wav:
+      Track_path: Atlantis Bound - It Was My Fault For Waiting\Atlantis Bound - It
+        Was My Fault For Waiting_RAW\08_Overheads.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Tom:
+    06_Tom1.wav:
+      Track_path: Atlantis Bound - It Was My Fault For Waiting\Atlantis Bound - It
+        Was My Fault For Waiting_RAW\06_Tom1.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads'
+      Comment: ''
+    07_Tom2.wav:
+      Track_path: Atlantis Bound - It Was My Fault For Waiting\Atlantis Bound - It
+        Was My Fault For Waiting_RAW\07_Tom2.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads'
+      Comment: ''
+  Drum_Room:
+    09_DrumsRoomMono.wav:
+      Track_path: Atlantis Bound - It Was My Fault For Waiting\Atlantis Bound - It
+        Was My Fault For Waiting_RAW\09_DrumsRoomMono.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    10_DrumsRoomStereo.wav:
+      Track_path: Atlantis Bound - It Was My Fault For Waiting\Atlantis Bound - It
+        Was My Fault For Waiting_RAW\10_DrumsRoomStereo.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop: {}
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass: {}
+  Electric_Bass:
+    11_BassBI.wav:
+      Track_path: Atlantis Bound - It Was My Fault For Waiting\Atlantis Bound - It
+        Was My Fault For Waiting_RAW\11_BassBI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Acoustic_Guitar: {}
+  Electric_Guitar:
+    12_ElecGtr1Mic1.wav:
+      Track_path: Atlantis Bound - It Was My Fault For Waiting\Atlantis Bound - It
+        Was My Fault For Waiting_RAW\12_ElecGtr1Mic1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    13_ElecGtr1Mic2.wav:
+      Track_path: Atlantis Bound - It Was My Fault For Waiting\Atlantis Bound - It
+        Was My Fault For Waiting_RAW\13_ElecGtr1Mic2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    14_ElecGtr1DI.wav:
+      Track_path: Atlantis Bound - It Was My Fault For Waiting\Atlantis Bound - It
+        Was My Fault For Waiting_RAW\14_ElecGtr1DI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    15_ElecGtr2Mic1.wav:
+      Track_path: Atlantis Bound - It Was My Fault For Waiting\Atlantis Bound - It
+        Was My Fault For Waiting_RAW\15_ElecGtr2Mic1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    16_ElecGtr2Mic2.wav:
+      Track_path: Atlantis Bound - It Was My Fault For Waiting\Atlantis Bound - It
+        Was My Fault For Waiting_RAW\16_ElecGtr2Mic2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    17_ElecGtr2MicDI.wav:
+      Track_path: Atlantis Bound - It Was My Fault For Waiting\Atlantis Bound - It
+        Was My Fault For Waiting_RAW\17_ElecGtr2MicDI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    18_ElecGtr3Mic1.wav:
+      Track_path: Atlantis Bound - It Was My Fault For Waiting\Atlantis Bound - It
+        Was My Fault For Waiting_RAW\18_ElecGtr3Mic1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    19_ElecGtr3Mic2.wav:
+      Track_path: Atlantis Bound - It Was My Fault For Waiting\Atlantis Bound - It
+        Was My Fault For Waiting_RAW\19_ElecGtr3Mic2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    20_ElecGtr3DI.wav:
+      Track_path: Atlantis Bound - It Was My Fault For Waiting\Atlantis Bound - It
+        Was My Fault For Waiting_RAW\20_ElecGtr3DI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    21_ElecGtr4Mic1.wav:
+      Track_path: Atlantis Bound - It Was My Fault For Waiting\Atlantis Bound - It
+        Was My Fault For Waiting_RAW\21_ElecGtr4Mic1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    22_ElecGtr4Mic2.wav:
+      Track_path: Atlantis Bound - It Was My Fault For Waiting\Atlantis Bound - It
+        Was My Fault For Waiting_RAW\22_ElecGtr4Mic2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    23_ElecGtr4DI.wav:
+      Track_path: Atlantis Bound - It Was My Fault For Waiting\Atlantis Bound - It
+        Was My Fault For Waiting_RAW\23_ElecGtr4DI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    24_ElecGtr5Mic1.wav:
+      Track_path: Atlantis Bound - It Was My Fault For Waiting\Atlantis Bound - It
+        Was My Fault For Waiting_RAW\24_ElecGtr5Mic1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    25_ElecGtr5Mic2.wav:
+      Track_path: Atlantis Bound - It Was My Fault For Waiting\Atlantis Bound - It
+        Was My Fault For Waiting_RAW\25_ElecGtr5Mic2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    26_ElecGtr5DI.wav:
+      Track_path: Atlantis Bound - It Was My Fault For Waiting\Atlantis Bound - It
+        Was My Fault For Waiting_RAW\26_ElecGtr5DI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    27_ElecGtr6Mic1.wav:
+      Track_path: Atlantis Bound - It Was My Fault For Waiting\Atlantis Bound - It
+        Was My Fault For Waiting_RAW\27_ElecGtr6Mic1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    28_ElecGtr6Mic2.wav:
+      Track_path: Atlantis Bound - It Was My Fault For Waiting\Atlantis Bound - It
+        Was My Fault For Waiting_RAW\28_ElecGtr6Mic2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    29_ElecGtr6DI.wav:
+      Track_path: Atlantis Bound - It Was My Fault For Waiting\Atlantis Bound - It
+        Was My Fault For Waiting_RAW\29_ElecGtr6DI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Piano:
+    30_Piano.wav:
+      Track_path: Atlantis Bound - It Was My Fault For Waiting\Atlantis Bound - It
+        Was My Fault For Waiting_RAW\30_Piano.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    35_LeadVox.wav:
+      Track_path: Atlantis Bound - It Was My Fault For Waiting\Atlantis Bound - It
+        Was My Fault For Waiting_RAW\35_LeadVox.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    36_LeadVoxDT.wav:
+      Track_path: Atlantis Bound - It Was My Fault For Waiting\Atlantis Bound - It
+        Was My Fault For Waiting_RAW\36_LeadVoxDT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Choir: {}
+  Backing_Vocal:
+    37_Backing1Vox.wav:
+      Track_path: Atlantis Bound - It Was My Fault For Waiting\Atlantis Bound - It
+        Was My Fault For Waiting_RAW\37_Backing1Vox.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    38_BackingVox1DT.wav:
+      Track_path: Atlantis Bound - It Was My Fault For Waiting\Atlantis Bound - It
+        Was My Fault For Waiting_RAW\38_BackingVox1DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    39_Backing2Vox.wav:
+      Track_path: Atlantis Bound - It Was My Fault For Waiting\Atlantis Bound - It
+        Was My Fault For Waiting_RAW\39_Backing2Vox.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    40_BackingVox2DT.wav:
+      Track_path: Atlantis Bound - It Was My Fault For Waiting\Atlantis Bound - It
+        Was My Fault For Waiting_RAW\40_BackingVox2DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    41_BackingVox3.wav:
+      Track_path: Atlantis Bound - It Was My Fault For Waiting\Atlantis Bound - It
+        Was My Fault For Waiting_RAW\41_BackingVox3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    42_BackingVox4.wav:
+      Track_path: Atlantis Bound - It Was My Fault For Waiting\Atlantis Bound - It
+        Was My Fault For Waiting_RAW\42_BackingVox4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    43_BackingVox5.wav:
+      Track_path: Atlantis Bound - It Was My Fault For Waiting\Atlantis Bound - It
+        Was My Fault For Waiting_RAW\43_BackingVox5.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    44_BackingVox6.wav:
+      Track_path: Atlantis Bound - It Was My Fault For Waiting\Atlantis Bound - It
+        Was My Fault For Waiting_RAW\44_BackingVox6.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Unused: {}
+  Ambient_Microphone: {}

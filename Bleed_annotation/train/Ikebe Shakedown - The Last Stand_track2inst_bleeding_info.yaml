@@ -1,0 +1,168 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer: {}
+  SFX: {}
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    Drums-Kick in-M82.wav:
+      Track_path: Ikebe Shakedown - The Last Stand\Ikebe Shakedown - The Last Stand_RAW\Drums-Kick
+        in-M82.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Trumpet, Saxophone, Drum_Overheads'
+      Comment: ''
+    Drums-Kick Out-Cu29.wav:
+      Track_path: Ikebe Shakedown - The Last Stand\Ikebe Shakedown - The Last Stand_RAW\Drums-Kick
+        Out-Cu29.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Trumpet, Saxophone, Drum_Overheads'
+      Comment: ''
+  Drum_Snare:
+    Drums-Snare Bot-M81.wav:
+      Track_path: Ikebe Shakedown - The Last Stand\Ikebe Shakedown - The Last Stand_RAW\Drums-Snare
+        Bot-M81.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Trumpet, Saxophone, Drum_Overheads'
+      Comment: ''
+    Drums-Snare Top-M80.wav:
+      Track_path: Ikebe Shakedown - The Last Stand\Ikebe Shakedown - The Last Stand_RAW\Drums-Snare
+        Top-M80.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Trumpet, Saxophone, Drum_Overheads'
+      Comment: ''
+  Drum_HiHat: {}
+  Drum_Cymbals: {}
+  Drum_Overheads:
+    Drums-Over-M60.wav:
+      Track_path: Ikebe Shakedown - The Last Stand\Ikebe Shakedown - The Last Stand_RAW\Drums-Over-M60.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Trumpet, Saxophone'
+      Comment: ''
+  Drum_Tom:
+    Drums-Tom1-M81.wav:
+      Track_path: Ikebe Shakedown - The Last Stand\Ikebe Shakedown - The Last Stand_RAW\Drums-Tom1-M81.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Trumpet, Saxophone, Drum_Overheads'
+      Comment: ''
+    Drums-Tom2-M81.wav:
+      Track_path: Ikebe Shakedown - The Last Stand\Ikebe Shakedown - The Last Stand_RAW\Drums-Tom2-M81.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Trumpet, Saxophone, Drum_Overheads'
+      Comment: ''
+  Drum_Room: {}
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop: {}
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion:
+    Percussion-M81.wav:
+      Track_path: Ikebe Shakedown - The Last Stand\Ikebe Shakedown - The Last Stand_RAW\Percussion-M81.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Trumpet, Saxophone, Drum_Overheads'
+      Comment: ''
+    Percussion2-M81.wav:
+      Track_path: Ikebe Shakedown - The Last Stand\Ikebe Shakedown - The Last Stand_RAW\Percussion2-M81.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Trumpet, Saxophone, Drum_Overheads'
+      Comment: ''
+  Synth_Bass: {}
+  Electric_Bass:
+    Bass-DI.wav:
+      Track_path: Ikebe Shakedown - The Last Stand\Ikebe Shakedown - The Last Stand_RAW\Bass-DI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Acoustic_Guitar: {}
+  Electric_Guitar:
+    Guitar-Cu29.wav:
+      Track_path: Ikebe Shakedown - The Last Stand\Ikebe Shakedown - The Last Stand_RAW\Guitar-Cu29.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Guitar-M81.wav:
+      Track_path: Ikebe Shakedown - The Last Stand\Ikebe Shakedown - The Last Stand_RAW\Guitar-M81.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Piano: {}
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone:
+    Horns-Sax-M82.wav:
+      Track_path: Ikebe Shakedown - The Last Stand\Ikebe Shakedown - The Last Stand_RAW\Horns-Sax-M82.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Trumpet, Drum_Overheads, Percussion'
+      Comment: ''
+  Trumpet:
+    Horns-Trumpet-M81.wav:
+      Track_path: Ikebe Shakedown - The Last Stand\Ikebe Shakedown - The Last Stand_RAW\Horns-Trumpet-M81.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Saxophone, Drum_Overheads, Percussion'
+      Comment: ''
+    Horns-Bone-M82.wav:
+      Track_path: Ikebe Shakedown - The Last Stand\Ikebe Shakedown - The Last Stand_RAW\Horns-Bone-M82.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Saxophone, Drum_Overheads, Percussion'
+      Comment: ''
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal: {}
+  Choir: {}
+  Backing_Vocal: {}
+  Unused:
+    BONE_06-08.wav:
+      Track_path: Ikebe Shakedown - The Last Stand\Ikebe Shakedown - The Last Stand_RAW\BONE_06-08.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Ambient_Microphone:
+    Chamber-M60.wav:
+      Track_path: Ikebe Shakedown - The Last Stand\Ikebe Shakedown - The Last Stand_RAW\Chamber-M60.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Room-ELA M260.wav:
+      Track_path: Ikebe Shakedown - The Last Stand\Ikebe Shakedown - The Last Stand_RAW\Room-ELA
+        M260.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: ''
+      Comment: ''

@@ -1,0 +1,198 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer: {}
+  SFX:
+    12_SFX1.wav:
+      Track_path: Drumtracks - Ghost Bitch\Drumtracks - Ghost Bitch_RAW\12_SFX1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    13_SFX2.wav:
+      Track_path: Drumtracks - Ghost Bitch\Drumtracks - Ghost Bitch_RAW\13_SFX2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    01_Kick.wav:
+      Track_path: Drumtracks - Ghost Bitch\Drumtracks - Ghost Bitch_RAW\01_Kick.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Snare:
+    02_SnareUp.wav:
+      Track_path: Drumtracks - Ghost Bitch\Drumtracks - Ghost Bitch_RAW\02_SnareUp.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_HiHat:
+    04_HiHat.wav:
+      Track_path: Drumtracks - Ghost Bitch\Drumtracks - Ghost Bitch_RAW\04_HiHat.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Cymbals: {}
+  Drum_Overheads:
+    09_Overheads.wav:
+      Track_path: Drumtracks - Ghost Bitch\Drumtracks - Ghost Bitch_RAW\09_Overheads.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Tom:
+    05_Tom1.wav:
+      Track_path: Drumtracks - Ghost Bitch\Drumtracks - Ghost Bitch_RAW\05_Tom1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    06_Tom2.wav:
+      Track_path: Drumtracks - Ghost Bitch\Drumtracks - Ghost Bitch_RAW\06_Tom2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    07_Tom3.wav:
+      Track_path: Drumtracks - Ghost Bitch\Drumtracks - Ghost Bitch_RAW\07_Tom3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    08_Tom4.wav:
+      Track_path: Drumtracks - Ghost Bitch\Drumtracks - Ghost Bitch_RAW\08_Tom4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Room:
+    10_DrumsRoom.wav:
+      Track_path: Drumtracks - Ghost Bitch\Drumtracks - Ghost Bitch_RAW\10_DrumsRoom.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop: {}
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass: {}
+  Electric_Bass: {}
+  Acoustic_Guitar: {}
+  Electric_Guitar: {}
+  Piano:
+    14_Piano1.wav:
+      Track_path: Drumtracks - Ghost Bitch\Drumtracks - Ghost Bitch_RAW\14_Piano1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    15_Piano2.wav:
+      Track_path: Drumtracks - Ghost Bitch\Drumtracks - Ghost Bitch_RAW\15_Piano2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section:
+    16_Strings.wav:
+      Track_path: Drumtracks - Ghost Bitch\Drumtracks - Ghost Bitch_RAW\16_Strings.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Fiddle: {}
+  Double_Bass:
+    11_Bass.wav:
+      Track_path: Drumtracks - Ghost Bitch\Drumtracks - Ghost Bitch_RAW\11_Bass.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    17_LeadVox1.wav:
+      Track_path: Drumtracks - Ghost Bitch\Drumtracks - Ghost Bitch_RAW\17_LeadVox1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    18_LeadVox2.wav:
+      Track_path: Drumtracks - Ghost Bitch\Drumtracks - Ghost Bitch_RAW\18_LeadVox2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Choir: {}
+  Backing_Vocal:
+    19_BackingVox1.wav:
+      Track_path: Drumtracks - Ghost Bitch\Drumtracks - Ghost Bitch_RAW\19_BackingVox1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    20_BackingVox2.wav:
+      Track_path: Drumtracks - Ghost Bitch\Drumtracks - Ghost Bitch_RAW\20_BackingVox2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    21_BackingVox3.wav:
+      Track_path: Drumtracks - Ghost Bitch\Drumtracks - Ghost Bitch_RAW\21_BackingVox3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    22_BackingVox4.wav:
+      Track_path: Drumtracks - Ghost Bitch\Drumtracks - Ghost Bitch_RAW\22_BackingVox4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    23_BackingVox5.wav:
+      Track_path: Drumtracks - Ghost Bitch\Drumtracks - Ghost Bitch_RAW\23_BackingVox5.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    24_BackingVox6.wav:
+      Track_path: Drumtracks - Ghost Bitch\Drumtracks - Ghost Bitch_RAW\24_BackingVox6.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    25_BackingVox7.wav:
+      Track_path: Drumtracks - Ghost Bitch\Drumtracks - Ghost Bitch_RAW\25_BackingVox7.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Unused:
+    03_SnareDown.wav:
+      Track_path: Drumtracks - Ghost Bitch\Drumtracks - Ghost Bitch_RAW\03_SnareDown.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Ambient_Microphone: {}

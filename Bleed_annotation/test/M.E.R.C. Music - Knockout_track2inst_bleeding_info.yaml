@@ -1,0 +1,338 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer:
+    19_SynthLead1.wav:
+      Track_path: M.E.R.C. Music - Knockout\M.E.R.C. Music - Knockout_RAW\19_SynthLead1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    20_SynthLead2.wav:
+      Track_path: M.E.R.C. Music - Knockout\M.E.R.C. Music - Knockout_RAW\20_SynthLead2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    21_SynthPad1.wav:
+      Track_path: M.E.R.C. Music - Knockout\M.E.R.C. Music - Knockout_RAW\21_SynthPad1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    22_SynthPad2.wav:
+      Track_path: M.E.R.C. Music - Knockout\M.E.R.C. Music - Knockout_RAW\22_SynthPad2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    23_SynthSaw.wav:
+      Track_path: M.E.R.C. Music - Knockout\M.E.R.C. Music - Knockout_RAW\23_SynthSaw.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    24_SynthFill1.wav:
+      Track_path: M.E.R.C. Music - Knockout\M.E.R.C. Music - Knockout_RAW\24_SynthFill1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    25_SynthFill2.wav:
+      Track_path: M.E.R.C. Music - Knockout\M.E.R.C. Music - Knockout_RAW\25_SynthFill2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    26_SynthFill3.wav:
+      Track_path: M.E.R.C. Music - Knockout\M.E.R.C. Music - Knockout_RAW\26_SynthFill3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  SFX:
+    13_Hit.wav:
+      Track_path: M.E.R.C. Music - Knockout\M.E.R.C. Music - Knockout_RAW\13_Hit.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    27_SynthSFX1.wav:
+      Track_path: M.E.R.C. Music - Knockout\M.E.R.C. Music - Knockout_RAW\27_SynthSFX1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    28_SynthSFX2.wav:
+      Track_path: M.E.R.C. Music - Knockout\M.E.R.C. Music - Knockout_RAW\28_SynthSFX2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    29_SynthSFX3.wav:
+      Track_path: M.E.R.C. Music - Knockout\M.E.R.C. Music - Knockout_RAW\29_SynthSFX3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    01_Kick1.wav:
+      Track_path: M.E.R.C. Music - Knockout\M.E.R.C. Music - Knockout_RAW\01_Kick1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    02_Kick2.wav:
+      Track_path: M.E.R.C. Music - Knockout\M.E.R.C. Music - Knockout_RAW\02_Kick2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    03_Kick3.wav:
+      Track_path: M.E.R.C. Music - Knockout\M.E.R.C. Music - Knockout_RAW\03_Kick3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Snare:
+    04_Snare1.wav:
+      Track_path: M.E.R.C. Music - Knockout\M.E.R.C. Music - Knockout_RAW\04_Snare1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    05_Snare2.wav:
+      Track_path: M.E.R.C. Music - Knockout\M.E.R.C. Music - Knockout_RAW\05_Snare2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    06_Snare3.wav:
+      Track_path: M.E.R.C. Music - Knockout\M.E.R.C. Music - Knockout_RAW\06_Snare3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    07_Snare4.wav:
+      Track_path: M.E.R.C. Music - Knockout\M.E.R.C. Music - Knockout_RAW\07_Snare4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    08_Snare5.wav:
+      Track_path: M.E.R.C. Music - Knockout\M.E.R.C. Music - Knockout_RAW\08_Snare5.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_HiHat:
+    10_HiHatClosed.wav:
+      Track_path: M.E.R.C. Music - Knockout\M.E.R.C. Music - Knockout_RAW\10_HiHatClosed.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    11_HiHatOpen.wav:
+      Track_path: M.E.R.C. Music - Knockout\M.E.R.C. Music - Knockout_RAW\11_HiHatOpen.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Cymbals:
+    12_Ride.wav:
+      Track_path: M.E.R.C. Music - Knockout\M.E.R.C. Music - Knockout_RAW\12_Ride.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    14_Cymbal1.wav:
+      Track_path: M.E.R.C. Music - Knockout\M.E.R.C. Music - Knockout_RAW\14_Cymbal1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    15_Cymbal2.wav:
+      Track_path: M.E.R.C. Music - Knockout\M.E.R.C. Music - Knockout_RAW\15_Cymbal2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    16_Cymbal3.wav:
+      Track_path: M.E.R.C. Music - Knockout\M.E.R.C. Music - Knockout_RAW\16_Cymbal3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Overheads: {}
+  Drum_Tom: {}
+  Drum_Room: {}
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop: {}
+  Clicks: {}
+  Claps:
+    09_Clap.wav:
+      Track_path: M.E.R.C. Music - Knockout\M.E.R.C. Music - Knockout_RAW\09_Clap.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass: {}
+  Electric_Bass:
+    17_Bass.wav:
+      Track_path: M.E.R.C. Music - Knockout\M.E.R.C. Music - Knockout_RAW\17_Bass.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Acoustic_Guitar: {}
+  Electric_Guitar: {}
+  Piano:
+    18_Piano.wav:
+      Track_path: M.E.R.C. Music - Knockout\M.E.R.C. Music - Knockout_RAW\18_Piano.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn:
+    31_Horns.wav:
+      Track_path: M.E.R.C. Music - Knockout\M.E.R.C. Music - Knockout_RAW\31_Horns.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Trombone: {}
+  Tuba:
+    30_Tubas.wav:
+      Track_path: M.E.R.C. Music - Knockout\M.E.R.C. Music - Knockout_RAW\30_Tubas.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin:
+    32_Violin.wav:
+      Track_path: M.E.R.C. Music - Knockout\M.E.R.C. Music - Knockout_RAW\32_Violin.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    35_LeadVoxCh.wav:
+      Track_path: M.E.R.C. Music - Knockout\M.E.R.C. Music - Knockout_RAW\35_LeadVoxCh.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    36_LeadVoxChDT1.wav:
+      Track_path: M.E.R.C. Music - Knockout\M.E.R.C. Music - Knockout_RAW\36_LeadVoxChDT1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    37_LeadVoxChDT2.wav:
+      Track_path: M.E.R.C. Music - Knockout\M.E.R.C. Music - Knockout_RAW\37_LeadVoxChDT2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    40_LeadVoxVs1.wav:
+      Track_path: M.E.R.C. Music - Knockout\M.E.R.C. Music - Knockout_RAW\40_LeadVoxVs1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    41_LeadVoxVs1DT1.wav:
+      Track_path: M.E.R.C. Music - Knockout\M.E.R.C. Music - Knockout_RAW\41_LeadVoxVs1DT1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    42_LeadVoxVs1DT2.wav:
+      Track_path: M.E.R.C. Music - Knockout\M.E.R.C. Music - Knockout_RAW\42_LeadVoxVs1DT2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    43_LeadVoxVs1SFX.wav:
+      Track_path: M.E.R.C. Music - Knockout\M.E.R.C. Music - Knockout_RAW\43_LeadVoxVs1SFX.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    44_LeadVoxVs2.wav:
+      Track_path: M.E.R.C. Music - Knockout\M.E.R.C. Music - Knockout_RAW\44_LeadVoxVs2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    45_LeadVoxVs2DT1.wav:
+      Track_path: M.E.R.C. Music - Knockout\M.E.R.C. Music - Knockout_RAW\45_LeadVoxVs2DT1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    46_LeadVoxVs2DT2.wav:
+      Track_path: M.E.R.C. Music - Knockout\M.E.R.C. Music - Knockout_RAW\46_LeadVoxVs2DT2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    47_LeadVoxVs2SFX.wav:
+      Track_path: M.E.R.C. Music - Knockout\M.E.R.C. Music - Knockout_RAW\47_LeadVoxVs2SFX.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    48_LeadVoxBr1.wav:
+      Track_path: M.E.R.C. Music - Knockout\M.E.R.C. Music - Knockout_RAW\48_LeadVoxBr1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    49_LeadVoxBr2.wav:
+      Track_path: M.E.R.C. Music - Knockout\M.E.R.C. Music - Knockout_RAW\49_LeadVoxBr2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Choir: {}
+  Backing_Vocal:
+    33_VoxIntro1.wav:
+      Track_path: M.E.R.C. Music - Knockout\M.E.R.C. Music - Knockout_RAW\33_VoxIntro1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    34_VoxIntro2.wav:
+      Track_path: M.E.R.C. Music - Knockout\M.E.R.C. Music - Knockout_RAW\34_VoxIntro2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    38_BackingVoxCh1.wav:
+      Track_path: M.E.R.C. Music - Knockout\M.E.R.C. Music - Knockout_RAW\38_BackingVoxCh1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    39_BackingVoxCh2.wav:
+      Track_path: M.E.R.C. Music - Knockout\M.E.R.C. Music - Knockout_RAW\39_BackingVoxCh2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    50_BackingVoxBr1.wav:
+      Track_path: M.E.R.C. Music - Knockout\M.E.R.C. Music - Knockout_RAW\50_BackingVoxBr1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    51_BackingVoxBr2.wav:
+      Track_path: M.E.R.C. Music - Knockout\M.E.R.C. Music - Knockout_RAW\51_BackingVoxBr2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    52_BackingVoxBr3.wav:
+      Track_path: M.E.R.C. Music - Knockout\M.E.R.C. Music - Knockout_RAW\52_BackingVoxBr3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    53_BackingVoxBr4.wav:
+      Track_path: M.E.R.C. Music - Knockout\M.E.R.C. Music - Knockout_RAW\53_BackingVoxBr4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Unused: {}
+  Ambient_Microphone: {}

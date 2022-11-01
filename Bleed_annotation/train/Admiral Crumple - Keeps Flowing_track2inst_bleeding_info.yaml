@@ -1,0 +1,123 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer: {}
+  SFX:
+    10_Scream.wav:
+      Track_path: Admiral Crumple - Keeps Flowing\Admiral Crumple - Keeps Flowing_RAW\10_Scream.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    01_Kick1.wav:
+      Track_path: Admiral Crumple - Keeps Flowing\Admiral Crumple - Keeps Flowing_RAW\01_Kick1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    02_Kick2.wav:
+      Track_path: Admiral Crumple - Keeps Flowing\Admiral Crumple - Keeps Flowing_RAW\02_Kick2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Snare:
+    03_Snare.wav:
+      Track_path: Admiral Crumple - Keeps Flowing\Admiral Crumple - Keeps Flowing_RAW\03_Snare.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_HiHat:
+    04_Hat1.wav:
+      Track_path: Admiral Crumple - Keeps Flowing\Admiral Crumple - Keeps Flowing_RAW\04_Hat1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    05_Hat2.wav:
+      Track_path: Admiral Crumple - Keeps Flowing\Admiral Crumple - Keeps Flowing_RAW\05_Hat2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Cymbals: {}
+  Drum_Overheads: {}
+  Drum_Tom: {}
+  Drum_Room: {}
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop: {}
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass: {}
+  Electric_Bass: {}
+  Acoustic_Guitar: {}
+  Electric_Guitar: {}
+  Piano: {}
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    07_LeadVox.wav:
+      Track_path: Admiral Crumple - Keeps Flowing\Admiral Crumple - Keeps Flowing_RAW\07_LeadVox.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    08_LeadVoxDouble1.wav:
+      Track_path: Admiral Crumple - Keeps Flowing\Admiral Crumple - Keeps Flowing_RAW\08_LeadVoxDouble1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    09_LeadVoxDouble2.wav:
+      Track_path: Admiral Crumple - Keeps Flowing\Admiral Crumple - Keeps Flowing_RAW\09_LeadVoxDouble2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Choir: {}
+  Backing_Vocal: {}
+  Unused:
+    06_Sample.wav:
+      Track_path: Admiral Crumple - Keeps Flowing\Admiral Crumple - Keeps Flowing_RAW\06_Sample.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: 'Moved 06_Sample.wav to Unused since it is not an instrument.'
+  Ambient_Microphone: {}

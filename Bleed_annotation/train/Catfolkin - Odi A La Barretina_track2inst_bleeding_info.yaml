@@ -1,0 +1,368 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer: {}
+  SFX: {}
+  Marimba: {}
+  Bell: {}
+  Accordian:
+    27_Accordion.wav:
+      Track_path: Catfolkin - Odi A La Barretina\Catfolkin - Odi A La Barretina_RAW\27_Accordion.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    01_KickIn.wav:
+      Track_path: Catfolkin - Odi A La Barretina\Catfolkin - Odi A La Barretina_RAW\01_KickIn.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    02_KickOut.wav:
+      Track_path: Catfolkin - Odi A La Barretina\Catfolkin - Odi A La Barretina_RAW\02_KickOut.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_Snare:
+    03_SnareUp.wav:
+      Track_path: Catfolkin - Odi A La Barretina\Catfolkin - Odi A La Barretina_RAW\03_SnareUp.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    04_SnareDown.wav:
+      Track_path: Catfolkin - Odi A La Barretina\Catfolkin - Odi A La Barretina_RAW\04_SnareDown.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_HiHat:
+    09_HiHat.wav:
+      Track_path: Catfolkin - Odi A La Barretina\Catfolkin - Odi A La Barretina_RAW\09_HiHat.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_Cymbals:
+    10_Ride.wav:
+      Track_path: Catfolkin - Odi A La Barretina\Catfolkin - Odi A La Barretina_RAW\10_Ride.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_Overheads:
+    11_Overheads.wav:
+      Track_path: Catfolkin - Odi A La Barretina\Catfolkin - Odi A La Barretina_RAW\11_Overheads.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Tom:
+    05_Tom1.wav:
+      Track_path: Catfolkin - Odi A La Barretina\Catfolkin - Odi A La Barretina_RAW\05_Tom1.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    06_Tom2.wav:
+      Track_path: Catfolkin - Odi A La Barretina\Catfolkin - Odi A La Barretina_RAW\06_Tom2.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    07_Tom3.wav:
+      Track_path: Catfolkin - Odi A La Barretina\Catfolkin - Odi A La Barretina_RAW\07_Tom3.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    08_Tom4.wav:
+      Track_path: Catfolkin - Odi A La Barretina\Catfolkin - Odi A La Barretina_RAW\08_Tom4.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_Room:
+    12_DrumsRoom.wav:
+      Track_path: Catfolkin - Odi A La Barretina\Catfolkin - Odi A La Barretina_RAW\12_DrumsRoom.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop: {}
+  Clicks: {}
+  Claps:
+    13_Claps.wav:
+      Track_path: Catfolkin - Odi A La Barretina\Catfolkin - Odi A La Barretina_RAW\13_Claps.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass: {}
+  Electric_Bass:
+    14_Bass.wav:
+      Track_path: Catfolkin - Odi A La Barretina\Catfolkin - Odi A La Barretina_RAW\14_Bass.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Acoustic_Guitar: {}
+  Electric_Guitar:
+    15_ElecGtr1.wav:
+      Track_path: Catfolkin - Odi A La Barretina\Catfolkin - Odi A La Barretina_RAW\15_ElecGtr1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    16_ElecGtr1DT.wav:
+      Track_path: Catfolkin - Odi A La Barretina\Catfolkin - Odi A La Barretina_RAW\16_ElecGtr1DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    17_ElecGtr2.wav:
+      Track_path: Catfolkin - Odi A La Barretina\Catfolkin - Odi A La Barretina_RAW\17_ElecGtr2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    18_ElecGtr2DT.wav:
+      Track_path: Catfolkin - Odi A La Barretina\Catfolkin - Odi A La Barretina_RAW\18_ElecGtr2DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    19_ElecGtr3.wav:
+      Track_path: Catfolkin - Odi A La Barretina\Catfolkin - Odi A La Barretina_RAW\19_ElecGtr3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    20_ElecGtr3DT.wav:
+      Track_path: Catfolkin - Odi A La Barretina\Catfolkin - Odi A La Barretina_RAW\20_ElecGtr3DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    21_ElecGtr4.wav:
+      Track_path: Catfolkin - Odi A La Barretina\Catfolkin - Odi A La Barretina_RAW\21_ElecGtr4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    22_ElecGtr4DT.wav:
+      Track_path: Catfolkin - Odi A La Barretina\Catfolkin - Odi A La Barretina_RAW\22_ElecGtr4DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    23_ElecGtr5.wav:
+      Track_path: Catfolkin - Odi A La Barretina\Catfolkin - Odi A La Barretina_RAW\23_ElecGtr5.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    24_ElecGtr5DT.wav:
+      Track_path: Catfolkin - Odi A La Barretina\Catfolkin - Odi A La Barretina_RAW\24_ElecGtr5DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    25_ElecGtr6.wav:
+      Track_path: Catfolkin - Odi A La Barretina\Catfolkin - Odi A La Barretina_RAW\25_ElecGtr6.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    26_ElecGtr7.wav:
+      Track_path: Catfolkin - Odi A La Barretina\Catfolkin - Odi A La Barretina_RAW\26_ElecGtr7.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Piano: {}
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin:
+    29_Violin.wav:
+      Track_path: Catfolkin - Odi A La Barretina\Catfolkin - Odi A La Barretina_RAW\29_Violin.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Viola: {}
+  Cello: {}
+  Flute:
+    28_Flute.wav:
+      Track_path: Catfolkin - Odi A La Barretina\Catfolkin - Odi A La Barretina_RAW\28_Flute.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    30_LeadVox.wav:
+      Track_path: Catfolkin - Odi A La Barretina\Catfolkin - Odi A La Barretina_RAW\30_LeadVox.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Choir: {}
+  Backing_Vocal:
+    31_BackingVox1.wav:
+      Track_path: Catfolkin - Odi A La Barretina\Catfolkin - Odi A La Barretina_RAW\31_BackingVox1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    32_BackingVox1DT1.wav:
+      Track_path: Catfolkin - Odi A La Barretina\Catfolkin - Odi A La Barretina_RAW\32_BackingVox1DT1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    33_BackingVox1DT2.wav:
+      Track_path: Catfolkin - Odi A La Barretina\Catfolkin - Odi A La Barretina_RAW\33_BackingVox1DT2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    34_BackingVox2.wav:
+      Track_path: Catfolkin - Odi A La Barretina\Catfolkin - Odi A La Barretina_RAW\34_BackingVox2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    35_BackingVox2DT.wav:
+      Track_path: Catfolkin - Odi A La Barretina\Catfolkin - Odi A La Barretina_RAW\35_BackingVox2DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    36_BackingVox3.wav:
+      Track_path: Catfolkin - Odi A La Barretina\Catfolkin - Odi A La Barretina_RAW\36_BackingVox3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    37_BackingVox3DT1.wav:
+      Track_path: Catfolkin - Odi A La Barretina\Catfolkin - Odi A La Barretina_RAW\37_BackingVox3DT1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    38_BackingVox3DT2.wav:
+      Track_path: Catfolkin - Odi A La Barretina\Catfolkin - Odi A La Barretina_RAW\38_BackingVox3DT2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    39_BackingVox3DT3.wav:
+      Track_path: Catfolkin - Odi A La Barretina\Catfolkin - Odi A La Barretina_RAW\39_BackingVox3DT3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    40_BackingVox4.wav:
+      Track_path: Catfolkin - Odi A La Barretina\Catfolkin - Odi A La Barretina_RAW\40_BackingVox4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    41_BackingVox4DT1.wav:
+      Track_path: Catfolkin - Odi A La Barretina\Catfolkin - Odi A La Barretina_RAW\41_BackingVox4DT1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    42_BackingVox4DT2.wav:
+      Track_path: Catfolkin - Odi A La Barretina\Catfolkin - Odi A La Barretina_RAW\42_BackingVox4DT2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    43_BackingVox4DT3.wav:
+      Track_path: Catfolkin - Odi A La Barretina\Catfolkin - Odi A La Barretina_RAW\43_BackingVox4DT3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    44_BackingVox4DT4.wav:
+      Track_path: Catfolkin - Odi A La Barretina\Catfolkin - Odi A La Barretina_RAW\44_BackingVox4DT4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    45_BackingVox5.wav:
+      Track_path: Catfolkin - Odi A La Barretina\Catfolkin - Odi A La Barretina_RAW\45_BackingVox5.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    46_BackingVox5DT1.wav:
+      Track_path: Catfolkin - Odi A La Barretina\Catfolkin - Odi A La Barretina_RAW\46_BackingVox5DT1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    47_BackingVox5DT2.wav:
+      Track_path: Catfolkin - Odi A La Barretina\Catfolkin - Odi A La Barretina_RAW\47_BackingVox5DT2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    48_BackingVox5DT3.wav:
+      Track_path: Catfolkin - Odi A La Barretina\Catfolkin - Odi A La Barretina_RAW\48_BackingVox5DT3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    49_BackingVox5DT4.wav:
+      Track_path: Catfolkin - Odi A La Barretina\Catfolkin - Odi A La Barretina_RAW\49_BackingVox5DT4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    50_BackingVox6.wav:
+      Track_path: Catfolkin - Odi A La Barretina\Catfolkin - Odi A La Barretina_RAW\50_BackingVox6.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    51_BackingVox6DT.wav:
+      Track_path: Catfolkin - Odi A La Barretina\Catfolkin - Odi A La Barretina_RAW\51_BackingVox6DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    52_BackingVox7.wav:
+      Track_path: Catfolkin - Odi A La Barretina\Catfolkin - Odi A La Barretina_RAW\52_BackingVox7.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    53_BackingVox7DT.wav:
+      Track_path: Catfolkin - Odi A La Barretina\Catfolkin - Odi A La Barretina_RAW\53_BackingVox7DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    54_BackingVox8.wav:
+      Track_path: Catfolkin - Odi A La Barretina\Catfolkin - Odi A La Barretina_RAW\54_BackingVox8.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    55_BackingVox8DT1.wav:
+      Track_path: Catfolkin - Odi A La Barretina\Catfolkin - Odi A La Barretina_RAW\55_BackingVox8DT1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    56_BackingVox8DT2.wav:
+      Track_path: Catfolkin - Odi A La Barretina\Catfolkin - Odi A La Barretina_RAW\56_BackingVox8DT2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    57_BackingVox8DT3.wav:
+      Track_path: Catfolkin - Odi A La Barretina\Catfolkin - Odi A La Barretina_RAW\57_BackingVox8DT3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    58_BackingVox9.wav:
+      Track_path: Catfolkin - Odi A La Barretina\Catfolkin - Odi A La Barretina_RAW\58_BackingVox9.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    59_BackingVox9DT.wav:
+      Track_path: Catfolkin - Odi A La Barretina\Catfolkin - Odi A La Barretina_RAW\59_BackingVox9DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Unused: {}
+  Ambient_Microphone: {}

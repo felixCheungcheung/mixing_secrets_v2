@@ -1,0 +1,558 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer:
+    43_Clavinet.wav:
+      Track_path: Kangoro - Clinic A\Kangoro - Clinic A_RAW\43_Clavinet.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    26_Synth01.wav:
+      Track_path: Kangoro - Clinic A\Kangoro - Clinic A_RAW\26_Synth01.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    27_Synth02.wav:
+      Track_path: Kangoro - Clinic A\Kangoro - Clinic A_RAW\27_Synth02.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    28_Synth03.wav:
+      Track_path: Kangoro - Clinic A\Kangoro - Clinic A_RAW\28_Synth03.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    29_Synth04.wav:
+      Track_path: Kangoro - Clinic A\Kangoro - Clinic A_RAW\29_Synth04.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    30_Synth05.wav:
+      Track_path: Kangoro - Clinic A\Kangoro - Clinic A_RAW\30_Synth05.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    31_Synth06.wav:
+      Track_path: Kangoro - Clinic A\Kangoro - Clinic A_RAW\31_Synth06.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    32_Synth07.wav:
+      Track_path: Kangoro - Clinic A\Kangoro - Clinic A_RAW\32_Synth07.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    33_Synth08.wav:
+      Track_path: Kangoro - Clinic A\Kangoro - Clinic A_RAW\33_Synth08.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    34_Synth09.wav:
+      Track_path: Kangoro - Clinic A\Kangoro - Clinic A_RAW\34_Synth09.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    35_Synth10.wav:
+      Track_path: Kangoro - Clinic A\Kangoro - Clinic A_RAW\35_Synth10.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    36_Synth11.wav:
+      Track_path: Kangoro - Clinic A\Kangoro - Clinic A_RAW\36_Synth11.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    37_Synth12.wav:
+      Track_path: Kangoro - Clinic A\Kangoro - Clinic A_RAW\37_Synth12.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    38_Synth13.wav:
+      Track_path: Kangoro - Clinic A\Kangoro - Clinic A_RAW\38_Synth13.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    39_Synth14.wav:
+      Track_path: Kangoro - Clinic A\Kangoro - Clinic A_RAW\39_Synth14.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    40_Synth15.wav:
+      Track_path: Kangoro - Clinic A\Kangoro - Clinic A_RAW\40_Synth15.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    41_Synth16.wav:
+      Track_path: Kangoro - Clinic A\Kangoro - Clinic A_RAW\41_Synth16.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    42_Synth17.wav:
+      Track_path: Kangoro - Clinic A\Kangoro - Clinic A_RAW\42_Synth17.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  SFX:
+    59_SFX01.wav:
+      Track_path: Kangoro - Clinic A\Kangoro - Clinic A_RAW\59_SFX01.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    60_SFX02.wav:
+      Track_path: Kangoro - Clinic A\Kangoro - Clinic A_RAW\60_SFX02.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    61_SFX03.wav:
+      Track_path: Kangoro - Clinic A\Kangoro - Clinic A_RAW\61_SFX03.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    62_SFX04.wav:
+      Track_path: Kangoro - Clinic A\Kangoro - Clinic A_RAW\62_SFX04.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    63_SFX05.wav:
+      Track_path: Kangoro - Clinic A\Kangoro - Clinic A_RAW\63_SFX05.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    64_SFX06.wav:
+      Track_path: Kangoro - Clinic A\Kangoro - Clinic A_RAW\64_SFX06.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    65_SFX07.wav:
+      Track_path: Kangoro - Clinic A\Kangoro - Clinic A_RAW\65_SFX07.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    66_SFX08.wav:
+      Track_path: Kangoro - Clinic A\Kangoro - Clinic A_RAW\66_SFX08.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    67_SFX09.wav:
+      Track_path: Kangoro - Clinic A\Kangoro - Clinic A_RAW\67_SFX09.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    68_SFX10.wav:
+      Track_path: Kangoro - Clinic A\Kangoro - Clinic A_RAW\68_SFX10.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    69_SFX11.wav:
+      Track_path: Kangoro - Clinic A\Kangoro - Clinic A_RAW\69_SFX11.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    70_SFX12.wav:
+      Track_path: Kangoro - Clinic A\Kangoro - Clinic A_RAW\70_SFX12.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    71_SFX13.wav:
+      Track_path: Kangoro - Clinic A\Kangoro - Clinic A_RAW\71_SFX13.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    72_SFX14.wav:
+      Track_path: Kangoro - Clinic A\Kangoro - Clinic A_RAW\72_SFX14.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    73_SFX15.wav:
+      Track_path: Kangoro - Clinic A\Kangoro - Clinic A_RAW\73_SFX15.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    74_SFX16.wav:
+      Track_path: Kangoro - Clinic A\Kangoro - Clinic A_RAW\74_SFX16.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    75_SFX17.wav:
+      Track_path: Kangoro - Clinic A\Kangoro - Clinic A_RAW\75_SFX17.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    76_SFX18.wav:
+      Track_path: Kangoro - Clinic A\Kangoro - Clinic A_RAW\76_SFX18.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    77_SFX19.wav:
+      Track_path: Kangoro - Clinic A\Kangoro - Clinic A_RAW\77_SFX19.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    78_SFX20.wav:
+      Track_path: Kangoro - Clinic A\Kangoro - Clinic A_RAW\78_SFX20.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    79_SFX21.wav:
+      Track_path: Kangoro - Clinic A\Kangoro - Clinic A_RAW\79_SFX21.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    80_SFX22.wav:
+      Track_path: Kangoro - Clinic A\Kangoro - Clinic A_RAW\80_SFX22.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    81_SFX23.wav:
+      Track_path: Kangoro - Clinic A\Kangoro - Clinic A_RAW\81_SFX23.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    82_SFX24.wav:
+      Track_path: Kangoro - Clinic A\Kangoro - Clinic A_RAW\82_SFX24.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    83_SFX25.wav:
+      Track_path: Kangoro - Clinic A\Kangoro - Clinic A_RAW\83_SFX25.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    84_SFX26.wav:
+      Track_path: Kangoro - Clinic A\Kangoro - Clinic A_RAW\84_SFX26.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    85_SFX27.wav:
+      Track_path: Kangoro - Clinic A\Kangoro - Clinic A_RAW\85_SFX27.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    01_Kick1.wav:
+      Track_path: Kangoro - Clinic A\Kangoro - Clinic A_RAW\01_Kick1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    02_Kick2.wav:
+      Track_path: Kangoro - Clinic A\Kangoro - Clinic A_RAW\02_Kick2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    03_Kick3.wav:
+      Track_path: Kangoro - Clinic A\Kangoro - Clinic A_RAW\03_Kick3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    04_Kick4.wav:
+      Track_path: Kangoro - Clinic A\Kangoro - Clinic A_RAW\04_Kick4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Snare:
+    05_Snare1.wav:
+      Track_path: Kangoro - Clinic A\Kangoro - Clinic A_RAW\05_Snare1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    06_Snare2.wav:
+      Track_path: Kangoro - Clinic A\Kangoro - Clinic A_RAW\06_Snare2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    07_Snare3Sub.wav:
+      Track_path: Kangoro - Clinic A\Kangoro - Clinic A_RAW\07_Snare3Sub.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_HiHat:
+    08_Hat1.wav:
+      Track_path: Kangoro - Clinic A\Kangoro - Clinic A_RAW\08_Hat1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    09_Hat2.wav:
+      Track_path: Kangoro - Clinic A\Kangoro - Clinic A_RAW\09_Hat2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    10_Hat3.wav:
+      Track_path: Kangoro - Clinic A\Kangoro - Clinic A_RAW\10_Hat3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    11_Hat4.wav:
+      Track_path: Kangoro - Clinic A\Kangoro - Clinic A_RAW\11_Hat4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    12_Hat5.wav:
+      Track_path: Kangoro - Clinic A\Kangoro - Clinic A_RAW\12_Hat5.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    13_Hat6.wav:
+      Track_path: Kangoro - Clinic A\Kangoro - Clinic A_RAW\13_Hat6.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Cymbals:
+    20_CymbalRolls.wav:
+      Track_path: Kangoro - Clinic A\Kangoro - Clinic A_RAW\20_CymbalRolls.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Overheads:
+    15_Drums.wav:
+      Track_path: Kangoro - Clinic A\Kangoro - Clinic A_RAW\15_Drums.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Tom: {}
+  Drum_Room: {}
+  Shaker: {}
+  Taiko: {}
+  Timpani:
+    16_Timpani1.wav:
+      Track_path: Kangoro - Clinic A\Kangoro - Clinic A_RAW\16_Timpani1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    17_Timpani2.wav:
+      Track_path: Kangoro - Clinic A\Kangoro - Clinic A_RAW\17_Timpani2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    18_Timpani3.wav:
+      Track_path: Kangoro - Clinic A\Kangoro - Clinic A_RAW\18_Timpani3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    19_Timpani4.wav:
+      Track_path: Kangoro - Clinic A\Kangoro - Clinic A_RAW\19_Timpani4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop: {}
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum:
+    21_BassDrum.wav:
+      Track_path: Kangoro - Clinic A\Kangoro - Clinic A_RAW\21_BassDrum.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion:
+    14_Percussion.wav:
+      Track_path: Kangoro - Clinic A\Kangoro - Clinic A_RAW\14_Percussion.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Synth_Bass: {}
+  Electric_Bass:
+    22_Bass1.wav:
+      Track_path: Kangoro - Clinic A\Kangoro - Clinic A_RAW\22_Bass1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    23_Bass2.wav:
+      Track_path: Kangoro - Clinic A\Kangoro - Clinic A_RAW\23_Bass2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    24_Bass3.wav:
+      Track_path: Kangoro - Clinic A\Kangoro - Clinic A_RAW\24_Bass3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    25_Bass4.wav:
+      Track_path: Kangoro - Clinic A\Kangoro - Clinic A_RAW\25_Bass4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Acoustic_Guitar:
+    58_AcGtr.wav:
+      Track_path: Kangoro - Clinic A\Kangoro - Clinic A_RAW\58_AcGtr.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Electric_Guitar: {}
+  Piano: {}
+  Electric_Piano: {}
+  Brass_Section:
+    57_Brass.wav:
+      Track_path: Kangoro - Clinic A\Kangoro - Clinic A_RAW\57_Brass.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section:
+    46_Strings1.wav:
+      Track_path: Kangoro - Clinic A\Kangoro - Clinic A_RAW\46_Strings1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    47_Strings2.wav:
+      Track_path: Kangoro - Clinic A\Kangoro - Clinic A_RAW\47_Strings2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    48_Strings3.wav:
+      Track_path: Kangoro - Clinic A\Kangoro - Clinic A_RAW\48_Strings3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    49_Strings4.wav:
+      Track_path: Kangoro - Clinic A\Kangoro - Clinic A_RAW\49_Strings4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    50_Strings5.wav:
+      Track_path: Kangoro - Clinic A\Kangoro - Clinic A_RAW\50_Strings5.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    51_Strings6.wav:
+      Track_path: Kangoro - Clinic A\Kangoro - Clinic A_RAW\51_Strings6.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    52_Strings7.wav:
+      Track_path: Kangoro - Clinic A\Kangoro - Clinic A_RAW\52_Strings7.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    53_Strings8.wav:
+      Track_path: Kangoro - Clinic A\Kangoro - Clinic A_RAW\53_Strings8.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    54_Strings9.wav:
+      Track_path: Kangoro - Clinic A\Kangoro - Clinic A_RAW\54_Strings9.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    56_Cello.wav:
+      Track_path: Kangoro - Clinic A\Kangoro - Clinic A_RAW\56_Cello.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute:
+    55_Flute.wav:
+      Track_path: Kangoro - Clinic A\Kangoro - Clinic A_RAW\55_Flute.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    86_LeadVox1a.wav:
+      Track_path: Kangoro - Clinic A\Kangoro - Clinic A_RAW\86_LeadVox1a.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    87_LeadVox1b.wav:
+      Track_path: Kangoro - Clinic A\Kangoro - Clinic A_RAW\87_LeadVox1b.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    90_LeadVox2.wav:
+      Track_path: Kangoro - Clinic A\Kangoro - Clinic A_RAW\90_LeadVox2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    92_LeadVox3.wav:
+      Track_path: Kangoro - Clinic A\Kangoro - Clinic A_RAW\92_LeadVox3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    93_LeadVoxChorus1.wav:
+      Track_path: Kangoro - Clinic A\Kangoro - Clinic A_RAW\93_LeadVoxChorus1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    94_LeadVoxChorus2.wav:
+      Track_path: Kangoro - Clinic A\Kangoro - Clinic A_RAW\94_LeadVoxChorus2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Choir: {}
+  Backing_Vocal:
+    88_LeadVox1DT1.wav:
+      Track_path: Kangoro - Clinic A\Kangoro - Clinic A_RAW\88_LeadVox1DT1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    89_LeadVox1DT2.wav:
+      Track_path: Kangoro - Clinic A\Kangoro - Clinic A_RAW\89_LeadVox1DT2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    91_LeadVox2DT.wav:
+      Track_path: Kangoro - Clinic A\Kangoro - Clinic A_RAW\91_LeadVox2DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    95_LeadVoxChorus3.wav:
+      Track_path: Kangoro - Clinic A\Kangoro - Clinic A_RAW\95_LeadVoxChorus3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    96_LeadVoxChorus4.wav:
+      Track_path: Kangoro - Clinic A\Kangoro - Clinic A_RAW\96_LeadVoxChorus4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    97_LeadVoxChorus5.wav:
+      Track_path: Kangoro - Clinic A\Kangoro - Clinic A_RAW\97_LeadVoxChorus5.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Unused:
+    44_Orchestra1.wav:
+      Track_path: Kangoro - Clinic A\Kangoro - Clinic A_RAW\44_Orchestra1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    45_Orchestra2.wav:
+      Track_path: Kangoro - Clinic A\Kangoro - Clinic A_RAW\45_Orchestra2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Ambient_Microphone: {}

@@ -1,0 +1,193 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer: {}
+  SFX: {}
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    01_Kick.wav:
+      Track_path: Dunning Kruger - Sascha\Dunning Kruger - Sascha_RAW\01_Kick.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads, Electric_Guitar'
+      Comment: ''
+  Drum_Snare:
+    02_Snare.wav:
+      Track_path: Dunning Kruger - Sascha\Dunning Kruger - Sascha_RAW\02_Snare.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads, Electric_Guitar'
+      Comment: ''
+  Drum_HiHat: {}
+  Drum_Cymbals: {}
+  Drum_Overheads:
+    05_Overheads.wav:
+      Track_path: Dunning Kruger - Sascha\Dunning Kruger - Sascha_RAW\05_Overheads.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Electric_Guitar'
+      Comment: ''
+  Drum_Tom:
+    03_TomHi.wav:
+      Track_path: Dunning Kruger - Sascha\Dunning Kruger - Sascha_RAW\03_TomHi.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads, Electric_Guitar'
+      Comment: ''
+    04_TomLo.wav:
+      Track_path: Dunning Kruger - Sascha\Dunning Kruger - Sascha_RAW\04_TomLo.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads, Electric_Guitar'
+      Comment: ''
+  Drum_Room:
+    06_RoomStereo.wav:
+      Track_path: Dunning Kruger - Sascha\Dunning Kruger - Sascha_RAW\06_RoomStereo.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads, Electric_Guitar'
+      Comment: ''
+    07_RoomMono.wav:
+      Track_path: Dunning Kruger - Sascha\Dunning Kruger - Sascha_RAW\07_RoomMono.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads, Electric_Guitar'
+      Comment: ''
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop: {}
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass: {}
+  Electric_Bass:
+    09_BassAmp.wav:
+      Track_path: Dunning Kruger - Sascha\Dunning Kruger - Sascha_RAW\09_BassAmp.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Electric_Guitar, Drum_Overheads'
+      Comment: ''
+    08_BassDI.wav:
+      Track_path: Dunning Kruger - Sascha\Dunning Kruger - Sascha_RAW\08_BassDI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Acoustic_Guitar: {}
+  Electric_Guitar:
+    10_Gtr1.wav:
+      Track_path: Dunning Kruger - Sascha\Dunning Kruger - Sascha_RAW\10_Gtr1.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads'
+      Comment: ''
+    11_Gtr2.wav:
+      Track_path: Dunning Kruger - Sascha\Dunning Kruger - Sascha_RAW\11_Gtr2.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads'
+      Comment: ''
+    12_Gtr3.wav:
+      Track_path: Dunning Kruger - Sascha\Dunning Kruger - Sascha_RAW\12_Gtr3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    13_Gtr4.wav:
+      Track_path: Dunning Kruger - Sascha\Dunning Kruger - Sascha_RAW\13_Gtr4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    14_Gtr5.wav:
+      Track_path: Dunning Kruger - Sascha\Dunning Kruger - Sascha_RAW\14_Gtr5.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    15_Gtr6.wav:
+      Track_path: Dunning Kruger - Sascha\Dunning Kruger - Sascha_RAW\15_Gtr6.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    16_Gtr7.wav:
+      Track_path: Dunning Kruger - Sascha\Dunning Kruger - Sascha_RAW\16_Gtr7.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    17_Gtr8DI.wav:
+      Track_path: Dunning Kruger - Sascha\Dunning Kruger - Sascha_RAW\17_Gtr8DI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Piano: {}
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    18_LeadVox1.wav:
+      Track_path: Dunning Kruger - Sascha\Dunning Kruger - Sascha_RAW\18_LeadVox1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    19_LeadVox1DT.wav:
+      Track_path: Dunning Kruger - Sascha\Dunning Kruger - Sascha_RAW\19_LeadVox1DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    20_LeadVox2.wav:
+      Track_path: Dunning Kruger - Sascha\Dunning Kruger - Sascha_RAW\20_LeadVox2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Choir: {}
+  Backing_Vocal:
+    21_BackingVox1.wav:
+      Track_path: Dunning Kruger - Sascha\Dunning Kruger - Sascha_RAW\21_BackingVox1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    22_BackingVox2.wav:
+      Track_path: Dunning Kruger - Sascha\Dunning Kruger - Sascha_RAW\22_BackingVox2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    23_BackingVox3.wav:
+      Track_path: Dunning Kruger - Sascha\Dunning Kruger - Sascha_RAW\23_BackingVox3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    24_BackingVox4.wav:
+      Track_path: Dunning Kruger - Sascha\Dunning Kruger - Sascha_RAW\24_BackingVox4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Unused: {}
+  Ambient_Microphone: {}

@@ -1,0 +1,295 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer: {}
+  SFX: {}
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick: {}
+  Drum_Snare: {}
+  Drum_HiHat: {}
+  Drum_Cymbals: {}
+  Drum_Overheads: {}
+  Drum_Tom: {}
+  Drum_Room: {}
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop: {}
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass: {}
+  Electric_Bass: {}
+  Acoustic_Guitar:
+    04 Crosby Guitar Atlantis.wav:
+      Track_path: David Crosby - The Things We Do For Love\David Crosby - The Things
+        We Do For Love_RAW\04 Crosby Guitar Atlantis.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    05 Crosby Guitar DI.wav:
+      Track_path: David Crosby - The Things We Do For Love\David Crosby - The Things
+        We Do For Love_RAW\05 Crosby Guitar DI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    06 League 12 Strings 1.wav:
+      Track_path: David Crosby - The Things We Do For Love\David Crosby - The Things
+        We Do For Love_RAW\06 League 12 Strings 1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    07 League 12 Strings 2.wav:
+      Track_path: David Crosby - The Things We Do For Love\David Crosby - The Things
+        We Do For Love_RAW\07 League 12 Strings 2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Electric_Guitar:
+    08 Electric Guitar.wav:
+      Track_path: David Crosby - The Things We Do For Love\David Crosby - The Things
+        We Do For Love_RAW\08 Electric Guitar.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    09 Electric Guitar Octave.wav:
+      Track_path: David Crosby - The Things We Do For Love\David Crosby - The Things
+        We Do For Love_RAW\09 Electric Guitar Octave.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Piano: {}
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass:
+    01 Upright Bass 251.wav:
+      Track_path: David Crosby - The Things We Do For Love\David Crosby - The Things
+        We Do For Love_RAW\01 Upright Bass 251.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    02 Upright Bass 451.wav:
+      Track_path: David Crosby - The Things We Do For Love\David Crosby - The Things
+        We Do For Love_RAW\02 Upright Bass 451.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    03 Upright Bass RCA.wav:
+      Track_path: David Crosby - The Things We Do For Love\David Crosby - The Things
+        We Do For Love_RAW\03 Upright Bass RCA.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    10 Crosby Lead.wav:
+      Track_path: David Crosby - The Things We Do For Love\David Crosby - The Things
+        We Do For Love_RAW\10 Crosby Lead.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    11 Croby Lead CH.wav:
+      Track_path: David Crosby - The Things We Do For Love\David Crosby - The Things
+        We Do For Love_RAW\11 Croby Lead CH.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Choir: {}
+  Backing_Vocal:
+    12 Crosby CH Dble.wav:
+      Track_path: David Crosby - The Things We Do For Love\David Crosby - The Things
+        We Do For Love_RAW\12 Crosby CH Dble.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    13 Crosby CH Trple.wav:
+      Track_path: David Crosby - The Things We Do For Love\David Crosby - The Things
+        We Do For Love_RAW\13 Crosby CH Trple.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    30 Haaaa 1.wav:
+      Track_path: David Crosby - The Things We Do For Love\David Crosby - The Things
+        We Do For Love_RAW\30 Haaaa 1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    31 Haaaa 2.wav:
+      Track_path: David Crosby - The Things We Do For Love\David Crosby - The Things
+        We Do For Love_RAW\31 Haaaa 2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    32 Haaaa 3.wav:
+      Track_path: David Crosby - The Things We Do For Love\David Crosby - The Things
+        We Do For Love_RAW\32 Haaaa 3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    33 Haaaa 4.wav:
+      Track_path: David Crosby - The Things We Do For Love\David Crosby - The Things
+        We Do For Love_RAW\33 Haaaa 4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    34 Haaaa 5.wav:
+      Track_path: David Crosby - The Things We Do For Love\David Crosby - The Things
+        We Do For Love_RAW\34 Haaaa 5.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    35 Haaaa 6.wav:
+      Track_path: David Crosby - The Things We Do For Love\David Crosby - The Things
+        We Do For Love_RAW\35 Haaaa 6.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    36 Haaaa 7.wav:
+      Track_path: David Crosby - The Things We Do For Love\David Crosby - The Things
+        We Do For Love_RAW\36 Haaaa 7.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    37 Haaaa 8.wav:
+      Track_path: David Crosby - The Things We Do For Love\David Crosby - The Things
+        We Do For Love_RAW\37 Haaaa 8.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    14 Crosby CH Harm 1.wav:
+      Track_path: David Crosby - The Things We Do For Love\David Crosby - The Things
+        We Do For Love_RAW\14 Crosby CH Harm 1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    15 Crosby CH Harm 2.wav:
+      Track_path: David Crosby - The Things We Do For Love\David Crosby - The Things
+        We Do For Love_RAW\15 Crosby CH Harm 2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    16 Crosby CH Harm 3.wav:
+      Track_path: David Crosby - The Things We Do For Love\David Crosby - The Things
+        We Do For Love_RAW\16 Crosby CH Harm 3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    17 CH Harm 1.wav:
+      Track_path: David Crosby - The Things We Do For Love\David Crosby - The Things
+        We Do For Love_RAW\17 CH Harm 1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    18 CH Harm 2.wav:
+      Track_path: David Crosby - The Things We Do For Love\David Crosby - The Things
+        We Do For Love_RAW\18 CH Harm 2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    19 CH Harm 3.wav:
+      Track_path: David Crosby - The Things We Do For Love\David Crosby - The Things
+        We Do For Love_RAW\19 CH Harm 3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    20 Falsetto Harm 1.wav:
+      Track_path: David Crosby - The Things We Do For Love\David Crosby - The Things
+        We Do For Love_RAW\20 Falsetto Harm 1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    21 Falsetto Harm 2.wav:
+      Track_path: David Crosby - The Things We Do For Love\David Crosby - The Things
+        We Do For Love_RAW\21 Falsetto Harm 2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    22 Falsetto Harm 3.wav:
+      Track_path: David Crosby - The Things We Do For Love\David Crosby - The Things
+        We Do For Love_RAW\22 Falsetto Harm 3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    23 Falsetto Harm 4.wav:
+      Track_path: David Crosby - The Things We Do For Love\David Crosby - The Things
+        We Do For Love_RAW\23 Falsetto Harm 4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    24 Falsetto Harm 5.wav:
+      Track_path: David Crosby - The Things We Do For Love\David Crosby - The Things
+        We Do For Love_RAW\24 Falsetto Harm 5.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    25 Falsetto Harm 6.wav:
+      Track_path: David Crosby - The Things We Do For Love\David Crosby - The Things
+        We Do For Love_RAW\25 Falsetto Harm 6.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    26 Falsetto Harm 7.wav:
+      Track_path: David Crosby - The Things We Do For Love\David Crosby - The Things
+        We Do For Love_RAW\26 Falsetto Harm 7.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    27 Falsetto Harm 8.wav:
+      Track_path: David Crosby - The Things We Do For Love\David Crosby - The Things
+        We Do For Love_RAW\27 Falsetto Harm 8.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    28 Falsetto Harm 9.wav:
+      Track_path: David Crosby - The Things We Do For Love\David Crosby - The Things
+        We Do For Love_RAW\28 Falsetto Harm 9.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    29 Falsetto Harm 10.wav:
+      Track_path: David Crosby - The Things We Do For Love\David Crosby - The Things
+        We Do For Love_RAW\29 Falsetto Harm 10.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Unused: {}
+  Ambient_Microphone: {}

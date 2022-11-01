@@ -1,0 +1,138 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer: {}
+  SFX: {}
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    01_Kick.wav:
+      Track_path: Woodfire - Wealthy In Time\Woodfire - Wealthy In Time_RAW\01_Kick.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_Snare:
+    02_Snare.wav:
+      Track_path: Woodfire - Wealthy In Time\Woodfire - Wealthy In Time_RAW\02_Snare.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_HiHat: {}
+  Drum_Cymbals: {}
+  Drum_Overheads:
+    05_OverheadMono.wav:
+      Track_path: Woodfire - Wealthy In Time\Woodfire - Wealthy In Time_RAW\05_OverheadMono.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    06_OverheadStereo.wav:
+      Track_path: Woodfire - Wealthy In Time\Woodfire - Wealthy In Time_RAW\06_OverheadStereo.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Tom:
+    03_Tom1.wav:
+      Track_path: Woodfire - Wealthy In Time\Woodfire - Wealthy In Time_RAW\03_Tom1.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    04_Tom2.wav:
+      Track_path: Woodfire - Wealthy In Time\Woodfire - Wealthy In Time_RAW\04_Tom2.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_Room:
+    07_DrumsRoom.wav:
+      Track_path: Woodfire - Wealthy In Time\Woodfire - Wealthy In Time_RAW\07_DrumsRoom.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop: {}
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass: {}
+  Electric_Bass:
+    08_BassDI.wav:
+      Track_path: Woodfire - Wealthy In Time\Woodfire - Wealthy In Time_RAW\08_BassDI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Acoustic_Guitar: {}
+  Electric_Guitar:
+    09_ElecGtr01Mic1.wav:
+      Track_path: Woodfire - Wealthy In Time\Woodfire - Wealthy In Time_RAW\09_ElecGtr01Mic1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    10_ElecGtr01Mic2.wav:
+      Track_path: Woodfire - Wealthy In Time\Woodfire - Wealthy In Time_RAW\10_ElecGtr01Mic2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    11_ElecGtr02Mic1.wav:
+      Track_path: Woodfire - Wealthy In Time\Woodfire - Wealthy In Time_RAW\11_ElecGtr02Mic1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    12_ElecGtr02Mic2.wav:
+      Track_path: Woodfire - Wealthy In Time\Woodfire - Wealthy In Time_RAW\12_ElecGtr02Mic2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Piano: {}
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    13_LeadVox.wav:
+      Track_path: Woodfire - Wealthy In Time\Woodfire - Wealthy In Time_RAW\13_LeadVox.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Choir: {}
+  Backing_Vocal: {}
+  Unused: {}
+  Ambient_Microphone: {}

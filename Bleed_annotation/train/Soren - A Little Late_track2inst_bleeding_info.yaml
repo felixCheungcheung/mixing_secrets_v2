@@ -1,0 +1,278 @@
+Track2inst:
+  Electric_Organ:
+    23_Organ.wav:
+      Track_path: Soren - A Little Late\Soren - A Little Late_RAW\23_Organ.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Synthesizer:
+    24_Synth1.wav:
+      Track_path: Soren - A Little Late\Soren - A Little Late_RAW\24_Synth1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    25_Synth2.wav:
+      Track_path: Soren - A Little Late\Soren - A Little Late_RAW\25_Synth2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    26_Synth3.wav:
+      Track_path: Soren - A Little Late\Soren - A Little Late_RAW\26_Synth3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    27_Synth4.wav:
+      Track_path: Soren - A Little Late\Soren - A Little Late_RAW\27_Synth4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  SFX: {}
+  Marimba: {}
+  Bell:
+    09_Cowbell.wav:
+      Track_path: Soren - A Little Late\Soren - A Little Late_RAW\09_Cowbell.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    01_Kick1.wav:
+      Track_path: Soren - A Little Late\Soren - A Little Late_RAW\01_Kick1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    02_Kick2.wav:
+      Track_path: Soren - A Little Late\Soren - A Little Late_RAW\02_Kick2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    03_KickSub.wav:
+      Track_path: Soren - A Little Late\Soren - A Little Late_RAW\03_KickSub.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Snare:
+    04_Snare1.wav:
+      Track_path: Soren - A Little Late\Soren - A Little Late_RAW\04_Snare1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    05_Snare2.wav:
+      Track_path: Soren - A Little Late\Soren - A Little Late_RAW\05_Snare2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_HiHat:
+    14_HiHat.wav:
+      Track_path: Soren - A Little Late\Soren - A Little Late_RAW\14_HiHat.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Cymbals:
+    15_Cymbal1.wav:
+      Track_path: Soren - A Little Late\Soren - A Little Late_RAW\15_Cymbal1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    16_Cymbal2.wav:
+      Track_path: Soren - A Little Late\Soren - A Little Late_RAW\16_Cymbal2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    17_Cymbal3.wav:
+      Track_path: Soren - A Little Late\Soren - A Little Late_RAW\17_Cymbal3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    18_Cymbal4.wav:
+      Track_path: Soren - A Little Late\Soren - A Little Late_RAW\18_Cymbal4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Overheads: {}
+  Drum_Tom:
+    10_Tom1.wav:
+      Track_path: Soren - A Little Late\Soren - A Little Late_RAW\10_Tom1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    11_Tom2.wav:
+      Track_path: Soren - A Little Late\Soren - A Little Late_RAW\11_Tom2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    12_Tom3.wav:
+      Track_path: Soren - A Little Late\Soren - A Little Late_RAW\12_Tom3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    13_Tom4.wav:
+      Track_path: Soren - A Little Late\Soren - A Little Late_RAW\13_Tom4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Room: {}
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop: {}
+  Clicks: {}
+  Claps:
+    06_Clap1.wav:
+      Track_path: Soren - A Little Late\Soren - A Little Late_RAW\06_Clap1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    07_Clap2.wav:
+      Track_path: Soren - A Little Late\Soren - A Little Late_RAW\07_Clap2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    08_Clap3.wav:
+      Track_path: Soren - A Little Late\Soren - A Little Late_RAW\08_Clap3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass:
+    19_Bass1.wav:
+      Track_path: Soren - A Little Late\Soren - A Little Late_RAW\19_Bass1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    20_Bass2.wav:
+      Track_path: Soren - A Little Late\Soren - A Little Late_RAW\20_Bass2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Electric_Bass: {}
+  Acoustic_Guitar: {}
+  Electric_Guitar:
+    21_ElecGtrDI.wav:
+      Track_path: Soren - A Little Late\Soren - A Little Late_RAW\21_ElecGtrDI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    22_ElecGtrDTDI.wav:
+      Track_path: Soren - A Little Late\Soren - A Little Late_RAW\22_ElecGtrDTDI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Piano: {}
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone:
+    28_Sax1.wav:
+      Track_path: Soren - A Little Late\Soren - A Little Late_RAW\28_Sax1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    29_Sax2.wav:
+      Track_path: Soren - A Little Late\Soren - A Little Late_RAW\29_Sax2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    30_MIDISax1.wav:
+      Track_path: Soren - A Little Late\Soren - A Little Late_RAW\30_MIDISax1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    31_MIDISax2.wav:
+      Track_path: Soren - A Little Late\Soren - A Little Late_RAW\31_MIDISax2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    32_MIDISax3.wav:
+      Track_path: Soren - A Little Late\Soren - A Little Late_RAW\32_MIDISax3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    33_MIDISax4.wav:
+      Track_path: Soren - A Little Late\Soren - A Little Late_RAW\33_MIDISax4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    34_MIDISax5.wav:
+      Track_path: Soren - A Little Late\Soren - A Little Late_RAW\34_MIDISax5.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section:
+    35_MIDIViolin1.wav:
+      Track_path: Soren - A Little Late\Soren - A Little Late_RAW\35_MIDIViolin1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    36_MIDIViolin2.wav:
+      Track_path: Soren - A Little Late\Soren - A Little Late_RAW\36_MIDIViolin2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    37_LeadVox.wav:
+      Track_path: Soren - A Little Late\Soren - A Little Late_RAW\37_LeadVox.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    38_LeadVoxDT.wav:
+      Track_path: Soren - A Little Late\Soren - A Little Late_RAW\38_LeadVoxDT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Choir: {}
+  Backing_Vocal:
+    39_BackingVox1.wav:
+      Track_path: Soren - A Little Late\Soren - A Little Late_RAW\39_BackingVox1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    40_BackingVox2.wav:
+      Track_path: Soren - A Little Late\Soren - A Little Late_RAW\40_BackingVox2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    41_BackingVox3.wav:
+      Track_path: Soren - A Little Late\Soren - A Little Late_RAW\41_BackingVox3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Unused: {}
+  Ambient_Microphone: {}

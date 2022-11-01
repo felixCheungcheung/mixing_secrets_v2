@@ -1,0 +1,403 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer:
+    27_Synth1.wav:
+      Track_path: Kangoro - Bitch Is Paranoid\Kangoro - Bitch Is Paranoid_RAW\27_Synth1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    28_Synth2.wav:
+      Track_path: Kangoro - Bitch Is Paranoid\Kangoro - Bitch Is Paranoid_RAW\28_Synth2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    29_Synth3.wav:
+      Track_path: Kangoro - Bitch Is Paranoid\Kangoro - Bitch Is Paranoid_RAW\29_Synth3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    30_Synth4.wav:
+      Track_path: Kangoro - Bitch Is Paranoid\Kangoro - Bitch Is Paranoid_RAW\30_Synth4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    31_Synth5.wav:
+      Track_path: Kangoro - Bitch Is Paranoid\Kangoro - Bitch Is Paranoid_RAW\31_Synth5.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    32_Synth6.wav:
+      Track_path: Kangoro - Bitch Is Paranoid\Kangoro - Bitch Is Paranoid_RAW\32_Synth6.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  SFX:
+    09_SFX01.wav:
+      Track_path: Kangoro - Bitch Is Paranoid\Kangoro - Bitch Is Paranoid_RAW\09_SFX01.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    10_SFX02.wav:
+      Track_path: Kangoro - Bitch Is Paranoid\Kangoro - Bitch Is Paranoid_RAW\10_SFX02.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    11_SFX03.wav:
+      Track_path: Kangoro - Bitch Is Paranoid\Kangoro - Bitch Is Paranoid_RAW\11_SFX03.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    12_SFX04.wav:
+      Track_path: Kangoro - Bitch Is Paranoid\Kangoro - Bitch Is Paranoid_RAW\12_SFX04.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    13_SFX05.wav:
+      Track_path: Kangoro - Bitch Is Paranoid\Kangoro - Bitch Is Paranoid_RAW\13_SFX05.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    14_SFX06.wav:
+      Track_path: Kangoro - Bitch Is Paranoid\Kangoro - Bitch Is Paranoid_RAW\14_SFX06.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    15_SFX07.wav:
+      Track_path: Kangoro - Bitch Is Paranoid\Kangoro - Bitch Is Paranoid_RAW\15_SFX07.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    16_SFX08.wav:
+      Track_path: Kangoro - Bitch Is Paranoid\Kangoro - Bitch Is Paranoid_RAW\16_SFX08.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    17_SFX09.wav:
+      Track_path: Kangoro - Bitch Is Paranoid\Kangoro - Bitch Is Paranoid_RAW\17_SFX09.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    18_SFX10.wav:
+      Track_path: Kangoro - Bitch Is Paranoid\Kangoro - Bitch Is Paranoid_RAW\18_SFX10.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    01_Kick1.wav:
+      Track_path: Kangoro - Bitch Is Paranoid\Kangoro - Bitch Is Paranoid_RAW\01_Kick1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    02_Kick2.wav:
+      Track_path: Kangoro - Bitch Is Paranoid\Kangoro - Bitch Is Paranoid_RAW\02_Kick2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Snare:
+    04_Snare2.wav:
+      Track_path: Kangoro - Bitch Is Paranoid\Kangoro - Bitch Is Paranoid_RAW\04_Snare2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    03_Snare1.wav:
+      Track_path: Kangoro - Bitch Is Paranoid\Kangoro - Bitch Is Paranoid_RAW\03_Snare1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_HiHat:
+    06_HiHatSFX.wav:
+      Track_path: Kangoro - Bitch Is Paranoid\Kangoro - Bitch Is Paranoid_RAW\06_HiHatSFX.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Cymbals:
+    05_CymbalSFX.wav:
+      Track_path: Kangoro - Bitch Is Paranoid\Kangoro - Bitch Is Paranoid_RAW\05_CymbalSFX.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Overheads: {}
+  Drum_Tom: {}
+  Drum_Room: {}
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop:
+    07_Loop.wav:
+      Track_path: Kangoro - Bitch Is Paranoid\Kangoro - Bitch Is Paranoid_RAW\07_Loop.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    08_Breaks.wav:
+      Track_path: Kangoro - Bitch Is Paranoid\Kangoro - Bitch Is Paranoid_RAW\08_Breaks.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass:
+    19_Bass1Lo.wav:
+      Track_path: Kangoro - Bitch Is Paranoid\Kangoro - Bitch Is Paranoid_RAW\19_Bass1Lo.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    20_Bass1Hi.wav:
+      Track_path: Kangoro - Bitch Is Paranoid\Kangoro - Bitch Is Paranoid_RAW\20_Bass1Hi.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    21_Bass2.wav:
+      Track_path: Kangoro - Bitch Is Paranoid\Kangoro - Bitch Is Paranoid_RAW\21_Bass2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    22_Bass3.wav:
+      Track_path: Kangoro - Bitch Is Paranoid\Kangoro - Bitch Is Paranoid_RAW\22_Bass3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    23_Bass4.wav:
+      Track_path: Kangoro - Bitch Is Paranoid\Kangoro - Bitch Is Paranoid_RAW\23_Bass4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    24_Bass5.wav:
+      Track_path: Kangoro - Bitch Is Paranoid\Kangoro - Bitch Is Paranoid_RAW\24_Bass5.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    25_Bass6.wav:
+      Track_path: Kangoro - Bitch Is Paranoid\Kangoro - Bitch Is Paranoid_RAW\25_Bass6.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    26_Bass7.wav:
+      Track_path: Kangoro - Bitch Is Paranoid\Kangoro - Bitch Is Paranoid_RAW\26_Bass7.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Electric_Bass: {}
+  Acoustic_Guitar: {}
+  Electric_Guitar:
+    33_ElecGtr1.wav:
+      Track_path: Kangoro - Bitch Is Paranoid\Kangoro - Bitch Is Paranoid_RAW\33_ElecGtr1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    34_ElecGtr2.wav:
+      Track_path: Kangoro - Bitch Is Paranoid\Kangoro - Bitch Is Paranoid_RAW\34_ElecGtr2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    35_ElecGtr3.wav:
+      Track_path: Kangoro - Bitch Is Paranoid\Kangoro - Bitch Is Paranoid_RAW\35_ElecGtr3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    36_ElecGtr4.wav:
+      Track_path: Kangoro - Bitch Is Paranoid\Kangoro - Bitch Is Paranoid_RAW\36_ElecGtr4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Piano: {}
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    37_LeadVox1a.wav:
+      Track_path: Kangoro - Bitch Is Paranoid\Kangoro - Bitch Is Paranoid_RAW\37_LeadVox1a.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    38_LeadVox1b.wav:
+      Track_path: Kangoro - Bitch Is Paranoid\Kangoro - Bitch Is Paranoid_RAW\38_LeadVox1b.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    39_LeadVox2.wav:
+      Track_path: Kangoro - Bitch Is Paranoid\Kangoro - Bitch Is Paranoid_RAW\39_LeadVox2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    40_LeadVox3.wav:
+      Track_path: Kangoro - Bitch Is Paranoid\Kangoro - Bitch Is Paranoid_RAW\40_LeadVox3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    41_LeadVox3DT.wav:
+      Track_path: Kangoro - Bitch Is Paranoid\Kangoro - Bitch Is Paranoid_RAW\41_LeadVox3DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    42_LeadVox4.wav:
+      Track_path: Kangoro - Bitch Is Paranoid\Kangoro - Bitch Is Paranoid_RAW\42_LeadVox4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Choir: {}
+  Backing_Vocal:
+    43_BackingVox01.wav:
+      Track_path: Kangoro - Bitch Is Paranoid\Kangoro - Bitch Is Paranoid_RAW\43_BackingVox01.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    44_BackingVox01DT1.wav:
+      Track_path: Kangoro - Bitch Is Paranoid\Kangoro - Bitch Is Paranoid_RAW\44_BackingVox01DT1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    45_BackingVox01DT2.wav:
+      Track_path: Kangoro - Bitch Is Paranoid\Kangoro - Bitch Is Paranoid_RAW\45_BackingVox01DT2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    46_BackingVox02.wav:
+      Track_path: Kangoro - Bitch Is Paranoid\Kangoro - Bitch Is Paranoid_RAW\46_BackingVox02.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    47_BackingVox02DT.wav:
+      Track_path: Kangoro - Bitch Is Paranoid\Kangoro - Bitch Is Paranoid_RAW\47_BackingVox02DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    48_BackingVox03.wav:
+      Track_path: Kangoro - Bitch Is Paranoid\Kangoro - Bitch Is Paranoid_RAW\48_BackingVox03.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    49_BackingVox03DT.wav:
+      Track_path: Kangoro - Bitch Is Paranoid\Kangoro - Bitch Is Paranoid_RAW\49_BackingVox03DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    50_BackingVox04.wav:
+      Track_path: Kangoro - Bitch Is Paranoid\Kangoro - Bitch Is Paranoid_RAW\50_BackingVox04.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    51_BackingVox04DT.wav:
+      Track_path: Kangoro - Bitch Is Paranoid\Kangoro - Bitch Is Paranoid_RAW\51_BackingVox04DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    52_BackingVox05.wav:
+      Track_path: Kangoro - Bitch Is Paranoid\Kangoro - Bitch Is Paranoid_RAW\52_BackingVox05.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    53_BackingVox06.wav:
+      Track_path: Kangoro - Bitch Is Paranoid\Kangoro - Bitch Is Paranoid_RAW\53_BackingVox06.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    54_BackingVox07.wav:
+      Track_path: Kangoro - Bitch Is Paranoid\Kangoro - Bitch Is Paranoid_RAW\54_BackingVox07.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    55_BackingVox07DT.wav:
+      Track_path: Kangoro - Bitch Is Paranoid\Kangoro - Bitch Is Paranoid_RAW\55_BackingVox07DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    56_BackingVox08.wav:
+      Track_path: Kangoro - Bitch Is Paranoid\Kangoro - Bitch Is Paranoid_RAW\56_BackingVox08.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    57_BackingVox09.wav:
+      Track_path: Kangoro - Bitch Is Paranoid\Kangoro - Bitch Is Paranoid_RAW\57_BackingVox09.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    58_BackingVox09DT.wav:
+      Track_path: Kangoro - Bitch Is Paranoid\Kangoro - Bitch Is Paranoid_RAW\58_BackingVox09DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    59_BackingVox10.wav:
+      Track_path: Kangoro - Bitch Is Paranoid\Kangoro - Bitch Is Paranoid_RAW\59_BackingVox10.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    60_BackingVox10DT.wav:
+      Track_path: Kangoro - Bitch Is Paranoid\Kangoro - Bitch Is Paranoid_RAW\60_BackingVox10DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    61_BackingVox11.wav:
+      Track_path: Kangoro - Bitch Is Paranoid\Kangoro - Bitch Is Paranoid_RAW\61_BackingVox11.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    62_BackingVox12.wav:
+      Track_path: Kangoro - Bitch Is Paranoid\Kangoro - Bitch Is Paranoid_RAW\62_BackingVox12.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    63_BackingVox12DT1.wav:
+      Track_path: Kangoro - Bitch Is Paranoid\Kangoro - Bitch Is Paranoid_RAW\63_BackingVox12DT1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    64_BackingVox12DT2.wav:
+      Track_path: Kangoro - Bitch Is Paranoid\Kangoro - Bitch Is Paranoid_RAW\64_BackingVox12DT2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    65_VoxSFX1.wav:
+      Track_path: Kangoro - Bitch Is Paranoid\Kangoro - Bitch Is Paranoid_RAW\65_VoxSFX1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    66_VoxSFX2.wav:
+      Track_path: Kangoro - Bitch Is Paranoid\Kangoro - Bitch Is Paranoid_RAW\66_VoxSFX2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Unused: {}
+  Ambient_Microphone: {}

@@ -1,0 +1,223 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer: {}
+  SFX: {}
+  Marimba: {}
+  Bell:
+    09_Cowbell.wav:
+      Track_path: Black Bloc - If You Want Success\Black Bloc - If You Want Success_RAW\09_Cowbell.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    01_KickIn.wav:
+      Track_path: Black Bloc - If You Want Success\Black Bloc - If You Want Success_RAW\01_KickIn.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads'
+      Comment: ''
+    02_KickOut.wav:
+      Track_path: Black Bloc - If You Want Success\Black Bloc - If You Want Success_RAW\02_KickOut.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads'
+      Comment: ''
+    03_KickSample.wav:
+      Track_path: Black Bloc - If You Want Success\Black Bloc - If You Want Success_RAW\03_KickSample.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Snare:
+    04_SnareUp.wav:
+      Track_path: Black Bloc - If You Want Success\Black Bloc - If You Want Success_RAW\04_SnareUp.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads'
+      Comment: ''
+    05_SnareDown.wav:
+      Track_path: Black Bloc - If You Want Success\Black Bloc - If You Want Success_RAW\05_SnareDown.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads'
+      Comment: ''
+    06_SnareSample.wav:
+      Track_path: Black Bloc - If You Want Success\Black Bloc - If You Want Success_RAW\06_SnareSample.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_HiHat:
+    07_HiHat.wav:
+      Track_path: Black Bloc - If You Want Success\Black Bloc - If You Want Success_RAW\07_HiHat.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads'
+      Comment: ''
+  Drum_Cymbals: {}
+  Drum_Overheads:
+    08_Overheads.wav:
+      Track_path: Black Bloc - If You Want Success\Black Bloc - If You Want Success_RAW\08_Overheads.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Tom: {}
+  Drum_Room: {}
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop:
+    20_Loop.wav:
+      Track_path: Black Bloc - If You Want Success\Black Bloc - If You Want Success_RAW\20_Loop.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass: {}
+  Electric_Bass:
+    10_BassDI.wav:
+      Track_path: Black Bloc - If You Want Success\Black Bloc - If You Want Success_RAW\10_BassDI.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Electric_Guitar'
+      Comment: ''
+    11_BassCab.wav:
+      Track_path: Black Bloc - If You Want Success\Black Bloc - If You Want Success_RAW\11_BassCab.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Electric_Guitar'
+      Comment: ''
+  Acoustic_Guitar: {}
+  Electric_Guitar:
+    12_ElecGtr1a.wav:
+      Track_path: Black Bloc - If You Want Success\Black Bloc - If You Want Success_RAW\12_ElecGtr1a.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    13_ElecGtr1b.wav:
+      Track_path: Black Bloc - If You Want Success\Black Bloc - If You Want Success_RAW\13_ElecGtr1b.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    14_ElecGtr1c.wav:
+      Track_path: Black Bloc - If You Want Success\Black Bloc - If You Want Success_RAW\14_ElecGtr1c.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    15_ElecGtr2a.wav:
+      Track_path: Black Bloc - If You Want Success\Black Bloc - If You Want Success_RAW\15_ElecGtr2a.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    16_ElecGtr2b.wav:
+      Track_path: Black Bloc - If You Want Success\Black Bloc - If You Want Success_RAW\16_ElecGtr2b.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    17_ElecGtr2c.wav:
+      Track_path: Black Bloc - If You Want Success\Black Bloc - If You Want Success_RAW\17_ElecGtr2c.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    18_ElecGtr3.wav:
+      Track_path: Black Bloc - If You Want Success\Black Bloc - If You Want Success_RAW\18_ElecGtr3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    19_ElecGtr4.wav:
+      Track_path: Black Bloc - If You Want Success\Black Bloc - If You Want Success_RAW\19_ElecGtr4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Piano: {}
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    22_LeadVox.wav:
+      Track_path: Black Bloc - If You Want Success\Black Bloc - If You Want Success_RAW\22_LeadVox.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Electric_Guitar'
+      Comment: ''
+  Choir: {}
+  Backing_Vocal:
+    23_BackingVox1.wav:
+      Track_path: Black Bloc - If You Want Success\Black Bloc - If You Want Success_RAW\23_BackingVox1.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Electric_Guitar'
+      Comment: ''
+    24_BackingVox2.wav:
+      Track_path: Black Bloc - If You Want Success\Black Bloc - If You Want Success_RAW\24_BackingVox2.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Electric_Guitar'
+      Comment: ''
+    25_BackingVox3.wav:
+      Track_path: Black Bloc - If You Want Success\Black Bloc - If You Want Success_RAW\25_BackingVox3.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Electric_Guitar'
+      Comment: ''
+    26_BackingVox4.wav:
+      Track_path: Black Bloc - If You Want Success\Black Bloc - If You Want Success_RAW\26_BackingVox4.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Electric_Guitar'
+      Comment: ''
+    27_BackingVox5.wav:
+      Track_path: Black Bloc - If You Want Success\Black Bloc - If You Want Success_RAW\27_BackingVox5.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Electric_Guitar'
+      Comment: ''
+    28_BackingVox6.wav:
+      Track_path: Black Bloc - If You Want Success\Black Bloc - If You Want Success_RAW\28_BackingVox6.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Electric_Guitar'
+      Comment: ''
+    29_BackingVox7.wav:
+      Track_path: Black Bloc - If You Want Success\Black Bloc - If You Want Success_RAW\29_BackingVox7.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Electric_Guitar'
+      Comment: ''
+    30_BackingVox8.wav:
+      Track_path: Black Bloc - If You Want Success\Black Bloc - If You Want Success_RAW\30_BackingVox8.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Electric_Guitar'
+      Comment: ''
+  Unused:
+    21_Synth.wav:
+      Track_path: Black Bloc - If You Want Success\Black Bloc - If You Want Success_RAW\21_Synth.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: ''
+      Comment: '21_Synth.wav is silent, moved to Unused'
+  Ambient_Microphone: {}

@@ -1,0 +1,178 @@
+Track2inst:
+  Electric_Organ:
+    20_Hammond.wav:
+      Track_path: Louis Cressy Band - Good Time\Louis Cressy Band - Good Time_RAW\20_Hammond.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Synthesizer: {}
+  SFX:
+    14_Rainstick.wav:
+      Track_path: Louis Cressy Band - Good Time\Louis Cressy Band - Good Time_RAW\14_Rainstick.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    01_KickIn.wav:
+      Track_path: Louis Cressy Band - Good Time\Louis Cressy Band - Good Time_RAW\01_KickIn.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    02_KickOut.wav:
+      Track_path: Louis Cressy Band - Good Time\Louis Cressy Band - Good Time_RAW\02_KickOut.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    03_KickSub.wav:
+      Track_path: Louis Cressy Band - Good Time\Louis Cressy Band - Good Time_RAW\03_KickSub.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Snare:
+    06_SnareDown.wav:
+      Track_path: Louis Cressy Band - Good Time\Louis Cressy Band - Good Time_RAW\06_SnareDown.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_HiHat:
+    04_HiHat.wav:
+      Track_path: Louis Cressy Band - Good Time\Louis Cressy Band - Good Time_RAW\04_HiHat.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Cymbals: {}
+  Drum_Overheads:
+    07_Overheads.wav:
+      Track_path: Louis Cressy Band - Good Time\Louis Cressy Band - Good Time_RAW\07_Overheads.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Tom:
+    08_Tom1.wav:
+      Track_path: Louis Cressy Band - Good Time\Louis Cressy Band - Good Time_RAW\08_Tom1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    09_Tom2.wav:
+      Track_path: Louis Cressy Band - Good Time\Louis Cressy Band - Good Time_RAW\09_Tom2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    10_Tom3.wav:
+      Track_path: Louis Cressy Band - Good Time\Louis Cressy Band - Good Time_RAW\10_Tom3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Room:
+    11_DrumsAmbience1.wav:
+      Track_path: Louis Cressy Band - Good Time\Louis Cressy Band - Good Time_RAW\11_DrumsAmbience1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    12_DrumsAmbience2.wav:
+      Track_path: Louis Cressy Band - Good Time\Louis Cressy Band - Good Time_RAW\12_DrumsAmbience2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    13_DrumsAmbience3.wav:
+      Track_path: Louis Cressy Band - Good Time\Louis Cressy Band - Good Time_RAW\13_DrumsAmbience3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop: {}
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass: {}
+  Electric_Bass:
+    15_Bass.wav:
+      Track_path: Louis Cressy Band - Good Time\Louis Cressy Band - Good Time_RAW\15_Bass.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Acoustic_Guitar: {}
+  Electric_Guitar:
+    16_ElecGtr1.wav:
+      Track_path: Louis Cressy Band - Good Time\Louis Cressy Band - Good Time_RAW\16_ElecGtr1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    17_ElecGtr2.wav:
+      Track_path: Louis Cressy Band - Good Time\Louis Cressy Band - Good Time_RAW\17_ElecGtr2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    18_ElecGtr3.wav:
+      Track_path: Louis Cressy Band - Good Time\Louis Cressy Band - Good Time_RAW\18_ElecGtr3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    19_ElecGtr4.wav:
+      Track_path: Louis Cressy Band - Good Time\Louis Cressy Band - Good Time_RAW\19_ElecGtr4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Piano: {}
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    21_LeadVox.wav:
+      Track_path: Louis Cressy Band - Good Time\Louis Cressy Band - Good Time_RAW\21_LeadVox.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Choir: {}
+  Backing_Vocal: {}
+  Unused:
+    05_SnareUp.wav:
+      Track_path: Louis Cressy Band - Good Time\Louis Cressy Band - Good Time_RAW\05_SnareUp.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Ambient_Microphone: {}

@@ -1,0 +1,163 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer:
+    16_Synth.wav:
+      Track_path: cryonicPAX - Melancholy\cryonicPAX - Melancholy_RAW\16_Synth.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  SFX: {}
+  Marimba: {}
+  Bell:
+    10_Bells.wav:
+      Track_path: cryonicPAX - Melancholy\cryonicPAX - Melancholy_RAW\10_Bells.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    01_Kick.wav:
+      Track_path: cryonicPAX - Melancholy\cryonicPAX - Melancholy_RAW\01_Kick.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Snare:
+    02_Snare1.wav:
+      Track_path: cryonicPAX - Melancholy\cryonicPAX - Melancholy_RAW\02_Snare1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    03_Snare2.wav:
+      Track_path: cryonicPAX - Melancholy\cryonicPAX - Melancholy_RAW\03_Snare2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    04_Snare3.wav:
+      Track_path: cryonicPAX - Melancholy\cryonicPAX - Melancholy_RAW\04_Snare3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_HiHat: {}
+  Drum_Cymbals: {}
+  Drum_Overheads: {}
+  Drum_Tom: {}
+  Drum_Room: {}
+  Shaker:
+    08_Shaker.wav:
+      Track_path: cryonicPAX - Melancholy\cryonicPAX - Melancholy_RAW\08_Shaker.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga:
+    05_Congas.wav:
+      Track_path: cryonicPAX - Melancholy\cryonicPAX - Melancholy_RAW\05_Congas.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop: {}
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong:
+    06_Gong.wav:
+      Track_path: cryonicPAX - Melancholy\cryonicPAX - Melancholy_RAW\06_Gong.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Timbale: {}
+  Pandeiro: {}
+  Percussion:
+    07_PercussionSFX.wav:
+      Track_path: cryonicPAX - Melancholy\cryonicPAX - Melancholy_RAW\07_PercussionSFX.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Synth_Bass:
+    09_Bass.wav:
+      Track_path: cryonicPAX - Melancholy\cryonicPAX - Melancholy_RAW\09_Bass.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Electric_Bass: {}
+  Acoustic_Guitar: {}
+  Electric_Guitar:
+    11_ElecGtr1.wav:
+      Track_path: cryonicPAX - Melancholy\cryonicPAX - Melancholy_RAW\11_ElecGtr1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    12_ElecGtr2.wav:
+      Track_path: cryonicPAX - Melancholy\cryonicPAX - Melancholy_RAW\12_ElecGtr2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    13_ElecGtr3.wav:
+      Track_path: cryonicPAX - Melancholy\cryonicPAX - Melancholy_RAW\13_ElecGtr3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Piano:
+    14_Piano1.wav:
+      Track_path: cryonicPAX - Melancholy\cryonicPAX - Melancholy_RAW\14_Piano1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    15_Piano2.wav:
+      Track_path: cryonicPAX - Melancholy\cryonicPAX - Melancholy_RAW\15_Piano2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    17_VoxSFX1.wav:
+      Track_path: cryonicPAX - Melancholy\cryonicPAX - Melancholy_RAW\17_VoxSFX1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    18_VoxSFX2.wav:
+      Track_path: cryonicPAX - Melancholy\cryonicPAX - Melancholy_RAW\18_VoxSFX2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Choir: {}
+  Backing_Vocal: {}
+  Unused: {}
+  Ambient_Microphone: {}

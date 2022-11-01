@@ -1,0 +1,343 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer:
+    18_Synth1.wav:
+      Track_path: David Tyo - Never Ebb But Flow\David Tyo - Never Ebb But Flow_RAW\18_Synth1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    19_Synth2.wav:
+      Track_path: David Tyo - Never Ebb But Flow\David Tyo - Never Ebb But Flow_RAW\19_Synth2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    20_Synth3.wav:
+      Track_path: David Tyo - Never Ebb But Flow\David Tyo - Never Ebb But Flow_RAW\20_Synth3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  SFX:
+    32_SFX1.wav:
+      Track_path: David Tyo - Never Ebb But Flow\David Tyo - Never Ebb But Flow_RAW\32_SFX1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    33_SFX2.wav:
+      Track_path: David Tyo - Never Ebb But Flow\David Tyo - Never Ebb But Flow_RAW\33_SFX2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    34_SFX3.wav:
+      Track_path: David Tyo - Never Ebb But Flow\David Tyo - Never Ebb But Flow_RAW\34_SFX3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    01_KickIn.wav:
+      Track_path: David Tyo - Never Ebb But Flow\David Tyo - Never Ebb But Flow_RAW\01_KickIn.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_Snare:
+    02_SnareUp.wav:
+      Track_path: David Tyo - Never Ebb But Flow\David Tyo - Never Ebb But Flow_RAW\02_SnareUp.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    03_SnareDown.wav:
+      Track_path: David Tyo - Never Ebb But Flow\David Tyo - Never Ebb But Flow_RAW\03_SnareDown.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_HiHat:
+    06_HiHat.wav:
+      Track_path: David Tyo - Never Ebb But Flow\David Tyo - Never Ebb But Flow_RAW\06_HiHat.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_Cymbals:
+    08_Cymbals.wav:
+      Track_path: David Tyo - Never Ebb But Flow\David Tyo - Never Ebb But Flow_RAW\08_Cymbals.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    09_CymbalRolls.wav:
+      Track_path: David Tyo - Never Ebb But Flow\David Tyo - Never Ebb But Flow_RAW\09_CymbalRolls.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_Overheads:
+    07_Overheads.wav:
+      Track_path: David Tyo - Never Ebb But Flow\David Tyo - Never Ebb But Flow_RAW\07_Overheads.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Tom:
+    04_Tom1.wav:
+      Track_path: David Tyo - Never Ebb But Flow\David Tyo - Never Ebb But Flow_RAW\04_Tom1.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    05_Tom2.wav:
+      Track_path: David Tyo - Never Ebb But Flow\David Tyo - Never Ebb But Flow_RAW\05_Tom2.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_Room: {}
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine:
+    10_Tambourine.wav:
+      Track_path: David Tyo - Never Ebb But Flow\David Tyo - Never Ebb But Flow_RAW\10_Tambourine.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Loop: {}
+  Clicks: {}
+  Claps:
+    11_Shaker.wav:
+      Track_path: David Tyo - Never Ebb But Flow\David Tyo - Never Ebb But Flow_RAW\11_Shaker.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass: {}
+  Electric_Bass:
+    12_Bass.wav:
+      Track_path: David Tyo - Never Ebb But Flow\David Tyo - Never Ebb But Flow_RAW\12_Bass.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Acoustic_Guitar:
+    15_AcousticGtr1.wav:
+      Track_path: David Tyo - Never Ebb But Flow\David Tyo - Never Ebb But Flow_RAW\15_AcousticGtr1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    16_AcousticGtr2.wav:
+      Track_path: David Tyo - Never Ebb But Flow\David Tyo - Never Ebb But Flow_RAW\16_AcousticGtr2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    17_AcousticGtr3.wav:
+      Track_path: David Tyo - Never Ebb But Flow\David Tyo - Never Ebb But Flow_RAW\17_AcousticGtr3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Electric_Guitar:
+    21_ElecGtr1.wav:
+      Track_path: David Tyo - Never Ebb But Flow\David Tyo - Never Ebb But Flow_RAW\21_ElecGtr1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    22_ElecGtr1DT.wav:
+      Track_path: David Tyo - Never Ebb But Flow\David Tyo - Never Ebb But Flow_RAW\22_ElecGtr1DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    23_ElecGtr2.wav:
+      Track_path: David Tyo - Never Ebb But Flow\David Tyo - Never Ebb But Flow_RAW\23_ElecGtr2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    24_ElecGtr2DT.wav:
+      Track_path: David Tyo - Never Ebb But Flow\David Tyo - Never Ebb But Flow_RAW\24_ElecGtr2DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    25_ElecGtr3.wav:
+      Track_path: David Tyo - Never Ebb But Flow\David Tyo - Never Ebb But Flow_RAW\25_ElecGtr3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    26_ElecGtr3DT.wav:
+      Track_path: David Tyo - Never Ebb But Flow\David Tyo - Never Ebb But Flow_RAW\26_ElecGtr3DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    27_ElecGtr4.wav:
+      Track_path: David Tyo - Never Ebb But Flow\David Tyo - Never Ebb But Flow_RAW\27_ElecGtr4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    28_ElecGtr5.wav:
+      Track_path: David Tyo - Never Ebb But Flow\David Tyo - Never Ebb But Flow_RAW\28_ElecGtr5.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    29_ElecGtr6.wav:
+      Track_path: David Tyo - Never Ebb But Flow\David Tyo - Never Ebb But Flow_RAW\29_ElecGtr6.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    30_ElecGtr7.wav:
+      Track_path: David Tyo - Never Ebb But Flow\David Tyo - Never Ebb But Flow_RAW\30_ElecGtr7.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    31_ElecGtr7DT.wav:
+      Track_path: David Tyo - Never Ebb But Flow\David Tyo - Never Ebb But Flow_RAW\31_ElecGtr7DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Piano:
+    13_Piano1.wav:
+      Track_path: David Tyo - Never Ebb But Flow\David Tyo - Never Ebb But Flow_RAW\13_Piano1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    14_Piano2.wav:
+      Track_path: David Tyo - Never Ebb But Flow\David Tyo - Never Ebb But Flow_RAW\14_Piano2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    35_LeadVox1.wav:
+      Track_path: David Tyo - Never Ebb But Flow\David Tyo - Never Ebb But Flow_RAW\35_LeadVox1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    36_LeadVox2.wav:
+      Track_path: David Tyo - Never Ebb But Flow\David Tyo - Never Ebb But Flow_RAW\36_LeadVox2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    37_LeadVox2DT.wav:
+      Track_path: David Tyo - Never Ebb But Flow\David Tyo - Never Ebb But Flow_RAW\37_LeadVox2DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    38_LeadVox3.wav:
+      Track_path: David Tyo - Never Ebb But Flow\David Tyo - Never Ebb But Flow_RAW\38_LeadVox3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Choir: {}
+  Backing_Vocal:
+    39_BackingVox01.wav:
+      Track_path: David Tyo - Never Ebb But Flow\David Tyo - Never Ebb But Flow_RAW\39_BackingVox01.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    40_BackingVox02.wav:
+      Track_path: David Tyo - Never Ebb But Flow\David Tyo - Never Ebb But Flow_RAW\40_BackingVox02.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    41_BackingVox03.wav:
+      Track_path: David Tyo - Never Ebb But Flow\David Tyo - Never Ebb But Flow_RAW\41_BackingVox03.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    42_BackingVox03DT.wav:
+      Track_path: David Tyo - Never Ebb But Flow\David Tyo - Never Ebb But Flow_RAW\42_BackingVox03DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    43_BackingVox04.wav:
+      Track_path: David Tyo - Never Ebb But Flow\David Tyo - Never Ebb But Flow_RAW\43_BackingVox04.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    44_BackingVox04DT.wav:
+      Track_path: David Tyo - Never Ebb But Flow\David Tyo - Never Ebb But Flow_RAW\44_BackingVox04DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    45_BackingVox05.wav:
+      Track_path: David Tyo - Never Ebb But Flow\David Tyo - Never Ebb But Flow_RAW\45_BackingVox05.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    46_BackingVox06.wav:
+      Track_path: David Tyo - Never Ebb But Flow\David Tyo - Never Ebb But Flow_RAW\46_BackingVox06.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    47_BackingVox06DT.wav:
+      Track_path: David Tyo - Never Ebb But Flow\David Tyo - Never Ebb But Flow_RAW\47_BackingVox06DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    48_BackingVox07.wav:
+      Track_path: David Tyo - Never Ebb But Flow\David Tyo - Never Ebb But Flow_RAW\48_BackingVox07.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    49_BackingVox07DT.wav:
+      Track_path: David Tyo - Never Ebb But Flow\David Tyo - Never Ebb But Flow_RAW\49_BackingVox07DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    50_BackingVox08.wav:
+      Track_path: David Tyo - Never Ebb But Flow\David Tyo - Never Ebb But Flow_RAW\50_BackingVox08.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    51_BackingVox08DT.wav:
+      Track_path: David Tyo - Never Ebb But Flow\David Tyo - Never Ebb But Flow_RAW\51_BackingVox08DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    52_BackingVox09.wav:
+      Track_path: David Tyo - Never Ebb But Flow\David Tyo - Never Ebb But Flow_RAW\52_BackingVox09.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    53_BackingVox10.wav:
+      Track_path: David Tyo - Never Ebb But Flow\David Tyo - Never Ebb But Flow_RAW\53_BackingVox10.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    54_BackingVox10DT.wav:
+      Track_path: David Tyo - Never Ebb But Flow\David Tyo - Never Ebb But Flow_RAW\54_BackingVox10DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Unused: {}
+  Ambient_Microphone: {}

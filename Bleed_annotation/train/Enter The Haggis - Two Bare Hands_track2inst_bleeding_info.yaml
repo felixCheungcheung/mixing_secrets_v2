@@ -1,0 +1,155 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer:
+    Keys-Synth-DI.wav:
+      Track_path: Enter The Haggis - Two Bare Hands\Enter The Haggis - Two Bare Hands_RAW\Keys-Synth-DI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  SFX: {}
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    Drums-Kick In-M82.wav:
+      Track_path: Enter The Haggis - Two Bare Hands\Enter The Haggis - Two Bare Hands_RAW\Drums-Kick
+        In-M82.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads, Electric_Guitar, Lead_Vocal'
+      Comment: ''
+    Drums-Kick Out-CU29.wav:
+      Track_path: Enter The Haggis - Two Bare Hands\Enter The Haggis - Two Bare Hands_RAW\Drums-Kick
+        Out-CU29.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads, Electric_Guitar, Lead_Vocal'
+      Comment: ''
+  Drum_Snare:
+    Drums-Snare Bottom-M81.wav:
+      Track_path: Enter The Haggis - Two Bare Hands\Enter The Haggis - Two Bare Hands_RAW\Drums-Snare
+        Bottom-M81.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads, Electric_Guitar, Lead_Vocal'
+      Comment: ''
+    Drums-Snare Top-M80.wav:
+      Track_path: Enter The Haggis - Two Bare Hands\Enter The Haggis - Two Bare Hands_RAW\Drums-Snare
+        Top-M80.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads, Electric_Guitar, Lead_Vocal'
+      Comment: ''
+  Drum_HiHat: {}
+  Drum_Cymbals: {}
+  Drum_Overheads:
+    Drums-Overhead-AR51.wav:
+      Track_path: Enter The Haggis - Two Bare Hands\Enter The Haggis - Two Bare Hands_RAW\Drums-Overhead-AR51.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Electric_Guitar, Lead_Vocal'
+      Comment: ''
+  Drum_Tom:
+    Drums-Floor-M82.wav:
+      Track_path: Enter The Haggis - Two Bare Hands\Enter The Haggis - Two Bare Hands_RAW\Drums-Floor-M82.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads, Electric_Guitar, Lead_Vocal'
+      Comment: ''
+    Drums-Rack-M81.wav:
+      Track_path: Enter The Haggis - Two Bare Hands\Enter The Haggis - Two Bare Hands_RAW\Drums-Rack-M81.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads, Electric_Guitar, Lead_Vocal'
+      Comment: ''
+  Drum_Room: {}
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop: {}
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass: {}
+  Electric_Bass:
+    Bass-DI.wav:
+      Track_path: Enter The Haggis - Two Bare Hands\Enter The Haggis - Two Bare Hands_RAW\Bass-DI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Bass-Mic-AK47.wav:
+      Track_path: Enter The Haggis - Two Bare Hands\Enter The Haggis - Two Bare Hands_RAW\Bass-Mic-AK47.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads, Electric_Guitar, Lead_Vocal'
+      Comment: ''
+  Acoustic_Guitar: {}
+  Electric_Guitar:
+    ELE Guitar-Con-CU29.wav:
+      Track_path: Enter The Haggis - Two Bare Hands\Enter The Haggis - Two Bare Hands_RAW\ELE
+        Guitar-Con-CU29.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    ELE Guitar-Dyn-M81.wav:
+      Track_path: Enter The Haggis - Two Bare Hands\Enter The Haggis - Two Bare Hands_RAW\ELE
+        Guitar-Dyn-M81.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    ELE Guitars-Ignater-M81.wav:
+      Track_path: Enter The Haggis - Two Bare Hands\Enter The Haggis - Two Bare Hands_RAW\ELE
+        Guitars-Ignater-M81.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Piano: {}
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    Vocal-Trevor-M80.wav:
+      Track_path: Enter The Haggis - Two Bare Hands\Enter The Haggis - Two Bare Hands_RAW\Vocal-Trevor-M80.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads, Electric_Guitar'
+      Comment: ''
+  Choir: {}
+  Backing_Vocal: {}
+  Unused: {}
+  Ambient_Microphone:
+    Drums-Room-M81.wav:
+      Track_path: Enter The Haggis - Two Bare Hands\Enter The Haggis - Two Bare Hands_RAW\Drums-Room-M81.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads, Electric_Guitar, Lead_Vocal'
+      Comment: ''

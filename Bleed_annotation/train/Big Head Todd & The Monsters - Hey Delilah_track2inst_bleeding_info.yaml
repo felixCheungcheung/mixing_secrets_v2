@@ -1,0 +1,229 @@
+Track2inst:
+  Electric_Organ:
+    ORGAN LESLIE BOTTOM_M82.wav:
+      Track_path: Big Head Todd & The Monsters - Hey Delilah\Big Head Todd & The Monsters
+        - Hey Delilah_RAW\ORGAN LESLIE BOTTOM_M82.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: ''
+      Comment: ''
+    ORGAN LESLIE TOP_M80-SH.L.wav:
+      Track_path: Big Head Todd & The Monsters - Hey Delilah\Big Head Todd & The Monsters
+        - Hey Delilah_RAW\ORGAN LESLIE TOP_M80-SH.L.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: ''
+      Comment: ''
+    ORGAN LESLIE TOP_M80-SH.R.wav:
+      Track_path: Big Head Todd & The Monsters - Hey Delilah\Big Head Todd & The Monsters
+        - Hey Delilah_RAW\ORGAN LESLIE TOP_M80-SH.R.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Synthesizer: {}
+  SFX: {}
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    KICK_M82.wav:
+      Track_path: Big Head Todd & The Monsters - Hey Delilah\Big Head Todd & The Monsters
+        - Hey Delilah_RAW\KICK_M82.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Snare:
+    SNARE BOTTOM_M81.wav:
+      Track_path: Big Head Todd & The Monsters - Hey Delilah\Big Head Todd & The Monsters
+        - Hey Delilah_RAW\SNARE BOTTOM_M81.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: ''
+      Comment: ''
+    SNARE TOP_M80-SH.wav:
+      Track_path: Big Head Todd & The Monsters - Hey Delilah\Big Head Todd & The Monsters
+        - Hey Delilah_RAW\SNARE TOP_M80-SH.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_HiHat:
+    HI HAT_M60 FET.wav:
+      Track_path: Big Head Todd & The Monsters - Hey Delilah\Big Head Todd & The Monsters
+        - Hey Delilah_RAW\HI HAT_M60 FET.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Cymbals: {}
+  Drum_Overheads:
+    OVERHEADS_M60 FET.L.wav:
+      Track_path: Big Head Todd & The Monsters - Hey Delilah\Big Head Todd & The Monsters
+        - Hey Delilah_RAW\OVERHEADS_M60 FET.L.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: ''
+      Comment: ''
+    OVERHEADS_M60 FET.R.wav:
+      Track_path: Big Head Todd & The Monsters - Hey Delilah\Big Head Todd & The Monsters
+        - Hey Delilah_RAW\OVERHEADS_M60 FET.R.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Tom:
+    TOM 1_M81-SH.wav:
+      Track_path: Big Head Todd & The Monsters - Hey Delilah\Big Head Todd & The Monsters
+        - Hey Delilah_RAW\TOM 1_M81-SH.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: ''
+      Comment: ''
+    TOM 2_M81-SH.wav:
+      Track_path: Big Head Todd & The Monsters - Hey Delilah\Big Head Todd & The Monsters
+        - Hey Delilah_RAW\TOM 2_M81-SH.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: ''
+      Comment: ''
+    TOM 3_M81-SH.wav:
+      Track_path: Big Head Todd & The Monsters - Hey Delilah\Big Head Todd & The Monsters
+        - Hey Delilah_RAW\TOM 3_M81-SH.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Room:
+    ROOM_AR-51 (CARDIOID).wav:
+      Track_path: Big Head Todd & The Monsters - Hey Delilah\Big Head Todd & The Monsters
+        - Hey Delilah_RAW\ROOM_AR-51 (CARDIOID).wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop: {}
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass: {}
+  Electric_Bass:
+    BASS_DI.wav:
+      Track_path: Big Head Todd & The Monsters - Hey Delilah\Big Head Todd & The Monsters
+        - Hey Delilah_RAW\BASS_DI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Acoustic_Guitar: {}
+  Electric_Guitar:
+    ELECTRIC GUITAR 1_M81-SH.wav:
+      Track_path: Big Head Todd & The Monsters - Hey Delilah\Big Head Todd & The Monsters
+        - Hey Delilah_RAW\ELECTRIC GUITAR 1_M81-SH.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: ''
+      Comment: ''
+    ELECTRIC GUITAR 2_M81-SH.wav:
+      Track_path: Big Head Todd & The Monsters - Hey Delilah\Big Head Todd & The Monsters
+        - Hey Delilah_RAW\ELECTRIC GUITAR 2_M81-SH.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Piano: {}
+  Electric_Piano:
+    KEYS_DI.L.wav:
+      Track_path: Big Head Todd & The Monsters - Hey Delilah\Big Head Todd & The Monsters
+        - Hey Delilah_RAW\KEYS_DI.L.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    KEYS_DI.R.wav:
+      Track_path: Big Head Todd & The Monsters - Hey Delilah\Big Head Todd & The Monsters
+        - Hey Delilah_RAW\KEYS_DI.R.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    VOX LEAD_M80.wav:
+      Track_path: Big Head Todd & The Monsters - Hey Delilah\Big Head Todd & The Monsters
+        - Hey Delilah_RAW\VOX LEAD_M80.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Choir: {}
+  Backing_Vocal:
+    VOX BASS_M80.wav:
+      Track_path: Big Head Todd & The Monsters - Hey Delilah\Big Head Todd & The Monsters
+        - Hey Delilah_RAW\VOX BASS_M80.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: ''
+      Comment: ''
+    VOX DRUMS_M80.wav:
+      Track_path: Big Head Todd & The Monsters - Hey Delilah\Big Head Todd & The Monsters
+        - Hey Delilah_RAW\VOX DRUMS_M80.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: ''
+      Comment: ''
+    VOX GUITAR 2_M80.wav:
+      Track_path: Big Head Todd & The Monsters - Hey Delilah\Big Head Todd & The Monsters
+        - Hey Delilah_RAW\VOX GUITAR 2_M80.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: ''
+      Comment: ''
+    VOX KEYS_M80.wav:
+      Track_path: Big Head Todd & The Monsters - Hey Delilah\Big Head Todd & The Monsters
+        - Hey Delilah_RAW\VOX KEYS_M80.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Unused:
+    HEY DELILAH- reference mix.L.wav:
+      Track_path: Big Head Todd & The Monsters - Hey Delilah\Big Head Todd & The Monsters
+        - Hey Delilah_RAW\HEY DELILAH- reference mix.L.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: ''
+      Comment: ''
+    HEY DELILAH- reference mix.R.wav:
+      Track_path: Big Head Todd & The Monsters - Hey Delilah\Big Head Todd & The Monsters
+        - Hey Delilah_RAW\HEY DELILAH- reference mix.R.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: ''
+      Comment: ''
+    HEY DELILAH- reference mix.wav:
+      Track_path: Big Head Todd & The Monsters - Hey Delilah\Big Head Todd & The Monsters
+        - Hey Delilah_RAW\HEY DELILAH- reference mix.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Ambient_Microphone: {}

@@ -1,0 +1,157 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer:
+    11_Synth1.wav:
+      Track_path: G-Bass Project - You Make Me Smile\G-Bass Project - You Make Me
+        Smile_RAW\11_Synth1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    12_Synth2.wav:
+      Track_path: G-Bass Project - You Make Me Smile\G-Bass Project - You Make Me
+        Smile_RAW\12_Synth2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    13_Synth3.wav:
+      Track_path: G-Bass Project - You Make Me Smile\G-Bass Project - You Make Me
+        Smile_RAW\13_Synth3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    14_Synth4.wav:
+      Track_path: G-Bass Project - You Make Me Smile\G-Bass Project - You Make Me
+        Smile_RAW\14_Synth4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  SFX: {}
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick: {}
+  Drum_Snare: {}
+  Drum_HiHat:
+    02_HiHat.wav:
+      Track_path: G-Bass Project - You Make Me Smile\G-Bass Project - You Make Me
+        Smile_RAW\02_HiHat.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Cymbals: {}
+  Drum_Overheads: {}
+  Drum_Tom: {}
+  Drum_Room: {}
+  Shaker:
+    08_Shaker.wav:
+      Track_path: G-Bass Project - You Make Me Smile\G-Bass Project - You Make Me
+        Smile_RAW\08_Shaker.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha:
+    05_Vibraslap.wav:
+      Track_path: G-Bass Project - You Make Me Smile\G-Bass Project - You Make Me
+        Smile_RAW\05_Vibraslap.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine:
+    03_Tambourine1.wav:
+      Track_path: G-Bass Project - You Make Me Smile\G-Bass Project - You Make Me
+        Smile_RAW\03_Tambourine1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    04_Tambourine2.wav:
+      Track_path: G-Bass Project - You Make Me Smile\G-Bass Project - You Make Me
+        Smile_RAW\04_Tambourine2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Loop:
+    01_DrumLoop.wav:
+      Track_path: G-Bass Project - You Make Me Smile\G-Bass Project - You Make Me
+        Smile_RAW\01_DrumLoop.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion:
+    06_Cabasa1.wav:
+      Track_path: G-Bass Project - You Make Me Smile\G-Bass Project - You Make Me
+        Smile_RAW\06_Cabasa1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    07_Cabasa2.wav:
+      Track_path: G-Bass Project - You Make Me Smile\G-Bass Project - You Make Me
+        Smile_RAW\07_Cabasa2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Synth_Bass: {}
+  Electric_Bass:
+    09_Bass.wav:
+      Track_path: G-Bass Project - You Make Me Smile\G-Bass Project - You Make Me
+        Smile_RAW\09_Bass.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Acoustic_Guitar: {}
+  Electric_Guitar: {}
+  Piano: {}
+  Electric_Piano:
+    10_ElecPiano.wav:
+      Track_path: G-Bass Project - You Make Me Smile\G-Bass Project - You Make Me
+        Smile_RAW\10_ElecPiano.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal: {}
+  Choir: {}
+  Backing_Vocal: {}
+  Unused: {}
+  Ambient_Microphone: {}

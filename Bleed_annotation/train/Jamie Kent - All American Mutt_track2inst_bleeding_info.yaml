@@ -1,0 +1,160 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer: {}
+  SFX: {}
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    Drums-Kick in-M82.wav:
+      Track_path: Jamie Kent - All American Mutt\Jamie Kent - All American Mutt_RAW\Drums-Kick
+        in-M82.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads'
+      Comment: ''
+    Drums-Kick Out-CU29.wav:
+      Track_path: Jamie Kent - All American Mutt\Jamie Kent - All American Mutt_RAW\Drums-Kick
+        Out-CU29.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads, Lead_Vocal, Backing_Vocal'
+      Comment: 'noticeable'
+  Drum_Snare:
+    Drums-Snare Bottom-M80.wav:
+      Track_path: Jamie Kent - All American Mutt\Jamie Kent - All American Mutt_RAW\Drums-Snare
+        Bottom-M80.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads'
+      Comment: ''
+    Drums-Snare Top-M80.wav:
+      Track_path: Jamie Kent - All American Mutt\Jamie Kent - All American Mutt_RAW\Drums-Snare
+        Top-M80.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads'
+      Comment: ''
+  Drum_HiHat: {}
+  Drum_Cymbals: {}
+  Drum_Overheads:
+    Drums-Overhead-AR51.wav:
+      Track_path: Jamie Kent - All American Mutt\Jamie Kent - All American Mutt_RAW\Drums-Overhead-AR51.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Lead_Vocal, Backing_Vocal'
+      Comment: 'slight'
+  Drum_Tom:
+    Drums-Rack-M81.wav:
+      Track_path: Jamie Kent - All American Mutt\Jamie Kent - All American Mutt_RAW\Drums-Rack-M81.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads, Lead_Vocal, Backing_Vocal'
+      Comment: ''
+    Drums-Floor-M81.wav:
+      Track_path: Jamie Kent - All American Mutt\Jamie Kent - All American Mutt_RAW\Drums-Floor-M81.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads, Lead_Vocal, Backing_Vocal'
+      Comment: 'slight'
+  Drum_Room:
+    Drums-Chamber-M60.wav:
+      Track_path: Jamie Kent - All American Mutt\Jamie Kent - All American Mutt_RAW\Drums-Chamber-M60.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Lead_Vocal, Backing_Vocal'
+      Comment: ''
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop: {}
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass: {}
+  Electric_Bass:
+    Bass-DI.wav:
+      Track_path: Jamie Kent - All American Mutt\Jamie Kent - All American Mutt_RAW\Bass-DI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Acoustic_Guitar:
+    Aco Guitar-ELA M 260.wav:
+      Track_path: Jamie Kent - All American Mutt\Jamie Kent - All American Mutt_RAW\Aco
+        Guitar-ELA M 260.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Lead_Vocal, Backing_Vocal, Drum_Overheads'
+      Comment: 'huge'
+  Electric_Guitar:
+    ElE Guitar-Con-AK47.wav:
+      Track_path: Jamie Kent - All American Mutt\Jamie Kent - All American Mutt_RAW\ElE
+        Guitar-Con-AK47.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    ELE Guitar-Dyn-M81.wav:
+      Track_path: Jamie Kent - All American Mutt\Jamie Kent - All American Mutt_RAW\ELE
+        Guitar-Dyn-M81.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Piano: {}
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    Vox-Jamie-M80.wav:
+      Track_path: Jamie Kent - All American Mutt\Jamie Kent - All American Mutt_RAW\Vox-Jamie-M80.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads, Acoustic_Guitar'
+      Comment: ''
+  Choir: {}
+  Backing_Vocal:
+    Vox-Bass-M81.wav:
+      Track_path: Jamie Kent - All American Mutt\Jamie Kent - All American Mutt_RAW\Vox-Bass-M81.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads'
+      Comment: ''
+    Vox-Guitar-M81.wav:
+      Track_path: Jamie Kent - All American Mutt\Jamie Kent - All American Mutt_RAW\Vox-Guitar-M81.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads'
+      Comment: ''
+    Vox-oooooo-M81.wav:
+      Track_path: Jamie Kent - All American Mutt\Jamie Kent - All American Mutt_RAW\Vox-oooooo-M81.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads'
+      Comment: ''
+  Unused: {}
+  Ambient_Microphone: {}

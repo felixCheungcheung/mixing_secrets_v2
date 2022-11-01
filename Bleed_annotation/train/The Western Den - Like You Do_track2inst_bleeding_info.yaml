@@ -1,0 +1,180 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer: {}
+  SFX: {}
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    Drums-Kick In-M82.wav:
+      Track_path: The Western Den - Like You Do\The Western Den - Like You Do_RAW\Drums-Kick
+        In-M82.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads, Electric_Guitar'
+      Comment: ''
+    Drums-Kick Out-TF47.wav:
+      Track_path: The Western Den - Like You Do\The Western Den - Like You Do_RAW\Drums-Kick
+        Out-TF47.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads, Electric_Guitar'
+      Comment: ''
+  Drum_Snare:
+    Drums-Snare Bottom-M81.wav:
+      Track_path: The Western Den - Like You Do\The Western Den - Like You Do_RAW\Drums-Snare
+        Bottom-M81.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads'
+      Comment: ''
+    Drums-Snare Top-M80.wav:
+      Track_path: The Western Den - Like You Do\The Western Den - Like You Do_RAW\Drums-Snare
+        Top-M80.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads'
+      Comment: ''
+  Drum_HiHat:
+    Drums-Hat-M60.wav:
+      Track_path: The Western Den - Like You Do\The Western Den - Like You Do_RAW\Drums-Hat-M60.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads, Electric_Guitar'
+      Comment: ''
+  Drum_Cymbals: {}
+  Drum_Overheads:
+    Drums-Overhead-U47.wav:
+      Track_path: The Western Den - Like You Do\The Western Den - Like You Do_RAW\Drums-Overhead-U47.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Electric_Guitar, Lead_Vocal'
+      Comment: ''
+  Drum_Tom:
+    Drums-Floor-M81.wav:
+      Track_path: The Western Den - Like You Do\The Western Den - Like You Do_RAW\Drums-Floor-M81.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads, Electric_Guitar'
+      Comment: ''
+    Drums-Rack Tom-M81.wav:
+      Track_path: The Western Den - Like You Do\The Western Den - Like You Do_RAW\Drums-Rack
+        Tom-M81.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads, Electric_Guitar'
+      Comment: ''
+  Drum_Room:
+    Drums-Room-M60.wav:
+      Track_path: The Western Den - Like You Do\The Western Den - Like You Do_RAW\Drums-Room-M60.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Electric_Guitar, Lead_Vocal'
+      Comment: 'huge'
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop: {}
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass: {}
+  Electric_Bass: {}
+  Acoustic_Guitar: {}
+  Electric_Guitar:
+    ELE Guitar1-TF29.wav:
+      Track_path: The Western Den - Like You Do\The Western Den - Like You Do_RAW\ELE
+        Guitar1-TF29.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Piano: {}
+  Electric_Piano:
+    Keys-2-Active DI.wav:
+      Track_path: The Western Den - Like You Do\The Western Den - Like You Do_RAW\Keys-2-Active
+        DI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Keys-Active DI.wav:
+      Track_path: The Western Den - Like You Do\The Western Den - Like You Do_RAW\Keys-Active
+        DI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet:
+    Horn-Trumpet-Ela M 260.wav:
+      Track_path: The Western Den - Like You Do\The Western Den - Like You Do_RAW\Horn-Trumpet-Ela
+        M 260.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Electric_Guitar, Drum_Overheads, Lead_Vocal, Backing_Vocal'
+      Comment: ''
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin:
+    Strings-Violin-Active DI.wav:
+      Track_path: The Western Den - Like You Do\The Western Den - Like You Do_RAW\Strings-Violin-Active
+        DI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Strings-Violin-M60.wav:
+      Track_path: The Western Den - Like You Do\The Western Den - Like You Do_RAW\Strings-Violin-M60.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Electric_Guitar, Drum_Overheads, Lead_Vocal, Backing_Vocal'
+      Comment: ''
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    Vocals-Keys-Proto.wav:
+      Track_path: The Western Den - Like You Do\The Western Den - Like You Do_RAW\Vocals-Keys-Proto.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Electric_Guitar, Drum_Overheads'
+      Comment: ''
+  Choir: {}
+  Backing_Vocal:
+    Vocals-BG Bass-M81.wav:
+      Track_path: The Western Den - Like You Do\The Western Den - Like You Do_RAW\Vocals-BG
+        Bass-M81.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Electric_Guitar, Drum_Overheads, Trumpet'
+      Comment: ''
+    Vocals-BG Trumpet-M81.wav:
+      Track_path: The Western Den - Like You Do\The Western Den - Like You Do_RAW\Vocals-BG
+        Trumpet-M81.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Electric_Guitar, Drum_Overheads'
+      Comment: 'slight'
+    Vocals-Guitar-Proto.wav:
+      Track_path: The Western Den - Like You Do\The Western Den - Like You Do_RAW\Vocals-Guitar-Proto.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Electric_Guitar, Drum_Overheads, '
+      Comment: ''
+  Unused: {}
+  Ambient_Microphone: {}

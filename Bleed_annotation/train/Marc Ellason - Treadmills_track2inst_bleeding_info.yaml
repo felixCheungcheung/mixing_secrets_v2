@@ -1,0 +1,238 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer: {}
+  SFX: {}
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    03_Kick1.wav:
+      Track_path: Marc Ellason - Treadmills\Marc Ellason - Treadmills_RAW\03_Kick1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    04_Kick2.wav:
+      Track_path: Marc Ellason - Treadmills\Marc Ellason - Treadmills_RAW\04_Kick2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Snare:
+    05_Snare1.wav:
+      Track_path: Marc Ellason - Treadmills\Marc Ellason - Treadmills_RAW\05_Snare1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    06_Snare2.wav:
+      Track_path: Marc Ellason - Treadmills\Marc Ellason - Treadmills_RAW\06_Snare2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_HiHat:
+    07_HiHat.wav:
+      Track_path: Marc Ellason - Treadmills\Marc Ellason - Treadmills_RAW\07_HiHat.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Cymbals: {}
+  Drum_Overheads:
+    01_Drums1.wav:
+      Track_path: Marc Ellason - Treadmills\Marc Ellason - Treadmills_RAW\01_Drums1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    02_Drums2.wav:
+      Track_path: Marc Ellason - Treadmills\Marc Ellason - Treadmills_RAW\02_Drums2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Tom: {}
+  Drum_Room: {}
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop: {}
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass: {}
+  Electric_Bass:
+    08_Bass.wav:
+      Track_path: Marc Ellason - Treadmills\Marc Ellason - Treadmills_RAW\08_Bass.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Acoustic_Guitar:
+    09_AcousticGtr1.wav:
+      Track_path: Marc Ellason - Treadmills\Marc Ellason - Treadmills_RAW\09_AcousticGtr1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    10_AcousticGtr2DI.wav:
+      Track_path: Marc Ellason - Treadmills\Marc Ellason - Treadmills_RAW\10_AcousticGtr2DI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    31_Outro_AcousticGtrDI.wav:
+      Track_path: Marc Ellason - Treadmills\Marc Ellason - Treadmills_RAW\31_Outro_AcousticGtrDI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Electric_Guitar:
+    11_ElecGtr1.wav:
+      Track_path: Marc Ellason - Treadmills\Marc Ellason - Treadmills_RAW\11_ElecGtr1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    12_ElecGtr2.wav:
+      Track_path: Marc Ellason - Treadmills\Marc Ellason - Treadmills_RAW\12_ElecGtr2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    13_ElecGtr3.wav:
+      Track_path: Marc Ellason - Treadmills\Marc Ellason - Treadmills_RAW\13_ElecGtr3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Piano: {}
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone:
+    15_Trombone.wav:
+      Track_path: Marc Ellason - Treadmills\Marc Ellason - Treadmills_RAW\15_Trombone.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    16_Trombones.wav:
+      Track_path: Marc Ellason - Treadmills\Marc Ellason - Treadmills_RAW\16_Trombones.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass:
+    08_Bass.wav:
+      Track_path: Marc Ellason - Treadmills\Marc Ellason - Treadmills_RAW\08_Bass.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    24_Vox08.wav:
+      Track_path: Marc Ellason - Treadmills\Marc Ellason - Treadmills_RAW\24_Vox08.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    17_Vox01.wav:
+      Track_path: Marc Ellason - Treadmills\Marc Ellason - Treadmills_RAW\17_Vox01.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    18_Vox02.wav:
+      Track_path: Marc Ellason - Treadmills\Marc Ellason - Treadmills_RAW\18_Vox02.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    19_Vox03.wav:
+      Track_path: Marc Ellason - Treadmills\Marc Ellason - Treadmills_RAW\19_Vox03.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    20_Vox04.wav:
+      Track_path: Marc Ellason - Treadmills\Marc Ellason - Treadmills_RAW\20_Vox04.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    27_Vox11.wav:
+      Track_path: Marc Ellason - Treadmills\Marc Ellason - Treadmills_RAW\27_Vox11.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Choir: {}
+  Backing_Vocal:
+    21_Vox05.wav:
+      Track_path: Marc Ellason - Treadmills\Marc Ellason - Treadmills_RAW\21_Vox05.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    22_Vox06.wav:
+      Track_path: Marc Ellason - Treadmills\Marc Ellason - Treadmills_RAW\22_Vox06.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    23_Vox07.wav:
+      Track_path: Marc Ellason - Treadmills\Marc Ellason - Treadmills_RAW\23_Vox07.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    25_Vox09.wav:
+      Track_path: Marc Ellason - Treadmills\Marc Ellason - Treadmills_RAW\25_Vox09.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    26_Vox10.wav:
+      Track_path: Marc Ellason - Treadmills\Marc Ellason - Treadmills_RAW\26_Vox10.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    28_Vox12.wav:
+      Track_path: Marc Ellason - Treadmills\Marc Ellason - Treadmills_RAW\28_Vox12.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Unused:
+    32_Outro_Vocals.wav:
+      Track_path: Marc Ellason - Treadmills\Marc Ellason - Treadmills_RAW\32_Outro_Vocals.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    30_Outro_AcousticGtr.wav:
+      Track_path: Marc Ellason - Treadmills\Marc Ellason - Treadmills_RAW\30_Outro_AcousticGtr.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    14_Orchestra.wav:
+      Track_path: Marc Ellason - Treadmills\Marc Ellason - Treadmills_RAW\14_Orchestra.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    29_VoxSFX.wav:
+      Track_path: Marc Ellason - Treadmills\Marc Ellason - Treadmills_RAW\29_VoxSFX.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Ambient_Microphone: {}

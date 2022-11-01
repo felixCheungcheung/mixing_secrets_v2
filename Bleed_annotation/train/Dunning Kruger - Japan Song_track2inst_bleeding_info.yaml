@@ -1,0 +1,223 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer: {}
+  SFX: {}
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    01_Kick.wav:
+      Track_path: Dunning Kruger - Japan Song\Dunning Kruger - Japan Song_RAW\01_Kick.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Electric_Guitar, Drum_Overheads'
+      Comment: ''
+  Drum_Snare:
+    02_Snare.wav:
+      Track_path: Dunning Kruger - Japan Song\Dunning Kruger - Japan Song_RAW\02_Snare.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Electric_Guitar, Drum_Overheads'
+      Comment: ''
+  Drum_HiHat: {}
+  Drum_Cymbals: {}
+  Drum_Overheads:
+    05_Overheads.wav:
+      Track_path: Dunning Kruger - Japan Song\Dunning Kruger - Japan Song_RAW\05_Overheads.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Electric_Guitar'
+      Comment: ''
+  Drum_Tom:
+    03_TomHi.wav:
+      Track_path: Dunning Kruger - Japan Song\Dunning Kruger - Japan Song_RAW\03_TomHi.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Electric_Guitar, Drum_Overheads'
+      Comment: ''
+    04_TomLo.wav:
+      Track_path: Dunning Kruger - Japan Song\Dunning Kruger - Japan Song_RAW\04_TomLo.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Electric_Guitar, Drum_Overheads'
+      Comment: ''
+  Drum_Room:
+    06_Room.wav:
+      Track_path: Dunning Kruger - Japan Song\Dunning Kruger - Japan Song_RAW\06_Room.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Electric_Guitar'
+      Comment: ''
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop: {}
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass: {}
+  Electric_Bass:
+    07_BassDI.wav:
+      Track_path: Dunning Kruger - Japan Song\Dunning Kruger - Japan Song_RAW\07_BassDI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Acoustic_Guitar: {}
+  Electric_Guitar:
+    08_Gtr1.wav:
+      Track_path: Dunning Kruger - Japan Song\Dunning Kruger - Japan Song_RAW\08_Gtr1.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads'
+      Comment: ''
+    09_Gtr2.wav:
+      Track_path: Dunning Kruger - Japan Song\Dunning Kruger - Japan Song_RAW\09_Gtr2.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads'
+      Comment: ''
+    10_Gtr3.wav:
+      Track_path: Dunning Kruger - Japan Song\Dunning Kruger - Japan Song_RAW\10_Gtr3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    11_Gtr4DI.wav:
+      Track_path: Dunning Kruger - Japan Song\Dunning Kruger - Japan Song_RAW\11_Gtr4DI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    12_Gtr5DI.wav:
+      Track_path: Dunning Kruger - Japan Song\Dunning Kruger - Japan Song_RAW\12_Gtr5DI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    13_Gtr5Amp.wav:
+      Track_path: Dunning Kruger - Japan Song\Dunning Kruger - Japan Song_RAW\13_Gtr5Amp.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Piano: {}
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello:
+    14_CelloBridge.wav:
+      Track_path: Dunning Kruger - Japan Song\Dunning Kruger - Japan Song_RAW\14_CelloBridge.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    15_CelloBassLo1_Mic1.wav:
+      Track_path: Dunning Kruger - Japan Song\Dunning Kruger - Japan Song_RAW\15_CelloBassLo1_Mic1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    16_CelloBassLo2_Mic2.wav:
+      Track_path: Dunning Kruger - Japan Song\Dunning Kruger - Japan Song_RAW\16_CelloBassLo2_Mic2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    17_CelloHarmLo1_Mic1.wav:
+      Track_path: Dunning Kruger - Japan Song\Dunning Kruger - Japan Song_RAW\17_CelloHarmLo1_Mic1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    18_CelloHarmLo2_Mix2.wav:
+      Track_path: Dunning Kruger - Japan Song\Dunning Kruger - Japan Song_RAW\18_CelloHarmLo2_Mix2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    19_CelloHarmHi2_Mic1.wav:
+      Track_path: Dunning Kruger - Japan Song\Dunning Kruger - Japan Song_RAW\19_CelloHarmHi2_Mic1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    20_CelloHarmHi1_Mic2.wav:
+      Track_path: Dunning Kruger - Japan Song\Dunning Kruger - Japan Song_RAW\20_CelloHarmHi1_Mic2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    21_LeadVox.wav:
+      Track_path: Dunning Kruger - Japan Song\Dunning Kruger - Japan Song_RAW\21_LeadVox.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads, Electric_Guitar'
+      Comment: ''
+    22_LeadVoxDT.wav:
+      Track_path: Dunning Kruger - Japan Song\Dunning Kruger - Japan Song_RAW\22_LeadVoxDT.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads, Electric_Guitar'
+      Comment: ''
+  Choir: {}
+  Backing_Vocal:
+    23_BackingVox1.wav:
+      Track_path: Dunning Kruger - Japan Song\Dunning Kruger - Japan Song_RAW\23_BackingVox1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    24_BackingVox2.wav:
+      Track_path: Dunning Kruger - Japan Song\Dunning Kruger - Japan Song_RAW\24_BackingVox2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    25_BackingVox3.wav:
+      Track_path: Dunning Kruger - Japan Song\Dunning Kruger - Japan Song_RAW\25_BackingVox3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    26_BackingVox4.wav:
+      Track_path: Dunning Kruger - Japan Song\Dunning Kruger - Japan Song_RAW\26_BackingVox4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    27_BackingVox5.wav:
+      Track_path: Dunning Kruger - Japan Song\Dunning Kruger - Japan Song_RAW\27_BackingVox5.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    28_BackingVox6.wav:
+      Track_path: Dunning Kruger - Japan Song\Dunning Kruger - Japan Song_RAW\28_BackingVox6.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    29_BackingVox7.wav:
+      Track_path: Dunning Kruger - Japan Song\Dunning Kruger - Japan Song_RAW\29_BackingVox7.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    30_BackingVox8.wav:
+      Track_path: Dunning Kruger - Japan Song\Dunning Kruger - Japan Song_RAW\30_BackingVox8.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Unused: {}
+  Ambient_Microphone: {}

@@ -1,0 +1,308 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer:
+    23_Synth01.wav:
+      Track_path: Nerve 9 - Pray For The Rain\Nerve 9 - Pray For The Rain_RAW\23_Synth01.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    24_Synth02.wav:
+      Track_path: Nerve 9 - Pray For The Rain\Nerve 9 - Pray For The Rain_RAW\24_Synth02.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    25_Synth03.wav:
+      Track_path: Nerve 9 - Pray For The Rain\Nerve 9 - Pray For The Rain_RAW\25_Synth03.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    26_Synth04.wav:
+      Track_path: Nerve 9 - Pray For The Rain\Nerve 9 - Pray For The Rain_RAW\26_Synth04.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    27_Synth05.wav:
+      Track_path: Nerve 9 - Pray For The Rain\Nerve 9 - Pray For The Rain_RAW\27_Synth05.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    28_Synth06.wav:
+      Track_path: Nerve 9 - Pray For The Rain\Nerve 9 - Pray For The Rain_RAW\28_Synth06.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  SFX: {}
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    01_KickIn.wav:
+      Track_path: Nerve 9 - Pray For The Rain\Nerve 9 - Pray For The Rain_RAW\01_KickIn.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    02_KickOut.wav:
+      Track_path: Nerve 9 - Pray For The Rain\Nerve 9 - Pray For The Rain_RAW\02_KickOut.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_Snare:
+    03_Snare.wav:
+      Track_path: Nerve 9 - Pray For The Rain\Nerve 9 - Pray For The Rain_RAW\03_Snare.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    04_SnareSample.wav:
+      Track_path: Nerve 9 - Pray For The Rain\Nerve 9 - Pray For The Rain_RAW\04_SnareSample.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_HiHat: {}
+  Drum_Cymbals:
+    09_CymbalRoll1.wav:
+      Track_path: Nerve 9 - Pray For The Rain\Nerve 9 - Pray For The Rain_RAW\09_CymbalRoll1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    10_CymbalRoll2.wav:
+      Track_path: Nerve 9 - Pray For The Rain\Nerve 9 - Pray For The Rain_RAW\10_CymbalRoll2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Overheads:
+    05_Overheads.wav:
+      Track_path: Nerve 9 - Pray For The Rain\Nerve 9 - Pray For The Rain_RAW\05_Overheads.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Tom:
+    06_Tom1Sample.wav:
+      Track_path: Nerve 9 - Pray For The Rain\Nerve 9 - Pray For The Rain_RAW\06_Tom1Sample.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    07_Tom2Sample.wav:
+      Track_path: Nerve 9 - Pray For The Rain\Nerve 9 - Pray For The Rain_RAW\07_Tom2Sample.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    08_Tom3Sample.wav:
+      Track_path: Nerve 9 - Pray For The Rain\Nerve 9 - Pray For The Rain_RAW\08_Tom3Sample.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Room: {}
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop: {}
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass: {}
+  Electric_Bass:
+    11_BassDI.wav:
+      Track_path: Nerve 9 - Pray For The Rain\Nerve 9 - Pray For The Rain_RAW\11_BassDI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    12_BassAmp.wav:
+      Track_path: Nerve 9 - Pray For The Rain\Nerve 9 - Pray For The Rain_RAW\12_BassAmp.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Acoustic_Guitar: {}
+  Electric_Guitar:
+    13_ElecGtr01.wav:
+      Track_path: Nerve 9 - Pray For The Rain\Nerve 9 - Pray For The Rain_RAW\13_ElecGtr01.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    14_ElecGtr02.wav:
+      Track_path: Nerve 9 - Pray For The Rain\Nerve 9 - Pray For The Rain_RAW\14_ElecGtr02.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    15_ElecGtr03.wav:
+      Track_path: Nerve 9 - Pray For The Rain\Nerve 9 - Pray For The Rain_RAW\15_ElecGtr03.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    16_ElecGtr04.wav:
+      Track_path: Nerve 9 - Pray For The Rain\Nerve 9 - Pray For The Rain_RAW\16_ElecGtr04.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    17_ElecGtr05.wav:
+      Track_path: Nerve 9 - Pray For The Rain\Nerve 9 - Pray For The Rain_RAW\17_ElecGtr05.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    18_ElecGtr06.wav:
+      Track_path: Nerve 9 - Pray For The Rain\Nerve 9 - Pray For The Rain_RAW\18_ElecGtr06.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    19_ElecGtr07.wav:
+      Track_path: Nerve 9 - Pray For The Rain\Nerve 9 - Pray For The Rain_RAW\19_ElecGtr07.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    20_ElecGtr08.wav:
+      Track_path: Nerve 9 - Pray For The Rain\Nerve 9 - Pray For The Rain_RAW\20_ElecGtr08.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    21_ElecGtr09.wav:
+      Track_path: Nerve 9 - Pray For The Rain\Nerve 9 - Pray For The Rain_RAW\21_ElecGtr09.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    22_ElecGtr10.wav:
+      Track_path: Nerve 9 - Pray For The Rain\Nerve 9 - Pray For The Rain_RAW\22_ElecGtr10.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Piano: {}
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    29_LeadVox.wav:
+      Track_path: Nerve 9 - Pray For The Rain\Nerve 9 - Pray For The Rain_RAW\29_LeadVox.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Choir: {}
+  Backing_Vocal:
+    30_BackingVox01.wav:
+      Track_path: Nerve 9 - Pray For The Rain\Nerve 9 - Pray For The Rain_RAW\30_BackingVox01.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    31_BackingVox02.wav:
+      Track_path: Nerve 9 - Pray For The Rain\Nerve 9 - Pray For The Rain_RAW\31_BackingVox02.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    32_BackingVox03.wav:
+      Track_path: Nerve 9 - Pray For The Rain\Nerve 9 - Pray For The Rain_RAW\32_BackingVox03.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    33_BackingVox04.wav:
+      Track_path: Nerve 9 - Pray For The Rain\Nerve 9 - Pray For The Rain_RAW\33_BackingVox04.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    34_BackingVox05.wav:
+      Track_path: Nerve 9 - Pray For The Rain\Nerve 9 - Pray For The Rain_RAW\34_BackingVox05.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    35_BackingVox06.wav:
+      Track_path: Nerve 9 - Pray For The Rain\Nerve 9 - Pray For The Rain_RAW\35_BackingVox06.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    36_BackingVox07.wav:
+      Track_path: Nerve 9 - Pray For The Rain\Nerve 9 - Pray For The Rain_RAW\36_BackingVox07.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    37_BackingVox08.wav:
+      Track_path: Nerve 9 - Pray For The Rain\Nerve 9 - Pray For The Rain_RAW\37_BackingVox08.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    38_BackingVox09.wav:
+      Track_path: Nerve 9 - Pray For The Rain\Nerve 9 - Pray For The Rain_RAW\38_BackingVox09.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    39_BackingVox10.wav:
+      Track_path: Nerve 9 - Pray For The Rain\Nerve 9 - Pray For The Rain_RAW\39_BackingVox10.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    40_BackingVox11.wav:
+      Track_path: Nerve 9 - Pray For The Rain\Nerve 9 - Pray For The Rain_RAW\40_BackingVox11.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    41_BackingVox12.wav:
+      Track_path: Nerve 9 - Pray For The Rain\Nerve 9 - Pray For The Rain_RAW\41_BackingVox12.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    42_BackingVox13.wav:
+      Track_path: Nerve 9 - Pray For The Rain\Nerve 9 - Pray For The Rain_RAW\42_BackingVox13.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    43_BackingVox14.wav:
+      Track_path: Nerve 9 - Pray For The Rain\Nerve 9 - Pray For The Rain_RAW\43_BackingVox14.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    44_BackingVox15.wav:
+      Track_path: Nerve 9 - Pray For The Rain\Nerve 9 - Pray For The Rain_RAW\44_BackingVox15.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    45_BackingVox16.wav:
+      Track_path: Nerve 9 - Pray For The Rain\Nerve 9 - Pray For The Rain_RAW\45_BackingVox16.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    46_BackingVox17.wav:
+      Track_path: Nerve 9 - Pray For The Rain\Nerve 9 - Pray For The Rain_RAW\46_BackingVox17.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    47_BackingVox18.wav:
+      Track_path: Nerve 9 - Pray For The Rain\Nerve 9 - Pray For The Rain_RAW\47_BackingVox18.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Unused: {}
+  Ambient_Microphone: {}

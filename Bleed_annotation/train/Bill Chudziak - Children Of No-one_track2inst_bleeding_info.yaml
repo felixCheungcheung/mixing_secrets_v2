@@ -1,0 +1,193 @@
+Track2inst:
+  Electric_Organ:
+    18_Hammond.wav:
+      Track_path: Bill Chudziak - Children Of No-one\Bill Chudziak - Children Of No-one_RAW\18_Hammond.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Synthesizer: {}
+  SFX:
+    19_SFXPad1.wav:
+      Track_path: Bill Chudziak - Children Of No-one\Bill Chudziak - Children Of No-one_RAW\19_SFXPad1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    20_SFXPad2.wav:
+      Track_path: Bill Chudziak - Children Of No-one\Bill Chudziak - Children Of No-one_RAW\20_SFXPad2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    21_SFXPad3.wav:
+      Track_path: Bill Chudziak - Children Of No-one\Bill Chudziak - Children Of No-one_RAW\21_SFXPad3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    01_Kick.wav:
+      Track_path: Bill Chudziak - Children Of No-one\Bill Chudziak - Children Of No-one_RAW\01_Kick.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads'
+      Comment: ''
+  Drum_Snare:
+    02_SnareUp.wav:
+      Track_path: Bill Chudziak - Children Of No-one\Bill Chudziak - Children Of No-one_RAW\02_SnareUp.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads'
+      Comment: ''
+    03_SnareDown.wav:
+      Track_path: Bill Chudziak - Children Of No-one\Bill Chudziak - Children Of No-one_RAW\03_SnareDown.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads'
+      Comment: ''
+  Drum_HiHat:
+    04_HiHat.wav:
+      Track_path: Bill Chudziak - Children Of No-one\Bill Chudziak - Children Of No-one_RAW\04_HiHat.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads'
+      Comment: ''
+  Drum_Cymbals: {}
+  Drum_Overheads:
+    08_Overheads.wav:
+      Track_path: Bill Chudziak - Children Of No-one\Bill Chudziak - Children Of No-one_RAW\08_Overheads.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Tom:
+    05_Tom1.wav:
+      Track_path: Bill Chudziak - Children Of No-one\Bill Chudziak - Children Of No-one_RAW\05_Tom1.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads'
+      Comment: ''
+    06_Tom2.wav:
+      Track_path: Bill Chudziak - Children Of No-one\Bill Chudziak - Children Of No-one_RAW\06_Tom2.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads'
+      Comment: ''
+    07_Tom3.wav:
+      Track_path: Bill Chudziak - Children Of No-one\Bill Chudziak - Children Of No-one_RAW\07_Tom3.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads'
+      Comment: ''
+  Drum_Room:
+    09_Room1.wav:
+      Track_path: Bill Chudziak - Children Of No-one\Bill Chudziak - Children Of No-one_RAW\09_Room1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    10_Room2.wav:
+      Track_path: Bill Chudziak - Children Of No-one\Bill Chudziak - Children Of No-one_RAW\10_Room2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop: {}
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass: {}
+  Electric_Bass:
+    11_Bass.wav:
+      Track_path: Bill Chudziak - Children Of No-one\Bill Chudziak - Children Of No-one_RAW\11_Bass.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Acoustic_Guitar: {}
+  Electric_Guitar:
+    12_ElecGtr1.wav:
+      Track_path: Bill Chudziak - Children Of No-one\Bill Chudziak - Children Of No-one_RAW\12_ElecGtr1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    13_ElecGtr2.wav:
+      Track_path: Bill Chudziak - Children Of No-one\Bill Chudziak - Children Of No-one_RAW\13_ElecGtr2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    14_ElecGtr3.wav:
+      Track_path: Bill Chudziak - Children Of No-one\Bill Chudziak - Children Of No-one_RAW\14_ElecGtr3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    15_ElecGtr4.wav:
+      Track_path: Bill Chudziak - Children Of No-one\Bill Chudziak - Children Of No-one_RAW\15_ElecGtr4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    16_ElecGtr5.wav:
+      Track_path: Bill Chudziak - Children Of No-one\Bill Chudziak - Children Of No-one_RAW\16_ElecGtr5.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Piano: {}
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    22_LeadVox.wav:
+      Track_path: Bill Chudziak - Children Of No-one\Bill Chudziak - Children Of No-one_RAW\22_LeadVox.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    23_LeadVoxDT.wav:
+      Track_path: Bill Chudziak - Children Of No-one\Bill Chudziak - Children Of No-one_RAW\23_LeadVoxDT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Choir: {}
+  Backing_Vocal:
+    24_BackingVox.wav:
+      Track_path: Bill Chudziak - Children Of No-one\Bill Chudziak - Children Of No-one_RAW\24_BackingVox.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Unused:
+    17_Wurlitzer.wav:
+      Track_path: Bill Chudziak - Children Of No-one\Bill Chudziak - Children Of No-one_RAW\17_Wurlitzer.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: 'Moved Wurlitzer.wav to Unused because I am not sure whether it is Electric Guitar'
+  Ambient_Microphone: {}

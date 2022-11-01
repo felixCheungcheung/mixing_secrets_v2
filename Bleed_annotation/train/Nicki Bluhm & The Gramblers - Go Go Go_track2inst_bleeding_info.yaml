@@ -1,0 +1,187 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer: {}
+  SFX: {}
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    NBATG - Kick - M82.wav:
+      Track_path: Nicki Bluhm & The Gramblers - Go Go Go\Nicki Bluhm & The Gramblers
+        - Go Go Go_RAW\NBATG - Kick - M82.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads, Electric_Guitar, Lead_Vocal, Electric_Bass'
+      Comment: ''
+  Drum_Snare:
+    NBATG - Snare - M80.wav:
+      Track_path: Nicki Bluhm & The Gramblers - Go Go Go\Nicki Bluhm & The Gramblers
+        - Go Go Go_RAW\NBATG - Snare - M80.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads, Electric_Guitar, Lead_Vocal, Electric_Bass'
+      Comment: ''
+  Drum_HiHat:
+    NBATG - Hi Hat- ELA M 260.wav:
+      Track_path: Nicki Bluhm & The Gramblers - Go Go Go\Nicki Bluhm & The Gramblers
+        - Go Go Go_RAW\NBATG - Hi Hat- ELA M 260.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads, Electric_Guitar, Lead_Vocal, Electric_Bass'
+      Comment: ''
+    NBATG - OH Hi-Hat - ELA M 260.wav:
+      Track_path: Nicki Bluhm & The Gramblers - Go Go Go\Nicki Bluhm & The Gramblers
+        - Go Go Go_RAW\NBATG - OH Hi-Hat - ELA M 260.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads, Electric_Guitar, Lead_Vocal, Electric_Bass'
+      Comment: ''
+  Drum_Cymbals:
+    NBATG - OH Ride - ELA M 260.wav:
+      Track_path: Nicki Bluhm & The Gramblers - Go Go Go\Nicki Bluhm & The Gramblers
+        - Go Go Go_RAW\NBATG - OH Ride - ELA M 260.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads, Electric_Guitar, Lead_Vocal, Electric_Bass'
+      Comment: ''
+  Drum_Overheads: {}
+  Drum_Tom:
+    NBATG - Floor Tom - M81.wav:
+      Track_path: Nicki Bluhm & The Gramblers - Go Go Go\Nicki Bluhm & The Gramblers
+        - Go Go Go_RAW\NBATG - Floor Tom - M81.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads, Electric_Guitar, Lead_Vocal, Electric_Bass'
+      Comment: ''
+    NBATG - Rack Tom - M81.wav:
+      Track_path: Nicki Bluhm & The Gramblers - Go Go Go\Nicki Bluhm & The Gramblers
+        - Go Go Go_RAW\NBATG - Rack Tom - M81.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads, Electric_Guitar, Lead_Vocal, Electric_Bass'
+      Comment: ''
+  Drum_Room: {}
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop: {}
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass: {}
+  Electric_Bass:
+    NBATG - Bass Guitar DI.wav:
+      Track_path: Nicki Bluhm & The Gramblers - Go Go Go\Nicki Bluhm & The Gramblers
+        - Go Go Go_RAW\NBATG - Bass Guitar DI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Acoustic_Guitar:
+    NBATG - acoustic guitar DI.wav:
+      Track_path: Nicki Bluhm & The Gramblers - Go Go Go\Nicki Bluhm & The Gramblers
+        - Go Go Go_RAW\NBATG - acoustic guitar DI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: 'slight ambience'
+  Electric_Guitar:
+    NBATG - Electric Guitar - M81.wav:
+      Track_path: Nicki Bluhm & The Gramblers - Go Go Go\Nicki Bluhm & The Gramblers
+        - Go Go Go_RAW\NBATG - Electric Guitar - M81.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads'
+      Comment: 'ambience'
+  Piano: {}
+  Electric_Piano:
+    NBATG - Rhodes - DI.wav:
+      Track_path: Nicki Bluhm & The Gramblers - Go Go Go\Nicki Bluhm & The Gramblers
+        - Go Go Go_RAW\NBATG - Rhodes - DI.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads, Electric_Guitar, Lead_Vocal'
+      Comment: ''
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    NBATG - Lead Vox - M80.wav:
+      Track_path: Nicki Bluhm & The Gramblers - Go Go Go\Nicki Bluhm & The Gramblers
+        - Go Go Go_RAW\NBATG - Lead Vox - M80.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Backing_Vocal, Electric_Guitar, Electric_Bass, Drum_Overheads'
+      Comment: ''
+  Choir: {}
+  Backing_Vocal:
+    NBATG - Backing Vox - M80.wav:
+      Track_path: Nicki Bluhm & The Gramblers - Go Go Go\Nicki Bluhm & The Gramblers
+        - Go Go Go_RAW\NBATG - Backing Vox - M80.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Lead_Vocal, Electric_Guitar, Electric_Bass, Drum_Overheads'
+      Comment: ''
+    NBATG - Backing Vox 2 - M80.wav:
+      Track_path: Nicki Bluhm & The Gramblers - Go Go Go\Nicki Bluhm & The Gramblers
+        - Go Go Go_RAW\NBATG - Backing Vox 2 - M80.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Lead_Vocal, Electric_Guitar, Electric_Bass, Drum_Overheads'
+      Comment: ''
+  Unused:
+    Go Go Go - Nicki Bluhm & The Gramblers RUFF MIX_01.L.wav:
+      Track_path: Nicki Bluhm & The Gramblers - Go Go Go\Nicki Bluhm & The Gramblers
+        - Go Go Go_RAW\Go Go Go - Nicki Bluhm & The Gramblers RUFF MIX_01.L.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Go Go Go - Nicki Bluhm & The Gramblers RUFF MIX_01.R.wav:
+      Track_path: Nicki Bluhm & The Gramblers - Go Go Go\Nicki Bluhm & The Gramblers
+        - Go Go Go_RAW\Go Go Go - Nicki Bluhm & The Gramblers RUFF MIX_01.R.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Ambient_Microphone:
+    NBATG - Room Mic LEFT - ELA M 60 (FET prototype).wav:
+      Track_path: Nicki Bluhm & The Gramblers - Go Go Go\Nicki Bluhm & The Gramblers
+        - Go Go Go_RAW\NBATG - Room Mic LEFT - ELA M 60 (FET prototype).wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: ''
+      Comment: ''
+    NBATG - Room Mic RIGHT - ELA M 60 (FET prototype).wav:
+      Track_path: Nicki Bluhm & The Gramblers - Go Go Go\Nicki Bluhm & The Gramblers
+        - Go Go Go_RAW\NBATG - Room Mic RIGHT - ELA M 60 (FET prototype).wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: ''
+      Comment: ''
+    NBATG - Stage Lip - AR-51.wav:
+      Track_path: Nicki Bluhm & The Gramblers - Go Go Go\Nicki Bluhm & The Gramblers
+        - Go Go Go_RAW\NBATG - Stage Lip - AR-51.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: ''
+      Comment: ''

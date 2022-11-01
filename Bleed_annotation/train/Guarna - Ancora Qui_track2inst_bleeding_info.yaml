@@ -1,0 +1,293 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer:
+    16_Synth1.wav:
+      Track_path: Guarna - Ancora Qui\Guarna - Ancora Qui_RAW\16_Synth1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    17_Synth2.wav:
+      Track_path: Guarna - Ancora Qui\Guarna - Ancora Qui_RAW\17_Synth2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    18_Synth3.wav:
+      Track_path: Guarna - Ancora Qui\Guarna - Ancora Qui_RAW\18_Synth3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    19_Synth4.wav:
+      Track_path: Guarna - Ancora Qui\Guarna - Ancora Qui_RAW\19_Synth4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    20_Synth5.wav:
+      Track_path: Guarna - Ancora Qui\Guarna - Ancora Qui_RAW\20_Synth5.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  SFX:
+    07_SFX1.wav:
+      Track_path: Guarna - Ancora Qui\Guarna - Ancora Qui_RAW\07_SFX1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    08_SFX2.wav:
+      Track_path: Guarna - Ancora Qui\Guarna - Ancora Qui_RAW\08_SFX2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    09_SFX3.wav:
+      Track_path: Guarna - Ancora Qui\Guarna - Ancora Qui_RAW\09_SFX3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    01_Kick.wav:
+      Track_path: Guarna - Ancora Qui\Guarna - Ancora Qui_RAW\01_Kick.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Snare: {}
+  Drum_HiHat:
+    04_Hat1.wav:
+      Track_path: Guarna - Ancora Qui\Guarna - Ancora Qui_RAW\04_Hat1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    05_Hat2.wav:
+      Track_path: Guarna - Ancora Qui\Guarna - Ancora Qui_RAW\05_Hat2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    06_Hat3.wav:
+      Track_path: Guarna - Ancora Qui\Guarna - Ancora Qui_RAW\06_Hat3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Cymbals: {}
+  Drum_Overheads: {}
+  Drum_Tom: {}
+  Drum_Room: {}
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop: {}
+  Clicks: {}
+  Claps:
+    02_Clap1.wav:
+      Track_path: Guarna - Ancora Qui\Guarna - Ancora Qui_RAW\02_Clap1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    03_Clap2.wav:
+      Track_path: Guarna - Ancora Qui\Guarna - Ancora Qui_RAW\03_Clap2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass:
+    10_Bass1.wav:
+      Track_path: Guarna - Ancora Qui\Guarna - Ancora Qui_RAW\10_Bass1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    11_Bass2.wav:
+      Track_path: Guarna - Ancora Qui\Guarna - Ancora Qui_RAW\11_Bass2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    12_Bass3.wav:
+      Track_path: Guarna - Ancora Qui\Guarna - Ancora Qui_RAW\12_Bass3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Electric_Bass: {}
+  Acoustic_Guitar: {}
+  Electric_Guitar:
+    13_ElecGtr1.wav:
+      Track_path: Guarna - Ancora Qui\Guarna - Ancora Qui_RAW\13_ElecGtr1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    14_ElecGtr2.wav:
+      Track_path: Guarna - Ancora Qui\Guarna - Ancora Qui_RAW\14_ElecGtr2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    15_ElecGtrSFX.wav:
+      Track_path: Guarna - Ancora Qui\Guarna - Ancora Qui_RAW\15_ElecGtrSFX.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Piano:
+    21_Piano.wav:
+      Track_path: Guarna - Ancora Qui\Guarna - Ancora Qui_RAW\21_Piano.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    22_LeadVox1.wav:
+      Track_path: Guarna - Ancora Qui\Guarna - Ancora Qui_RAW\22_LeadVox1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    23_LeadVox1DT.wav:
+      Track_path: Guarna - Ancora Qui\Guarna - Ancora Qui_RAW\23_LeadVox1DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    24_LeadVox2.wav:
+      Track_path: Guarna - Ancora Qui\Guarna - Ancora Qui_RAW\24_LeadVox2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    25_LeadVox2DT1.wav:
+      Track_path: Guarna - Ancora Qui\Guarna - Ancora Qui_RAW\25_LeadVox2DT1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    26_LeadVox2DT2.wav:
+      Track_path: Guarna - Ancora Qui\Guarna - Ancora Qui_RAW\26_LeadVox2DT2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Choir: {}
+  Backing_Vocal:
+    27_BackingVox1.wav:
+      Track_path: Guarna - Ancora Qui\Guarna - Ancora Qui_RAW\27_BackingVox1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    28_BackingVox2.wav:
+      Track_path: Guarna - Ancora Qui\Guarna - Ancora Qui_RAW\28_BackingVox2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    29_BackingVox3.wav:
+      Track_path: Guarna - Ancora Qui\Guarna - Ancora Qui_RAW\29_BackingVox3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    30_BackingVox4.wav:
+      Track_path: Guarna - Ancora Qui\Guarna - Ancora Qui_RAW\30_BackingVox4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    31_BackingVox5.wav:
+      Track_path: Guarna - Ancora Qui\Guarna - Ancora Qui_RAW\31_BackingVox5.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    32_BackingVox6.wav:
+      Track_path: Guarna - Ancora Qui\Guarna - Ancora Qui_RAW\32_BackingVox6.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    33_BackingVox6DT1.wav:
+      Track_path: Guarna - Ancora Qui\Guarna - Ancora Qui_RAW\33_BackingVox6DT1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    34_BackingVox6DT2.wav:
+      Track_path: Guarna - Ancora Qui\Guarna - Ancora Qui_RAW\34_BackingVox6DT2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    35_BackingVox6DT3.wav:
+      Track_path: Guarna - Ancora Qui\Guarna - Ancora Qui_RAW\35_BackingVox6DT3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    36_BackingVox7.wav:
+      Track_path: Guarna - Ancora Qui\Guarna - Ancora Qui_RAW\36_BackingVox7.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    37_BackingVox7DT1.wav:
+      Track_path: Guarna - Ancora Qui\Guarna - Ancora Qui_RAW\37_BackingVox7DT1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    38_BackingVox7DT2.wav:
+      Track_path: Guarna - Ancora Qui\Guarna - Ancora Qui_RAW\38_BackingVox7DT2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    39_BackingVox7DT3.wav:
+      Track_path: Guarna - Ancora Qui\Guarna - Ancora Qui_RAW\39_BackingVox7DT3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    40_BackingVox8.wav:
+      Track_path: Guarna - Ancora Qui\Guarna - Ancora Qui_RAW\40_BackingVox8.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    41_BackingVox8DT1.wav:
+      Track_path: Guarna - Ancora Qui\Guarna - Ancora Qui_RAW\41_BackingVox8DT1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    42_BackingVox8DT2.wav:
+      Track_path: Guarna - Ancora Qui\Guarna - Ancora Qui_RAW\42_BackingVox8DT2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    43_BackingVox8DT3.wav:
+      Track_path: Guarna - Ancora Qui\Guarna - Ancora Qui_RAW\43_BackingVox8DT3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    44_VoxSFX.wav:
+      Track_path: Guarna - Ancora Qui\Guarna - Ancora Qui_RAW\44_VoxSFX.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Unused: {}
+  Ambient_Microphone: {}

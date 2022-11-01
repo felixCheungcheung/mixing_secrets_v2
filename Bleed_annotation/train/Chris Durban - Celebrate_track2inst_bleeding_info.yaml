@@ -1,0 +1,223 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer:
+    10_SynthLoop.wav:
+      Track_path: Chris Durban - Celebrate\Chris Durban - Celebrate_RAW\10_SynthLoop.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    11_SynthLoop2.wav:
+      Track_path: Chris Durban - Celebrate\Chris Durban - Celebrate_RAW\11_SynthLoop2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    12_SynthLead1.wav:
+      Track_path: Chris Durban - Celebrate\Chris Durban - Celebrate_RAW\12_SynthLead1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    13_SynthLead2.wav:
+      Track_path: Chris Durban - Celebrate\Chris Durban - Celebrate_RAW\13_SynthLead2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  SFX:
+    14_SynthSFX1.wav:
+      Track_path: Chris Durban - Celebrate\Chris Durban - Celebrate_RAW\14_SynthSFX1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    15_SynthSFX2.wav:
+      Track_path: Chris Durban - Celebrate\Chris Durban - Celebrate_RAW\15_SynthSFX2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    01_Kick1.wav:
+      Track_path: Chris Durban - Celebrate\Chris Durban - Celebrate_RAW\01_Kick1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    02_Kick2.wav:
+      Track_path: Chris Durban - Celebrate\Chris Durban - Celebrate_RAW\02_Kick2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Snare:
+    03_Snare1.wav:
+      Track_path: Chris Durban - Celebrate\Chris Durban - Celebrate_RAW\03_Snare1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    04_Snare2.wav:
+      Track_path: Chris Durban - Celebrate\Chris Durban - Celebrate_RAW\04_Snare2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_HiHat:
+    05_HiHatOpen.wav:
+      Track_path: Chris Durban - Celebrate\Chris Durban - Celebrate_RAW\05_HiHatOpen.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    06_HiHatPedal.wav:
+      Track_path: Chris Durban - Celebrate\Chris Durban - Celebrate_RAW\06_HiHatPedal.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    07_HiHatClosed1.wav:
+      Track_path: Chris Durban - Celebrate\Chris Durban - Celebrate_RAW\07_HiHatClosed1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    08_HiHatClosed2.wav:
+      Track_path: Chris Durban - Celebrate\Chris Durban - Celebrate_RAW\08_HiHatClosed2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Cymbals: {}
+  Drum_Overheads: {}
+  Drum_Tom: {}
+  Drum_Room: {}
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop: {}
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass:
+    09_Bass.wav:
+      Track_path: Chris Durban - Celebrate\Chris Durban - Celebrate_RAW\09_Bass.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Electric_Bass: {}
+  Acoustic_Guitar: {}
+  Electric_Guitar:
+    16_ElecGtr1a.wav:
+      Track_path: Chris Durban - Celebrate\Chris Durban - Celebrate_RAW\16_ElecGtr1a.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    17_ElecGtr1bFX.wav:
+      Track_path: Chris Durban - Celebrate\Chris Durban - Celebrate_RAW\17_ElecGtr1bFX.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    18_ElecGtr2.wav:
+      Track_path: Chris Durban - Celebrate\Chris Durban - Celebrate_RAW\18_ElecGtr2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    19_ElecGtr3aDI.wav:
+      Track_path: Chris Durban - Celebrate\Chris Durban - Celebrate_RAW\19_ElecGtr3aDI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    20_ElecGtr3bAmp.wav:
+      Track_path: Chris Durban - Celebrate\Chris Durban - Celebrate_RAW\20_ElecGtr3bAmp.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Piano: {}
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    21_LeadVox1.wav:
+      Track_path: Chris Durban - Celebrate\Chris Durban - Celebrate_RAW\21_LeadVox1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    22_LeadVox2.wav:
+      Track_path: Chris Durban - Celebrate\Chris Durban - Celebrate_RAW\22_LeadVox2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    23_LeadVox3.wav:
+      Track_path: Chris Durban - Celebrate\Chris Durban - Celebrate_RAW\23_LeadVox3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Choir: {}
+  Backing_Vocal:
+    24_BackingVox1.wav:
+      Track_path: Chris Durban - Celebrate\Chris Durban - Celebrate_RAW\24_BackingVox1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    25_BackingVox2.wav:
+      Track_path: Chris Durban - Celebrate\Chris Durban - Celebrate_RAW\25_BackingVox2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    26_BackingVox3.wav:
+      Track_path: Chris Durban - Celebrate\Chris Durban - Celebrate_RAW\26_BackingVox3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    27_BackingVox4.wav:
+      Track_path: Chris Durban - Celebrate\Chris Durban - Celebrate_RAW\27_BackingVox4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    28_BackingVox5.wav:
+      Track_path: Chris Durban - Celebrate\Chris Durban - Celebrate_RAW\28_BackingVox5.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    29_BackingVox6.wav:
+      Track_path: Chris Durban - Celebrate\Chris Durban - Celebrate_RAW\29_BackingVox6.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    30_BackingVox7.wav:
+      Track_path: Chris Durban - Celebrate\Chris Durban - Celebrate_RAW\30_BackingVox7.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Unused: {}
+  Ambient_Microphone: {}

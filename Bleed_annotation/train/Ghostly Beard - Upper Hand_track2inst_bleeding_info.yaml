@@ -1,0 +1,228 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer: {}
+  SFX:
+    22_SFX.wav:
+      Track_path: Ghostly Beard - Upper Hand\Ghostly Beard - Upper Hand_RAW\22_SFX.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    01_KickIn.wav:
+      Track_path: Ghostly Beard - Upper Hand\Ghostly Beard - Upper Hand_RAW\01_KickIn.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads'
+      Comment: ''
+    02_KickOut.wav:
+      Track_path: Ghostly Beard - Upper Hand\Ghostly Beard - Upper Hand_RAW\02_KickOut.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads'
+      Comment: ''
+    03_KickSample.wav:
+      Track_path: Ghostly Beard - Upper Hand\Ghostly Beard - Upper Hand_RAW\03_KickSample.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Snare:
+    04_SnareUp.wav:
+      Track_path: Ghostly Beard - Upper Hand\Ghostly Beard - Upper Hand_RAW\04_SnareUp.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads'
+      Comment: ''
+    05_SnareDown.wav:
+      Track_path: Ghostly Beard - Upper Hand\Ghostly Beard - Upper Hand_RAW\05_SnareDown.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads'
+      Comment: ''
+  Drum_HiHat: {}
+  Drum_Cymbals: {}
+  Drum_Overheads:
+    09_Overheads.wav:
+      Track_path: Ghostly Beard - Upper Hand\Ghostly Beard - Upper Hand_RAW\09_Overheads.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Tom:
+    06_Tom1.wav:
+      Track_path: Ghostly Beard - Upper Hand\Ghostly Beard - Upper Hand_RAW\06_Tom1.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads'
+      Comment: ''
+    07_Tom2.wav:
+      Track_path: Ghostly Beard - Upper Hand\Ghostly Beard - Upper Hand_RAW\07_Tom2.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads'
+      Comment: ''
+    08_Tom3.wav:
+      Track_path: Ghostly Beard - Upper Hand\Ghostly Beard - Upper Hand_RAW\08_Tom3.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads'
+      Comment: ''
+  Drum_Room:
+    10_DrumsRoom1_Stereo.wav:
+      Track_path: Ghostly Beard - Upper Hand\Ghostly Beard - Upper Hand_RAW\10_DrumsRoom1_Stereo.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    11_DrumsRoom2_Mono.wav:
+      Track_path: Ghostly Beard - Upper Hand\Ghostly Beard - Upper Hand_RAW\11_DrumsRoom2_Mono.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Shaker:
+    12_Shaker.wav:
+      Track_path: Ghostly Beard - Upper Hand\Ghostly Beard - Upper Hand_RAW\12_Shaker.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine:
+    13_Tambourine.wav:
+      Track_path: Ghostly Beard - Upper Hand\Ghostly Beard - Upper Hand_RAW\13_Tambourine.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Loop: {}
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass: {}
+  Electric_Bass: {}
+  Acoustic_Guitar:
+    15_AcousticGtr1.wav:
+      Track_path: Ghostly Beard - Upper Hand\Ghostly Beard - Upper Hand_RAW\15_AcousticGtr1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    16_AcoustiGtr2.wav:
+      Track_path: Ghostly Beard - Upper Hand\Ghostly Beard - Upper Hand_RAW\16_AcoustiGtr2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Electric_Guitar:
+    17_ElecGtr1.wav:
+      Track_path: Ghostly Beard - Upper Hand\Ghostly Beard - Upper Hand_RAW\17_ElecGtr1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    18_ElecGtr2.wav:
+      Track_path: Ghostly Beard - Upper Hand\Ghostly Beard - Upper Hand_RAW\18_ElecGtr2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Piano:
+    20_Piano.wav:
+      Track_path: Ghostly Beard - Upper Hand\Ghostly Beard - Upper Hand_RAW\20_Piano.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Electric_Piano:
+    19_Rhodes.wav:
+      Track_path: Ghostly Beard - Upper Hand\Ghostly Beard - Upper Hand_RAW\19_Rhodes.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Brass_Section:
+    21_Horns.wav:
+      Track_path: Ghostly Beard - Upper Hand\Ghostly Beard - Upper Hand_RAW\21_Horns.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass:
+    14_Bass.wav:
+      Track_path: Ghostly Beard - Upper Hand\Ghostly Beard - Upper Hand_RAW\14_Bass.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    23_LeadVox.wav:
+      Track_path: Ghostly Beard - Upper Hand\Ghostly Beard - Upper Hand_RAW\23_LeadVox.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Choir: {}
+  Backing_Vocal:
+    24_BackingVox1.wav:
+      Track_path: Ghostly Beard - Upper Hand\Ghostly Beard - Upper Hand_RAW\24_BackingVox1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    25_BackingVox2.wav:
+      Track_path: Ghostly Beard - Upper Hand\Ghostly Beard - Upper Hand_RAW\25_BackingVox2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    26_BackingVox3.wav:
+      Track_path: Ghostly Beard - Upper Hand\Ghostly Beard - Upper Hand_RAW\26_BackingVox3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    27_BackingVox4.wav:
+      Track_path: Ghostly Beard - Upper Hand\Ghostly Beard - Upper Hand_RAW\27_BackingVox4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    28_BackingVox5.wav:
+      Track_path: Ghostly Beard - Upper Hand\Ghostly Beard - Upper Hand_RAW\28_BackingVox5.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: 'noticeable leakage of Band in the second to last phrase'
+    29_BackingVox6.wav:
+      Track_path: Ghostly Beard - Upper Hand\Ghostly Beard - Upper Hand_RAW\29_BackingVox6.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: 'noticeable leakage of Band in the second to last phrase'
+    30_BackingVox7.wav:
+      Track_path: Ghostly Beard - Upper Hand\Ghostly Beard - Upper Hand_RAW\30_BackingVox7.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: 'noticeable leakage of Band in the second to last phrase'
+    31_BackingVox8.wav:
+      Track_path: Ghostly Beard - Upper Hand\Ghostly Beard - Upper Hand_RAW\31_BackingVox8.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: 'noticeable leakage of Band in the second to last phrase'
+  Unused: {}
+  Ambient_Microphone: {}

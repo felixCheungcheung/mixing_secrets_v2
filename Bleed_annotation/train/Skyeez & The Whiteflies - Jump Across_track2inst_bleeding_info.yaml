@@ -1,0 +1,337 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer:
+    32_Synth.wav:
+      Track_path: Skyeez & The Whiteflies - Jump Across\Skyeez & The Whiteflies -
+        Jump Across_RAW\32_Synth.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  SFX: {}
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    01_KickIn.wav:
+      Track_path: Skyeez & The Whiteflies - Jump Across\Skyeez & The Whiteflies -
+        Jump Across_RAW\01_KickIn.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    02_KickOut.wav:
+      Track_path: Skyeez & The Whiteflies - Jump Across\Skyeez & The Whiteflies -
+        Jump Across_RAW\02_KickOut.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    03_KickSample.wav:
+      Track_path: Skyeez & The Whiteflies - Jump Across\Skyeez & The Whiteflies -
+        Jump Across_RAW\03_KickSample.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Snare:
+    04_SnareUpMic1.wav:
+      Track_path: Skyeez & The Whiteflies - Jump Across\Skyeez & The Whiteflies -
+        Jump Across_RAW\04_SnareUpMic1.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    05_SnareUpMic2.wav:
+      Track_path: Skyeez & The Whiteflies - Jump Across\Skyeez & The Whiteflies -
+        Jump Across_RAW\05_SnareUpMic2.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    06_SnareDown.wav:
+      Track_path: Skyeez & The Whiteflies - Jump Across\Skyeez & The Whiteflies -
+        Jump Across_RAW\06_SnareDown.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    07_SnareSample.wav:
+      Track_path: Skyeez & The Whiteflies - Jump Across\Skyeez & The Whiteflies -
+        Jump Across_RAW\07_SnareSample.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_HiHat:
+    08_HiHat.wav:
+      Track_path: Skyeez & The Whiteflies - Jump Across\Skyeez & The Whiteflies -
+        Jump Across_RAW\08_HiHat.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_Cymbals: {}
+  Drum_Overheads:
+    12_Overheads1.wav:
+      Track_path: Skyeez & The Whiteflies - Jump Across\Skyeez & The Whiteflies -
+        Jump Across_RAW\12_Overheads1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    13_Overheads2.wav:
+      Track_path: Skyeez & The Whiteflies - Jump Across\Skyeez & The Whiteflies -
+        Jump Across_RAW\13_Overheads2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Tom:
+    09_Tom1.wav:
+      Track_path: Skyeez & The Whiteflies - Jump Across\Skyeez & The Whiteflies -
+        Jump Across_RAW\09_Tom1.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    10_Tom2.wav:
+      Track_path: Skyeez & The Whiteflies - Jump Across\Skyeez & The Whiteflies -
+        Jump Across_RAW\10_Tom2.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    11_Tom3.wav:
+      Track_path: Skyeez & The Whiteflies - Jump Across\Skyeez & The Whiteflies -
+        Jump Across_RAW\11_Tom3.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_Room:
+    14_DrumsRoomStereo.wav:
+      Track_path: Skyeez & The Whiteflies - Jump Across\Skyeez & The Whiteflies -
+        Jump Across_RAW\14_DrumsRoomStereo.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    15_DrumsRoomMono.wav:
+      Track_path: Skyeez & The Whiteflies - Jump Across\Skyeez & The Whiteflies -
+        Jump Across_RAW\15_DrumsRoomMono.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop: {}
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass: {}
+  Electric_Bass:
+    16_BassDI.wav:
+      Track_path: Skyeez & The Whiteflies - Jump Across\Skyeez & The Whiteflies -
+        Jump Across_RAW\16_BassDI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    17_BassAmp.wav:
+      Track_path: Skyeez & The Whiteflies - Jump Across\Skyeez & The Whiteflies -
+        Jump Across_RAW\17_BassAmp.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Acoustic_Guitar:
+    18_AcousticGtr.wav:
+      Track_path: Skyeez & The Whiteflies - Jump Across\Skyeez & The Whiteflies -
+        Jump Across_RAW\18_AcousticGtr.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Electric_Guitar:
+    19_ElecGtr01.wav:
+      Track_path: Skyeez & The Whiteflies - Jump Across\Skyeez & The Whiteflies -
+        Jump Across_RAW\19_ElecGtr01.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    20_ElecGtr02.wav:
+      Track_path: Skyeez & The Whiteflies - Jump Across\Skyeez & The Whiteflies -
+        Jump Across_RAW\20_ElecGtr02.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    21_ElecGtr03.wav:
+      Track_path: Skyeez & The Whiteflies - Jump Across\Skyeez & The Whiteflies -
+        Jump Across_RAW\21_ElecGtr03.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    22_ElecGtr04.wav:
+      Track_path: Skyeez & The Whiteflies - Jump Across\Skyeez & The Whiteflies -
+        Jump Across_RAW\22_ElecGtr04.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    23_ElecGtr05.wav:
+      Track_path: Skyeez & The Whiteflies - Jump Across\Skyeez & The Whiteflies -
+        Jump Across_RAW\23_ElecGtr05.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    24_ElecGtr06.wav:
+      Track_path: Skyeez & The Whiteflies - Jump Across\Skyeez & The Whiteflies -
+        Jump Across_RAW\24_ElecGtr06.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    25_ElecGtr07.wav:
+      Track_path: Skyeez & The Whiteflies - Jump Across\Skyeez & The Whiteflies -
+        Jump Across_RAW\25_ElecGtr07.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    26_ElecGtr07DT.wav:
+      Track_path: Skyeez & The Whiteflies - Jump Across\Skyeez & The Whiteflies -
+        Jump Across_RAW\26_ElecGtr07DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    27_ElecGtr08.wav:
+      Track_path: Skyeez & The Whiteflies - Jump Across\Skyeez & The Whiteflies -
+        Jump Across_RAW\27_ElecGtr08.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    28_ElecGtr09.wav:
+      Track_path: Skyeez & The Whiteflies - Jump Across\Skyeez & The Whiteflies -
+        Jump Across_RAW\28_ElecGtr09.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    29_ElecGtr10.wav:
+      Track_path: Skyeez & The Whiteflies - Jump Across\Skyeez & The Whiteflies -
+        Jump Across_RAW\29_ElecGtr10.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    30_ElecGtr11.wav:
+      Track_path: Skyeez & The Whiteflies - Jump Across\Skyeez & The Whiteflies -
+        Jump Across_RAW\30_ElecGtr11.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    31_ElecGtr12.wav:
+      Track_path: Skyeez & The Whiteflies - Jump Across\Skyeez & The Whiteflies -
+        Jump Across_RAW\31_ElecGtr12.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Piano: {}
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    33_LeadVox.wav:
+      Track_path: Skyeez & The Whiteflies - Jump Across\Skyeez & The Whiteflies -
+        Jump Across_RAW\33_LeadVox.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    34_LeadVoxDT.wav:
+      Track_path: Skyeez & The Whiteflies - Jump Across\Skyeez & The Whiteflies -
+        Jump Across_RAW\34_LeadVoxDT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Choir: {}
+  Backing_Vocal:
+    35_BackingVox1.wav:
+      Track_path: Skyeez & The Whiteflies - Jump Across\Skyeez & The Whiteflies -
+        Jump Across_RAW\35_BackingVox1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    36_BackingVox2.wav:
+      Track_path: Skyeez & The Whiteflies - Jump Across\Skyeez & The Whiteflies -
+        Jump Across_RAW\36_BackingVox2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    37_BackingVox3.wav:
+      Track_path: Skyeez & The Whiteflies - Jump Across\Skyeez & The Whiteflies -
+        Jump Across_RAW\37_BackingVox3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    38_BackingVox4.wav:
+      Track_path: Skyeez & The Whiteflies - Jump Across\Skyeez & The Whiteflies -
+        Jump Across_RAW\38_BackingVox4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    39_BackingVox5.wav:
+      Track_path: Skyeez & The Whiteflies - Jump Across\Skyeez & The Whiteflies -
+        Jump Across_RAW\39_BackingVox5.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    40_BackingVox6.wav:
+      Track_path: Skyeez & The Whiteflies - Jump Across\Skyeez & The Whiteflies -
+        Jump Across_RAW\40_BackingVox6.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    41_BackingVox6DT.wav:
+      Track_path: Skyeez & The Whiteflies - Jump Across\Skyeez & The Whiteflies -
+        Jump Across_RAW\41_BackingVox6DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    42_BackingVox7.wav:
+      Track_path: Skyeez & The Whiteflies - Jump Across\Skyeez & The Whiteflies -
+        Jump Across_RAW\42_BackingVox7.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    43_BackingVox8.wav:
+      Track_path: Skyeez & The Whiteflies - Jump Across\Skyeez & The Whiteflies -
+        Jump Across_RAW\43_BackingVox8.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    44_BackingVox9.wav:
+      Track_path: Skyeez & The Whiteflies - Jump Across\Skyeez & The Whiteflies -
+        Jump Across_RAW\44_BackingVox9.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Unused: {}
+  Ambient_Microphone: {}

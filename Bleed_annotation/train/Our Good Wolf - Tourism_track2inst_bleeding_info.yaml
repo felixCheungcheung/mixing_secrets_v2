@@ -1,0 +1,198 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer: {}
+  SFX: {}
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    01_KickMic1.wav:
+      Track_path: Our Good Wolf - Tourism\Our Good Wolf - Tourism_RAW\01_KickMic1.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    02_KickMic2.wav:
+      Track_path: Our Good Wolf - Tourism\Our Good Wolf - Tourism_RAW\02_KickMic2.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_Snare:
+    03_Snare1.wav:
+      Track_path: Our Good Wolf - Tourism\Our Good Wolf - Tourism_RAW\03_Snare1.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    04_Snare2Up.wav:
+      Track_path: Our Good Wolf - Tourism\Our Good Wolf - Tourism_RAW\04_Snare2Up.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    05_Snare2Down.wav:
+      Track_path: Our Good Wolf - Tourism\Our Good Wolf - Tourism_RAW\05_Snare2Down.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_HiHat:
+    06_HiHat.wav:
+      Track_path: Our Good Wolf - Tourism\Our Good Wolf - Tourism_RAW\06_HiHat.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_Cymbals:
+    07_Ride.wav:
+      Track_path: Our Good Wolf - Tourism\Our Good Wolf - Tourism_RAW\07_Ride.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_Overheads:
+    08_Overhead.wav:
+      Track_path: Our Good Wolf - Tourism\Our Good Wolf - Tourism_RAW\08_Overhead.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Tom: {}
+  Drum_Room:
+    09_DrumsRoom1.wav:
+      Track_path: Our Good Wolf - Tourism\Our Good Wolf - Tourism_RAW\09_DrumsRoom1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    10_DrumsRoom2.wav:
+      Track_path: Our Good Wolf - Tourism\Our Good Wolf - Tourism_RAW\10_DrumsRoom2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    11_DrumsRoom3.wav:
+      Track_path: Our Good Wolf - Tourism\Our Good Wolf - Tourism_RAW\11_DrumsRoom3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    12_DrumsRoom4.wav:
+      Track_path: Our Good Wolf - Tourism\Our Good Wolf - Tourism_RAW\12_DrumsRoom4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Shaker:
+    13_Shaker.wav:
+      Track_path: Our Good Wolf - Tourism\Our Good Wolf - Tourism_RAW\13_Shaker.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Lead_Vocal'
+      Comment: ''
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop: {}
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass: {}
+  Electric_Bass:
+    14_BassAmp.wav:
+      Track_path: Our Good Wolf - Tourism\Our Good Wolf - Tourism_RAW\14_BassAmp.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    15_BassDI.wav:
+      Track_path: Our Good Wolf - Tourism\Our Good Wolf - Tourism_RAW\15_BassDI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Acoustic_Guitar: {}
+  Electric_Guitar:
+    16_ElecGtr1.wav:
+      Track_path: Our Good Wolf - Tourism\Our Good Wolf - Tourism_RAW\16_ElecGtr1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    17_ElecGtr2.wav:
+      Track_path: Our Good Wolf - Tourism\Our Good Wolf - Tourism_RAW\17_ElecGtr2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Piano:
+    18_Piano.wav:
+      Track_path: Our Good Wolf - Tourism\Our Good Wolf - Tourism_RAW\18_Piano.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    19_LeadVox1.wav:
+      Track_path: Our Good Wolf - Tourism\Our Good Wolf - Tourism_RAW\19_LeadVox1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Choir: {}
+  Backing_Vocal:
+    21_BackingVox1.wav:
+      Track_path: Our Good Wolf - Tourism\Our Good Wolf - Tourism_RAW\21_BackingVox1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    22_BackingVox2.wav:
+      Track_path: Our Good Wolf - Tourism\Our Good Wolf - Tourism_RAW\22_BackingVox2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    23_BackingVox3.wav:
+      Track_path: Our Good Wolf - Tourism\Our Good Wolf - Tourism_RAW\23_BackingVox3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    24_BackingVox4.wav:
+      Track_path: Our Good Wolf - Tourism\Our Good Wolf - Tourism_RAW\24_BackingVox4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    25_BackingVox5.wav:
+      Track_path: Our Good Wolf - Tourism\Our Good Wolf - Tourism_RAW\25_BackingVox5.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    20_LeadVox2.wav:
+      Track_path: Our Good Wolf - Tourism\Our Good Wolf - Tourism_RAW\20_LeadVox2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Unused: {}
+  Ambient_Microphone: {}

@@ -1,0 +1,128 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer: {}
+  SFX: {}
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    01_Kick.wav:
+      Track_path: Spektakulatius - Christmas Blues\Spektakulatius - Christmas Blues_RAW\01_Kick.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads, Electric_Guitar'
+      Comment: ''
+  Drum_Snare:
+    02_Snare.wav:
+      Track_path: Spektakulatius - Christmas Blues\Spektakulatius - Christmas Blues_RAW\02_Snare.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads, Electric_Guitar'
+      Comment: ''
+  Drum_HiHat: {}
+  Drum_Cymbals: {}
+  Drum_Overheads:
+    03_Overheads.wav:
+      Track_path: Spektakulatius - Christmas Blues\Spektakulatius - Christmas Blues_RAW\03_Overheads.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Electric_Guitar'
+      Comment: ''
+  Drum_Tom:
+    04_Toms.wav:
+      Track_path: Spektakulatius - Christmas Blues\Spektakulatius - Christmas Blues_RAW\04_Toms.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads, Electric_Guitar'
+      Comment: ''
+  Drum_Room: {}
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop: {}
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass: {}
+  Electric_Bass:
+    05_BassDI.wav:
+      Track_path: Spektakulatius - Christmas Blues\Spektakulatius - Christmas Blues_RAW\05_BassDI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Acoustic_Guitar: {}
+  Electric_Guitar:
+    06_ElecGtr01.wav:
+      Track_path: Spektakulatius - Christmas Blues\Spektakulatius - Christmas Blues_RAW\06_ElecGtr01.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads'
+      Comment: ''
+  Piano:
+    08_Piano.wav:
+      Track_path: Spektakulatius - Christmas Blues\Spektakulatius - Christmas Blues_RAW\08_Piano.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads, Electric_Guitar'
+      Comment: ''
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone:
+    07_Saxophone.wav:
+      Track_path: Spektakulatius - Christmas Blues\Spektakulatius - Christmas Blues_RAW\07_Saxophone.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    09_LeadVox.wav:
+      Track_path: Spektakulatius - Christmas Blues\Spektakulatius - Christmas Blues_RAW\09_LeadVox.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads, Electric_Guitar'
+      Comment: ''
+  Choir: {}
+  Backing_Vocal:
+    10_BackingVox01.wav:
+      Track_path: Spektakulatius - Christmas Blues\Spektakulatius - Christmas Blues_RAW\10_BackingVox01.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads, Electric_Guitar'
+      Comment: ''
+    11_BackingVox02.wav:
+      Track_path: Spektakulatius - Christmas Blues\Spektakulatius - Christmas Blues_RAW\11_BackingVox02.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads, Electric_Guitar'
+      Comment: ''
+  Unused: {}
+  Ambient_Microphone: {}

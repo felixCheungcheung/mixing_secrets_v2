@@ -1,0 +1,256 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer: {}
+  SFX: {}
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    DRUM KICK I-M82-SSL DUALITY.wav:
+      Track_path: Andrew Cole - Dead Roses\Andrew Cole - Dead Roses_RAW\DRUM KICK
+        I-M82-SSL DUALITY.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads, Electric_Guitar, Lead_Vocal'
+      Comment: '"1 2 3 4" vocal leaks to drum instrument track in the beginning, especially for overhead. Getting rid of the first or final segment of the song is recommended. '
+    DRUM KICK O-U47-SSL DUALITY.wav:
+      Track_path: Andrew Cole - Dead Roses\Andrew Cole - Dead Roses_RAW\DRUM KICK
+        O-U47-SSL DUALITY.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads, Electric_Guitar, Lead_Vocal'
+      Comment: ''
+  Drum_Snare:
+    DRUM SNARE B-M81-SSL DUALITY.wav:
+      Track_path: Andrew Cole - Dead Roses\Andrew Cole - Dead Roses_RAW\DRUM SNARE
+        B-M81-SSL DUALITY.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads, Electric_Guitar, Lead_Vocal'
+      Comment: ''
+    DRUM SNARE T-M80-SSL DUALITY.wav:
+      Track_path: Andrew Cole - Dead Roses\Andrew Cole - Dead Roses_RAW\DRUM SNARE
+        T-M80-SSL DUALITY.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads, Electric_Guitar, Lead_Vocal'
+      Comment: ''
+  Drum_HiHat:
+    DRUM HIHAT-260-SSL DUALITY.wav:
+      Track_path: Andrew Cole - Dead Roses\Andrew Cole - Dead Roses_RAW\DRUM HIHAT-260-SSL
+        DUALITY.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads, Electric_Guitar, Lead_Vocal'
+      Comment: ''
+  Drum_Cymbals: {}
+  Drum_Overheads:
+    DRUM OH-AK47-SSL DUALITY.L.wav:
+      Track_path: Andrew Cole - Dead Roses\Andrew Cole - Dead Roses_RAW\DRUM OH-AK47-SSL
+        DUALITY.L.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Electric_Guitar, Lead_Vocal, Electric_Bass'
+      Comment: '"1 2 3 4" vocal leaks to drum instrument track in the beginning, especially for overhead. Getting rid of the first or final segment of the song is recommended. '
+    DRUM OH-AK47-SSL DUALITY.R.wav:
+      Track_path: Andrew Cole - Dead Roses\Andrew Cole - Dead Roses_RAW\DRUM OH-AK47-SSL
+        DUALITY.R.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Electric_Guitar, Lead_Vocal, Electric_Bass'
+      Comment: ''
+    DRUM OH-C12-SSL DUALITY.L.wav:
+      Track_path: Andrew Cole - Dead Roses\Andrew Cole - Dead Roses_RAW\DRUM OH-C12-SSL
+        DUALITY.L.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Electric_Guitar, Lead_Vocal, Electric_Bass'
+      Comment: ''
+    DRUM OH-C12-SSL DUALITY.R.wav:
+      Track_path: Andrew Cole - Dead Roses\Andrew Cole - Dead Roses_RAW\DRUM OH-C12-SSL
+        DUALITY.R.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Electric_Guitar, Lead_Vocal, Electric_Bass'
+      Comment: ''
+  Drum_Tom:
+    DRUM FLOOR TOM-M81-SSL DUALITY.wav:
+      Track_path: Andrew Cole - Dead Roses\Andrew Cole - Dead Roses_RAW\DRUM FLOOR
+        TOM-M81-SSL DUALITY.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads, Electric_Guitar, Lead_Vocal, Electric_Bass'
+      Comment: ''
+    DRUM RACK TOM-M81-SSL DUALITY.wav:
+      Track_path: Andrew Cole - Dead Roses\Andrew Cole - Dead Roses_RAW\DRUM RACK
+        TOM-M81-SSL DUALITY.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads, Electric_Guitar, Lead_Vocal, Electric_Bass'
+      Comment: ''
+  Drum_Room: {}
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop: {}
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass: {}
+  Electric_Bass:
+    BASS-AMP-CU29-LACHAPELLE.wav:
+      Track_path: Andrew Cole - Dead Roses\Andrew Cole - Dead Roses_RAW\BASS-AMP-CU29-LACHAPELLE.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    BASS-DI-1081.wav:
+      Track_path: Andrew Cole - Dead Roses\Andrew Cole - Dead Roses_RAW\BASS-DI-1081.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Acoustic_Guitar:
+    AC GUITAR-260-1081.wav:
+      Track_path: Andrew Cole - Dead Roses\Andrew Cole - Dead Roses_RAW\AC GUITAR-260-1081.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    AC GUITAR-AR51-1081.wav:
+      Track_path: Andrew Cole - Dead Roses\Andrew Cole - Dead Roses_RAW\AC GUITAR-AR51-1081.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    AC GUITAR-CU29-1081.wav:
+      Track_path: Andrew Cole - Dead Roses\Andrew Cole - Dead Roses_RAW\AC GUITAR-CU29-1081.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    AC GUITAR-DI-SSL DUALITY.wav:
+      Track_path: Andrew Cole - Dead Roses\Andrew Cole - Dead Roses_RAW\AC GUITAR-DI-SSL
+        DUALITY.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    SCRACTCH AC GUITAR-DI-SSL DUALITY.wav:
+      Track_path: Andrew Cole - Dead Roses\Andrew Cole - Dead Roses_RAW\SCRACTCH AC
+        GUITAR-DI-SSL DUALITY.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Electric_Guitar:
+    E GUITAR-AR51-CHANDLER TG CHANNEL.wav:
+      Track_path: Andrew Cole - Dead Roses\Andrew Cole - Dead Roses_RAW\E GUITAR-AR51-CHANDLER
+        TG CHANNEL.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    E GUITAR-CU29-CHANDLER TG CHANNEL.wav:
+      Track_path: Andrew Cole - Dead Roses\Andrew Cole - Dead Roses_RAW\E GUITAR-CU29-CHANDLER
+        TG CHANNEL.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    E GUITAR-M81-CHANDLER TG CHANNEL.wav:
+      Track_path: Andrew Cole - Dead Roses\Andrew Cole - Dead Roses_RAW\E GUITAR-M81-CHANDLER
+        TG CHANNEL.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Piano:
+    PIANO CLOSE-260-1084.L.wav:
+      Track_path: Andrew Cole - Dead Roses\Andrew Cole - Dead Roses_RAW\PIANO CLOSE-260-1084.L.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    PIANO CLOSE-260-1084.R.wav:
+      Track_path: Andrew Cole - Dead Roses\Andrew Cole - Dead Roses_RAW\PIANO CLOSE-260-1084.R.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    PIANO ROOM-AR70-1081.L.wav:
+      Track_path: Andrew Cole - Dead Roses\Andrew Cole - Dead Roses_RAW\PIANO ROOM-AR70-1081.L.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    PIANO ROOM-AR70-1081.R.wav:
+      Track_path: Andrew Cole - Dead Roses\Andrew Cole - Dead Roses_RAW\PIANO ROOM-AR70-1081.R.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    VOX LD-251E-1084.wav:
+      Track_path: Andrew Cole - Dead Roses\Andrew Cole - Dead Roses_RAW\VOX LD-251E-1084.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    VOX LD-AR51-1084.wav:
+      Track_path: Andrew Cole - Dead Roses\Andrew Cole - Dead Roses_RAW\VOX LD-AR51-1084.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    VOX LD-CU29-1084.wav:
+      Track_path: Andrew Cole - Dead Roses\Andrew Cole - Dead Roses_RAW\VOX LD-CU29-1084.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    VOX LD-U48-1081.wav:
+      Track_path: Andrew Cole - Dead Roses\Andrew Cole - Dead Roses_RAW\VOX LD-U48-1081.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Choir: {}
+  Backing_Vocal:
+    VOX BG-C12-1084.wav:
+      Track_path: Andrew Cole - Dead Roses\Andrew Cole - Dead Roses_RAW\VOX BG-C12-1084.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    VOX BG-U47-1081.wav:
+      Track_path: Andrew Cole - Dead Roses\Andrew Cole - Dead Roses_RAW\VOX BG-U47-1081.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Unused:
+    SCRATCH VOX LD-M80-SSL DUALITY.wav:
+      Track_path: Andrew Cole - Dead Roses\Andrew Cole - Dead Roses_RAW\SCRATCH VOX
+        LD-M80-SSL DUALITY.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: ''
+      Comment: 'huge'
+    SCRATCH VOX BG-M80-SSL DUALITY.wav:
+      Track_path: Andrew Cole - Dead Roses\Andrew Cole - Dead Roses_RAW\SCRATCH VOX
+        BG-M80-SSL DUALITY.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: ''
+      Comment: 'huge'
+  Ambient_Microphone: {}

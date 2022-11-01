@@ -1,0 +1,228 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer: {}
+  SFX:
+    23_Percussion07.wav:
+      Track_path: J P Lantieri - Riesling\J P Lantieri - Riesling_RAW\23_Percussion07.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    24_Percussion08.wav:
+      Track_path: J P Lantieri - Riesling\J P Lantieri - Riesling_RAW\24_Percussion08.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    25_Percussion09.wav:
+      Track_path: J P Lantieri - Riesling\J P Lantieri - Riesling_RAW\25_Percussion09.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    31_Percussion15.wav:
+      Track_path: J P Lantieri - Riesling\J P Lantieri - Riesling_RAW\31_Percussion15.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Marimba: {}
+  Bell:
+    11_Bell.wav:
+      Track_path: J P Lantieri - Riesling\J P Lantieri - Riesling_RAW\11_Bell.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic:
+    28_Percussion12.wav:
+      Track_path: J P Lantieri - Riesling\J P Lantieri - Riesling_RAW\28_Percussion12.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Kick:
+    01_Kick.wav:
+      Track_path: J P Lantieri - Riesling\J P Lantieri - Riesling_RAW\01_Kick.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Snare:
+    02_Snare1.wav:
+      Track_path: J P Lantieri - Riesling\J P Lantieri - Riesling_RAW\02_Snare1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    03_Snare2.wav:
+      Track_path: J P Lantieri - Riesling\J P Lantieri - Riesling_RAW\03_Snare2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    04_Snare3.wav:
+      Track_path: J P Lantieri - Riesling\J P Lantieri - Riesling_RAW\04_Snare3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_HiHat:
+    05_HiHat.wav:
+      Track_path: J P Lantieri - Riesling\J P Lantieri - Riesling_RAW\05_HiHat.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Cymbals:
+    08_Crash.wav:
+      Track_path: J P Lantieri - Riesling\J P Lantieri - Riesling_RAW\08_Crash.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    09_ReverseCrash.wav:
+      Track_path: J P Lantieri - Riesling\J P Lantieri - Riesling_RAW\09_ReverseCrash.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Overheads: {}
+  Drum_Tom: {}
+  Drum_Room: {}
+  Shaker:
+    07_Shakers.wav:
+      Track_path: J P Lantieri - Riesling\J P Lantieri - Riesling_RAW\07_Shakers.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Taiko: {}
+  Timpani:
+    10_Timpani.wav:
+      Track_path: J P Lantieri - Riesling\J P Lantieri - Riesling_RAW\10_Timpani.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga:
+    06_Congas.wav:
+      Track_path: J P Lantieri - Riesling\J P Lantieri - Riesling_RAW\06_Congas.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop:
+    13_Loop1.wav:
+      Track_path: J P Lantieri - Riesling\J P Lantieri - Riesling_RAW\13_Loop1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    14_Loop2.wav:
+      Track_path: J P Lantieri - Riesling\J P Lantieri - Riesling_RAW\14_Loop2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    15_Loop3.wav:
+      Track_path: J P Lantieri - Riesling\J P Lantieri - Riesling_RAW\15_Loop3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    16_Loop4.wav:
+      Track_path: J P Lantieri - Riesling\J P Lantieri - Riesling_RAW\16_Loop4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    12_Fill.wav:
+      Track_path: J P Lantieri - Riesling\J P Lantieri - Riesling_RAW\12_Fill.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion:
+    17_Percussion01.wav:
+      Track_path: J P Lantieri - Riesling\J P Lantieri - Riesling_RAW\17_Percussion01.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    18_Percussion02.wav:
+      Track_path: J P Lantieri - Riesling\J P Lantieri - Riesling_RAW\18_Percussion02.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    19_Percussion03.wav:
+      Track_path: J P Lantieri - Riesling\J P Lantieri - Riesling_RAW\19_Percussion03.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    20_Percussion04.wav:
+      Track_path: J P Lantieri - Riesling\J P Lantieri - Riesling_RAW\20_Percussion04.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    21_Percussion05.wav:
+      Track_path: J P Lantieri - Riesling\J P Lantieri - Riesling_RAW\21_Percussion05.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    22_Percussion06.wav:
+      Track_path: J P Lantieri - Riesling\J P Lantieri - Riesling_RAW\22_Percussion06.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    26_Percussion10.wav:
+      Track_path: J P Lantieri - Riesling\J P Lantieri - Riesling_RAW\26_Percussion10.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    27_Percussion11.wav:
+      Track_path: J P Lantieri - Riesling\J P Lantieri - Riesling_RAW\27_Percussion11.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    29_Percussion13.wav:
+      Track_path: J P Lantieri - Riesling\J P Lantieri - Riesling_RAW\29_Percussion13.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    30_Percussion14.wav:
+      Track_path: J P Lantieri - Riesling\J P Lantieri - Riesling_RAW\30_Percussion14.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Synth_Bass: {}
+  Electric_Bass: {}
+  Acoustic_Guitar: {}
+  Electric_Guitar: {}
+  Piano: {}
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal: {}
+  Choir: {}
+  Backing_Vocal: {}
+  Unused: {}
+  Ambient_Microphone: {}

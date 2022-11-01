@@ -1,0 +1,169 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer: {}
+  SFX: {}
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    01_KickMic1.wav:
+      Track_path: Lorenzo Price - Changing Things (Dorian's Song)\Lorenzo Price -
+        Changing Things (Dorian's Song)_RAW\01_KickMic1.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads'
+      Comment: ''
+    02_KickMic2.wav:
+      Track_path: Lorenzo Price - Changing Things (Dorian's Song)\Lorenzo Price -
+        Changing Things (Dorian's Song)_RAW\02_KickMic2.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads'
+      Comment: 'high pass filtered'
+  Drum_Snare:
+    03_SnareUp.wav:
+      Track_path: Lorenzo Price - Changing Things (Dorian's Song)\Lorenzo Price -
+        Changing Things (Dorian's Song)_RAW\03_SnareUp.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads'
+      Comment: ''
+    04_SnareDown.wav:
+      Track_path: Lorenzo Price - Changing Things (Dorian's Song)\Lorenzo Price -
+        Changing Things (Dorian's Song)_RAW\04_SnareDown.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads'
+      Comment: ''
+  Drum_HiHat:
+    08_HiHat.wav:
+      Track_path: Lorenzo Price - Changing Things (Dorian's Song)\Lorenzo Price -
+        Changing Things (Dorian's Song)_RAW\08_HiHat.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads'
+      Comment: ''
+  Drum_Cymbals:
+    09_Ride1.wav:
+      Track_path: Lorenzo Price - Changing Things (Dorian's Song)\Lorenzo Price -
+        Changing Things (Dorian's Song)_RAW\09_Ride1.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads'
+      Comment: ''
+    10_Ride2.wav:
+      Track_path: Lorenzo Price - Changing Things (Dorian's Song)\Lorenzo Price -
+        Changing Things (Dorian's Song)_RAW\10_Ride2.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads'
+      Comment: ''
+  Drum_Overheads:
+    11_Overheads.wav:
+      Track_path: Lorenzo Price - Changing Things (Dorian's Song)\Lorenzo Price -
+        Changing Things (Dorian's Song)_RAW\11_Overheads.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Tom:
+    05_Tom1.wav:
+      Track_path: Lorenzo Price - Changing Things (Dorian's Song)\Lorenzo Price -
+        Changing Things (Dorian's Song)_RAW\05_Tom1.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads'
+      Comment: ''
+    06_Tom2.wav:
+      Track_path: Lorenzo Price - Changing Things (Dorian's Song)\Lorenzo Price -
+        Changing Things (Dorian's Song)_RAW\06_Tom2.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads'
+      Comment: ''
+    07_Tom3.wav:
+      Track_path: Lorenzo Price - Changing Things (Dorian's Song)\Lorenzo Price -
+        Changing Things (Dorian's Song)_RAW\07_Tom3.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads'
+      Comment: ''
+  Drum_Room:
+    12_DrumsRoom.wav:
+      Track_path: Lorenzo Price - Changing Things (Dorian's Song)\Lorenzo Price -
+        Changing Things (Dorian's Song)_RAW\12_DrumsRoom.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop: {}
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass: {}
+  Electric_Bass:
+    13_Bass.wav:
+      Track_path: Lorenzo Price - Changing Things (Dorian's Song)\Lorenzo Price -
+        Changing Things (Dorian's Song)_RAW\13_Bass.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Acoustic_Guitar: {}
+  Electric_Guitar:
+    15_ElecGtr1.wav:
+      Track_path: Lorenzo Price - Changing Things (Dorian's Song)\Lorenzo Price -
+        Changing Things (Dorian's Song)_RAW\15_ElecGtr1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    16_ElecGtr2.wav:
+      Track_path: Lorenzo Price - Changing Things (Dorian's Song)\Lorenzo Price -
+        Changing Things (Dorian's Song)_RAW\16_ElecGtr2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Piano:
+    14_Piano.wav:
+      Track_path: Lorenzo Price - Changing Things (Dorian's Song)\Lorenzo Price -
+        Changing Things (Dorian's Song)_RAW\14_Piano.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal: {}
+  Choir: {}
+  Backing_Vocal: {}
+  Unused: {}
+  Ambient_Microphone: {}

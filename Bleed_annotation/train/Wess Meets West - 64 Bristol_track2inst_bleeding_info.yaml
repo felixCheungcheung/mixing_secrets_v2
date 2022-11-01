@@ -1,0 +1,433 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer: {}
+  SFX:
+    61_SFX1.wav:
+      Track_path: Wess Meets West - 64 Bristol\Wess Meets West - 64 Bristol_RAW\61_SFX1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    62_SFX2.wav:
+      Track_path: Wess Meets West - 64 Bristol\Wess Meets West - 64 Bristol_RAW\62_SFX2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    63_SFX3.wav:
+      Track_path: Wess Meets West - 64 Bristol\Wess Meets West - 64 Bristol_RAW\63_SFX3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    64_SFX4Dry.wav:
+      Track_path: Wess Meets West - 64 Bristol\Wess Meets West - 64 Bristol_RAW\64_SFX4Dry.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    65_SFX4Wet.wav:
+      Track_path: Wess Meets West - 64 Bristol\Wess Meets West - 64 Bristol_RAW\65_SFX4Wet.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    66_SFX5.wav:
+      Track_path: Wess Meets West - 64 Bristol\Wess Meets West - 64 Bristol_RAW\66_SFX5.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Marimba: {}
+  Bell:
+    60_Bells.wav:
+      Track_path: Wess Meets West - 64 Bristol\Wess Meets West - 64 Bristol_RAW\60_Bells.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    01_Drumkit1_KickIn.wav:
+      Track_path: Wess Meets West - 64 Bristol\Wess Meets West - 64 Bristol_RAW\01_Drumkit1_KickIn.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    02_Drumkit1_KickSub.wav:
+      Track_path: Wess Meets West - 64 Bristol\Wess Meets West - 64 Bristol_RAW\02_Drumkit1_KickSub.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_Snare:
+    03_Drumkit1_SnareUp.wav:
+      Track_path: Wess Meets West - 64 Bristol\Wess Meets West - 64 Bristol_RAW\03_Drumkit1_SnareUp.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    04_Drumkit1_SnareDown.wav:
+      Track_path: Wess Meets West - 64 Bristol\Wess Meets West - 64 Bristol_RAW\04_Drumkit1_SnareDown.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_HiHat:
+    05_Drumkit1_HiHat.wav:
+      Track_path: Wess Meets West - 64 Bristol\Wess Meets West - 64 Bristol_RAW\05_Drumkit1_HiHat.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_Cymbals: {}
+  Drum_Overheads:
+    08_Drumkit1_Overheads.wav:
+      Track_path: Wess Meets West - 64 Bristol\Wess Meets West - 64 Bristol_RAW\08_Drumkit1_Overheads.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    12_Drumkit2_SFX.wav:
+      Track_path: Wess Meets West - 64 Bristol\Wess Meets West - 64 Bristol_RAW\12_Drumkit2_SFX.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    13_Drumkit2_Close.wav:
+      Track_path: Wess Meets West - 64 Bristol\Wess Meets West - 64 Bristol_RAW\13_Drumkit2_Close.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    14_Drumkit2_Far.wav:
+      Track_path: Wess Meets West - 64 Bristol\Wess Meets West - 64 Bristol_RAW\14_Drumkit2_Far.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Tom:
+    06_Drumkit1_Tom1.wav:
+      Track_path: Wess Meets West - 64 Bristol\Wess Meets West - 64 Bristol_RAW\06_Drumkit1_Tom1.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    07_Drumkit1_Tom2.wav:
+      Track_path: Wess Meets West - 64 Bristol\Wess Meets West - 64 Bristol_RAW\07_Drumkit1_Tom2.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_Room:
+    09_Drumkit1_RoomStereo.wav:
+      Track_path: Wess Meets West - 64 Bristol\Wess Meets West - 64 Bristol_RAW\09_Drumkit1_RoomStereo.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    10_Drumkit1_RoomMono1.wav:
+      Track_path: Wess Meets West - 64 Bristol\Wess Meets West - 64 Bristol_RAW\10_Drumkit1_RoomMono1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    11_Drumkit1_RoomMono2.wav:
+      Track_path: Wess Meets West - 64 Bristol\Wess Meets West - 64 Bristol_RAW\11_Drumkit1_RoomMono2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks:
+    15_Sticks1.wav:
+      Track_path: Wess Meets West - 64 Bristol\Wess Meets West - 64 Bristol_RAW\15_Sticks1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    16_Sticks2.wav:
+      Track_path: Wess Meets West - 64 Bristol\Wess Meets West - 64 Bristol_RAW\16_Sticks2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop: {}
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass: {}
+  Electric_Bass:
+    17_BassDI.wav:
+      Track_path: Wess Meets West - 64 Bristol\Wess Meets West - 64 Bristol_RAW\17_BassDI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    18_BassAmp.wav:
+      Track_path: Wess Meets West - 64 Bristol\Wess Meets West - 64 Bristol_RAW\18_BassAmp.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Acoustic_Guitar: {}
+  Electric_Guitar:
+    19_ElecGtr01Mic1.wav:
+      Track_path: Wess Meets West - 64 Bristol\Wess Meets West - 64 Bristol_RAW\19_ElecGtr01Mic1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    20_ElecGtr01Mic2.wav:
+      Track_path: Wess Meets West - 64 Bristol\Wess Meets West - 64 Bristol_RAW\20_ElecGtr01Mic2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    21_ElecGtr02Mic1.wav:
+      Track_path: Wess Meets West - 64 Bristol\Wess Meets West - 64 Bristol_RAW\21_ElecGtr02Mic1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    22_ElecGtr02Mic2.wav:
+      Track_path: Wess Meets West - 64 Bristol\Wess Meets West - 64 Bristol_RAW\22_ElecGtr02Mic2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    23_Elec03Gtr.wav:
+      Track_path: Wess Meets West - 64 Bristol\Wess Meets West - 64 Bristol_RAW\23_Elec03Gtr.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    24_ElecGtr04.wav:
+      Track_path: Wess Meets West - 64 Bristol\Wess Meets West - 64 Bristol_RAW\24_ElecGtr04.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    25_ElecGtr05.wav:
+      Track_path: Wess Meets West - 64 Bristol\Wess Meets West - 64 Bristol_RAW\25_ElecGtr05.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    26_ElecGtr06Mic1.wav:
+      Track_path: Wess Meets West - 64 Bristol\Wess Meets West - 64 Bristol_RAW\26_ElecGtr06Mic1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    27_ElecGtr06Mic2.wav:
+      Track_path: Wess Meets West - 64 Bristol\Wess Meets West - 64 Bristol_RAW\27_ElecGtr06Mic2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    28_ElecGtr07Mic1.wav:
+      Track_path: Wess Meets West - 64 Bristol\Wess Meets West - 64 Bristol_RAW\28_ElecGtr07Mic1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    29_ElecGtr07Mic2.wav:
+      Track_path: Wess Meets West - 64 Bristol\Wess Meets West - 64 Bristol_RAW\29_ElecGtr07Mic2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    30_ElecGtr08Mic1.wav:
+      Track_path: Wess Meets West - 64 Bristol\Wess Meets West - 64 Bristol_RAW\30_ElecGtr08Mic1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    31_ElecGtr08Mic2.wav:
+      Track_path: Wess Meets West - 64 Bristol\Wess Meets West - 64 Bristol_RAW\31_ElecGtr08Mic2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    32_ElecGtr09Mic1.wav:
+      Track_path: Wess Meets West - 64 Bristol\Wess Meets West - 64 Bristol_RAW\32_ElecGtr09Mic1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    33_ElecGtr09Mic2.wav:
+      Track_path: Wess Meets West - 64 Bristol\Wess Meets West - 64 Bristol_RAW\33_ElecGtr09Mic2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    34_ElecGtr10.wav:
+      Track_path: Wess Meets West - 64 Bristol\Wess Meets West - 64 Bristol_RAW\34_ElecGtr10.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    35_ElecGtr11Mic1.wav:
+      Track_path: Wess Meets West - 64 Bristol\Wess Meets West - 64 Bristol_RAW\35_ElecGtr11Mic1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    36_ElecGtr11Mic2.wav:
+      Track_path: Wess Meets West - 64 Bristol\Wess Meets West - 64 Bristol_RAW\36_ElecGtr11Mic2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    37_ElecGtr12Mic1.wav:
+      Track_path: Wess Meets West - 64 Bristol\Wess Meets West - 64 Bristol_RAW\37_ElecGtr12Mic1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    38_ElecGtr12Mic2.wav:
+      Track_path: Wess Meets West - 64 Bristol\Wess Meets West - 64 Bristol_RAW\38_ElecGtr12Mic2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    39_ElecGtr13.wav:
+      Track_path: Wess Meets West - 64 Bristol\Wess Meets West - 64 Bristol_RAW\39_ElecGtr13.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    40_ElecGtr14.wav:
+      Track_path: Wess Meets West - 64 Bristol\Wess Meets West - 64 Bristol_RAW\40_ElecGtr14.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    41_ElecGtr15Mic1.wav:
+      Track_path: Wess Meets West - 64 Bristol\Wess Meets West - 64 Bristol_RAW\41_ElecGtr15Mic1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    42_ElecGtr15Mic2.wav:
+      Track_path: Wess Meets West - 64 Bristol\Wess Meets West - 64 Bristol_RAW\42_ElecGtr15Mic2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    43_ElecGtr16.wav:
+      Track_path: Wess Meets West - 64 Bristol\Wess Meets West - 64 Bristol_RAW\43_ElecGtr16.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    44_ElecGtr17.wav:
+      Track_path: Wess Meets West - 64 Bristol\Wess Meets West - 64 Bristol_RAW\44_ElecGtr17.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    45_ElecGtr18.wav:
+      Track_path: Wess Meets West - 64 Bristol\Wess Meets West - 64 Bristol_RAW\45_ElecGtr18.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    46_ElecGtr19Mic1.wav:
+      Track_path: Wess Meets West - 64 Bristol\Wess Meets West - 64 Bristol_RAW\46_ElecGtr19Mic1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    47_ElecGtr19Mic2.wav:
+      Track_path: Wess Meets West - 64 Bristol\Wess Meets West - 64 Bristol_RAW\47_ElecGtr19Mic2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    48_ElecGtr20.wav:
+      Track_path: Wess Meets West - 64 Bristol\Wess Meets West - 64 Bristol_RAW\48_ElecGtr20.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    49_ElecGtr21.wav:
+      Track_path: Wess Meets West - 64 Bristol\Wess Meets West - 64 Bristol_RAW\49_ElecGtr21.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    50_ElecGtr22.wav:
+      Track_path: Wess Meets West - 64 Bristol\Wess Meets West - 64 Bristol_RAW\50_ElecGtr22.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    51_ElecGtrSFX01.wav:
+      Track_path: Wess Meets West - 64 Bristol\Wess Meets West - 64 Bristol_RAW\51_ElecGtrSFX01.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    52_ElecGtrSFX02.wav:
+      Track_path: Wess Meets West - 64 Bristol\Wess Meets West - 64 Bristol_RAW\52_ElecGtrSFX02.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    53_ElecGtrSFX03.wav:
+      Track_path: Wess Meets West - 64 Bristol\Wess Meets West - 64 Bristol_RAW\53_ElecGtrSFX03.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    54_ElecGtrSFX04.wav:
+      Track_path: Wess Meets West - 64 Bristol\Wess Meets West - 64 Bristol_RAW\54_ElecGtrSFX04.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    55_ElecGtrSFX05Mic1.wav:
+      Track_path: Wess Meets West - 64 Bristol\Wess Meets West - 64 Bristol_RAW\55_ElecGtrSFX05Mic1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    56_ElecGtrSFX05Mic2.wav:
+      Track_path: Wess Meets West - 64 Bristol\Wess Meets West - 64 Bristol_RAW\56_ElecGtrSFX05Mic2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    57_ElecGtrSFX06Mic1.wav:
+      Track_path: Wess Meets West - 64 Bristol\Wess Meets West - 64 Bristol_RAW\57_ElecGtrSFX06Mic1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    58_ElecGtrSFX06Mic2.wav:
+      Track_path: Wess Meets West - 64 Bristol\Wess Meets West - 64 Bristol_RAW\58_ElecGtrSFX06Mic2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Piano: {}
+  Electric_Piano:
+    59_Rhodes.wav:
+      Track_path: Wess Meets West - 64 Bristol\Wess Meets West - 64 Bristol_RAW\59_Rhodes.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal: {}
+  Choir: {}
+  Backing_Vocal:
+    67_Vox1.wav:
+      Track_path: Wess Meets West - 64 Bristol\Wess Meets West - 64 Bristol_RAW\67_Vox1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    68_Vox2.wav:
+      Track_path: Wess Meets West - 64 Bristol\Wess Meets West - 64 Bristol_RAW\68_Vox2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    69_Vox3.wav:
+      Track_path: Wess Meets West - 64 Bristol\Wess Meets West - 64 Bristol_RAW\69_Vox3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    70_Vox4.wav:
+      Track_path: Wess Meets West - 64 Bristol\Wess Meets West - 64 Bristol_RAW\70_Vox4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    71_Vox5.wav:
+      Track_path: Wess Meets West - 64 Bristol\Wess Meets West - 64 Bristol_RAW\71_Vox5.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    72_Vox6.wav:
+      Track_path: Wess Meets West - 64 Bristol\Wess Meets West - 64 Bristol_RAW\72_Vox6.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Unused: {}
+  Ambient_Microphone: {}

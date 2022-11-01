@@ -2,13 +2,15 @@
     "track2inst": {
         "lead_vocal": ["Lead_Vocal"], 
         "backing_vocal":["Backing_Vocal", "Choir"], 
-        "nontonal_percussion": ["Percussion", "Triangle", "Shaker","Claps","Clicks","Maracas","Tambourine","Guaracha","Gong","Guache", "Taiko", "Bass_Drum", "Timpani", "Woodblock", 
+        "nontonal_percussion": ["Percussion", "Shaker","Claps","Clicks","Maracas","Tambourine","Guaracha","Gong","Guache", "Taiko", "Bass_Drum", "Timpani", "Woodblock", 
     "Handdrum", "Llamador", "Paliteo", "Conga", "Sticks", "Bongo", "Timbale", "Pandeiro","Djembe"], 
         "drum_set":["Loop", "Drum_Kick", "Drum_Snare", "Drum_HiHat", "Drum_Cymbals", "Drum_Overheads", "Drum_Tom", "Drum_Room"],  
         "bass": ["Electric_Bass", "Synth_Bass", "Double_Bass"], 
-        "tonal_percussion": ["Marimba", "Bell", "Chimes", "Anvil", "Other_Chromatic"], 
-        "winds": ["WoodWind_Section","Flute", "Whistle", "Accordian", "Harmonica", "Clarinet", "Bagpipe", "Saxophone", "Bassoon", "Brass_Section", "Trumpet", "French_Horn", "Trombone", "Tuba"], 
-        "electronic_keyboards": ["Electric_Organ", "Synthesizer", "SFX"], 
+        "tonal_percussion": ["Marimba", "Bell", "Chimes", "Anvil", "Triangle", "Other_Chromatic"], 
+        "woodwinds": ["WoodWind_Section","Flute", "Whistle", "Accordian", "Harmonica", "Clarinet", "Bagpipe", "Saxophone", "Bassoon", "Oboe"], 
+        "brass": ["Brass_Section", "Trumpet", "French_Horn", "Trombone", "Tuba"], 
+        "electronic_keyboards": ["Electric_Organ", "Synthesizer"], 
+        "fx_processed_sound": ["SFX"],
         "pianos": ["Piano", "Electric_Piano"], 
         "electric_guitar": ["Electric_Guitar"], 
         "acoustic_guitar": ["Acoustic_Guitar"], 
@@ -18,7 +20,7 @@
         "vocal":["lead_vocal", "backing_vocal"],
         "percussion": ["nontonal_percussion", "drum_set"],
         "bass": ["bass"],
-        "other": ["tonal_percussion", "winds", "electronic_keyboards", "pianos", "electric_guitar", "acoustic_guitar", "strings"]
+        "other": ["tonal_percussion", "woodwinds", "brass", "electronic_keyboards", "pianos", "electric_guitar", "acoustic_guitar", "strings", "fx/processed_sound"]
     },
     "stem2stem":{
         "vocal":["vocal"],

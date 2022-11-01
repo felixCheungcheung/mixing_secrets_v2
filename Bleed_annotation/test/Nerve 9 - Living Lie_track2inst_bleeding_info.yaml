@@ -1,0 +1,248 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer: {}
+  SFX: {}
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes:
+    14_Chimes.wav:
+      Track_path: Nerve 9 - Living Lie\Nerve 9 - Living Lie_RAW\14_Chimes.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Other_Chromatic: {}
+  Drum_Kick:
+    01_Kick.wav:
+      Track_path: Nerve 9 - Living Lie\Nerve 9 - Living Lie_RAW\01_Kick.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_Snare:
+    02_SnareUp.wav:
+      Track_path: Nerve 9 - Living Lie\Nerve 9 - Living Lie_RAW\02_SnareUp.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    03_SnareSide.wav:
+      Track_path: Nerve 9 - Living Lie\Nerve 9 - Living Lie_RAW\03_SnareSide.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    04_SnareDown.wav:
+      Track_path: Nerve 9 - Living Lie\Nerve 9 - Living Lie_RAW\04_SnareDown.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_HiHat:
+    05_HiHat1.wav:
+      Track_path: Nerve 9 - Living Lie\Nerve 9 - Living Lie_RAW\05_HiHat1.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    06_HiHat2.wav:
+      Track_path: Nerve 9 - Living Lie\Nerve 9 - Living Lie_RAW\06_HiHat2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Cymbals:
+    07_Ride.wav:
+      Track_path: Nerve 9 - Living Lie\Nerve 9 - Living Lie_RAW\07_Ride.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_Overheads:
+    08_Overheads.wav:
+      Track_path: Nerve 9 - Living Lie\Nerve 9 - Living Lie_RAW\08_Overheads.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Tom:
+    09_Tom1.wav:
+      Track_path: Nerve 9 - Living Lie\Nerve 9 - Living Lie_RAW\09_Tom1.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    10_Tom2.wav:
+      Track_path: Nerve 9 - Living Lie\Nerve 9 - Living Lie_RAW\10_Tom2.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    11_Tom3.wav:
+      Track_path: Nerve 9 - Living Lie\Nerve 9 - Living Lie_RAW\11_Tom3.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_Room:
+    12_DrumsRoom.wav:
+      Track_path: Nerve 9 - Living Lie\Nerve 9 - Living Lie_RAW\12_DrumsRoom.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine:
+    13_Tambourine.wav:
+      Track_path: Nerve 9 - Living Lie\Nerve 9 - Living Lie_RAW\13_Tambourine.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Loop: {}
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass: {}
+  Electric_Bass:
+    15_BassAmp.wav:
+      Track_path: Nerve 9 - Living Lie\Nerve 9 - Living Lie_RAW\15_BassAmp.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Acoustic_Guitar: {}
+  Electric_Guitar:
+    16_ElecGtr1.wav:
+      Track_path: Nerve 9 - Living Lie\Nerve 9 - Living Lie_RAW\16_ElecGtr1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    17_ElecGtr2.wav:
+      Track_path: Nerve 9 - Living Lie\Nerve 9 - Living Lie_RAW\17_ElecGtr2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    18_ElecGtr3.wav:
+      Track_path: Nerve 9 - Living Lie\Nerve 9 - Living Lie_RAW\18_ElecGtr3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    19_ElecGtr4.wav:
+      Track_path: Nerve 9 - Living Lie\Nerve 9 - Living Lie_RAW\19_ElecGtr4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    20_ElecGtr5.wav:
+      Track_path: Nerve 9 - Living Lie\Nerve 9 - Living Lie_RAW\20_ElecGtr5.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    21_ElecGtr6.wav:
+      Track_path: Nerve 9 - Living Lie\Nerve 9 - Living Lie_RAW\21_ElecGtr6.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    22_ElecGtr7.wav:
+      Track_path: Nerve 9 - Living Lie\Nerve 9 - Living Lie_RAW\22_ElecGtr7.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Piano: {}
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    23_LeadVox1.wav:
+      Track_path: Nerve 9 - Living Lie\Nerve 9 - Living Lie_RAW\23_LeadVox1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    24_LeadVox2.wav:
+      Track_path: Nerve 9 - Living Lie\Nerve 9 - Living Lie_RAW\24_LeadVox2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Choir: {}
+  Backing_Vocal:
+    25_BackingVox1.wav:
+      Track_path: Nerve 9 - Living Lie\Nerve 9 - Living Lie_RAW\25_BackingVox1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    26_BackingVox2.wav:
+      Track_path: Nerve 9 - Living Lie\Nerve 9 - Living Lie_RAW\26_BackingVox2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    27_BackingVox3.wav:
+      Track_path: Nerve 9 - Living Lie\Nerve 9 - Living Lie_RAW\27_BackingVox3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    28_BackingVox4.wav:
+      Track_path: Nerve 9 - Living Lie\Nerve 9 - Living Lie_RAW\28_BackingVox4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    29_BackingVox4DT.wav:
+      Track_path: Nerve 9 - Living Lie\Nerve 9 - Living Lie_RAW\29_BackingVox4DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    30_BackingVox5.wav:
+      Track_path: Nerve 9 - Living Lie\Nerve 9 - Living Lie_RAW\30_BackingVox5.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    31_BackingVox5DT.wav:
+      Track_path: Nerve 9 - Living Lie\Nerve 9 - Living Lie_RAW\31_BackingVox5DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    32_BackingVox6.wav:
+      Track_path: Nerve 9 - Living Lie\Nerve 9 - Living Lie_RAW\32_BackingVox6.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    33_BackingVox6DT.wav:
+      Track_path: Nerve 9 - Living Lie\Nerve 9 - Living Lie_RAW\33_BackingVox6DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    34_BackingVox7.wav:
+      Track_path: Nerve 9 - Living Lie\Nerve 9 - Living Lie_RAW\34_BackingVox7.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    35_BackingVox7DT.wav:
+      Track_path: Nerve 9 - Living Lie\Nerve 9 - Living Lie_RAW\35_BackingVox7DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Unused: {}
+  Ambient_Microphone: {}

@@ -1,0 +1,228 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer:
+    20_Synth1.wav:
+      Track_path: Ricky Legend - Comet\Ricky Legend - Comet_RAW\20_Synth1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    21_Synth2.wav:
+      Track_path: Ricky Legend - Comet\Ricky Legend - Comet_RAW\21_Synth2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    22_Synth3.wav:
+      Track_path: Ricky Legend - Comet\Ricky Legend - Comet_RAW\22_Synth3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    23_Synth4.wav:
+      Track_path: Ricky Legend - Comet\Ricky Legend - Comet_RAW\23_Synth4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    24_Synth5.wav:
+      Track_path: Ricky Legend - Comet\Ricky Legend - Comet_RAW\24_Synth5.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  SFX:
+    09_SFX1.wav:
+      Track_path: Ricky Legend - Comet\Ricky Legend - Comet_RAW\09_SFX1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    10_SFX2.wav:
+      Track_path: Ricky Legend - Comet\Ricky Legend - Comet_RAW\10_SFX2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    11_SFX3.wav:
+      Track_path: Ricky Legend - Comet\Ricky Legend - Comet_RAW\11_SFX3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    12_SFX4.wav:
+      Track_path: Ricky Legend - Comet\Ricky Legend - Comet_RAW\12_SFX4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    01_Kick.wav:
+      Track_path: Ricky Legend - Comet\Ricky Legend - Comet_RAW\01_Kick.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Snare:
+    02_Snare.wav:
+      Track_path: Ricky Legend - Comet\Ricky Legend - Comet_RAW\02_Snare.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_HiHat:
+    03_HiHat.wav:
+      Track_path: Ricky Legend - Comet\Ricky Legend - Comet_RAW\03_HiHat.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Cymbals: {}
+  Drum_Overheads: {}
+  Drum_Tom: {}
+  Drum_Room: {}
+  Shaker:
+    07_Shaker.wav:
+      Track_path: Ricky Legend - Comet\Ricky Legend - Comet_RAW\07_Shaker.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop:
+    04_Loop1.wav:
+      Track_path: Ricky Legend - Comet\Ricky Legend - Comet_RAW\04_Loop1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    05_Loop2.wav:
+      Track_path: Ricky Legend - Comet\Ricky Legend - Comet_RAW\05_Loop2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    06_Loop3.wav:
+      Track_path: Ricky Legend - Comet\Ricky Legend - Comet_RAW\06_Loop3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion:
+    08_Chug.wav:
+      Track_path: Ricky Legend - Comet\Ricky Legend - Comet_RAW\08_Chug.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Synth_Bass: {}
+  Electric_Bass:
+    13_Bass.wav:
+      Track_path: Ricky Legend - Comet\Ricky Legend - Comet_RAW\13_Bass.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    14_BassSub.wav:
+      Track_path: Ricky Legend - Comet\Ricky Legend - Comet_RAW\14_BassSub.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Acoustic_Guitar: {}
+  Electric_Guitar:
+    15_ElecGtr1.wav:
+      Track_path: Ricky Legend - Comet\Ricky Legend - Comet_RAW\15_ElecGtr1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    16_ElecGtr2.wav:
+      Track_path: Ricky Legend - Comet\Ricky Legend - Comet_RAW\16_ElecGtr2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    17_ElecGtr3.wav:
+      Track_path: Ricky Legend - Comet\Ricky Legend - Comet_RAW\17_ElecGtr3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    18_ElecGtr4.wav:
+      Track_path: Ricky Legend - Comet\Ricky Legend - Comet_RAW\18_ElecGtr4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Piano:
+    19_Piano.wav:
+      Track_path: Ricky Legend - Comet\Ricky Legend - Comet_RAW\19_Piano.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    25_LeadVox1.wav:
+      Track_path: Ricky Legend - Comet\Ricky Legend - Comet_RAW\25_LeadVox1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    26_LeadVox2.wav:
+      Track_path: Ricky Legend - Comet\Ricky Legend - Comet_RAW\26_LeadVox2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Choir: {}
+  Backing_Vocal:
+    27_BackingVox1.wav:
+      Track_path: Ricky Legend - Comet\Ricky Legend - Comet_RAW\27_BackingVox1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    28_BackingVox1DT.wav:
+      Track_path: Ricky Legend - Comet\Ricky Legend - Comet_RAW\28_BackingVox1DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    29_BackingVox2.wav:
+      Track_path: Ricky Legend - Comet\Ricky Legend - Comet_RAW\29_BackingVox2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    30_BackingVox2DT.wav:
+      Track_path: Ricky Legend - Comet\Ricky Legend - Comet_RAW\30_BackingVox2DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    31_BackingVox3.wav:
+      Track_path: Ricky Legend - Comet\Ricky Legend - Comet_RAW\31_BackingVox3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Unused: {}
+  Ambient_Microphone: {}

@@ -1,0 +1,233 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer:
+    12_Synth1.wav:
+      Track_path: AM Contra - Heart Peripheral\AM Contra - Heart Peripheral_RAW\12_Synth1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    13_Synth2.wav:
+      Track_path: AM Contra - Heart Peripheral\AM Contra - Heart Peripheral_RAW\13_Synth2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    14_Synth3.wav:
+      Track_path: AM Contra - Heart Peripheral\AM Contra - Heart Peripheral_RAW\14_Synth3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  SFX: {}
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick: {}
+  Drum_Snare: {}
+  Drum_HiHat: {}
+  Drum_Cymbals: {}
+  Drum_Overheads: {}
+  Drum_Tom: {}
+  Drum_Room: {}
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop:
+    01_Loop1.wav:
+      Track_path: AM Contra - Heart Peripheral\AM Contra - Heart Peripheral_RAW\01_Loop1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    02_Loop2.wav:
+      Track_path: AM Contra - Heart Peripheral\AM Contra - Heart Peripheral_RAW\02_Loop2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    04_Loop4.wav:
+      Track_path: AM Contra - Heart Peripheral\AM Contra - Heart Peripheral_RAW\04_Loop4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    05_Loop5.wav:
+      Track_path: AM Contra - Heart Peripheral\AM Contra - Heart Peripheral_RAW\05_Loop5.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    07_Loop7.wav:
+      Track_path: AM Contra - Heart Peripheral\AM Contra - Heart Peripheral_RAW\07_Loop7.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    08_Loop8.wav:
+      Track_path: AM Contra - Heart Peripheral\AM Contra - Heart Peripheral_RAW\08_Loop8.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    09_Fill1.wav:
+      Track_path: AM Contra - Heart Peripheral\AM Contra - Heart Peripheral_RAW\09_Fill1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    10_Fill2.wav:
+      Track_path: AM Contra - Heart Peripheral\AM Contra - Heart Peripheral_RAW\10_Fill2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion:
+    03_Loop3.wav:
+      Track_path: AM Contra - Heart Peripheral\AM Contra - Heart Peripheral_RAW\03_Loop3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    06_Loop6.wav:
+      Track_path: AM Contra - Heart Peripheral\AM Contra - Heart Peripheral_RAW\06_Loop6.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Synth_Bass:
+    11_BassSynth.wav:
+      Track_path: AM Contra - Heart Peripheral\AM Contra - Heart Peripheral_RAW\11_BassSynth.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Electric_Bass: {}
+  Acoustic_Guitar: {}
+  Electric_Guitar: {}
+  Piano: {}
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    15_LeadVox1.wav:
+      Track_path: AM Contra - Heart Peripheral\AM Contra - Heart Peripheral_RAW\15_LeadVox1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    16_LeadVox2.wav:
+      Track_path: AM Contra - Heart Peripheral\AM Contra - Heart Peripheral_RAW\16_LeadVox2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Choir: {}
+  Backing_Vocal:
+    17_BackingVox01.wav:
+      Track_path: AM Contra - Heart Peripheral\AM Contra - Heart Peripheral_RAW\17_BackingVox01.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    18_BackingVox02.wav:
+      Track_path: AM Contra - Heart Peripheral\AM Contra - Heart Peripheral_RAW\18_BackingVox02.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    19_BackingVox03.wav:
+      Track_path: AM Contra - Heart Peripheral\AM Contra - Heart Peripheral_RAW\19_BackingVox03.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    20_BackingVox04.wav:
+      Track_path: AM Contra - Heart Peripheral\AM Contra - Heart Peripheral_RAW\20_BackingVox04.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    21_BackingVox05.wav:
+      Track_path: AM Contra - Heart Peripheral\AM Contra - Heart Peripheral_RAW\21_BackingVox05.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    22_BackingVox06.wav:
+      Track_path: AM Contra - Heart Peripheral\AM Contra - Heart Peripheral_RAW\22_BackingVox06.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    23_BackingVox07.wav:
+      Track_path: AM Contra - Heart Peripheral\AM Contra - Heart Peripheral_RAW\23_BackingVox07.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    24_BackingVox08.wav:
+      Track_path: AM Contra - Heart Peripheral\AM Contra - Heart Peripheral_RAW\24_BackingVox08.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    25_BackingVox09.wav:
+      Track_path: AM Contra - Heart Peripheral\AM Contra - Heart Peripheral_RAW\25_BackingVox09.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    26_BackingVox10.wav:
+      Track_path: AM Contra - Heart Peripheral\AM Contra - Heart Peripheral_RAW\26_BackingVox10.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    27_BackingVox11.wav:
+      Track_path: AM Contra - Heart Peripheral\AM Contra - Heart Peripheral_RAW\27_BackingVox11.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    28_BackingVox12.wav:
+      Track_path: AM Contra - Heart Peripheral\AM Contra - Heart Peripheral_RAW\28_BackingVox12.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    29_BackingVox13.wav:
+      Track_path: AM Contra - Heart Peripheral\AM Contra - Heart Peripheral_RAW\29_BackingVox13.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    30_BackingVox14.wav:
+      Track_path: AM Contra - Heart Peripheral\AM Contra - Heart Peripheral_RAW\30_BackingVox14.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    31_BackingVox15.wav:
+      Track_path: AM Contra - Heart Peripheral\AM Contra - Heart Peripheral_RAW\31_BackingVox15.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    32_BackingVox16.wav:
+      Track_path: AM Contra - Heart Peripheral\AM Contra - Heart Peripheral_RAW\32_BackingVox16.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Unused: {}
+  Ambient_Microphone: {}

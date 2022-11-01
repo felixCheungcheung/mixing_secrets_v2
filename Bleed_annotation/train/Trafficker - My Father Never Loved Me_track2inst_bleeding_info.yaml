@@ -1,0 +1,265 @@
+Track2inst:
+  Electric_Organ:
+    31_Hammond.wav:
+      Track_path: Trafficker - My Father Never Loved Me\Trafficker - My Father Never
+        Loved Me_RAW\31_Hammond.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Synthesizer: {}
+  SFX: {}
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    01_Kick.wav:
+      Track_path: Trafficker - My Father Never Loved Me\Trafficker - My Father Never
+        Loved Me_RAW\01_Kick.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    02_KickSub.wav:
+      Track_path: Trafficker - My Father Never Loved Me\Trafficker - My Father Never
+        Loved Me_RAW\02_KickSub.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_Snare:
+    03_Snare.wav:
+      Track_path: Trafficker - My Father Never Loved Me\Trafficker - My Father Never
+        Loved Me_RAW\03_Snare.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_HiHat: {}
+  Drum_Cymbals: {}
+  Drum_Overheads:
+    08_Overheads.wav:
+      Track_path: Trafficker - My Father Never Loved Me\Trafficker - My Father Never
+        Loved Me_RAW\08_Overheads.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Electric_Guitar'
+      Comment: ''
+  Drum_Tom:
+    04_Tom1.wav:
+      Track_path: Trafficker - My Father Never Loved Me\Trafficker - My Father Never
+        Loved Me_RAW\04_Tom1.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    05_Tom2.wav:
+      Track_path: Trafficker - My Father Never Loved Me\Trafficker - My Father Never
+        Loved Me_RAW\05_Tom2.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    06_Tom3.wav:
+      Track_path: Trafficker - My Father Never Loved Me\Trafficker - My Father Never
+        Loved Me_RAW\06_Tom3.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    07_Tom4.wav:
+      Track_path: Trafficker - My Father Never Loved Me\Trafficker - My Father Never
+        Loved Me_RAW\07_Tom4.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_Room: {}
+  Shaker:
+    10_Shaker1.wav:
+      Track_path: Trafficker - My Father Never Loved Me\Trafficker - My Father Never
+        Loved Me_RAW\10_Shaker1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    11_Shaker2.wav:
+      Track_path: Trafficker - My Father Never Loved Me\Trafficker - My Father Never
+        Loved Me_RAW\11_Shaker2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop: {}
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass: {}
+  Electric_Bass:
+    12_BassDI.wav:
+      Track_path: Trafficker - My Father Never Loved Me\Trafficker - My Father Never
+        Loved Me_RAW\12_BassDI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    13_BassAmp.wav:
+      Track_path: Trafficker - My Father Never Loved Me\Trafficker - My Father Never
+        Loved Me_RAW\13_BassAmp.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Acoustic_Guitar: {}
+  Electric_Guitar:
+    14_ElecGtr01Mic1.wav:
+      Track_path: Trafficker - My Father Never Loved Me\Trafficker - My Father Never
+        Loved Me_RAW\14_ElecGtr01Mic1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    15_ElecGtr01Mic2.wav:
+      Track_path: Trafficker - My Father Never Loved Me\Trafficker - My Father Never
+        Loved Me_RAW\15_ElecGtr01Mic2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    16_ElecGtr01DTMic1.wav:
+      Track_path: Trafficker - My Father Never Loved Me\Trafficker - My Father Never
+        Loved Me_RAW\16_ElecGtr01DTMic1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    17_ElecGtr01DTMic2.wav:
+      Track_path: Trafficker - My Father Never Loved Me\Trafficker - My Father Never
+        Loved Me_RAW\17_ElecGtr01DTMic2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    18_ElecGtr02Mic1.wav:
+      Track_path: Trafficker - My Father Never Loved Me\Trafficker - My Father Never
+        Loved Me_RAW\18_ElecGtr02Mic1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    19_ElecGtr02Mic2.wav:
+      Track_path: Trafficker - My Father Never Loved Me\Trafficker - My Father Never
+        Loved Me_RAW\19_ElecGtr02Mic2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    20_ElecGtr02Mic3.wav:
+      Track_path: Trafficker - My Father Never Loved Me\Trafficker - My Father Never
+        Loved Me_RAW\20_ElecGtr02Mic3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    21_ElecGtr02Mic4.wav:
+      Track_path: Trafficker - My Father Never Loved Me\Trafficker - My Father Never
+        Loved Me_RAW\21_ElecGtr02Mic4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    22_ElecGtr02Mic5.wav:
+      Track_path: Trafficker - My Father Never Loved Me\Trafficker - My Father Never
+        Loved Me_RAW\22_ElecGtr02Mic5.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    23_ElecGtr03Mic1.wav:
+      Track_path: Trafficker - My Father Never Loved Me\Trafficker - My Father Never
+        Loved Me_RAW\23_ElecGtr03Mic1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    24_ElecGtr03Mic2.wav:
+      Track_path: Trafficker - My Father Never Loved Me\Trafficker - My Father Never
+        Loved Me_RAW\24_ElecGtr03Mic2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    25_ElecGtr04Mic1.wav:
+      Track_path: Trafficker - My Father Never Loved Me\Trafficker - My Father Never
+        Loved Me_RAW\25_ElecGtr04Mic1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    26_ElecGtr04Mic2.wav:
+      Track_path: Trafficker - My Father Never Loved Me\Trafficker - My Father Never
+        Loved Me_RAW\26_ElecGtr04Mic2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    27_ElecGtr04Mic3.wav:
+      Track_path: Trafficker - My Father Never Loved Me\Trafficker - My Father Never
+        Loved Me_RAW\27_ElecGtr04Mic3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    28_ElecGtr04Mic4.wav:
+      Track_path: Trafficker - My Father Never Loved Me\Trafficker - My Father Never
+        Loved Me_RAW\28_ElecGtr04Mic4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    29_ElecGtr04Mic5.wav:
+      Track_path: Trafficker - My Father Never Loved Me\Trafficker - My Father Never
+        Loved Me_RAW\29_ElecGtr04Mic5.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    30_ElecGtr04Mic6.wav:
+      Track_path: Trafficker - My Father Never Loved Me\Trafficker - My Father Never
+        Loved Me_RAW\30_ElecGtr04Mic6.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Piano: {}
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    32_LeadVox.wav:
+      Track_path: Trafficker - My Father Never Loved Me\Trafficker - My Father Never
+        Loved Me_RAW\32_LeadVox.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Choir: {}
+  Backing_Vocal: {}
+  Unused: {}
+  Ambient_Microphone:
+    09_Room.wav:
+      Track_path: Trafficker - My Father Never Loved Me\Trafficker - My Father Never
+        Loved Me_RAW\09_Room.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: ''
+      Comment: ''

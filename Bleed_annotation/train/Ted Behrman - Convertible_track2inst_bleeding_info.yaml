@@ -1,0 +1,223 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer:
+    15_Synth1.wav:
+      Track_path: Ted Behrman - Convertible\Ted Behrman - Convertible_RAW\15_Synth1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    16_Synth2.wav:
+      Track_path: Ted Behrman - Convertible\Ted Behrman - Convertible_RAW\16_Synth2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    17_Synth3.wav:
+      Track_path: Ted Behrman - Convertible\Ted Behrman - Convertible_RAW\17_Synth3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    18_Synth4.wav:
+      Track_path: Ted Behrman - Convertible\Ted Behrman - Convertible_RAW\18_Synth4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    19_Synth5.wav:
+      Track_path: Ted Behrman - Convertible\Ted Behrman - Convertible_RAW\19_Synth5.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  SFX: {}
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    01_Kick1.wav:
+      Track_path: Ted Behrman - Convertible\Ted Behrman - Convertible_RAW\01_Kick1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    02_Kick2.wav:
+      Track_path: Ted Behrman - Convertible\Ted Behrman - Convertible_RAW\02_Kick2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Snare:
+    03_Snare1.wav:
+      Track_path: Ted Behrman - Convertible\Ted Behrman - Convertible_RAW\03_Snare1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    04_Snare2.wav:
+      Track_path: Ted Behrman - Convertible\Ted Behrman - Convertible_RAW\04_Snare2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_HiHat:
+    05_HiHat1.wav:
+      Track_path: Ted Behrman - Convertible\Ted Behrman - Convertible_RAW\05_HiHat1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    06_HiHat2.wav:
+      Track_path: Ted Behrman - Convertible\Ted Behrman - Convertible_RAW\06_HiHat2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Cymbals:
+    07_Ride.wav:
+      Track_path: Ted Behrman - Convertible\Ted Behrman - Convertible_RAW\07_Ride.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    10_Crash1.wav:
+      Track_path: Ted Behrman - Convertible\Ted Behrman - Convertible_RAW\10_Crash1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    11_Crash2.wav:
+      Track_path: Ted Behrman - Convertible\Ted Behrman - Convertible_RAW\11_Crash2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    12_Ride.wav:
+      Track_path: Ted Behrman - Convertible\Ted Behrman - Convertible_RAW\12_Ride.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Overheads:
+    09_DrumFills.wav:
+      Track_path: Ted Behrman - Convertible\Ted Behrman - Convertible_RAW\09_DrumFills.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Tom:
+    08_Toms.wav:
+      Track_path: Ted Behrman - Convertible\Ted Behrman - Convertible_RAW\08_Toms.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Room: {}
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop: {}
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass:
+    14_Bass2.wav:
+      Track_path: Ted Behrman - Convertible\Ted Behrman - Convertible_RAW\14_Bass2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Electric_Bass:
+    13_Bass1.wav:
+      Track_path: Ted Behrman - Convertible\Ted Behrman - Convertible_RAW\13_Bass1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Acoustic_Guitar: {}
+  Electric_Guitar:
+    20_ElecGtr1.wav:
+      Track_path: Ted Behrman - Convertible\Ted Behrman - Convertible_RAW\20_ElecGtr1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    21_ElecGtr2.wav:
+      Track_path: Ted Behrman - Convertible\Ted Behrman - Convertible_RAW\21_ElecGtr2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    22_ElecGtr3.wav:
+      Track_path: Ted Behrman - Convertible\Ted Behrman - Convertible_RAW\22_ElecGtr3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Piano: {}
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone:
+    23_Saxophone.wav:
+      Track_path: Ted Behrman - Convertible\Ted Behrman - Convertible_RAW\23_Saxophone.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    24_LeadVox.wav:
+      Track_path: Ted Behrman - Convertible\Ted Behrman - Convertible_RAW\24_LeadVox.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Choir: {}
+  Backing_Vocal:
+    25_BackingVox1.wav:
+      Track_path: Ted Behrman - Convertible\Ted Behrman - Convertible_RAW\25_BackingVox1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    26_BackingVox2.wav:
+      Track_path: Ted Behrman - Convertible\Ted Behrman - Convertible_RAW\26_BackingVox2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    27_BackingVox3.wav:
+      Track_path: Ted Behrman - Convertible\Ted Behrman - Convertible_RAW\27_BackingVox3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    28_BackingVox4.wav:
+      Track_path: Ted Behrman - Convertible\Ted Behrman - Convertible_RAW\28_BackingVox4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    29_BackingVox5.wav:
+      Track_path: Ted Behrman - Convertible\Ted Behrman - Convertible_RAW\29_BackingVox5.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    30_BackingVox6.wav:
+      Track_path: Ted Behrman - Convertible\Ted Behrman - Convertible_RAW\30_BackingVox6.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Unused: {}
+  Ambient_Microphone: {}

@@ -1,0 +1,383 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer:
+    35_Synth1.wav:
+      Track_path: Al James - Schoolboy Fascination\Al James - Schoolboy Fascination_RAW\35_Synth1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    36_Synth2.wav:
+      Track_path: Al James - Schoolboy Fascination\Al James - Schoolboy Fascination_RAW\36_Synth2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    37_Synth3.wav:
+      Track_path: Al James - Schoolboy Fascination\Al James - Schoolboy Fascination_RAW\37_Synth3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    38_Synth4.wav:
+      Track_path: Al James - Schoolboy Fascination\Al James - Schoolboy Fascination_RAW\38_Synth4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  SFX: {}
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic:
+    25_SchoolBell.wav:
+      Track_path: Al James - Schoolboy Fascination\Al James - Schoolboy Fascination_RAW\25_SchoolBell.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Kick:
+    01_Kick.wav:
+      Track_path: Al James - Schoolboy Fascination\Al James - Schoolboy Fascination_RAW\01_Kick.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Snare:
+    02_Snare1.wav:
+      Track_path: Al James - Schoolboy Fascination\Al James - Schoolboy Fascination_RAW\02_Snare1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    03_Snare2.wav:
+      Track_path: Al James - Schoolboy Fascination\Al James - Schoolboy Fascination_RAW\03_Snare2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    04_Snare3.wav:
+      Track_path: Al James - Schoolboy Fascination\Al James - Schoolboy Fascination_RAW\04_Snare3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_HiHat:
+    07_HiHat1.wav:
+      Track_path: Al James - Schoolboy Fascination\Al James - Schoolboy Fascination_RAW\07_HiHat1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    08_HiHat2.wav:
+      Track_path: Al James - Schoolboy Fascination\Al James - Schoolboy Fascination_RAW\08_HiHat2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    09_HiHat3.wav:
+      Track_path: Al James - Schoolboy Fascination\Al James - Schoolboy Fascination_RAW\09_HiHat3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Cymbals:
+    10_Ride1.wav:
+      Track_path: Al James - Schoolboy Fascination\Al James - Schoolboy Fascination_RAW\10_Ride1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    11_Ride2.wav:
+      Track_path: Al James - Schoolboy Fascination\Al James - Schoolboy Fascination_RAW\11_Ride2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    17_Cymbal1Reverse.wav:
+      Track_path: Al James - Schoolboy Fascination\Al James - Schoolboy Fascination_RAW\17_Cymbal1Reverse.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    18_Cymbal2.wav:
+      Track_path: Al James - Schoolboy Fascination\Al James - Schoolboy Fascination_RAW\18_Cymbal2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    19_Cymbal3.wav:
+      Track_path: Al James - Schoolboy Fascination\Al James - Schoolboy Fascination_RAW\19_Cymbal3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Overheads: {}
+  Drum_Tom:
+    12_Tom1.wav:
+      Track_path: Al James - Schoolboy Fascination\Al James - Schoolboy Fascination_RAW\12_Tom1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    13_Tom2.wav:
+      Track_path: Al James - Schoolboy Fascination\Al James - Schoolboy Fascination_RAW\13_Tom2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    14_Tom3.wav:
+      Track_path: Al James - Schoolboy Fascination\Al James - Schoolboy Fascination_RAW\14_Tom3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    15_Tom4.wav:
+      Track_path: Al James - Schoolboy Fascination\Al James - Schoolboy Fascination_RAW\15_Tom4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    16_Tom5.wav:
+      Track_path: Al James - Schoolboy Fascination\Al James - Schoolboy Fascination_RAW\16_Tom5.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Room: {}
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks:
+    05_Sidestick.wav:
+      Track_path: Al James - Schoolboy Fascination\Al James - Schoolboy Fascination_RAW\05_Sidestick.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine:
+    21_Tambourine.wav:
+      Track_path: Al James - Schoolboy Fascination\Al James - Schoolboy Fascination_RAW\21_Tambourine.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Loop:
+    20_Loop.wav:
+      Track_path: Al James - Schoolboy Fascination\Al James - Schoolboy Fascination_RAW\20_Loop.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Clicks: {}
+  Claps:
+    06_Claps.wav:
+      Track_path: Al James - Schoolboy Fascination\Al James - Schoolboy Fascination_RAW\06_Claps.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass: {}
+  Electric_Bass:
+    22_Bass.wav:
+      Track_path: Al James - Schoolboy Fascination\Al James - Schoolboy Fascination_RAW\22_Bass.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Acoustic_Guitar:
+    31_AcGtr1.wav:
+      Track_path: Al James - Schoolboy Fascination\Al James - Schoolboy Fascination_RAW\31_AcGtr1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    32_AcGtr2.wav:
+      Track_path: Al James - Schoolboy Fascination\Al James - Schoolboy Fascination_RAW\32_AcGtr2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Electric_Guitar:
+    26_ElecGtr1.wav:
+      Track_path: Al James - Schoolboy Fascination\Al James - Schoolboy Fascination_RAW\26_ElecGtr1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    27_ElecGtr2MIDI.wav:
+      Track_path: Al James - Schoolboy Fascination\Al James - Schoolboy Fascination_RAW\27_ElecGtr2MIDI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    28_ElecGtr3MIDI.wav:
+      Track_path: Al James - Schoolboy Fascination\Al James - Schoolboy Fascination_RAW\28_ElecGtr3MIDI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    29_ElecGtr4.wav:
+      Track_path: Al James - Schoolboy Fascination\Al James - Schoolboy Fascination_RAW\29_ElecGtr4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    30_ElecGtr5.wav:
+      Track_path: Al James - Schoolboy Fascination\Al James - Schoolboy Fascination_RAW\30_ElecGtr5.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Piano:
+    23_Piano1Reverse.wav:
+      Track_path: Al James - Schoolboy Fascination\Al James - Schoolboy Fascination_RAW\23_Piano1Reverse.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    24_Piano2.wav:
+      Track_path: Al James - Schoolboy Fascination\Al James - Schoolboy Fascination_RAW\24_Piano2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section:
+    33_Strings.wav:
+      Track_path: Al James - Schoolboy Fascination\Al James - Schoolboy Fascination_RAW\33_Strings.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    34_StringsPizz.wav:
+      Track_path: Al James - Schoolboy Fascination\Al James - Schoolboy Fascination_RAW\34_StringsPizz.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    39_LeadVox1.wav:
+      Track_path: Al James - Schoolboy Fascination\Al James - Schoolboy Fascination_RAW\39_LeadVox1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    40_LeadVox2.wav:
+      Track_path: Al James - Schoolboy Fascination\Al James - Schoolboy Fascination_RAW\40_LeadVox2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    41_LeadVoxDT.wav:
+      Track_path: Al James - Schoolboy Fascination\Al James - Schoolboy Fascination_RAW\41_LeadVoxDT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Choir: {}
+  Backing_Vocal:
+    42_BackingVox01.wav:
+      Track_path: Al James - Schoolboy Fascination\Al James - Schoolboy Fascination_RAW\42_BackingVox01.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    43_BackingVox02.wav:
+      Track_path: Al James - Schoolboy Fascination\Al James - Schoolboy Fascination_RAW\43_BackingVox02.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    44_BackingVox03.wav:
+      Track_path: Al James - Schoolboy Fascination\Al James - Schoolboy Fascination_RAW\44_BackingVox03.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    45_BackingVox04.wav:
+      Track_path: Al James - Schoolboy Fascination\Al James - Schoolboy Fascination_RAW\45_BackingVox04.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    46_BackingVox05.wav:
+      Track_path: Al James - Schoolboy Fascination\Al James - Schoolboy Fascination_RAW\46_BackingVox05.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    47_BackingVox06.wav:
+      Track_path: Al James - Schoolboy Fascination\Al James - Schoolboy Fascination_RAW\47_BackingVox06.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    48_BackingVox07.wav:
+      Track_path: Al James - Schoolboy Fascination\Al James - Schoolboy Fascination_RAW\48_BackingVox07.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    49_BackingVox08.wav:
+      Track_path: Al James - Schoolboy Fascination\Al James - Schoolboy Fascination_RAW\49_BackingVox08.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    50_BackingVox09.wav:
+      Track_path: Al James - Schoolboy Fascination\Al James - Schoolboy Fascination_RAW\50_BackingVox09.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    51_BackingVox10.wav:
+      Track_path: Al James - Schoolboy Fascination\Al James - Schoolboy Fascination_RAW\51_BackingVox10.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    52_BackingVox11.wav:
+      Track_path: Al James - Schoolboy Fascination\Al James - Schoolboy Fascination_RAW\52_BackingVox11.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    53_BackingVox12.wav:
+      Track_path: Al James - Schoolboy Fascination\Al James - Schoolboy Fascination_RAW\53_BackingVox12.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    54_BackingVox13.wav:
+      Track_path: Al James - Schoolboy Fascination\Al James - Schoolboy Fascination_RAW\54_BackingVox13.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    55_BackingVox14.wav:
+      Track_path: Al James - Schoolboy Fascination\Al James - Schoolboy Fascination_RAW\55_BackingVox14.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    56_BackingVox15.wav:
+      Track_path: Al James - Schoolboy Fascination\Al James - Schoolboy Fascination_RAW\56_BackingVox15.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    57_BackingVox16.wav:
+      Track_path: Al James - Schoolboy Fascination\Al James - Schoolboy Fascination_RAW\57_BackingVox16.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    58_BackingVox17.wav:
+      Track_path: Al James - Schoolboy Fascination\Al James - Schoolboy Fascination_RAW\58_BackingVox17.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    59_BackingVox18.wav:
+      Track_path: Al James - Schoolboy Fascination\Al James - Schoolboy Fascination_RAW\59_BackingVox18.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    60_BackingVox19.wav:
+      Track_path: Al James - Schoolboy Fascination\Al James - Schoolboy Fascination_RAW\60_BackingVox19.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    61_BackingVox20.wav:
+      Track_path: Al James - Schoolboy Fascination\Al James - Schoolboy Fascination_RAW\61_BackingVox20.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    62_BackingVox21.wav:
+      Track_path: Al James - Schoolboy Fascination\Al James - Schoolboy Fascination_RAW\62_BackingVox21.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Unused: {}
+  Ambient_Microphone: {}

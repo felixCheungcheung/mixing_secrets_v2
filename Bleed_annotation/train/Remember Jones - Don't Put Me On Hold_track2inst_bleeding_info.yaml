@@ -1,0 +1,211 @@
+Track2inst:
+  Electric_Organ:
+    Keys-Leslie Bottom-M82.wav:
+      Track_path: Remember Jones - Don't Put Me On Hold\Remember Jones - Don't Put
+        Me On Hold_RAW\Keys-Leslie Bottom-M82.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Saxophone, Trumpet, Trombone, Drum_Overheads, Electric_Guitar'
+      Comment: ''
+    Keys-Leslie Top-M81.wav:
+      Track_path: Remember Jones - Don't Put Me On Hold\Remember Jones - Don't Put
+        Me On Hold_RAW\Keys-Leslie Top-M81.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Saxophone, Trumpet, Trombone, Drum_Overheads, Electric_Guitar'
+      Comment: ''
+  Synthesizer: {}
+  SFX: {}
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    Drums-Kick In-M82.wav:
+      Track_path: Remember Jones - Don't Put Me On Hold\Remember Jones - Don't Put
+        Me On Hold_RAW\Drums-Kick In-M82.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Saxophone, Trumpet, Trombone, Electric_Organ, Drum_Overheads, Electric_Guitar'
+      Comment: ''
+    Drums-Kick Out-CU29.wav:
+      Track_path: Remember Jones - Don't Put Me On Hold\Remember Jones - Don't Put
+        Me On Hold_RAW\Drums-Kick Out-CU29.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Saxophone, Trumpet, Trombone, Electric_Organ, Drum_Overheads, Electric_Guitar'
+      Comment: ''
+  Drum_Snare:
+    Drums-Snare Bottom-M80.wav:
+      Track_path: Remember Jones - Don't Put Me On Hold\Remember Jones - Don't Put
+        Me On Hold_RAW\Drums-Snare Bottom-M80.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Saxophone, Trumpet, Trombone, Electric_Organ, Drum_Overheads, Electric_Guitar'
+      Comment: ''
+    Drums-Snare Top-M81.wav:
+      Track_path: Remember Jones - Don't Put Me On Hold\Remember Jones - Don't Put
+        Me On Hold_RAW\Drums-Snare Top-M81.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Saxophone, Trumpet, Trombone, Electric_Organ, Drum_Overheads, Electric_Guitar'
+      Comment: ''
+  Drum_HiHat: {}
+  Drum_Cymbals: {}
+  Drum_Overheads:
+    Drums-Overhead-ELA M 260.wav:
+      Track_path: Remember Jones - Don't Put Me On Hold\Remember Jones - Don't Put
+        Me On Hold_RAW\Drums-Overhead-ELA M 260.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Saxophone, Trumpet, Trombone, Electric_Organ'
+      Comment: ''
+  Drum_Tom:
+    Drums-Floor-M81.wav:
+      Track_path: Remember Jones - Don't Put Me On Hold\Remember Jones - Don't Put
+        Me On Hold_RAW\Drums-Floor-M81.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Saxophone, Trumpet, Trombone, Electric_Organ, Drum_Overheads, Electric_Guitar'
+      Comment: ''
+    Drums-Rack Tom-M80.wav:
+      Track_path: Remember Jones - Don't Put Me On Hold\Remember Jones - Don't Put
+        Me On Hold_RAW\Drums-Rack Tom-M80.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Saxophone, Trumpet, Trombone, Electric_Organ, Drum_Overheads, Electric_Guitar'
+      Comment: ''
+  Drum_Room: {}
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga:
+    Percussion-Conga-M81.wav:
+      Track_path: Remember Jones - Don't Put Me On Hold\Remember Jones - Don't Put
+        Me On Hold_RAW\Percussion-Conga-M81.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Saxophone, Trumpet, Trombone, Electric_Organ, Drum_Overheads, Electric_Guitar'
+      Comment: ''
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop: {}
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass: {}
+  Electric_Bass:
+    Bass-Active DI.wav:
+      Track_path: Remember Jones - Don't Put Me On Hold\Remember Jones - Don't Put
+        Me On Hold_RAW\Bass-Active DI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Acoustic_Guitar: {}
+  Electric_Guitar:
+    ELE Guitar1-M81.wav:
+      Track_path: Remember Jones - Don't Put Me On Hold\Remember Jones - Don't Put
+        Me On Hold_RAW\ELE Guitar1-M81.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads'
+      Comment: ''
+    ELE Guitar2-M80.wav:
+      Track_path: Remember Jones - Don't Put Me On Hold\Remember Jones - Don't Put
+        Me On Hold_RAW\ELE Guitar2-M80.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads'
+      Comment: ''
+  Piano:
+    Keys-CP80-Active DI.wav:
+      Track_path: Remember Jones - Don't Put Me On Hold\Remember Jones - Don't Put
+        Me On Hold_RAW\Keys-CP80-Active DI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone:
+    Horns-Sax-M80.wav:
+      Track_path: Remember Jones - Don't Put Me On Hold\Remember Jones - Don't Put
+        Me On Hold_RAW\Horns-Sax-M80.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Trumpet:
+    Horns-Trumpet-ELA M 260.wav:
+      Track_path: Remember Jones - Don't Put Me On Hold\Remember Jones - Don't Put
+        Me On Hold_RAW\Horns-Trumpet-ELA M 260.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: ''
+      Comment: ''
+  French_Horn: {}
+  Trombone:
+    Horns-Bone-ELA M 260.wav:
+      Track_path: Remember Jones - Don't Put Me On Hold\Remember Jones - Don't Put
+        Me On Hold_RAW\Horns-Bone-ELA M 260.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    Vocals-Lead-M80.wav:
+      Track_path: Remember Jones - Don't Put Me On Hold\Remember Jones - Don't Put
+        Me On Hold_RAW\Vocals-Lead-M80.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Saxophone, Trumpet, Trombone, Electric_Organ, Drum_Overheads, Electric_Guitar'
+      Comment: ''
+  Choir: {}
+  Backing_Vocal:
+    Vocals-BV1-M81.wav:
+      Track_path: Remember Jones - Don't Put Me On Hold\Remember Jones - Don't Put
+        Me On Hold_RAW\Vocals-BV1-M81.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Saxophone, Trumpet, Trombone, Electric_Organ, Drum_Overheads, Electric_Guitar'
+      Comment: ''
+    Vocals-BV2-M81.wav:
+      Track_path: Remember Jones - Don't Put Me On Hold\Remember Jones - Don't Put
+        Me On Hold_RAW\Vocals-BV2-M81.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Saxophone, Trumpet, Trombone, Electric_Organ, Drum_Overheads, Electric_Guitar'
+      Comment: ''
+  Unused:
+    Drums-Room-M81.wav:
+      Track_path: Remember Jones - Don't Put Me On Hold\Remember Jones - Don't Put
+        Me On Hold_RAW\Drums-Room-M81.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Ambient_Microphone:
+    Percussion-Tim-M81.wav:
+      Track_path: Remember Jones - Don't Put Me On Hold\Remember Jones - Don't Put
+        Me On Hold_RAW\Percussion-Tim-M81.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Percussion-Overhead-M60.wav:
+      Track_path: Remember Jones - Don't Put Me On Hold\Remember Jones - Don't Put
+        Me On Hold_RAW\Percussion-Overhead-M60.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: ''
+      Comment: 'emphasizing shaker'

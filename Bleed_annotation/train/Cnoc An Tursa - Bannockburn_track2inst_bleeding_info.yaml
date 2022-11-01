@@ -1,0 +1,288 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer: {}
+  SFX: {}
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    01_Kick1.wav:
+      Track_path: Cnoc An Tursa - Bannockburn\Cnoc An Tursa - Bannockburn_RAW\01_Kick1.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    02_Kick2.wav:
+      Track_path: Cnoc An Tursa - Bannockburn\Cnoc An Tursa - Bannockburn_RAW\02_Kick2.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_Snare:
+    03_SnareUp.wav:
+      Track_path: Cnoc An Tursa - Bannockburn\Cnoc An Tursa - Bannockburn_RAW\03_SnareUp.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    04_SnareDown.wav:
+      Track_path: Cnoc An Tursa - Bannockburn\Cnoc An Tursa - Bannockburn_RAW\04_SnareDown.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    05_SnareSample.wav:
+      Track_path: Cnoc An Tursa - Bannockburn\Cnoc An Tursa - Bannockburn_RAW\05_SnareSample.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_HiHat:
+    06_HiHat.wav:
+      Track_path: Cnoc An Tursa - Bannockburn\Cnoc An Tursa - Bannockburn_RAW\06_HiHat.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_Cymbals:
+    07_Ride.wav:
+      Track_path: Cnoc An Tursa - Bannockburn\Cnoc An Tursa - Bannockburn_RAW\07_Ride.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    17_CymbalSample.wav:
+      Track_path: Cnoc An Tursa - Bannockburn\Cnoc An Tursa - Bannockburn_RAW\17_CymbalSample.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_Overheads:
+    08_Overheads.wav:
+      Track_path: Cnoc An Tursa - Bannockburn\Cnoc An Tursa - Bannockburn_RAW\08_Overheads.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Tom:
+    11_Tom1.wav:
+      Track_path: Cnoc An Tursa - Bannockburn\Cnoc An Tursa - Bannockburn_RAW\11_Tom1.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    12_Tom1Sample.wav:
+      Track_path: Cnoc An Tursa - Bannockburn\Cnoc An Tursa - Bannockburn_RAW\12_Tom1Sample.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    13_Tom2.wav:
+      Track_path: Cnoc An Tursa - Bannockburn\Cnoc An Tursa - Bannockburn_RAW\13_Tom2.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    14_Tome2Sample.wav:
+      Track_path: Cnoc An Tursa - Bannockburn\Cnoc An Tursa - Bannockburn_RAW\14_Tome2Sample.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    15_Tom3.wav:
+      Track_path: Cnoc An Tursa - Bannockburn\Cnoc An Tursa - Bannockburn_RAW\15_Tom3.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    16_Tom3Sample.wav:
+      Track_path: Cnoc An Tursa - Bannockburn\Cnoc An Tursa - Bannockburn_RAW\16_Tom3Sample.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_Room:
+    09_DrumsRoom1.wav:
+      Track_path: Cnoc An Tursa - Bannockburn\Cnoc An Tursa - Bannockburn_RAW\09_DrumsRoom1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    10_DrumsRoom2.wav:
+      Track_path: Cnoc An Tursa - Bannockburn\Cnoc An Tursa - Bannockburn_RAW\10_DrumsRoom2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop: {}
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass: {}
+  Electric_Bass:
+    18_BassDI.wav:
+      Track_path: Cnoc An Tursa - Bannockburn\Cnoc An Tursa - Bannockburn_RAW\18_BassDI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    19_BassAmp.wav:
+      Track_path: Cnoc An Tursa - Bannockburn\Cnoc An Tursa - Bannockburn_RAW\19_BassAmp.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Acoustic_Guitar: {}
+  Electric_Guitar:
+    20_ElecGtr1DI.wav:
+      Track_path: Cnoc An Tursa - Bannockburn\Cnoc An Tursa - Bannockburn_RAW\20_ElecGtr1DI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    21_ElecGtr1Mic1.wav:
+      Track_path: Cnoc An Tursa - Bannockburn\Cnoc An Tursa - Bannockburn_RAW\21_ElecGtr1Mic1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    22_ElecGtr1Mic2.wav:
+      Track_path: Cnoc An Tursa - Bannockburn\Cnoc An Tursa - Bannockburn_RAW\22_ElecGtr1Mic2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    23_ElecGtr2DI.wav:
+      Track_path: Cnoc An Tursa - Bannockburn\Cnoc An Tursa - Bannockburn_RAW\23_ElecGtr2DI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    24_ElecGtr2Mic1.wav:
+      Track_path: Cnoc An Tursa - Bannockburn\Cnoc An Tursa - Bannockburn_RAW\24_ElecGtr2Mic1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    25_ElecGtr2Mic2.wav:
+      Track_path: Cnoc An Tursa - Bannockburn\Cnoc An Tursa - Bannockburn_RAW\25_ElecGtr2Mic2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    26_ElecGtr3DI.wav:
+      Track_path: Cnoc An Tursa - Bannockburn\Cnoc An Tursa - Bannockburn_RAW\26_ElecGtr3DI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    27_ElecGtr3Mic1.wav:
+      Track_path: Cnoc An Tursa - Bannockburn\Cnoc An Tursa - Bannockburn_RAW\27_ElecGtr3Mic1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    28_ElecGtr3Mic2.wav:
+      Track_path: Cnoc An Tursa - Bannockburn\Cnoc An Tursa - Bannockburn_RAW\28_ElecGtr3Mic2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    29_ElecGtr4DI.wav:
+      Track_path: Cnoc An Tursa - Bannockburn\Cnoc An Tursa - Bannockburn_RAW\29_ElecGtr4DI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    30_ElecGtr4Mic1.wav:
+      Track_path: Cnoc An Tursa - Bannockburn\Cnoc An Tursa - Bannockburn_RAW\30_ElecGtr4Mic1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    31_ElecGtr4Mic2.wav:
+      Track_path: Cnoc An Tursa - Bannockburn\Cnoc An Tursa - Bannockburn_RAW\31_ElecGtr4Mic2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    32_ElecGtr5DI.wav:
+      Track_path: Cnoc An Tursa - Bannockburn\Cnoc An Tursa - Bannockburn_RAW\32_ElecGtr5DI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    33_ElecGtr5Mic1.wav:
+      Track_path: Cnoc An Tursa - Bannockburn\Cnoc An Tursa - Bannockburn_RAW\33_ElecGtr5Mic1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    34_ElecGtr5Mic2.wav:
+      Track_path: Cnoc An Tursa - Bannockburn\Cnoc An Tursa - Bannockburn_RAW\34_ElecGtr5Mic2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    35_ElecGtr6D.wav:
+      Track_path: Cnoc An Tursa - Bannockburn\Cnoc An Tursa - Bannockburn_RAW\35_ElecGtr6D.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    36_ElecGtr6Mic1.wav:
+      Track_path: Cnoc An Tursa - Bannockburn\Cnoc An Tursa - Bannockburn_RAW\36_ElecGtr6Mic1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    37_ElecGtr6Mic2.wav:
+      Track_path: Cnoc An Tursa - Bannockburn\Cnoc An Tursa - Bannockburn_RAW\37_ElecGtr6Mic2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Piano: {}
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section:
+    38_SynthStrings.wav:
+      Track_path: Cnoc An Tursa - Bannockburn\Cnoc An Tursa - Bannockburn_RAW\38_SynthStrings.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    40_LeadVox.wav:
+      Track_path: Cnoc An Tursa - Bannockburn\Cnoc An Tursa - Bannockburn_RAW\40_LeadVox.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    41_LeadVoxDT.wav:
+      Track_path: Cnoc An Tursa - Bannockburn\Cnoc An Tursa - Bannockburn_RAW\41_LeadVoxDT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Choir:
+    39_SynthChoir.wav:
+      Track_path: Cnoc An Tursa - Bannockburn\Cnoc An Tursa - Bannockburn_RAW\39_SynthChoir.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Backing_Vocal:
+    42_BackingVox1.wav:
+      Track_path: Cnoc An Tursa - Bannockburn\Cnoc An Tursa - Bannockburn_RAW\42_BackingVox1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    43_BackingVox2.wav:
+      Track_path: Cnoc An Tursa - Bannockburn\Cnoc An Tursa - Bannockburn_RAW\43_BackingVox2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Unused: {}
+  Ambient_Microphone: {}

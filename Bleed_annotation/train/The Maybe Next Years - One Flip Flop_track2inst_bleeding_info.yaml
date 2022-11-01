@@ -1,0 +1,313 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer: {}
+  SFX:
+    31_SFX.wav:
+      Track_path: The Maybe Next Years - One Flip Flop\The Maybe Next Years - One
+        Flip Flop_RAW\31_SFX.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    01_KickIn.wav:
+      Track_path: The Maybe Next Years - One Flip Flop\The Maybe Next Years - One
+        Flip Flop_RAW\01_KickIn.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    02_KickOut.wav:
+      Track_path: The Maybe Next Years - One Flip Flop\The Maybe Next Years - One
+        Flip Flop_RAW\02_KickOut.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    03_KickSample1.wav:
+      Track_path: The Maybe Next Years - One Flip Flop\The Maybe Next Years - One
+        Flip Flop_RAW\03_KickSample1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    04_KickSample2.wav:
+      Track_path: The Maybe Next Years - One Flip Flop\The Maybe Next Years - One
+        Flip Flop_RAW\04_KickSample2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    05_KickSample3.wav:
+      Track_path: The Maybe Next Years - One Flip Flop\The Maybe Next Years - One
+        Flip Flop_RAW\05_KickSample3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    06_KickSample4.wav:
+      Track_path: The Maybe Next Years - One Flip Flop\The Maybe Next Years - One
+        Flip Flop_RAW\06_KickSample4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Snare:
+    09_SnareUp.wav:
+      Track_path: The Maybe Next Years - One Flip Flop\The Maybe Next Years - One
+        Flip Flop_RAW\09_SnareUp.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    10_SnareDown.wav:
+      Track_path: The Maybe Next Years - One Flip Flop\The Maybe Next Years - One
+        Flip Flop_RAW\10_SnareDown.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    11_SnareSample.wav:
+      Track_path: The Maybe Next Years - One Flip Flop\The Maybe Next Years - One
+        Flip Flop_RAW\11_SnareSample.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_HiHat:
+    12_HiHat.wav:
+      Track_path: The Maybe Next Years - One Flip Flop\The Maybe Next Years - One
+        Flip Flop_RAW\12_HiHat.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_Cymbals: {}
+  Drum_Overheads:
+    15_Overheads.wav:
+      Track_path: The Maybe Next Years - One Flip Flop\The Maybe Next Years - One
+        Flip Flop_RAW\15_Overheads.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Tom:
+    13_Tom1.wav:
+      Track_path: The Maybe Next Years - One Flip Flop\The Maybe Next Years - One
+        Flip Flop_RAW\13_Tom1.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    14_Tom2.wav:
+      Track_path: The Maybe Next Years - One Flip Flop\The Maybe Next Years - One
+        Flip Flop_RAW\14_Tom2.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_Room:
+    16_DrumsRoom.wav:
+      Track_path: The Maybe Next Years - One Flip Flop\The Maybe Next Years - One
+        Flip Flop_RAW\16_DrumsRoom.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop: {}
+  Clicks: {}
+  Claps:
+    08_ClapsRoom.wav:
+      Track_path: The Maybe Next Years - One Flip Flop\The Maybe Next Years - One
+        Flip Flop_RAW\08_ClapsRoom.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    07_Claps.wav:
+      Track_path: The Maybe Next Years - One Flip Flop\The Maybe Next Years - One
+        Flip Flop_RAW\07_Claps.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass: {}
+  Electric_Bass:
+    17_BassAmp.wav:
+      Track_path: The Maybe Next Years - One Flip Flop\The Maybe Next Years - One
+        Flip Flop_RAW\17_BassAmp.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    18_BassDI.wav:
+      Track_path: The Maybe Next Years - One Flip Flop\The Maybe Next Years - One
+        Flip Flop_RAW\18_BassDI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Acoustic_Guitar: {}
+  Electric_Guitar:
+    19_ElecGtr1Mic1.wav:
+      Track_path: The Maybe Next Years - One Flip Flop\The Maybe Next Years - One
+        Flip Flop_RAW\19_ElecGtr1Mic1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    20_ElecGtr1Mic2.wav:
+      Track_path: The Maybe Next Years - One Flip Flop\The Maybe Next Years - One
+        Flip Flop_RAW\20_ElecGtr1Mic2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    21_ElecGtr1DI.wav:
+      Track_path: The Maybe Next Years - One Flip Flop\The Maybe Next Years - One
+        Flip Flop_RAW\21_ElecGtr1DI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    22_ElecGtr1AmpSim.wav:
+      Track_path: The Maybe Next Years - One Flip Flop\The Maybe Next Years - One
+        Flip Flop_RAW\22_ElecGtr1AmpSim.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    23_ElecGtr2Mic1.wav:
+      Track_path: The Maybe Next Years - One Flip Flop\The Maybe Next Years - One
+        Flip Flop_RAW\23_ElecGtr2Mic1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    24_ElecGtr2Mic2.wav:
+      Track_path: The Maybe Next Years - One Flip Flop\The Maybe Next Years - One
+        Flip Flop_RAW\24_ElecGtr2Mic2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    25_ElecGtr2DI.wav:
+      Track_path: The Maybe Next Years - One Flip Flop\The Maybe Next Years - One
+        Flip Flop_RAW\25_ElecGtr2DI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    26_ElecGtr2AmpSim.wav:
+      Track_path: The Maybe Next Years - One Flip Flop\The Maybe Next Years - One
+        Flip Flop_RAW\26_ElecGtr2AmpSim.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    27_ElecGtr3Mic1.wav:
+      Track_path: The Maybe Next Years - One Flip Flop\The Maybe Next Years - One
+        Flip Flop_RAW\27_ElecGtr3Mic1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    28_ElecGtr3Mic2.wav:
+      Track_path: The Maybe Next Years - One Flip Flop\The Maybe Next Years - One
+        Flip Flop_RAW\28_ElecGtr3Mic2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    29_ElecGtr3DI.wav:
+      Track_path: The Maybe Next Years - One Flip Flop\The Maybe Next Years - One
+        Flip Flop_RAW\29_ElecGtr3DI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    30_ElecGtr3AmpSim.wav:
+      Track_path: The Maybe Next Years - One Flip Flop\The Maybe Next Years - One
+        Flip Flop_RAW\30_ElecGtr3AmpSim.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Piano: {}
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    32_LeadVox1.wav:
+      Track_path: The Maybe Next Years - One Flip Flop\The Maybe Next Years - One
+        Flip Flop_RAW\32_LeadVox1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    33_LeadVox2.wav:
+      Track_path: The Maybe Next Years - One Flip Flop\The Maybe Next Years - One
+        Flip Flop_RAW\33_LeadVox2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Choir: {}
+  Backing_Vocal:
+    34_BackingVox1.wav:
+      Track_path: The Maybe Next Years - One Flip Flop\The Maybe Next Years - One
+        Flip Flop_RAW\34_BackingVox1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    35_BackingVox2.wav:
+      Track_path: The Maybe Next Years - One Flip Flop\The Maybe Next Years - One
+        Flip Flop_RAW\35_BackingVox2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    36_BackingVox2DT.wav:
+      Track_path: The Maybe Next Years - One Flip Flop\The Maybe Next Years - One
+        Flip Flop_RAW\36_BackingVox2DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    37_BackingVox3.wav:
+      Track_path: The Maybe Next Years - One Flip Flop\The Maybe Next Years - One
+        Flip Flop_RAW\37_BackingVox3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    38_BackingVox3DT.wav:
+      Track_path: The Maybe Next Years - One Flip Flop\The Maybe Next Years - One
+        Flip Flop_RAW\38_BackingVox3DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    39_BackingVox4.wav:
+      Track_path: The Maybe Next Years - One Flip Flop\The Maybe Next Years - One
+        Flip Flop_RAW\39_BackingVox4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    40_BackingVox4DT.wav:
+      Track_path: The Maybe Next Years - One Flip Flop\The Maybe Next Years - One
+        Flip Flop_RAW\40_BackingVox4DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Unused: {}
+  Ambient_Microphone: {}

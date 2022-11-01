@@ -1,0 +1,323 @@
+Track2inst:
+  Electric_Organ:
+    43_Organ.wav:
+      Track_path: Serapis - The Dark Abyss\Serapis - The Dark Abyss_RAW\43_Organ.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Synthesizer: {}
+  SFX: {}
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    01_Kick.wav:
+      Track_path: Serapis - The Dark Abyss\Serapis - The Dark Abyss_RAW\01_Kick.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    02_KickSub.wav:
+      Track_path: Serapis - The Dark Abyss\Serapis - The Dark Abyss_RAW\02_KickSub.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    03_KickSample.wav:
+      Track_path: Serapis - The Dark Abyss\Serapis - The Dark Abyss_RAW\03_KickSample.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Snare:
+    04_SnareUp.wav:
+      Track_path: Serapis - The Dark Abyss\Serapis - The Dark Abyss_RAW\04_SnareUp.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    05_SnareDown.wav:
+      Track_path: Serapis - The Dark Abyss\Serapis - The Dark Abyss_RAW\05_SnareDown.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    06_SnareSample.wav:
+      Track_path: Serapis - The Dark Abyss\Serapis - The Dark Abyss_RAW\06_SnareSample.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_HiHat:
+    07_HiHat.wav:
+      Track_path: Serapis - The Dark Abyss\Serapis - The Dark Abyss_RAW\07_HiHat.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Cymbals:
+    08_Ride.wav:
+      Track_path: Serapis - The Dark Abyss\Serapis - The Dark Abyss_RAW\08_Ride.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Overheads:
+    15_Overheads.wav:
+      Track_path: Serapis - The Dark Abyss\Serapis - The Dark Abyss_RAW\15_Overheads.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Tom:
+    09_Tom1.wav:
+      Track_path: Serapis - The Dark Abyss\Serapis - The Dark Abyss_RAW\09_Tom1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    10_Tom2.wav:
+      Track_path: Serapis - The Dark Abyss\Serapis - The Dark Abyss_RAW\10_Tom2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    11_Tom3.wav:
+      Track_path: Serapis - The Dark Abyss\Serapis - The Dark Abyss_RAW\11_Tom3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    12_Tom4.wav:
+      Track_path: Serapis - The Dark Abyss\Serapis - The Dark Abyss_RAW\12_Tom4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    13_Tom5.wav:
+      Track_path: Serapis - The Dark Abyss\Serapis - The Dark Abyss_RAW\13_Tom5.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    14_Tom6.wav:
+      Track_path: Serapis - The Dark Abyss\Serapis - The Dark Abyss_RAW\14_Tom6.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Room:
+    16_DrumsRoomClose.wav:
+      Track_path: Serapis - The Dark Abyss\Serapis - The Dark Abyss_RAW\16_DrumsRoomClose.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    17_DrumsRoomFar.wav:
+      Track_path: Serapis - The Dark Abyss\Serapis - The Dark Abyss_RAW\17_DrumsRoomFar.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop: {}
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass: {}
+  Electric_Bass:
+    18_Bass1Amp.wav:
+      Track_path: Serapis - The Dark Abyss\Serapis - The Dark Abyss_RAW\18_Bass1Amp.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    19_Bass1DI.wav:
+      Track_path: Serapis - The Dark Abyss\Serapis - The Dark Abyss_RAW\19_Bass1DI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    20_Bass2Amp.wav:
+      Track_path: Serapis - The Dark Abyss\Serapis - The Dark Abyss_RAW\20_Bass2Amp.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    21_Bass2DI.wav:
+      Track_path: Serapis - The Dark Abyss\Serapis - The Dark Abyss_RAW\21_Bass2DI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Acoustic_Guitar: {}
+  Electric_Guitar:
+    22_ElecGtr1.wav:
+      Track_path: Serapis - The Dark Abyss\Serapis - The Dark Abyss_RAW\22_ElecGtr1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    23_ElecGtr1DI.wav:
+      Track_path: Serapis - The Dark Abyss\Serapis - The Dark Abyss_RAW\23_ElecGtr1DI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    24_ElecGtr1DT.wav:
+      Track_path: Serapis - The Dark Abyss\Serapis - The Dark Abyss_RAW\24_ElecGtr1DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    25_ElecGtr1DTDI.wav:
+      Track_path: Serapis - The Dark Abyss\Serapis - The Dark Abyss_RAW\25_ElecGtr1DTDI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    26_ElecGtr2.wav:
+      Track_path: Serapis - The Dark Abyss\Serapis - The Dark Abyss_RAW\26_ElecGtr2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    27_ElecGtr2DI.wav:
+      Track_path: Serapis - The Dark Abyss\Serapis - The Dark Abyss_RAW\27_ElecGtr2DI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    28_ElecGtr2DT.wav:
+      Track_path: Serapis - The Dark Abyss\Serapis - The Dark Abyss_RAW\28_ElecGtr2DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    29_ElecGtr2DTDI.wav:
+      Track_path: Serapis - The Dark Abyss\Serapis - The Dark Abyss_RAW\29_ElecGtr2DTDI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    30_ElecGtr3.wav:
+      Track_path: Serapis - The Dark Abyss\Serapis - The Dark Abyss_RAW\30_ElecGtr3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    31_ElecGtr3DI.wav:
+      Track_path: Serapis - The Dark Abyss\Serapis - The Dark Abyss_RAW\31_ElecGtr3DI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    32_ElecGtr3DT.wav:
+      Track_path: Serapis - The Dark Abyss\Serapis - The Dark Abyss_RAW\32_ElecGtr3DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    33_ElecGtr3DTDI.wav:
+      Track_path: Serapis - The Dark Abyss\Serapis - The Dark Abyss_RAW\33_ElecGtr3DTDI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    34_ElecGtr4.wav:
+      Track_path: Serapis - The Dark Abyss\Serapis - The Dark Abyss_RAW\34_ElecGtr4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    35_ElecGtr4DI.wav:
+      Track_path: Serapis - The Dark Abyss\Serapis - The Dark Abyss_RAW\35_ElecGtr4DI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    36_ElecGtr5.wav:
+      Track_path: Serapis - The Dark Abyss\Serapis - The Dark Abyss_RAW\36_ElecGtr5.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    37_ElecGtr5DI.wav:
+      Track_path: Serapis - The Dark Abyss\Serapis - The Dark Abyss_RAW\37_ElecGtr5DI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    38_ElecGtr6.wav:
+      Track_path: Serapis - The Dark Abyss\Serapis - The Dark Abyss_RAW\38_ElecGtr6.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    39_ElecGtr6DI.wav:
+      Track_path: Serapis - The Dark Abyss\Serapis - The Dark Abyss_RAW\39_ElecGtr6DI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Piano: {}
+  Electric_Piano: {}
+  Brass_Section:
+    44_Brass.wav:
+      Track_path: Serapis - The Dark Abyss\Serapis - The Dark Abyss_RAW\44_Brass.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    45_LeadVox1a.wav:
+      Track_path: Serapis - The Dark Abyss\Serapis - The Dark Abyss_RAW\45_LeadVox1a.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    46_LeadVox1b.wav:
+      Track_path: Serapis - The Dark Abyss\Serapis - The Dark Abyss_RAW\46_LeadVox1b.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    47_LeadVox2a.wav:
+      Track_path: Serapis - The Dark Abyss\Serapis - The Dark Abyss_RAW\47_LeadVox2a.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    48_LeadVox2b.wav:
+      Track_path: Serapis - The Dark Abyss\Serapis - The Dark Abyss_RAW\48_LeadVox2b.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Choir:
+    40_Choir1.wav:
+      Track_path: Serapis - The Dark Abyss\Serapis - The Dark Abyss_RAW\40_Choir1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    41_Choir2.wav:
+      Track_path: Serapis - The Dark Abyss\Serapis - The Dark Abyss_RAW\41_Choir2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    42_Choir3.wav:
+      Track_path: Serapis - The Dark Abyss\Serapis - The Dark Abyss_RAW\42_Choir3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Backing_Vocal:
+    49_BackingVox1.wav:
+      Track_path: Serapis - The Dark Abyss\Serapis - The Dark Abyss_RAW\49_BackingVox1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    50_BackingVox2.wav:
+      Track_path: Serapis - The Dark Abyss\Serapis - The Dark Abyss_RAW\50_BackingVox2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Unused: {}
+  Ambient_Microphone: {}

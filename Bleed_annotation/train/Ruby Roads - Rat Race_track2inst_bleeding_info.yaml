@@ -1,0 +1,233 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer:
+    25_Synth.wav:
+      Track_path: Ruby Roads - Rat Race\Ruby Roads - Rat Race_RAW\25_Synth.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  SFX:
+    03_Loop3.wav:
+      Track_path: Ruby Roads - Rat Race\Ruby Roads - Rat Race_RAW\03_Loop3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    04_KickIn1.wav:
+      Track_path: Ruby Roads - Rat Race\Ruby Roads - Rat Race_RAW\04_KickIn1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    05_KickIn2.wav:
+      Track_path: Ruby Roads - Rat Race\Ruby Roads - Rat Race_RAW\05_KickIn2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    06_KickSub.wav:
+      Track_path: Ruby Roads - Rat Race\Ruby Roads - Rat Race_RAW\06_KickSub.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Snare:
+    08_SnareDown.wav:
+      Track_path: Ruby Roads - Rat Race\Ruby Roads - Rat Race_RAW\08_SnareDown.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    09_SnareUp1.wav:
+      Track_path: Ruby Roads - Rat Race\Ruby Roads - Rat Race_RAW\09_SnareUp1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    10_SnareUp2.wav:
+      Track_path: Ruby Roads - Rat Race\Ruby Roads - Rat Race_RAW\10_SnareUp2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_HiHat:
+    07_HiHat.wav:
+      Track_path: Ruby Roads - Rat Race\Ruby Roads - Rat Race_RAW\07_HiHat.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Cymbals: {}
+  Drum_Overheads:
+    12_Overheads.wav:
+      Track_path: Ruby Roads - Rat Race\Ruby Roads - Rat Race_RAW\12_Overheads.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Tom:
+    11_Tom.wav:
+      Track_path: Ruby Roads - Rat Race\Ruby Roads - Rat Race_RAW\11_Tom.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Room:
+    13_DrumsRoomMono.wav:
+      Track_path: Ruby Roads - Rat Race\Ruby Roads - Rat Race_RAW\13_DrumsRoomMono.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    14_DrumsRoomStereo.wav:
+      Track_path: Ruby Roads - Rat Race\Ruby Roads - Rat Race_RAW\14_DrumsRoomStereo.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop:
+    01_Loop1.wav:
+      Track_path: Ruby Roads - Rat Race\Ruby Roads - Rat Race_RAW\01_Loop1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    02_Loop2.wav:
+      Track_path: Ruby Roads - Rat Race\Ruby Roads - Rat Race_RAW\02_Loop2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass: {}
+  Electric_Bass:
+    15_Bass.wav:
+      Track_path: Ruby Roads - Rat Race\Ruby Roads - Rat Race_RAW\15_Bass.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Acoustic_Guitar: {}
+  Electric_Guitar:
+    16_ElecGtr1.wav:
+      Track_path: Ruby Roads - Rat Race\Ruby Roads - Rat Race_RAW\16_ElecGtr1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    17_ElecGtr2.wav:
+      Track_path: Ruby Roads - Rat Race\Ruby Roads - Rat Race_RAW\17_ElecGtr2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    18_ElecGtr3.wav:
+      Track_path: Ruby Roads - Rat Race\Ruby Roads - Rat Race_RAW\18_ElecGtr3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    19_ElecGtr4.wav:
+      Track_path: Ruby Roads - Rat Race\Ruby Roads - Rat Race_RAW\19_ElecGtr4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    20_ElecGtr5.wav:
+      Track_path: Ruby Roads - Rat Race\Ruby Roads - Rat Race_RAW\20_ElecGtr5.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    21_ElecGtr6.wav:
+      Track_path: Ruby Roads - Rat Race\Ruby Roads - Rat Race_RAW\21_ElecGtr6.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Piano:
+    23_Piano1.wav:
+      Track_path: Ruby Roads - Rat Race\Ruby Roads - Rat Race_RAW\23_Piano1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    24_Piano2.wav:
+      Track_path: Ruby Roads - Rat Race\Ruby Roads - Rat Race_RAW\24_Piano2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section:
+    22_Mellotron.wav:
+      Track_path: Ruby Roads - Rat Race\Ruby Roads - Rat Race_RAW\22_Mellotron.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Lead_Vocal:
+    26_LeadVox.wav:
+      Track_path: Ruby Roads - Rat Race\Ruby Roads - Rat Race_RAW\26_LeadVox.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    27_LeadVoxDT.wav:
+      Track_path: Ruby Roads - Rat Race\Ruby Roads - Rat Race_RAW\27_LeadVoxDT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Choir: {}
+  Backing_Vocal:
+    28_BackingVox1.wav:
+      Track_path: Ruby Roads - Rat Race\Ruby Roads - Rat Race_RAW\28_BackingVox1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    29_BackingVox2.wav:
+      Track_path: Ruby Roads - Rat Race\Ruby Roads - Rat Race_RAW\29_BackingVox2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    30_BackingVox3.wav:
+      Track_path: Ruby Roads - Rat Race\Ruby Roads - Rat Race_RAW\30_BackingVox3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    31_BackingVox4.wav:
+      Track_path: Ruby Roads - Rat Race\Ruby Roads - Rat Race_RAW\31_BackingVox4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    32_BackingVox5.wav:
+      Track_path: Ruby Roads - Rat Race\Ruby Roads - Rat Race_RAW\32_BackingVox5.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Unused: {}
+  Ambient_Microphone: {}

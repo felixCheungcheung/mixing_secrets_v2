@@ -1,0 +1,288 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer: {}
+  SFX:
+    40_SFX1.wav:
+      Track_path: G-Bass Project - New Day Dawning\G-Bass Project - New Day Dawning_RAW\40_SFX1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    41_SFX2.wav:
+      Track_path: G-Bass Project - New Day Dawning\G-Bass Project - New Day Dawning_RAW\41_SFX2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    42_SFX3.wav:
+      Track_path: G-Bass Project - New Day Dawning\G-Bass Project - New Day Dawning_RAW\42_SFX3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    43_SFX4.wav:
+      Track_path: G-Bass Project - New Day Dawning\G-Bass Project - New Day Dawning_RAW\43_SFX4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle:
+    23_Triangle.wav:
+      Track_path: G-Bass Project - New Day Dawning\G-Bass Project - New Day Dawning_RAW\23_Triangle.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Chimes: {}
+  Other_Chromatic:
+    38_Idiophone.wav:
+      Track_path: G-Bass Project - New Day Dawning\G-Bass Project - New Day Dawning_RAW\38_Idiophone.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    39_ToyPiano.wav:
+      Track_path: G-Bass Project - New Day Dawning\G-Bass Project - New Day Dawning_RAW\39_ToyPiano.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Kick:
+    01_Kick.wav:
+      Track_path: G-Bass Project - New Day Dawning\G-Bass Project - New Day Dawning_RAW\01_Kick.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Snare:
+    02_Snare1.wav:
+      Track_path: G-Bass Project - New Day Dawning\G-Bass Project - New Day Dawning_RAW\02_Snare1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    03_Snare2.wav:
+      Track_path: G-Bass Project - New Day Dawning\G-Bass Project - New Day Dawning_RAW\03_Snare2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    04_Snare3.wav:
+      Track_path: G-Bass Project - New Day Dawning\G-Bass Project - New Day Dawning_RAW\04_Snare3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    05_Snare4.wav:
+      Track_path: G-Bass Project - New Day Dawning\G-Bass Project - New Day Dawning_RAW\05_Snare4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    06_Snare5.wav:
+      Track_path: G-Bass Project - New Day Dawning\G-Bass Project - New Day Dawning_RAW\06_Snare5.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    07_Snare6.wav:
+      Track_path: G-Bass Project - New Day Dawning\G-Bass Project - New Day Dawning_RAW\07_Snare6.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    08_Snare7.wav:
+      Track_path: G-Bass Project - New Day Dawning\G-Bass Project - New Day Dawning_RAW\08_Snare7.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    09_Sidestick1.wav:
+      Track_path: G-Bass Project - New Day Dawning\G-Bass Project - New Day Dawning_RAW\09_Sidestick1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    10_Sidestick2.wav:
+      Track_path: G-Bass Project - New Day Dawning\G-Bass Project - New Day Dawning_RAW\10_Sidestick2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_HiHat:
+    12_HiHat1.wav:
+      Track_path: G-Bass Project - New Day Dawning\G-Bass Project - New Day Dawning_RAW\12_HiHat1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    13_HiHat2.wav:
+      Track_path: G-Bass Project - New Day Dawning\G-Bass Project - New Day Dawning_RAW\13_HiHat2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    14_HiHat3.wav:
+      Track_path: G-Bass Project - New Day Dawning\G-Bass Project - New Day Dawning_RAW\14_HiHat3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    15_HiHat4.wav:
+      Track_path: G-Bass Project - New Day Dawning\G-Bass Project - New Day Dawning_RAW\15_HiHat4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Cymbals:
+    17_Ride.wav:
+      Track_path: G-Bass Project - New Day Dawning\G-Bass Project - New Day Dawning_RAW\17_Ride.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    18_Cymbals1.wav:
+      Track_path: G-Bass Project - New Day Dawning\G-Bass Project - New Day Dawning_RAW\18_Cymbals1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    19_Cymbals2.wav:
+      Track_path: G-Bass Project - New Day Dawning\G-Bass Project - New Day Dawning_RAW\19_Cymbals2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    20_Cymbals3.wav:
+      Track_path: G-Bass Project - New Day Dawning\G-Bass Project - New Day Dawning_RAW\20_Cymbals3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    21_ReverseCymbal.wav:
+      Track_path: G-Bass Project - New Day Dawning\G-Bass Project - New Day Dawning_RAW\21_ReverseCymbal.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Overheads: {}
+  Drum_Tom:
+    16_Toms.wav:
+      Track_path: G-Bass Project - New Day Dawning\G-Bass Project - New Day Dawning_RAW\16_Toms.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Room: {}
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha:
+    22_VibraSlap.wav:
+      Track_path: G-Bass Project - New Day Dawning\G-Bass Project - New Day Dawning_RAW\22_VibraSlap.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine:
+    24_Tambourine.wav:
+      Track_path: G-Bass Project - New Day Dawning\G-Bass Project - New Day Dawning_RAW\24_Tambourine.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Loop: {}
+  Clicks:
+    11_Clicks.wav:
+      Track_path: G-Bass Project - New Day Dawning\G-Bass Project - New Day Dawning_RAW\11_Clicks.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass: {}
+  Electric_Bass:
+    25_Bass1.wav:
+      Track_path: G-Bass Project - New Day Dawning\G-Bass Project - New Day Dawning_RAW\25_Bass1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    26_Bass2.wav:
+      Track_path: G-Bass Project - New Day Dawning\G-Bass Project - New Day Dawning_RAW\26_Bass2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    27_Bass3.wav:
+      Track_path: G-Bass Project - New Day Dawning\G-Bass Project - New Day Dawning_RAW\27_Bass3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    28_Bass4.wav:
+      Track_path: G-Bass Project - New Day Dawning\G-Bass Project - New Day Dawning_RAW\28_Bass4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Acoustic_Guitar: {}
+  Electric_Guitar:
+    29_ElecGtr1.wav:
+      Track_path: G-Bass Project - New Day Dawning\G-Bass Project - New Day Dawning_RAW\29_ElecGtr1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    30_ElecGtr2.wav:
+      Track_path: G-Bass Project - New Day Dawning\G-Bass Project - New Day Dawning_RAW\30_ElecGtr2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    31_ElecGtr3.wav:
+      Track_path: G-Bass Project - New Day Dawning\G-Bass Project - New Day Dawning_RAW\31_ElecGtr3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    32_ElecGtr4.wav:
+      Track_path: G-Bass Project - New Day Dawning\G-Bass Project - New Day Dawning_RAW\32_ElecGtr4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    33_ElecGtr5.wav:
+      Track_path: G-Bass Project - New Day Dawning\G-Bass Project - New Day Dawning_RAW\33_ElecGtr5.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Piano: {}
+  Electric_Piano:
+    34_ElecPiano1.wav:
+      Track_path: G-Bass Project - New Day Dawning\G-Bass Project - New Day Dawning_RAW\34_ElecPiano1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    35_ElecPiano2.wav:
+      Track_path: G-Bass Project - New Day Dawning\G-Bass Project - New Day Dawning_RAW\35_ElecPiano2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    36_ElecPiano2SFX1.wav:
+      Track_path: G-Bass Project - New Day Dawning\G-Bass Project - New Day Dawning_RAW\36_ElecPiano2SFX1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    37_ElecPiano2SFX2.wav:
+      Track_path: G-Bass Project - New Day Dawning\G-Bass Project - New Day Dawning_RAW\37_ElecPiano2SFX2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal: {}
+  Choir: {}
+  Backing_Vocal: {}
+  Unused: {}
+  Ambient_Microphone: {}

@@ -1,0 +1,223 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer: {}
+  SFX: {}
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    01_KickIn.wav:
+      Track_path: Phre The Eon - Everybody's Falling Apart\Phre The Eon - Everybody's
+        Falling Apart_RAW\01_KickIn.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    02_KickOut.wav:
+      Track_path: Phre The Eon - Everybody's Falling Apart\Phre The Eon - Everybody's
+        Falling Apart_RAW\02_KickOut.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_Snare:
+    03_SnareUp1.wav:
+      Track_path: Phre The Eon - Everybody's Falling Apart\Phre The Eon - Everybody's
+        Falling Apart_RAW\03_SnareUp1.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    04_SnareUp2.wav:
+      Track_path: Phre The Eon - Everybody's Falling Apart\Phre The Eon - Everybody's
+        Falling Apart_RAW\04_SnareUp2.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    05_SnareDown.wav:
+      Track_path: Phre The Eon - Everybody's Falling Apart\Phre The Eon - Everybody's
+        Falling Apart_RAW\05_SnareDown.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_HiHat:
+    06_HiHat.wav:
+      Track_path: Phre The Eon - Everybody's Falling Apart\Phre The Eon - Everybody's
+        Falling Apart_RAW\06_HiHat.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_Cymbals:
+    07_Ride.wav:
+      Track_path: Phre The Eon - Everybody's Falling Apart\Phre The Eon - Everybody's
+        Falling Apart_RAW\07_Ride.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    09_Crash1.wav:
+      Track_path: Phre The Eon - Everybody's Falling Apart\Phre The Eon - Everybody's
+        Falling Apart_RAW\09_Crash1.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    10_Crash2.wav:
+      Track_path: Phre The Eon - Everybody's Falling Apart\Phre The Eon - Everybody's
+        Falling Apart_RAW\10_Crash2.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_Overheads:
+    08_Overheads.wav:
+      Track_path: Phre The Eon - Everybody's Falling Apart\Phre The Eon - Everybody's
+        Falling Apart_RAW\08_Overheads.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Tom:
+    11_Tom1.wav:
+      Track_path: Phre The Eon - Everybody's Falling Apart\Phre The Eon - Everybody's
+        Falling Apart_RAW\11_Tom1.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    12_Tom2.wav:
+      Track_path: Phre The Eon - Everybody's Falling Apart\Phre The Eon - Everybody's
+        Falling Apart_RAW\12_Tom2.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    13_Tom3.wav:
+      Track_path: Phre The Eon - Everybody's Falling Apart\Phre The Eon - Everybody's
+        Falling Apart_RAW\13_Tom3.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_Room: {}
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop: {}
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass: {}
+  Electric_Bass:
+    14_BassDI.wav:
+      Track_path: Phre The Eon - Everybody's Falling Apart\Phre The Eon - Everybody's
+        Falling Apart_RAW\14_BassDI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    15_BassCab.wav:
+      Track_path: Phre The Eon - Everybody's Falling Apart\Phre The Eon - Everybody's
+        Falling Apart_RAW\15_BassCab.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Acoustic_Guitar:
+    16_AcGtrDI.wav:
+      Track_path: Phre The Eon - Everybody's Falling Apart\Phre The Eon - Everybody's
+        Falling Apart_RAW\16_AcGtrDI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    17_AcGtrMicHi.wav:
+      Track_path: Phre The Eon - Everybody's Falling Apart\Phre The Eon - Everybody's
+        Falling Apart_RAW\17_AcGtrMicHi.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    18_AcGtrMicLo.wav:
+      Track_path: Phre The Eon - Everybody's Falling Apart\Phre The Eon - Everybody's
+        Falling Apart_RAW\18_AcGtrMicLo.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Electric_Guitar:
+    19_ElecGtr1.wav:
+      Track_path: Phre The Eon - Everybody's Falling Apart\Phre The Eon - Everybody's
+        Falling Apart_RAW\19_ElecGtr1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    20_ElecGtr2.wav:
+      Track_path: Phre The Eon - Everybody's Falling Apart\Phre The Eon - Everybody's
+        Falling Apart_RAW\20_ElecGtr2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    21_ElecGtr3.wav:
+      Track_path: Phre The Eon - Everybody's Falling Apart\Phre The Eon - Everybody's
+        Falling Apart_RAW\21_ElecGtr3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    22_ElecGtr4.wav:
+      Track_path: Phre The Eon - Everybody's Falling Apart\Phre The Eon - Everybody's
+        Falling Apart_RAW\22_ElecGtr4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    23_ElecGtr5.wav:
+      Track_path: Phre The Eon - Everybody's Falling Apart\Phre The Eon - Everybody's
+        Falling Apart_RAW\23_ElecGtr5.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Piano: {}
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    24_LeadVox.wav:
+      Track_path: Phre The Eon - Everybody's Falling Apart\Phre The Eon - Everybody's
+        Falling Apart_RAW\24_LeadVox.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Choir: {}
+  Backing_Vocal:
+    25_LeadVoxHarm.wav:
+      Track_path: Phre The Eon - Everybody's Falling Apart\Phre The Eon - Everybody's
+        Falling Apart_RAW\25_LeadVoxHarm.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Unused: {}
+  Ambient_Microphone: {}

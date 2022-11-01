@@ -1,0 +1,118 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer: {}
+  SFX: {}
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    01_Kick.wav:
+      Track_path: Timo Carlier - The Road Ahead\Timo Carlier - The Road Ahead_RAW\01_Kick.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Snare: {}
+  Drum_HiHat: {}
+  Drum_Cymbals: {}
+  Drum_Overheads: {}
+  Drum_Tom: {}
+  Drum_Room: {}
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine:
+    03_Tambourine.wav:
+      Track_path: Timo Carlier - The Road Ahead\Timo Carlier - The Road Ahead_RAW\03_Tambourine.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Loop: {}
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo:
+    02_Bongo.wav:
+      Track_path: Timo Carlier - The Road Ahead\Timo Carlier - The Road Ahead_RAW\02_Bongo.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass: {}
+  Electric_Bass: {}
+  Acoustic_Guitar:
+    05_AcGtrPlusVox1.wav:
+      Track_path: Timo Carlier - The Road Ahead\Timo Carlier - The Road Ahead_RAW\05_AcGtrPlusVox1.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Lead_Vocal'
+      Comment: ''
+    07_AcGtrPlusVox2.wav:
+      Track_path: Timo Carlier - The Road Ahead\Timo Carlier - The Road Ahead_RAW\07_AcGtrPlusVox2.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Backing_Vocal'
+      Comment: ''
+  Electric_Guitar: {}
+  Piano: {}
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass:
+    04_Bass.wav:
+      Track_path: Timo Carlier - The Road Ahead\Timo Carlier - The Road Ahead_RAW\04_Bass.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    06_VoxPlusAcGtr1.wav:
+      Track_path: Timo Carlier - The Road Ahead\Timo Carlier - The Road Ahead_RAW\06_VoxPlusAcGtr1.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Acoustic_Guitar'
+      Comment: ''
+  Choir: {}
+  Backing_Vocal:
+    08_VoxPlusAcGtr2.wav:
+      Track_path: Timo Carlier - The Road Ahead\Timo Carlier - The Road Ahead_RAW\08_VoxPlusAcGtr2.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Acoustic_Guitar'
+      Comment: ''
+    09_BackingVox.wav:
+      Track_path: Timo Carlier - The Road Ahead\Timo Carlier - The Road Ahead_RAW\09_BackingVox.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Unused: {}
+  Ambient_Microphone: {}

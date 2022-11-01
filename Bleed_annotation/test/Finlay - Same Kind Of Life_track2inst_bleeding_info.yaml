@@ -1,0 +1,173 @@
+Track2inst:
+  Electric_Organ:
+    16_Organ.wav:
+      Track_path: Finlay - Same Kind Of Life\Finlay - Same Kind Of Life_RAW\16_Organ.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Synthesizer: {}
+  SFX: {}
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    01_Kick.wav:
+      Track_path: Finlay - Same Kind Of Life\Finlay - Same Kind Of Life_RAW\01_Kick.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    02_KickSample.wav:
+      Track_path: Finlay - Same Kind Of Life\Finlay - Same Kind Of Life_RAW\02_KickSample.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Snare:
+    03_SnareSample.wav:
+      Track_path: Finlay - Same Kind Of Life\Finlay - Same Kind Of Life_RAW\03_SnareSample.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_HiHat: {}
+  Drum_Cymbals:
+    07_Cymbal.wav:
+      Track_path: Finlay - Same Kind Of Life\Finlay - Same Kind Of Life_RAW\07_Cymbal.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Overheads: {}
+  Drum_Tom:
+    04_Tom1.wav:
+      Track_path: Finlay - Same Kind Of Life\Finlay - Same Kind Of Life_RAW\04_Tom1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    05_Tom2.wav:
+      Track_path: Finlay - Same Kind Of Life\Finlay - Same Kind Of Life_RAW\05_Tom2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    06_Tom3.wav:
+      Track_path: Finlay - Same Kind Of Life\Finlay - Same Kind Of Life_RAW\06_Tom3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Room: {}
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop: {}
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass: {}
+  Electric_Bass:
+    08_Bass.wav:
+      Track_path: Finlay - Same Kind Of Life\Finlay - Same Kind Of Life_RAW\08_Bass.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Acoustic_Guitar: {}
+  Electric_Guitar:
+    09_ElecGtr1.wav:
+      Track_path: Finlay - Same Kind Of Life\Finlay - Same Kind Of Life_RAW\09_ElecGtr1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    10_ElecGtr2.wav:
+      Track_path: Finlay - Same Kind Of Life\Finlay - Same Kind Of Life_RAW\10_ElecGtr2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    11_ElecGtr3.wav:
+      Track_path: Finlay - Same Kind Of Life\Finlay - Same Kind Of Life_RAW\11_ElecGtr3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Piano:
+    12_Piano1.wav:
+      Track_path: Finlay - Same Kind Of Life\Finlay - Same Kind Of Life_RAW\12_Piano1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    13_Piano2.wav:
+      Track_path: Finlay - Same Kind Of Life\Finlay - Same Kind Of Life_RAW\13_Piano2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    14_Piano3.wav:
+      Track_path: Finlay - Same Kind Of Life\Finlay - Same Kind Of Life_RAW\14_Piano3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    17_LeadVox.wav:
+      Track_path: Finlay - Same Kind Of Life\Finlay - Same Kind Of Life_RAW\17_LeadVox.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Choir:
+    15_Choir.wav:
+      Track_path: Finlay - Same Kind Of Life\Finlay - Same Kind Of Life_RAW\15_Choir.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Backing_Vocal:
+    18_BackingVox1.wav:
+      Track_path: Finlay - Same Kind Of Life\Finlay - Same Kind Of Life_RAW\18_BackingVox1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    19_BackingVox2.wav:
+      Track_path: Finlay - Same Kind Of Life\Finlay - Same Kind Of Life_RAW\19_BackingVox2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    20_BackingVox3.wav:
+      Track_path: Finlay - Same Kind Of Life\Finlay - Same Kind Of Life_RAW\20_BackingVox3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Unused: {}
+  Ambient_Microphone: {}

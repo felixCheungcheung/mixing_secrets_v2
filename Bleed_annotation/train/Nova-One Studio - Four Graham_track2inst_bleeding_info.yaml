@@ -1,0 +1,258 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer: {}
+  SFX:
+    07_ReverseSFX.wav:
+      Track_path: Nova-One Studio - Four Graham\Nova-One Studio - Four Graham_RAW\07_ReverseSFX.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    01_Kick.wav:
+      Track_path: Nova-One Studio - Four Graham\Nova-One Studio - Four Graham_RAW\01_Kick.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads'
+      Comment: ''
+  Drum_Snare:
+    02_Snare.wav:
+      Track_path: Nova-One Studio - Four Graham\Nova-One Studio - Four Graham_RAW\02_Snare.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads'
+      Comment: ''
+  Drum_HiHat: {}
+  Drum_Cymbals: {}
+  Drum_Overheads:
+    05_Overheads.wav:
+      Track_path: Nova-One Studio - Four Graham\Nova-One Studio - Four Graham_RAW\05_Overheads.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Tom:
+    03_Tom1.wav:
+      Track_path: Nova-One Studio - Four Graham\Nova-One Studio - Four Graham_RAW\03_Tom1.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads'
+      Comment: ''
+    04_Tom2.wav:
+      Track_path: Nova-One Studio - Four Graham\Nova-One Studio - Four Graham_RAW\04_Tom2.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads'
+      Comment: ''
+  Drum_Room:
+    06_DrumsRoom.wav:
+      Track_path: Nova-One Studio - Four Graham\Nova-One Studio - Four Graham_RAW\06_DrumsRoom.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop: {}
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass: {}
+  Electric_Bass:
+    08_BassDI.wav:
+      Track_path: Nova-One Studio - Four Graham\Nova-One Studio - Four Graham_RAW\08_BassDI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    09_BassPedal.wav:
+      Track_path: Nova-One Studio - Four Graham\Nova-One Studio - Four Graham_RAW\09_BassPedal.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Acoustic_Guitar:
+    25_AcousticGtr01.wav:
+      Track_path: Nova-One Studio - Four Graham\Nova-One Studio - Four Graham_RAW\25_AcousticGtr01.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    26_AcousticGtr02.wav:
+      Track_path: Nova-One Studio - Four Graham\Nova-One Studio - Four Graham_RAW\26_AcousticGtr02.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    27_AcousticGtr03.wav:
+      Track_path: Nova-One Studio - Four Graham\Nova-One Studio - Four Graham_RAW\27_AcousticGtr03.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Electric_Guitar:
+    10_ElecGtr01.wav:
+      Track_path: Nova-One Studio - Four Graham\Nova-One Studio - Four Graham_RAW\10_ElecGtr01.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    11_ElecGtr02.wav:
+      Track_path: Nova-One Studio - Four Graham\Nova-One Studio - Four Graham_RAW\11_ElecGtr02.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    12_ElecGtr03.wav:
+      Track_path: Nova-One Studio - Four Graham\Nova-One Studio - Four Graham_RAW\12_ElecGtr03.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    13_ElecGtr04.wav:
+      Track_path: Nova-One Studio - Four Graham\Nova-One Studio - Four Graham_RAW\13_ElecGtr04.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    14_ElecGtr05.wav:
+      Track_path: Nova-One Studio - Four Graham\Nova-One Studio - Four Graham_RAW\14_ElecGtr05.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    15_ElecGtr06.wav:
+      Track_path: Nova-One Studio - Four Graham\Nova-One Studio - Four Graham_RAW\15_ElecGtr06.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    16_ElecGtr07.wav:
+      Track_path: Nova-One Studio - Four Graham\Nova-One Studio - Four Graham_RAW\16_ElecGtr07.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    17_ElecGtr08.wav:
+      Track_path: Nova-One Studio - Four Graham\Nova-One Studio - Four Graham_RAW\17_ElecGtr08.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    18_ElecGtr09.wav:
+      Track_path: Nova-One Studio - Four Graham\Nova-One Studio - Four Graham_RAW\18_ElecGtr09.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    19_ElecGtr10.wav:
+      Track_path: Nova-One Studio - Four Graham\Nova-One Studio - Four Graham_RAW\19_ElecGtr10.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    20_ElecGtrDI01.wav:
+      Track_path: Nova-One Studio - Four Graham\Nova-One Studio - Four Graham_RAW\20_ElecGtrDI01.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    21_ElecGtrDI02.wav:
+      Track_path: Nova-One Studio - Four Graham\Nova-One Studio - Four Graham_RAW\21_ElecGtrDI02.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    22_ElecGtrDI03.wav:
+      Track_path: Nova-One Studio - Four Graham\Nova-One Studio - Four Graham_RAW\22_ElecGtrDI03.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    23_ElecGtrDI04.wav:
+      Track_path: Nova-One Studio - Four Graham\Nova-One Studio - Four Graham_RAW\23_ElecGtrDI04.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    24_ElecGtrDI05.wav:
+      Track_path: Nova-One Studio - Four Graham\Nova-One Studio - Four Graham_RAW\24_ElecGtrDI05.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Piano: {}
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    28_LeadVox.wav:
+      Track_path: Nova-One Studio - Four Graham\Nova-One Studio - Four Graham_RAW\28_LeadVox.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Choir: {}
+  Backing_Vocal:
+    29_BackingVox01.wav:
+      Track_path: Nova-One Studio - Four Graham\Nova-One Studio - Four Graham_RAW\29_BackingVox01.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    30_BackingVox02.wav:
+      Track_path: Nova-One Studio - Four Graham\Nova-One Studio - Four Graham_RAW\30_BackingVox02.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    31_BackingVox03.wav:
+      Track_path: Nova-One Studio - Four Graham\Nova-One Studio - Four Graham_RAW\31_BackingVox03.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    32_BackingVox04.wav:
+      Track_path: Nova-One Studio - Four Graham\Nova-One Studio - Four Graham_RAW\32_BackingVox04.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    33_BackingVox05.wav:
+      Track_path: Nova-One Studio - Four Graham\Nova-One Studio - Four Graham_RAW\33_BackingVox05.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    34_BackingVox06.wav:
+      Track_path: Nova-One Studio - Four Graham\Nova-One Studio - Four Graham_RAW\34_BackingVox06.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    35_BackingVox07.wav:
+      Track_path: Nova-One Studio - Four Graham\Nova-One Studio - Four Graham_RAW\35_BackingVox07.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    36_BackingVox08.wav:
+      Track_path: Nova-One Studio - Four Graham\Nova-One Studio - Four Graham_RAW\36_BackingVox08.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    37_BackingVox09.wav:
+      Track_path: Nova-One Studio - Four Graham\Nova-One Studio - Four Graham_RAW\37_BackingVox09.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Unused: {}
+  Ambient_Microphone: {}

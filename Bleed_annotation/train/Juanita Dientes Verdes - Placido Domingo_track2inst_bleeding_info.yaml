@@ -1,0 +1,139 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer: {}
+  SFX: {}
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    01_Kick.wav:
+      Track_path: Juanita Dientes Verdes - Placido Domingo\Juanita Dientes Verdes
+        - Placido Domingo_RAW\01_Kick.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_Snare:
+    02_Snare.wav:
+      Track_path: Juanita Dientes Verdes - Placido Domingo\Juanita Dientes Verdes
+        - Placido Domingo_RAW\02_Snare.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_HiHat: {}
+  Drum_Cymbals: {}
+  Drum_Overheads:
+    05_Overheads.wav:
+      Track_path: Juanita Dientes Verdes - Placido Domingo\Juanita Dientes Verdes
+        - Placido Domingo_RAW\05_Overheads.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Tom:
+    03_Tom1.wav:
+      Track_path: Juanita Dientes Verdes - Placido Domingo\Juanita Dientes Verdes
+        - Placido Domingo_RAW\03_Tom1.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    04_Tom2.wav:
+      Track_path: Juanita Dientes Verdes - Placido Domingo\Juanita Dientes Verdes
+        - Placido Domingo_RAW\04_Tom2.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_Room: {}
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop: {}
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass: {}
+  Electric_Bass:
+    06_Bass.wav:
+      Track_path: Juanita Dientes Verdes - Placido Domingo\Juanita Dientes Verdes
+        - Placido Domingo_RAW\06_Bass.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Acoustic_Guitar: {}
+  Electric_Guitar:
+    07_ElecGtr1.wav:
+      Track_path: Juanita Dientes Verdes - Placido Domingo\Juanita Dientes Verdes
+        - Placido Domingo_RAW\07_ElecGtr1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    08_ElecGtr2.wav:
+      Track_path: Juanita Dientes Verdes - Placido Domingo\Juanita Dientes Verdes
+        - Placido Domingo_RAW\08_ElecGtr2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Piano: {}
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    09_LeadVox.wav:
+      Track_path: Juanita Dientes Verdes - Placido Domingo\Juanita Dientes Verdes
+        - Placido Domingo_RAW\09_LeadVox.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Electric_Guitar, Drum_Overheads, Backing_Vocal'
+      Comment: ''
+  Choir: {}
+  Backing_Vocal:
+    10_BackingVox1.wav:
+      Track_path: Juanita Dientes Verdes - Placido Domingo\Juanita Dientes Verdes
+        - Placido Domingo_RAW\10_BackingVox1.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Electric_Guitar, Drum_Overheads, Lead_Vocal'
+      Comment: ''
+    11_BackingVox2.wav:
+      Track_path: Juanita Dientes Verdes - Placido Domingo\Juanita Dientes Verdes
+        - Placido Domingo_RAW\11_BackingVox2.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Electric_Guitar, Drum_Overheads, Lead_Vocal'
+      Comment: ''
+  Unused: {}
+  Ambient_Microphone: {}

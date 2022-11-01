@@ -1,0 +1,233 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer:
+    18_Synth01.wav:
+      Track_path: Mustafa Albazy - Tgheer\Mustafa Albazy - Tgheer_RAW\18_Synth01.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    19_Synth02.wav:
+      Track_path: Mustafa Albazy - Tgheer\Mustafa Albazy - Tgheer_RAW\19_Synth02.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    20_Synth03.wav:
+      Track_path: Mustafa Albazy - Tgheer\Mustafa Albazy - Tgheer_RAW\20_Synth03.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    21_Synth04.wav:
+      Track_path: Mustafa Albazy - Tgheer\Mustafa Albazy - Tgheer_RAW\21_Synth04.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    22_Synth05.wav:
+      Track_path: Mustafa Albazy - Tgheer\Mustafa Albazy - Tgheer_RAW\22_Synth05.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    23_Synth06.wav:
+      Track_path: Mustafa Albazy - Tgheer\Mustafa Albazy - Tgheer_RAW\23_Synth06.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    24_Synth07.wav:
+      Track_path: Mustafa Albazy - Tgheer\Mustafa Albazy - Tgheer_RAW\24_Synth07.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    25_Synth08.wav:
+      Track_path: Mustafa Albazy - Tgheer\Mustafa Albazy - Tgheer_RAW\25_Synth08.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    26_Synth09.wav:
+      Track_path: Mustafa Albazy - Tgheer\Mustafa Albazy - Tgheer_RAW\26_Synth09.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    27_Synth10.wav:
+      Track_path: Mustafa Albazy - Tgheer\Mustafa Albazy - Tgheer_RAW\27_Synth10.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    28_Synth11.wav:
+      Track_path: Mustafa Albazy - Tgheer\Mustafa Albazy - Tgheer_RAW\28_Synth11.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    29_Synth12.wav:
+      Track_path: Mustafa Albazy - Tgheer\Mustafa Albazy - Tgheer_RAW\29_Synth12.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  SFX:
+    12_SFX1.wav:
+      Track_path: Mustafa Albazy - Tgheer\Mustafa Albazy - Tgheer_RAW\12_SFX1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    13_SFX2.wav:
+      Track_path: Mustafa Albazy - Tgheer\Mustafa Albazy - Tgheer_RAW\13_SFX2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    14_SFX3.wav:
+      Track_path: Mustafa Albazy - Tgheer\Mustafa Albazy - Tgheer_RAW\14_SFX3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    15_SFX4.wav:
+      Track_path: Mustafa Albazy - Tgheer\Mustafa Albazy - Tgheer_RAW\15_SFX4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    30_SynthSFX1.wav:
+      Track_path: Mustafa Albazy - Tgheer\Mustafa Albazy - Tgheer_RAW\30_SynthSFX1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    31_SynthSFX2.wav:
+      Track_path: Mustafa Albazy - Tgheer\Mustafa Albazy - Tgheer_RAW\31_SynthSFX2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    32_SynthSFX3.wav:
+      Track_path: Mustafa Albazy - Tgheer\Mustafa Albazy - Tgheer_RAW\32_SynthSFX3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    01_Kick.wav:
+      Track_path: Mustafa Albazy - Tgheer\Mustafa Albazy - Tgheer_RAW\01_Kick.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Snare:
+    07_Snare1.wav:
+      Track_path: Mustafa Albazy - Tgheer\Mustafa Albazy - Tgheer_RAW\07_Snare1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    08_Snare2.wav:
+      Track_path: Mustafa Albazy - Tgheer\Mustafa Albazy - Tgheer_RAW\08_Snare2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    09_Snare3.wav:
+      Track_path: Mustafa Albazy - Tgheer\Mustafa Albazy - Tgheer_RAW\09_Snare3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_HiHat:
+    10_Hat.wav:
+      Track_path: Mustafa Albazy - Tgheer\Mustafa Albazy - Tgheer_RAW\10_Hat.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Cymbals: {}
+  Drum_Overheads: {}
+  Drum_Tom: {}
+  Drum_Room: {}
+  Shaker:
+    11_Shaker.wav:
+      Track_path: Mustafa Albazy - Tgheer\Mustafa Albazy - Tgheer_RAW\11_Shaker.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop: {}
+  Clicks: {}
+  Claps:
+    02_Clap1.wav:
+      Track_path: Mustafa Albazy - Tgheer\Mustafa Albazy - Tgheer_RAW\02_Clap1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    03_Clap2.wav:
+      Track_path: Mustafa Albazy - Tgheer\Mustafa Albazy - Tgheer_RAW\03_Clap2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion:
+    04_ElecDrum1.wav:
+      Track_path: Mustafa Albazy - Tgheer\Mustafa Albazy - Tgheer_RAW\04_ElecDrum1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    05_ElecDrum2.wav:
+      Track_path: Mustafa Albazy - Tgheer\Mustafa Albazy - Tgheer_RAW\05_ElecDrum2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    06_ElecDrum3.wav:
+      Track_path: Mustafa Albazy - Tgheer\Mustafa Albazy - Tgheer_RAW\06_ElecDrum3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Synth_Bass: {}
+  Electric_Bass:
+    16_Bass1.wav:
+      Track_path: Mustafa Albazy - Tgheer\Mustafa Albazy - Tgheer_RAW\16_Bass1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    17_Bass2.wav:
+      Track_path: Mustafa Albazy - Tgheer\Mustafa Albazy - Tgheer_RAW\17_Bass2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Acoustic_Guitar: {}
+  Electric_Guitar: {}
+  Piano: {}
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal: {}
+  Choir: {}
+  Backing_Vocal: {}
+  Unused: {}
+  Ambient_Microphone: {}

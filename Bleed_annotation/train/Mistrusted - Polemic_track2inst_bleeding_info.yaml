@@ -1,0 +1,178 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer:
+    13_Stylophone.wav:
+      Track_path: Mistrusted - Polemic\Mistrusted - Polemic_RAW\13_Stylophone.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  SFX: {}
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    01_Kick.wav:
+      Track_path: Mistrusted - Polemic\Mistrusted - Polemic_RAW\01_Kick.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_Snare:
+    02_Snare.wav:
+      Track_path: Mistrusted - Polemic\Mistrusted - Polemic_RAW\02_Snare.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_HiHat: {}
+  Drum_Cymbals: {}
+  Drum_Overheads:
+    05_OverheadsStereo.wav:
+      Track_path: Mistrusted - Polemic\Mistrusted - Polemic_RAW\05_OverheadsStereo.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    06_OverheadMono.wav:
+      Track_path: Mistrusted - Polemic\Mistrusted - Polemic_RAW\06_OverheadMono.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Tom:
+    03_Tom1.wav:
+      Track_path: Mistrusted - Polemic\Mistrusted - Polemic_RAW\03_Tom1.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    04_Tom2.wav:
+      Track_path: Mistrusted - Polemic\Mistrusted - Polemic_RAW\04_Tom2.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_Room: {}
+  Shaker:
+    07_Shaker.wav:
+      Track_path: Mistrusted - Polemic\Mistrusted - Polemic_RAW\07_Shaker.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop: {}
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass: {}
+  Electric_Bass:
+    08_BassAmp.wav:
+      Track_path: Mistrusted - Polemic\Mistrusted - Polemic_RAW\08_BassAmp.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Acoustic_Guitar: {}
+  Electric_Guitar:
+    09_ElecGtr1.wav:
+      Track_path: Mistrusted - Polemic\Mistrusted - Polemic_RAW\09_ElecGtr1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    10_ElecGtr2.wav:
+      Track_path: Mistrusted - Polemic\Mistrusted - Polemic_RAW\10_ElecGtr2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    11_ElecGtr3.wav:
+      Track_path: Mistrusted - Polemic\Mistrusted - Polemic_RAW\11_ElecGtr3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    12_ElecGtr4.wav:
+      Track_path: Mistrusted - Polemic\Mistrusted - Polemic_RAW\12_ElecGtr4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Piano: {}
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    14_LeadVox.wav:
+      Track_path: Mistrusted - Polemic\Mistrusted - Polemic_RAW\14_LeadVox.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Choir: {}
+  Backing_Vocal:
+    15_BackingVox1.wav:
+      Track_path: Mistrusted - Polemic\Mistrusted - Polemic_RAW\15_BackingVox1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    16_BackingVox2.wav:
+      Track_path: Mistrusted - Polemic\Mistrusted - Polemic_RAW\16_BackingVox2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    17_BackingVox2DT.wav:
+      Track_path: Mistrusted - Polemic\Mistrusted - Polemic_RAW\17_BackingVox2DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    18_BackingVox3.wav:
+      Track_path: Mistrusted - Polemic\Mistrusted - Polemic_RAW\18_BackingVox3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    19_BackingVox3DT1.wav:
+      Track_path: Mistrusted - Polemic\Mistrusted - Polemic_RAW\19_BackingVox3DT1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    20_BackingVox3DT2.wav:
+      Track_path: Mistrusted - Polemic\Mistrusted - Polemic_RAW\20_BackingVox3DT2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    21_BackingVox4.wav:
+      Track_path: Mistrusted - Polemic\Mistrusted - Polemic_RAW\21_BackingVox4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Unused: {}
+  Ambient_Microphone: {}

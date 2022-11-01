@@ -1,0 +1,313 @@
+Track2inst:
+  Electric_Organ:
+    36_Hammond.wav:
+      Track_path: Fytakyte - Bitter\Fytakyte - Bitter_RAW\36_Hammond.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Synthesizer: {}
+  SFX: {}
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    01_KickIn.wav:
+      Track_path: Fytakyte - Bitter\Fytakyte - Bitter_RAW\01_KickIn.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    02_KickOut.wav:
+      Track_path: Fytakyte - Bitter\Fytakyte - Bitter_RAW\02_KickOut.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    03_KickSub.wav:
+      Track_path: Fytakyte - Bitter\Fytakyte - Bitter_RAW\03_KickSub.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Snare:
+    04_SnareUp.wav:
+      Track_path: Fytakyte - Bitter\Fytakyte - Bitter_RAW\04_SnareUp.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Kick'
+      Comment: ''
+    05_SnareDown.wav:
+      Track_path: Fytakyte - Bitter\Fytakyte - Bitter_RAW\05_SnareDown.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Kick'
+      Comment: ''
+    06_SnareSample.wav:
+      Track_path: Fytakyte - Bitter\Fytakyte - Bitter_RAW\06_SnareSample.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_HiHat:
+    07_HiHat.wav:
+      Track_path: Fytakyte - Bitter\Fytakyte - Bitter_RAW\07_HiHat.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Cymbals:
+    20_RevCymbal.wav:
+      Track_path: Fytakyte - Bitter\Fytakyte - Bitter_RAW\20_RevCymbal.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Overheads:
+    12_OverheadsStereo.wav:
+      Track_path: Fytakyte - Bitter\Fytakyte - Bitter_RAW\12_OverheadsStereo.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    13_OverheadsMono.wav:
+      Track_path: Fytakyte - Bitter\Fytakyte - Bitter_RAW\13_OverheadsMono.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Tom:
+    08_Tom1.wav:
+      Track_path: Fytakyte - Bitter\Fytakyte - Bitter_RAW\08_Tom1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    09_Tom2.wav:
+      Track_path: Fytakyte - Bitter\Fytakyte - Bitter_RAW\09_Tom2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    10_Tom3.wav:
+      Track_path: Fytakyte - Bitter\Fytakyte - Bitter_RAW\10_Tom3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    11_Tom4.wav:
+      Track_path: Fytakyte - Bitter\Fytakyte - Bitter_RAW\11_Tom4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Room:
+    14_DrumsRoom.wav:
+      Track_path: Fytakyte - Bitter\Fytakyte - Bitter_RAW\14_DrumsRoom.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Shaker:
+    16_Shaker.wav:
+      Track_path: Fytakyte - Bitter\Fytakyte - Bitter_RAW\16_Shaker.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine:
+    15_Tambourine.wav:
+      Track_path: Fytakyte - Bitter\Fytakyte - Bitter_RAW\15_Tambourine.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Loop: {}
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass: {}
+  Electric_Bass:
+    17_BassDI.wav:
+      Track_path: Fytakyte - Bitter\Fytakyte - Bitter_RAW\17_BassDI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    18_BassDist.wav:
+      Track_path: Fytakyte - Bitter\Fytakyte - Bitter_RAW\18_BassDist.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    19_BassAmp.wav:
+      Track_path: Fytakyte - Bitter\Fytakyte - Bitter_RAW\19_BassAmp.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Acoustic_Guitar:
+    33_AcousticGtr.wav:
+      Track_path: Fytakyte - Bitter\Fytakyte - Bitter_RAW\33_AcousticGtr.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    34_AcousticGtrDT.wav:
+      Track_path: Fytakyte - Bitter\Fytakyte - Bitter_RAW\34_AcousticGtrDT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Electric_Guitar:
+    21_ElecGtr01Amp1.wav:
+      Track_path: Fytakyte - Bitter\Fytakyte - Bitter_RAW\21_ElecGtr01Amp1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    22_ElecGtr01Amp2.wav:
+      Track_path: Fytakyte - Bitter\Fytakyte - Bitter_RAW\22_ElecGtr01Amp2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    23_ElecGtr02.wav:
+      Track_path: Fytakyte - Bitter\Fytakyte - Bitter_RAW\23_ElecGtr02.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    24_ElecGtr03.wav:
+      Track_path: Fytakyte - Bitter\Fytakyte - Bitter_RAW\24_ElecGtr03.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    25_ElecGtr04.wav:
+      Track_path: Fytakyte - Bitter\Fytakyte - Bitter_RAW\25_ElecGtr04.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    26_ElecGtr05.wav:
+      Track_path: Fytakyte - Bitter\Fytakyte - Bitter_RAW\26_ElecGtr05.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    27_ElecGtr06.wav:
+      Track_path: Fytakyte - Bitter\Fytakyte - Bitter_RAW\27_ElecGtr06.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    28_ElecGtr07.wav:
+      Track_path: Fytakyte - Bitter\Fytakyte - Bitter_RAW\28_ElecGtr07.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    29_ElecGtr08.wav:
+      Track_path: Fytakyte - Bitter\Fytakyte - Bitter_RAW\29_ElecGtr08.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    30_ElecGtr09.wav:
+      Track_path: Fytakyte - Bitter\Fytakyte - Bitter_RAW\30_ElecGtr09.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    31_ElecGtr10Amp1.wav:
+      Track_path: Fytakyte - Bitter\Fytakyte - Bitter_RAW\31_ElecGtr10Amp1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    32_ElecGtr10Amp2.wav:
+      Track_path: Fytakyte - Bitter\Fytakyte - Bitter_RAW\32_ElecGtr10Amp2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Piano: {}
+  Electric_Piano:
+    35_Rhodes.wav:
+      Track_path: Fytakyte - Bitter\Fytakyte - Bitter_RAW\35_Rhodes.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    37_LeadVox.wav:
+      Track_path: Fytakyte - Bitter\Fytakyte - Bitter_RAW\37_LeadVox.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    38_LeadVoxDT1.wav:
+      Track_path: Fytakyte - Bitter\Fytakyte - Bitter_RAW\38_LeadVoxDT1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    39_LeadVoxDT2.wav:
+      Track_path: Fytakyte - Bitter\Fytakyte - Bitter_RAW\39_LeadVoxDT2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Choir: {}
+  Backing_Vocal:
+    40_BackingVox1.wav:
+      Track_path: Fytakyte - Bitter\Fytakyte - Bitter_RAW\40_BackingVox1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    41_BackingVox1DT.wav:
+      Track_path: Fytakyte - Bitter\Fytakyte - Bitter_RAW\41_BackingVox1DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    42_BackingVox2.wav:
+      Track_path: Fytakyte - Bitter\Fytakyte - Bitter_RAW\42_BackingVox2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    43_BackingVox2DT.wav:
+      Track_path: Fytakyte - Bitter\Fytakyte - Bitter_RAW\43_BackingVox2DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    44_BackingVox3.wav:
+      Track_path: Fytakyte - Bitter\Fytakyte - Bitter_RAW\44_BackingVox3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    45_BackingVox3DT.wav:
+      Track_path: Fytakyte - Bitter\Fytakyte - Bitter_RAW\45_BackingVox3DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    46_BackingVox4.wav:
+      Track_path: Fytakyte - Bitter\Fytakyte - Bitter_RAW\46_BackingVox4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    47_BackingVox4DT.wav:
+      Track_path: Fytakyte - Bitter\Fytakyte - Bitter_RAW\47_BackingVox4DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    48_BackingVox5.wav:
+      Track_path: Fytakyte - Bitter\Fytakyte - Bitter_RAW\48_BackingVox5.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Unused: {}
+  Ambient_Microphone: {}

@@ -205,7 +205,7 @@ def inst_spec_mix(track_path_list, stem_inst_name, threshold = -60):
         count = 0
         for path in track_path_list:
             # find true stereo and exclude them from panning
-            # print(path)
+            print(path)
             audio, rate = sf.read(path, always_2d=True)
 
             if audio.shape[1]==2:

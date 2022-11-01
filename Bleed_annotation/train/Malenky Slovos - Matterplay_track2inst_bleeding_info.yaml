@@ -1,0 +1,243 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer:
+    26_Synth01.wav:
+      Track_path: Malenky Slovos - Matterplay\Malenky Slovos - Matterplay_RAW\26_Synth01.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    27_Synth02.wav:
+      Track_path: Malenky Slovos - Matterplay\Malenky Slovos - Matterplay_RAW\27_Synth02.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    28_Synth03.wav:
+      Track_path: Malenky Slovos - Matterplay\Malenky Slovos - Matterplay_RAW\28_Synth03.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  SFX:
+    29_CatSFX.wav:
+      Track_path: Malenky Slovos - Matterplay\Malenky Slovos - Matterplay_RAW\29_CatSFX.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    01_Drumkit1_KickIn.wav:
+      Track_path: Malenky Slovos - Matterplay\Malenky Slovos - Matterplay_RAW\01_Drumkit1_KickIn.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    02_Drumkit1_KickOut.wav:
+      Track_path: Malenky Slovos - Matterplay\Malenky Slovos - Matterplay_RAW\02_Drumkit1_KickOut.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_Snare:
+    03_Drumkit1_SnareUp.wav:
+      Track_path: Malenky Slovos - Matterplay\Malenky Slovos - Matterplay_RAW\03_Drumkit1_SnareUp.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    04_Drumkit1_SnareDown.wav:
+      Track_path: Malenky Slovos - Matterplay\Malenky Slovos - Matterplay_RAW\04_Drumkit1_SnareDown.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    11_Drumkit2_SnareUp.wav:
+      Track_path: Malenky Slovos - Matterplay\Malenky Slovos - Matterplay_RAW\11_Drumkit2_SnareUp.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    12_Drumkit2_SnareDown.wav:
+      Track_path: Malenky Slovos - Matterplay\Malenky Slovos - Matterplay_RAW\12_Drumkit2_SnareDown.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_HiHat:
+    05_Drumkit1_HiHat.wav:
+      Track_path: Malenky Slovos - Matterplay\Malenky Slovos - Matterplay_RAW\05_Drumkit1_HiHat.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    13_Drumkit2_HiHat.wav:
+      Track_path: Malenky Slovos - Matterplay\Malenky Slovos - Matterplay_RAW\13_Drumkit2_HiHat.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Cymbals:
+    06_Drumkit1_Ride.wav:
+      Track_path: Malenky Slovos - Matterplay\Malenky Slovos - Matterplay_RAW\06_Drumkit1_Ride.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    19_ReverseCymbal.wav:
+      Track_path: Malenky Slovos - Matterplay\Malenky Slovos - Matterplay_RAW\19_ReverseCymbal.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Overheads:
+    10_Drumkit1_Overheads.wav:
+      Track_path: Malenky Slovos - Matterplay\Malenky Slovos - Matterplay_RAW\10_Drumkit1_Overheads.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    17_Drumkit2_Overheads.wav:
+      Track_path: Malenky Slovos - Matterplay\Malenky Slovos - Matterplay_RAW\17_Drumkit2_Overheads.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Tom:
+    07_Drumkit1_Tom1.wav:
+      Track_path: Malenky Slovos - Matterplay\Malenky Slovos - Matterplay_RAW\07_Drumkit1_Tom1.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    08_Drumkit1_Tom2.wav:
+      Track_path: Malenky Slovos - Matterplay\Malenky Slovos - Matterplay_RAW\08_Drumkit1_Tom2.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    09_Drumkit1_Tom3.wav:
+      Track_path: Malenky Slovos - Matterplay\Malenky Slovos - Matterplay_RAW\09_Drumkit1_Tom3.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    14_Drumkit2_Tom1.wav:
+      Track_path: Malenky Slovos - Matterplay\Malenky Slovos - Matterplay_RAW\14_Drumkit2_Tom1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    15_Drumkit2_Tom2.wav:
+      Track_path: Malenky Slovos - Matterplay\Malenky Slovos - Matterplay_RAW\15_Drumkit2_Tom2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    16_Drumkit2_Tom3.wav:
+      Track_path: Malenky Slovos - Matterplay\Malenky Slovos - Matterplay_RAW\16_Drumkit2_Tom3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Room:
+    18_Drumkit2_Room.wav:
+      Track_path: Malenky Slovos - Matterplay\Malenky Slovos - Matterplay_RAW\18_Drumkit2_Room.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop: {}
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass: {}
+  Electric_Bass:
+    20_Bass.wav:
+      Track_path: Malenky Slovos - Matterplay\Malenky Slovos - Matterplay_RAW\20_Bass.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Acoustic_Guitar: {}
+  Electric_Guitar:
+    21_ElecGtr01.wav:
+      Track_path: Malenky Slovos - Matterplay\Malenky Slovos - Matterplay_RAW\21_ElecGtr01.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    22_ElecGtr02.wav:
+      Track_path: Malenky Slovos - Matterplay\Malenky Slovos - Matterplay_RAW\22_ElecGtr02.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    23_ElecGtr03.wav:
+      Track_path: Malenky Slovos - Matterplay\Malenky Slovos - Matterplay_RAW\23_ElecGtr03.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    24_ElecGtr04.wav:
+      Track_path: Malenky Slovos - Matterplay\Malenky Slovos - Matterplay_RAW\24_ElecGtr04.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    25_ElecGtr05.wav:
+      Track_path: Malenky Slovos - Matterplay\Malenky Slovos - Matterplay_RAW\25_ElecGtr05.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Piano: {}
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    30_LeadVox01.wav:
+      Track_path: Malenky Slovos - Matterplay\Malenky Slovos - Matterplay_RAW\30_LeadVox01.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    31_LeadVox02.wav:
+      Track_path: Malenky Slovos - Matterplay\Malenky Slovos - Matterplay_RAW\31_LeadVox02.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Choir: {}
+  Backing_Vocal:
+    32_BackingVos01.wav:
+      Track_path: Malenky Slovos - Matterplay\Malenky Slovos - Matterplay_RAW\32_BackingVos01.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    33_BackingVox02.wav:
+      Track_path: Malenky Slovos - Matterplay\Malenky Slovos - Matterplay_RAW\33_BackingVox02.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    34_BackingVox03.wav:
+      Track_path: Malenky Slovos - Matterplay\Malenky Slovos - Matterplay_RAW\34_BackingVox03.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Unused: {}
+  Ambient_Microphone: {}

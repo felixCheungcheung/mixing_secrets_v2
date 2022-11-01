@@ -1,0 +1,288 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer: {}
+  SFX: {}
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    01_KickMic1.wav:
+      Track_path: Eat The Feeder - Today's The Day\Eat The Feeder - Today's The Day_RAW\01_KickMic1.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    02_KickMic2.wav:
+      Track_path: Eat The Feeder - Today's The Day\Eat The Feeder - Today's The Day_RAW\02_KickMic2.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_Snare:
+    03_SnareUpMic1.wav:
+      Track_path: Eat The Feeder - Today's The Day\Eat The Feeder - Today's The Day_RAW\03_SnareUpMic1.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    04_SnareUpMic2.wav:
+      Track_path: Eat The Feeder - Today's The Day\Eat The Feeder - Today's The Day_RAW\04_SnareUpMic2.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    05_SnareDown.wav:
+      Track_path: Eat The Feeder - Today's The Day\Eat The Feeder - Today's The Day_RAW\05_SnareDown.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    06_SnareSide.wav:
+      Track_path: Eat The Feeder - Today's The Day\Eat The Feeder - Today's The Day_RAW\06_SnareSide.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_HiHat:
+    09_HiHat.wav:
+      Track_path: Eat The Feeder - Today's The Day\Eat The Feeder - Today's The Day_RAW\09_HiHat.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_Cymbals:
+    10_Ride.wav:
+      Track_path: Eat The Feeder - Today's The Day\Eat The Feeder - Today's The Day_RAW\10_Ride.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_Overheads:
+    11_Overheads.wav:
+      Track_path: Eat The Feeder - Today's The Day\Eat The Feeder - Today's The Day_RAW\11_Overheads.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    12_DrumsSquash.wav:
+      Track_path: Eat The Feeder - Today's The Day\Eat The Feeder - Today's The Day_RAW\12_DrumsSquash.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Tom:
+    07_Tom1.wav:
+      Track_path: Eat The Feeder - Today's The Day\Eat The Feeder - Today's The Day_RAW\07_Tom1.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    08_Tom2.wav:
+      Track_path: Eat The Feeder - Today's The Day\Eat The Feeder - Today's The Day_RAW\08_Tom2.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_Room:
+    13_DrumsRoom.wav:
+      Track_path: Eat The Feeder - Today's The Day\Eat The Feeder - Today's The Day_RAW\13_DrumsRoom.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop: {}
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass: {}
+  Electric_Bass:
+    14_BassDI.wav:
+      Track_path: Eat The Feeder - Today's The Day\Eat The Feeder - Today's The Day_RAW\14_BassDI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    15_BassAmp1.wav:
+      Track_path: Eat The Feeder - Today's The Day\Eat The Feeder - Today's The Day_RAW\15_BassAmp1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    16_BassAmp2.wav:
+      Track_path: Eat The Feeder - Today's The Day\Eat The Feeder - Today's The Day_RAW\16_BassAmp2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    17_BassAmp3.wav:
+      Track_path: Eat The Feeder - Today's The Day\Eat The Feeder - Today's The Day_RAW\17_BassAmp3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Acoustic_Guitar: {}
+  Electric_Guitar:
+    23_ElecGtr01Amp1.wav:
+      Track_path: Eat The Feeder - Today's The Day\Eat The Feeder - Today's The Day_RAW\23_ElecGtr01Amp1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    24_ElecGtr01Amp2.wav:
+      Track_path: Eat The Feeder - Today's The Day\Eat The Feeder - Today's The Day_RAW\24_ElecGtr01Amp2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    25_ElecGtr01DI.wav:
+      Track_path: Eat The Feeder - Today's The Day\Eat The Feeder - Today's The Day_RAW\25_ElecGtr01DI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    26_ElecGtr02Amp1.wav:
+      Track_path: Eat The Feeder - Today's The Day\Eat The Feeder - Today's The Day_RAW\26_ElecGtr02Amp1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    27_ElecGtr02Amp2.wav:
+      Track_path: Eat The Feeder - Today's The Day\Eat The Feeder - Today's The Day_RAW\27_ElecGtr02Amp2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    28_ElecGtr02DI.wav:
+      Track_path: Eat The Feeder - Today's The Day\Eat The Feeder - Today's The Day_RAW\28_ElecGtr02DI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    29_ElecGtr03DI.wav:
+      Track_path: Eat The Feeder - Today's The Day\Eat The Feeder - Today's The Day_RAW\29_ElecGtr03DI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    30_ElecGtr04Amp.wav:
+      Track_path: Eat The Feeder - Today's The Day\Eat The Feeder - Today's The Day_RAW\30_ElecGtr04Amp.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    31_ElecGtr04DI.wav:
+      Track_path: Eat The Feeder - Today's The Day\Eat The Feeder - Today's The Day_RAW\31_ElecGtr04DI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    32_ElecGtr05Amp.wav:
+      Track_path: Eat The Feeder - Today's The Day\Eat The Feeder - Today's The Day_RAW\32_ElecGtr05Amp.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    33_ElecGtr05DI.wav:
+      Track_path: Eat The Feeder - Today's The Day\Eat The Feeder - Today's The Day_RAW\33_ElecGtr05DI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    34_ElecGtr06Amp1.wav:
+      Track_path: Eat The Feeder - Today's The Day\Eat The Feeder - Today's The Day_RAW\34_ElecGtr06Amp1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    35_ElecGtr06Amp2.wav:
+      Track_path: Eat The Feeder - Today's The Day\Eat The Feeder - Today's The Day_RAW\35_ElecGtr06Amp2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    36_ElecGtr06DI.wav:
+      Track_path: Eat The Feeder - Today's The Day\Eat The Feeder - Today's The Day_RAW\36_ElecGtr06DI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    37_ElecGtr07Amp.wav:
+      Track_path: Eat The Feeder - Today's The Day\Eat The Feeder - Today's The Day_RAW\37_ElecGtr07Amp.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    38_ElecGtr07DI.wav:
+      Track_path: Eat The Feeder - Today's The Day\Eat The Feeder - Today's The Day_RAW\38_ElecGtr07DI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    39_ElecGtr08DI.wav:
+      Track_path: Eat The Feeder - Today's The Day\Eat The Feeder - Today's The Day_RAW\39_ElecGtr08DI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    40_ElecGtr09Amp.wav:
+      Track_path: Eat The Feeder - Today's The Day\Eat The Feeder - Today's The Day_RAW\40_ElecGtr09Amp.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    41_ElecGtr09DI.wav:
+      Track_path: Eat The Feeder - Today's The Day\Eat The Feeder - Today's The Day_RAW\41_ElecGtr09DI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    42_ElecGtr10Amp.wav:
+      Track_path: Eat The Feeder - Today's The Day\Eat The Feeder - Today's The Day_RAW\42_ElecGtr10Amp.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    43_ElecGtr10DI.wav:
+      Track_path: Eat The Feeder - Today's The Day\Eat The Feeder - Today's The Day_RAW\43_ElecGtr10DI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Piano: {}
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    18_LeadVox.wav:
+      Track_path: Eat The Feeder - Today's The Day\Eat The Feeder - Today's The Day_RAW\18_LeadVox.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: 'LeadVox contain slight leakage of band (ElectricGTR, Drum_Overheads) but not much.'
+    19_LeadVoxDT.wav:
+      Track_path: Eat The Feeder - Today's The Day\Eat The Feeder - Today's The Day_RAW\19_LeadVoxDT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: 'LeadVox contain slight leakage of band (ElectricGTR, Drum_Overheads) but not much.'
+  Choir: {}
+  Backing_Vocal:
+    20_BackingVox1.wav:
+      Track_path: Eat The Feeder - Today's The Day\Eat The Feeder - Today's The Day_RAW\20_BackingVox1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    21_BackingVox2.wav:
+      Track_path: Eat The Feeder - Today's The Day\Eat The Feeder - Today's The Day_RAW\21_BackingVox2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    22_BackingVox3.wav:
+      Track_path: Eat The Feeder - Today's The Day\Eat The Feeder - Today's The Day_RAW\22_BackingVox3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Unused: {}
+  Ambient_Microphone: {}

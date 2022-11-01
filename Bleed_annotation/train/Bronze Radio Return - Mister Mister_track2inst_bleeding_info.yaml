@@ -1,0 +1,211 @@
+Track2inst:
+  Electric_Organ:
+    LESLIE TOP_M80-SH.wav:
+      Track_path: Bronze Radio Return - Mister Mister\Bronze Radio Return - Mister
+        Mister_RAW\LESLIE TOP_M80-SH.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: ''
+      Comment: ''
+    LESLIE BOTTOM_M82.wav:
+      Track_path: Bronze Radio Return - Mister Mister\Bronze Radio Return - Mister
+        Mister_RAW\LESLIE BOTTOM_M82.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Synthesizer: {}
+  SFX: {}
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    KICK_M82.wav:
+      Track_path: Bronze Radio Return - Mister Mister\Bronze Radio Return - Mister
+        Mister_RAW\KICK_M82.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Snare:
+    SNARE_M80-SH.wav:
+      Track_path: Bronze Radio Return - Mister Mister\Bronze Radio Return - Mister
+        Mister_RAW\SNARE_M80-SH.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_HiHat:
+    HI HAT_M60.wav:
+      Track_path: Bronze Radio Return - Mister Mister\Bronze Radio Return - Mister
+        Mister_RAW\HI HAT_M60.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Cymbals: {}
+  Drum_Overheads:
+    OVERHEAD L_M60 FET.wav:
+      Track_path: Bronze Radio Return - Mister Mister\Bronze Radio Return - Mister
+        Mister_RAW\OVERHEAD L_M60 FET.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: ''
+      Comment: ''
+    OVERHEAD R_M60 FET.wav:
+      Track_path: Bronze Radio Return - Mister Mister\Bronze Radio Return - Mister
+        Mister_RAW\OVERHEAD R_M60 FET.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Tom:
+    TOM 1_M81-SH.wav:
+      Track_path: Bronze Radio Return - Mister Mister\Bronze Radio Return - Mister
+        Mister_RAW\TOM 1_M81-SH.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: ''
+      Comment: ''
+    TOM 2_M81-SH.wav:
+      Track_path: Bronze Radio Return - Mister Mister\Bronze Radio Return - Mister
+        Mister_RAW\TOM 2_M81-SH.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: ''
+      Comment: ''
+    TOM 3_M81-SH.wav:
+      Track_path: Bronze Radio Return - Mister Mister\Bronze Radio Return - Mister
+        Mister_RAW\TOM 3_M81-SH.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Room: {}
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop: {}
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion:
+    SAMPLER_DI.wav:
+      Track_path: Bronze Radio Return - Mister Mister\Bronze Radio Return - Mister
+        Mister_RAW\SAMPLER_DI.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Synth_Bass: {}
+  Electric_Bass:
+    BASS_DI.wav:
+      Track_path: Bronze Radio Return - Mister Mister\Bronze Radio Return - Mister
+        Mister_RAW\BASS_DI.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Acoustic_Guitar:
+    BANJO_DI.wav:
+      Track_path: Bronze Radio Return - Mister Mister\Bronze Radio Return - Mister
+        Mister_RAW\BANJO_DI.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Electric_Guitar:
+    E GUITAR 1 _M81.wav:
+      Track_path: Bronze Radio Return - Mister Mister\Bronze Radio Return - Mister
+        Mister_RAW\E GUITAR 1 _M81.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: ''
+      Comment: ''
+    E GUITAR 2_M81.wav:
+      Track_path: Bronze Radio Return - Mister Mister\Bronze Radio Return - Mister
+        Mister_RAW\E GUITAR 2_M81.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Piano: {}
+  Electric_Piano:
+    NORD88 L_DI.wav:
+      Track_path: Bronze Radio Return - Mister Mister\Bronze Radio Return - Mister
+        Mister_RAW\NORD88 L_DI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    NORD88 R_DI.wav:
+      Track_path: Bronze Radio Return - Mister Mister\Bronze Radio Return - Mister
+        Mister_RAW\NORD88 R_DI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    VOX LEAD_M80.wav:
+      Track_path: Bronze Radio Return - Mister Mister\Bronze Radio Return - Mister
+        Mister_RAW\VOX LEAD_M80.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Choir: {}
+  Backing_Vocal:
+    VOX 2_M80.wav:
+      Track_path: Bronze Radio Return - Mister Mister\Bronze Radio Return - Mister
+        Mister_RAW\VOX 2_M80.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: ''
+      Comment: ''
+    VOX 3_M80.wav:
+      Track_path: Bronze Radio Return - Mister Mister\Bronze Radio Return - Mister
+        Mister_RAW\VOX 3_M80.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: ''
+      Comment: ''
+    VOX 4_M80.wav:
+      Track_path: Bronze Radio Return - Mister Mister\Bronze Radio Return - Mister
+        Mister_RAW\VOX 4_M80.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Unused:
+    NORD ELECTRO R_DI.wav:
+      Track_path: Bronze Radio Return - Mister Mister\Bronze Radio Return - Mister
+        Mister_RAW\NORD ELECTRO R_DI.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: ''
+      Comment: ''
+    NORD ELECTRO L_DI.wav:
+      Track_path: Bronze Radio Return - Mister Mister\Bronze Radio Return - Mister
+        Mister_RAW\NORD ELECTRO L_DI.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Ambient_Microphone: {}

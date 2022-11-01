@@ -1,0 +1,288 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer:
+    32_Synth01.wav:
+      Track_path: Motor Tapes - Shore\Motor Tapes - Shore_RAW\32_Synth01.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    33_Synth02.wav:
+      Track_path: Motor Tapes - Shore\Motor Tapes - Shore_RAW\33_Synth02.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    34_Synth03.wav:
+      Track_path: Motor Tapes - Shore\Motor Tapes - Shore_RAW\34_Synth03.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  SFX: {}
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    01_Kick.wav:
+      Track_path: Motor Tapes - Shore\Motor Tapes - Shore_RAW\01_Kick.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_Snare:
+    02_SnareUp.wav:
+      Track_path: Motor Tapes - Shore\Motor Tapes - Shore_RAW\02_SnareUp.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    03_SnareDown.wav:
+      Track_path: Motor Tapes - Shore\Motor Tapes - Shore_RAW\03_SnareDown.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    13_SnareRimOD.wav:
+      Track_path: Motor Tapes - Shore\Motor Tapes - Shore_RAW\13_SnareRimOD.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    14_SnareRimOD_Overheads.wav:
+      Track_path: Motor Tapes - Shore\Motor Tapes - Shore_RAW\14_SnareRimOD_Overheads.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    15_SnareRimOD_Room.wav:
+      Track_path: Motor Tapes - Shore\Motor Tapes - Shore_RAW\15_SnareRimOD_Room.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_HiHat:
+    04_HiHat.wav:
+      Track_path: Motor Tapes - Shore\Motor Tapes - Shore_RAW\04_HiHat.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    11_HiHatOD.wav:
+      Track_path: Motor Tapes - Shore\Motor Tapes - Shore_RAW\11_HiHatOD.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    12_HiHatOD_Overheads.wav:
+      Track_path: Motor Tapes - Shore\Motor Tapes - Shore_RAW\12_HiHatOD_Overheads.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Cymbals:
+    09_CymbalsOD_Overheads.wav:
+      Track_path: Motor Tapes - Shore\Motor Tapes - Shore_RAW\09_CymbalsOD_Overheads.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    10_CymbalsOD_Room.wav:
+      Track_path: Motor Tapes - Shore\Motor Tapes - Shore_RAW\10_CymbalsOD_Room.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Overheads:
+    06_Overheads.wav:
+      Track_path: Motor Tapes - Shore\Motor Tapes - Shore_RAW\06_Overheads.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Tom:
+    05_Tom.wav:
+      Track_path: Motor Tapes - Shore\Motor Tapes - Shore_RAW\05_Tom.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_Room:
+    07_Room.wav:
+      Track_path: Motor Tapes - Shore\Motor Tapes - Shore_RAW\07_Room.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine:
+    08_TambourineSample.wav:
+      Track_path: Motor Tapes - Shore\Motor Tapes - Shore_RAW\08_TambourineSample.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Loop: {}
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass: {}
+  Electric_Bass:
+    16_BassAmp.wav:
+      Track_path: Motor Tapes - Shore\Motor Tapes - Shore_RAW\16_BassAmp.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    17_BassDI.wav:
+      Track_path: Motor Tapes - Shore\Motor Tapes - Shore_RAW\17_BassDI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Acoustic_Guitar: {}
+  Electric_Guitar:
+    18_ElecGtr01.wav:
+      Track_path: Motor Tapes - Shore\Motor Tapes - Shore_RAW\18_ElecGtr01.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    19_ElecGtr02.wav:
+      Track_path: Motor Tapes - Shore\Motor Tapes - Shore_RAW\19_ElecGtr02.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    20_ElecGtr03.wav:
+      Track_path: Motor Tapes - Shore\Motor Tapes - Shore_RAW\20_ElecGtr03.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    21_ElecGtr04.wav:
+      Track_path: Motor Tapes - Shore\Motor Tapes - Shore_RAW\21_ElecGtr04.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    22_ElecGtr05.wav:
+      Track_path: Motor Tapes - Shore\Motor Tapes - Shore_RAW\22_ElecGtr05.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    23_ElecGtr06.wav:
+      Track_path: Motor Tapes - Shore\Motor Tapes - Shore_RAW\23_ElecGtr06.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    24_ElecGtr07.wav:
+      Track_path: Motor Tapes - Shore\Motor Tapes - Shore_RAW\24_ElecGtr07.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    25_ElecGtr08.wav:
+      Track_path: Motor Tapes - Shore\Motor Tapes - Shore_RAW\25_ElecGtr08.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    26_ElecGtr09.wav:
+      Track_path: Motor Tapes - Shore\Motor Tapes - Shore_RAW\26_ElecGtr09.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    27_ElecGtr10.wav:
+      Track_path: Motor Tapes - Shore\Motor Tapes - Shore_RAW\27_ElecGtr10.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    28_ElecGtr11.wav:
+      Track_path: Motor Tapes - Shore\Motor Tapes - Shore_RAW\28_ElecGtr11.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    29_ElecGtr12.wav:
+      Track_path: Motor Tapes - Shore\Motor Tapes - Shore_RAW\29_ElecGtr12.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    30_ElecGtr13.wav:
+      Track_path: Motor Tapes - Shore\Motor Tapes - Shore_RAW\30_ElecGtr13.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    31_ElecGtr14.wav:
+      Track_path: Motor Tapes - Shore\Motor Tapes - Shore_RAW\31_ElecGtr14.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Piano:
+    35_Piano.wav:
+      Track_path: Motor Tapes - Shore\Motor Tapes - Shore_RAW\35_Piano.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    36_LeadVox.wav:
+      Track_path: Motor Tapes - Shore\Motor Tapes - Shore_RAW\36_LeadVox.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    37_LeadVoxDT.wav:
+      Track_path: Motor Tapes - Shore\Motor Tapes - Shore_RAW\37_LeadVoxDT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Choir: {}
+  Backing_Vocal:
+    38_BackingVox01.wav:
+      Track_path: Motor Tapes - Shore\Motor Tapes - Shore_RAW\38_BackingVox01.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    39_BackingVox02.wav:
+      Track_path: Motor Tapes - Shore\Motor Tapes - Shore_RAW\39_BackingVox02.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    40_BackingVox03.wav:
+      Track_path: Motor Tapes - Shore\Motor Tapes - Shore_RAW\40_BackingVox03.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    41_BackingVox04.wav:
+      Track_path: Motor Tapes - Shore\Motor Tapes - Shore_RAW\41_BackingVox04.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    42_BackingVox05.wav:
+      Track_path: Motor Tapes - Shore\Motor Tapes - Shore_RAW\42_BackingVox05.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    43_BackingVox06.wav:
+      Track_path: Motor Tapes - Shore\Motor Tapes - Shore_RAW\43_BackingVox06.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Unused: {}
+  Ambient_Microphone: {}

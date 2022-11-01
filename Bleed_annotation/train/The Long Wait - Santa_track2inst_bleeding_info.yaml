@@ -1,0 +1,243 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer: {}
+  SFX: {}
+  Marimba: {}
+  Bell:
+    04_Sleighbells.wav:
+      Track_path: The Long Wait - Santa\The Long Wait - Santa_RAW\04_Sleighbells.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    01_Kick.wav:
+      Track_path: The Long Wait - Santa\The Long Wait - Santa_RAW\01_Kick.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads'
+      Comment: ''
+  Drum_Snare:
+    02_Snare.wav:
+      Track_path: The Long Wait - Santa\The Long Wait - Santa_RAW\02_Snare.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads, Acoustic_Guitar'
+      Comment: ''
+  Drum_HiHat: {}
+  Drum_Cymbals: {}
+  Drum_Overheads:
+    03_Overheads.wav:
+      Track_path: The Long Wait - Santa\The Long Wait - Santa_RAW\03_Overheads.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Acoustic_Guitar'
+      Comment: ''
+  Drum_Tom: {}
+  Drum_Room: {}
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop: {}
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass: {}
+  Electric_Bass:
+    05_Bass.wav:
+      Track_path: The Long Wait - Santa\The Long Wait - Santa_RAW\05_Bass.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Acoustic_Guitar:
+    07_AcousticGtr1.wav:
+      Track_path: The Long Wait - Santa\The Long Wait - Santa_RAW\07_AcousticGtr1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    08_AcousticGtr2Amp.wav:
+      Track_path: The Long Wait - Santa\The Long Wait - Santa_RAW\08_AcousticGtr2Amp.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    09_Mandolin.wav:
+      Track_path: The Long Wait - Santa\The Long Wait - Santa_RAW\09_Mandolin.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Electric_Guitar:
+    06_ElecGtr.wav:
+      Track_path: The Long Wait - Santa\The Long Wait - Santa_RAW\06_ElecGtr.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Piano: {}
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    10_LeadVox1.wav:
+      Track_path: The Long Wait - Santa\The Long Wait - Santa_RAW\10_LeadVox1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    11_LeadVox2.wav:
+      Track_path: The Long Wait - Santa\The Long Wait - Santa_RAW\11_LeadVox2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Choir: {}
+  Backing_Vocal:
+    12_BackingVox01.wav:
+      Track_path: The Long Wait - Santa\The Long Wait - Santa_RAW\12_BackingVox01.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    13_BackingVox01DT.wav:
+      Track_path: The Long Wait - Santa\The Long Wait - Santa_RAW\13_BackingVox01DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    14_BackingVox02.wav:
+      Track_path: The Long Wait - Santa\The Long Wait - Santa_RAW\14_BackingVox02.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    15_BackingVox02DT1.wav:
+      Track_path: The Long Wait - Santa\The Long Wait - Santa_RAW\15_BackingVox02DT1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    16_BackingVox02DT2.wav:
+      Track_path: The Long Wait - Santa\The Long Wait - Santa_RAW\16_BackingVox02DT2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    17_BackingVox03.wav:
+      Track_path: The Long Wait - Santa\The Long Wait - Santa_RAW\17_BackingVox03.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    18_BackingVox03DT.wav:
+      Track_path: The Long Wait - Santa\The Long Wait - Santa_RAW\18_BackingVox03DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    19_BackingVox04.wav:
+      Track_path: The Long Wait - Santa\The Long Wait - Santa_RAW\19_BackingVox04.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    20_BackingVox04DT.wav:
+      Track_path: The Long Wait - Santa\The Long Wait - Santa_RAW\20_BackingVox04DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    21_BackingVox05.wav:
+      Track_path: The Long Wait - Santa\The Long Wait - Santa_RAW\21_BackingVox05.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    22_BackingVox05DT1.wav:
+      Track_path: The Long Wait - Santa\The Long Wait - Santa_RAW\22_BackingVox05DT1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    23_BackingVox05DT2.wav:
+      Track_path: The Long Wait - Santa\The Long Wait - Santa_RAW\23_BackingVox05DT2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    24_BackingVox05DT3.wav:
+      Track_path: The Long Wait - Santa\The Long Wait - Santa_RAW\24_BackingVox05DT3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    25_BackingVox06.wav:
+      Track_path: The Long Wait - Santa\The Long Wait - Santa_RAW\25_BackingVox06.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    26_BackingVox06DT.wav:
+      Track_path: The Long Wait - Santa\The Long Wait - Santa_RAW\26_BackingVox06DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    27_BackingVox07.wav:
+      Track_path: The Long Wait - Santa\The Long Wait - Santa_RAW\27_BackingVox07.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    28_BackingVox08.wav:
+      Track_path: The Long Wait - Santa\The Long Wait - Santa_RAW\28_BackingVox08.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    29_BackingVox09.wav:
+      Track_path: The Long Wait - Santa\The Long Wait - Santa_RAW\29_BackingVox09.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    30_BackingVox10.wav:
+      Track_path: The Long Wait - Santa\The Long Wait - Santa_RAW\30_BackingVox10.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    31_BackingVox11.wav:
+      Track_path: The Long Wait - Santa\The Long Wait - Santa_RAW\31_BackingVox11.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    32_BackingVox11DT.wav:
+      Track_path: The Long Wait - Santa\The Long Wait - Santa_RAW\32_BackingVox11DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    33_BackingVox12.wav:
+      Track_path: The Long Wait - Santa\The Long Wait - Santa_RAW\33_BackingVox12.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    34_BackingVox12DT.wav:
+      Track_path: The Long Wait - Santa\The Long Wait - Santa_RAW\34_BackingVox12DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Unused: {}
+  Ambient_Microphone: {}

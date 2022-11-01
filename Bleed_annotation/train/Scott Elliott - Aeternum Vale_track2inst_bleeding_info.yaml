@@ -1,0 +1,318 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer: {}
+  SFX:
+    23_SFX01.wav:
+      Track_path: Scott Elliott - Aeternum Vale\Scott Elliott - Aeternum Vale_RAW\23_SFX01.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    24_SFX02.wav:
+      Track_path: Scott Elliott - Aeternum Vale\Scott Elliott - Aeternum Vale_RAW\24_SFX02.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    25_SFX03.wav:
+      Track_path: Scott Elliott - Aeternum Vale\Scott Elliott - Aeternum Vale_RAW\25_SFX03.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    26_SFX04.wav:
+      Track_path: Scott Elliott - Aeternum Vale\Scott Elliott - Aeternum Vale_RAW\26_SFX04.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Marimba: {}
+  Bell:
+    21_TubularBells.wav:
+      Track_path: Scott Elliott - Aeternum Vale\Scott Elliott - Aeternum Vale_RAW\21_TubularBells.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    01_Kick01.wav:
+      Track_path: Scott Elliott - Aeternum Vale\Scott Elliott - Aeternum Vale_RAW\01_Kick01.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    02_Kick02.wav:
+      Track_path: Scott Elliott - Aeternum Vale\Scott Elliott - Aeternum Vale_RAW\02_Kick02.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    03_Kick03.wav:
+      Track_path: Scott Elliott - Aeternum Vale\Scott Elliott - Aeternum Vale_RAW\03_Kick03.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    04_Kick04.wav:
+      Track_path: Scott Elliott - Aeternum Vale\Scott Elliott - Aeternum Vale_RAW\04_Kick04.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Snare:
+    05_Snare01.wav:
+      Track_path: Scott Elliott - Aeternum Vale\Scott Elliott - Aeternum Vale_RAW\05_Snare01.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    06_Snare02.wav:
+      Track_path: Scott Elliott - Aeternum Vale\Scott Elliott - Aeternum Vale_RAW\06_Snare02.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    07_Snare03.wav:
+      Track_path: Scott Elliott - Aeternum Vale\Scott Elliott - Aeternum Vale_RAW\07_Snare03.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    08_Snare04.wav:
+      Track_path: Scott Elliott - Aeternum Vale\Scott Elliott - Aeternum Vale_RAW\08_Snare04.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_HiHat:
+    09_HiHat.wav:
+      Track_path: Scott Elliott - Aeternum Vale\Scott Elliott - Aeternum Vale_RAW\09_HiHat.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Cymbals:
+    10_Ride.wav:
+      Track_path: Scott Elliott - Aeternum Vale\Scott Elliott - Aeternum Vale_RAW\10_Ride.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    15_Cymbal01.wav:
+      Track_path: Scott Elliott - Aeternum Vale\Scott Elliott - Aeternum Vale_RAW\15_Cymbal01.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    16_Cymbal02.wav:
+      Track_path: Scott Elliott - Aeternum Vale\Scott Elliott - Aeternum Vale_RAW\16_Cymbal02.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    17_Cymbal03.wav:
+      Track_path: Scott Elliott - Aeternum Vale\Scott Elliott - Aeternum Vale_RAW\17_Cymbal03.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    18_Cymbal04.wav:
+      Track_path: Scott Elliott - Aeternum Vale\Scott Elliott - Aeternum Vale_RAW\18_Cymbal04.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Overheads: {}
+  Drum_Tom:
+    11_Tom1.wav:
+      Track_path: Scott Elliott - Aeternum Vale\Scott Elliott - Aeternum Vale_RAW\11_Tom1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    12_Tom2.wav:
+      Track_path: Scott Elliott - Aeternum Vale\Scott Elliott - Aeternum Vale_RAW\12_Tom2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    13_Tom3.wav:
+      Track_path: Scott Elliott - Aeternum Vale\Scott Elliott - Aeternum Vale_RAW\13_Tom3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    14_Tom4.wav:
+      Track_path: Scott Elliott - Aeternum Vale\Scott Elliott - Aeternum Vale_RAW\14_Tom4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Room: {}
+  Shaker: {}
+  Taiko: {}
+  Timpani:
+    20_Timpani.wav:
+      Track_path: Scott Elliott - Aeternum Vale\Scott Elliott - Aeternum Vale_RAW\20_Timpani.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop: {}
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion:
+    19_Percussion.wav:
+      Track_path: Scott Elliott - Aeternum Vale\Scott Elliott - Aeternum Vale_RAW\19_Percussion.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Synth_Bass: {}
+  Electric_Bass:
+    27_BassDI.wav:
+      Track_path: Scott Elliott - Aeternum Vale\Scott Elliott - Aeternum Vale_RAW\27_BassDI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Acoustic_Guitar: {}
+  Electric_Guitar:
+    28_ElecGtr01.wav:
+      Track_path: Scott Elliott - Aeternum Vale\Scott Elliott - Aeternum Vale_RAW\28_ElecGtr01.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    29_ElecGtr01DI.wav:
+      Track_path: Scott Elliott - Aeternum Vale\Scott Elliott - Aeternum Vale_RAW\29_ElecGtr01DI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    30_ElecGtr02.wav:
+      Track_path: Scott Elliott - Aeternum Vale\Scott Elliott - Aeternum Vale_RAW\30_ElecGtr02.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    31_ElecGtr02DI.wav:
+      Track_path: Scott Elliott - Aeternum Vale\Scott Elliott - Aeternum Vale_RAW\31_ElecGtr02DI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    32_ElecGtr03.wav:
+      Track_path: Scott Elliott - Aeternum Vale\Scott Elliott - Aeternum Vale_RAW\32_ElecGtr03.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    33_ElecGtr03DI.wav:
+      Track_path: Scott Elliott - Aeternum Vale\Scott Elliott - Aeternum Vale_RAW\33_ElecGtr03DI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    34_ElecGtr03DT.wav:
+      Track_path: Scott Elliott - Aeternum Vale\Scott Elliott - Aeternum Vale_RAW\34_ElecGtr03DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    35_ElecGtr03DTDI.wav:
+      Track_path: Scott Elliott - Aeternum Vale\Scott Elliott - Aeternum Vale_RAW\35_ElecGtr03DTDI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    36_ElecGtr04.wav:
+      Track_path: Scott Elliott - Aeternum Vale\Scott Elliott - Aeternum Vale_RAW\36_ElecGtr04.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    37_ElecGtr04DI.wav:
+      Track_path: Scott Elliott - Aeternum Vale\Scott Elliott - Aeternum Vale_RAW\37_ElecGtr04DI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    38_ElecGtr04DT.wav:
+      Track_path: Scott Elliott - Aeternum Vale\Scott Elliott - Aeternum Vale_RAW\38_ElecGtr04DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    39_ElecGtr04DTDI.wav:
+      Track_path: Scott Elliott - Aeternum Vale\Scott Elliott - Aeternum Vale_RAW\39_ElecGtr04DTDI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Piano:
+    22_Piano.wav:
+      Track_path: Scott Elliott - Aeternum Vale\Scott Elliott - Aeternum Vale_RAW\22_Piano.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn:
+    45_FrenchHorns.wav:
+      Track_path: Scott Elliott - Aeternum Vale\Scott Elliott - Aeternum Vale_RAW\45_FrenchHorns.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Trombone:
+    44_Trombones.wav:
+      Track_path: Scott Elliott - Aeternum Vale\Scott Elliott - Aeternum Vale_RAW\44_Trombones.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Tuba: {}
+  String_Section:
+    40_Strings.wav:
+      Track_path: Scott Elliott - Aeternum Vale\Scott Elliott - Aeternum Vale_RAW\40_Strings.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Fiddle: {}
+  Double_Bass: {}
+  Violin:
+    41_Violins.wav:
+      Track_path: Scott Elliott - Aeternum Vale\Scott Elliott - Aeternum Vale_RAW\41_Violins.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Viola:
+    42_Violas.wav:
+      Track_path: Scott Elliott - Aeternum Vale\Scott Elliott - Aeternum Vale_RAW\42_Violas.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Cello:
+    43_Cellos.wav:
+      Track_path: Scott Elliott - Aeternum Vale\Scott Elliott - Aeternum Vale_RAW\43_Cellos.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal: {}
+  Choir:
+    46_Choir.wav:
+      Track_path: Scott Elliott - Aeternum Vale\Scott Elliott - Aeternum Vale_RAW\46_Choir.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Backing_Vocal:
+    47_Soprano.wav:
+      Track_path: Scott Elliott - Aeternum Vale\Scott Elliott - Aeternum Vale_RAW\47_Soprano.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    48_Alto.wav:
+      Track_path: Scott Elliott - Aeternum Vale\Scott Elliott - Aeternum Vale_RAW\48_Alto.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    49_Bass.wav:
+      Track_path: Scott Elliott - Aeternum Vale\Scott Elliott - Aeternum Vale_RAW\49_Bass.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Unused: {}
+  Ambient_Microphone: {}

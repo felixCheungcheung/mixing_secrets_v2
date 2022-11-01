@@ -1,0 +1,188 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer: {}
+  SFX: {}
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    01_Kick.wav:
+      Track_path: Johnny Lokke - Promises & Lies\Johnny Lokke - Promises & Lies_RAW\01_Kick.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Snare:
+    02_Snare.wav:
+      Track_path: Johnny Lokke - Promises & Lies\Johnny Lokke - Promises & Lies_RAW\02_Snare.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_HiHat:
+    03_HiHat.wav:
+      Track_path: Johnny Lokke - Promises & Lies\Johnny Lokke - Promises & Lies_RAW\03_HiHat.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Cymbals:
+    07_Ride.wav:
+      Track_path: Johnny Lokke - Promises & Lies\Johnny Lokke - Promises & Lies_RAW\07_Ride.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    08_Cymbal.wav:
+      Track_path: Johnny Lokke - Promises & Lies\Johnny Lokke - Promises & Lies_RAW\08_Cymbal.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Overheads: {}
+  Drum_Tom:
+    09_Tom1.wav:
+      Track_path: Johnny Lokke - Promises & Lies\Johnny Lokke - Promises & Lies_RAW\09_Tom1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    10_Tom2.wav:
+      Track_path: Johnny Lokke - Promises & Lies\Johnny Lokke - Promises & Lies_RAW\10_Tom2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    11_Tom3.wav:
+      Track_path: Johnny Lokke - Promises & Lies\Johnny Lokke - Promises & Lies_RAW\11_Tom3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Room:
+    04_DrumsRoom1.wav:
+      Track_path: Johnny Lokke - Promises & Lies\Johnny Lokke - Promises & Lies_RAW\04_DrumsRoom1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    05_DrumsRoom2.wav:
+      Track_path: Johnny Lokke - Promises & Lies\Johnny Lokke - Promises & Lies_RAW\05_DrumsRoom2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    06_DrumsRoom3.wav:
+      Track_path: Johnny Lokke - Promises & Lies\Johnny Lokke - Promises & Lies_RAW\06_DrumsRoom3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop: {}
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass: {}
+  Electric_Bass:
+    12_Bass.wav:
+      Track_path: Johnny Lokke - Promises & Lies\Johnny Lokke - Promises & Lies_RAW\12_Bass.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Acoustic_Guitar: {}
+  Electric_Guitar:
+    13_ElecGtr1.wav:
+      Track_path: Johnny Lokke - Promises & Lies\Johnny Lokke - Promises & Lies_RAW\13_ElecGtr1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    14_ElecGtr2.wav:
+      Track_path: Johnny Lokke - Promises & Lies\Johnny Lokke - Promises & Lies_RAW\14_ElecGtr2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    15_ElecGtr3.wav:
+      Track_path: Johnny Lokke - Promises & Lies\Johnny Lokke - Promises & Lies_RAW\15_ElecGtr3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    16_ElecGtr4.wav:
+      Track_path: Johnny Lokke - Promises & Lies\Johnny Lokke - Promises & Lies_RAW\16_ElecGtr4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    17_ElecGtr5.wav:
+      Track_path: Johnny Lokke - Promises & Lies\Johnny Lokke - Promises & Lies_RAW\17_ElecGtr5.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Piano: {}
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    18_LeadVox.wav:
+      Track_path: Johnny Lokke - Promises & Lies\Johnny Lokke - Promises & Lies_RAW\18_LeadVox.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Choir: {}
+  Backing_Vocal:
+    19_BackingVox1.wav:
+      Track_path: Johnny Lokke - Promises & Lies\Johnny Lokke - Promises & Lies_RAW\19_BackingVox1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    20_BackingVox2.wav:
+      Track_path: Johnny Lokke - Promises & Lies\Johnny Lokke - Promises & Lies_RAW\20_BackingVox2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    21_BackingVox3.wav:
+      Track_path: Johnny Lokke - Promises & Lies\Johnny Lokke - Promises & Lies_RAW\21_BackingVox3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    22_BackingVox4.wav:
+      Track_path: Johnny Lokke - Promises & Lies\Johnny Lokke - Promises & Lies_RAW\22_BackingVox4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    23_BackingVox5.wav:
+      Track_path: Johnny Lokke - Promises & Lies\Johnny Lokke - Promises & Lies_RAW\23_BackingVox5.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Unused: {}
+  Ambient_Microphone: {}

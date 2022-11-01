@@ -1,0 +1,193 @@
+Track2inst:
+  Electric_Organ:
+    Keys-Amp-M81.wav:
+      Track_path: Hurray For The Riff Raff - Living In The City\Hurray For The Riff
+        Raff - Living In The City_RAW\Keys-Amp-M81.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads'
+      Comment: ''
+    Keys-Hammond-Passive DI.wav:
+      Track_path: Hurray For The Riff Raff - Living In The City\Hurray For The Riff
+        Raff - Living In The City_RAW\Keys-Hammond-Passive DI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Synthesizer: {}
+  SFX: {}
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    Drums-Kick In-M82.wav:
+      Track_path: Hurray For The Riff Raff - Living In The City\Hurray For The Riff
+        Raff - Living In The City_RAW\Drums-Kick In-M82.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads, Electric_Guitar'
+      Comment: ''
+    Drums-Kick Out-Proto 47.wav:
+      Track_path: Hurray For The Riff Raff - Living In The City\Hurray For The Riff
+        Raff - Living In The City_RAW\Drums-Kick Out-Proto 47.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads, Electric_Guitar'
+      Comment: ''
+  Drum_Snare:
+    Drums-Snare Bottom-M80.wav:
+      Track_path: Hurray For The Riff Raff - Living In The City\Hurray For The Riff
+        Raff - Living In The City_RAW\Drums-Snare Bottom-M80.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads, Electric_Guitar'
+      Comment: ''
+    Drums-Snare Top-M81.wav:
+      Track_path: Hurray For The Riff Raff - Living In The City\Hurray For The Riff
+        Raff - Living In The City_RAW\Drums-Snare Top-M81.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads, Electric_Guitar'
+      Comment: ''
+  Drum_HiHat:
+    Drums-Hat-ELA M 260.wav:
+      Track_path: Hurray For The Riff Raff - Living In The City\Hurray For The Riff
+        Raff - Living In The City_RAW\Drums-Hat-ELA M 260.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads, Electric_Guitar'
+      Comment: ''
+  Drum_Cymbals: {}
+  Drum_Overheads:
+    Drums-Overheads-CU29.wav:
+      Track_path: Hurray For The Riff Raff - Living In The City\Hurray For The Riff
+        Raff - Living In The City_RAW\Drums-Overheads-CU29.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Electric_Guitar'
+      Comment: ''
+  Drum_Tom:
+    Drums-Floor Tom-M81.wav:
+      Track_path: Hurray For The Riff Raff - Living In The City\Hurray For The Riff
+        Raff - Living In The City_RAW\Drums-Floor Tom-M81.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads, Electric_Guitar'
+      Comment: ''
+    Drums-Rack Tom-M80.wav:
+      Track_path: Hurray For The Riff Raff - Living In The City\Hurray For The Riff
+        Raff - Living In The City_RAW\Drums-Rack Tom-M80.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads, Electric_Guitar'
+      Comment: ''
+  Drum_Room:
+    Drums-Room-M81.wav:
+      Track_path: Hurray For The Riff Raff - Living In The City\Hurray For The Riff
+        Raff - Living In The City_RAW\Drums-Room-M81.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Electric_Guitar'
+      Comment: ''
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop: {}
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass: {}
+  Electric_Bass:
+    Bass-Active DI.wav:
+      Track_path: Hurray For The Riff Raff - Living In The City\Hurray For The Riff
+        Raff - Living In The City_RAW\Bass-Active DI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Bass-Amp-M82.wav:
+      Track_path: Hurray For The Riff Raff - Living In The City\Hurray For The Riff
+        Raff - Living In The City_RAW\Bass-Amp-M82.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Acoustic_Guitar: {}
+  Electric_Guitar:
+    ELE Guitar1-Con-AR51.wav:
+      Track_path: Hurray For The Riff Raff - Living In The City\Hurray For The Riff
+        Raff - Living In The City_RAW\ELE Guitar1-Con-AR51.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads'
+      Comment: ''
+    ElE Guitar1-Dyn-M81.wav:
+      Track_path: Hurray For The Riff Raff - Living In The City\Hurray For The Riff
+        Raff - Living In The City_RAW\ElE Guitar1-Dyn-M81.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads'
+      Comment: ''
+    ELE Guitar2-Con-M60.wav:
+      Track_path: Hurray For The Riff Raff - Living In The City\Hurray For The Riff
+        Raff - Living In The City_RAW\ELE Guitar2-Con-M60.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads'
+      Comment: ''
+    ELE Guitar2-Dyn-M82.wav:
+      Track_path: Hurray For The Riff Raff - Living In The City\Hurray For The Riff
+        Raff - Living In The City_RAW\ELE Guitar2-Dyn-M82.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads'
+      Comment: ''
+  Piano: {}
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    Vocals-Lead-M81.wav:
+      Track_path: Hurray For The Riff Raff - Living In The City\Hurray For The Riff
+        Raff - Living In The City_RAW\Vocals-Lead-M81.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads, Electric_Guitar'
+      Comment: ''
+  Choir: {}
+  Backing_Vocal:
+    Vocals-Bass-M81.wav:
+      Track_path: Hurray For The Riff Raff - Living In The City\Hurray For The Riff
+        Raff - Living In The City_RAW\Vocals-Bass-M81.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads, Electric_Guitar, Lead_Vocal'
+      Comment: ''
+    Vocals-GTR-M81.wav:
+      Track_path: Hurray For The Riff Raff - Living In The City\Hurray For The Riff
+        Raff - Living In The City_RAW\Vocals-GTR-M81.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads, Electric_Guitar, Lead_Vocal'
+      Comment: ''
+  Unused: {}
+  Ambient_Microphone: {}

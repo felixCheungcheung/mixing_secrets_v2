@@ -1,0 +1,350 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer: {}
+  SFX:
+    14_SFX1.wav:
+      Track_path: Perpetual Escape - Stop And Rise\Perpetual Escape - Stop And Rise_RAW\14_SFX1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    15_SFX2.wav:
+      Track_path: Perpetual Escape - Stop And Rise\Perpetual Escape - Stop And Rise_RAW\15_SFX2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    01_KickIn.wav:
+      Track_path: Perpetual Escape - Stop And Rise\Perpetual Escape - Stop And Rise_RAW\01_KickIn.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    02_KickSample.wav:
+      Track_path: Perpetual Escape - Stop And Rise\Perpetual Escape - Stop And Rise_RAW\02_KickSample.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Snare:
+    03_Snare1.wav:
+      Track_path: Perpetual Escape - Stop And Rise\Perpetual Escape - Stop And Rise_RAW\03_Snare1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    04_Snare2.wav:
+      Track_path: Perpetual Escape - Stop And Rise\Perpetual Escape - Stop And Rise_RAW\04_Snare2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    05_Snare3.wav:
+      Track_path: Perpetual Escape - Stop And Rise\Perpetual Escape - Stop And Rise_RAW\05_Snare3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    06_Snare4.wav:
+      Track_path: Perpetual Escape - Stop And Rise\Perpetual Escape - Stop And Rise_RAW\06_Snare4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_HiHat:
+    07_HiHat.wav:
+      Track_path: Perpetual Escape - Stop And Rise\Perpetual Escape - Stop And Rise_RAW\07_HiHat.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Cymbals: {}
+  Drum_Overheads:
+    11_Overheads.wav:
+      Track_path: Perpetual Escape - Stop And Rise\Perpetual Escape - Stop And Rise_RAW\11_Overheads.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Tom:
+    08_Tom1.wav:
+      Track_path: Perpetual Escape - Stop And Rise\Perpetual Escape - Stop And Rise_RAW\08_Tom1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    09_Tom2.wav:
+      Track_path: Perpetual Escape - Stop And Rise\Perpetual Escape - Stop And Rise_RAW\09_Tom2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    10_Tom3.wav:
+      Track_path: Perpetual Escape - Stop And Rise\Perpetual Escape - Stop And Rise_RAW\10_Tom3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Room:
+    12_Room1.wav:
+      Track_path: Perpetual Escape - Stop And Rise\Perpetual Escape - Stop And Rise_RAW\12_Room1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    13_Room2.wav:
+      Track_path: Perpetual Escape - Stop And Rise\Perpetual Escape - Stop And Rise_RAW\13_Room2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop: {}
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass: {}
+  Electric_Bass:
+    16_Bass Amp.wav:
+      Track_path: Perpetual Escape - Stop And Rise\Perpetual Escape - Stop And Rise_RAW\16_Bass
+        Amp.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    17_Bass DI.wav:
+      Track_path: Perpetual Escape - Stop And Rise\Perpetual Escape - Stop And Rise_RAW\17_Bass
+        DI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Acoustic_Guitar:
+    20_SlideGtr.wav:
+      Track_path: Perpetual Escape - Stop And Rise\Perpetual Escape - Stop And Rise_RAW\20_SlideGtr.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    18_AcousticGtr1.wav:
+      Track_path: Perpetual Escape - Stop And Rise\Perpetual Escape - Stop And Rise_RAW\18_AcousticGtr1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    19_AcousticGtr2.wav:
+      Track_path: Perpetual Escape - Stop And Rise\Perpetual Escape - Stop And Rise_RAW\19_AcousticGtr2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Electric_Guitar:
+    21_ElecGtr01DI.wav:
+      Track_path: Perpetual Escape - Stop And Rise\Perpetual Escape - Stop And Rise_RAW\21_ElecGtr01DI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    22_ElecGtr01DIDT.wav:
+      Track_path: Perpetual Escape - Stop And Rise\Perpetual Escape - Stop And Rise_RAW\22_ElecGtr01DIDT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    23_ElecGtr02DI.wav:
+      Track_path: Perpetual Escape - Stop And Rise\Perpetual Escape - Stop And Rise_RAW\23_ElecGtr02DI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    24_ElecGtr02DIDT.wav:
+      Track_path: Perpetual Escape - Stop And Rise\Perpetual Escape - Stop And Rise_RAW\24_ElecGtr02DIDT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    25_ElecGtr03DI.wav:
+      Track_path: Perpetual Escape - Stop And Rise\Perpetual Escape - Stop And Rise_RAW\25_ElecGtr03DI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    26_ElecGtr03DIDT.wav:
+      Track_path: Perpetual Escape - Stop And Rise\Perpetual Escape - Stop And Rise_RAW\26_ElecGtr03DIDT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    27_ElecGtr04DI.wav:
+      Track_path: Perpetual Escape - Stop And Rise\Perpetual Escape - Stop And Rise_RAW\27_ElecGtr04DI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    28_ElecGtr05DI.wav:
+      Track_path: Perpetual Escape - Stop And Rise\Perpetual Escape - Stop And Rise_RAW\28_ElecGtr05DI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    29_ElecGtr05DIDT.wav:
+      Track_path: Perpetual Escape - Stop And Rise\Perpetual Escape - Stop And Rise_RAW\29_ElecGtr05DIDT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    30_ElecGtr06DI.wav:
+      Track_path: Perpetual Escape - Stop And Rise\Perpetual Escape - Stop And Rise_RAW\30_ElecGtr06DI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    31_ElecGtr06DIDT.wav:
+      Track_path: Perpetual Escape - Stop And Rise\Perpetual Escape - Stop And Rise_RAW\31_ElecGtr06DIDT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    32_ElecGtr07DI.wav:
+      Track_path: Perpetual Escape - Stop And Rise\Perpetual Escape - Stop And Rise_RAW\32_ElecGtr07DI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    33_ElecGtr07DIDT.wav:
+      Track_path: Perpetual Escape - Stop And Rise\Perpetual Escape - Stop And Rise_RAW\33_ElecGtr07DIDT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    34_ElecGtr08DI.wav:
+      Track_path: Perpetual Escape - Stop And Rise\Perpetual Escape - Stop And Rise_RAW\34_ElecGtr08DI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    35_ElecGtr08DIDT.wav:
+      Track_path: Perpetual Escape - Stop And Rise\Perpetual Escape - Stop And Rise_RAW\35_ElecGtr08DIDT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    36_ElecGtr09DI.wav:
+      Track_path: Perpetual Escape - Stop And Rise\Perpetual Escape - Stop And Rise_RAW\36_ElecGtr09DI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    37_ElecGtr09DIDT.wav:
+      Track_path: Perpetual Escape - Stop And Rise\Perpetual Escape - Stop And Rise_RAW\37_ElecGtr09DIDT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    38_ElecGtr10.wav:
+      Track_path: Perpetual Escape - Stop And Rise\Perpetual Escape - Stop And Rise_RAW\38_ElecGtr10.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    39_ElecGtr11.wav:
+      Track_path: Perpetual Escape - Stop And Rise\Perpetual Escape - Stop And Rise_RAW\39_ElecGtr11.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    40_ElecGtr12DI.wav:
+      Track_path: Perpetual Escape - Stop And Rise\Perpetual Escape - Stop And Rise_RAW\40_ElecGtr12DI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    41_ElecGtr13DI.wav:
+      Track_path: Perpetual Escape - Stop And Rise\Perpetual Escape - Stop And Rise_RAW\41_ElecGtr13DI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Piano: {}
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    42_LeadVox1.wav:
+      Track_path: Perpetual Escape - Stop And Rise\Perpetual Escape - Stop And Rise_RAW\42_LeadVox1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    43_LeadVox1DT1.wav:
+      Track_path: Perpetual Escape - Stop And Rise\Perpetual Escape - Stop And Rise_RAW\43_LeadVox1DT1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    44_LeadVox1DT2.wav:
+      Track_path: Perpetual Escape - Stop And Rise\Perpetual Escape - Stop And Rise_RAW\44_LeadVox1DT2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    45_LeadVox2.wav:
+      Track_path: Perpetual Escape - Stop And Rise\Perpetual Escape - Stop And Rise_RAW\45_LeadVox2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    46_LeadVox3.wav:
+      Track_path: Perpetual Escape - Stop And Rise\Perpetual Escape - Stop And Rise_RAW\46_LeadVox3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Choir: {}
+  Backing_Vocal:
+    47_BackingVox1.wav:
+      Track_path: Perpetual Escape - Stop And Rise\Perpetual Escape - Stop And Rise_RAW\47_BackingVox1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    48_BackingVox1DT.wav:
+      Track_path: Perpetual Escape - Stop And Rise\Perpetual Escape - Stop And Rise_RAW\48_BackingVox1DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    49_BackingVox2.wav:
+      Track_path: Perpetual Escape - Stop And Rise\Perpetual Escape - Stop And Rise_RAW\49_BackingVox2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    50_BackingVox2DT.wav:
+      Track_path: Perpetual Escape - Stop And Rise\Perpetual Escape - Stop And Rise_RAW\50_BackingVox2DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    51_BackingVox3.wav:
+      Track_path: Perpetual Escape - Stop And Rise\Perpetual Escape - Stop And Rise_RAW\51_BackingVox3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    52_BackingVox3DT.wav:
+      Track_path: Perpetual Escape - Stop And Rise\Perpetual Escape - Stop And Rise_RAW\52_BackingVox3DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    53_BackingVox4.wav:
+      Track_path: Perpetual Escape - Stop And Rise\Perpetual Escape - Stop And Rise_RAW\53_BackingVox4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    54_BackingVox5.wav:
+      Track_path: Perpetual Escape - Stop And Rise\Perpetual Escape - Stop And Rise_RAW\54_BackingVox5.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    55_BackingVox6.wav:
+      Track_path: Perpetual Escape - Stop And Rise\Perpetual Escape - Stop And Rise_RAW\55_BackingVox6.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Unused: {}
+  Ambient_Microphone: {}

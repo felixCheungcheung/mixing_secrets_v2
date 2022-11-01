@@ -1,0 +1,193 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer:
+    09_Synth1.wav:
+      Track_path: Little Chicago's Finest - My Own\Little Chicago's Finest - My Own_RAW\09_Synth1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    10_Synth2.wav:
+      Track_path: Little Chicago's Finest - My Own\Little Chicago's Finest - My Own_RAW\10_Synth2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  SFX: {}
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    01_Kick.wav:
+      Track_path: Little Chicago's Finest - My Own\Little Chicago's Finest - My Own_RAW\01_Kick.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Snare: {}
+  Drum_HiHat:
+    03_HiHat.wav:
+      Track_path: Little Chicago's Finest - My Own\Little Chicago's Finest - My Own_RAW\03_HiHat.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Cymbals:
+    04_RevCymbal.wav:
+      Track_path: Little Chicago's Finest - My Own\Little Chicago's Finest - My Own_RAW\04_RevCymbal.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    05_Cymbal.wav:
+      Track_path: Little Chicago's Finest - My Own\Little Chicago's Finest - My Own_RAW\05_Cymbal.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Overheads: {}
+  Drum_Tom: {}
+  Drum_Room: {}
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop: {}
+  Clicks: {}
+  Claps:
+    02_Clap.wav:
+      Track_path: Little Chicago's Finest - My Own\Little Chicago's Finest - My Own_RAW\02_Clap.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass: {}
+  Electric_Bass:
+    06_Bass.wav:
+      Track_path: Little Chicago's Finest - My Own\Little Chicago's Finest - My Own_RAW\06_Bass.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Acoustic_Guitar: {}
+  Electric_Guitar: {}
+  Piano:
+    07_Piano1.wav:
+      Track_path: Little Chicago's Finest - My Own\Little Chicago's Finest - My Own_RAW\07_Piano1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    08_Piano2.wav:
+      Track_path: Little Chicago's Finest - My Own\Little Chicago's Finest - My Own_RAW\08_Piano2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    11_LeadVoxVs1.wav:
+      Track_path: Little Chicago's Finest - My Own\Little Chicago's Finest - My Own_RAW\11_LeadVoxVs1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    13_LeadVoxVs2.wav:
+      Track_path: Little Chicago's Finest - My Own\Little Chicago's Finest - My Own_RAW\13_LeadVoxVs2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    14_LeadVoxVs2DT.wav:
+      Track_path: Little Chicago's Finest - My Own\Little Chicago's Finest - My Own_RAW\14_LeadVoxVs2DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    15_LeadVoxVs3.wav:
+      Track_path: Little Chicago's Finest - My Own\Little Chicago's Finest - My Own_RAW\15_LeadVoxVs3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    16_LeadVoxVs3DT.wav:
+      Track_path: Little Chicago's Finest - My Own\Little Chicago's Finest - My Own_RAW\16_LeadVoxVs3DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    17_LeadVoxVs4.wav:
+      Track_path: Little Chicago's Finest - My Own\Little Chicago's Finest - My Own_RAW\17_LeadVoxVs4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    18_LeadVoxVs4DT.wav:
+      Track_path: Little Chicago's Finest - My Own\Little Chicago's Finest - My Own_RAW\18_LeadVoxVs4DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    19_LeadVoxCh1a.wav:
+      Track_path: Little Chicago's Finest - My Own\Little Chicago's Finest - My Own_RAW\19_LeadVoxCh1a.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    20_LeadVoxCh1b.wav:
+      Track_path: Little Chicago's Finest - My Own\Little Chicago's Finest - My Own_RAW\20_LeadVoxCh1b.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    21_LeadVoxCh2a.wav:
+      Track_path: Little Chicago's Finest - My Own\Little Chicago's Finest - My Own_RAW\21_LeadVoxCh2a.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    22_LeadVoxCh2b.wav:
+      Track_path: Little Chicago's Finest - My Own\Little Chicago's Finest - My Own_RAW\22_LeadVoxCh2b.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    23_LeadVoxCh3.wav:
+      Track_path: Little Chicago's Finest - My Own\Little Chicago's Finest - My Own_RAW\23_LeadVoxCh3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Choir: {}
+  Backing_Vocal: {}
+  Unused:
+    12_LeadVoxVs1DT.wav:
+      Track_path: Little Chicago's Finest - My Own\Little Chicago's Finest - My Own_RAW\12_LeadVoxVs1DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    24_LeadVoxCh4.wav:
+      Track_path: Little Chicago's Finest - My Own\Little Chicago's Finest - My Own_RAW\24_LeadVoxCh4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Ambient_Microphone: {}

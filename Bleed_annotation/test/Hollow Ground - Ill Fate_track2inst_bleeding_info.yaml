@@ -1,0 +1,178 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer: {}
+  SFX: {}
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    01_Kick.wav:
+      Track_path: Hollow Ground - Ill Fate\Hollow Ground - Ill Fate_RAW\01_Kick.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Snare:
+    02_SnareUp.wav:
+      Track_path: Hollow Ground - Ill Fate\Hollow Ground - Ill Fate_RAW\02_SnareUp.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    03_SnareDown.wav:
+      Track_path: Hollow Ground - Ill Fate\Hollow Ground - Ill Fate_RAW\03_SnareDown.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_HiHat:
+    04_HiHat.wav:
+      Track_path: Hollow Ground - Ill Fate\Hollow Ground - Ill Fate_RAW\04_HiHat.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_Cymbals:
+    05_ChinaCymbal.wav:
+      Track_path: Hollow Ground - Ill Fate\Hollow Ground - Ill Fate_RAW\05_ChinaCymbal.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_Overheads:
+    06_Overheads.wav:
+      Track_path: Hollow Ground - Ill Fate\Hollow Ground - Ill Fate_RAW\06_Overheads.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Tom:
+    08_Tom1.wav:
+      Track_path: Hollow Ground - Ill Fate\Hollow Ground - Ill Fate_RAW\08_Tom1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    09_Tom2.wav:
+      Track_path: Hollow Ground - Ill Fate\Hollow Ground - Ill Fate_RAW\09_Tom2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Room:
+    07_DrumsRoom.wav:
+      Track_path: Hollow Ground - Ill Fate\Hollow Ground - Ill Fate_RAW\07_DrumsRoom.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop: {}
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass: {}
+  Electric_Bass:
+    10_BassDI.wav:
+      Track_path: Hollow Ground - Ill Fate\Hollow Ground - Ill Fate_RAW\10_BassDI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    11_BassAmp.wav:
+      Track_path: Hollow Ground - Ill Fate\Hollow Ground - Ill Fate_RAW\11_BassAmp.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Acoustic_Guitar: {}
+  Electric_Guitar:
+    12_ElecGtr1a_Amp1.wav:
+      Track_path: Hollow Ground - Ill Fate\Hollow Ground - Ill Fate_RAW\12_ElecGtr1a_Amp1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    13_ElecGtr1b_Amp2.wav:
+      Track_path: Hollow Ground - Ill Fate\Hollow Ground - Ill Fate_RAW\13_ElecGtr1b_Amp2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    14_ElecGtr1c_DI.wav:
+      Track_path: Hollow Ground - Ill Fate\Hollow Ground - Ill Fate_RAW\14_ElecGtr1c_DI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    15_ElecGtr2a_Amp1.wav:
+      Track_path: Hollow Ground - Ill Fate\Hollow Ground - Ill Fate_RAW\15_ElecGtr2a_Amp1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    16_ElecGtr2b_Amp2.wav:
+      Track_path: Hollow Ground - Ill Fate\Hollow Ground - Ill Fate_RAW\16_ElecGtr2b_Amp2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    17_ElecGtr2c_DI.wav:
+      Track_path: Hollow Ground - Ill Fate\Hollow Ground - Ill Fate_RAW\17_ElecGtr2c_DI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    18_ElecGtr3a_Amp.wav:
+      Track_path: Hollow Ground - Ill Fate\Hollow Ground - Ill Fate_RAW\18_ElecGtr3a_Amp.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    19_ElecGtr3b_DI.wav:
+      Track_path: Hollow Ground - Ill Fate\Hollow Ground - Ill Fate_RAW\19_ElecGtr3b_DI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Piano: {}
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    20_Vox1.wav:
+      Track_path: Hollow Ground - Ill Fate\Hollow Ground - Ill Fate_RAW\20_Vox1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    21_Vox2.wav:
+      Track_path: Hollow Ground - Ill Fate\Hollow Ground - Ill Fate_RAW\21_Vox2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Choir: {}
+  Backing_Vocal: {}
+  Unused: {}
+  Ambient_Microphone: {}

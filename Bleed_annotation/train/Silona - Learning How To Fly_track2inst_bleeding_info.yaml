@@ -1,0 +1,489 @@
+Track2inst:
+  Electric_Organ:
+    75_Farfisa.wav:
+      Track_path: Silona - Learning How To Fly\Silona - Learning How To Fly_RAW\75_Farfisa.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Synthesizer:
+    72_Synth1.wav:
+      Track_path: Silona - Learning How To Fly\Silona - Learning How To Fly_RAW\72_Synth1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    73_Synth2.wav:
+      Track_path: Silona - Learning How To Fly\Silona - Learning How To Fly_RAW\73_Synth2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    74_Synth3.wav:
+      Track_path: Silona - Learning How To Fly\Silona - Learning How To Fly_RAW\74_Synth3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  SFX: {}
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    01_Drumkit1_KickIn.wav:
+      Track_path: Silona - Learning How To Fly\Silona - Learning How To Fly_RAW\01_Drumkit1_KickIn.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    02_Drumkit1_KickOut.wav:
+      Track_path: Silona - Learning How To Fly\Silona - Learning How To Fly_RAW\02_Drumkit1_KickOut.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    03_Drumkit1_KickBeater.wav:
+      Track_path: Silona - Learning How To Fly\Silona - Learning How To Fly_RAW\03_Drumkit1_KickBeater.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    04_Drumkit1_KickSub.wav:
+      Track_path: Silona - Learning How To Fly\Silona - Learning How To Fly_RAW\04_Drumkit1_KickSub.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_Snare:
+    05_Drumkit1_SnareUp.wav:
+      Track_path: Silona - Learning How To Fly\Silona - Learning How To Fly_RAW\05_Drumkit1_SnareUp.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    06_Drumkit1_SnareDown.wav:
+      Track_path: Silona - Learning How To Fly\Silona - Learning How To Fly_RAW\06_Drumkit1_SnareDown.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    22_SnareOD_SnareUp.wav:
+      Track_path: Silona - Learning How To Fly\Silona - Learning How To Fly_RAW\22_SnareOD_SnareUp.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: 
+      Comment: ''
+    23_SnareOD_SnareDown.wav:
+      Track_path: Silona - Learning How To Fly\Silona - Learning How To Fly_RAW\23_SnareOD_SnareDown.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: 
+      Comment: ''
+    24_SnareOD_TrashMic.wav:
+      Track_path: Silona - Learning How To Fly\Silona - Learning How To Fly_RAW\24_SnareOD_TrashMic.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: 
+      Comment: ''
+    25_SnareOD_Room.wav:
+      Track_path: Silona - Learning How To Fly\Silona - Learning How To Fly_RAW\25_SnareOD_Room.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: 
+      Comment: ''
+    33_808_Snare.wav:
+      Track_path: Silona - Learning How To Fly\Silona - Learning How To Fly_RAW\33_808_Snare.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: 
+      Comment: ''
+  Drum_HiHat:
+    07_Drumkit1_HiHat.wav:
+      Track_path: Silona - Learning How To Fly\Silona - Learning How To Fly_RAW\07_Drumkit1_HiHat.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    34_808_HiHat.wav:
+      Track_path: Silona - Learning How To Fly\Silona - Learning How To Fly_RAW\34_808_HiHat.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: 
+      Comment: ''
+  Drum_Cymbals:
+    35_CymbalRolls.wav:
+      Track_path: Silona - Learning How To Fly\Silona - Learning How To Fly_RAW\35_CymbalRolls.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: 
+      Comment: ''
+    36_CymbalRolls.wav:
+      Track_path: Silona - Learning How To Fly\Silona - Learning How To Fly_RAW\36_CymbalRolls.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: 
+      Comment: ''
+  Drum_Overheads:
+    10_Drumkit1_OverheadsStereo.wav:
+      Track_path: Silona - Learning How To Fly\Silona - Learning How To Fly_RAW\10_Drumkit1_OverheadsStereo.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    11_Drumkit1_OverheadMono.wav:
+      Track_path: Silona - Learning How To Fly\Silona - Learning How To Fly_RAW\11_Drumkit1_OverheadMono.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    12_Drumkit1_TrashMic.wav:
+      Track_path: Silona - Learning How To Fly\Silona - Learning How To Fly_RAW\12_Drumkit1_TrashMic.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Tom:
+    08_Drumkit1_Tom1.wav:
+      Track_path: Silona - Learning How To Fly\Silona - Learning How To Fly_RAW\08_Drumkit1_Tom1.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    09_Drumkit1_Tom2.wav:
+      Track_path: Silona - Learning How To Fly\Silona - Learning How To Fly_RAW\09_Drumkit1_Tom2.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    14_TomsOD1_Tom1.wav:
+      Track_path: Silona - Learning How To Fly\Silona - Learning How To Fly_RAW\14_TomsOD1_Tom1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: 
+      Comment: ''
+    15_TomsOD1_Tom2.wav:
+      Track_path: Silona - Learning How To Fly\Silona - Learning How To Fly_RAW\15_TomsOD1_Tom2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: 
+      Comment: ''
+    16_TomsOD1_Overheads.wav:
+      Track_path: Silona - Learning How To Fly\Silona - Learning How To Fly_RAW\16_TomsOD1_Overheads.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: 
+      Comment: ''
+    17_TomsOD1_Room.wav:
+      Track_path: Silona - Learning How To Fly\Silona - Learning How To Fly_RAW\17_TomsOD1_Room.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: 
+      Comment: ''
+    18_TomsOD2_Tom1.wav:
+      Track_path: Silona - Learning How To Fly\Silona - Learning How To Fly_RAW\18_TomsOD2_Tom1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: 
+      Comment: ''
+    19_TomsOD2_Tom2.wav:
+      Track_path: Silona - Learning How To Fly\Silona - Learning How To Fly_RAW\19_TomsOD2_Tom2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: 
+      Comment: ''
+    20_TomsOD2_Overheads.wav:
+      Track_path: Silona - Learning How To Fly\Silona - Learning How To Fly_RAW\20_TomsOD2_Overheads.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: 
+      Comment: ''
+    21_TomsOD2_Room.wav:
+      Track_path: Silona - Learning How To Fly\Silona - Learning How To Fly_RAW\21_TomsOD2_Room.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: 
+      Comment: ''
+  Drum_Room:
+    13_Drumkit1_Room.wav:
+      Track_path: Silona - Learning How To Fly\Silona - Learning How To Fly_RAW\13_Drumkit1_Room.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine:
+    29_Tambourine1.wav:
+      Track_path: Silona - Learning How To Fly\Silona - Learning How To Fly_RAW\29_Tambourine1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    31_Tambourine2.wav:
+      Track_path: Silona - Learning How To Fly\Silona - Learning How To Fly_RAW\31_Tambourine2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    30_Tambourine1Room.wav:
+      Track_path: Silona - Learning How To Fly\Silona - Learning How To Fly_RAW\30_Tambourine1Room.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    32_Tambourine2Room.wav:
+      Track_path: Silona - Learning How To Fly\Silona - Learning How To Fly_RAW\32_Tambourine2Room.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Loop:
+    27_Loop TrashMic.wav:
+      Track_path: Silona - Learning How To Fly\Silona - Learning How To Fly_RAW\27_Loop
+        TrashMic.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    26_Loop_HiHat.wav:
+      Track_path: Silona - Learning How To Fly\Silona - Learning How To Fly_RAW\26_Loop_HiHat.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    28_Loop_Room.wav:
+      Track_path: Silona - Learning How To Fly\Silona - Learning How To Fly_RAW\28_Loop_Room.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass: {}
+  Electric_Bass:
+    37_BassAmp.wav:
+      Track_path: Silona - Learning How To Fly\Silona - Learning How To Fly_RAW\37_BassAmp.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    38_BassAmpRoom.wav:
+      Track_path: Silona - Learning How To Fly\Silona - Learning How To Fly_RAW\38_BassAmpRoom.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    39_BassDI.wav:
+      Track_path: Silona - Learning How To Fly\Silona - Learning How To Fly_RAW\39_BassDI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Acoustic_Guitar:
+    40_AcousticGtr1Mic1.wav:
+      Track_path: Silona - Learning How To Fly\Silona - Learning How To Fly_RAW\40_AcousticGtr1Mic1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    41_AcousticGtr1Mic2.wav:
+      Track_path: Silona - Learning How To Fly\Silona - Learning How To Fly_RAW\41_AcousticGtr1Mic2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    42_AcousticGtr1Mic3.wav:
+      Track_path: Silona - Learning How To Fly\Silona - Learning How To Fly_RAW\42_AcousticGtr1Mic3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    43_AcousticGtr2Mic1.wav:
+      Track_path: Silona - Learning How To Fly\Silona - Learning How To Fly_RAW\43_AcousticGtr2Mic1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    44_AcousticGtr2Mic2.wav:
+      Track_path: Silona - Learning How To Fly\Silona - Learning How To Fly_RAW\44_AcousticGtr2Mic2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    45_AcousticGtr2Mic3.wav:
+      Track_path: Silona - Learning How To Fly\Silona - Learning How To Fly_RAW\45_AcousticGtr2Mic3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Electric_Guitar:
+    46_ElecGtr1Mic1.wav:
+      Track_path: Silona - Learning How To Fly\Silona - Learning How To Fly_RAW\46_ElecGtr1Mic1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    47_ElecGtr1Mic2.wav:
+      Track_path: Silona - Learning How To Fly\Silona - Learning How To Fly_RAW\47_ElecGtr1Mic2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    48_ElecGtr1Room.wav:
+      Track_path: Silona - Learning How To Fly\Silona - Learning How To Fly_RAW\48_ElecGtr1Room.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    49_ElecGtr1DI.wav:
+      Track_path: Silona - Learning How To Fly\Silona - Learning How To Fly_RAW\49_ElecGtr1DI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    50_ElecGtr2Mic1.wav:
+      Track_path: Silona - Learning How To Fly\Silona - Learning How To Fly_RAW\50_ElecGtr2Mic1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    51_ElecGtr2Mic2.wav:
+      Track_path: Silona - Learning How To Fly\Silona - Learning How To Fly_RAW\51_ElecGtr2Mic2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    52_ElecGtr2Room.wav:
+      Track_path: Silona - Learning How To Fly\Silona - Learning How To Fly_RAW\52_ElecGtr2Room.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    53_ElecGtr2DI.wav:
+      Track_path: Silona - Learning How To Fly\Silona - Learning How To Fly_RAW\53_ElecGtr2DI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    54_ElecGtr3Mic1.wav:
+      Track_path: Silona - Learning How To Fly\Silona - Learning How To Fly_RAW\54_ElecGtr3Mic1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    55_ElecGtr3Mic2.wav:
+      Track_path: Silona - Learning How To Fly\Silona - Learning How To Fly_RAW\55_ElecGtr3Mic2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    56_ElecGtr3Room.wav:
+      Track_path: Silona - Learning How To Fly\Silona - Learning How To Fly_RAW\56_ElecGtr3Room.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    57_ElecGtr3DI.wav:
+      Track_path: Silona - Learning How To Fly\Silona - Learning How To Fly_RAW\57_ElecGtr3DI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    58_ElecGtr4Mic1.wav:
+      Track_path: Silona - Learning How To Fly\Silona - Learning How To Fly_RAW\58_ElecGtr4Mic1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    59_ElecGtr4Mic2.wav:
+      Track_path: Silona - Learning How To Fly\Silona - Learning How To Fly_RAW\59_ElecGtr4Mic2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    60_ElecGtr4Room.wav:
+      Track_path: Silona - Learning How To Fly\Silona - Learning How To Fly_RAW\60_ElecGtr4Room.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    61_ElecGtr4DI.wav:
+      Track_path: Silona - Learning How To Fly\Silona - Learning How To Fly_RAW\61_ElecGtr4DI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    62_ElecGtr5Mic1.wav:
+      Track_path: Silona - Learning How To Fly\Silona - Learning How To Fly_RAW\62_ElecGtr5Mic1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    63_ElecGtr5Mic2.wav:
+      Track_path: Silona - Learning How To Fly\Silona - Learning How To Fly_RAW\63_ElecGtr5Mic2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    64_ElecGtr5Room.wav:
+      Track_path: Silona - Learning How To Fly\Silona - Learning How To Fly_RAW\64_ElecGtr5Room.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    65_ElecGtr5DI.wav:
+      Track_path: Silona - Learning How To Fly\Silona - Learning How To Fly_RAW\65_ElecGtr5DI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    66_ElecGtr6Mic1.wav:
+      Track_path: Silona - Learning How To Fly\Silona - Learning How To Fly_RAW\66_ElecGtr6Mic1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    67_ElecGtr6Mic2.wav:
+      Track_path: Silona - Learning How To Fly\Silona - Learning How To Fly_RAW\67_ElecGtr6Mic2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    68_ElecGtr6Room.wav:
+      Track_path: Silona - Learning How To Fly\Silona - Learning How To Fly_RAW\68_ElecGtr6Room.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    69_ElecGtr6DI.wav:
+      Track_path: Silona - Learning How To Fly\Silona - Learning How To Fly_RAW\69_ElecGtr6DI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Piano:
+    70_Piano1.wav:
+      Track_path: Silona - Learning How To Fly\Silona - Learning How To Fly_RAW\70_Piano1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    71_Piano2.wav:
+      Track_path: Silona - Learning How To Fly\Silona - Learning How To Fly_RAW\71_Piano2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Electric_Piano:
+    76_Rhodes1.wav:
+      Track_path: Silona - Learning How To Fly\Silona - Learning How To Fly_RAW\76_Rhodes1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    77_Rhodes1FX.wav:
+      Track_path: Silona - Learning How To Fly\Silona - Learning How To Fly_RAW\77_Rhodes1FX.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    78_Rhodes2.wav:
+      Track_path: Silona - Learning How To Fly\Silona - Learning How To Fly_RAW\78_Rhodes2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    79_Rhodes2FX.wav:
+      Track_path: Silona - Learning How To Fly\Silona - Learning How To Fly_RAW\79_Rhodes2FX.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    80_Glockenspiel.wav:
+      Track_path: Silona - Learning How To Fly\Silona - Learning How To Fly_RAW\80_Glockenspiel.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    81_LeadVox.wav:
+      Track_path: Silona - Learning How To Fly\Silona - Learning How To Fly_RAW\81_LeadVox.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    82_LeadVoxDT.wav:
+      Track_path: Silona - Learning How To Fly\Silona - Learning How To Fly_RAW\82_LeadVoxDT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Choir: {}
+  Backing_Vocal:
+    83_BackingVox.wav:
+      Track_path: Silona - Learning How To Fly\Silona - Learning How To Fly_RAW\83_BackingVox.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Unused: {}
+  Ambient_Microphone: {}

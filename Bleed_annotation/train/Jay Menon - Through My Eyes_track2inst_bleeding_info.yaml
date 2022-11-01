@@ -1,0 +1,188 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer:
+    18_Pad1.wav:
+      Track_path: Jay Menon - Through My Eyes\Jay Menon - Through My Eyes_RAW\18_Pad1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    19_Pad2.wav:
+      Track_path: Jay Menon - Through My Eyes\Jay Menon - Through My Eyes_RAW\19_Pad2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    20_Pad3.wav:
+      Track_path: Jay Menon - Through My Eyes\Jay Menon - Through My Eyes_RAW\20_Pad3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    21_Pad4.wav:
+      Track_path: Jay Menon - Through My Eyes\Jay Menon - Through My Eyes_RAW\21_Pad4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    22_Pad5.wav:
+      Track_path: Jay Menon - Through My Eyes\Jay Menon - Through My Eyes_RAW\22_Pad5.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  SFX: {}
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    01_Kick.wav:
+      Track_path: Jay Menon - Through My Eyes\Jay Menon - Through My Eyes_RAW\01_Kick.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Snare:
+    02_Snare.wav:
+      Track_path: Jay Menon - Through My Eyes\Jay Menon - Through My Eyes_RAW\02_Snare.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_HiHat:
+    03_HiHat.wav:
+      Track_path: Jay Menon - Through My Eyes\Jay Menon - Through My Eyes_RAW\03_HiHat.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Cymbals:
+    05_CymbalRoll1.wav:
+      Track_path: Jay Menon - Through My Eyes\Jay Menon - Through My Eyes_RAW\05_CymbalRoll1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    06_CymbalRoll2.wav:
+      Track_path: Jay Menon - Through My Eyes\Jay Menon - Through My Eyes_RAW\06_CymbalRoll2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    08_FingerCymbals.wav:
+      Track_path: Jay Menon - Through My Eyes\Jay Menon - Through My Eyes_RAW\08_FingerCymbals.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Overheads:
+    04_Overheads.wav:
+      Track_path: Jay Menon - Through My Eyes\Jay Menon - Through My Eyes_RAW\04_Overheads.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Tom: {}
+  Drum_Room: {}
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop: {}
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion:
+    07_Percussion.wav:
+      Track_path: Jay Menon - Through My Eyes\Jay Menon - Through My Eyes_RAW\07_Percussion.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Synth_Bass: {}
+  Electric_Bass:
+    09_Bass.wav:
+      Track_path: Jay Menon - Through My Eyes\Jay Menon - Through My Eyes_RAW\09_Bass.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Acoustic_Guitar:
+    10_AcGuitar1.wav:
+      Track_path: Jay Menon - Through My Eyes\Jay Menon - Through My Eyes_RAW\10_AcGuitar1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    11_AcGuitar2.wav:
+      Track_path: Jay Menon - Through My Eyes\Jay Menon - Through My Eyes_RAW\11_AcGuitar2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    12_AcGuitar3.wav:
+      Track_path: Jay Menon - Through My Eyes\Jay Menon - Through My Eyes_RAW\12_AcGuitar3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    13_AcGuitar4.wav:
+      Track_path: Jay Menon - Through My Eyes\Jay Menon - Through My Eyes_RAW\13_AcGuitar4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    14_AcGuitar5.wav:
+      Track_path: Jay Menon - Through My Eyes\Jay Menon - Through My Eyes_RAW\14_AcGuitar5.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    15_AcGuitar6.wav:
+      Track_path: Jay Menon - Through My Eyes\Jay Menon - Through My Eyes_RAW\15_AcGuitar6.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Electric_Guitar: {}
+  Piano:
+    16_Piano1.wav:
+      Track_path: Jay Menon - Through My Eyes\Jay Menon - Through My Eyes_RAW\16_Piano1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    17_Piano2.wav:
+      Track_path: Jay Menon - Through My Eyes\Jay Menon - Through My Eyes_RAW\17_Piano2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    23_LeadVox.wav:
+      Track_path: Jay Menon - Through My Eyes\Jay Menon - Through My Eyes_RAW\23_LeadVox.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Choir: {}
+  Backing_Vocal: {}
+  Unused: {}
+  Ambient_Microphone: {}

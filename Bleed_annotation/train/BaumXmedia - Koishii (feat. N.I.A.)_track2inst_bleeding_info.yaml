@@ -1,0 +1,361 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer:
+    29_Synth1.wav:
+      Track_path: BaumXmedia - Koishii (feat. N.I.A.)\BaumXmedia - Koishii (feat.
+        N.I.A.)_RAW\29_Synth1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    30_Synth2.wav:
+      Track_path: BaumXmedia - Koishii (feat. N.I.A.)\BaumXmedia - Koishii (feat.
+        N.I.A.)_RAW\30_Synth2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    31_Synth3.wav:
+      Track_path: BaumXmedia - Koishii (feat. N.I.A.)\BaumXmedia - Koishii (feat.
+        N.I.A.)_RAW\31_Synth3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    32_Synth4.wav:
+      Track_path: BaumXmedia - Koishii (feat. N.I.A.)\BaumXmedia - Koishii (feat.
+        N.I.A.)_RAW\32_Synth4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    33_Synth5.wav:
+      Track_path: BaumXmedia - Koishii (feat. N.I.A.)\BaumXmedia - Koishii (feat.
+        N.I.A.)_RAW\33_Synth5.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    34_Synth6.wav:
+      Track_path: BaumXmedia - Koishii (feat. N.I.A.)\BaumXmedia - Koishii (feat.
+        N.I.A.)_RAW\34_Synth6.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    35_Synth7.wav:
+      Track_path: BaumXmedia - Koishii (feat. N.I.A.)\BaumXmedia - Koishii (feat.
+        N.I.A.)_RAW\35_Synth7.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    36_Synth8.wav:
+      Track_path: BaumXmedia - Koishii (feat. N.I.A.)\BaumXmedia - Koishii (feat.
+        N.I.A.)_RAW\36_Synth8.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    37_Synth9.wav:
+      Track_path: BaumXmedia - Koishii (feat. N.I.A.)\BaumXmedia - Koishii (feat.
+        N.I.A.)_RAW\37_Synth9.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  SFX:
+    13_SFX1.wav:
+      Track_path: BaumXmedia - Koishii (feat. N.I.A.)\BaumXmedia - Koishii (feat.
+        N.I.A.)_RAW\13_SFX1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    14_SFX2.wav:
+      Track_path: BaumXmedia - Koishii (feat. N.I.A.)\BaumXmedia - Koishii (feat.
+        N.I.A.)_RAW\14_SFX2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    15_SFX3.wav:
+      Track_path: BaumXmedia - Koishii (feat. N.I.A.)\BaumXmedia - Koishii (feat.
+        N.I.A.)_RAW\15_SFX3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    16_SFX4.wav:
+      Track_path: BaumXmedia - Koishii (feat. N.I.A.)\BaumXmedia - Koishii (feat.
+        N.I.A.)_RAW\16_SFX4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Marimba: {}
+  Bell:
+    08_Bell.wav:
+      Track_path: BaumXmedia - Koishii (feat. N.I.A.)\BaumXmedia - Koishii (feat.
+        N.I.A.)_RAW\08_Bell.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    01_Kick.wav:
+      Track_path: BaumXmedia - Koishii (feat. N.I.A.)\BaumXmedia - Koishii (feat.
+        N.I.A.)_RAW\01_Kick.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Snare:
+    02_Snare.wav:
+      Track_path: BaumXmedia - Koishii (feat. N.I.A.)\BaumXmedia - Koishii (feat.
+        N.I.A.)_RAW\02_Snare.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_HiHat:
+    03_HiHat.wav:
+      Track_path: BaumXmedia - Koishii (feat. N.I.A.)\BaumXmedia - Koishii (feat.
+        N.I.A.)_RAW\03_HiHat.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Cymbals:
+    09_Cymbal.wav:
+      Track_path: BaumXmedia - Koishii (feat. N.I.A.)\BaumXmedia - Koishii (feat.
+        N.I.A.)_RAW\09_Cymbal.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    10_ReverseCymbal1.wav:
+      Track_path: BaumXmedia - Koishii (feat. N.I.A.)\BaumXmedia - Koishii (feat.
+        N.I.A.)_RAW\10_ReverseCymbal1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    11_ReverseCymbal2.wav:
+      Track_path: BaumXmedia - Koishii (feat. N.I.A.)\BaumXmedia - Koishii (feat.
+        N.I.A.)_RAW\11_ReverseCymbal2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    12_ReverseCymbalFX.wav:
+      Track_path: BaumXmedia - Koishii (feat. N.I.A.)\BaumXmedia - Koishii (feat.
+        N.I.A.)_RAW\12_ReverseCymbalFX.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Overheads: {}
+  Drum_Tom: {}
+  Drum_Room: {}
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop: {}
+  Clicks: {}
+  Claps:
+    07_Claps.wav:
+      Track_path: BaumXmedia - Koishii (feat. N.I.A.)\BaumXmedia - Koishii (feat.
+        N.I.A.)_RAW\07_Claps.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo:
+    05_Bongo.wav:
+      Track_path: BaumXmedia - Koishii (feat. N.I.A.)\BaumXmedia - Koishii (feat.
+        N.I.A.)_RAW\05_Bongo.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Gong:
+    06_Gong.wav:
+      Track_path: BaumXmedia - Koishii (feat. N.I.A.)\BaumXmedia - Koishii (feat.
+        N.I.A.)_RAW\06_Gong.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Timbale: {}
+  Pandeiro: {}
+  Percussion:
+    04_Bombek.wav:
+      Track_path: BaumXmedia - Koishii (feat. N.I.A.)\BaumXmedia - Koishii (feat.
+        N.I.A.)_RAW\04_Bombek.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Synth_Bass: {}
+  Electric_Bass:
+    17_Bass1.wav:
+      Track_path: BaumXmedia - Koishii (feat. N.I.A.)\BaumXmedia - Koishii (feat.
+        N.I.A.)_RAW\17_Bass1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    18_Bass2.wav:
+      Track_path: BaumXmedia - Koishii (feat. N.I.A.)\BaumXmedia - Koishii (feat.
+        N.I.A.)_RAW\18_Bass2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Acoustic_Guitar: {}
+  Electric_Guitar: {}
+  Piano:
+    26_Piano1.wav:
+      Track_path: BaumXmedia - Koishii (feat. N.I.A.)\BaumXmedia - Koishii (feat.
+        N.I.A.)_RAW\26_Piano1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    27_Piano2.wav:
+      Track_path: BaumXmedia - Koishii (feat. N.I.A.)\BaumXmedia - Koishii (feat.
+        N.I.A.)_RAW\27_Piano2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    28_Piano3.wav:
+      Track_path: BaumXmedia - Koishii (feat. N.I.A.)\BaumXmedia - Koishii (feat.
+        N.I.A.)_RAW\28_Piano3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section:
+    19_Strings1.wav:
+      Track_path: BaumXmedia - Koishii (feat. N.I.A.)\BaumXmedia - Koishii (feat.
+        N.I.A.)_RAW\19_Strings1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    20_Strings2.wav:
+      Track_path: BaumXmedia - Koishii (feat. N.I.A.)\BaumXmedia - Koishii (feat.
+        N.I.A.)_RAW\20_Strings2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    21_Strings3.wav:
+      Track_path: BaumXmedia - Koishii (feat. N.I.A.)\BaumXmedia - Koishii (feat.
+        N.I.A.)_RAW\21_Strings3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    22_Strings4.wav:
+      Track_path: BaumXmedia - Koishii (feat. N.I.A.)\BaumXmedia - Koishii (feat.
+        N.I.A.)_RAW\22_Strings4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    23_Strings5.wav:
+      Track_path: BaumXmedia - Koishii (feat. N.I.A.)\BaumXmedia - Koishii (feat.
+        N.I.A.)_RAW\23_Strings5.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    24_Strings6.wav:
+      Track_path: BaumXmedia - Koishii (feat. N.I.A.)\BaumXmedia - Koishii (feat.
+        N.I.A.)_RAW\24_Strings6.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    25_Strings7.wav:
+      Track_path: BaumXmedia - Koishii (feat. N.I.A.)\BaumXmedia - Koishii (feat.
+        N.I.A.)_RAW\25_Strings7.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    38_LeadVox1.wav:
+      Track_path: BaumXmedia - Koishii (feat. N.I.A.)\BaumXmedia - Koishii (feat.
+        N.I.A.)_RAW\38_LeadVox1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    39_LeadVox1DT1.wav:
+      Track_path: BaumXmedia - Koishii (feat. N.I.A.)\BaumXmedia - Koishii (feat.
+        N.I.A.)_RAW\39_LeadVox1DT1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    40_LeadVox1DT2.wav:
+      Track_path: BaumXmedia - Koishii (feat. N.I.A.)\BaumXmedia - Koishii (feat.
+        N.I.A.)_RAW\40_LeadVox1DT2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    41_LeadVox2.wav:
+      Track_path: BaumXmedia - Koishii (feat. N.I.A.)\BaumXmedia - Koishii (feat.
+        N.I.A.)_RAW\41_LeadVox2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    42_LeadVox2DT1.wav:
+      Track_path: BaumXmedia - Koishii (feat. N.I.A.)\BaumXmedia - Koishii (feat.
+        N.I.A.)_RAW\42_LeadVox2DT1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    43_LeadVox2DT2.wav:
+      Track_path: BaumXmedia - Koishii (feat. N.I.A.)\BaumXmedia - Koishii (feat.
+        N.I.A.)_RAW\43_LeadVox2DT2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    44_LeadVox2DT3.wav:
+      Track_path: BaumXmedia - Koishii (feat. N.I.A.)\BaumXmedia - Koishii (feat.
+        N.I.A.)_RAW\44_LeadVox2DT3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Choir: {}
+  Backing_Vocal:
+    45_BackingVox1.wav:
+      Track_path: BaumXmedia - Koishii (feat. N.I.A.)\BaumXmedia - Koishii (feat.
+        N.I.A.)_RAW\45_BackingVox1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    46_BackingVox2.wav:
+      Track_path: BaumXmedia - Koishii (feat. N.I.A.)\BaumXmedia - Koishii (feat.
+        N.I.A.)_RAW\46_BackingVox2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    47_BackingVox3.wav:
+      Track_path: BaumXmedia - Koishii (feat. N.I.A.)\BaumXmedia - Koishii (feat.
+        N.I.A.)_RAW\47_BackingVox3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    48_BackingVox3DT.wav:
+      Track_path: BaumXmedia - Koishii (feat. N.I.A.)\BaumXmedia - Koishii (feat.
+        N.I.A.)_RAW\48_BackingVox3DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Unused: {}
+  Ambient_Microphone: {}

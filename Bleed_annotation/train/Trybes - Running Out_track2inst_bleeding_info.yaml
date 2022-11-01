@@ -1,0 +1,278 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer:
+    12_Synth1.wav:
+      Track_path: Trybes - Running Out\Trybes - Running Out_RAW\12_Synth1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    13_Synth2.wav:
+      Track_path: Trybes - Running Out\Trybes - Running Out_RAW\13_Synth2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    14_Synth3.wav:
+      Track_path: Trybes - Running Out\Trybes - Running Out_RAW\14_Synth3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    16_Synth5.wav:
+      Track_path: Trybes - Running Out\Trybes - Running Out_RAW\16_Synth5.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    17_Synth6.wav:
+      Track_path: Trybes - Running Out\Trybes - Running Out_RAW\17_Synth6.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    18_Synth7.wav:
+      Track_path: Trybes - Running Out\Trybes - Running Out_RAW\18_Synth7.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  SFX:
+    11_SFX.wav:
+      Track_path: Trybes - Running Out\Trybes - Running Out_RAW\11_SFX.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    26_VoxSFX1.wav:
+      Track_path: Trybes - Running Out\Trybes - Running Out_RAW\26_VoxSFX1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    27_VoxSFX2.wav:
+      Track_path: Trybes - Running Out\Trybes - Running Out_RAW\27_VoxSFX2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    28_VoxSFX3.wav:
+      Track_path: Trybes - Running Out\Trybes - Running Out_RAW\28_VoxSFX3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    29_VoxSFX4.wav:
+      Track_path: Trybes - Running Out\Trybes - Running Out_RAW\29_VoxSFX4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    30_VoxSFX5.wav:
+      Track_path: Trybes - Running Out\Trybes - Running Out_RAW\30_VoxSFX5.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    31_VoxSFX6.wav:
+      Track_path: Trybes - Running Out\Trybes - Running Out_RAW\31_VoxSFX6.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    32_VoxSFX7.wav:
+      Track_path: Trybes - Running Out\Trybes - Running Out_RAW\32_VoxSFX7.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    01_Drumkit_Kick.wav:
+      Track_path: Trybes - Running Out\Trybes - Running Out_RAW\01_Drumkit_Kick.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_Snare:
+    02_Drumkit_Snare.wav:
+      Track_path: Trybes - Running Out\Trybes - Running Out_RAW\02_Drumkit_Snare.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    06_Snare.wav:
+      Track_path: Trybes - Running Out\Trybes - Running Out_RAW\06_Snare.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_HiHat: {}
+  Drum_Cymbals: {}
+  Drum_Overheads:
+    03_Drumkit_Overheads.wav:
+      Track_path: Trybes - Running Out\Trybes - Running Out_RAW\03_Drumkit_Overheads.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    04_Drumkit_DrumsSquashMic.wav:
+      Track_path: Trybes - Running Out\Trybes - Running Out_RAW\04_Drumkit_DrumsSquashMic.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Tom: {}
+  Drum_Room: {}
+  Shaker:
+    08_Percussion1.wav:
+      Track_path: Trybes - Running Out\Trybes - Running Out_RAW\08_Percussion1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    09_Percussion2.wav:
+      Track_path: Trybes - Running Out\Trybes - Running Out_RAW\09_Percussion2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    10_Percussion3.wav:
+      Track_path: Trybes - Running Out\Trybes - Running Out_RAW\10_Percussion3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga:
+    05_Congas.wav:
+      Track_path: Trybes - Running Out\Trybes - Running Out_RAW\05_Congas.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop:
+    07_Loop.wav:
+      Track_path: Trybes - Running Out\Trybes - Running Out_RAW\07_Loop.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass:
+    15_Synth4.wav:
+      Track_path: Trybes - Running Out\Trybes - Running Out_RAW\15_Synth4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Electric_Bass: {}
+  Acoustic_Guitar: {}
+  Electric_Guitar: {}
+  Piano:
+    22_Piano.wav:
+      Track_path: Trybes - Running Out\Trybes - Running Out_RAW\22_Piano.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    23_PianoSFX1.wav:
+      Track_path: Trybes - Running Out\Trybes - Running Out_RAW\23_PianoSFX1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    24_PianoSFX2.wav:
+      Track_path: Trybes - Running Out\Trybes - Running Out_RAW\24_PianoSFX2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute:
+    21_Flutes.wav:
+      Track_path: Trybes - Running Out\Trybes - Running Out_RAW\21_Flutes.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Clarinet:
+    19_BassClarinet.wav:
+      Track_path: Trybes - Running Out\Trybes - Running Out_RAW\19_BassClarinet.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    20_Clarinets.wav:
+      Track_path: Trybes - Running Out\Trybes - Running Out_RAW\20_Clarinets.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    25_LeadVox.wav:
+      Track_path: Trybes - Running Out\Trybes - Running Out_RAW\25_LeadVox.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Choir: {}
+  Backing_Vocal:
+    33_BackingVox1.wav:
+      Track_path: Trybes - Running Out\Trybes - Running Out_RAW\33_BackingVox1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    34_BackingVox1DT1.wav:
+      Track_path: Trybes - Running Out\Trybes - Running Out_RAW\34_BackingVox1DT1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    35_BackingVox1DT2.wav:
+      Track_path: Trybes - Running Out\Trybes - Running Out_RAW\35_BackingVox1DT2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    36_BackingVox2.wav:
+      Track_path: Trybes - Running Out\Trybes - Running Out_RAW\36_BackingVox2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    37_BackingVox2DT1.wav:
+      Track_path: Trybes - Running Out\Trybes - Running Out_RAW\37_BackingVox2DT1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    38_BackingVox2DT2.wav:
+      Track_path: Trybes - Running Out\Trybes - Running Out_RAW\38_BackingVox2DT2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    39_BackingVox3.wav:
+      Track_path: Trybes - Running Out\Trybes - Running Out_RAW\39_BackingVox3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    40_BackingVox3DT1.wav:
+      Track_path: Trybes - Running Out\Trybes - Running Out_RAW\40_BackingVox3DT1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    41_BackingVox3DT2.wav:
+      Track_path: Trybes - Running Out\Trybes - Running Out_RAW\41_BackingVox3DT2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Unused: {}
+  Ambient_Microphone: {}

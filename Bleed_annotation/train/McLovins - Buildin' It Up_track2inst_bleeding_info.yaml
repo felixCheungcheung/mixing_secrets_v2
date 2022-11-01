@@ -1,0 +1,169 @@
+Track2inst:
+  Electric_Organ:
+    Keys-Hammond Bottom-CU29.wav:
+      Track_path: McLovins - Buildin' It Up\McLovins - Buildin' It Up_RAW\Keys-Hammond
+        Bottom-CU29.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads'
+      Comment: ''
+    Keys-Hammond Top-M81.wav:
+      Track_path: McLovins - Buildin' It Up\McLovins - Buildin' It Up_RAW\Keys-Hammond
+        Top-M81.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads'
+      Comment: ''
+  Synthesizer: {}
+  SFX: {}
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    Drums-Kick In-M82.wav:
+      Track_path: McLovins - Buildin' It Up\McLovins - Buildin' It Up_RAW\Drums-Kick
+        In-M82.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads'
+      Comment: ''
+    Drums-Kick Out-CU29.wav:
+      Track_path: McLovins - Buildin' It Up\McLovins - Buildin' It Up_RAW\Drums-Kick
+        Out-CU29.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads'
+      Comment: ''
+  Drum_Snare:
+    Drums-Snare Bottom-M80.wav:
+      Track_path: McLovins - Buildin' It Up\McLovins - Buildin' It Up_RAW\Drums-Snare
+        Bottom-M80.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads'
+      Comment: ''
+    Drums-Snare Top-M80.wav:
+      Track_path: McLovins - Buildin' It Up\McLovins - Buildin' It Up_RAW\Drums-Snare
+        Top-M80.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads, Lead_Vocal'
+      Comment: ''
+  Drum_HiHat: {}
+  Drum_Cymbals: {}
+  Drum_Overheads:
+    Drums-Over Head-M60.wav:
+      Track_path: McLovins - Buildin' It Up\McLovins - Buildin' It Up_RAW\Drums-Over
+        Head-M60.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Lead_Vocal'
+      Comment: ''
+  Drum_Tom:
+    Drums-Tom1-M81.wav:
+      Track_path: McLovins - Buildin' It Up\McLovins - Buildin' It Up_RAW\Drums-Tom1-M81.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads, Lead_Vocal'
+      Comment: ''
+    Drums-Tom2-M81-Samp.wav:
+      Track_path: McLovins - Buildin' It Up\McLovins - Buildin' It Up_RAW\Drums-Tom2-M81-Samp.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Room:
+    Drums-Chamber-AR70.wav:
+      Track_path: McLovins - Buildin' It Up\McLovins - Buildin' It Up_RAW\Drums-Chamber-AR70.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Lead_Vocal'
+      Comment: ''
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop: {}
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass: {}
+  Electric_Bass:
+    Bass-DI.wav:
+      Track_path: McLovins - Buildin' It Up\McLovins - Buildin' It Up_RAW\Bass-DI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Bass-Mic-AK47.wav:
+      Track_path: McLovins - Buildin' It Up\McLovins - Buildin' It Up_RAW\Bass-Mic-AK47.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Acoustic_Guitar: {}
+  Electric_Guitar:
+    ELE Guitar-Con Mic-AK47.wav:
+      Track_path: McLovins - Buildin' It Up\McLovins - Buildin' It Up_RAW\ELE Guitar-Con
+        Mic-AK47.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    ELE Guitar-Dyn Mic-M81.wav:
+      Track_path: McLovins - Buildin' It Up\McLovins - Buildin' It Up_RAW\ELE Guitar-Dyn
+        Mic-M81.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Piano: {}
+  Electric_Piano:
+    Keys-KORG SV1-DI.wav:
+      Track_path: McLovins - Buildin' It Up\McLovins - Buildin' It Up_RAW\Keys-KORG
+        SV1-DI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    Vocals-Drums-M80.wav:
+      Track_path: McLovins - Buildin' It Up\McLovins - Buildin' It Up_RAW\Vocals-Drums-M80.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads'
+      Comment: ''
+  Choir: {}
+  Backing_Vocal:
+    Vocals-ELE Guitar-M81.wav:
+      Track_path: McLovins - Buildin' It Up\McLovins - Buildin' It Up_RAW\Vocals-ELE
+        Guitar-M81.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads'
+      Comment: ''
+  Unused: {}
+  Ambient_Microphone: {}

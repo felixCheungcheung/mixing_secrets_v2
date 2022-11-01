@@ -1,0 +1,228 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer:
+    19_Synth1.wav:
+      Track_path: Guarna - Orson Welles\Guarna - Orson Welles_RAW\19_Synth1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    20_Synth2.wav:
+      Track_path: Guarna - Orson Welles\Guarna - Orson Welles_RAW\20_Synth2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    21_Synth3.wav:
+      Track_path: Guarna - Orson Welles\Guarna - Orson Welles_RAW\21_Synth3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    22_Synth4.wav:
+      Track_path: Guarna - Orson Welles\Guarna - Orson Welles_RAW\22_Synth4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    23_Synth5.wav:
+      Track_path: Guarna - Orson Welles\Guarna - Orson Welles_RAW\23_Synth5.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  SFX:
+    15_SFX1.wav:
+      Track_path: Guarna - Orson Welles\Guarna - Orson Welles_RAW\15_SFX1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    16_SFX2.wav:
+      Track_path: Guarna - Orson Welles\Guarna - Orson Welles_RAW\16_SFX2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    03_Kick.wav:
+      Track_path: Guarna - Orson Welles\Guarna - Orson Welles_RAW\03_Kick.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Snare:
+    06_Snare.wav:
+      Track_path: Guarna - Orson Welles\Guarna - Orson Welles_RAW\06_Snare.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_HiHat:
+    07_HiHat1.wav:
+      Track_path: Guarna - Orson Welles\Guarna - Orson Welles_RAW\07_HiHat1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    08_HiHat2.wav:
+      Track_path: Guarna - Orson Welles\Guarna - Orson Welles_RAW\08_HiHat2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    09_HiHat3.wav:
+      Track_path: Guarna - Orson Welles\Guarna - Orson Welles_RAW\09_HiHat3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    10_HiHat4.wav:
+      Track_path: Guarna - Orson Welles\Guarna - Orson Welles_RAW\10_HiHat4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    11_HiHat5.wav:
+      Track_path: Guarna - Orson Welles\Guarna - Orson Welles_RAW\11_HiHat5.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Cymbals:
+    12_Ride.wav:
+      Track_path: Guarna - Orson Welles\Guarna - Orson Welles_RAW\12_Ride.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    13_Crash.wav:
+      Track_path: Guarna - Orson Welles\Guarna - Orson Welles_RAW\13_Crash.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    14_CrashSFX.wav:
+      Track_path: Guarna - Orson Welles\Guarna - Orson Welles_RAW\14_CrashSFX.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Overheads: {}
+  Drum_Tom: {}
+  Drum_Room: {}
+  Shaker:
+    17_Shaker.wav:
+      Track_path: Guarna - Orson Welles\Guarna - Orson Welles_RAW\17_Shaker.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop:
+    01_Loop1.wav:
+      Track_path: Guarna - Orson Welles\Guarna - Orson Welles_RAW\01_Loop1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    02_Loop2.wav:
+      Track_path: Guarna - Orson Welles\Guarna - Orson Welles_RAW\02_Loop2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Clicks: {}
+  Claps:
+    04_Clap1.wav:
+      Track_path: Guarna - Orson Welles\Guarna - Orson Welles_RAW\04_Clap1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    05_Clap2.wav:
+      Track_path: Guarna - Orson Welles\Guarna - Orson Welles_RAW\05_Clap2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass:
+    18_Bass.wav:
+      Track_path: Guarna - Orson Welles\Guarna - Orson Welles_RAW\18_Bass.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Electric_Bass: {}
+  Acoustic_Guitar: {}
+  Electric_Guitar: {}
+  Piano: {}
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    24_LeadVox1.wav:
+      Track_path: Guarna - Orson Welles\Guarna - Orson Welles_RAW\24_LeadVox1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    25_LeadVox2.wav:
+      Track_path: Guarna - Orson Welles\Guarna - Orson Welles_RAW\25_LeadVox2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Choir: {}
+  Backing_Vocal:
+    26_BackingVox1.wav:
+      Track_path: Guarna - Orson Welles\Guarna - Orson Welles_RAW\26_BackingVox1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    27_BackingVox2.wav:
+      Track_path: Guarna - Orson Welles\Guarna - Orson Welles_RAW\27_BackingVox2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    28_BackingVox3.wav:
+      Track_path: Guarna - Orson Welles\Guarna - Orson Welles_RAW\28_BackingVox3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    29_BackingVox4.wav:
+      Track_path: Guarna - Orson Welles\Guarna - Orson Welles_RAW\29_BackingVox4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    30_BackingVox5.wav:
+      Track_path: Guarna - Orson Welles\Guarna - Orson Welles_RAW\30_BackingVox5.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    31_VoxSFX.wav:
+      Track_path: Guarna - Orson Welles\Guarna - Orson Welles_RAW\31_VoxSFX.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Unused: {}
+  Ambient_Microphone: {}

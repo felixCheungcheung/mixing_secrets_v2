@@ -1,0 +1,418 @@
+Track2inst:
+  Electric_Organ:
+    31_Hammond.wav:
+      Track_path: Kangoro - King Rascal\Kangoro - King Rascal_RAW\31_Hammond.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Synthesizer:
+    32_Synth1.wav:
+      Track_path: Kangoro - King Rascal\Kangoro - King Rascal_RAW\32_Synth1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    33_Synth2.wav:
+      Track_path: Kangoro - King Rascal\Kangoro - King Rascal_RAW\33_Synth2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    34_Synth3.wav:
+      Track_path: Kangoro - King Rascal\Kangoro - King Rascal_RAW\34_Synth3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  SFX:
+    20_Scratch1.wav:
+      Track_path: Kangoro - King Rascal\Kangoro - King Rascal_RAW\20_Scratch1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    21_Scratch2.wav:
+      Track_path: Kangoro - King Rascal\Kangoro - King Rascal_RAW\21_Scratch2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    22_Scratch3.wav:
+      Track_path: Kangoro - King Rascal\Kangoro - King Rascal_RAW\22_Scratch3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    23_Scratch4.wav:
+      Track_path: Kangoro - King Rascal\Kangoro - King Rascal_RAW\23_Scratch4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    24_Scratch5.wav:
+      Track_path: Kangoro - King Rascal\Kangoro - King Rascal_RAW\24_Scratch5.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    25_VinylNoise1.wav:
+      Track_path: Kangoro - King Rascal\Kangoro - King Rascal_RAW\25_VinylNoise1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    26_VinylNoise2.wav:
+      Track_path: Kangoro - King Rascal\Kangoro - King Rascal_RAW\26_VinylNoise2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    01_KickIn1.wav:
+      Track_path: Kangoro - King Rascal\Kangoro - King Rascal_RAW\01_KickIn1.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    02_KickIn2.wav:
+      Track_path: Kangoro - King Rascal\Kangoro - King Rascal_RAW\02_KickIn2.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    03_KickOut.wav:
+      Track_path: Kangoro - King Rascal\Kangoro - King Rascal_RAW\03_KickOut.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_Snare:
+    04_SnareUp.wav:
+      Track_path: Kangoro - King Rascal\Kangoro - King Rascal_RAW\04_SnareUp.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    05_SnareDown.wav:
+      Track_path: Kangoro - King Rascal\Kangoro - King Rascal_RAW\05_SnareDown.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    06_SnareSample.wav:
+      Track_path: Kangoro - King Rascal\Kangoro - King Rascal_RAW\06_SnareSample.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_HiHat:
+    07_HiHat.wav:
+      Track_path: Kangoro - King Rascal\Kangoro - King Rascal_RAW\07_HiHat.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_Cymbals: {}
+  Drum_Overheads:
+    11_OverheadStereo.wav:
+      Track_path: Kangoro - King Rascal\Kangoro - King Rascal_RAW\11_OverheadStereo.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    12_OverheadMono.wav:
+      Track_path: Kangoro - King Rascal\Kangoro - King Rascal_RAW\12_OverheadMono.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Tom:
+    08_Tom1.wav:
+      Track_path: Kangoro - King Rascal\Kangoro - King Rascal_RAW\08_Tom1.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    09_Tom2.wav:
+      Track_path: Kangoro - King Rascal\Kangoro - King Rascal_RAW\09_Tom2.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    10_Tom3.wav:
+      Track_path: Kangoro - King Rascal\Kangoro - King Rascal_RAW\10_Tom3.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_Room:
+    13_DrumsRoom.wav:
+      Track_path: Kangoro - King Rascal\Kangoro - King Rascal_RAW\13_DrumsRoom.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop:
+    16_Loop2.wav:
+      Track_path: Kangoro - King Rascal\Kangoro - King Rascal_RAW\16_Loop2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    17_Loop3.wav:
+      Track_path: Kangoro - King Rascal\Kangoro - King Rascal_RAW\17_Loop3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    18_Loop4.wav:
+      Track_path: Kangoro - King Rascal\Kangoro - King Rascal_RAW\18_Loop4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion:
+    14_Percussion.wav:
+      Track_path: Kangoro - King Rascal\Kangoro - King Rascal_RAW\14_Percussion.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Synth_Bass:
+    27_Bass1.wav:
+      Track_path: Kangoro - King Rascal\Kangoro - King Rascal_RAW\27_Bass1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    28_Bass2.wav:
+      Track_path: Kangoro - King Rascal\Kangoro - King Rascal_RAW\28_Bass2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Electric_Bass: {}
+  Acoustic_Guitar: {}
+  Electric_Guitar: {}
+  Piano: {}
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section:
+    30_StringsLoop.wav:
+      Track_path: Kangoro - King Rascal\Kangoro - King Rascal_RAW\30_StringsLoop.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute:
+    29_FluteLoop.wav:
+      Track_path: Kangoro - King Rascal\Kangoro - King Rascal_RAW\29_FluteLoop.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    35_LeadVox1.wav:
+      Track_path: Kangoro - King Rascal\Kangoro - King Rascal_RAW\35_LeadVox1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    36_Leadvox1DT.wav:
+      Track_path: Kangoro - King Rascal\Kangoro - King Rascal_RAW\36_Leadvox1DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    40_LeadVox2.wav:
+      Track_path: Kangoro - King Rascal\Kangoro - King Rascal_RAW\40_LeadVox2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    41_LeadVox2DT.wav:
+      Track_path: Kangoro - King Rascal\Kangoro - King Rascal_RAW\41_LeadVox2DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    43_MobVox1.wav:
+      Track_path: Kangoro - King Rascal\Kangoro - King Rascal_RAW\43_MobVox1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    44_MobVox2.wav:
+      Track_path: Kangoro - King Rascal\Kangoro - King Rascal_RAW\44_MobVox2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    45_MobVox3.wav:
+      Track_path: Kangoro - King Rascal\Kangoro - King Rascal_RAW\45_MobVox3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    46_MobVox4.wav:
+      Track_path: Kangoro - King Rascal\Kangoro - King Rascal_RAW\46_MobVox4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    50_MobVox8.wav:
+      Track_path: Kangoro - King Rascal\Kangoro - King Rascal_RAW\50_MobVox8.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Choir: {}
+  Backing_Vocal:
+    47_MobVox5.wav:
+      Track_path: Kangoro - King Rascal\Kangoro - King Rascal_RAW\47_MobVox5.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    48_MobVox6.wav:
+      Track_path: Kangoro - King Rascal\Kangoro - King Rascal_RAW\48_MobVox6.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    49_MobVox7.wav:
+      Track_path: Kangoro - King Rascal\Kangoro - King Rascal_RAW\49_MobVox7.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    37_Leadvox1Accents1.wav:
+      Track_path: Kangoro - King Rascal\Kangoro - King Rascal_RAW\37_Leadvox1Accents1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    38_Leadvox1Accents2.wav:
+      Track_path: Kangoro - King Rascal\Kangoro - King Rascal_RAW\38_Leadvox1Accents2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    39_Leadvox1Accents3.wav:
+      Track_path: Kangoro - King Rascal\Kangoro - King Rascal_RAW\39_Leadvox1Accents3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    42_LeadVox2Accents.wav:
+      Track_path: Kangoro - King Rascal\Kangoro - King Rascal_RAW\42_LeadVox2Accents.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    51_BackingVox01.wav:
+      Track_path: Kangoro - King Rascal\Kangoro - King Rascal_RAW\51_BackingVox01.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    52_BackingVox02.wav:
+      Track_path: Kangoro - King Rascal\Kangoro - King Rascal_RAW\52_BackingVox02.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    53_BackingVox03.wav:
+      Track_path: Kangoro - King Rascal\Kangoro - King Rascal_RAW\53_BackingVox03.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    54_BackingVox04.wav:
+      Track_path: Kangoro - King Rascal\Kangoro - King Rascal_RAW\54_BackingVox04.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    55_BackingVox05.wav:
+      Track_path: Kangoro - King Rascal\Kangoro - King Rascal_RAW\55_BackingVox05.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    56_BackingVox06.wav:
+      Track_path: Kangoro - King Rascal\Kangoro - King Rascal_RAW\56_BackingVox06.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    57_BackingVox07.wav:
+      Track_path: Kangoro - King Rascal\Kangoro - King Rascal_RAW\57_BackingVox07.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    58_BackingVox08.wav:
+      Track_path: Kangoro - King Rascal\Kangoro - King Rascal_RAW\58_BackingVox08.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    59_BackingVox09.wav:
+      Track_path: Kangoro - King Rascal\Kangoro - King Rascal_RAW\59_BackingVox09.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    60_BackingVox10.wav:
+      Track_path: Kangoro - King Rascal\Kangoro - King Rascal_RAW\60_BackingVox10.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    61_BackingVox11.wav:
+      Track_path: Kangoro - King Rascal\Kangoro - King Rascal_RAW\61_BackingVox11.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    62_BackingVox12.wav:
+      Track_path: Kangoro - King Rascal\Kangoro - King Rascal_RAW\62_BackingVox12.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    63_BackingVox13.wav:
+      Track_path: Kangoro - King Rascal\Kangoro - King Rascal_RAW\63_BackingVox13.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    64_BackingVox14.wav:
+      Track_path: Kangoro - King Rascal\Kangoro - King Rascal_RAW\64_BackingVox14.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    65_BackingVox15.wav:
+      Track_path: Kangoro - King Rascal\Kangoro - King Rascal_RAW\65_BackingVox15.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    66_BackingVox16.wav:
+      Track_path: Kangoro - King Rascal\Kangoro - King Rascal_RAW\66_BackingVox16.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    67_BackingVox17.wav:
+      Track_path: Kangoro - King Rascal\Kangoro - King Rascal_RAW\67_BackingVox17.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Unused:
+    15_Loop1.wav:
+      Track_path: Kangoro - King Rascal\Kangoro - King Rascal_RAW\15_Loop1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: 'contains tonal content'
+    19_Break.wav:
+      Track_path: Kangoro - King Rascal\Kangoro - King Rascal_RAW\19_Break.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: 'contains tonal content'
+    68_Laugh1.wav:
+      Track_path: Kangoro - King Rascal\Kangoro - King Rascal_RAW\68_Laugh1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    69_Laugh2.wav:
+      Track_path: Kangoro - King Rascal\Kangoro - King Rascal_RAW\69_Laugh2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Ambient_Microphone: {}

@@ -1,0 +1,218 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer: {}
+  SFX: {}
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    01_Kick.wav:
+      Track_path: Diesel13 - Roar\Diesel13 - Roar_RAW\01_Kick.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_Snare:
+    02_Snare.wav:
+      Track_path: Diesel13 - Roar\Diesel13 - Roar_RAW\02_Snare.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_HiHat: {}
+  Drum_Cymbals:
+    06_CymbalsOD.wav:
+      Track_path: Diesel13 - Roar\Diesel13 - Roar_RAW\06_CymbalsOD.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Overheads:
+    04_Overheads.wav:
+      Track_path: Diesel13 - Roar\Diesel13 - Roar_RAW\04_Overheads.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Tom:
+    03_Tom.wav:
+      Track_path: Diesel13 - Roar\Diesel13 - Roar_RAW\03_Tom.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_Room:
+    05_DrumsRoom.wav:
+      Track_path: Diesel13 - Roar\Diesel13 - Roar_RAW\05_DrumsRoom.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine:
+    08_Tambourine.wav:
+      Track_path: Diesel13 - Roar\Diesel13 - Roar_RAW\08_Tambourine.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Loop: {}
+  Clicks: {}
+  Claps:
+    09_Claps.wav:
+      Track_path: Diesel13 - Roar\Diesel13 - Roar_RAW\09_Claps.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion:
+    07_Stomps.wav:
+      Track_path: Diesel13 - Roar\Diesel13 - Roar_RAW\07_Stomps.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Synth_Bass: {}
+  Electric_Bass:
+    10_BassDI.wav:
+      Track_path: Diesel13 - Roar\Diesel13 - Roar_RAW\10_BassDI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    11_BassAmp.wav:
+      Track_path: Diesel13 - Roar\Diesel13 - Roar_RAW\11_BassAmp.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Acoustic_Guitar:
+    12_AcousticGtr1.wav:
+      Track_path: Diesel13 - Roar\Diesel13 - Roar_RAW\12_AcousticGtr1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    13_AcousticGtr2.wav:
+      Track_path: Diesel13 - Roar\Diesel13 - Roar_RAW\13_AcousticGtr2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    14_AcousticGtr3.wav:
+      Track_path: Diesel13 - Roar\Diesel13 - Roar_RAW\14_AcousticGtr3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    15_AcousticGtr4.wav:
+      Track_path: Diesel13 - Roar\Diesel13 - Roar_RAW\15_AcousticGtr4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    16_Banjo.wav:
+      Track_path: Diesel13 - Roar\Diesel13 - Roar_RAW\16_Banjo.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Electric_Guitar: {}
+  Piano: {}
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    17_LeadVox.wav:
+      Track_path: Diesel13 - Roar\Diesel13 - Roar_RAW\17_LeadVox.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Choir: {}
+  Backing_Vocal:
+    18_BackingVox1.wav:
+      Track_path: Diesel13 - Roar\Diesel13 - Roar_RAW\18_BackingVox1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    19_BackingVox1DT.wav:
+      Track_path: Diesel13 - Roar\Diesel13 - Roar_RAW\19_BackingVox1DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    20_BackingVox2.wav:
+      Track_path: Diesel13 - Roar\Diesel13 - Roar_RAW\20_BackingVox2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    21_BackingVox2DT.wav:
+      Track_path: Diesel13 - Roar\Diesel13 - Roar_RAW\21_BackingVox2DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    22_BackingVox3.wav:
+      Track_path: Diesel13 - Roar\Diesel13 - Roar_RAW\22_BackingVox3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    23_BackingVox3DT.wav:
+      Track_path: Diesel13 - Roar\Diesel13 - Roar_RAW\23_BackingVox3DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    24_BackingVox4.wav:
+      Track_path: Diesel13 - Roar\Diesel13 - Roar_RAW\24_BackingVox4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    25_BackingVox4DT.wav:
+      Track_path: Diesel13 - Roar\Diesel13 - Roar_RAW\25_BackingVox4DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    26_BackingVox5.wav:
+      Track_path: Diesel13 - Roar\Diesel13 - Roar_RAW\26_BackingVox5.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    27_BackingVox5DT1.wav:
+      Track_path: Diesel13 - Roar\Diesel13 - Roar_RAW\27_BackingVox5DT1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    28_BackingVox5DT2.wav:
+      Track_path: Diesel13 - Roar\Diesel13 - Roar_RAW\28_BackingVox5DT2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    29_BackingVox5DT3.wav:
+      Track_path: Diesel13 - Roar\Diesel13 - Roar_RAW\29_BackingVox5DT3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Unused: {}
+  Ambient_Microphone: {}

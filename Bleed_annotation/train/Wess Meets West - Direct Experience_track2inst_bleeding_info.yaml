@@ -1,0 +1,433 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer: {}
+  SFX:
+    19_SFX1.wav:
+      Track_path: Wess Meets West - Direct Experience\Wess Meets West - Direct Experience_RAW\19_SFX1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    20_SFX2.wav:
+      Track_path: Wess Meets West - Direct Experience\Wess Meets West - Direct Experience_RAW\20_SFX2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    21_SFX3.wav:
+      Track_path: Wess Meets West - Direct Experience\Wess Meets West - Direct Experience_RAW\21_SFX3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    01_KickIn.wav:
+      Track_path: Wess Meets West - Direct Experience\Wess Meets West - Direct Experience_RAW\01_KickIn.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    02_KickSample.wav:
+      Track_path: Wess Meets West - Direct Experience\Wess Meets West - Direct Experience_RAW\02_KickSample.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Snare:
+    03_SnareUp.wav:
+      Track_path: Wess Meets West - Direct Experience\Wess Meets West - Direct Experience_RAW\03_SnareUp.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    04_SnareSample.wav:
+      Track_path: Wess Meets West - Direct Experience\Wess Meets West - Direct Experience_RAW\04_SnareSample.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_HiHat:
+    07_HiHat.wav:
+      Track_path: Wess Meets West - Direct Experience\Wess Meets West - Direct Experience_RAW\07_HiHat.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_Cymbals:
+    17_CymbalSwell1.wav:
+      Track_path: Wess Meets West - Direct Experience\Wess Meets West - Direct Experience_RAW\17_CymbalSwell1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    18_CymbalSwell2.wav:
+      Track_path: Wess Meets West - Direct Experience\Wess Meets West - Direct Experience_RAW\18_CymbalSwell2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Overheads:
+    08_Overheads.wav:
+      Track_path: Wess Meets West - Direct Experience\Wess Meets West - Direct Experience_RAW\08_Overheads.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Tom:
+    05_Tom1.wav:
+      Track_path: Wess Meets West - Direct Experience\Wess Meets West - Direct Experience_RAW\05_Tom1.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    06_Tom2.wav:
+      Track_path: Wess Meets West - Direct Experience\Wess Meets West - Direct Experience_RAW\06_Tom2.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_Room:
+    09_DrumsRoomMono1.wav:
+      Track_path: Wess Meets West - Direct Experience\Wess Meets West - Direct Experience_RAW\09_DrumsRoomMono1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    10_DrumsRoomMono2.wav:
+      Track_path: Wess Meets West - Direct Experience\Wess Meets West - Direct Experience_RAW\10_DrumsRoomMono2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    11_DrumsRoomMono3.wav:
+      Track_path: Wess Meets West - Direct Experience\Wess Meets West - Direct Experience_RAW\11_DrumsRoomMono3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    12_DrumsRoomStereo1.wav:
+      Track_path: Wess Meets West - Direct Experience\Wess Meets West - Direct Experience_RAW\12_DrumsRoomStereo1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    13_DrumsRoomStereo2.wav:
+      Track_path: Wess Meets West - Direct Experience\Wess Meets West - Direct Experience_RAW\13_DrumsRoomStereo2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Shaker:
+    16_Shaker.wav:
+      Track_path: Wess Meets West - Direct Experience\Wess Meets West - Direct Experience_RAW\16_Shaker.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine:
+    14_Tambourine1.wav:
+      Track_path: Wess Meets West - Direct Experience\Wess Meets West - Direct Experience_RAW\14_Tambourine1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    15_Tambourine2.wav:
+      Track_path: Wess Meets West - Direct Experience\Wess Meets West - Direct Experience_RAW\15_Tambourine2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Loop: {}
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass: {}
+  Electric_Bass:
+    22_Bass1.wav:
+      Track_path: Wess Meets West - Direct Experience\Wess Meets West - Direct Experience_RAW\22_Bass1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    23_Bass2DI.wav:
+      Track_path: Wess Meets West - Direct Experience\Wess Meets West - Direct Experience_RAW\23_Bass2DI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    24_Bass2Amp.wav:
+      Track_path: Wess Meets West - Direct Experience\Wess Meets West - Direct Experience_RAW\24_Bass2Amp.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Acoustic_Guitar:
+    56_AcousticGtr.wav:
+      Track_path: Wess Meets West - Direct Experience\Wess Meets West - Direct Experience_RAW\56_AcousticGtr.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    55_Ukelele.wav:
+      Track_path: Wess Meets West - Direct Experience\Wess Meets West - Direct Experience_RAW\55_Ukelele.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Electric_Guitar:
+    25_ElecGtr01Mic1.wav:
+      Track_path: Wess Meets West - Direct Experience\Wess Meets West - Direct Experience_RAW\25_ElecGtr01Mic1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    26_ElecGtr01Mic2.wav:
+      Track_path: Wess Meets West - Direct Experience\Wess Meets West - Direct Experience_RAW\26_ElecGtr01Mic2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    27_ElecGtr01DTMic1.wav:
+      Track_path: Wess Meets West - Direct Experience\Wess Meets West - Direct Experience_RAW\27_ElecGtr01DTMic1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    28_ElecGtr01DTMic2.wav:
+      Track_path: Wess Meets West - Direct Experience\Wess Meets West - Direct Experience_RAW\28_ElecGtr01DTMic2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    29_ElecGtr02Mic1.wav:
+      Track_path: Wess Meets West - Direct Experience\Wess Meets West - Direct Experience_RAW\29_ElecGtr02Mic1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    30_ElecGtr02Mic2.wav:
+      Track_path: Wess Meets West - Direct Experience\Wess Meets West - Direct Experience_RAW\30_ElecGtr02Mic2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    31_ElecGtr03Mic1.wav:
+      Track_path: Wess Meets West - Direct Experience\Wess Meets West - Direct Experience_RAW\31_ElecGtr03Mic1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    32_ElecGtr03Mic2.wav:
+      Track_path: Wess Meets West - Direct Experience\Wess Meets West - Direct Experience_RAW\32_ElecGtr03Mic2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    33_ElecGtr04Mic1.wav:
+      Track_path: Wess Meets West - Direct Experience\Wess Meets West - Direct Experience_RAW\33_ElecGtr04Mic1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    34_ElecGtr04Mic2.wav:
+      Track_path: Wess Meets West - Direct Experience\Wess Meets West - Direct Experience_RAW\34_ElecGtr04Mic2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    35_ElecGtr05Mic1.wav:
+      Track_path: Wess Meets West - Direct Experience\Wess Meets West - Direct Experience_RAW\35_ElecGtr05Mic1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    36_ElecGtr05Mic2.wav:
+      Track_path: Wess Meets West - Direct Experience\Wess Meets West - Direct Experience_RAW\36_ElecGtr05Mic2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    37_ElecGtr05DTMic1.wav:
+      Track_path: Wess Meets West - Direct Experience\Wess Meets West - Direct Experience_RAW\37_ElecGtr05DTMic1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    38_ElecGtr05DTMic2.wav:
+      Track_path: Wess Meets West - Direct Experience\Wess Meets West - Direct Experience_RAW\38_ElecGtr05DTMic2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    39_ElecGtr06Mic1.wav:
+      Track_path: Wess Meets West - Direct Experience\Wess Meets West - Direct Experience_RAW\39_ElecGtr06Mic1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    40_ElecGtr06Mic2.wav:
+      Track_path: Wess Meets West - Direct Experience\Wess Meets West - Direct Experience_RAW\40_ElecGtr06Mic2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    41_ElecGtr06DTMic1.wav:
+      Track_path: Wess Meets West - Direct Experience\Wess Meets West - Direct Experience_RAW\41_ElecGtr06DTMic1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    42_ElecGtr06DTMic2.wav:
+      Track_path: Wess Meets West - Direct Experience\Wess Meets West - Direct Experience_RAW\42_ElecGtr06DTMic2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    43_ElecGtr07Mic1.wav:
+      Track_path: Wess Meets West - Direct Experience\Wess Meets West - Direct Experience_RAW\43_ElecGtr07Mic1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    44_ElecGtr07Mic2.wav:
+      Track_path: Wess Meets West - Direct Experience\Wess Meets West - Direct Experience_RAW\44_ElecGtr07Mic2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    45_ElecGtr08Mic1.wav:
+      Track_path: Wess Meets West - Direct Experience\Wess Meets West - Direct Experience_RAW\45_ElecGtr08Mic1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    46_ElecGtr08Mic2.wav:
+      Track_path: Wess Meets West - Direct Experience\Wess Meets West - Direct Experience_RAW\46_ElecGtr08Mic2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    47_ElecGtr08DTMic1.wav:
+      Track_path: Wess Meets West - Direct Experience\Wess Meets West - Direct Experience_RAW\47_ElecGtr08DTMic1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    48_ElecGtr08DTMic2.wav:
+      Track_path: Wess Meets West - Direct Experience\Wess Meets West - Direct Experience_RAW\48_ElecGtr08DTMic2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    49_ElecGtr09Mic1.wav:
+      Track_path: Wess Meets West - Direct Experience\Wess Meets West - Direct Experience_RAW\49_ElecGtr09Mic1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    50_ElecGtr09Mic2.wav:
+      Track_path: Wess Meets West - Direct Experience\Wess Meets West - Direct Experience_RAW\50_ElecGtr09Mic2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    51_ElecGtr10Mic1.wav:
+      Track_path: Wess Meets West - Direct Experience\Wess Meets West - Direct Experience_RAW\51_ElecGtr10Mic1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    52_ElecGtr10Mic2.wav:
+      Track_path: Wess Meets West - Direct Experience\Wess Meets West - Direct Experience_RAW\52_ElecGtr10Mic2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    53_ElecGtr10DTMic1.wav:
+      Track_path: Wess Meets West - Direct Experience\Wess Meets West - Direct Experience_RAW\53_ElecGtr10DTMic1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    54_ElecGtr10DTMic2.wav:
+      Track_path: Wess Meets West - Direct Experience\Wess Meets West - Direct Experience_RAW\54_ElecGtr10DTMic2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Piano:
+    58_Piano.wav:
+      Track_path: Wess Meets West - Direct Experience\Wess Meets West - Direct Experience_RAW\58_Piano.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Electric_Piano:
+    57_Keys.wav:
+      Track_path: Wess Meets West - Direct Experience\Wess Meets West - Direct Experience_RAW\57_Keys.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    59_Rhodes.wav:
+      Track_path: Wess Meets West - Direct Experience\Wess Meets West - Direct Experience_RAW\59_Rhodes.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    60_Rhodes2.wav:
+      Track_path: Wess Meets West - Direct Experience\Wess Meets West - Direct Experience_RAW\60_Rhodes2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    61_Rhodes3.wav:
+      Track_path: Wess Meets West - Direct Experience\Wess Meets West - Direct Experience_RAW\61_Rhodes3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn:
+    62_FrenchHorn.wav:
+      Track_path: Wess Meets West - Direct Experience\Wess Meets West - Direct Experience_RAW\62_FrenchHorn.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass:
+    67_Bass.wav:
+      Track_path: Wess Meets West - Direct Experience\Wess Meets West - Direct Experience_RAW\67_Bass.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Violin:
+    63_Violin1.wav:
+      Track_path: Wess Meets West - Direct Experience\Wess Meets West - Direct Experience_RAW\63_Violin1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    64_Violin2.wav:
+      Track_path: Wess Meets West - Direct Experience\Wess Meets West - Direct Experience_RAW\64_Violin2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Viola:
+    65_Viola.wav:
+      Track_path: Wess Meets West - Direct Experience\Wess Meets West - Direct Experience_RAW\65_Viola.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Cello:
+    66_Cello.wav:
+      Track_path: Wess Meets West - Direct Experience\Wess Meets West - Direct Experience_RAW\66_Cello.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal: {}
+  Choir: {}
+  Backing_Vocal:
+    68_Vox1.wav:
+      Track_path: Wess Meets West - Direct Experience\Wess Meets West - Direct Experience_RAW\68_Vox1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    69_Vox2.wav:
+      Track_path: Wess Meets West - Direct Experience\Wess Meets West - Direct Experience_RAW\69_Vox2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    70_Vox3.wav:
+      Track_path: Wess Meets West - Direct Experience\Wess Meets West - Direct Experience_RAW\70_Vox3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    71_Vox4.wav:
+      Track_path: Wess Meets West - Direct Experience\Wess Meets West - Direct Experience_RAW\71_Vox4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    72_Vox5.wav:
+      Track_path: Wess Meets West - Direct Experience\Wess Meets West - Direct Experience_RAW\72_Vox5.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Unused: {}
+  Ambient_Microphone: {}

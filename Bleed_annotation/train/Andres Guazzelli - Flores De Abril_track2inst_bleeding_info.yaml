@@ -1,0 +1,139 @@
+Track2inst:
+  Electric_Organ:
+    04_Hammond1.wav:
+      Track_path: Andres Guazzelli - Flores De Abril\Andres Guazzelli - Flores De
+        Abril_RAW\04_Hammond1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    05_Hammond2.wav:
+      Track_path: Andres Guazzelli - Flores De Abril\Andres Guazzelli - Flores De
+        Abril_RAW\05_Hammond2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Synthesizer:
+    06_Synth1.wav:
+      Track_path: Andres Guazzelli - Flores De Abril\Andres Guazzelli - Flores De
+        Abril_RAW\06_Synth1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    07_Synth2.wav:
+      Track_path: Andres Guazzelli - Flores De Abril\Andres Guazzelli - Flores De
+        Abril_RAW\07_Synth2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  SFX: {}
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick: {}
+  Drum_Snare: {}
+  Drum_HiHat: {}
+  Drum_Cymbals: {}
+  Drum_Overheads: {}
+  Drum_Tom: {}
+  Drum_Room: {}
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop: {}
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass: {}
+  Electric_Bass:
+    01_Bass.wav:
+      Track_path: Andres Guazzelli - Flores De Abril\Andres Guazzelli - Flores De
+        Abril_RAW\01_Bass.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Acoustic_Guitar: {}
+  Electric_Guitar:
+    08_ElecGtr1.wav:
+      Track_path: Andres Guazzelli - Flores De Abril\Andres Guazzelli - Flores De
+        Abril_RAW\08_ElecGtr1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    09_ElecGtr2.wav:
+      Track_path: Andres Guazzelli - Flores De Abril\Andres Guazzelli - Flores De
+        Abril_RAW\09_ElecGtr2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    10_ElecGtr3.wav:
+      Track_path: Andres Guazzelli - Flores De Abril\Andres Guazzelli - Flores De
+        Abril_RAW\10_ElecGtr3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    11_ElecGtr4.wav:
+      Track_path: Andres Guazzelli - Flores De Abril\Andres Guazzelli - Flores De
+        Abril_RAW\11_ElecGtr4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Piano:
+    02_Piano.wav:
+      Track_path: Andres Guazzelli - Flores De Abril\Andres Guazzelli - Flores De
+        Abril_RAW\02_Piano.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    03_PianoSFX.wav:
+      Track_path: Andres Guazzelli - Flores De Abril\Andres Guazzelli - Flores De
+        Abril_RAW\03_PianoSFX.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal: {}
+  Choir: {}
+  Backing_Vocal: {}
+  Unused: {}
+  Ambient_Microphone: {}

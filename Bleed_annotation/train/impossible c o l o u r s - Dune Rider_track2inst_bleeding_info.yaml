@@ -1,0 +1,271 @@
+Track2inst:
+  Electric_Organ:
+    23_Hammond01.wav:
+      Track_path: impossible c o l o u r s - Dune Rider\impossible c o l o u r s -
+        Dune Rider_RAW\23_Hammond01.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    24_Hammond02.wav:
+      Track_path: impossible c o l o u r s - Dune Rider\impossible c o l o u r s -
+        Dune Rider_RAW\24_Hammond02.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Synthesizer: {}
+  SFX: {}
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    01_Kick.wav:
+      Track_path: impossible c o l o u r s - Dune Rider\impossible c o l o u r s -
+        Dune Rider_RAW\01_Kick.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads, Electric_Bass'
+      Comment: ''
+  Drum_Snare:
+    02_Snare.wav:
+      Track_path: impossible c o l o u r s - Dune Rider\impossible c o l o u r s -
+        Dune Rider_RAW\02_Snare.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads, Electric_Bass'
+      Comment: ''
+  Drum_HiHat:
+    03_Hat.wav:
+      Track_path: impossible c o l o u r s - Dune Rider\impossible c o l o u r s -
+        Dune Rider_RAW\03_Hat.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads, Electric_Bass'
+      Comment: ''
+  Drum_Cymbals:
+    04_Ride.wav:
+      Track_path: impossible c o l o u r s - Dune Rider\impossible c o l o u r s -
+        Dune Rider_RAW\04_Ride.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads, Electric_Bass'
+      Comment: ''
+    10_CymbalsOD1.wav:
+      Track_path: impossible c o l o u r s - Dune Rider\impossible c o l o u r s -
+        Dune Rider_RAW\10_CymbalsOD1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    11_CymbalsOD2.wav:
+      Track_path: impossible c o l o u r s - Dune Rider\impossible c o l o u r s -
+        Dune Rider_RAW\11_CymbalsOD2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Overheads:
+    05_Overheads1.wav:
+      Track_path: impossible c o l o u r s - Dune Rider\impossible c o l o u r s -
+        Dune Rider_RAW\05_Overheads1.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Electric_Bass'
+      Comment: ''
+    06_Overheads2.wav:
+      Track_path: impossible c o l o u r s - Dune Rider\impossible c o l o u r s -
+        Dune Rider_RAW\06_Overheads2.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Electric_Bass'
+      Comment: ''
+  Drum_Tom:
+    07_Tom1.wav:
+      Track_path: impossible c o l o u r s - Dune Rider\impossible c o l o u r s -
+        Dune Rider_RAW\07_Tom1.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: ''
+      Comment: ''
+    08_Tom2.wav:
+      Track_path: impossible c o l o u r s - Dune Rider\impossible c o l o u r s -
+        Dune Rider_RAW\08_Tom2.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: ''
+      Comment: ''
+    09_Tom3.wav:
+      Track_path: impossible c o l o u r s - Dune Rider\impossible c o l o u r s -
+        Dune Rider_RAW\09_Tom3.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Room: {}
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop: {}
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass: {}
+  Electric_Bass:
+    12_BassDI.wav:
+      Track_path: impossible c o l o u r s - Dune Rider\impossible c o l o u r s -
+        Dune Rider_RAW\12_BassDI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    13_BassAmp.wav:
+      Track_path: impossible c o l o u r s - Dune Rider\impossible c o l o u r s -
+        Dune Rider_RAW\13_BassAmp.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads'
+      Comment: ''
+  Acoustic_Guitar: {}
+  Electric_Guitar:
+    14_Gtr01.wav:
+      Track_path: impossible c o l o u r s - Dune Rider\impossible c o l o u r s -
+        Dune Rider_RAW\14_Gtr01.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    15_Gtr02.wav:
+      Track_path: impossible c o l o u r s - Dune Rider\impossible c o l o u r s -
+        Dune Rider_RAW\15_Gtr02.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    16_Gtr03.wav:
+      Track_path: impossible c o l o u r s - Dune Rider\impossible c o l o u r s -
+        Dune Rider_RAW\16_Gtr03.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    17_Gtr04.wav:
+      Track_path: impossible c o l o u r s - Dune Rider\impossible c o l o u r s -
+        Dune Rider_RAW\17_Gtr04.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    18_Gtr05.wav:
+      Track_path: impossible c o l o u r s - Dune Rider\impossible c o l o u r s -
+        Dune Rider_RAW\18_Gtr05.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    19_Gtr06.wav:
+      Track_path: impossible c o l o u r s - Dune Rider\impossible c o l o u r s -
+        Dune Rider_RAW\19_Gtr06.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    20_Gtr07.wav:
+      Track_path: impossible c o l o u r s - Dune Rider\impossible c o l o u r s -
+        Dune Rider_RAW\20_Gtr07.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    21_Gtr08.wav:
+      Track_path: impossible c o l o u r s - Dune Rider\impossible c o l o u r s -
+        Dune Rider_RAW\21_Gtr08.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    22_Gtr09.wav:
+      Track_path: impossible c o l o u r s - Dune Rider\impossible c o l o u r s -
+        Dune Rider_RAW\22_Gtr09.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Piano: {}
+  Electric_Piano:
+    25_Rhodes.wav:
+      Track_path: impossible c o l o u r s - Dune Rider\impossible c o l o u r s -
+        Dune Rider_RAW\25_Rhodes.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    26_RhodesSFX.wav:
+      Track_path: impossible c o l o u r s - Dune Rider\impossible c o l o u r s -
+        Dune Rider_RAW\26_RhodesSFX.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    27_LeadVox01.wav:
+      Track_path: impossible c o l o u r s - Dune Rider\impossible c o l o u r s -
+        Dune Rider_RAW\27_LeadVox01.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    28_LeadVox02.wav:
+      Track_path: impossible c o l o u r s - Dune Rider\impossible c o l o u r s -
+        Dune Rider_RAW\28_LeadVox02.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    29_LeadVox02DT.wav:
+      Track_path: impossible c o l o u r s - Dune Rider\impossible c o l o u r s -
+        Dune Rider_RAW\29_LeadVox02DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    30_LeadVox03.wav:
+      Track_path: impossible c o l o u r s - Dune Rider\impossible c o l o u r s -
+        Dune Rider_RAW\30_LeadVox03.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    31_LeadVox03DT.wav:
+      Track_path: impossible c o l o u r s - Dune Rider\impossible c o l o u r s -
+        Dune Rider_RAW\31_LeadVox03DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Choir: {}
+  Backing_Vocal:
+    32_BackingVox01.wav:
+      Track_path: impossible c o l o u r s - Dune Rider\impossible c o l o u r s -
+        Dune Rider_RAW\32_BackingVox01.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    33_BackingVox02.wav:
+      Track_path: impossible c o l o u r s - Dune Rider\impossible c o l o u r s -
+        Dune Rider_RAW\33_BackingVox02.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Unused: {}
+  Ambient_Microphone: {}

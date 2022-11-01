@@ -1,0 +1,119 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer: {}
+  SFX: {}
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick: {}
+  Drum_Snare: {}
+  Drum_HiHat: {}
+  Drum_Cymbals: {}
+  Drum_Overheads: {}
+  Drum_Tom: {}
+  Drum_Room: {}
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop: {}
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass: {}
+  Electric_Bass: {}
+  Acoustic_Guitar:
+    Acoustic Guitar-M60.wav:
+      Track_path: Tall Heights - Spirit Cold\Tall Heights - Spirit Cold_RAW\Acoustic
+        Guitar-M60.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Lead_Vocal'
+      Comment: ''
+  Electric_Guitar:
+    TIm amp-M81.wav:
+      Track_path: Tall Heights - Spirit Cold\Tall Heights - Spirit Cold_RAW\TIm amp-M81.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Piano: {}
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello:
+    Paul Amp-M81.wav:
+      Track_path: Tall Heights - Spirit Cold\Tall Heights - Spirit Cold_RAW\Paul Amp-M81.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Paul-DI.wav:
+      Track_path: Tall Heights - Spirit Cold\Tall Heights - Spirit Cold_RAW\Paul-DI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Cello-M60.wav:
+      Track_path: Tall Heights - Spirit Cold\Tall Heights - Spirit Cold_RAW\Cello-M60.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Lead_Vocal, Acoustic_Guitar'
+      Comment: ''
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    Vocals-Tim-CU29.wav:
+      Track_path: Tall Heights - Spirit Cold\Tall Heights - Spirit Cold_RAW\Vocals-Tim-CU29.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Acoustic_Guitar, Cello, Backing_Vocal'
+      Comment: ''
+  Choir: {}
+  Backing_Vocal:
+    Vocals-Paul-CU29.wav:
+      Track_path: Tall Heights - Spirit Cold\Tall Heights - Spirit Cold_RAW\Vocals-Paul-CU29.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Lead_Vocal, Cello'
+      Comment: ''
+  Unused: {}
+  Ambient_Microphone:
+    Room-AR70.wav:
+      Track_path: Tall Heights - Spirit Cold\Tall Heights - Spirit Cold_RAW\Room-AR70.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Room-Piano-U47.wav:
+      Track_path: Tall Heights - Spirit Cold\Tall Heights - Spirit Cold_RAW\Room-Piano-U47.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: ''
+      Comment: ''

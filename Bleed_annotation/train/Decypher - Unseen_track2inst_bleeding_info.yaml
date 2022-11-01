@@ -1,0 +1,218 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer: {}
+  SFX: {}
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    01_Kick.wav:
+      Track_path: Decypher - Unseen\Decypher - Unseen_RAW\01_Kick.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads'
+      Comment: ''
+  Drum_Snare:
+    03_Snare.wav:
+      Track_path: Decypher - Unseen\Decypher - Unseen_RAW\03_Snare.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads'
+      Comment: ''
+  Drum_HiHat: {}
+  Drum_Cymbals: {}
+  Drum_Overheads:
+    09_Overheads.wav:
+      Track_path: Decypher - Unseen\Decypher - Unseen_RAW\09_Overheads.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Tom:
+    05_Tom1.wav:
+      Track_path: Decypher - Unseen\Decypher - Unseen_RAW\05_Tom1.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads'
+      Comment: ''
+    06_Tom2.wav:
+      Track_path: Decypher - Unseen\Decypher - Unseen_RAW\06_Tom2.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads'
+      Comment: ''
+    07_Tom3.wav:
+      Track_path: Decypher - Unseen\Decypher - Unseen_RAW\07_Tom3.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads'
+      Comment: ''
+    08_Tom4.wav:
+      Track_path: Decypher - Unseen\Decypher - Unseen_RAW\08_Tom4.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads'
+      Comment: ''
+  Drum_Room: {}
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop: {}
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass: {}
+  Electric_Bass:
+    10_Bass1DI.wav:
+      Track_path: Decypher - Unseen\Decypher - Unseen_RAW\10_Bass1DI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    11_Bass1Mic1.wav:
+      Track_path: Decypher - Unseen\Decypher - Unseen_RAW\11_Bass1Mic1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    12_Bass1Mic2.wav:
+      Track_path: Decypher - Unseen\Decypher - Unseen_RAW\12_Bass1Mic2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    13_Bass2DI.wav:
+      Track_path: Decypher - Unseen\Decypher - Unseen_RAW\13_Bass2DI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    14_Bass2Mic1.wav:
+      Track_path: Decypher - Unseen\Decypher - Unseen_RAW\14_Bass2Mic1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    15_Bass2Mic2.wav:
+      Track_path: Decypher - Unseen\Decypher - Unseen_RAW\15_Bass2Mic2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Acoustic_Guitar: {}
+  Electric_Guitar:
+    16_ElecGtr01DI.wav:
+      Track_path: Decypher - Unseen\Decypher - Unseen_RAW\16_ElecGtr01DI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    17_ElecGtr01Mic1.wav:
+      Track_path: Decypher - Unseen\Decypher - Unseen_RAW\17_ElecGtr01Mic1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    18_ElecGtr01Mic2.wav:
+      Track_path: Decypher - Unseen\Decypher - Unseen_RAW\18_ElecGtr01Mic2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    19_ElecGtr01DTDI.wav:
+      Track_path: Decypher - Unseen\Decypher - Unseen_RAW\19_ElecGtr01DTDI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    20_ElecGtr01DTMic1.wav:
+      Track_path: Decypher - Unseen\Decypher - Unseen_RAW\20_ElecGtr01DTMic1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    21_ElecGtr01DTMic2.wav:
+      Track_path: Decypher - Unseen\Decypher - Unseen_RAW\21_ElecGtr01DTMic2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    22_ElecGtr02DI.wav:
+      Track_path: Decypher - Unseen\Decypher - Unseen_RAW\22_ElecGtr02DI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    23_ElecGtr02DIMic1.wav:
+      Track_path: Decypher - Unseen\Decypher - Unseen_RAW\23_ElecGtr02DIMic1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    24_ElecGtr02DIMic2.wav:
+      Track_path: Decypher - Unseen\Decypher - Unseen_RAW\24_ElecGtr02DIMic2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    25_ElecGtr02DTDI.wav:
+      Track_path: Decypher - Unseen\Decypher - Unseen_RAW\25_ElecGtr02DTDI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    26_ElecGtr02DTMic1.wav:
+      Track_path: Decypher - Unseen\Decypher - Unseen_RAW\26_ElecGtr02DTMic1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    27_ElecGtr02DTMic2.wav:
+      Track_path: Decypher - Unseen\Decypher - Unseen_RAW\27_ElecGtr02DTMic2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Piano: {}
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    28_LeadVox.wav:
+      Track_path: Decypher - Unseen\Decypher - Unseen_RAW\28_LeadVox.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    29_LeadVoxDT.wav:
+      Track_path: Decypher - Unseen\Decypher - Unseen_RAW\29_LeadVoxDT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Choir: {}
+  Backing_Vocal: {}
+  Unused:
+    02_KickTrigger.wav:
+      Track_path: Decypher - Unseen\Decypher - Unseen_RAW\02_KickTrigger.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    04_SnareTrigger.wav:
+      Track_path: Decypher - Unseen\Decypher - Unseen_RAW\04_SnareTrigger.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Ambient_Microphone: {}

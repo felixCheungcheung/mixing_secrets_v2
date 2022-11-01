@@ -1,0 +1,218 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer:
+    26_Synth.wav:
+      Track_path: V.M.GY - The Crown\V.M.GY - The Crown_RAW\26_Synth.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  SFX: {}
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    01_Kick1.wav:
+      Track_path: V.M.GY - The Crown\V.M.GY - The Crown_RAW\01_Kick1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    02_Kick2.wav:
+      Track_path: V.M.GY - The Crown\V.M.GY - The Crown_RAW\02_Kick2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    03_Kick3.wav:
+      Track_path: V.M.GY - The Crown\V.M.GY - The Crown_RAW\03_Kick3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Snare:
+    04_Snare1.wav:
+      Track_path: V.M.GY - The Crown\V.M.GY - The Crown_RAW\04_Snare1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    05_Snare2.wav:
+      Track_path: V.M.GY - The Crown\V.M.GY - The Crown_RAW\05_Snare2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_HiHat:
+    06_06_Kt. HH.wav:
+      Track_path: V.M.GY - The Crown\V.M.GY - The Crown_RAW\06_06_Kt. HH.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Cymbals: {}
+  Drum_Overheads:
+    13_Overheads.wav:
+      Track_path: V.M.GY - The Crown\V.M.GY - The Crown_RAW\13_Overheads.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Tom:
+    07_Tom1.wav:
+      Track_path: V.M.GY - The Crown\V.M.GY - The Crown_RAW\07_Tom1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    08_Tom2.wav:
+      Track_path: V.M.GY - The Crown\V.M.GY - The Crown_RAW\08_Tom2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    09_Tom3.wav:
+      Track_path: V.M.GY - The Crown\V.M.GY - The Crown_RAW\09_Tom3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    10_Tom4.wav:
+      Track_path: V.M.GY - The Crown\V.M.GY - The Crown_RAW\10_Tom4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    11_Tom5.wav:
+      Track_path: V.M.GY - The Crown\V.M.GY - The Crown_RAW\11_Tom5.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    12_Tom6.wav:
+      Track_path: V.M.GY - The Crown\V.M.GY - The Crown_RAW\12_Tom6.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Room:
+    14_DrumsRoom1.wav:
+      Track_path: V.M.GY - The Crown\V.M.GY - The Crown_RAW\14_DrumsRoom1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    15_DrumsRoom2.wav:
+      Track_path: V.M.GY - The Crown\V.M.GY - The Crown_RAW\15_DrumsRoom2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop: {}
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass: {}
+  Electric_Bass:
+    16_BassDI.wav:
+      Track_path: V.M.GY - The Crown\V.M.GY - The Crown_RAW\16_BassDI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Acoustic_Guitar: {}
+  Electric_Guitar:
+    17_ElecGtr1.wav:
+      Track_path: V.M.GY - The Crown\V.M.GY - The Crown_RAW\17_ElecGtr1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    18_ElecGtr1DT.wav:
+      Track_path: V.M.GY - The Crown\V.M.GY - The Crown_RAW\18_ElecGtr1DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    19_ElecGtr2.wav:
+      Track_path: V.M.GY - The Crown\V.M.GY - The Crown_RAW\19_ElecGtr2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    20_ElecGtr2DT.wav:
+      Track_path: V.M.GY - The Crown\V.M.GY - The Crown_RAW\20_ElecGtr2DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    21_ElecGtr.wav:
+      Track_path: V.M.GY - The Crown\V.M.GY - The Crown_RAW\21_ElecGtr.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    22_ElecGtr.wav:
+      Track_path: V.M.GY - The Crown\V.M.GY - The Crown_RAW\22_ElecGtr.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    23_ElecGtr.wav:
+      Track_path: V.M.GY - The Crown\V.M.GY - The Crown_RAW\23_ElecGtr.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Piano:
+    27_Piano.wav:
+      Track_path: V.M.GY - The Crown\V.M.GY - The Crown_RAW\27_Piano.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Electric_Piano: {}
+  Brass_Section:
+    29_Brass.wav:
+      Track_path: V.M.GY - The Crown\V.M.GY - The Crown_RAW\29_Brass.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass:
+    28_DoubleBass.wav:
+      Track_path: V.M.GY - The Crown\V.M.GY - The Crown_RAW\28_DoubleBass.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    24_LeadVox1.wav:
+      Track_path: V.M.GY - The Crown\V.M.GY - The Crown_RAW\24_LeadVox1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    25_LeadVox2.wav:
+      Track_path: V.M.GY - The Crown\V.M.GY - The Crown_RAW\25_LeadVox2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Choir: {}
+  Backing_Vocal: {}
+  Unused: {}
+  Ambient_Microphone: {}

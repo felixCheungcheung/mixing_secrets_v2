@@ -1,0 +1,228 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer: {}
+  SFX: {}
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    01_KickIn.wav:
+      Track_path: Fergessen - The Wind\Fergessen - The Wind_RAW\01_KickIn.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    02_KickOut.wav:
+      Track_path: Fergessen - The Wind\Fergessen - The Wind_RAW\02_KickOut.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_Snare:
+    03_SnareUp.wav:
+      Track_path: Fergessen - The Wind\Fergessen - The Wind_RAW\03_SnareUp.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    04_SnareDown.wav:
+      Track_path: Fergessen - The Wind\Fergessen - The Wind_RAW\04_SnareDown.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_HiHat: {}
+  Drum_Cymbals: {}
+  Drum_Overheads:
+    07_DrumsSideL.wav:
+      Track_path: Fergessen - The Wind\Fergessen - The Wind_RAW\07_DrumsSideL.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    08_DrumsSideR.wav:
+      Track_path: Fergessen - The Wind\Fergessen - The Wind_RAW\08_DrumsSideR.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    09_DrumsOverhead1.wav:
+      Track_path: Fergessen - The Wind\Fergessen - The Wind_RAW\09_DrumsOverhead1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    10_DrumsOverhead2.wav:
+      Track_path: Fergessen - The Wind\Fergessen - The Wind_RAW\10_DrumsOverhead2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Tom:
+    05_Tom1.wav:
+      Track_path: Fergessen - The Wind\Fergessen - The Wind_RAW\05_Tom1.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    06_Tom2.wav:
+      Track_path: Fergessen - The Wind\Fergessen - The Wind_RAW\06_Tom2.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_Room:
+    11_DrumsRoom.wav:
+      Track_path: Fergessen - The Wind\Fergessen - The Wind_RAW\11_DrumsRoom.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine:
+    12_Tambourine.wav:
+      Track_path: Fergessen - The Wind\Fergessen - The Wind_RAW\12_Tambourine.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Loop: {}
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass: {}
+  Electric_Bass:
+    13_Bass.wav:
+      Track_path: Fergessen - The Wind\Fergessen - The Wind_RAW\13_Bass.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Acoustic_Guitar:
+    19_AcGtr_Mic1.wav:
+      Track_path: Fergessen - The Wind\Fergessen - The Wind_RAW\19_AcGtr_Mic1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    20_AcGtr_Mic2.wav:
+      Track_path: Fergessen - The Wind\Fergessen - The Wind_RAW\20_AcGtr_Mic2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    21_AcGtr_Mic3.wav:
+      Track_path: Fergessen - The Wind\Fergessen - The Wind_RAW\21_AcGtr_Mic3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    22_AcGtr_Mic4.wav:
+      Track_path: Fergessen - The Wind\Fergessen - The Wind_RAW\22_AcGtr_Mic4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Electric_Guitar:
+    14_ElecGtr1.wav:
+      Track_path: Fergessen - The Wind\Fergessen - The Wind_RAW\14_ElecGtr1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    15_ElecGtr2a_Close.wav:
+      Track_path: Fergessen - The Wind\Fergessen - The Wind_RAW\15_ElecGtr2a_Close.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    16_ElecGtr2b_Amb.wav:
+      Track_path: Fergessen - The Wind\Fergessen - The Wind_RAW\16_ElecGtr2b_Amb.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    17_SlecGtr3a_Close.wav:
+      Track_path: Fergessen - The Wind\Fergessen - The Wind_RAW\17_SlecGtr3a_Close.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    18_ElecGtr3b_Amb.wav:
+      Track_path: Fergessen - The Wind\Fergessen - The Wind_RAW\18_ElecGtr3b_Amb.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Piano: {}
+  Electric_Piano:
+    23_Rhodes.wav:
+      Track_path: Fergessen - The Wind\Fergessen - The Wind_RAW\23_Rhodes.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    24_LeadVoxDuet.wav:
+      Track_path: Fergessen - The Wind\Fergessen - The Wind_RAW\24_LeadVoxDuet.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: 'This track contains two singers, slight Band leakage'
+  Choir: {}
+  Backing_Vocal:
+    25_BackingVox01Submix.wav:
+      Track_path: Fergessen - The Wind\Fergessen - The Wind_RAW\25_BackingVox01Submix.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    26_BackingVox02.wav:
+      Track_path: Fergessen - The Wind\Fergessen - The Wind_RAW\26_BackingVox02.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    27_BackingVox03.wav:
+      Track_path: Fergessen - The Wind\Fergessen - The Wind_RAW\27_BackingVox03.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    28_BackingVox04.wav:
+      Track_path: Fergessen - The Wind\Fergessen - The Wind_RAW\28_BackingVox04.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    29_BackingVox05.wav:
+      Track_path: Fergessen - The Wind\Fergessen - The Wind_RAW\29_BackingVox05.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    30_BackingVox06.wav:
+      Track_path: Fergessen - The Wind\Fergessen - The Wind_RAW\30_BackingVox06.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    31_BackingVox07.wav:
+      Track_path: Fergessen - The Wind\Fergessen - The Wind_RAW\31_BackingVox07.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Unused: {}
+  Ambient_Microphone: {}

@@ -1,0 +1,247 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer:
+    11_Synth01.wav:
+      Track_path: J P Lantieri - Chardonnay (Ornery Remix)\J P Lantieri - Chardonnay
+        (Ornery Remix)_RAW\11_Synth01.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    12_Synth02.wav:
+      Track_path: J P Lantieri - Chardonnay (Ornery Remix)\J P Lantieri - Chardonnay
+        (Ornery Remix)_RAW\12_Synth02.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    13_Synth03.wav:
+      Track_path: J P Lantieri - Chardonnay (Ornery Remix)\J P Lantieri - Chardonnay
+        (Ornery Remix)_RAW\13_Synth03.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    14_Synth04.wav:
+      Track_path: J P Lantieri - Chardonnay (Ornery Remix)\J P Lantieri - Chardonnay
+        (Ornery Remix)_RAW\14_Synth04.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    15_Synth05.wav:
+      Track_path: J P Lantieri - Chardonnay (Ornery Remix)\J P Lantieri - Chardonnay
+        (Ornery Remix)_RAW\15_Synth05.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    16_Synth06.wav:
+      Track_path: J P Lantieri - Chardonnay (Ornery Remix)\J P Lantieri - Chardonnay
+        (Ornery Remix)_RAW\16_Synth06.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    17_Synth07.wav:
+      Track_path: J P Lantieri - Chardonnay (Ornery Remix)\J P Lantieri - Chardonnay
+        (Ornery Remix)_RAW\17_Synth07.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    18_Synth08.wav:
+      Track_path: J P Lantieri - Chardonnay (Ornery Remix)\J P Lantieri - Chardonnay
+        (Ornery Remix)_RAW\18_Synth08.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    19_Synth09.wav:
+      Track_path: J P Lantieri - Chardonnay (Ornery Remix)\J P Lantieri - Chardonnay
+        (Ornery Remix)_RAW\19_Synth09.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    20_Synth10.wav:
+      Track_path: J P Lantieri - Chardonnay (Ornery Remix)\J P Lantieri - Chardonnay
+        (Ornery Remix)_RAW\20_Synth10.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    21_Synth11.wav:
+      Track_path: J P Lantieri - Chardonnay (Ornery Remix)\J P Lantieri - Chardonnay
+        (Ornery Remix)_RAW\21_Synth11.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    22_Synth12.wav:
+      Track_path: J P Lantieri - Chardonnay (Ornery Remix)\J P Lantieri - Chardonnay
+        (Ornery Remix)_RAW\22_Synth12.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    23_Synth13.wav:
+      Track_path: J P Lantieri - Chardonnay (Ornery Remix)\J P Lantieri - Chardonnay
+        (Ornery Remix)_RAW\23_Synth13.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    24_Synth14.wav:
+      Track_path: J P Lantieri - Chardonnay (Ornery Remix)\J P Lantieri - Chardonnay
+        (Ornery Remix)_RAW\24_Synth14.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  SFX:
+    25_SFX1.wav:
+      Track_path: J P Lantieri - Chardonnay (Ornery Remix)\J P Lantieri - Chardonnay
+        (Ornery Remix)_RAW\25_SFX1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    26_SFX2.wav:
+      Track_path: J P Lantieri - Chardonnay (Ornery Remix)\J P Lantieri - Chardonnay
+        (Ornery Remix)_RAW\26_SFX2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    27_SFX3.wav:
+      Track_path: J P Lantieri - Chardonnay (Ornery Remix)\J P Lantieri - Chardonnay
+        (Ornery Remix)_RAW\27_SFX3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    28_SFX4.wav:
+      Track_path: J P Lantieri - Chardonnay (Ornery Remix)\J P Lantieri - Chardonnay
+        (Ornery Remix)_RAW\28_SFX4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    29_SFX5.wav:
+      Track_path: J P Lantieri - Chardonnay (Ornery Remix)\J P Lantieri - Chardonnay
+        (Ornery Remix)_RAW\29_SFX5.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    01_KickMain.wav:
+      Track_path: J P Lantieri - Chardonnay (Ornery Remix)\J P Lantieri - Chardonnay
+        (Ornery Remix)_RAW\01_KickMain.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    02_KickTop.wav:
+      Track_path: J P Lantieri - Chardonnay (Ornery Remix)\J P Lantieri - Chardonnay
+        (Ornery Remix)_RAW\02_KickTop.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Snare:
+    03_Snare.wav:
+      Track_path: J P Lantieri - Chardonnay (Ornery Remix)\J P Lantieri - Chardonnay
+        (Ornery Remix)_RAW\03_Snare.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_HiHat:
+    04_HiHat1.wav:
+      Track_path: J P Lantieri - Chardonnay (Ornery Remix)\J P Lantieri - Chardonnay
+        (Ornery Remix)_RAW\04_HiHat1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    05_HiHat2.wav:
+      Track_path: J P Lantieri - Chardonnay (Ornery Remix)\J P Lantieri - Chardonnay
+        (Ornery Remix)_RAW\05_HiHat2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Cymbals:
+    06_Crash.wav:
+      Track_path: J P Lantieri - Chardonnay (Ornery Remix)\J P Lantieri - Chardonnay
+        (Ornery Remix)_RAW\06_Crash.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Overheads: {}
+  Drum_Tom: {}
+  Drum_Room: {}
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop: {}
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion:
+    07_Percussion1.wav:
+      Track_path: J P Lantieri - Chardonnay (Ornery Remix)\J P Lantieri - Chardonnay
+        (Ornery Remix)_RAW\07_Percussion1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    08_Percussion2.wav:
+      Track_path: J P Lantieri - Chardonnay (Ornery Remix)\J P Lantieri - Chardonnay
+        (Ornery Remix)_RAW\08_Percussion2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    09_Percussion3.wav:
+      Track_path: J P Lantieri - Chardonnay (Ornery Remix)\J P Lantieri - Chardonnay
+        (Ornery Remix)_RAW\09_Percussion3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Synth_Bass: {}
+  Electric_Bass:
+    10_Bass.wav:
+      Track_path: J P Lantieri - Chardonnay (Ornery Remix)\J P Lantieri - Chardonnay
+        (Ornery Remix)_RAW\10_Bass.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Acoustic_Guitar: {}
+  Electric_Guitar: {}
+  Piano: {}
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal: {}
+  Choir: {}
+  Backing_Vocal: {}
+  Unused: {}
+  Ambient_Microphone: {}

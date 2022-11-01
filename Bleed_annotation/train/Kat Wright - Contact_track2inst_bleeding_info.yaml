@@ -1,0 +1,181 @@
+Track2inst:
+  Electric_Organ:
+    Keys-B3 Low-M82.wav:
+      Track_path: Kat Wright - Contact\Kat Wright - Contact_RAW\Keys-B3 Low-M82.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Keys-B3-M81.wav:
+      Track_path: Kat Wright - Contact\Kat Wright - Contact_RAW\Keys-B3-M81.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Synthesizer: {}
+  SFX: {}
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    Drums-Kick In-M82.wav:
+      Track_path: Kat Wright - Contact\Kat Wright - Contact_RAW\Drums-Kick In-M82.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Saxophone, Trumpet, Drum_Overheads, Electric_Guitar'
+      Comment: ''
+    Drums-Kick Out-647 Proto.wav:
+      Track_path: Kat Wright - Contact\Kat Wright - Contact_RAW\Drums-Kick Out-647
+        Proto.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Saxophone, Trumpet, Drum_Overheads, Electric_Guitar'
+      Comment: ''
+  Drum_Snare:
+    Drums-Snare Bottom-M80.wav:
+      Track_path: Kat Wright - Contact\Kat Wright - Contact_RAW\Drums-Snare Bottom-M80.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Saxophone, Trumpet, Drum_Overheads, Electric_Guitar'
+      Comment: ''
+    Drums-Snare Top-M81.wav:
+      Track_path: Kat Wright - Contact\Kat Wright - Contact_RAW\Drums-Snare Top-M81.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Saxophone, Trumpet, Drum_Overheads, Electric_Guitar'
+      Comment: ''
+  Drum_HiHat:
+    Drums-HAT-M60.wav:
+      Track_path: Kat Wright - Contact\Kat Wright - Contact_RAW\Drums-HAT-M60.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Saxophone, Trumpet, Drum_Overheads, Electric_Guitar'
+      Comment: ''
+  Drum_Cymbals: {}
+  Drum_Overheads:
+    Drums-Mono Over-CU29.wav:
+      Track_path: Kat Wright - Contact\Kat Wright - Contact_RAW\Drums-Mono Over-CU29.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Saxophone, Trumpet, Drum_Overheads, Electric_Guitar'
+      Comment: ''
+    Drums-Overheads-Ela M 260.wav:
+      Track_path: Kat Wright - Contact\Kat Wright - Contact_RAW\Drums-Overheads-Ela
+        M 260.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Saxophone, Trumpet, Drum_Overheads, Electric_Guitar'
+      Comment: ''
+  Drum_Tom:
+    Drums-Floor Tom-Proto.wav:
+      Track_path: Kat Wright - Contact\Kat Wright - Contact_RAW\Drums-Floor Tom-Proto.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Saxophone, Trumpet, Drum_Overheads, Electric_Guitar'
+      Comment: ''
+    Drums-Rack Tom-Proto.wav:
+      Track_path: Kat Wright - Contact\Kat Wright - Contact_RAW\Drums-Rack Tom-Proto.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Saxophone, Trumpet, Drum_Overheads, Electric_Guitar'
+      Comment: ''
+  Drum_Room: {}
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop: {}
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass: {}
+  Electric_Bass:
+    Bass-Active DI.wav:
+      Track_path: Kat Wright - Contact\Kat Wright - Contact_RAW\Bass-Active DI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Bass-Amp-CU29.wav:
+      Track_path: Kat Wright - Contact\Kat Wright - Contact_RAW\Bass-Amp-CU29.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Acoustic_Guitar: {}
+  Electric_Guitar:
+    ELE Guitar-M80.wav:
+      Track_path: Kat Wright - Contact\Kat Wright - Contact_RAW\ELE Guitar-M80.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads'
+      Comment: ''
+    ELE Guitar-Proto 647.wav:
+      Track_path: Kat Wright - Contact\Kat Wright - Contact_RAW\ELE Guitar-Proto 647.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads'
+      Comment: ''
+  Piano: {}
+  Electric_Piano:
+    Keys-Whirly Amp-M80.wav:
+      Track_path: Kat Wright - Contact\Kat Wright - Contact_RAW\Keys-Whirly Amp-M80.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Saxophone, Trumpet, Drum_Overheads'
+      Comment: ''
+  Brass_Section: {}
+  Saxophone:
+    Horns-Bari AR51.wav:
+      Track_path: Kat Wright - Contact\Kat Wright - Contact_RAW\Horns-Bari AR51.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads, Electric_Guitar, Trumpet, Electric_Piano'
+      Comment: ''
+    Horns-Tenor-AR51.wav:
+      Track_path: Kat Wright - Contact\Kat Wright - Contact_RAW\Horns-Tenor-AR51.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads, Electric_Guitar, Trumpet, Electric_Piano'
+      Comment: ''
+  Trumpet:
+    Horns-Trumpet-Ela M 260.wav:
+      Track_path: Kat Wright - Contact\Kat Wright - Contact_RAW\Horns-Trumpet-Ela
+        M 260.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads, Electric_Guitar, Saxophone'
+      Comment: ''
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    Vocals-Lead-Proto.wav:
+      Track_path: Kat Wright - Contact\Kat Wright - Contact_RAW\Vocals-Lead-Proto.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Saxophone, Trumpet, Drum_Overheads, Electric_Guitar'
+      Comment: ''
+  Choir: {}
+  Backing_Vocal: {}
+  Unused: {}
+  Ambient_Microphone:
+    Drums-Room-M60.wav:
+      Track_path: Kat Wright - Contact\Kat Wright - Contact_RAW\Drums-Room-M60.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Saxophone, Trumpet, Drum_Overheads, Electric_Guitar, Lead_Vocal, Electric_Piano'
+      Comment: ''

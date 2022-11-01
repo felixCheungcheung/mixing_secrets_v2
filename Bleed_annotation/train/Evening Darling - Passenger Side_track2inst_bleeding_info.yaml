@@ -1,0 +1,182 @@
+Track2inst:
+  Electric_Organ:
+    Keys-Hammond-M81.wav:
+      Track_path: Evening Darling - Passenger Side\Evening Darling - Passenger Side_RAW\Keys-Hammond-M81.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Synthesizer: {}
+  SFX: {}
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    Drums-Kick in-M82.wav:
+      Track_path: Evening Darling - Passenger Side\Evening Darling - Passenger Side_RAW\Drums-Kick
+        in-M82.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads, Lead_Vocal, Backing_Vocal'
+      Comment: 'very slight'
+    Drums-Kick Out-647.wav:
+      Track_path: Evening Darling - Passenger Side\Evening Darling - Passenger Side_RAW\Drums-Kick
+        Out-647.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads, Lead_Vocal, Backing_Vocal'
+      Comment: 'noticeable'
+  Drum_Snare:
+    Drums-Snare Bottom-M80.wav:
+      Track_path: Evening Darling - Passenger Side\Evening Darling - Passenger Side_RAW\Drums-Snare
+        Bottom-M80.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads, Lead_Vocal, Backing_Vocal'
+      Comment: 'slight'
+    Drums-Snare Top-M80.wav:
+      Track_path: Evening Darling - Passenger Side\Evening Darling - Passenger Side_RAW\Drums-Snare
+        Top-M80.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads, Lead_Vocal, Backing_Vocal'
+      Comment: 'noticeable'
+    Drums-Snare Top2-M81.wav:
+      Track_path: Evening Darling - Passenger Side\Evening Darling - Passenger Side_RAW\Drums-Snare
+        Top2-M81.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads, Lead_Vocal, Backing_Vocal'
+      Comment: 'noticeable'
+  Drum_HiHat:
+    Drums-Hat-M60.wav:
+      Track_path: Evening Darling - Passenger Side\Evening Darling - Passenger Side_RAW\Drums-Hat-M60.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads, Lead_Vocal, Backing_Vocal'
+      Comment: 'noticeable'
+  Drum_Cymbals: {}
+  Drum_Overheads:
+    Drums-Overhead-CU29.wav:
+      Track_path: Evening Darling - Passenger Side\Evening Darling - Passenger Side_RAW\Drums-Overhead-CU29.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Lead_Vocal, Backing_Vocal'
+      Comment: 'very noticeable'
+  Drum_Tom:
+    Drums-Floor-M81.wav:
+      Track_path: Evening Darling - Passenger Side\Evening Darling - Passenger Side_RAW\Drums-Floor-M81.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads, Lead_Vocal, Backing_Vocal'
+      Comment: 'very noticeable'
+    Drums-Rack-M81.wav:
+      Track_path: Evening Darling - Passenger Side\Evening Darling - Passenger Side_RAW\Drums-Rack-M81.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads, Lead_Vocal, Backing_Vocal'
+      Comment: 'very noticeable'
+  Drum_Room: {}
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop: {}
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass: {}
+  Electric_Bass:
+    Bass-DI.wav:
+      Track_path: Evening Darling - Passenger Side\Evening Darling - Passenger Side_RAW\Bass-DI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Acoustic_Guitar: {}
+  Electric_Guitar:
+    ELE Guitar 1-Con-AK47.wav:
+      Track_path: Evening Darling - Passenger Side\Evening Darling - Passenger Side_RAW\ELE
+        Guitar 1-Con-AK47.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    ELE Guitar 1-Dyn-M81.wav:
+      Track_path: Evening Darling - Passenger Side\Evening Darling - Passenger Side_RAW\ELE
+        Guitar 1-Dyn-M81.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    ELE Guitar 2-Con-AR51.wav:
+      Track_path: Evening Darling - Passenger Side\Evening Darling - Passenger Side_RAW\ELE
+        Guitar 2-Con-AR51.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    ELE Guitar 2-Dyn-M81.wav:
+      Track_path: Evening Darling - Passenger Side\Evening Darling - Passenger Side_RAW\ELE
+        Guitar 2-Dyn-M81.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Piano: {}
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    Vocals-Erica-M80.wav:
+      Track_path: Evening Darling - Passenger Side\Evening Darling - Passenger Side_RAW\Vocals-Erica-M80.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads'
+      Comment: 'huge'
+    Vocals-Nick-M81.wav:
+      Track_path: Evening Darling - Passenger Side\Evening Darling - Passenger Side_RAW\Vocals-Nick-M81.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads'
+      Comment: 'slight'
+  Choir: {}
+  Backing_Vocal:
+    Vocals-BG-M81.wav:
+      Track_path: Evening Darling - Passenger Side\Evening Darling - Passenger Side_RAW\Vocals-BG-M81.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Lead_Vocal, Drum_Overheads'
+      Comment: 'huge'
+    Vocals-BG2-M81.wav:
+      Track_path: Evening Darling - Passenger Side\Evening Darling - Passenger Side_RAW\Vocals-BG2-M81.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Lead_Vocal, Drum_Overheads'
+      Comment: 'huge'
+  Unused: {}
+  Ambient_Microphone:
+    Drums-Chamber-AR70.wav:
+      Track_path: Evening Darling - Passenger Side\Evening Darling - Passenger Side_RAW\Drums-Chamber-AR70.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: ''
+      Comment: ''

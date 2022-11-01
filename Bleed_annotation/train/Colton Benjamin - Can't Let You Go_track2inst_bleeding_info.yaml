@@ -1,0 +1,229 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer: {}
+  SFX: {}
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    01_Kick.wav:
+      Track_path: Colton Benjamin - Can't Let You Go\Colton Benjamin - Can't Let You
+        Go_RAW\01_Kick.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Snare:
+    02_Rimshot.wav:
+      Track_path: Colton Benjamin - Can't Let You Go\Colton Benjamin - Can't Let You
+        Go_RAW\02_Rimshot.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    03_Snare.wav:
+      Track_path: Colton Benjamin - Can't Let You Go\Colton Benjamin - Can't Let You
+        Go_RAW\03_Snare.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_HiHat:
+    04_HiHat.wav:
+      Track_path: Colton Benjamin - Can't Let You Go\Colton Benjamin - Can't Let You
+        Go_RAW\04_HiHat.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Cymbals: {}
+  Drum_Overheads:
+    09_Overheads.wav:
+      Track_path: Colton Benjamin - Can't Let You Go\Colton Benjamin - Can't Let You
+        Go_RAW\09_Overheads.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Tom:
+    05_Tom1.wav:
+      Track_path: Colton Benjamin - Can't Let You Go\Colton Benjamin - Can't Let You
+        Go_RAW\05_Tom1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    06_Tom2.wav:
+      Track_path: Colton Benjamin - Can't Let You Go\Colton Benjamin - Can't Let You
+        Go_RAW\06_Tom2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    07_Tom3.wav:
+      Track_path: Colton Benjamin - Can't Let You Go\Colton Benjamin - Can't Let You
+        Go_RAW\07_Tom3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    08_Tom4.wav:
+      Track_path: Colton Benjamin - Can't Let You Go\Colton Benjamin - Can't Let You
+        Go_RAW\08_Tom4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Room:
+    10_DrumsRoom.wav:
+      Track_path: Colton Benjamin - Can't Let You Go\Colton Benjamin - Can't Let You
+        Go_RAW\10_DrumsRoom.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop: {}
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass: {}
+  Electric_Bass:
+    11_Bass.wav:
+      Track_path: Colton Benjamin - Can't Let You Go\Colton Benjamin - Can't Let You
+        Go_RAW\11_Bass.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Acoustic_Guitar: {}
+  Electric_Guitar:
+    12_ElecGtr01.wav:
+      Track_path: Colton Benjamin - Can't Let You Go\Colton Benjamin - Can't Let You
+        Go_RAW\12_ElecGtr01.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    13_ElecGtr02.wav:
+      Track_path: Colton Benjamin - Can't Let You Go\Colton Benjamin - Can't Let You
+        Go_RAW\13_ElecGtr02.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    14_ElecGtr03.wav:
+      Track_path: Colton Benjamin - Can't Let You Go\Colton Benjamin - Can't Let You
+        Go_RAW\14_ElecGtr03.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    15_ElecGtr04.wav:
+      Track_path: Colton Benjamin - Can't Let You Go\Colton Benjamin - Can't Let You
+        Go_RAW\15_ElecGtr04.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    16_ElecGtr05.wav:
+      Track_path: Colton Benjamin - Can't Let You Go\Colton Benjamin - Can't Let You
+        Go_RAW\16_ElecGtr05.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Piano: {}
+  Electric_Piano:
+    17_Rhodes.wav:
+      Track_path: Colton Benjamin - Can't Let You Go\Colton Benjamin - Can't Let You
+        Go_RAW\17_Rhodes.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Brass_Section: {}
+  Saxophone:
+    18_Saxophone.wav:
+      Track_path: Colton Benjamin - Can't Let You Go\Colton Benjamin - Can't Let You
+        Go_RAW\18_Saxophone.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Trumpet: {}
+  French_Horn: {}
+  Trombone:
+    19_Trombone.wav:
+      Track_path: Colton Benjamin - Can't Let You Go\Colton Benjamin - Can't Let You
+        Go_RAW\19_Trombone.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    20_LeadVox01.wav:
+      Track_path: Colton Benjamin - Can't Let You Go\Colton Benjamin - Can't Let You
+        Go_RAW\20_LeadVox01.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    21_LeadVox01DT.wav:
+      Track_path: Colton Benjamin - Can't Let You Go\Colton Benjamin - Can't Let You
+        Go_RAW\21_LeadVox01DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    22_LeadVox02.wav:
+      Track_path: Colton Benjamin - Can't Let You Go\Colton Benjamin - Can't Let You
+        Go_RAW\22_LeadVox02.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    23_LeadVox02DT.wav:
+      Track_path: Colton Benjamin - Can't Let You Go\Colton Benjamin - Can't Let You
+        Go_RAW\23_LeadVox02DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Choir: {}
+  Backing_Vocal:
+    24_BackingVox01.wav:
+      Track_path: Colton Benjamin - Can't Let You Go\Colton Benjamin - Can't Let You
+        Go_RAW\24_BackingVox01.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    25_BackingVox02.wav:
+      Track_path: Colton Benjamin - Can't Let You Go\Colton Benjamin - Can't Let You
+        Go_RAW\25_BackingVox02.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    26_BackingVox03.wav:
+      Track_path: Colton Benjamin - Can't Let You Go\Colton Benjamin - Can't Let You
+        Go_RAW\26_BackingVox03.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Unused: {}
+  Ambient_Microphone: {}

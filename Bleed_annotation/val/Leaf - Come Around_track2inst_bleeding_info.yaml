@@ -1,0 +1,208 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer: {}
+  SFX: {}
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick: {}
+  Drum_Snare: {}
+  Drum_HiHat: {}
+  Drum_Cymbals:
+    03_Cymbals.wav:
+      Track_path: Leaf - Come Around\Leaf - Come Around_RAW\03_Cymbals.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Overheads: {}
+  Drum_Tom: {}
+  Drum_Room: {}
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine:
+    04_Tamb.wav:
+      Track_path: Leaf - Come Around\Leaf - Come Around_RAW\04_Tamb.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Loop:
+    01_Loop1.wav:
+      Track_path: Leaf - Come Around\Leaf - Come Around_RAW\01_Loop1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    02_Loop2.wav:
+      Track_path: Leaf - Come Around\Leaf - Come Around_RAW\02_Loop2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass: {}
+  Electric_Bass:
+    05_bassguitar.wav:
+      Track_path: Leaf - Come Around\Leaf - Come Around_RAW\05_bassguitar.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Acoustic_Guitar:
+    06_AcousticGtr.wav:
+      Track_path: Leaf - Come Around\Leaf - Come Around_RAW\06_AcousticGtr.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Electric_Guitar:
+    07_EbowGtr.wav:
+      Track_path: Leaf - Come Around\Leaf - Come Around_RAW\07_EbowGtr.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    08_ElecGtr1.wav:
+      Track_path: Leaf - Come Around\Leaf - Come Around_RAW\08_ElecGtr1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    09_ElecGtr2.wav:
+      Track_path: Leaf - Come Around\Leaf - Come Around_RAW\09_ElecGtr2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    10_ElecGtr3.wav:
+      Track_path: Leaf - Come Around\Leaf - Come Around_RAW\10_ElecGtr3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    11_ElecGtr4.wav:
+      Track_path: Leaf - Come Around\Leaf - Come Around_RAW\11_ElecGtr4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    12_ElecGtr5.wav:
+      Track_path: Leaf - Come Around\Leaf - Come Around_RAW\12_ElecGtr5.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    13_ElecGtr6.wav:
+      Track_path: Leaf - Come Around\Leaf - Come Around_RAW\13_ElecGtr6.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    14_ElecGtr7.wav:
+      Track_path: Leaf - Come Around\Leaf - Come Around_RAW\14_ElecGtr7.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Piano: {}
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    15_LeadVox.wav:
+      Track_path: Leaf - Come Around\Leaf - Come Around_RAW\15_LeadVox.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Choir: {}
+  Backing_Vocal:
+    16_BackingVox01.wav:
+      Track_path: Leaf - Come Around\Leaf - Come Around_RAW\16_BackingVox01.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    17_BackingVox02.wav:
+      Track_path: Leaf - Come Around\Leaf - Come Around_RAW\17_BackingVox02.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    18_BackingVox03.wav:
+      Track_path: Leaf - Come Around\Leaf - Come Around_RAW\18_BackingVox03.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    19_BackingVox04.wav:
+      Track_path: Leaf - Come Around\Leaf - Come Around_RAW\19_BackingVox04.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    20_BackingVox05.wav:
+      Track_path: Leaf - Come Around\Leaf - Come Around_RAW\20_BackingVox05.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    21_BackingVox06.wav:
+      Track_path: Leaf - Come Around\Leaf - Come Around_RAW\21_BackingVox06.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    22_BackingVox07.wav:
+      Track_path: Leaf - Come Around\Leaf - Come Around_RAW\22_BackingVox07.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    23_BackingVox08.wav:
+      Track_path: Leaf - Come Around\Leaf - Come Around_RAW\23_BackingVox08.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    24_BackingVox09.wav:
+      Track_path: Leaf - Come Around\Leaf - Come Around_RAW\24_BackingVox09.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    25_BackingVox10.wav:
+      Track_path: Leaf - Come Around\Leaf - Come Around_RAW\25_BackingVox10.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    26_BackingVox11.wav:
+      Track_path: Leaf - Come Around\Leaf - Come Around_RAW\26_BackingVox11.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    27_BackingVox12.wav:
+      Track_path: Leaf - Come Around\Leaf - Come Around_RAW\27_BackingVox12.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Unused: {}
+  Ambient_Microphone: {}

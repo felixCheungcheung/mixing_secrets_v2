@@ -1,0 +1,248 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer:
+    25_Synth1.wav:
+      Track_path: Pandemia eRock - Macaco Regresso\Pandemia eRock - Macaco Regresso_RAW\25_Synth1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    26_Synth2.wav:
+      Track_path: Pandemia eRock - Macaco Regresso\Pandemia eRock - Macaco Regresso_RAW\26_Synth2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  SFX:
+    27_SFX.wav:
+      Track_path: Pandemia eRock - Macaco Regresso\Pandemia eRock - Macaco Regresso_RAW\27_SFX.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    01_Kick.wav:
+      Track_path: Pandemia eRock - Macaco Regresso\Pandemia eRock - Macaco Regresso_RAW\01_Kick.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    02_KickSample1.wav:
+      Track_path: Pandemia eRock - Macaco Regresso\Pandemia eRock - Macaco Regresso_RAW\02_KickSample1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    03_KickSample2.wav:
+      Track_path: Pandemia eRock - Macaco Regresso\Pandemia eRock - Macaco Regresso_RAW\03_KickSample2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Snare:
+    04_SnareUp.wav:
+      Track_path: Pandemia eRock - Macaco Regresso\Pandemia eRock - Macaco Regresso_RAW\04_SnareUp.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    05_SnareDown.wav:
+      Track_path: Pandemia eRock - Macaco Regresso\Pandemia eRock - Macaco Regresso_RAW\05_SnareDown.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    06_SnareSample1.wav:
+      Track_path: Pandemia eRock - Macaco Regresso\Pandemia eRock - Macaco Regresso_RAW\06_SnareSample1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    07_SnareSample2.wav:
+      Track_path: Pandemia eRock - Macaco Regresso\Pandemia eRock - Macaco Regresso_RAW\07_SnareSample2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_HiHat:
+    08_HiHat.wav:
+      Track_path: Pandemia eRock - Macaco Regresso\Pandemia eRock - Macaco Regresso_RAW\08_HiHat.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    09_HiHatSample.wav:
+      Track_path: Pandemia eRock - Macaco Regresso\Pandemia eRock - Macaco Regresso_RAW\09_HiHatSample.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Cymbals:
+    16_Ride.wav:
+      Track_path: Pandemia eRock - Macaco Regresso\Pandemia eRock - Macaco Regresso_RAW\16_Ride.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_Overheads:
+    17_Overheads.wav:
+      Track_path: Pandemia eRock - Macaco Regresso\Pandemia eRock - Macaco Regresso_RAW\17_Overheads.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Tom:
+    10_Tom1.wav:
+      Track_path: Pandemia eRock - Macaco Regresso\Pandemia eRock - Macaco Regresso_RAW\10_Tom1.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    11_Tom1Sample.wav:
+      Track_path: Pandemia eRock - Macaco Regresso\Pandemia eRock - Macaco Regresso_RAW\11_Tom1Sample.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    12_Tom2.wav:
+      Track_path: Pandemia eRock - Macaco Regresso\Pandemia eRock - Macaco Regresso_RAW\12_Tom2.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    13_Tom2Sample.wav:
+      Track_path: Pandemia eRock - Macaco Regresso\Pandemia eRock - Macaco Regresso_RAW\13_Tom2Sample.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    14_Tom3.wav:
+      Track_path: Pandemia eRock - Macaco Regresso\Pandemia eRock - Macaco Regresso_RAW\14_Tom3.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    15_Tom3Sample.wav:
+      Track_path: Pandemia eRock - Macaco Regresso\Pandemia eRock - Macaco Regresso_RAW\15_Tom3Sample.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    19_Rototom.wav:
+      Track_path: Pandemia eRock - Macaco Regresso\Pandemia eRock - Macaco Regresso_RAW\19_Rototom.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Room:
+    18_DrumsRoom.wav:
+      Track_path: Pandemia eRock - Macaco Regresso\Pandemia eRock - Macaco Regresso_RAW\18_DrumsRoom.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop: {}
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass:
+    22_BassSynth.wav:
+      Track_path: Pandemia eRock - Macaco Regresso\Pandemia eRock - Macaco Regresso_RAW\22_BassSynth.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Electric_Bass:
+    20_BassDI.wav:
+      Track_path: Pandemia eRock - Macaco Regresso\Pandemia eRock - Macaco Regresso_RAW\20_BassDI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    21_BassDist.wav:
+      Track_path: Pandemia eRock - Macaco Regresso\Pandemia eRock - Macaco Regresso_RAW\21_BassDist.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Acoustic_Guitar: {}
+  Electric_Guitar:
+    23_ElecGtr1.wav:
+      Track_path: Pandemia eRock - Macaco Regresso\Pandemia eRock - Macaco Regresso_RAW\23_ElecGtr1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    24_ElecGtr2.wav:
+      Track_path: Pandemia eRock - Macaco Regresso\Pandemia eRock - Macaco Regresso_RAW\24_ElecGtr2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Piano: {}
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    28_LeadVox.wav:
+      Track_path: Pandemia eRock - Macaco Regresso\Pandemia eRock - Macaco Regresso_RAW\28_LeadVox.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Choir: {}
+  Backing_Vocal:
+    29_BackingVox1.wav:
+      Track_path: Pandemia eRock - Macaco Regresso\Pandemia eRock - Macaco Regresso_RAW\29_BackingVox1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    30_BackingVox2.wav:
+      Track_path: Pandemia eRock - Macaco Regresso\Pandemia eRock - Macaco Regresso_RAW\30_BackingVox2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    31_BackingVox3.wav:
+      Track_path: Pandemia eRock - Macaco Regresso\Pandemia eRock - Macaco Regresso_RAW\31_BackingVox3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    32_BackingVox4.wav:
+      Track_path: Pandemia eRock - Macaco Regresso\Pandemia eRock - Macaco Regresso_RAW\32_BackingVox4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    33_BackingVox5.wav:
+      Track_path: Pandemia eRock - Macaco Regresso\Pandemia eRock - Macaco Regresso_RAW\33_BackingVox5.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    34_BackingVox6.wav:
+      Track_path: Pandemia eRock - Macaco Regresso\Pandemia eRock - Macaco Regresso_RAW\34_BackingVox6.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    35_BackingVox7.wav:
+      Track_path: Pandemia eRock - Macaco Regresso\Pandemia eRock - Macaco Regresso_RAW\35_BackingVox7.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Unused: {}
+  Ambient_Microphone: {}

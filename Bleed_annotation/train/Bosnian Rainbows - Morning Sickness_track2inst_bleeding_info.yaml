@@ -1,0 +1,133 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer:
+    BR - SYNTH Moog.wav:
+      Track_path: Bosnian Rainbows - Morning Sickness\Bosnian Rainbows - Morning Sickness_RAW\BR
+        - SYNTH Moog.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    BR - SYNTH Virus.wav:
+      Track_path: Bosnian Rainbows - Morning Sickness\Bosnian Rainbows - Morning Sickness_RAW\BR
+        - SYNTH Virus.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  SFX: {}
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    BR - DRUMS-KICK-M82.wav:
+      Track_path: Bosnian Rainbows - Morning Sickness\Bosnian Rainbows - Morning Sickness_RAW\BR
+        - DRUMS-KICK-M82.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Snare:
+    BR - DRUMS-SNARE-M80 chrome.wav:
+      Track_path: Bosnian Rainbows - Morning Sickness\Bosnian Rainbows - Morning Sickness_RAW\BR
+        - DRUMS-SNARE-M80 chrome.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_HiHat:
+    BR - DRUMS-HIGH HAT-M80 gold.wav:
+      Track_path: Bosnian Rainbows - Morning Sickness\Bosnian Rainbows - Morning Sickness_RAW\BR
+        - DRUMS-HIGH HAT-M80 gold.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Cymbals: {}
+  Drum_Overheads: {}
+  Drum_Tom: {}
+  Drum_Room: {}
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop: {}
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass: {}
+  Electric_Bass:
+    BR - BASS-M81 blue.wav:
+      Track_path: Bosnian Rainbows - Morning Sickness\Bosnian Rainbows - Morning Sickness_RAW\BR
+        - BASS-M81 blue.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: ''
+      Comment: ''
+    BR - DRUMS-MPC.wav:
+      Track_path: Bosnian Rainbows - Morning Sickness\Bosnian Rainbows - Morning Sickness_RAW\BR
+        - DRUMS-MPC.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Acoustic_Guitar: {}
+  Electric_Guitar:
+    BR - GUITAR-M80 orange.wav:
+      Track_path: Bosnian Rainbows - Morning Sickness\Bosnian Rainbows - Morning Sickness_RAW\BR
+        - GUITAR-M80 orange.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Piano: {}
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal: {}
+  Choir: {}
+  Backing_Vocal:
+    BR - VOX-M80 purple.wav:
+      Track_path: Bosnian Rainbows - Morning Sickness\Bosnian Rainbows - Morning Sickness_RAW\BR
+        - VOX-M80 purple.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Unused:
+    BR - MORNING SICKNESS ruff mix.wav:
+      Track_path: Bosnian Rainbows - Morning Sickness\Bosnian Rainbows - Morning Sickness_RAW\BR
+        - MORNING SICKNESS ruff mix.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Ambient_Microphone: {}

@@ -47,6 +47,8 @@ def gen_yaml(directory, move_raw = True):
     yaml_obj['version'] = '3.0'
     make_dir(os.path.join(save_path, ID))
     make_dir(os.path.join(save_path, ID, ID+'_RAW'))
+    if os.path.exists(os.path.join(save_path, ID, ID+'_STEMS')):
+        shutil.rmtree(os.path.join(save_path, ID, ID+'_STEMS'))
     make_dir(os.path.join(save_path, ID, ID+'_STEMS'))
     make_dir(os.path.join(save_path, ID, ID+'_STEMS', 'Inst'))
     make_dir(os.path.join(save_path, ID, ID+'_STEMS', 'MUSDB'))
@@ -304,7 +306,7 @@ if __name__ == "__main__":
     # print(output_path)
     os.makedirs(out_path,exist_ok=True)
 
-    anno_file_path = './mixing_secret_dataset_final_name.csv'
+    anno_file_path = './mixing_secret_dataset_annotation_with_comment.csv'
     hierarchy_path = './hierarchy.json'
 
     threads = int(sys.argv[3])

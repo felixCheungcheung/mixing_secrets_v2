@@ -1,0 +1,213 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer:
+    09_Synth1.wav:
+      Track_path: Triviul - Better\Triviul - Better_RAW\09_Synth1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    10_Synth2.wav:
+      Track_path: Triviul - Better\Triviul - Better_RAW\10_Synth2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    11_Synth3.wav:
+      Track_path: Triviul - Better\Triviul - Better_RAW\11_Synth3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    12_Synth4.wav:
+      Track_path: Triviul - Better\Triviul - Better_RAW\12_Synth4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  SFX:
+    05_SFX1.wav:
+      Track_path: Triviul - Better\Triviul - Better_RAW\05_SFX1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    06_SFX2.wav:
+      Track_path: Triviul - Better\Triviul - Better_RAW\06_SFX2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    07_SFX3.wav:
+      Track_path: Triviul - Better\Triviul - Better_RAW\07_SFX3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    01_Kicks.wav:
+      Track_path: Triviul - Better\Triviul - Better_RAW\01_Kicks.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Snare:
+    04_Snares.wav:
+      Track_path: Triviul - Better\Triviul - Better_RAW\04_Snares.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_HiHat: {}
+  Drum_Cymbals: {}
+  Drum_Overheads:
+    02_Breaks.wav:
+      Track_path: Triviul - Better\Triviul - Better_RAW\02_Breaks.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    03_DrumLoop.wav:
+      Track_path: Triviul - Better\Triviul - Better_RAW\03_DrumLoop.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Tom: {}
+  Drum_Room: {}
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop: {}
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass: {}
+  Electric_Bass:
+    08_Bass.wav:
+      Track_path: Triviul - Better\Triviul - Better_RAW\08_Bass.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Acoustic_Guitar: {}
+  Electric_Guitar: {}
+  Piano: {}
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    13_LeadVox1.wav:
+      Track_path: Triviul - Better\Triviul - Better_RAW\13_LeadVox1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    14_LeadVox2.wav:
+      Track_path: Triviul - Better\Triviul - Better_RAW\14_LeadVox2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Choir: {}
+  Backing_Vocal:
+    15_BackingVox01.wav:
+      Track_path: Triviul - Better\Triviul - Better_RAW\15_BackingVox01.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    16_BackingVox02.wav:
+      Track_path: Triviul - Better\Triviul - Better_RAW\16_BackingVox02.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    17_BackingVox03.wav:
+      Track_path: Triviul - Better\Triviul - Better_RAW\17_BackingVox03.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    18_BackingVox04.wav:
+      Track_path: Triviul - Better\Triviul - Better_RAW\18_BackingVox04.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    19_BackingVox05.wav:
+      Track_path: Triviul - Better\Triviul - Better_RAW\19_BackingVox05.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    20_BackingVox06.wav:
+      Track_path: Triviul - Better\Triviul - Better_RAW\20_BackingVox06.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    21_BackingVox07.wav:
+      Track_path: Triviul - Better\Triviul - Better_RAW\21_BackingVox07.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    22_BackingVox08.wav:
+      Track_path: Triviul - Better\Triviul - Better_RAW\22_BackingVox08.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    23_BackingVox09.wav:
+      Track_path: Triviul - Better\Triviul - Better_RAW\23_BackingVox09.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    24_BackingVox10.wav:
+      Track_path: Triviul - Better\Triviul - Better_RAW\24_BackingVox10.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    25_BackingVox11.wav:
+      Track_path: Triviul - Better\Triviul - Better_RAW\25_BackingVox11.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    26_BackingVox12.wav:
+      Track_path: Triviul - Better\Triviul - Better_RAW\26_BackingVox12.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    27_BackingVox13.wav:
+      Track_path: Triviul - Better\Triviul - Better_RAW\27_BackingVox13.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    28_BackingVox14.wav:
+      Track_path: Triviul - Better\Triviul - Better_RAW\28_BackingVox14.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Unused: {}
+  Ambient_Microphone: {}

@@ -1,0 +1,333 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer:
+    48_Synth.wav:
+      Track_path: Detsky Sad - Walkie Talkie\Detsky Sad - Walkie Talkie_RAW\48_Synth.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  SFX:
+    18_Break1.wav:
+      Track_path: Detsky Sad - Walkie Talkie\Detsky Sad - Walkie Talkie_RAW\18_Break1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    19_Break2.wav:
+      Track_path: Detsky Sad - Walkie Talkie\Detsky Sad - Walkie Talkie_RAW\19_Break2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    20_Break2.wav:
+      Track_path: Detsky Sad - Walkie Talkie\Detsky Sad - Walkie Talkie_RAW\20_Break2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    21_SampleSFX1.wav:
+      Track_path: Detsky Sad - Walkie Talkie\Detsky Sad - Walkie Talkie_RAW\21_SampleSFX1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    22_SampleSFX2.wav:
+      Track_path: Detsky Sad - Walkie Talkie\Detsky Sad - Walkie Talkie_RAW\22_SampleSFX2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    23_SampleSFX3.wav:
+      Track_path: Detsky Sad - Walkie Talkie\Detsky Sad - Walkie Talkie_RAW\23_SampleSFX3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    24_SampleSFX4.wav:
+      Track_path: Detsky Sad - Walkie Talkie\Detsky Sad - Walkie Talkie_RAW\24_SampleSFX4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    25_SampleSFX5.wav:
+      Track_path: Detsky Sad - Walkie Talkie\Detsky Sad - Walkie Talkie_RAW\25_SampleSFX5.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    26_SampleSFX6.wav:
+      Track_path: Detsky Sad - Walkie Talkie\Detsky Sad - Walkie Talkie_RAW\26_SampleSFX6.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    27_SampleSFX7.wav:
+      Track_path: Detsky Sad - Walkie Talkie\Detsky Sad - Walkie Talkie_RAW\27_SampleSFX7.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    28_SampleSFX8.wav:
+      Track_path: Detsky Sad - Walkie Talkie\Detsky Sad - Walkie Talkie_RAW\28_SampleSFX8.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    01_Kick1.wav:
+      Track_path: Detsky Sad - Walkie Talkie\Detsky Sad - Walkie Talkie_RAW\01_Kick1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    02_Kick2.wav:
+      Track_path: Detsky Sad - Walkie Talkie\Detsky Sad - Walkie Talkie_RAW\02_Kick2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    03_Kick3.wav:
+      Track_path: Detsky Sad - Walkie Talkie\Detsky Sad - Walkie Talkie_RAW\03_Kick3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    04_Kick4.wav:
+      Track_path: Detsky Sad - Walkie Talkie\Detsky Sad - Walkie Talkie_RAW\04_Kick4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    05_Kick5.wav:
+      Track_path: Detsky Sad - Walkie Talkie\Detsky Sad - Walkie Talkie_RAW\05_Kick5.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Snare:
+    06_Snare1.wav:
+      Track_path: Detsky Sad - Walkie Talkie\Detsky Sad - Walkie Talkie_RAW\06_Snare1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    07_Snare2.wav:
+      Track_path: Detsky Sad - Walkie Talkie\Detsky Sad - Walkie Talkie_RAW\07_Snare2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    08_Snare3.wav:
+      Track_path: Detsky Sad - Walkie Talkie\Detsky Sad - Walkie Talkie_RAW\08_Snare3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    09_Snare4.wav:
+      Track_path: Detsky Sad - Walkie Talkie\Detsky Sad - Walkie Talkie_RAW\09_Snare4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    10_Snare5.wav:
+      Track_path: Detsky Sad - Walkie Talkie\Detsky Sad - Walkie Talkie_RAW\10_Snare5.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_HiHat: {}
+  Drum_Cymbals:
+    11_Cymbal.wav:
+      Track_path: Detsky Sad - Walkie Talkie\Detsky Sad - Walkie Talkie_RAW\11_Cymbal.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Overheads: {}
+  Drum_Tom: {}
+  Drum_Room: {}
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop:
+    12_Loop1.wav:
+      Track_path: Detsky Sad - Walkie Talkie\Detsky Sad - Walkie Talkie_RAW\12_Loop1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    13_Loop2.wav:
+      Track_path: Detsky Sad - Walkie Talkie\Detsky Sad - Walkie Talkie_RAW\13_Loop2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    14_Loop3.wav:
+      Track_path: Detsky Sad - Walkie Talkie\Detsky Sad - Walkie Talkie_RAW\14_Loop3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    15_Loop4.wav:
+      Track_path: Detsky Sad - Walkie Talkie\Detsky Sad - Walkie Talkie_RAW\15_Loop4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    16_Loop5.wav:
+      Track_path: Detsky Sad - Walkie Talkie\Detsky Sad - Walkie Talkie_RAW\16_Loop5.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    17_Loop6.wav:
+      Track_path: Detsky Sad - Walkie Talkie\Detsky Sad - Walkie Talkie_RAW\17_Loop6.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass: {}
+  Electric_Bass:
+    29_Bass.wav:
+      Track_path: Detsky Sad - Walkie Talkie\Detsky Sad - Walkie Talkie_RAW\29_Bass.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Acoustic_Guitar: {}
+  Electric_Guitar:
+    30_Gtr01a_Mic1.wav:
+      Track_path: Detsky Sad - Walkie Talkie\Detsky Sad - Walkie Talkie_RAW\30_Gtr01a_Mic1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    31_Gtr01b_Mic2.wav:
+      Track_path: Detsky Sad - Walkie Talkie\Detsky Sad - Walkie Talkie_RAW\31_Gtr01b_Mic2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    32_Gtr01c_Mic3.wav:
+      Track_path: Detsky Sad - Walkie Talkie\Detsky Sad - Walkie Talkie_RAW\32_Gtr01c_Mic3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    33_Gtr02a_Mic1.wav:
+      Track_path: Detsky Sad - Walkie Talkie\Detsky Sad - Walkie Talkie_RAW\33_Gtr02a_Mic1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    34_Gtr02b_Mic2.wav:
+      Track_path: Detsky Sad - Walkie Talkie\Detsky Sad - Walkie Talkie_RAW\34_Gtr02b_Mic2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    35_Gtr03a_Mic1.wav:
+      Track_path: Detsky Sad - Walkie Talkie\Detsky Sad - Walkie Talkie_RAW\35_Gtr03a_Mic1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    36_Gtr03b_Mic2.wav:
+      Track_path: Detsky Sad - Walkie Talkie\Detsky Sad - Walkie Talkie_RAW\36_Gtr03b_Mic2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    37_Gtr03c_Mic3.wav:
+      Track_path: Detsky Sad - Walkie Talkie\Detsky Sad - Walkie Talkie_RAW\37_Gtr03c_Mic3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    38_Gtr04a_Mic1.wav:
+      Track_path: Detsky Sad - Walkie Talkie\Detsky Sad - Walkie Talkie_RAW\38_Gtr04a_Mic1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    39_Gtr04b_Mic2.wav:
+      Track_path: Detsky Sad - Walkie Talkie\Detsky Sad - Walkie Talkie_RAW\39_Gtr04b_Mic2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    40_Gtr05a_Mic1.wav:
+      Track_path: Detsky Sad - Walkie Talkie\Detsky Sad - Walkie Talkie_RAW\40_Gtr05a_Mic1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    41_Gtr05b_Mic2.wav:
+      Track_path: Detsky Sad - Walkie Talkie\Detsky Sad - Walkie Talkie_RAW\41_Gtr05b_Mic2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    42_Gtr06a_Mic1.wav:
+      Track_path: Detsky Sad - Walkie Talkie\Detsky Sad - Walkie Talkie_RAW\42_Gtr06a_Mic1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    43_Gtr06b_Mic2.wav:
+      Track_path: Detsky Sad - Walkie Talkie\Detsky Sad - Walkie Talkie_RAW\43_Gtr06b_Mic2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    44_Gtr07a_Mic1.wav:
+      Track_path: Detsky Sad - Walkie Talkie\Detsky Sad - Walkie Talkie_RAW\44_Gtr07a_Mic1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    45_Gtr07b_Mic2.wav:
+      Track_path: Detsky Sad - Walkie Talkie\Detsky Sad - Walkie Talkie_RAW\45_Gtr07b_Mic2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    46_Gtr07c_Mic3.wav:
+      Track_path: Detsky Sad - Walkie Talkie\Detsky Sad - Walkie Talkie_RAW\46_Gtr07c_Mic3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    47_Gtr07d_Mic4.wav:
+      Track_path: Detsky Sad - Walkie Talkie\Detsky Sad - Walkie Talkie_RAW\47_Gtr07d_Mic4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Piano: {}
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    49_LeadVox.wav:
+      Track_path: Detsky Sad - Walkie Talkie\Detsky Sad - Walkie Talkie_RAW\49_LeadVox.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Choir: {}
+  Backing_Vocal:
+    50_BackingVoxSFX1.wav:
+      Track_path: Detsky Sad - Walkie Talkie\Detsky Sad - Walkie Talkie_RAW\50_BackingVoxSFX1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    51_BackingVoxSFX2.wav:
+      Track_path: Detsky Sad - Walkie Talkie\Detsky Sad - Walkie Talkie_RAW\51_BackingVoxSFX2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    52_BackingVoxSFX3.wav:
+      Track_path: Detsky Sad - Walkie Talkie\Detsky Sad - Walkie Talkie_RAW\52_BackingVoxSFX3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Unused: {}
+  Ambient_Microphone: {}

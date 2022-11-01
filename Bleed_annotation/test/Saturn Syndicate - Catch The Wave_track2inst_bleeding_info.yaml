@@ -1,0 +1,293 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer:
+    20_Synth01.wav:
+      Track_path: Saturn Syndicate - Catch The Wave\Saturn Syndicate - Catch The Wave_RAW\20_Synth01.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    21_Synth02.wav:
+      Track_path: Saturn Syndicate - Catch The Wave\Saturn Syndicate - Catch The Wave_RAW\21_Synth02.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    22_Synth03.wav:
+      Track_path: Saturn Syndicate - Catch The Wave\Saturn Syndicate - Catch The Wave_RAW\22_Synth03.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    23_Synth04.wav:
+      Track_path: Saturn Syndicate - Catch The Wave\Saturn Syndicate - Catch The Wave_RAW\23_Synth04.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    24_Synth05.wav:
+      Track_path: Saturn Syndicate - Catch The Wave\Saturn Syndicate - Catch The Wave_RAW\24_Synth05.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    25_Synth06.wav:
+      Track_path: Saturn Syndicate - Catch The Wave\Saturn Syndicate - Catch The Wave_RAW\25_Synth06.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    26_Synth07.wav:
+      Track_path: Saturn Syndicate - Catch The Wave\Saturn Syndicate - Catch The Wave_RAW\26_Synth07.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    27_Synth08.wav:
+      Track_path: Saturn Syndicate - Catch The Wave\Saturn Syndicate - Catch The Wave_RAW\27_Synth08.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    28_Synth09.wav:
+      Track_path: Saturn Syndicate - Catch The Wave\Saturn Syndicate - Catch The Wave_RAW\28_Synth09.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    29_Synth10.wav:
+      Track_path: Saturn Syndicate - Catch The Wave\Saturn Syndicate - Catch The Wave_RAW\29_Synth10.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    30_Synth11.wav:
+      Track_path: Saturn Syndicate - Catch The Wave\Saturn Syndicate - Catch The Wave_RAW\30_Synth11.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    31_Synth12.wav:
+      Track_path: Saturn Syndicate - Catch The Wave\Saturn Syndicate - Catch The Wave_RAW\31_Synth12.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    32_Synth13.wav:
+      Track_path: Saturn Syndicate - Catch The Wave\Saturn Syndicate - Catch The Wave_RAW\32_Synth13.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    33_Synth14.wav:
+      Track_path: Saturn Syndicate - Catch The Wave\Saturn Syndicate - Catch The Wave_RAW\33_Synth14.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    34_Synth15.wav:
+      Track_path: Saturn Syndicate - Catch The Wave\Saturn Syndicate - Catch The Wave_RAW\34_Synth15.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    35_Synth16.wav:
+      Track_path: Saturn Syndicate - Catch The Wave\Saturn Syndicate - Catch The Wave_RAW\35_Synth16.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    36_Synth17.wav:
+      Track_path: Saturn Syndicate - Catch The Wave\Saturn Syndicate - Catch The Wave_RAW\36_Synth17.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    37_Synth18.wav:
+      Track_path: Saturn Syndicate - Catch The Wave\Saturn Syndicate - Catch The Wave_RAW\37_Synth18.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    38_Synth19.wav:
+      Track_path: Saturn Syndicate - Catch The Wave\Saturn Syndicate - Catch The Wave_RAW\38_Synth19.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  SFX: {}
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    01_Kick.wav:
+      Track_path: Saturn Syndicate - Catch The Wave\Saturn Syndicate - Catch The Wave_RAW\01_Kick.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Snare:
+    02_Snare1.wav:
+      Track_path: Saturn Syndicate - Catch The Wave\Saturn Syndicate - Catch The Wave_RAW\02_Snare1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    03_Snare2.wav:
+      Track_path: Saturn Syndicate - Catch The Wave\Saturn Syndicate - Catch The Wave_RAW\03_Snare2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_HiHat:
+    04_HiHat1.wav:
+      Track_path: Saturn Syndicate - Catch The Wave\Saturn Syndicate - Catch The Wave_RAW\04_HiHat1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    05_HiHat2.wav:
+      Track_path: Saturn Syndicate - Catch The Wave\Saturn Syndicate - Catch The Wave_RAW\05_HiHat2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Cymbals:
+    06_Crash.wav:
+      Track_path: Saturn Syndicate - Catch The Wave\Saturn Syndicate - Catch The Wave_RAW\06_Crash.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Overheads: {}
+  Drum_Tom: {}
+  Drum_Room: {}
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop: {}
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion:
+    07_Percussion.wav:
+      Track_path: Saturn Syndicate - Catch The Wave\Saturn Syndicate - Catch The Wave_RAW\07_Percussion.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Synth_Bass:
+    08_Bass1.wav:
+      Track_path: Saturn Syndicate - Catch The Wave\Saturn Syndicate - Catch The Wave_RAW\08_Bass1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    09_Bass2.wav:
+      Track_path: Saturn Syndicate - Catch The Wave\Saturn Syndicate - Catch The Wave_RAW\09_Bass2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    10_Bass3.wav:
+      Track_path: Saturn Syndicate - Catch The Wave\Saturn Syndicate - Catch The Wave_RAW\10_Bass3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Electric_Bass: {}
+  Acoustic_Guitar: {}
+  Electric_Guitar:
+    11_ElecGtr1.wav:
+      Track_path: Saturn Syndicate - Catch The Wave\Saturn Syndicate - Catch The Wave_RAW\11_ElecGtr1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    12_ElecGtr2.wav:
+      Track_path: Saturn Syndicate - Catch The Wave\Saturn Syndicate - Catch The Wave_RAW\12_ElecGtr2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    13_ElecGtr3.wav:
+      Track_path: Saturn Syndicate - Catch The Wave\Saturn Syndicate - Catch The Wave_RAW\13_ElecGtr3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    14_ElecGtr4.wav:
+      Track_path: Saturn Syndicate - Catch The Wave\Saturn Syndicate - Catch The Wave_RAW\14_ElecGtr4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    15_ElecGtr5.wav:
+      Track_path: Saturn Syndicate - Catch The Wave\Saturn Syndicate - Catch The Wave_RAW\15_ElecGtr5.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    16_ElecGtr6.wav:
+      Track_path: Saturn Syndicate - Catch The Wave\Saturn Syndicate - Catch The Wave_RAW\16_ElecGtr6.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    17_ElecGtr7.wav:
+      Track_path: Saturn Syndicate - Catch The Wave\Saturn Syndicate - Catch The Wave_RAW\17_ElecGtr7.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    18_ElecGtr8.wav:
+      Track_path: Saturn Syndicate - Catch The Wave\Saturn Syndicate - Catch The Wave_RAW\18_ElecGtr8.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    19_ElecGtr8DT.wav:
+      Track_path: Saturn Syndicate - Catch The Wave\Saturn Syndicate - Catch The Wave_RAW\19_ElecGtr8DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Piano: {}
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    39_LeadVox_Tuned.wav:
+      Track_path: Saturn Syndicate - Catch The Wave\Saturn Syndicate - Catch The Wave_RAW\39_LeadVox_Tuned.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Choir: {}
+  Backing_Vocal:
+    41_BackingVox1_Tuned.wav:
+      Track_path: Saturn Syndicate - Catch The Wave\Saturn Syndicate - Catch The Wave_RAW\41_BackingVox1_Tuned.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    43_BackingVox2_Tuned.wav:
+      Track_path: Saturn Syndicate - Catch The Wave\Saturn Syndicate - Catch The Wave_RAW\43_BackingVox2_Tuned.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Unused:
+    40_LeadVox_Untuned.wav:
+      Track_path: Saturn Syndicate - Catch The Wave\Saturn Syndicate - Catch The Wave_RAW\40_LeadVox_Untuned.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    42_BackingVox1_Untuned.wav:
+      Track_path: Saturn Syndicate - Catch The Wave\Saturn Syndicate - Catch The Wave_RAW\42_BackingVox1_Untuned.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    44_BackingVox2_Untuned.wav:
+      Track_path: Saturn Syndicate - Catch The Wave\Saturn Syndicate - Catch The Wave_RAW\44_BackingVox2_Untuned.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Ambient_Microphone: {}

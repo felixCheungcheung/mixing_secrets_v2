@@ -1,0 +1,520 @@
+Track2inst:
+  Electric_Organ:
+    Organ.L.wav:
+      Track_path: Amber Skye - Howlin\Amber Skye - Howlin_RAW\Organ.L.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Organ.R.wav:
+      Track_path: Amber Skye - Howlin\Amber Skye - Howlin_RAW\Organ.R.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Synthesizer:
+    Arp.L.wav:
+      Track_path: Amber Skye - Howlin\Amber Skye - Howlin_RAW\Arp.L.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Arp.R.wav:
+      Track_path: Amber Skye - Howlin\Amber Skye - Howlin_RAW\Arp.R.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Verse Arp.L.wav:
+      Track_path: Amber Skye - Howlin\Amber Skye - Howlin_RAW\Verse Arp.L.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Verse Arp.R.wav:
+      Track_path: Amber Skye - Howlin\Amber Skye - Howlin_RAW\Verse Arp.R.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Lead Synth Dbl.L.wav:
+      Track_path: Amber Skye - Howlin\Amber Skye - Howlin_RAW\Lead Synth Dbl.L.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Lead Synth Dbl.R.wav:
+      Track_path: Amber Skye - Howlin\Amber Skye - Howlin_RAW\Lead Synth Dbl.R.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  SFX:
+    Backwards.L.wav:
+      Track_path: Amber Skye - Howlin\Amber Skye - Howlin_RAW\Backwards.L.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Backwards.R.wav:
+      Track_path: Amber Skye - Howlin\Amber Skye - Howlin_RAW\Backwards.R.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Dog FX.wav:
+      Track_path: Amber Skye - Howlin\Amber Skye - Howlin_RAW\Dog FX.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Falls Drops.L.wav:
+      Track_path: Amber Skye - Howlin\Amber Skye - Howlin_RAW\Falls Drops.L.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Falls Drops.R.wav:
+      Track_path: Amber Skye - Howlin\Amber Skye - Howlin_RAW\Falls Drops.R.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Impacts1.L.wav:
+      Track_path: Amber Skye - Howlin\Amber Skye - Howlin_RAW\Impacts1.L.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Impacts1.R.wav:
+      Track_path: Amber Skye - Howlin\Amber Skye - Howlin_RAW\Impacts1.R.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Impacts2.L.wav:
+      Track_path: Amber Skye - Howlin\Amber Skye - Howlin_RAW\Impacts2.L.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Impacts2.R.wav:
+      Track_path: Amber Skye - Howlin\Amber Skye - Howlin_RAW\Impacts2.R.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Reverse_Suck1.L.wav:
+      Track_path: Amber Skye - Howlin\Amber Skye - Howlin_RAW\Reverse_Suck1.L.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Reverse_Suck1.R.wav:
+      Track_path: Amber Skye - Howlin\Amber Skye - Howlin_RAW\Reverse_Suck1.R.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Reverse_Suck2.L.wav:
+      Track_path: Amber Skye - Howlin\Amber Skye - Howlin_RAW\Reverse_Suck2.L.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Reverse_Suck2.R.wav:
+      Track_path: Amber Skye - Howlin\Amber Skye - Howlin_RAW\Reverse_Suck2.R.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Reverse_Suck3.L.wav:
+      Track_path: Amber Skye - Howlin\Amber Skye - Howlin_RAW\Reverse_Suck3.L.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Reverse_Suck3.R.wav:
+      Track_path: Amber Skye - Howlin\Amber Skye - Howlin_RAW\Reverse_Suck3.R.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    Kick1.L.wav:
+      Track_path: Amber Skye - Howlin\Amber Skye - Howlin_RAW\Kick1.L.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Kick1.R.wav:
+      Track_path: Amber Skye - Howlin\Amber Skye - Howlin_RAW\Kick1.R.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Kick2.L.wav:
+      Track_path: Amber Skye - Howlin\Amber Skye - Howlin_RAW\Kick2.L.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Kick2.R.wav:
+      Track_path: Amber Skye - Howlin\Amber Skye - Howlin_RAW\Kick2.R.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Kick3.L.wav:
+      Track_path: Amber Skye - Howlin\Amber Skye - Howlin_RAW\Kick3.L.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Kick3.R.wav:
+      Track_path: Amber Skye - Howlin\Amber Skye - Howlin_RAW\Kick3.R.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Snare:
+    Snare1.L.wav:
+      Track_path: Amber Skye - Howlin\Amber Skye - Howlin_RAW\Snare1.L.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Snare1.R.wav:
+      Track_path: Amber Skye - Howlin\Amber Skye - Howlin_RAW\Snare1.R.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Snare2.L.wav:
+      Track_path: Amber Skye - Howlin\Amber Skye - Howlin_RAW\Snare2.L.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Snare2.R.wav:
+      Track_path: Amber Skye - Howlin\Amber Skye - Howlin_RAW\Snare2.R.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Snares Hook.L.wav:
+      Track_path: Amber Skye - Howlin\Amber Skye - Howlin_RAW\Snares Hook.L.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Snares Hook.R.wav:
+      Track_path: Amber Skye - Howlin\Amber Skye - Howlin_RAW\Snares Hook.R.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_HiHat:
+    Hat1.L.wav:
+      Track_path: Amber Skye - Howlin\Amber Skye - Howlin_RAW\Hat1.L.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Hat1.R.wav:
+      Track_path: Amber Skye - Howlin\Amber Skye - Howlin_RAW\Hat1.R.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Hat2.L.wav:
+      Track_path: Amber Skye - Howlin\Amber Skye - Howlin_RAW\Hat2.L.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Hat2.R.wav:
+      Track_path: Amber Skye - Howlin\Amber Skye - Howlin_RAW\Hat2.R.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Hat3.L.wav:
+      Track_path: Amber Skye - Howlin\Amber Skye - Howlin_RAW\Hat3.L.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Hat3.R.wav:
+      Track_path: Amber Skye - Howlin\Amber Skye - Howlin_RAW\Hat3.R.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Cymbals:
+    Crash Fx.L.wav:
+      Track_path: Amber Skye - Howlin\Amber Skye - Howlin_RAW\Crash Fx.L.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Crash Fx.R.wav:
+      Track_path: Amber Skye - Howlin\Amber Skye - Howlin_RAW\Crash Fx.R.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Overheads: {}
+  Drum_Tom: {}
+  Drum_Room: {}
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop:
+    Beat.L.wav:
+      Track_path: Amber Skye - Howlin\Amber Skye - Howlin_RAW\Beat.L.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Beat.R.wav:
+      Track_path: Amber Skye - Howlin\Amber Skye - Howlin_RAW\Beat.R.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass:
+    pBridge Bass.L.wav:
+      Track_path: Amber Skye - Howlin\Amber Skye - Howlin_RAW\pBridge Bass.L.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    pBridge Bass.R.wav:
+      Track_path: Amber Skye - Howlin\Amber Skye - Howlin_RAW\pBridge Bass.R.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Sub Phatty1.wav:
+      Track_path: Amber Skye - Howlin\Amber Skye - Howlin_RAW\Sub Phatty1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Sub phatty2.wav:
+      Track_path: Amber Skye - Howlin\Amber Skye - Howlin_RAW\Sub phatty2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Electric_Bass: {}
+  Acoustic_Guitar:
+    Chorus GTR1.wav:
+      Track_path: Amber Skye - Howlin\Amber Skye - Howlin_RAW\Chorus GTR1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Chorus GTR2.wav:
+      Track_path: Amber Skye - Howlin\Amber Skye - Howlin_RAW\Chorus GTR2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Verse Guitar.L.wav:
+      Track_path: Amber Skye - Howlin\Amber Skye - Howlin_RAW\Verse Guitar.L.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Verse Guitar.R.wav:
+      Track_path: Amber Skye - Howlin\Amber Skye - Howlin_RAW\Verse Guitar.R.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Ukelele.wav:
+      Track_path: Amber Skye - Howlin\Amber Skye - Howlin_RAW\Ukelele.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Electric_Guitar:
+    Vibe Guitar1.wav:
+      Track_path: Amber Skye - Howlin\Amber Skye - Howlin_RAW\Vibe Guitar1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Vibe Guitar2.wav:
+      Track_path: Amber Skye - Howlin\Amber Skye - Howlin_RAW\Vibe Guitar2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Vibe Guitar3.wav:
+      Track_path: Amber Skye - Howlin\Amber Skye - Howlin_RAW\Vibe Guitar3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Vibe Guitar4.wav:
+      Track_path: Amber Skye - Howlin\Amber Skye - Howlin_RAW\Vibe Guitar4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Piano:
+    Piano.L.wav:
+      Track_path: Amber Skye - Howlin\Amber Skye - Howlin_RAW\Piano.L.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Piano.R.wav:
+      Track_path: Amber Skye - Howlin\Amber Skye - Howlin_RAW\Piano.R.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    Vocal Break.L.wav:
+      Track_path: Amber Skye - Howlin\Amber Skye - Howlin_RAW\Vocal Break.L.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Vocal Break.R.wav:
+      Track_path: Amber Skye - Howlin\Amber Skye - Howlin_RAW\Vocal Break.R.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Vocal Verse.wav:
+      Track_path: Amber Skye - Howlin\Amber Skye - Howlin_RAW\Vocal Verse.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Vocals Bridge1.wav:
+      Track_path: Amber Skye - Howlin\Amber Skye - Howlin_RAW\Vocals Bridge1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Vocals Bridge2.wav:
+      Track_path: Amber Skye - Howlin\Amber Skye - Howlin_RAW\Vocals Bridge2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Vocals Bridge3.wav:
+      Track_path: Amber Skye - Howlin\Amber Skye - Howlin_RAW\Vocals Bridge3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Vocals Bridge4.wav:
+      Track_path: Amber Skye - Howlin\Amber Skye - Howlin_RAW\Vocals Bridge4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Vocals Bridge5.wav:
+      Track_path: Amber Skye - Howlin\Amber Skye - Howlin_RAW\Vocals Bridge5.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Vocals Bridge6.wav:
+      Track_path: Amber Skye - Howlin\Amber Skye - Howlin_RAW\Vocals Bridge6.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Vox Adlibs.wav:
+      Track_path: Amber Skye - Howlin\Amber Skye - Howlin_RAW\Vox Adlibs.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Vox Chorus Lead .wav:
+      Track_path: Amber Skye - Howlin\Amber Skye - Howlin_RAW\Vox Chorus Lead .wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Vox Chorus Lead Dub1.wav:
+      Track_path: Amber Skye - Howlin\Amber Skye - Howlin_RAW\Vox Chorus Lead Dub1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Vox Chorus Lead Dub2.wav:
+      Track_path: Amber Skye - Howlin\Amber Skye - Howlin_RAW\Vox Chorus Lead Dub2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Choir: {}
+  Backing_Vocal:
+    Vox Chorus Harm .wav:
+      Track_path: Amber Skye - Howlin\Amber Skye - Howlin_RAW\Vox Chorus Harm .wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Vox Chorus Harm 2.wav:
+      Track_path: Amber Skye - Howlin\Amber Skye - Howlin_RAW\Vox Chorus Harm 2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Vox Chorus Howl 2.wav:
+      Track_path: Amber Skye - Howlin\Amber Skye - Howlin_RAW\Vox Chorus Howl 2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Vox Chorus Howl 3.wav:
+      Track_path: Amber Skye - Howlin\Amber Skye - Howlin_RAW\Vox Chorus Howl 3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Vox Chorus Howl 4.wav:
+      Track_path: Amber Skye - Howlin\Amber Skye - Howlin_RAW\Vox Chorus Howl 4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Vox Chorus Howl Harm 3.wav:
+      Track_path: Amber Skye - Howlin\Amber Skye - Howlin_RAW\Vox Chorus Howl Harm
+        3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Vox Chorus Howl Harm 4.wav:
+      Track_path: Amber Skye - Howlin\Amber Skye - Howlin_RAW\Vox Chorus Howl Harm
+        4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Vox Chorus Howl.wav:
+      Track_path: Amber Skye - Howlin\Amber Skye - Howlin_RAW\Vox Chorus Howl.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Vox Ohhs1.wav:
+      Track_path: Amber Skye - Howlin\Amber Skye - Howlin_RAW\Vox Ohhs1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Vox Ohhs2.wav:
+      Track_path: Amber Skye - Howlin\Amber Skye - Howlin_RAW\Vox Ohhs2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Vox Pre Harm1.wav:
+      Track_path: Amber Skye - Howlin\Amber Skye - Howlin_RAW\Vox Pre Harm1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Vox Pre Harm2.wav:
+      Track_path: Amber Skye - Howlin\Amber Skye - Howlin_RAW\Vox Pre Harm2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Vox Pre Stack1.wav:
+      Track_path: Amber Skye - Howlin\Amber Skye - Howlin_RAW\Vox Pre Stack1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Vox Pre Stack2.wav:
+      Track_path: Amber Skye - Howlin\Amber Skye - Howlin_RAW\Vox Pre Stack2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Vox Pre Stack3.wav:
+      Track_path: Amber Skye - Howlin\Amber Skye - Howlin_RAW\Vox Pre Stack3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Vox Pre Stack4.wav:
+      Track_path: Amber Skye - Howlin\Amber Skye - Howlin_RAW\Vox Pre Stack4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Unused: {}
+  Ambient_Microphone: {}

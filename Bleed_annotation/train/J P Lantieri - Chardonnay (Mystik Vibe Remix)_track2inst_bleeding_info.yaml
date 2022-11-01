@@ -1,0 +1,157 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer:
+    08_Synth01.wav:
+      Track_path: J P Lantieri - Chardonnay (Mystik Vibe Remix)\J P Lantieri - Chardonnay
+        (Mystik Vibe Remix)_RAW\08_Synth01.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    09_Synth02.wav:
+      Track_path: J P Lantieri - Chardonnay (Mystik Vibe Remix)\J P Lantieri - Chardonnay
+        (Mystik Vibe Remix)_RAW\09_Synth02.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    10_Synth03.wav:
+      Track_path: J P Lantieri - Chardonnay (Mystik Vibe Remix)\J P Lantieri - Chardonnay
+        (Mystik Vibe Remix)_RAW\10_Synth03.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    11_Synth04.wav:
+      Track_path: J P Lantieri - Chardonnay (Mystik Vibe Remix)\J P Lantieri - Chardonnay
+        (Mystik Vibe Remix)_RAW\11_Synth04.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    12_Synth05.wav:
+      Track_path: J P Lantieri - Chardonnay (Mystik Vibe Remix)\J P Lantieri - Chardonnay
+        (Mystik Vibe Remix)_RAW\12_Synth05.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    13_Synth06.wav:
+      Track_path: J P Lantieri - Chardonnay (Mystik Vibe Remix)\J P Lantieri - Chardonnay
+        (Mystik Vibe Remix)_RAW\13_Synth06.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  SFX:
+    07_SFX.wav:
+      Track_path: J P Lantieri - Chardonnay (Mystik Vibe Remix)\J P Lantieri - Chardonnay
+        (Mystik Vibe Remix)_RAW\07_SFX.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    01_Kick.wav:
+      Track_path: J P Lantieri - Chardonnay (Mystik Vibe Remix)\J P Lantieri - Chardonnay
+        (Mystik Vibe Remix)_RAW\01_Kick.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Snare:
+    06_SnareRolls.wav:
+      Track_path: J P Lantieri - Chardonnay (Mystik Vibe Remix)\J P Lantieri - Chardonnay
+        (Mystik Vibe Remix)_RAW\06_SnareRolls.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_HiHat: {}
+  Drum_Cymbals: {}
+  Drum_Overheads: {}
+  Drum_Tom: {}
+  Drum_Room: {}
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop:
+    03_Percussion1.wav:
+      Track_path: J P Lantieri - Chardonnay (Mystik Vibe Remix)\J P Lantieri - Chardonnay
+        (Mystik Vibe Remix)_RAW\03_Percussion1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion:
+    04_Percussion2.wav:
+      Track_path: J P Lantieri - Chardonnay (Mystik Vibe Remix)\J P Lantieri - Chardonnay
+        (Mystik Vibe Remix)_RAW\04_Percussion2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    05_Percussion3.wav:
+      Track_path: J P Lantieri - Chardonnay (Mystik Vibe Remix)\J P Lantieri - Chardonnay
+        (Mystik Vibe Remix)_RAW\05_Percussion3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Synth_Bass:
+    02_Bass.wav:
+      Track_path: J P Lantieri - Chardonnay (Mystik Vibe Remix)\J P Lantieri - Chardonnay
+        (Mystik Vibe Remix)_RAW\02_Bass.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Electric_Bass: {}
+  Acoustic_Guitar: {}
+  Electric_Guitar: {}
+  Piano: {}
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    14_Vox.wav:
+      Track_path: J P Lantieri - Chardonnay (Mystik Vibe Remix)\J P Lantieri - Chardonnay
+        (Mystik Vibe Remix)_RAW\14_Vox.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Choir: {}
+  Backing_Vocal: {}
+  Unused: {}
+  Ambient_Microphone: {}

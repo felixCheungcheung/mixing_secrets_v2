@@ -1,0 +1,169 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer: {}
+  SFX: {}
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    01_Kick.wav:
+      Track_path: Spektakulatius - What Child Is This\Spektakulatius - What Child
+        Is This_RAW\01_Kick.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads, Piano, Lead_Vocal, Backing_Vocal, Double_Bass'
+      Comment: ''
+  Drum_Snare: {}
+  Drum_HiHat: {}
+  Drum_Cymbals: {}
+  Drum_Overheads:
+    02_Overheads.wav:
+      Track_path: Spektakulatius - What Child Is This\Spektakulatius - What Child
+        Is This_RAW\02_Overheads.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Piano, Lead_Vocal, Backing_Vocal, Double_Bass'
+      Comment: ''
+  Drum_Tom:
+    03_Toms.wav:
+      Track_path: Spektakulatius - What Child Is This\Spektakulatius - What Child
+        Is This_RAW\03_Toms.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads, Piano, Lead_Vocal, Backing_Vocal, Double_Bass'
+      Comment: ''
+  Drum_Room: {}
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop: {}
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass: {}
+  Electric_Bass: {}
+  Acoustic_Guitar:
+    10_AcousticGtr.wav:
+      Track_path: Spektakulatius - What Child Is This\Spektakulatius - What Child
+        Is This_RAW\10_AcousticGtr.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Piano'
+      Comment: ''
+  Electric_Guitar: {}
+  Piano:
+    11_Piano.wav:
+      Track_path: Spektakulatius - What Child Is This\Spektakulatius - What Child
+        Is This_RAW\11_Piano.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Lead_Vocal, Backing_Vocal, Double_Bass'
+      Comment: ''
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass:
+    04_Bass1Mic.wav:
+      Track_path: Spektakulatius - What Child Is This\Spektakulatius - What Child
+        Is This_RAW\04_Bass1Mic.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Lead_Vocal, Backing_Vocal, Piano'
+      Comment: ''
+    05_Bass1DI.wav:
+      Track_path: Spektakulatius - What Child Is This\Spektakulatius - What Child
+        Is This_RAW\05_Bass1DI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    06_Bass2Mic.wav:
+      Track_path: Spektakulatius - What Child Is This\Spektakulatius - What Child
+        Is This_RAW\06_Bass2Mic.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    07_Bass2DI.wav:
+      Track_path: Spektakulatius - What Child Is This\Spektakulatius - What Child
+        Is This_RAW\07_Bass2DI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    08_Bass3Mic.wav:
+      Track_path: Spektakulatius - What Child Is This\Spektakulatius - What Child
+        Is This_RAW\08_Bass3Mic.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    09_Bass3DI.wav:
+      Track_path: Spektakulatius - What Child Is This\Spektakulatius - What Child
+        Is This_RAW\09_Bass3DI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet:
+    12_BassClarinet.wav:
+      Track_path: Spektakulatius - What Child Is This\Spektakulatius - What Child
+        Is This_RAW\12_BassClarinet.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    13_LeadVox.wav:
+      Track_path: Spektakulatius - What Child Is This\Spektakulatius - What Child
+        Is This_RAW\13_LeadVox.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Choir: {}
+  Backing_Vocal:
+    14_BackingVox1.wav:
+      Track_path: Spektakulatius - What Child Is This\Spektakulatius - What Child
+        Is This_RAW\14_BackingVox1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    15_BackingVox2.wav:
+      Track_path: Spektakulatius - What Child Is This\Spektakulatius - What Child
+        Is This_RAW\15_BackingVox2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    16_BackingVox3.wav:
+      Track_path: Spektakulatius - What Child Is This\Spektakulatius - What Child
+        Is This_RAW\16_BackingVox3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Unused: {}
+  Ambient_Microphone: {}

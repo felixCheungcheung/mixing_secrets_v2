@@ -1,0 +1,463 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer:
+    45_Synth1.wav:
+      Track_path: Tholas P. - Such Fine People\Tholas P. - Such Fine People_RAW\45_Synth1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    46_Synth2.wav:
+      Track_path: Tholas P. - Such Fine People\Tholas P. - Such Fine People_RAW\46_Synth2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    47_Synth3.wav:
+      Track_path: Tholas P. - Such Fine People\Tholas P. - Such Fine People_RAW\47_Synth3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    48_Synth4.wav:
+      Track_path: Tholas P. - Such Fine People\Tholas P. - Such Fine People_RAW\48_Synth4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  SFX:
+    16_SFX1.wav:
+      Track_path: Tholas P. - Such Fine People\Tholas P. - Such Fine People_RAW\16_SFX1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    17_SFX2.wav:
+      Track_path: Tholas P. - Such Fine People\Tholas P. - Such Fine People_RAW\17_SFX2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    18_SFX3.wav:
+      Track_path: Tholas P. - Such Fine People\Tholas P. - Such Fine People_RAW\18_SFX3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    19_SFX4.wav:
+      Track_path: Tholas P. - Such Fine People\Tholas P. - Such Fine People_RAW\19_SFX4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    20_SFX5.wav:
+      Track_path: Tholas P. - Such Fine People\Tholas P. - Such Fine People_RAW\20_SFX5.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    01_KickIn.wav:
+      Track_path: Tholas P. - Such Fine People\Tholas P. - Such Fine People_RAW\01_KickIn.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    02_KickOut.wav:
+      Track_path: Tholas P. - Such Fine People\Tholas P. - Such Fine People_RAW\02_KickOut.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    03_KickSample1.wav:
+      Track_path: Tholas P. - Such Fine People\Tholas P. - Such Fine People_RAW\03_KickSample1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    04_KickSample2.wav:
+      Track_path: Tholas P. - Such Fine People\Tholas P. - Such Fine People_RAW\04_KickSample2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Snare:
+    05_SnareUp.wav:
+      Track_path: Tholas P. - Such Fine People\Tholas P. - Such Fine People_RAW\05_SnareUp.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    06_SnareDown.wav:
+      Track_path: Tholas P. - Such Fine People\Tholas P. - Such Fine People_RAW\06_SnareDown.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    07_SnareSample1.wav:
+      Track_path: Tholas P. - Such Fine People\Tholas P. - Such Fine People_RAW\07_SnareSample1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    08_SnareSample2.wav:
+      Track_path: Tholas P. - Such Fine People\Tholas P. - Such Fine People_RAW\08_SnareSample2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_HiHat:
+    11_HiHat.wav:
+      Track_path: Tholas P. - Such Fine People\Tholas P. - Such Fine People_RAW\11_HiHat.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_Cymbals: {}
+  Drum_Overheads:
+    12_Overhead.wav:
+      Track_path: Tholas P. - Such Fine People\Tholas P. - Such Fine People_RAW\12_Overhead.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Tom:
+    09_Tom1.wav:
+      Track_path: Tholas P. - Such Fine People\Tholas P. - Such Fine People_RAW\09_Tom1.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    10_Tom2.wav:
+      Track_path: Tholas P. - Such Fine People\Tholas P. - Such Fine People_RAW\10_Tom2.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_Room:
+    13_DrumsRoom.wav:
+      Track_path: Tholas P. - Such Fine People\Tholas P. - Such Fine People_RAW\13_DrumsRoom.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Shaker:
+    14_Shaker.wav:
+      Track_path: Tholas P. - Such Fine People\Tholas P. - Such Fine People_RAW\14_Shaker.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop: {}
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion:
+    15_Percussion.wav:
+      Track_path: Tholas P. - Such Fine People\Tholas P. - Such Fine People_RAW\15_Percussion.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Synth_Bass: {}
+  Electric_Bass:
+    21_BassDI.wav:
+      Track_path: Tholas P. - Such Fine People\Tholas P. - Such Fine People_RAW\21_BassDI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    22_BassAmp.wav:
+      Track_path: Tholas P. - Such Fine People\Tholas P. - Such Fine People_RAW\22_BassAmp.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Acoustic_Guitar: {}
+  Electric_Guitar:
+    23_ElecGtr01.wav:
+      Track_path: Tholas P. - Such Fine People\Tholas P. - Such Fine People_RAW\23_ElecGtr01.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    24_ElecGtr01DI.wav:
+      Track_path: Tholas P. - Such Fine People\Tholas P. - Such Fine People_RAW\24_ElecGtr01DI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    25_ElecGtr01DT.wav:
+      Track_path: Tholas P. - Such Fine People\Tholas P. - Such Fine People_RAW\25_ElecGtr01DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    26_ElecGtr01DTDI.wav:
+      Track_path: Tholas P. - Such Fine People\Tholas P. - Such Fine People_RAW\26_ElecGtr01DTDI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    27_ElecGtr02.wav:
+      Track_path: Tholas P. - Such Fine People\Tholas P. - Such Fine People_RAW\27_ElecGtr02.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    28_ElecGtr02DT.wav:
+      Track_path: Tholas P. - Such Fine People\Tholas P. - Such Fine People_RAW\28_ElecGtr02DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    29_ElecGtr03.wav:
+      Track_path: Tholas P. - Such Fine People\Tholas P. - Such Fine People_RAW\29_ElecGtr03.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    30_ElecGtr03DI.wav:
+      Track_path: Tholas P. - Such Fine People\Tholas P. - Such Fine People_RAW\30_ElecGtr03DI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    31_ElecGtr03DT.wav:
+      Track_path: Tholas P. - Such Fine People\Tholas P. - Such Fine People_RAW\31_ElecGtr03DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    32_ElecGtr03DTDI.wav:
+      Track_path: Tholas P. - Such Fine People\Tholas P. - Such Fine People_RAW\32_ElecGtr03DTDI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    33_ElecGtr04.wav:
+      Track_path: Tholas P. - Such Fine People\Tholas P. - Such Fine People_RAW\33_ElecGtr04.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    34_ElecGtr04DI.wav:
+      Track_path: Tholas P. - Such Fine People\Tholas P. - Such Fine People_RAW\34_ElecGtr04DI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    35_ElecGtr05.wav:
+      Track_path: Tholas P. - Such Fine People\Tholas P. - Such Fine People_RAW\35_ElecGtr05.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    36_ElecGtr05DI.wav:
+      Track_path: Tholas P. - Such Fine People\Tholas P. - Such Fine People_RAW\36_ElecGtr05DI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    37_ElecGtr06.wav:
+      Track_path: Tholas P. - Such Fine People\Tholas P. - Such Fine People_RAW\37_ElecGtr06.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    38_ElecGtr06DI.wav:
+      Track_path: Tholas P. - Such Fine People\Tholas P. - Such Fine People_RAW\38_ElecGtr06DI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    39_ElecGtr07.wav:
+      Track_path: Tholas P. - Such Fine People\Tholas P. - Such Fine People_RAW\39_ElecGtr07.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    40_ElecGtr07DI.wav:
+      Track_path: Tholas P. - Such Fine People\Tholas P. - Such Fine People_RAW\40_ElecGtr07DI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    41_ElecGtr08.wav:
+      Track_path: Tholas P. - Such Fine People\Tholas P. - Such Fine People_RAW\41_ElecGtr08.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    42_ElecGtr08DI.wav:
+      Track_path: Tholas P. - Such Fine People\Tholas P. - Such Fine People_RAW\42_ElecGtr08DI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    43_ElecGtr09.wav:
+      Track_path: Tholas P. - Such Fine People\Tholas P. - Such Fine People_RAW\43_ElecGtr09.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    44_ElecGtr09DI.wav:
+      Track_path: Tholas P. - Such Fine People\Tholas P. - Such Fine People_RAW\44_ElecGtr09DI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Piano: {}
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    49_LeadVox1.wav:
+      Track_path: Tholas P. - Such Fine People\Tholas P. - Such Fine People_RAW\49_LeadVox1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    50_LeadVox1DT1.wav:
+      Track_path: Tholas P. - Such Fine People\Tholas P. - Such Fine People_RAW\50_LeadVox1DT1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    51_LeadVox1DT2.wav:
+      Track_path: Tholas P. - Such Fine People\Tholas P. - Such Fine People_RAW\51_LeadVox1DT2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    53_LeadVox2.wav:
+      Track_path: Tholas P. - Such Fine People\Tholas P. - Such Fine People_RAW\53_LeadVox2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    54_LeadVox2DT1.wav:
+      Track_path: Tholas P. - Such Fine People\Tholas P. - Such Fine People_RAW\54_LeadVox2DT1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    55_LeadVox2DT2.wav:
+      Track_path: Tholas P. - Such Fine People\Tholas P. - Such Fine People_RAW\55_LeadVox2DT2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    56_LeadVox2DT3.wav:
+      Track_path: Tholas P. - Such Fine People\Tholas P. - Such Fine People_RAW\56_LeadVox2DT3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    61_BackingVox1.wav:
+      Track_path: Tholas P. - Such Fine People\Tholas P. - Such Fine People_RAW\61_BackingVox1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    62_BackingVox1DT1.wav:
+      Track_path: Tholas P. - Such Fine People\Tholas P. - Such Fine People_RAW\62_BackingVox1DT1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    63_BackingVox1DT2.wav:
+      Track_path: Tholas P. - Such Fine People\Tholas P. - Such Fine People_RAW\63_BackingVox1DT2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    64_BackingVox1DT3.wav:
+      Track_path: Tholas P. - Such Fine People\Tholas P. - Such Fine People_RAW\64_BackingVox1DT3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    65_BackingVox1DT4.wav:
+      Track_path: Tholas P. - Such Fine People\Tholas P. - Such Fine People_RAW\65_BackingVox1DT4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    66_BackingVox1DT5.wav:
+      Track_path: Tholas P. - Such Fine People\Tholas P. - Such Fine People_RAW\66_BackingVox1DT5.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    67_BackingVox1DT6.wav:
+      Track_path: Tholas P. - Such Fine People\Tholas P. - Such Fine People_RAW\67_BackingVox1DT6.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    68_BackingVox1DT7.wav:
+      Track_path: Tholas P. - Such Fine People\Tholas P. - Such Fine People_RAW\68_BackingVox1DT7.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    69_BackingVox1DT8.wav:
+      Track_path: Tholas P. - Such Fine People\Tholas P. - Such Fine People_RAW\69_BackingVox1DT8.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    70_BackingVox1DT9.wav:
+      Track_path: Tholas P. - Such Fine People\Tholas P. - Such Fine People_RAW\70_BackingVox1DT9.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Choir: {}
+  Backing_Vocal:
+    52_LeadVox1Harm.wav:
+      Track_path: Tholas P. - Such Fine People\Tholas P. - Such Fine People_RAW\52_LeadVox1Harm.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    57_LeadVox2Harm1.wav:
+      Track_path: Tholas P. - Such Fine People\Tholas P. - Such Fine People_RAW\57_LeadVox2Harm1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    58_LeadVox2Harm1DT.wav:
+      Track_path: Tholas P. - Such Fine People\Tholas P. - Such Fine People_RAW\58_LeadVox2Harm1DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    59_LeadVox2Harm2.wav:
+      Track_path: Tholas P. - Such Fine People\Tholas P. - Such Fine People_RAW\59_LeadVox2Harm2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    60_LeadVox2Harm2DT.wav:
+      Track_path: Tholas P. - Such Fine People\Tholas P. - Such Fine People_RAW\60_LeadVox2Harm2DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    71_BackingVox2.wav:
+      Track_path: Tholas P. - Such Fine People\Tholas P. - Such Fine People_RAW\71_BackingVox2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    72_BackingVox2DT.wav:
+      Track_path: Tholas P. - Such Fine People\Tholas P. - Such Fine People_RAW\72_BackingVox2DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    73_BackingVox3.wav:
+      Track_path: Tholas P. - Such Fine People\Tholas P. - Such Fine People_RAW\73_BackingVox3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    74_BackingVox3DT1.wav:
+      Track_path: Tholas P. - Such Fine People\Tholas P. - Such Fine People_RAW\74_BackingVox3DT1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    75_BackingVox3DT2.wav:
+      Track_path: Tholas P. - Such Fine People\Tholas P. - Such Fine People_RAW\75_BackingVox3DT2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    76_BackingVox3DT3.wav:
+      Track_path: Tholas P. - Such Fine People\Tholas P. - Such Fine People_RAW\76_BackingVox3DT3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    77_BackingVox4.wav:
+      Track_path: Tholas P. - Such Fine People\Tholas P. - Such Fine People_RAW\77_BackingVox4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    78_BackingVox4DT.wav:
+      Track_path: Tholas P. - Such Fine People\Tholas P. - Such Fine People_RAW\78_BackingVox4DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Unused: {}
+  Ambient_Microphone: {}

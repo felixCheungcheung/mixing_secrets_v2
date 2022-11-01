@@ -1,0 +1,241 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer:
+    22_Synth1.wav:
+      Track_path: Storm Of Particles - Of Ice And Hopeless Fate\Storm Of Particles
+        - Of Ice And Hopeless Fate_RAW\22_Synth1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    24_Synth3.wav:
+      Track_path: Storm Of Particles - Of Ice And Hopeless Fate\Storm Of Particles
+        - Of Ice And Hopeless Fate_RAW\24_Synth3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    25_Synth4.wav:
+      Track_path: Storm Of Particles - Of Ice And Hopeless Fate\Storm Of Particles
+        - Of Ice And Hopeless Fate_RAW\25_Synth4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    26_Synth5.wav:
+      Track_path: Storm Of Particles - Of Ice And Hopeless Fate\Storm Of Particles
+        - Of Ice And Hopeless Fate_RAW\26_Synth5.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  SFX: {}
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    01_Kick.wav:
+      Track_path: Storm Of Particles - Of Ice And Hopeless Fate\Storm Of Particles
+        - Of Ice And Hopeless Fate_RAW\01_Kick.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_Snare:
+    02_Snare.wav:
+      Track_path: Storm Of Particles - Of Ice And Hopeless Fate\Storm Of Particles
+        - Of Ice And Hopeless Fate_RAW\02_Snare.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_HiHat:
+    06_HiHat.wav:
+      Track_path: Storm Of Particles - Of Ice And Hopeless Fate\Storm Of Particles
+        - Of Ice And Hopeless Fate_RAW\06_HiHat.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_Cymbals:
+    07_Ride.wav:
+      Track_path: Storm Of Particles - Of Ice And Hopeless Fate\Storm Of Particles
+        - Of Ice And Hopeless Fate_RAW\07_Ride.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_Overheads:
+    08_Overheads.wav:
+      Track_path: Storm Of Particles - Of Ice And Hopeless Fate\Storm Of Particles
+        - Of Ice And Hopeless Fate_RAW\08_Overheads.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Tom:
+    03_Tom1.wav:
+      Track_path: Storm Of Particles - Of Ice And Hopeless Fate\Storm Of Particles
+        - Of Ice And Hopeless Fate_RAW\03_Tom1.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    04_Tom2.wav:
+      Track_path: Storm Of Particles - Of Ice And Hopeless Fate\Storm Of Particles
+        - Of Ice And Hopeless Fate_RAW\04_Tom2.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    05_Tom3.wav:
+      Track_path: Storm Of Particles - Of Ice And Hopeless Fate\Storm Of Particles
+        - Of Ice And Hopeless Fate_RAW\05_Tom3.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_Room:
+    09_DrumsRoom.wav:
+      Track_path: Storm Of Particles - Of Ice And Hopeless Fate\Storm Of Particles
+        - Of Ice And Hopeless Fate_RAW\09_DrumsRoom.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop: {}
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass: {}
+  Electric_Bass:
+    10_Bass.wav:
+      Track_path: Storm Of Particles - Of Ice And Hopeless Fate\Storm Of Particles
+        - Of Ice And Hopeless Fate_RAW\10_Bass.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Acoustic_Guitar: {}
+  Electric_Guitar:
+    11_ElecGtr01DI.wav:
+      Track_path: Storm Of Particles - Of Ice And Hopeless Fate\Storm Of Particles
+        - Of Ice And Hopeless Fate_RAW\11_ElecGtr01DI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    12_ElecGtr02DI.wav:
+      Track_path: Storm Of Particles - Of Ice And Hopeless Fate\Storm Of Particles
+        - Of Ice And Hopeless Fate_RAW\12_ElecGtr02DI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    13_ElecGtr03DI.wav:
+      Track_path: Storm Of Particles - Of Ice And Hopeless Fate\Storm Of Particles
+        - Of Ice And Hopeless Fate_RAW\13_ElecGtr03DI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    14_ElecGtr04.wav:
+      Track_path: Storm Of Particles - Of Ice And Hopeless Fate\Storm Of Particles
+        - Of Ice And Hopeless Fate_RAW\14_ElecGtr04.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    15_ElecGtr04DI.wav:
+      Track_path: Storm Of Particles - Of Ice And Hopeless Fate\Storm Of Particles
+        - Of Ice And Hopeless Fate_RAW\15_ElecGtr04DI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    16_ElecGtr05.wav:
+      Track_path: Storm Of Particles - Of Ice And Hopeless Fate\Storm Of Particles
+        - Of Ice And Hopeless Fate_RAW\16_ElecGtr05.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    17_ElecGtr05DI.wav:
+      Track_path: Storm Of Particles - Of Ice And Hopeless Fate\Storm Of Particles
+        - Of Ice And Hopeless Fate_RAW\17_ElecGtr05DI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    18_ElecGtr06.wav:
+      Track_path: Storm Of Particles - Of Ice And Hopeless Fate\Storm Of Particles
+        - Of Ice And Hopeless Fate_RAW\18_ElecGtr06.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    19_ElecGtr06DI.wav:
+      Track_path: Storm Of Particles - Of Ice And Hopeless Fate\Storm Of Particles
+        - Of Ice And Hopeless Fate_RAW\19_ElecGtr06DI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    20_ElecGtr07.wav:
+      Track_path: Storm Of Particles - Of Ice And Hopeless Fate\Storm Of Particles
+        - Of Ice And Hopeless Fate_RAW\20_ElecGtr07.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    21_ElecGtr07DI.wav:
+      Track_path: Storm Of Particles - Of Ice And Hopeless Fate\Storm Of Particles
+        - Of Ice And Hopeless Fate_RAW\21_ElecGtr07DI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Piano: {}
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    27_LeadVox1.wav:
+      Track_path: Storm Of Particles - Of Ice And Hopeless Fate\Storm Of Particles
+        - Of Ice And Hopeless Fate_RAW\27_LeadVox1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    28_LeadVox2.wav:
+      Track_path: Storm Of Particles - Of Ice And Hopeless Fate\Storm Of Particles
+        - Of Ice And Hopeless Fate_RAW\28_LeadVox2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Choir:
+    23_Synth2.wav:
+      Track_path: Storm Of Particles - Of Ice And Hopeless Fate\Storm Of Particles
+        - Of Ice And Hopeless Fate_RAW\23_Synth2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Backing_Vocal: {}
+  Unused: {}
+  Ambient_Microphone: {}

@@ -1,0 +1,183 @@
+Track2inst:
+  Electric_Organ:
+    14_Hammond.wav:
+      Track_path: Colton Benjamin - 21 Grams\Colton Benjamin - 21 Grams_RAW\14_Hammond.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Synthesizer: {}
+  SFX: {}
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    01_Kick.wav:
+      Track_path: Colton Benjamin - 21 Grams\Colton Benjamin - 21 Grams_RAW\01_Kick.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Snare:
+    02_Snare.wav:
+      Track_path: Colton Benjamin - 21 Grams\Colton Benjamin - 21 Grams_RAW\02_Snare.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_HiHat:
+    03_HiHat.wav:
+      Track_path: Colton Benjamin - 21 Grams\Colton Benjamin - 21 Grams_RAW\03_HiHat.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Cymbals: {}
+  Drum_Overheads:
+    06_Overheads.wav:
+      Track_path: Colton Benjamin - 21 Grams\Colton Benjamin - 21 Grams_RAW\06_Overheads.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Tom:
+    04_Tom1.wav:
+      Track_path: Colton Benjamin - 21 Grams\Colton Benjamin - 21 Grams_RAW\04_Tom1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    05_Tom2.wav:
+      Track_path: Colton Benjamin - 21 Grams\Colton Benjamin - 21 Grams_RAW\05_Tom2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Room:
+    07_DrumsRoom.wav:
+      Track_path: Colton Benjamin - 21 Grams\Colton Benjamin - 21 Grams_RAW\07_DrumsRoom.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop: {}
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass: {}
+  Electric_Bass:
+    08_Bass.wav:
+      Track_path: Colton Benjamin - 21 Grams\Colton Benjamin - 21 Grams_RAW\08_Bass.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Acoustic_Guitar: {}
+  Electric_Guitar:
+    09_ElecGtrDI1.wav:
+      Track_path: Colton Benjamin - 21 Grams\Colton Benjamin - 21 Grams_RAW\09_ElecGtrDI1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    10_ElecGtrDI2.wav:
+      Track_path: Colton Benjamin - 21 Grams\Colton Benjamin - 21 Grams_RAW\10_ElecGtrDI2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    11_ElecGtrDI3.wav:
+      Track_path: Colton Benjamin - 21 Grams\Colton Benjamin - 21 Grams_RAW\11_ElecGtrDI3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    12_ElecGtrDI4.wav:
+      Track_path: Colton Benjamin - 21 Grams\Colton Benjamin - 21 Grams_RAW\12_ElecGtrDI4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    13_ElecGtrDI5.wav:
+      Track_path: Colton Benjamin - 21 Grams\Colton Benjamin - 21 Grams_RAW\13_ElecGtrDI5.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Piano: {}
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    15_LeadVox1.wav:
+      Track_path: Colton Benjamin - 21 Grams\Colton Benjamin - 21 Grams_RAW\15_LeadVox1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    16_LeadVox1DT.wav:
+      Track_path: Colton Benjamin - 21 Grams\Colton Benjamin - 21 Grams_RAW\16_LeadVox1DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    17_LeadVox2.wav:
+      Track_path: Colton Benjamin - 21 Grams\Colton Benjamin - 21 Grams_RAW\17_LeadVox2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    18_LeadVox2DT.wav:
+      Track_path: Colton Benjamin - 21 Grams\Colton Benjamin - 21 Grams_RAW\18_LeadVox2DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Choir: {}
+  Backing_Vocal:
+    19_BackingVox1.wav:
+      Track_path: Colton Benjamin - 21 Grams\Colton Benjamin - 21 Grams_RAW\19_BackingVox1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    20_BackingVox1DT.wav:
+      Track_path: Colton Benjamin - 21 Grams\Colton Benjamin - 21 Grams_RAW\20_BackingVox1DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    21_BackingVox2.wav:
+      Track_path: Colton Benjamin - 21 Grams\Colton Benjamin - 21 Grams_RAW\21_BackingVox2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    22_BackingVox3.wav:
+      Track_path: Colton Benjamin - 21 Grams\Colton Benjamin - 21 Grams_RAW\22_BackingVox3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Unused: {}
+  Ambient_Microphone: {}

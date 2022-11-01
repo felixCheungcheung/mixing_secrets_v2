@@ -1,0 +1,343 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer:
+    26_Synth1.wav:
+      Track_path: The Bright Star Alliance - Error 404\The Bright Star Alliance -
+        Error 404_RAW\26_Synth1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    27_Synth2.wav:
+      Track_path: The Bright Star Alliance - Error 404\The Bright Star Alliance -
+        Error 404_RAW\27_Synth2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    28_Synth3.wav:
+      Track_path: The Bright Star Alliance - Error 404\The Bright Star Alliance -
+        Error 404_RAW\28_Synth3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    29_Synth4.wav:
+      Track_path: The Bright Star Alliance - Error 404\The Bright Star Alliance -
+        Error 404_RAW\29_Synth4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    30_Synth5.wav:
+      Track_path: The Bright Star Alliance - Error 404\The Bright Star Alliance -
+        Error 404_RAW\30_Synth5.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    31_Synth6.wav:
+      Track_path: The Bright Star Alliance - Error 404\The Bright Star Alliance -
+        Error 404_RAW\31_Synth6.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    32_SynthSFX.wav:
+      Track_path: The Bright Star Alliance - Error 404\The Bright Star Alliance -
+        Error 404_RAW\32_SynthSFX.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  SFX: {}
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    01_Kick.wav:
+      Track_path: The Bright Star Alliance - Error 404\The Bright Star Alliance -
+        Error 404_RAW\01_Kick.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    02_KickSample.wav:
+      Track_path: The Bright Star Alliance - Error 404\The Bright Star Alliance -
+        Error 404_RAW\02_KickSample.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Snare:
+    03_Snare.wav:
+      Track_path: The Bright Star Alliance - Error 404\The Bright Star Alliance -
+        Error 404_RAW\03_Snare.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    04_SnareSample.wav:
+      Track_path: The Bright Star Alliance - Error 404\The Bright Star Alliance -
+        Error 404_RAW\04_SnareSample.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_HiHat: {}
+  Drum_Cymbals: {}
+  Drum_Overheads:
+    08_Overheads.wav:
+      Track_path: The Bright Star Alliance - Error 404\The Bright Star Alliance -
+        Error 404_RAW\08_Overheads.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Tom:
+    05_Tom1.wav:
+      Track_path: The Bright Star Alliance - Error 404\The Bright Star Alliance -
+        Error 404_RAW\05_Tom1.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    06_Tom2.wav:
+      Track_path: The Bright Star Alliance - Error 404\The Bright Star Alliance -
+        Error 404_RAW\06_Tom2.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    07_Tom3.wav:
+      Track_path: The Bright Star Alliance - Error 404\The Bright Star Alliance -
+        Error 404_RAW\07_Tom3.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_Room:
+    09_DrumsRoom.wav:
+      Track_path: The Bright Star Alliance - Error 404\The Bright Star Alliance -
+        Error 404_RAW\09_DrumsRoom.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop: {}
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass: {}
+  Electric_Bass:
+    10_BassAmp.wav:
+      Track_path: The Bright Star Alliance - Error 404\The Bright Star Alliance -
+        Error 404_RAW\10_BassAmp.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    11_BassDI.wav:
+      Track_path: The Bright Star Alliance - Error 404\The Bright Star Alliance -
+        Error 404_RAW\11_BassDI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Acoustic_Guitar: {}
+  Electric_Guitar:
+    12_ElecGtr1.wav:
+      Track_path: The Bright Star Alliance - Error 404\The Bright Star Alliance -
+        Error 404_RAW\12_ElecGtr1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    13_ElecGtr1DI.wav:
+      Track_path: The Bright Star Alliance - Error 404\The Bright Star Alliance -
+        Error 404_RAW\13_ElecGtr1DI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    14_ElecGtr2.wav:
+      Track_path: The Bright Star Alliance - Error 404\The Bright Star Alliance -
+        Error 404_RAW\14_ElecGtr2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    15_ElecGtr2DI.wav:
+      Track_path: The Bright Star Alliance - Error 404\The Bright Star Alliance -
+        Error 404_RAW\15_ElecGtr2DI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    16_ElecGtr2DT.wav:
+      Track_path: The Bright Star Alliance - Error 404\The Bright Star Alliance -
+        Error 404_RAW\16_ElecGtr2DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    17_ElecGtr2DTDI.wav:
+      Track_path: The Bright Star Alliance - Error 404\The Bright Star Alliance -
+        Error 404_RAW\17_ElecGtr2DTDI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    18_ElecGtr3.wav:
+      Track_path: The Bright Star Alliance - Error 404\The Bright Star Alliance -
+        Error 404_RAW\18_ElecGtr3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    19_ElecGtr3DI.wav:
+      Track_path: The Bright Star Alliance - Error 404\The Bright Star Alliance -
+        Error 404_RAW\19_ElecGtr3DI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    20_ElecGtr4.wav:
+      Track_path: The Bright Star Alliance - Error 404\The Bright Star Alliance -
+        Error 404_RAW\20_ElecGtr4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    21_ElecGtr4DI.wav:
+      Track_path: The Bright Star Alliance - Error 404\The Bright Star Alliance -
+        Error 404_RAW\21_ElecGtr4DI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    22_ElecGtr5.wav:
+      Track_path: The Bright Star Alliance - Error 404\The Bright Star Alliance -
+        Error 404_RAW\22_ElecGtr5.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    23_ElecGtr5DI.wav:
+      Track_path: The Bright Star Alliance - Error 404\The Bright Star Alliance -
+        Error 404_RAW\23_ElecGtr5DI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    24_ElecGtr5DT.wav:
+      Track_path: The Bright Star Alliance - Error 404\The Bright Star Alliance -
+        Error 404_RAW\24_ElecGtr5DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    25_ElecGtr5DTDI.wav:
+      Track_path: The Bright Star Alliance - Error 404\The Bright Star Alliance -
+        Error 404_RAW\25_ElecGtr5DTDI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Piano:
+    33_Piano.wav:
+      Track_path: The Bright Star Alliance - Error 404\The Bright Star Alliance -
+        Error 404_RAW\33_Piano.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    34_LeadVox.wav:
+      Track_path: The Bright Star Alliance - Error 404\The Bright Star Alliance -
+        Error 404_RAW\34_LeadVox.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Choir: {}
+  Backing_Vocal:
+    35_BackingVox1.wav:
+      Track_path: The Bright Star Alliance - Error 404\The Bright Star Alliance -
+        Error 404_RAW\35_BackingVox1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    36_BackingVox2.wav:
+      Track_path: The Bright Star Alliance - Error 404\The Bright Star Alliance -
+        Error 404_RAW\36_BackingVox2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    37_BackingVox2DT.wav:
+      Track_path: The Bright Star Alliance - Error 404\The Bright Star Alliance -
+        Error 404_RAW\37_BackingVox2DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    38_BackingVox3.wav:
+      Track_path: The Bright Star Alliance - Error 404\The Bright Star Alliance -
+        Error 404_RAW\38_BackingVox3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    39_BackingVox4.wav:
+      Track_path: The Bright Star Alliance - Error 404\The Bright Star Alliance -
+        Error 404_RAW\39_BackingVox4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    40_BackingVox5.wav:
+      Track_path: The Bright Star Alliance - Error 404\The Bright Star Alliance -
+        Error 404_RAW\40_BackingVox5.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    41_BackingVox5DT.wav:
+      Track_path: The Bright Star Alliance - Error 404\The Bright Star Alliance -
+        Error 404_RAW\41_BackingVox5DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    42_BackingVox6.wav:
+      Track_path: The Bright Star Alliance - Error 404\The Bright Star Alliance -
+        Error 404_RAW\42_BackingVox6.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    43_BackingVox6DT.wav:
+      Track_path: The Bright Star Alliance - Error 404\The Bright Star Alliance -
+        Error 404_RAW\43_BackingVox6DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    44_BackingVox7.wav:
+      Track_path: The Bright Star Alliance - Error 404\The Bright Star Alliance -
+        Error 404_RAW\44_BackingVox7.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    45_VoxSample.wav:
+      Track_path: The Bright Star Alliance - Error 404\The Bright Star Alliance -
+        Error 404_RAW\45_VoxSample.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Unused: {}
+  Ambient_Microphone: {}

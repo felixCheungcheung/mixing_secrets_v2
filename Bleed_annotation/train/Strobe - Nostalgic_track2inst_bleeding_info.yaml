@@ -1,0 +1,168 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer:
+    08_Synth1.wav:
+      Track_path: Strobe - Nostalgic\Strobe - Nostalgic_RAW\08_Synth1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    09_Synth2.wav:
+      Track_path: Strobe - Nostalgic\Strobe - Nostalgic_RAW\09_Synth2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    10_Synth3.wav:
+      Track_path: Strobe - Nostalgic\Strobe - Nostalgic_RAW\10_Synth3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  SFX:
+    01_SFX1.wav:
+      Track_path: Strobe - Nostalgic\Strobe - Nostalgic_RAW\01_SFX1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    02_SFX2.wav:
+      Track_path: Strobe - Nostalgic\Strobe - Nostalgic_RAW\02_SFX2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    03_SFX3.wav:
+      Track_path: Strobe - Nostalgic\Strobe - Nostalgic_RAW\03_SFX3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    11_SynthSFX1.wav:
+      Track_path: Strobe - Nostalgic\Strobe - Nostalgic_RAW\11_SynthSFX1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    12_SynthSFX2.wav:
+      Track_path: Strobe - Nostalgic\Strobe - Nostalgic_RAW\12_SynthSFX2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick: {}
+  Drum_Snare: {}
+  Drum_HiHat: {}
+  Drum_Cymbals: {}
+  Drum_Overheads: {}
+  Drum_Tom: {}
+  Drum_Room: {}
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop: {}
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass:
+    04_Bass1.wav:
+      Track_path: Strobe - Nostalgic\Strobe - Nostalgic_RAW\04_Bass1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    05_Bass2.wav:
+      Track_path: Strobe - Nostalgic\Strobe - Nostalgic_RAW\05_Bass2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Electric_Bass: {}
+  Acoustic_Guitar:
+    06_AcousticGtr.wav:
+      Track_path: Strobe - Nostalgic\Strobe - Nostalgic_RAW\06_AcousticGtr.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Electric_Guitar:
+    07_ElecGtr.wav:
+      Track_path: Strobe - Nostalgic\Strobe - Nostalgic_RAW\07_ElecGtr.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Piano: {}
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    13_LeadVox.wav:
+      Track_path: Strobe - Nostalgic\Strobe - Nostalgic_RAW\13_LeadVox.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    19_VoxSFX.wav:
+      Track_path: Strobe - Nostalgic\Strobe - Nostalgic_RAW\19_VoxSFX.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Choir: {}
+  Backing_Vocal:
+    14_BackingVox1.wav:
+      Track_path: Strobe - Nostalgic\Strobe - Nostalgic_RAW\14_BackingVox1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    15_BackingVox1DT.wav:
+      Track_path: Strobe - Nostalgic\Strobe - Nostalgic_RAW\15_BackingVox1DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    16_BackingVox2.wav:
+      Track_path: Strobe - Nostalgic\Strobe - Nostalgic_RAW\16_BackingVox2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    17_BackingVox2DT.wav:
+      Track_path: Strobe - Nostalgic\Strobe - Nostalgic_RAW\17_BackingVox2DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    18_BackingVox3.wav:
+      Track_path: Strobe - Nostalgic\Strobe - Nostalgic_RAW\18_BackingVox3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Unused: {}
+  Ambient_Microphone: {}

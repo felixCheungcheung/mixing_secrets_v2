@@ -1,0 +1,188 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer: {}
+  SFX: {}
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    01_Kick.wav:
+      Track_path: Headwound Harry - XXXV\Headwound Harry - XXXV_RAW\01_Kick.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_Snare:
+    02_SnareUp.wav:
+      Track_path: Headwound Harry - XXXV\Headwound Harry - XXXV_RAW\02_SnareUp.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_HiHat: {}
+  Drum_Cymbals: {}
+  Drum_Overheads:
+    05_Overheads.wav:
+      Track_path: Headwound Harry - XXXV\Headwound Harry - XXXV_RAW\05_Overheads.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Tom:
+    03_Tom1.wav:
+      Track_path: Headwound Harry - XXXV\Headwound Harry - XXXV_RAW\03_Tom1.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    04_Tom2.wav:
+      Track_path: Headwound Harry - XXXV\Headwound Harry - XXXV_RAW\04_Tom2.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_Room:
+    06_MonoRoom.wav:
+      Track_path: Headwound Harry - XXXV\Headwound Harry - XXXV_RAW\06_MonoRoom.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop: {}
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass: {}
+  Electric_Bass:
+    07_BassDI.wav:
+      Track_path: Headwound Harry - XXXV\Headwound Harry - XXXV_RAW\07_BassDI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Acoustic_Guitar: {}
+  Electric_Guitar:
+    08_ElecGtr1.wav:
+      Track_path: Headwound Harry - XXXV\Headwound Harry - XXXV_RAW\08_ElecGtr1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    09_ElecGtr2.wav:
+      Track_path: Headwound Harry - XXXV\Headwound Harry - XXXV_RAW\09_ElecGtr2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    10_ElecGtr3.wav:
+      Track_path: Headwound Harry - XXXV\Headwound Harry - XXXV_RAW\10_ElecGtr3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Piano: {}
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    11_Vox01.wav:
+      Track_path: Headwound Harry - XXXV\Headwound Harry - XXXV_RAW\11_Vox01.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    12_Vox02.wav:
+      Track_path: Headwound Harry - XXXV\Headwound Harry - XXXV_RAW\12_Vox02.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    13_Vox03.wav:
+      Track_path: Headwound Harry - XXXV\Headwound Harry - XXXV_RAW\13_Vox03.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    14_Vox04.wav:
+      Track_path: Headwound Harry - XXXV\Headwound Harry - XXXV_RAW\14_Vox04.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    15_Vox05.wav:
+      Track_path: Headwound Harry - XXXV\Headwound Harry - XXXV_RAW\15_Vox05.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    16_Vox06.wav:
+      Track_path: Headwound Harry - XXXV\Headwound Harry - XXXV_RAW\16_Vox06.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    17_Vox07.wav:
+      Track_path: Headwound Harry - XXXV\Headwound Harry - XXXV_RAW\17_Vox07.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    18_Vox08.wav:
+      Track_path: Headwound Harry - XXXV\Headwound Harry - XXXV_RAW\18_Vox08.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    19_Vox09.wav:
+      Track_path: Headwound Harry - XXXV\Headwound Harry - XXXV_RAW\19_Vox09.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    20_Vox10.wav:
+      Track_path: Headwound Harry - XXXV\Headwound Harry - XXXV_RAW\20_Vox10.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    21_Vox11.wav:
+      Track_path: Headwound Harry - XXXV\Headwound Harry - XXXV_RAW\21_Vox11.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    22_Vox12.wav:
+      Track_path: Headwound Harry - XXXV\Headwound Harry - XXXV_RAW\22_Vox12.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    23_Vox13.wav:
+      Track_path: Headwound Harry - XXXV\Headwound Harry - XXXV_RAW\23_Vox13.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Choir: {}
+  Backing_Vocal: {}
+  Unused: {}
+  Ambient_Microphone: {}

@@ -1,0 +1,253 @@
+Track2inst:
+  Electric_Organ:
+    28_Organ.wav:
+      Track_path: Raft Monk - Tiring\Raft Monk - Tiring_RAW\28_Organ.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Synthesizer:
+    29_Synth.wav:
+      Track_path: Raft Monk - Tiring\Raft Monk - Tiring_RAW\29_Synth.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    30_Synth.wav:
+      Track_path: Raft Monk - Tiring\Raft Monk - Tiring_RAW\30_Synth.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  SFX:
+    13_SFX1.wav:
+      Track_path: Raft Monk - Tiring\Raft Monk - Tiring_RAW\13_SFX1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    14_SFX2.wav:
+      Track_path: Raft Monk - Tiring\Raft Monk - Tiring_RAW\14_SFX2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    15_SFX3.wav:
+      Track_path: Raft Monk - Tiring\Raft Monk - Tiring_RAW\15_SFX3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    16_SFX4.wav:
+      Track_path: Raft Monk - Tiring\Raft Monk - Tiring_RAW\16_SFX4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    17_SFX5.wav:
+      Track_path: Raft Monk - Tiring\Raft Monk - Tiring_RAW\17_SFX5.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    18_SFX6.wav:
+      Track_path: Raft Monk - Tiring\Raft Monk - Tiring_RAW\18_SFX6.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    01_KickIn.wav:
+      Track_path: Raft Monk - Tiring\Raft Monk - Tiring_RAW\01_KickIn.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    02_KickOut.wav:
+      Track_path: Raft Monk - Tiring\Raft Monk - Tiring_RAW\02_KickOut.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Snare:
+    05_SnareUp.wav:
+      Track_path: Raft Monk - Tiring\Raft Monk - Tiring_RAW\05_SnareUp.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    06_SnareDown.wav:
+      Track_path: Raft Monk - Tiring\Raft Monk - Tiring_RAW\06_SnareDown.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_HiHat:
+    03_HiHat.wav:
+      Track_path: Raft Monk - Tiring\Raft Monk - Tiring_RAW\03_HiHat.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Cymbals: {}
+  Drum_Overheads:
+    04_Overheads.wav:
+      Track_path: Raft Monk - Tiring\Raft Monk - Tiring_RAW\04_Overheads.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    10_DrumsLeakage.wav:
+      Track_path: Raft Monk - Tiring\Raft Monk - Tiring_RAW\10_DrumsLeakage.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Tom:
+    07_Tom1.wav:
+      Track_path: Raft Monk - Tiring\Raft Monk - Tiring_RAW\07_Tom1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    08_Tom2.wav:
+      Track_path: Raft Monk - Tiring\Raft Monk - Tiring_RAW\08_Tom2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    09_Tom3.wav:
+      Track_path: Raft Monk - Tiring\Raft Monk - Tiring_RAW\09_Tom3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Room:
+    11_DrumsRoom.wav:
+      Track_path: Raft Monk - Tiring\Raft Monk - Tiring_RAW\11_DrumsRoom.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Shaker:
+    12_Shaker.wav:
+      Track_path: Raft Monk - Tiring\Raft Monk - Tiring_RAW\12_Shaker.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop: {}
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass: {}
+  Electric_Bass:
+    19_BassAmp.wav:
+      Track_path: Raft Monk - Tiring\Raft Monk - Tiring_RAW\19_BassAmp.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    20_BassDI.wav:
+      Track_path: Raft Monk - Tiring\Raft Monk - Tiring_RAW\20_BassDI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Acoustic_Guitar:
+    21_AcousticGtr.wav:
+      Track_path: Raft Monk - Tiring\Raft Monk - Tiring_RAW\21_AcousticGtr.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    22_AcousticGtrDT.wav:
+      Track_path: Raft Monk - Tiring\Raft Monk - Tiring_RAW\22_AcousticGtrDT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Electric_Guitar:
+    23_ElecGtr1.wav:
+      Track_path: Raft Monk - Tiring\Raft Monk - Tiring_RAW\23_ElecGtr1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    24_ElecGtr1DT.wav:
+      Track_path: Raft Monk - Tiring\Raft Monk - Tiring_RAW\24_ElecGtr1DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    25_ElecGtr2.wav:
+      Track_path: Raft Monk - Tiring\Raft Monk - Tiring_RAW\25_ElecGtr2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    26_ElecGtr2DT.wav:
+      Track_path: Raft Monk - Tiring\Raft Monk - Tiring_RAW\26_ElecGtr2DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Piano: {}
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section:
+    27_Strings.wav:
+      Track_path: Raft Monk - Tiring\Raft Monk - Tiring_RAW\27_Strings.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    31_LeadVox.wav:
+      Track_path: Raft Monk - Tiring\Raft Monk - Tiring_RAW\31_LeadVox.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    32_LeadVoxDT.wav:
+      Track_path: Raft Monk - Tiring\Raft Monk - Tiring_RAW\32_LeadVoxDT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Choir: {}
+  Backing_Vocal:
+    33_BackingVox1.wav:
+      Track_path: Raft Monk - Tiring\Raft Monk - Tiring_RAW\33_BackingVox1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    34_BackingVox1DT.wav:
+      Track_path: Raft Monk - Tiring\Raft Monk - Tiring_RAW\34_BackingVox1DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    35_BackingVox2.wav:
+      Track_path: Raft Monk - Tiring\Raft Monk - Tiring_RAW\35_BackingVox2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    36_BackingVox2DT.wav:
+      Track_path: Raft Monk - Tiring\Raft Monk - Tiring_RAW\36_BackingVox2DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Unused: {}
+  Ambient_Microphone: {}

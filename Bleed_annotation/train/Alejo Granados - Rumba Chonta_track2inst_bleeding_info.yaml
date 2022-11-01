@@ -1,0 +1,173 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer: {}
+  SFX: {}
+  Marimba:
+    12_Marimba.wav:
+      Track_path: Alejo Granados - Rumba Chonta\Alejo Granados - Rumba Chonta_RAW\12_Marimba.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick: {}
+  Drum_Snare:
+    02_SnareUp.wav:
+      Track_path: Alejo Granados - Rumba Chonta\Alejo Granados - Rumba Chonta_RAW\02_SnareUp.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    03_SnareDown.wav:
+      Track_path: Alejo Granados - Rumba Chonta\Alejo Granados - Rumba Chonta_RAW\03_SnareDown.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_HiHat:
+    04_HiHat.wav:
+      Track_path: Alejo Granados - Rumba Chonta\Alejo Granados - Rumba Chonta_RAW\04_HiHat.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Cymbals: {}
+  Drum_Overheads: {}
+  Drum_Tom: {}
+  Drum_Room: {}
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo:
+    08_Paliteo.wav:
+      Track_path: Alejo Granados - Rumba Chonta\Alejo Granados - Rumba Chonta_RAW\08_Paliteo.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop: {}
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion:
+    01_Bombo.wav:
+      Track_path: Alejo Granados - Rumba Chonta\Alejo Granados - Rumba Chonta_RAW\01_Bombo.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    05_Cunono1.wav:
+      Track_path: Alejo Granados - Rumba Chonta\Alejo Granados - Rumba Chonta_RAW\05_Cunono1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    06_Cunono2.wav:
+      Track_path: Alejo Granados - Rumba Chonta\Alejo Granados - Rumba Chonta_RAW\06_Cunono2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    07_Cunono3Sample.wav:
+      Track_path: Alejo Granados - Rumba Chonta\Alejo Granados - Rumba Chonta_RAW\07_Cunono3Sample.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    09_Guasa.wav:
+      Track_path: Alejo Granados - Rumba Chonta\Alejo Granados - Rumba Chonta_RAW\09_Guasa.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Synth_Bass: {}
+  Electric_Bass:
+    10_BassDI.wav:
+      Track_path: Alejo Granados - Rumba Chonta\Alejo Granados - Rumba Chonta_RAW\10_BassDI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    11_BassMic.wav:
+      Track_path: Alejo Granados - Rumba Chonta\Alejo Granados - Rumba Chonta_RAW\11_BassMic.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Acoustic_Guitar: {}
+  Electric_Guitar:
+    13_ElecGtr1.wav:
+      Track_path: Alejo Granados - Rumba Chonta\Alejo Granados - Rumba Chonta_RAW\13_ElecGtr1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    14_ElecGtr2.wav:
+      Track_path: Alejo Granados - Rumba Chonta\Alejo Granados - Rumba Chonta_RAW\14_ElecGtr2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Piano: {}
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone:
+    15_Saxophone1.wav:
+      Track_path: Alejo Granados - Rumba Chonta\Alejo Granados - Rumba Chonta_RAW\15_Saxophone1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    16_Saxophone2.wav:
+      Track_path: Alejo Granados - Rumba Chonta\Alejo Granados - Rumba Chonta_RAW\16_Saxophone2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    17_Saxophone3.wav:
+      Track_path: Alejo Granados - Rumba Chonta\Alejo Granados - Rumba Chonta_RAW\17_Saxophone3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    18_Saxophone4.wav:
+      Track_path: Alejo Granados - Rumba Chonta\Alejo Granados - Rumba Chonta_RAW\18_Saxophone4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    19_Saxophone5.wav:
+      Track_path: Alejo Granados - Rumba Chonta\Alejo Granados - Rumba Chonta_RAW\19_Saxophone5.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    20_Saxophone6.wav:
+      Track_path: Alejo Granados - Rumba Chonta\Alejo Granados - Rumba Chonta_RAW\20_Saxophone6.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal: {}
+  Choir: {}
+  Backing_Vocal: {}
+  Unused: {}
+  Ambient_Microphone: {}

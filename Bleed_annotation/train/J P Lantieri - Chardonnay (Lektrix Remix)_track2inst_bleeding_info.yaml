@@ -1,0 +1,163 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer:
+    07_Synth.wav:
+      Track_path: J P Lantieri - Chardonnay (Lektrix Remix)\J P Lantieri - Chardonnay
+        (Lektrix Remix)_RAW\07_Synth.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    08_Synth.wav:
+      Track_path: J P Lantieri - Chardonnay (Lektrix Remix)\J P Lantieri - Chardonnay
+        (Lektrix Remix)_RAW\08_Synth.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    13_Synth.wav:
+      Track_path: J P Lantieri - Chardonnay (Lektrix Remix)\J P Lantieri - Chardonnay
+        (Lektrix Remix)_RAW\13_Synth.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    14_Synth.wav:
+      Track_path: J P Lantieri - Chardonnay (Lektrix Remix)\J P Lantieri - Chardonnay
+        (Lektrix Remix)_RAW\14_Synth.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  SFX:
+    09_SFX.wav:
+      Track_path: J P Lantieri - Chardonnay (Lektrix Remix)\J P Lantieri - Chardonnay
+        (Lektrix Remix)_RAW\09_SFX.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    10_SFX.wav:
+      Track_path: J P Lantieri - Chardonnay (Lektrix Remix)\J P Lantieri - Chardonnay
+        (Lektrix Remix)_RAW\10_SFX.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    11_SFX.wav:
+      Track_path: J P Lantieri - Chardonnay (Lektrix Remix)\J P Lantieri - Chardonnay
+        (Lektrix Remix)_RAW\11_SFX.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick: {}
+  Drum_Snare: {}
+  Drum_HiHat:
+    02_HiHat.wav:
+      Track_path: J P Lantieri - Chardonnay (Lektrix Remix)\J P Lantieri - Chardonnay
+        (Lektrix Remix)_RAW\02_HiHat.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Cymbals: {}
+  Drum_Overheads:
+    01_KickSnare.wav:
+      Track_path: J P Lantieri - Chardonnay (Lektrix Remix)\J P Lantieri - Chardonnay
+        (Lektrix Remix)_RAW\01_KickSnare.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Tom: {}
+  Drum_Room: {}
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop:
+    03_Percussion.wav:
+      Track_path: J P Lantieri - Chardonnay (Lektrix Remix)\J P Lantieri - Chardonnay
+        (Lektrix Remix)_RAW\03_Percussion.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass:
+    04_Bass.wav:
+      Track_path: J P Lantieri - Chardonnay (Lektrix Remix)\J P Lantieri - Chardonnay
+        (Lektrix Remix)_RAW\04_Bass.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    05_Sub Bass.wav:
+      Track_path: J P Lantieri - Chardonnay (Lektrix Remix)\J P Lantieri - Chardonnay
+        (Lektrix Remix)_RAW\05_Sub Bass.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    06_BassFX.wav:
+      Track_path: J P Lantieri - Chardonnay (Lektrix Remix)\J P Lantieri - Chardonnay
+        (Lektrix Remix)_RAW\06_BassFX.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Electric_Bass: {}
+  Acoustic_Guitar: {}
+  Electric_Guitar: {}
+  Piano:
+    12_Pianos.wav:
+      Track_path: J P Lantieri - Chardonnay (Lektrix Remix)\J P Lantieri - Chardonnay
+        (Lektrix Remix)_RAW\12_Pianos.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    15_Vox.wav:
+      Track_path: J P Lantieri - Chardonnay (Lektrix Remix)\J P Lantieri - Chardonnay
+        (Lektrix Remix)_RAW\15_Vox.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Choir: {}
+  Backing_Vocal: {}
+  Unused: {}
+  Ambient_Microphone: {}

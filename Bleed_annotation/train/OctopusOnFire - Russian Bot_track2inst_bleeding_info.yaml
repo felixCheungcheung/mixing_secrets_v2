@@ -1,0 +1,318 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer:
+    29_Synth01.wav:
+      Track_path: OctopusOnFire - Russian Bot\OctopusOnFire - Russian Bot_RAW\29_Synth01.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    30_Synth02.wav:
+      Track_path: OctopusOnFire - Russian Bot\OctopusOnFire - Russian Bot_RAW\30_Synth02.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    31_Synth03.wav:
+      Track_path: OctopusOnFire - Russian Bot\OctopusOnFire - Russian Bot_RAW\31_Synth03.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    32_Synth04.wav:
+      Track_path: OctopusOnFire - Russian Bot\OctopusOnFire - Russian Bot_RAW\32_Synth04.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    33_Synth05.wav:
+      Track_path: OctopusOnFire - Russian Bot\OctopusOnFire - Russian Bot_RAW\33_Synth05.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    34_Synth06.wav:
+      Track_path: OctopusOnFire - Russian Bot\OctopusOnFire - Russian Bot_RAW\34_Synth06.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    35_Synth07.wav:
+      Track_path: OctopusOnFire - Russian Bot\OctopusOnFire - Russian Bot_RAW\35_Synth07.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    36_Synth08.wav:
+      Track_path: OctopusOnFire - Russian Bot\OctopusOnFire - Russian Bot_RAW\36_Synth08.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    37_Synth09.wav:
+      Track_path: OctopusOnFire - Russian Bot\OctopusOnFire - Russian Bot_RAW\37_Synth09.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    38_Synth10.wav:
+      Track_path: OctopusOnFire - Russian Bot\OctopusOnFire - Russian Bot_RAW\38_Synth10.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    39_Synth11.wav:
+      Track_path: OctopusOnFire - Russian Bot\OctopusOnFire - Russian Bot_RAW\39_Synth11.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    40_Synth12.wav:
+      Track_path: OctopusOnFire - Russian Bot\OctopusOnFire - Russian Bot_RAW\40_Synth12.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    41_Synth13.wav:
+      Track_path: OctopusOnFire - Russian Bot\OctopusOnFire - Russian Bot_RAW\41_Synth13.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    42_Synth14.wav:
+      Track_path: OctopusOnFire - Russian Bot\OctopusOnFire - Russian Bot_RAW\42_Synth14.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  SFX:
+    16_SFX1.wav:
+      Track_path: OctopusOnFire - Russian Bot\OctopusOnFire - Russian Bot_RAW\16_SFX1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    17_SFX2.wav:
+      Track_path: OctopusOnFire - Russian Bot\OctopusOnFire - Russian Bot_RAW\17_SFX2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    18_SFX3.wav:
+      Track_path: OctopusOnFire - Russian Bot\OctopusOnFire - Russian Bot_RAW\18_SFX3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    19_SFX4.wav:
+      Track_path: OctopusOnFire - Russian Bot\OctopusOnFire - Russian Bot_RAW\19_SFX4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    20_SFX5.wav:
+      Track_path: OctopusOnFire - Russian Bot\OctopusOnFire - Russian Bot_RAW\20_SFX5.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    21_SFX6.wav:
+      Track_path: OctopusOnFire - Russian Bot\OctopusOnFire - Russian Bot_RAW\21_SFX6.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    22_SFX7.wav:
+      Track_path: OctopusOnFire - Russian Bot\OctopusOnFire - Russian Bot_RAW\22_SFX7.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    23_SFX8.wav:
+      Track_path: OctopusOnFire - Russian Bot\OctopusOnFire - Russian Bot_RAW\23_SFX8.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    24_SFX9.wav:
+      Track_path: OctopusOnFire - Russian Bot\OctopusOnFire - Russian Bot_RAW\24_SFX9.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    04_Kick1.wav:
+      Track_path: OctopusOnFire - Russian Bot\OctopusOnFire - Russian Bot_RAW\04_Kick1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    05_Kick2.wav:
+      Track_path: OctopusOnFire - Russian Bot\OctopusOnFire - Russian Bot_RAW\05_Kick2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Snare:
+    08_Snare.wav:
+      Track_path: OctopusOnFire - Russian Bot\OctopusOnFire - Russian Bot_RAW\08_Snare.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_HiHat:
+    09_Hihat.wav:
+      Track_path: OctopusOnFire - Russian Bot\OctopusOnFire - Russian Bot_RAW\09_Hihat.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Cymbals: {}
+  Drum_Overheads: {}
+  Drum_Tom:
+    11_Tom1.wav:
+      Track_path: OctopusOnFire - Russian Bot\OctopusOnFire - Russian Bot_RAW\11_Tom1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    12_Tom2.wav:
+      Track_path: OctopusOnFire - Russian Bot\OctopusOnFire - Russian Bot_RAW\12_Tom2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    13_Tom3.wav:
+      Track_path: OctopusOnFire - Russian Bot\OctopusOnFire - Russian Bot_RAW\13_Tom3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    14_Tom4.wav:
+      Track_path: OctopusOnFire - Russian Bot\OctopusOnFire - Russian Bot_RAW\14_Tom4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Room: {}
+  Shaker:
+    10_Shaker.wav:
+      Track_path: OctopusOnFire - Russian Bot\OctopusOnFire - Russian Bot_RAW\10_Shaker.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop:
+    01_Loop1.wav:
+      Track_path: OctopusOnFire - Russian Bot\OctopusOnFire - Russian Bot_RAW\01_Loop1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    02_Loop2.wav:
+      Track_path: OctopusOnFire - Russian Bot\OctopusOnFire - Russian Bot_RAW\02_Loop2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    03_Loop3.wav:
+      Track_path: OctopusOnFire - Russian Bot\OctopusOnFire - Russian Bot_RAW\03_Loop3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    15_ImpactDrums.wav:
+      Track_path: OctopusOnFire - Russian Bot\OctopusOnFire - Russian Bot_RAW\15_ImpactDrums.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Clicks: {}
+  Claps:
+    06_Clap1.wav:
+      Track_path: OctopusOnFire - Russian Bot\OctopusOnFire - Russian Bot_RAW\06_Clap1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    07_Clap2.wav:
+      Track_path: OctopusOnFire - Russian Bot\OctopusOnFire - Russian Bot_RAW\07_Clap2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass:
+    25_Bass1.wav:
+      Track_path: OctopusOnFire - Russian Bot\OctopusOnFire - Russian Bot_RAW\25_Bass1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    26_Bass2.wav:
+      Track_path: OctopusOnFire - Russian Bot\OctopusOnFire - Russian Bot_RAW\26_Bass2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    27_Bass3.wav:
+      Track_path: OctopusOnFire - Russian Bot\OctopusOnFire - Russian Bot_RAW\27_Bass3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    28_Bass4.wav:
+      Track_path: OctopusOnFire - Russian Bot\OctopusOnFire - Russian Bot_RAW\28_Bass4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Electric_Bass: {}
+  Acoustic_Guitar: {}
+  Electric_Guitar: {}
+  Piano:
+    43_Piano.wav:
+      Track_path: OctopusOnFire - Russian Bot\OctopusOnFire - Russian Bot_RAW\43_Piano.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    44_LeadVox.wav:
+      Track_path: OctopusOnFire - Russian Bot\OctopusOnFire - Russian Bot_RAW\44_LeadVox.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Choir: {}
+  Backing_Vocal:
+    45_BackingVox1.wav:
+      Track_path: OctopusOnFire - Russian Bot\OctopusOnFire - Russian Bot_RAW\45_BackingVox1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    46_BackingVox1DT1.wav:
+      Track_path: OctopusOnFire - Russian Bot\OctopusOnFire - Russian Bot_RAW\46_BackingVox1DT1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    47_BackingVox1DT2.wav:
+      Track_path: OctopusOnFire - Russian Bot\OctopusOnFire - Russian Bot_RAW\47_BackingVox1DT2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    48_VoxSFX1.wav:
+      Track_path: OctopusOnFire - Russian Bot\OctopusOnFire - Russian Bot_RAW\48_VoxSFX1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    49_VoxSFX2.wav:
+      Track_path: OctopusOnFire - Russian Bot\OctopusOnFire - Russian Bot_RAW\49_VoxSFX2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Unused: {}
+  Ambient_Microphone: {}

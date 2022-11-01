@@ -1,0 +1,169 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer: {}
+  SFX: {}
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    01_Kick.wav:
+      Track_path: How To Kill A Conversation - Location Location\How To Kill A Conversation
+        - Location Location_RAW\01_Kick.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Electric_Guitar, Drum_Overheads'
+      Comment: ''
+  Drum_Snare:
+    02_Snare.wav:
+      Track_path: How To Kill A Conversation - Location Location\How To Kill A Conversation
+        - Location Location_RAW\02_Snare.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Electric_Guitar, Drum_Overheads'
+      Comment: ''
+  Drum_HiHat: {}
+  Drum_Cymbals: {}
+  Drum_Overheads:
+    03_Overheads.wav:
+      Track_path: How To Kill A Conversation - Location Location\How To Kill A Conversation
+        - Location Location_RAW\03_Overheads.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Electric_Guitar'
+      Comment: ''
+  Drum_Tom:
+    05_Tom1.wav:
+      Track_path: How To Kill A Conversation - Location Location\How To Kill A Conversation
+        - Location Location_RAW\05_Tom1.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Electric_Guitar, Drum_Overheads'
+      Comment: ''
+    06_Tom2.wav:
+      Track_path: How To Kill A Conversation - Location Location\How To Kill A Conversation
+        - Location Location_RAW\06_Tom2.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Electric_Guitar, Drum_Overheads'
+      Comment: ''
+    07_Tom3.wav:
+      Track_path: How To Kill A Conversation - Location Location\How To Kill A Conversation
+        - Location Location_RAW\07_Tom3.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Electric_Guitar, Drum_Overheads'
+      Comment: ''
+  Drum_Room:
+    04_Room.wav:
+      Track_path: How To Kill A Conversation - Location Location\How To Kill A Conversation
+        - Location Location_RAW\04_Room.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Electric_Guitar, Lead_Vocal, Backing_Vocal'
+      Comment: ''
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine:
+    08_Tambourine1.wav:
+      Track_path: How To Kill A Conversation - Location Location\How To Kill A Conversation
+        - Location Location_RAW\08_Tambourine1.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Electric_Guitar, Lead_Vocal, Backing_Vocal'
+      Comment: ''
+    09_Tambourine2.wav:
+      Track_path: How To Kill A Conversation - Location Location\How To Kill A Conversation
+        - Location Location_RAW\09_Tambourine2.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Electric_Guitar, Lead_Vocal, Backing_Vocal'
+      Comment: ''
+  Loop: {}
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass: {}
+  Electric_Bass:
+    10_BassDI.wav:
+      Track_path: How To Kill A Conversation - Location Location\How To Kill A Conversation
+        - Location Location_RAW\10_BassDI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    11_BassAmp.wav:
+      Track_path: How To Kill A Conversation - Location Location\How To Kill A Conversation
+        - Location Location_RAW\11_BassAmp.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Acoustic_Guitar: {}
+  Electric_Guitar:
+    12_Gtr1.wav:
+      Track_path: How To Kill A Conversation - Location Location\How To Kill A Conversation
+        - Location Location_RAW\12_Gtr1.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads'
+      Comment: ''
+    13_Gtr2.wav:
+      Track_path: How To Kill A Conversation - Location Location\How To Kill A Conversation
+        - Location Location_RAW\13_Gtr2.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads'
+      Comment: ''
+  Piano: {}
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    14_LeadVox.wav:
+      Track_path: How To Kill A Conversation - Location Location\How To Kill A Conversation
+        - Location Location_RAW\14_LeadVox.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Electric_Guitar, Drum_Overheads'
+      Comment: 'huge'
+  Choir: {}
+  Backing_Vocal:
+    15_BackingVox1.wav:
+      Track_path: How To Kill A Conversation - Location Location\How To Kill A Conversation
+        - Location Location_RAW\15_BackingVox1.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Electric_Guitar, Drum_Overheads'
+      Comment: 'huge'
+    16_BackingVox2.wav:
+      Track_path: How To Kill A Conversation - Location Location\How To Kill A Conversation
+        - Location Location_RAW\16_BackingVox2.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Electric_Guitar, Drum_Overheads'
+      Comment: 'huge'
+  Unused: {}
+  Ambient_Microphone: {}

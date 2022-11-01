@@ -1,0 +1,243 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer: {}
+  SFX: {}
+  Marimba: {}
+  Bell:
+    15_Cowbell.wav:
+      Track_path: Moosmusic - Big Dummy Shake\Moosmusic - Big Dummy Shake_RAW\15_Cowbell.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    01_KickSample.wav:
+      Track_path: Moosmusic - Big Dummy Shake\Moosmusic - Big Dummy Shake_RAW\01_KickSample.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    04_KickIn.wav:
+      Track_path: Moosmusic - Big Dummy Shake\Moosmusic - Big Dummy Shake_RAW\04_KickIn.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads'
+      Comment: ''
+    05_KickOut.wav:
+      Track_path: Moosmusic - Big Dummy Shake\Moosmusic - Big Dummy Shake_RAW\05_KickOut.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads'
+      Comment: ''
+  Drum_Snare:
+    02_SnareSample.wav:
+      Track_path: Moosmusic - Big Dummy Shake\Moosmusic - Big Dummy Shake_RAW\02_SnareSample.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    06_SnareDown.wav:
+      Track_path: Moosmusic - Big Dummy Shake\Moosmusic - Big Dummy Shake_RAW\06_SnareDown.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads'
+      Comment: ''
+    07_SnareUp.wav:
+      Track_path: Moosmusic - Big Dummy Shake\Moosmusic - Big Dummy Shake_RAW\07_SnareUp.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads'
+      Comment: ''
+  Drum_HiHat:
+    03_HiHatSample.wav:
+      Track_path: Moosmusic - Big Dummy Shake\Moosmusic - Big Dummy Shake_RAW\03_HiHatSample.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    08_HiHat.wav:
+      Track_path: Moosmusic - Big Dummy Shake\Moosmusic - Big Dummy Shake_RAW\08_HiHat.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Cymbals:
+    13_Cymbal.wav:
+      Track_path: Moosmusic - Big Dummy Shake\Moosmusic - Big Dummy Shake_RAW\13_Cymbal.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    19_RevCymbal.wav:
+      Track_path: Moosmusic - Big Dummy Shake\Moosmusic - Big Dummy Shake_RAW\19_RevCymbal.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Overheads:
+    09_Overheads.wav:
+      Track_path: Moosmusic - Big Dummy Shake\Moosmusic - Big Dummy Shake_RAW\09_Overheads.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Tom:
+    12_Tom.wav:
+      Track_path: Moosmusic - Big Dummy Shake\Moosmusic - Big Dummy Shake_RAW\12_Tom.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Room:
+    10_DrumsRoom1.wav:
+      Track_path: Moosmusic - Big Dummy Shake\Moosmusic - Big Dummy Shake_RAW\10_DrumsRoom1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    11_DrumsRoom2.wav:
+      Track_path: Moosmusic - Big Dummy Shake\Moosmusic - Big Dummy Shake_RAW\11_DrumsRoom2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Shaker:
+    16_Shaker.wav:
+      Track_path: Moosmusic - Big Dummy Shake\Moosmusic - Big Dummy Shake_RAW\16_Shaker.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock:
+    14_Woodblock.wav:
+      Track_path: Moosmusic - Big Dummy Shake\Moosmusic - Big Dummy Shake_RAW\14_Woodblock.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Handdrum: {}
+  Tambourine: {}
+  Loop: {}
+  Clicks: {}
+  Claps:
+    18_Claps.wav:
+      Track_path: Moosmusic - Big Dummy Shake\Moosmusic - Big Dummy Shake_RAW\18_Claps.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass: {}
+  Electric_Bass:
+    20_BassDI.wav:
+      Track_path: Moosmusic - Big Dummy Shake\Moosmusic - Big Dummy Shake_RAW\20_BassDI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Acoustic_Guitar: {}
+  Electric_Guitar:
+    22_ElecGtr1.wav:
+      Track_path: Moosmusic - Big Dummy Shake\Moosmusic - Big Dummy Shake_RAW\22_ElecGtr1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    23_ElecGtr2.wav:
+      Track_path: Moosmusic - Big Dummy Shake\Moosmusic - Big Dummy Shake_RAW\23_ElecGtr2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    24_ElecGtr3.wav:
+      Track_path: Moosmusic - Big Dummy Shake\Moosmusic - Big Dummy Shake_RAW\24_ElecGtr3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    25_ElecGtr4.wav:
+      Track_path: Moosmusic - Big Dummy Shake\Moosmusic - Big Dummy Shake_RAW\25_ElecGtr4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    26_ElecGtr5.wav:
+      Track_path: Moosmusic - Big Dummy Shake\Moosmusic - Big Dummy Shake_RAW\26_ElecGtr5.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    27_ElecGtr6.wav:
+      Track_path: Moosmusic - Big Dummy Shake\Moosmusic - Big Dummy Shake_RAW\27_ElecGtr6.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    28_ElecGtr7.wav:
+      Track_path: Moosmusic - Big Dummy Shake\Moosmusic - Big Dummy Shake_RAW\28_ElecGtr7.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Piano: {}
+  Electric_Piano:
+    21_Rhodes.wav:
+      Track_path: Moosmusic - Big Dummy Shake\Moosmusic - Big Dummy Shake_RAW\21_Rhodes.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    29_LeadVox.wav:
+      Track_path: Moosmusic - Big Dummy Shake\Moosmusic - Big Dummy Shake_RAW\29_LeadVox.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Choir: {}
+  Backing_Vocal:
+    30_BackingVox1.wav:
+      Track_path: Moosmusic - Big Dummy Shake\Moosmusic - Big Dummy Shake_RAW\30_BackingVox1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    31_BackingVox2.wav:
+      Track_path: Moosmusic - Big Dummy Shake\Moosmusic - Big Dummy Shake_RAW\31_BackingVox2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    32_BackingVox3.wav:
+      Track_path: Moosmusic - Big Dummy Shake\Moosmusic - Big Dummy Shake_RAW\32_BackingVox3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    33_BackingVox4.wav:
+      Track_path: Moosmusic - Big Dummy Shake\Moosmusic - Big Dummy Shake_RAW\33_BackingVox4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    34_BackingVox5.wav:
+      Track_path: Moosmusic - Big Dummy Shake\Moosmusic - Big Dummy Shake_RAW\34_BackingVox5.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Unused:
+    17_Tambourine.wav:
+      Track_path: Moosmusic - Big Dummy Shake\Moosmusic - Big Dummy Shake_RAW\17_Tambourine.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads'
+      Comment: ''
+  Ambient_Microphone: {}

@@ -1,0 +1,213 @@
+Track2inst:
+  Electric_Organ:
+    19_Organ.wav:
+      Track_path: David Tyo - Long Way Home\David Tyo - Long Way Home_RAW\19_Organ.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Synthesizer:
+    20_Synth.wav:
+      Track_path: David Tyo - Long Way Home\David Tyo - Long Way Home_RAW\20_Synth.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  SFX:
+    08_Heartbeart.wav:
+      Track_path: David Tyo - Long Way Home\David Tyo - Long Way Home_RAW\08_Heartbeart.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    01_Kick.wav:
+      Track_path: David Tyo - Long Way Home\David Tyo - Long Way Home_RAW\01_Kick.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_Snare:
+    02_SnareUp.wav:
+      Track_path: David Tyo - Long Way Home\David Tyo - Long Way Home_RAW\02_SnareUp.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    03_SnareDown.wav:
+      Track_path: David Tyo - Long Way Home\David Tyo - Long Way Home_RAW\03_SnareDown.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_HiHat: {}
+  Drum_Cymbals:
+    07_Cymbal.wav:
+      Track_path: David Tyo - Long Way Home\David Tyo - Long Way Home_RAW\07_Cymbal.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_Overheads:
+    06_Overheads.wav:
+      Track_path: David Tyo - Long Way Home\David Tyo - Long Way Home_RAW\06_Overheads.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Tom:
+    04_Tom1.wav:
+      Track_path: David Tyo - Long Way Home\David Tyo - Long Way Home_RAW\04_Tom1.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    05_Tom2.wav:
+      Track_path: David Tyo - Long Way Home\David Tyo - Long Way Home_RAW\05_Tom2.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_Room: {}
+  Shaker:
+    10_Shaker.wav:
+      Track_path: David Tyo - Long Way Home\David Tyo - Long Way Home_RAW\10_Shaker.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine:
+    09_Tambourine.wav:
+      Track_path: David Tyo - Long Way Home\David Tyo - Long Way Home_RAW\09_Tambourine.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Loop: {}
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass: {}
+  Electric_Bass:
+    11_Bass.wav:
+      Track_path: David Tyo - Long Way Home\David Tyo - Long Way Home_RAW\11_Bass.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Acoustic_Guitar:
+    12_AcousticGtr1.wav:
+      Track_path: David Tyo - Long Way Home\David Tyo - Long Way Home_RAW\12_AcousticGtr1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    13_AcousticGtr2.wav:
+      Track_path: David Tyo - Long Way Home\David Tyo - Long Way Home_RAW\13_AcousticGtr2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Electric_Guitar:
+    14_ElecGtr1.wav:
+      Track_path: David Tyo - Long Way Home\David Tyo - Long Way Home_RAW\14_ElecGtr1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    15_ElecGtr2.wav:
+      Track_path: David Tyo - Long Way Home\David Tyo - Long Way Home_RAW\15_ElecGtr2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    16_ElecGtr3.wav:
+      Track_path: David Tyo - Long Way Home\David Tyo - Long Way Home_RAW\16_ElecGtr3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    17_ElecGtr4.wav:
+      Track_path: David Tyo - Long Way Home\David Tyo - Long Way Home_RAW\17_ElecGtr4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Piano:
+    18_Piano.wav:
+      Track_path: David Tyo - Long Way Home\David Tyo - Long Way Home_RAW\18_Piano.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    21_LeadVox.wav:
+      Track_path: David Tyo - Long Way Home\David Tyo - Long Way Home_RAW\21_LeadVox.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Choir: {}
+  Backing_Vocal:
+    22_BackingVox1.wav:
+      Track_path: David Tyo - Long Way Home\David Tyo - Long Way Home_RAW\22_BackingVox1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    23_BackingVox2.wav:
+      Track_path: David Tyo - Long Way Home\David Tyo - Long Way Home_RAW\23_BackingVox2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    24_BackingVox3.wav:
+      Track_path: David Tyo - Long Way Home\David Tyo - Long Way Home_RAW\24_BackingVox3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    25_BackingVox3DT.wav:
+      Track_path: David Tyo - Long Way Home\David Tyo - Long Way Home_RAW\25_BackingVox3DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    26_BackingVox4.wav:
+      Track_path: David Tyo - Long Way Home\David Tyo - Long Way Home_RAW\26_BackingVox4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    27_BackingVox5.wav:
+      Track_path: David Tyo - Long Way Home\David Tyo - Long Way Home_RAW\27_BackingVox5.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    28_BackingVox6.wav:
+      Track_path: David Tyo - Long Way Home\David Tyo - Long Way Home_RAW\28_BackingVox6.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Unused: {}
+  Ambient_Microphone: {}

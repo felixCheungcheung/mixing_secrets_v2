@@ -1,0 +1,308 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer: {}
+  SFX: {}
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    01_KickIn.wav:
+      Track_path: Lead Inc - The Inner Circle\Lead Inc - The Inner Circle_RAW\01_KickIn.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads'
+      Comment: ''
+    02_KickOut.wav:
+      Track_path: Lead Inc - The Inner Circle\Lead Inc - The Inner Circle_RAW\02_KickOut.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads'
+      Comment: ''
+  Drum_Snare:
+    04_SnareUpMic1.wav:
+      Track_path: Lead Inc - The Inner Circle\Lead Inc - The Inner Circle_RAW\04_SnareUpMic1.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads'
+      Comment: ''
+    05_SnareUpMic2.wav:
+      Track_path: Lead Inc - The Inner Circle\Lead Inc - The Inner Circle_RAW\05_SnareUpMic2.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads'
+      Comment: ''
+    06_SnareDown.wav:
+      Track_path: Lead Inc - The Inner Circle\Lead Inc - The Inner Circle_RAW\06_SnareDown.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads'
+      Comment: ''
+  Drum_HiHat:
+    08_HiHat.wav:
+      Track_path: Lead Inc - The Inner Circle\Lead Inc - The Inner Circle_RAW\08_HiHat.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads'
+      Comment: ''
+  Drum_Cymbals: {}
+  Drum_Overheads:
+    09_Overheads1.wav:
+      Track_path: Lead Inc - The Inner Circle\Lead Inc - The Inner Circle_RAW\09_Overheads1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    10_Overheads2.wav:
+      Track_path: Lead Inc - The Inner Circle\Lead Inc - The Inner Circle_RAW\10_Overheads2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Tom:
+    13_Tom1.wav:
+      Track_path: Lead Inc - The Inner Circle\Lead Inc - The Inner Circle_RAW\13_Tom1.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads'
+      Comment: ''
+    15_Tom2.wav:
+      Track_path: Lead Inc - The Inner Circle\Lead Inc - The Inner Circle_RAW\15_Tom2.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads'
+      Comment: ''
+    17_Tom3.wav:
+      Track_path: Lead Inc - The Inner Circle\Lead Inc - The Inner Circle_RAW\17_Tom3.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads'
+      Comment: ''
+  Drum_Room:
+    11_DrumsRoomMono.wav:
+      Track_path: Lead Inc - The Inner Circle\Lead Inc - The Inner Circle_RAW\11_DrumsRoomMono.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    12_DrumsRoomStereo.wav:
+      Track_path: Lead Inc - The Inner Circle\Lead Inc - The Inner Circle_RAW\12_DrumsRoomStereo.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop: {}
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass: {}
+  Electric_Bass:
+    19_BassDI.wav:
+      Track_path: Lead Inc - The Inner Circle\Lead Inc - The Inner Circle_RAW\19_BassDI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    20_BassDIPedals.wav:
+      Track_path: Lead Inc - The Inner Circle\Lead Inc - The Inner Circle_RAW\20_BassDIPedals.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    21_BassAmpMic1.wav:
+      Track_path: Lead Inc - The Inner Circle\Lead Inc - The Inner Circle_RAW\21_BassAmpMic1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    22_BassAmpMic2.wav:
+      Track_path: Lead Inc - The Inner Circle\Lead Inc - The Inner Circle_RAW\22_BassAmpMic2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Acoustic_Guitar: {}
+  Electric_Guitar:
+    23_ElecGtr1Mic1.wav:
+      Track_path: Lead Inc - The Inner Circle\Lead Inc - The Inner Circle_RAW\23_ElecGtr1Mic1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    24_ElecGtr1Mic2.wav:
+      Track_path: Lead Inc - The Inner Circle\Lead Inc - The Inner Circle_RAW\24_ElecGtr1Mic2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    25_ElecGtr1Mic3.wav:
+      Track_path: Lead Inc - The Inner Circle\Lead Inc - The Inner Circle_RAW\25_ElecGtr1Mic3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    26_ElecGtr1Mic4.wav:
+      Track_path: Lead Inc - The Inner Circle\Lead Inc - The Inner Circle_RAW\26_ElecGtr1Mic4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    27_ElecGtr1DI.wav:
+      Track_path: Lead Inc - The Inner Circle\Lead Inc - The Inner Circle_RAW\27_ElecGtr1DI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    28_ElecGtr2Mic1.wav:
+      Track_path: Lead Inc - The Inner Circle\Lead Inc - The Inner Circle_RAW\28_ElecGtr2Mic1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    29_ElecGtr2Mic2.wav:
+      Track_path: Lead Inc - The Inner Circle\Lead Inc - The Inner Circle_RAW\29_ElecGtr2Mic2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    30_ElecGtr2Mic3.wav:
+      Track_path: Lead Inc - The Inner Circle\Lead Inc - The Inner Circle_RAW\30_ElecGtr2Mic3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    31_ElecGtr2Mic4.wav:
+      Track_path: Lead Inc - The Inner Circle\Lead Inc - The Inner Circle_RAW\31_ElecGtr2Mic4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    32_ElecGtr2DI.wav:
+      Track_path: Lead Inc - The Inner Circle\Lead Inc - The Inner Circle_RAW\32_ElecGtr2DI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    33_ElecGtr3Mic1.wav:
+      Track_path: Lead Inc - The Inner Circle\Lead Inc - The Inner Circle_RAW\33_ElecGtr3Mic1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    34_ElecGtr3Mic2.wav:
+      Track_path: Lead Inc - The Inner Circle\Lead Inc - The Inner Circle_RAW\34_ElecGtr3Mic2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    35_ElecGtr3Mic3.wav:
+      Track_path: Lead Inc - The Inner Circle\Lead Inc - The Inner Circle_RAW\35_ElecGtr3Mic3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    36_ElecGtr3Mic4.wav:
+      Track_path: Lead Inc - The Inner Circle\Lead Inc - The Inner Circle_RAW\36_ElecGtr3Mic4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    37_ElecGtr3DI.wav:
+      Track_path: Lead Inc - The Inner Circle\Lead Inc - The Inner Circle_RAW\37_ElecGtr3DI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Piano: {}
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    38_LeadVoxMic1.wav:
+      Track_path: Lead Inc - The Inner Circle\Lead Inc - The Inner Circle_RAW\38_LeadVoxMic1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    39_LeadVoxMic2.wav:
+      Track_path: Lead Inc - The Inner Circle\Lead Inc - The Inner Circle_RAW\39_LeadVoxMic2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    40_LeadVoxDTMic1.wav:
+      Track_path: Lead Inc - The Inner Circle\Lead Inc - The Inner Circle_RAW\40_LeadVoxDTMic1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    41_LeadVoxDTMic2.wav:
+      Track_path: Lead Inc - The Inner Circle\Lead Inc - The Inner Circle_RAW\41_LeadVoxDTMic2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Choir: {}
+  Backing_Vocal:
+    42_BackingVox1Mic1.wav:
+      Track_path: Lead Inc - The Inner Circle\Lead Inc - The Inner Circle_RAW\42_BackingVox1Mic1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    43_BackingVox1Mic2.wav:
+      Track_path: Lead Inc - The Inner Circle\Lead Inc - The Inner Circle_RAW\43_BackingVox1Mic2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    44_BackingVox2Mic1.wav:
+      Track_path: Lead Inc - The Inner Circle\Lead Inc - The Inner Circle_RAW\44_BackingVox2Mic1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    45_BackingVox2Mic2.wav:
+      Track_path: Lead Inc - The Inner Circle\Lead Inc - The Inner Circle_RAW\45_BackingVox2Mic2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    46_BackingVox3.wav:
+      Track_path: Lead Inc - The Inner Circle\Lead Inc - The Inner Circle_RAW\46_BackingVox3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    47_BackingVox4.wav:
+      Track_path: Lead Inc - The Inner Circle\Lead Inc - The Inner Circle_RAW\47_BackingVox4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Unused:
+    14_Tom1Trigger.wav:
+      Track_path: Lead Inc - The Inner Circle\Lead Inc - The Inner Circle_RAW\14_Tom1Trigger.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    16_Tom2Trigger.wav:
+      Track_path: Lead Inc - The Inner Circle\Lead Inc - The Inner Circle_RAW\16_Tom2Trigger.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    18_Tom3Trigger.wav:
+      Track_path: Lead Inc - The Inner Circle\Lead Inc - The Inner Circle_RAW\18_Tom3Trigger.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    07_SnareTrigger.wav:
+      Track_path: Lead Inc - The Inner Circle\Lead Inc - The Inner Circle_RAW\07_SnareTrigger.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    03_KickTrigger.wav:
+      Track_path: Lead Inc - The Inner Circle\Lead Inc - The Inner Circle_RAW\03_KickTrigger.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Ambient_Microphone: {}

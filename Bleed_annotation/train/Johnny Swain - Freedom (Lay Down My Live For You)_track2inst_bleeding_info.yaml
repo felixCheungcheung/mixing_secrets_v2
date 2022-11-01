@@ -1,0 +1,439 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer: {}
+  SFX:
+    08_SFX1.wav:
+      Track_path: Johnny Swain - Freedom (Lay Down My Live For You)\Johnny Swain -
+        Freedom (Lay Down My Live For You)_RAW\08_SFX1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    09_SFX2.wav:
+      Track_path: Johnny Swain - Freedom (Lay Down My Live For You)\Johnny Swain -
+        Freedom (Lay Down My Live For You)_RAW\09_SFX2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    10_SFX3.wav:
+      Track_path: Johnny Swain - Freedom (Lay Down My Live For You)\Johnny Swain -
+        Freedom (Lay Down My Live For You)_RAW\10_SFX3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic:
+    12_MusicBox.wav:
+      Track_path: Johnny Swain - Freedom (Lay Down My Live For You)\Johnny Swain -
+        Freedom (Lay Down My Live For You)_RAW\12_MusicBox.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Kick:
+    01_Kick.wav:
+      Track_path: Johnny Swain - Freedom (Lay Down My Live For You)\Johnny Swain -
+        Freedom (Lay Down My Live For You)_RAW\01_Kick.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Snare:
+    02_Snare1.wav:
+      Track_path: Johnny Swain - Freedom (Lay Down My Live For You)\Johnny Swain -
+        Freedom (Lay Down My Live For You)_RAW\02_Snare1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    03_Snare2.wav:
+      Track_path: Johnny Swain - Freedom (Lay Down My Live For You)\Johnny Swain -
+        Freedom (Lay Down My Live For You)_RAW\03_Snare2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_HiHat: {}
+  Drum_Cymbals:
+    07_Cymbals.wav:
+      Track_path: Johnny Swain - Freedom (Lay Down My Live For You)\Johnny Swain -
+        Freedom (Lay Down My Live For You)_RAW\07_Cymbals.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Overheads:
+    05_Overheads.wav:
+      Track_path: Johnny Swain - Freedom (Lay Down My Live For You)\Johnny Swain -
+        Freedom (Lay Down My Live For You)_RAW\05_Overheads.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Tom:
+    04_Toms.wav:
+      Track_path: Johnny Swain - Freedom (Lay Down My Live For You)\Johnny Swain -
+        Freedom (Lay Down My Live For You)_RAW\04_Toms.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Room:
+    06_DrumsRoom.wav:
+      Track_path: Johnny Swain - Freedom (Lay Down My Live For You)\Johnny Swain -
+        Freedom (Lay Down My Live For You)_RAW\06_DrumsRoom.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop: {}
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass: {}
+  Electric_Bass:
+    11_Bass.wav:
+      Track_path: Johnny Swain - Freedom (Lay Down My Live For You)\Johnny Swain -
+        Freedom (Lay Down My Live For You)_RAW\11_Bass.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Acoustic_Guitar: {}
+  Electric_Guitar:
+    24_ElecGtr1.wav:
+      Track_path: Johnny Swain - Freedom (Lay Down My Live For You)\Johnny Swain -
+        Freedom (Lay Down My Live For You)_RAW\24_ElecGtr1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    25_ElecGtr1DT.wav:
+      Track_path: Johnny Swain - Freedom (Lay Down My Live For You)\Johnny Swain -
+        Freedom (Lay Down My Live For You)_RAW\25_ElecGtr1DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    26_ElecGtr2.wav:
+      Track_path: Johnny Swain - Freedom (Lay Down My Live For You)\Johnny Swain -
+        Freedom (Lay Down My Live For You)_RAW\26_ElecGtr2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    27_ElecGtr2DT.wav:
+      Track_path: Johnny Swain - Freedom (Lay Down My Live For You)\Johnny Swain -
+        Freedom (Lay Down My Live For You)_RAW\27_ElecGtr2DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    28_ElecGtr3.wav:
+      Track_path: Johnny Swain - Freedom (Lay Down My Live For You)\Johnny Swain -
+        Freedom (Lay Down My Live For You)_RAW\28_ElecGtr3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    29_ElecGtr3DT.wav:
+      Track_path: Johnny Swain - Freedom (Lay Down My Live For You)\Johnny Swain -
+        Freedom (Lay Down My Live For You)_RAW\29_ElecGtr3DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    30_ElecGtr4.wav:
+      Track_path: Johnny Swain - Freedom (Lay Down My Live For You)\Johnny Swain -
+        Freedom (Lay Down My Live For You)_RAW\30_ElecGtr4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    31_ElecGtr4DT.wav:
+      Track_path: Johnny Swain - Freedom (Lay Down My Live For You)\Johnny Swain -
+        Freedom (Lay Down My Live For You)_RAW\31_ElecGtr4DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    32_ElecGtr5.wav:
+      Track_path: Johnny Swain - Freedom (Lay Down My Live For You)\Johnny Swain -
+        Freedom (Lay Down My Live For You)_RAW\32_ElecGtr5.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    33_ElecGtr5DT.wav:
+      Track_path: Johnny Swain - Freedom (Lay Down My Live For You)\Johnny Swain -
+        Freedom (Lay Down My Live For You)_RAW\33_ElecGtr5DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Piano:
+    13_Piano.wav:
+      Track_path: Johnny Swain - Freedom (Lay Down My Live For You)\Johnny Swain -
+        Freedom (Lay Down My Live For You)_RAW\13_Piano.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn:
+    23_Horns.wav:
+      Track_path: Johnny Swain - Freedom (Lay Down My Live For You)\Johnny Swain -
+        Freedom (Lay Down My Live For You)_RAW\23_Horns.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Trombone: {}
+  Tuba: {}
+  String_Section:
+    14_Strings1.wav:
+      Track_path: Johnny Swain - Freedom (Lay Down My Live For You)\Johnny Swain -
+        Freedom (Lay Down My Live For You)_RAW\14_Strings1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    15_Strings2.wav:
+      Track_path: Johnny Swain - Freedom (Lay Down My Live For You)\Johnny Swain -
+        Freedom (Lay Down My Live For You)_RAW\15_Strings2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    16_Strings3.wav:
+      Track_path: Johnny Swain - Freedom (Lay Down My Live For You)\Johnny Swain -
+        Freedom (Lay Down My Live For You)_RAW\16_Strings3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    17_Strings4.wav:
+      Track_path: Johnny Swain - Freedom (Lay Down My Live For You)\Johnny Swain -
+        Freedom (Lay Down My Live For You)_RAW\17_Strings4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    18_Strings5.wav:
+      Track_path: Johnny Swain - Freedom (Lay Down My Live For You)\Johnny Swain -
+        Freedom (Lay Down My Live For You)_RAW\18_Strings5.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    19_Strings6.wav:
+      Track_path: Johnny Swain - Freedom (Lay Down My Live For You)\Johnny Swain -
+        Freedom (Lay Down My Live For You)_RAW\19_Strings6.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe:
+    22_Oboes.wav:
+      Track_path: Johnny Swain - Freedom (Lay Down My Live For You)\Johnny Swain -
+        Freedom (Lay Down My Live For You)_RAW\22_Oboes.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  WoodWind_Section: {}
+  Lead_Vocal:
+    34_LeadVox1.wav:
+      Track_path: Johnny Swain - Freedom (Lay Down My Live For You)\Johnny Swain -
+        Freedom (Lay Down My Live For You)_RAW\34_LeadVox1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    35_LeadVox2.wav:
+      Track_path: Johnny Swain - Freedom (Lay Down My Live For You)\Johnny Swain -
+        Freedom (Lay Down My Live For You)_RAW\35_LeadVox2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    36_LeadVox2DT1.wav:
+      Track_path: Johnny Swain - Freedom (Lay Down My Live For You)\Johnny Swain -
+        Freedom (Lay Down My Live For You)_RAW\36_LeadVox2DT1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    37_LeadVox2DT2.wav:
+      Track_path: Johnny Swain - Freedom (Lay Down My Live For You)\Johnny Swain -
+        Freedom (Lay Down My Live For You)_RAW\37_LeadVox2DT2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    38_LeadVox3.wav:
+      Track_path: Johnny Swain - Freedom (Lay Down My Live For You)\Johnny Swain -
+        Freedom (Lay Down My Live For You)_RAW\38_LeadVox3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    39_LeadVox3DT1.wav:
+      Track_path: Johnny Swain - Freedom (Lay Down My Live For You)\Johnny Swain -
+        Freedom (Lay Down My Live For You)_RAW\39_LeadVox3DT1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    40_LeadVox3DT2.wav:
+      Track_path: Johnny Swain - Freedom (Lay Down My Live For You)\Johnny Swain -
+        Freedom (Lay Down My Live For You)_RAW\40_LeadVox3DT2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    41_LeadVox4.wav:
+      Track_path: Johnny Swain - Freedom (Lay Down My Live For You)\Johnny Swain -
+        Freedom (Lay Down My Live For You)_RAW\41_LeadVox4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    42_LeadVox4DT1.wav:
+      Track_path: Johnny Swain - Freedom (Lay Down My Live For You)\Johnny Swain -
+        Freedom (Lay Down My Live For You)_RAW\42_LeadVox4DT1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    43_LeadVox4DT2.wav:
+      Track_path: Johnny Swain - Freedom (Lay Down My Live For You)\Johnny Swain -
+        Freedom (Lay Down My Live For You)_RAW\43_LeadVox4DT2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Choir:
+    20_Choir1.wav:
+      Track_path: Johnny Swain - Freedom (Lay Down My Live For You)\Johnny Swain -
+        Freedom (Lay Down My Live For You)_RAW\20_Choir1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    21_Choir2.wav:
+      Track_path: Johnny Swain - Freedom (Lay Down My Live For You)\Johnny Swain -
+        Freedom (Lay Down My Live For You)_RAW\21_Choir2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Backing_Vocal:
+    44_BackingVox1.wav:
+      Track_path: Johnny Swain - Freedom (Lay Down My Live For You)\Johnny Swain -
+        Freedom (Lay Down My Live For You)_RAW\44_BackingVox1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    45_BackingVox1DT.wav:
+      Track_path: Johnny Swain - Freedom (Lay Down My Live For You)\Johnny Swain -
+        Freedom (Lay Down My Live For You)_RAW\45_BackingVox1DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    46_BackingVox2.wav:
+      Track_path: Johnny Swain - Freedom (Lay Down My Live For You)\Johnny Swain -
+        Freedom (Lay Down My Live For You)_RAW\46_BackingVox2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    47_BackingVox2DT1.wav:
+      Track_path: Johnny Swain - Freedom (Lay Down My Live For You)\Johnny Swain -
+        Freedom (Lay Down My Live For You)_RAW\47_BackingVox2DT1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    48_BackingVox2DT2.wav:
+      Track_path: Johnny Swain - Freedom (Lay Down My Live For You)\Johnny Swain -
+        Freedom (Lay Down My Live For You)_RAW\48_BackingVox2DT2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    49_BackingVox2DT3.wav:
+      Track_path: Johnny Swain - Freedom (Lay Down My Live For You)\Johnny Swain -
+        Freedom (Lay Down My Live For You)_RAW\49_BackingVox2DT3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    50_BackingVox3.wav:
+      Track_path: Johnny Swain - Freedom (Lay Down My Live For You)\Johnny Swain -
+        Freedom (Lay Down My Live For You)_RAW\50_BackingVox3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    51_BackingVox3DT1.wav:
+      Track_path: Johnny Swain - Freedom (Lay Down My Live For You)\Johnny Swain -
+        Freedom (Lay Down My Live For You)_RAW\51_BackingVox3DT1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    52_BackingVox3DT2.wav:
+      Track_path: Johnny Swain - Freedom (Lay Down My Live For You)\Johnny Swain -
+        Freedom (Lay Down My Live For You)_RAW\52_BackingVox3DT2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    53_BackingVox3DT3.wav:
+      Track_path: Johnny Swain - Freedom (Lay Down My Live For You)\Johnny Swain -
+        Freedom (Lay Down My Live For You)_RAW\53_BackingVox3DT3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    54_BackingVox4.wav:
+      Track_path: Johnny Swain - Freedom (Lay Down My Live For You)\Johnny Swain -
+        Freedom (Lay Down My Live For You)_RAW\54_BackingVox4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    55_BackingVox4DT1.wav:
+      Track_path: Johnny Swain - Freedom (Lay Down My Live For You)\Johnny Swain -
+        Freedom (Lay Down My Live For You)_RAW\55_BackingVox4DT1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    56_BackingVox4DT2.wav:
+      Track_path: Johnny Swain - Freedom (Lay Down My Live For You)\Johnny Swain -
+        Freedom (Lay Down My Live For You)_RAW\56_BackingVox4DT2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    57_BackingVox4DT3.wav:
+      Track_path: Johnny Swain - Freedom (Lay Down My Live For You)\Johnny Swain -
+        Freedom (Lay Down My Live For You)_RAW\57_BackingVox4DT3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    58_BackingVox5.wav:
+      Track_path: Johnny Swain - Freedom (Lay Down My Live For You)\Johnny Swain -
+        Freedom (Lay Down My Live For You)_RAW\58_BackingVox5.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    59_BackingVox5DT1.wav:
+      Track_path: Johnny Swain - Freedom (Lay Down My Live For You)\Johnny Swain -
+        Freedom (Lay Down My Live For You)_RAW\59_BackingVox5DT1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    60_BackingVox5DT2.wav:
+      Track_path: Johnny Swain - Freedom (Lay Down My Live For You)\Johnny Swain -
+        Freedom (Lay Down My Live For You)_RAW\60_BackingVox5DT2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    61_BackingVox5DT3.wav:
+      Track_path: Johnny Swain - Freedom (Lay Down My Live For You)\Johnny Swain -
+        Freedom (Lay Down My Live For You)_RAW\61_BackingVox5DT3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Unused: {}
+  Ambient_Microphone: {}

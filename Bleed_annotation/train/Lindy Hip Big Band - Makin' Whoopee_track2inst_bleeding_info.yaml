@@ -1,0 +1,193 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer: {}
+  SFX: {}
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    01_Kick.wav:
+      Track_path: Lindy Hip Big Band - Makin' Whoopee\Lindy Hip Big Band - Makin'
+        Whoopee_RAW\01_Kick.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Saxophone, Trumpet, Trombone, Drum_Overheads, Double_Bass'
+      Comment: ''
+  Drum_Snare:
+    02_Snare.wav:
+      Track_path: Lindy Hip Big Band - Makin' Whoopee\Lindy Hip Big Band - Makin'
+        Whoopee_RAW\02_Snare.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Saxophone, Trumpet, Trombone, Drum_Overheads, Double_Bass'
+      Comment: ''
+  Drum_HiHat: {}
+  Drum_Cymbals: {}
+  Drum_Overheads:
+    03_Overhead.wav:
+      Track_path: Lindy Hip Big Band - Makin' Whoopee\Lindy Hip Big Band - Makin'
+        Whoopee_RAW\03_Overhead.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Saxophone, Trumpet, Trombone, Double_Bass'
+      Comment: ''
+  Drum_Tom: {}
+  Drum_Room: {}
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop: {}
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass: {}
+  Electric_Bass: {}
+  Acoustic_Guitar: {}
+  Electric_Guitar:
+    05_ElecGtr.wav:
+      Track_path: Lindy Hip Big Band - Makin' Whoopee\Lindy Hip Big Band - Makin'
+        Whoopee_RAW\05_ElecGtr.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Saxophone, Trumpet, Trombone, Drum_Overheads'
+      Comment: ''
+  Piano:
+    06_Piano.wav:
+      Track_path: Lindy Hip Big Band - Makin' Whoopee\Lindy Hip Big Band - Makin'
+        Whoopee_RAW\06_Piano.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone:
+    11_SaxAlto1.wav:
+      Track_path: Lindy Hip Big Band - Makin' Whoopee\Lindy Hip Big Band - Makin'
+        Whoopee_RAW\11_SaxAlto1.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Piano, Trumpet, Trombone, Drum_Overheads, Double_Bass'
+      Comment: ''
+    12_SaxAlto2.wav:
+      Track_path: Lindy Hip Big Band - Makin' Whoopee\Lindy Hip Big Band - Makin'
+        Whoopee_RAW\12_SaxAlto2.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Piano, Trumpet, Trombone, Drum_Overheads, Double_Bass'
+      Comment: ''
+    13_SaxTenor1.wav:
+      Track_path: Lindy Hip Big Band - Makin' Whoopee\Lindy Hip Big Band - Makin'
+        Whoopee_RAW\13_SaxTenor1.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Piano, Trumpet, Trombone, Drum_Overheads, Double_Bass'
+      Comment: ''
+    14_SaxTenor2.wav:
+      Track_path: Lindy Hip Big Band - Makin' Whoopee\Lindy Hip Big Band - Makin'
+        Whoopee_RAW\14_SaxTenor2.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Piano, Trumpet, Trombone, Drum_Overheads, Double_Bass'
+      Comment: ''
+    15_SaxBaritone.wav:
+      Track_path: Lindy Hip Big Band - Makin' Whoopee\Lindy Hip Big Band - Makin'
+        Whoopee_RAW\15_SaxBaritone.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Piano, Trumpet, Trombone, Drum_Overheads, Double_Bass'
+      Comment: ''
+  Trumpet:
+    07_Trumpet1.wav:
+      Track_path: Lindy Hip Big Band - Makin' Whoopee\Lindy Hip Big Band - Makin'
+        Whoopee_RAW\07_Trumpet1.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Piano, Saxophone, Trombone, Drum_Overheads, Double_Bass'
+      Comment: ''
+    08_Trumpet2.wav:
+      Track_path: Lindy Hip Big Band - Makin' Whoopee\Lindy Hip Big Band - Makin'
+        Whoopee_RAW\08_Trumpet2.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Piano, Saxophone, Trombone, Drum_Overheads, Double_Bass'
+      Comment: ''
+    09_Trumpet3.wav:
+      Track_path: Lindy Hip Big Band - Makin' Whoopee\Lindy Hip Big Band - Makin'
+        Whoopee_RAW\09_Trumpet3.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Piano, Saxophone, Trombone, Drum_Overheads, Double_Bass'
+      Comment: ''
+    10_Trumpet4.wav:
+      Track_path: Lindy Hip Big Band - Makin' Whoopee\Lindy Hip Big Band - Makin'
+        Whoopee_RAW\10_Trumpet4.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Piano, Saxophone, Trombone, Drum_Overheads, Double_Bass'
+      Comment: ''
+  French_Horn: {}
+  Trombone:
+    16_Trombone1.wav:
+      Track_path: Lindy Hip Big Band - Makin' Whoopee\Lindy Hip Big Band - Makin'
+        Whoopee_RAW\16_Trombone1.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Piano, Trumpet, Trombone, Drum_Overheads, Double_Bass'
+      Comment: ''
+    17_Trombone2.wav:
+      Track_path: Lindy Hip Big Band - Makin' Whoopee\Lindy Hip Big Band - Makin'
+        Whoopee_RAW\17_Trombone2.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Piano, Trumpet, Trombone, Drum_Overheads, Double_Bass'
+      Comment: ''
+    18_Trombone3.wav:
+      Track_path: Lindy Hip Big Band - Makin' Whoopee\Lindy Hip Big Band - Makin'
+        Whoopee_RAW\18_Trombone3.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Piano, Trumpet, Trombone, Drum_Overheads, Double_Bass'
+      Comment: ''
+    19_Trombone4.wav:
+      Track_path: Lindy Hip Big Band - Makin' Whoopee\Lindy Hip Big Band - Makin'
+        Whoopee_RAW\19_Trombone4.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Piano, Trumpet, Trombone, Drum_Overheads, Double_Bass'
+      Comment: ''
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass:
+    04_BassDI.wav:
+      Track_path: Lindy Hip Big Band - Makin' Whoopee\Lindy Hip Big Band - Makin'
+        Whoopee_RAW\04_BassDI.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Saxophone, Trumpet, Trombone, Drum_Overheads'
+      Comment: ''
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    20_LeadVox.wav:
+      Track_path: Lindy Hip Big Band - Makin' Whoopee\Lindy Hip Big Band - Makin'
+        Whoopee_RAW\20_LeadVox.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Choir: {}
+  Backing_Vocal: {}
+  Unused: {}
+  Ambient_Microphone: {}

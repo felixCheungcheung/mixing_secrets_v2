@@ -1,0 +1,198 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer: {}
+  SFX: {}
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    01_Kick.wav:
+      Track_path: Cunegonda - Guerra Alla Frontiera\Cunegonda - Guerra Alla Frontiera_RAW\01_Kick.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads'
+      Comment: ''
+  Drum_Snare:
+    02_Snare.wav:
+      Track_path: Cunegonda - Guerra Alla Frontiera\Cunegonda - Guerra Alla Frontiera_RAW\02_Snare.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads'
+      Comment: ''
+    03_SnareDelay.wav:
+      Track_path: Cunegonda - Guerra Alla Frontiera\Cunegonda - Guerra Alla Frontiera_RAW\03_SnareDelay.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads'
+      Comment: ''
+  Drum_HiHat: {}
+  Drum_Cymbals: {}
+  Drum_Overheads:
+    04_Overheads.wav:
+      Track_path: Cunegonda - Guerra Alla Frontiera\Cunegonda - Guerra Alla Frontiera_RAW\04_Overheads.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Tom: {}
+  Drum_Room:
+    05_DrumsRoom.wav:
+      Track_path: Cunegonda - Guerra Alla Frontiera\Cunegonda - Guerra Alla Frontiera_RAW\05_DrumsRoom.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop: {}
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass: {}
+  Electric_Bass:
+    06_BassDI.wav:
+      Track_path: Cunegonda - Guerra Alla Frontiera\Cunegonda - Guerra Alla Frontiera_RAW\06_BassDI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Acoustic_Guitar: {}
+  Electric_Guitar:
+    07_ElecGtr.wav:
+      Track_path: Cunegonda - Guerra Alla Frontiera\Cunegonda - Guerra Alla Frontiera_RAW\07_ElecGtr.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    08_ElecGtrDT.wav:
+      Track_path: Cunegonda - Guerra Alla Frontiera\Cunegonda - Guerra Alla Frontiera_RAW\08_ElecGtrDT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Piano: {}
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal: {}
+  Choir: {}
+  Backing_Vocal:
+    15_BackingVox1.wav:
+      Track_path: Cunegonda - Guerra Alla Frontiera\Cunegonda - Guerra Alla Frontiera_RAW\15_BackingVox1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    16_BackingVox1DT.wav:
+      Track_path: Cunegonda - Guerra Alla Frontiera\Cunegonda - Guerra Alla Frontiera_RAW\16_BackingVox1DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    17_BackingVox2.wav:
+      Track_path: Cunegonda - Guerra Alla Frontiera\Cunegonda - Guerra Alla Frontiera_RAW\17_BackingVox2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    18_BackingVox3.wav:
+      Track_path: Cunegonda - Guerra Alla Frontiera\Cunegonda - Guerra Alla Frontiera_RAW\18_BackingVox3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    19_BackingVox3DT.wav:
+      Track_path: Cunegonda - Guerra Alla Frontiera\Cunegonda - Guerra Alla Frontiera_RAW\19_BackingVox3DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    20_BackingVox4.wav:
+      Track_path: Cunegonda - Guerra Alla Frontiera\Cunegonda - Guerra Alla Frontiera_RAW\20_BackingVox4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    21_BackingVox4DT.wav:
+      Track_path: Cunegonda - Guerra Alla Frontiera\Cunegonda - Guerra Alla Frontiera_RAW\21_BackingVox4DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    22_BackingVox5.wav:
+      Track_path: Cunegonda - Guerra Alla Frontiera\Cunegonda - Guerra Alla Frontiera_RAW\22_BackingVox5.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    23_BackingVox5DT.wav:
+      Track_path: Cunegonda - Guerra Alla Frontiera\Cunegonda - Guerra Alla Frontiera_RAW\23_BackingVox5DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    24_BackingVox6.wav:
+      Track_path: Cunegonda - Guerra Alla Frontiera\Cunegonda - Guerra Alla Frontiera_RAW\24_BackingVox6.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    25_BackingVox6DT.wav:
+      Track_path: Cunegonda - Guerra Alla Frontiera\Cunegonda - Guerra Alla Frontiera_RAW\25_BackingVox6DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Unused:
+    09_LeadVox.wav:
+      Track_path: Cunegonda - Guerra Alla Frontiera\Cunegonda - Guerra Alla Frontiera_RAW\09_LeadVox.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    10_LeadVoxDT.wav:
+      Track_path: Cunegonda - Guerra Alla Frontiera\Cunegonda - Guerra Alla Frontiera_RAW\10_LeadVoxDT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    11_LeadVox2.wav:
+      Track_path: Cunegonda - Guerra Alla Frontiera\Cunegonda - Guerra Alla Frontiera_RAW\11_LeadVox2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    12_LeadVox2DT.wav:
+      Track_path: Cunegonda - Guerra Alla Frontiera\Cunegonda - Guerra Alla Frontiera_RAW\12_LeadVox2DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    13_LeadVox3.wav:
+      Track_path: Cunegonda - Guerra Alla Frontiera\Cunegonda - Guerra Alla Frontiera_RAW\13_LeadVox3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    14_LeadVox3DT.wav:
+      Track_path: Cunegonda - Guerra Alla Frontiera\Cunegonda - Guerra Alla Frontiera_RAW\14_LeadVox3DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Ambient_Microphone: {}

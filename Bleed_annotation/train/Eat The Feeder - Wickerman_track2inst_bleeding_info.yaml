@@ -1,0 +1,328 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer: {}
+  SFX: {}
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    01_KickMic1.wav:
+      Track_path: Eat The Feeder - Wickerman\Eat The Feeder - Wickerman_RAW\01_KickMic1.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    02_KickMic2.wav:
+      Track_path: Eat The Feeder - Wickerman\Eat The Feeder - Wickerman_RAW\02_KickMic2.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    03_KickSample.wav:
+      Track_path: Eat The Feeder - Wickerman\Eat The Feeder - Wickerman_RAW\03_KickSample.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Snare:
+    04_SnareUp.wav:
+      Track_path: Eat The Feeder - Wickerman\Eat The Feeder - Wickerman_RAW\04_SnareUp.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    05_SnareUp.wav:
+      Track_path: Eat The Feeder - Wickerman\Eat The Feeder - Wickerman_RAW\05_SnareUp.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    06_SnareDown.wav:
+      Track_path: Eat The Feeder - Wickerman\Eat The Feeder - Wickerman_RAW\06_SnareDown.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    07_SnareSide.wav:
+      Track_path: Eat The Feeder - Wickerman\Eat The Feeder - Wickerman_RAW\07_SnareSide.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    08_SnareSample1.wav:
+      Track_path: Eat The Feeder - Wickerman\Eat The Feeder - Wickerman_RAW\08_SnareSample1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    09_SnareSample2.wav:
+      Track_path: Eat The Feeder - Wickerman\Eat The Feeder - Wickerman_RAW\09_SnareSample2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_HiHat:
+    12_HHat.wav:
+      Track_path: Eat The Feeder - Wickerman\Eat The Feeder - Wickerman_RAW\12_HHat.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_Cymbals:
+    13_Ride.wav:
+      Track_path: Eat The Feeder - Wickerman\Eat The Feeder - Wickerman_RAW\13_Ride.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_Overheads:
+    14_Overheads.wav:
+      Track_path: Eat The Feeder - Wickerman\Eat The Feeder - Wickerman_RAW\14_Overheads.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    16_DrumsSquash.wav:
+      Track_path: Eat The Feeder - Wickerman\Eat The Feeder - Wickerman_RAW\16_DrumsSquash.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Tom:
+    10_Tom1.wav:
+      Track_path: Eat The Feeder - Wickerman\Eat The Feeder - Wickerman_RAW\10_Tom1.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    11_Tom2.wav:
+      Track_path: Eat The Feeder - Wickerman\Eat The Feeder - Wickerman_RAW\11_Tom2.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_Room:
+    15_DrumsRoom.wav:
+      Track_path: Eat The Feeder - Wickerman\Eat The Feeder - Wickerman_RAW\15_DrumsRoom.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop: {}
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass: {}
+  Electric_Bass:
+    17_BassDI.wav:
+      Track_path: Eat The Feeder - Wickerman\Eat The Feeder - Wickerman_RAW\17_BassDI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    18_BassAmp1.wav:
+      Track_path: Eat The Feeder - Wickerman\Eat The Feeder - Wickerman_RAW\18_BassAmp1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    19_BassAmp2.wav:
+      Track_path: Eat The Feeder - Wickerman\Eat The Feeder - Wickerman_RAW\19_BassAmp2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    20_BassAmp3.wav:
+      Track_path: Eat The Feeder - Wickerman\Eat The Feeder - Wickerman_RAW\20_BassAmp3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Acoustic_Guitar: {}
+  Electric_Guitar:
+    21_ElecGtr1DI.wav:
+      Track_path: Eat The Feeder - Wickerman\Eat The Feeder - Wickerman_RAW\21_ElecGtr1DI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    22_ElecGtr1Amp1.wav:
+      Track_path: Eat The Feeder - Wickerman\Eat The Feeder - Wickerman_RAW\22_ElecGtr1Amp1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    23_ElecGtr1Amp2.wav:
+      Track_path: Eat The Feeder - Wickerman\Eat The Feeder - Wickerman_RAW\23_ElecGtr1Amp2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    24_ElecGtr2DI.wav:
+      Track_path: Eat The Feeder - Wickerman\Eat The Feeder - Wickerman_RAW\24_ElecGtr2DI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    25_ElecGtr2Amp1.wav:
+      Track_path: Eat The Feeder - Wickerman\Eat The Feeder - Wickerman_RAW\25_ElecGtr2Amp1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    26_ElecGtr2Amp2.wav:
+      Track_path: Eat The Feeder - Wickerman\Eat The Feeder - Wickerman_RAW\26_ElecGtr2Amp2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    27_ElecGtr3DI.wav:
+      Track_path: Eat The Feeder - Wickerman\Eat The Feeder - Wickerman_RAW\27_ElecGtr3DI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    28_ElecGtr3Amp1.wav:
+      Track_path: Eat The Feeder - Wickerman\Eat The Feeder - Wickerman_RAW\28_ElecGtr3Amp1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    29_ElecGtr3Amp2.wav:
+      Track_path: Eat The Feeder - Wickerman\Eat The Feeder - Wickerman_RAW\29_ElecGtr3Amp2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    30_ElecGtr4DI.wav:
+      Track_path: Eat The Feeder - Wickerman\Eat The Feeder - Wickerman_RAW\30_ElecGtr4DI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    31_ElecGtr4Amp.wav:
+      Track_path: Eat The Feeder - Wickerman\Eat The Feeder - Wickerman_RAW\31_ElecGtr4Amp.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    32_ElecGtr5DI.wav:
+      Track_path: Eat The Feeder - Wickerman\Eat The Feeder - Wickerman_RAW\32_ElecGtr5DI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    33_ElecGtr5Amp.wav:
+      Track_path: Eat The Feeder - Wickerman\Eat The Feeder - Wickerman_RAW\33_ElecGtr5Amp.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    34_ElecGtr6DI.wav:
+      Track_path: Eat The Feeder - Wickerman\Eat The Feeder - Wickerman_RAW\34_ElecGtr6DI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    35_ElecGtr6Amp1.wav:
+      Track_path: Eat The Feeder - Wickerman\Eat The Feeder - Wickerman_RAW\35_ElecGtr6Amp1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    36_ElecGtr6Amp2.wav:
+      Track_path: Eat The Feeder - Wickerman\Eat The Feeder - Wickerman_RAW\36_ElecGtr6Amp2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    37_ElecGtr7DI.wav:
+      Track_path: Eat The Feeder - Wickerman\Eat The Feeder - Wickerman_RAW\37_ElecGtr7DI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    38_ElecGtr7Amp.wav:
+      Track_path: Eat The Feeder - Wickerman\Eat The Feeder - Wickerman_RAW\38_ElecGtr7Amp.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    39_ElecGtr8DI.wav:
+      Track_path: Eat The Feeder - Wickerman\Eat The Feeder - Wickerman_RAW\39_ElecGtr8DI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    40_ElecGtr9DI.wav:
+      Track_path: Eat The Feeder - Wickerman\Eat The Feeder - Wickerman_RAW\40_ElecGtr9DI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    41_ElecGtr9Amp.wav:
+      Track_path: Eat The Feeder - Wickerman\Eat The Feeder - Wickerman_RAW\41_ElecGtr9Amp.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Piano: {}
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    42_Vox1.wav:
+      Track_path: Eat The Feeder - Wickerman\Eat The Feeder - Wickerman_RAW\42_Vox1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: 'contain slight leakage of band (Drum_Overheads, ElectricGTR) but not much. I think it is ok.'
+    43_Vox1DT.wav:
+      Track_path: Eat The Feeder - Wickerman\Eat The Feeder - Wickerman_RAW\43_Vox1DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: 'contain slight leakage of band (Drum_Overheads, ElectricGTR) but not much. I think it is ok.'
+  Choir: {}
+  Backing_Vocal:
+    44_Vox2.wav:
+      Track_path: Eat The Feeder - Wickerman\Eat The Feeder - Wickerman_RAW\44_Vox2.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads, Electric_Guitar'
+      Comment: 'noticeable'
+    45_Vox3.wav:
+      Track_path: Eat The Feeder - Wickerman\Eat The Feeder - Wickerman_RAW\45_Vox3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    46_Vox3DT.wav:
+      Track_path: Eat The Feeder - Wickerman\Eat The Feeder - Wickerman_RAW\46_Vox3DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    47_Vox4.wav:
+      Track_path: Eat The Feeder - Wickerman\Eat The Feeder - Wickerman_RAW\47_Vox4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    48_Vox4DT1.wav:
+      Track_path: Eat The Feeder - Wickerman\Eat The Feeder - Wickerman_RAW\48_Vox4DT1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    49_Vox4DT2.wav:
+      Track_path: Eat The Feeder - Wickerman\Eat The Feeder - Wickerman_RAW\49_Vox4DT2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    50_Vox5.wav:
+      Track_path: Eat The Feeder - Wickerman\Eat The Feeder - Wickerman_RAW\50_Vox5.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    51_Vox6.wav:
+      Track_path: Eat The Feeder - Wickerman\Eat The Feeder - Wickerman_RAW\51_Vox6.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Unused: {}
+  Ambient_Microphone: {}

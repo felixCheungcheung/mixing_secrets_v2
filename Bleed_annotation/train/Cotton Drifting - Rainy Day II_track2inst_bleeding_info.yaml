@@ -1,0 +1,248 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer: {}
+  SFX:
+    08_StormSFX1.wav:
+      Track_path: Cotton Drifting - Rainy Day II\Cotton Drifting - Rainy Day II_RAW\08_StormSFX1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    09_StormSFX2.wav:
+      Track_path: Cotton Drifting - Rainy Day II\Cotton Drifting - Rainy Day II_RAW\09_StormSFX2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    01_Kick.wav:
+      Track_path: Cotton Drifting - Rainy Day II\Cotton Drifting - Rainy Day II_RAW\01_Kick.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_Snare:
+    02_Snare.wav:
+      Track_path: Cotton Drifting - Rainy Day II\Cotton Drifting - Rainy Day II_RAW\02_Snare.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    07_SnareOD2.wav:
+      Track_path: Cotton Drifting - Rainy Day II\Cotton Drifting - Rainy Day II_RAW\07_SnareOD2.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_HiHat: {}
+  Drum_Cymbals: {}
+  Drum_Overheads:
+    03_Overheads.wav:
+      Track_path: Cotton Drifting - Rainy Day II\Cotton Drifting - Rainy Day II_RAW\03_Overheads.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Tom: {}
+  Drum_Room:
+    04_DrumsRoomStereo.wav:
+      Track_path: Cotton Drifting - Rainy Day II\Cotton Drifting - Rainy Day II_RAW\04_DrumsRoomStereo.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    05_DrumsRoomMono.wav:
+      Track_path: Cotton Drifting - Rainy Day II\Cotton Drifting - Rainy Day II_RAW\05_DrumsRoomMono.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop: {}
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass: {}
+  Electric_Bass: {}
+  Acoustic_Guitar:
+    10_AcousticGtr1.wav:
+      Track_path: Cotton Drifting - Rainy Day II\Cotton Drifting - Rainy Day II_RAW\10_AcousticGtr1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    11_AcousticGtr2.wav:
+      Track_path: Cotton Drifting - Rainy Day II\Cotton Drifting - Rainy Day II_RAW\11_AcousticGtr2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    12_AcousticGtr2DT.wav:
+      Track_path: Cotton Drifting - Rainy Day II\Cotton Drifting - Rainy Day II_RAW\12_AcousticGtr2DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    13_AcousticGtr3.wav:
+      Track_path: Cotton Drifting - Rainy Day II\Cotton Drifting - Rainy Day II_RAW\13_AcousticGtr3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    14_AcousticGtr3DT.wav:
+      Track_path: Cotton Drifting - Rainy Day II\Cotton Drifting - Rainy Day II_RAW\14_AcousticGtr3DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Electric_Guitar:
+    15_ElecGtr1.wav:
+      Track_path: Cotton Drifting - Rainy Day II\Cotton Drifting - Rainy Day II_RAW\15_ElecGtr1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    16_ElecGtr2.wav:
+      Track_path: Cotton Drifting - Rainy Day II\Cotton Drifting - Rainy Day II_RAW\16_ElecGtr2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    17_ElecGtr3.wav:
+      Track_path: Cotton Drifting - Rainy Day II\Cotton Drifting - Rainy Day II_RAW\17_ElecGtr3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Piano: {}
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    18_LeadVox.wav:
+      Track_path: Cotton Drifting - Rainy Day II\Cotton Drifting - Rainy Day II_RAW\18_LeadVox.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    19_LeadVoxRoom.wav:
+      Track_path: Cotton Drifting - Rainy Day II\Cotton Drifting - Rainy Day II_RAW\19_LeadVoxRoom.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Choir: {}
+  Backing_Vocal:
+    20_BackingVox1.wav:
+      Track_path: Cotton Drifting - Rainy Day II\Cotton Drifting - Rainy Day II_RAW\20_BackingVox1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    21_BackingVox1DT1.wav:
+      Track_path: Cotton Drifting - Rainy Day II\Cotton Drifting - Rainy Day II_RAW\21_BackingVox1DT1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    22_BackingVox1DT2.wav:
+      Track_path: Cotton Drifting - Rainy Day II\Cotton Drifting - Rainy Day II_RAW\22_BackingVox1DT2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    23_BackingVox1DT3.wav:
+      Track_path: Cotton Drifting - Rainy Day II\Cotton Drifting - Rainy Day II_RAW\23_BackingVox1DT3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    24_BackingVox2.wav:
+      Track_path: Cotton Drifting - Rainy Day II\Cotton Drifting - Rainy Day II_RAW\24_BackingVox2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    25_BackingVox2DT1.wav:
+      Track_path: Cotton Drifting - Rainy Day II\Cotton Drifting - Rainy Day II_RAW\25_BackingVox2DT1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    26_BackingVox2DT2.wav:
+      Track_path: Cotton Drifting - Rainy Day II\Cotton Drifting - Rainy Day II_RAW\26_BackingVox2DT2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    27_BackingVox2DT3.wav:
+      Track_path: Cotton Drifting - Rainy Day II\Cotton Drifting - Rainy Day II_RAW\27_BackingVox2DT3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    28_BackingVox3.wav:
+      Track_path: Cotton Drifting - Rainy Day II\Cotton Drifting - Rainy Day II_RAW\28_BackingVox3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    29_BackingVox3DT1.wav:
+      Track_path: Cotton Drifting - Rainy Day II\Cotton Drifting - Rainy Day II_RAW\29_BackingVox3DT1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    30_BackingVox3DT2.wav:
+      Track_path: Cotton Drifting - Rainy Day II\Cotton Drifting - Rainy Day II_RAW\30_BackingVox3DT2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    31_BackingVox3DT3.wav:
+      Track_path: Cotton Drifting - Rainy Day II\Cotton Drifting - Rainy Day II_RAW\31_BackingVox3DT3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    32_BackingVox4.wav:
+      Track_path: Cotton Drifting - Rainy Day II\Cotton Drifting - Rainy Day II_RAW\32_BackingVox4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    33_BackingVox4DT1.wav:
+      Track_path: Cotton Drifting - Rainy Day II\Cotton Drifting - Rainy Day II_RAW\33_BackingVox4DT1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    34_BackingVox4DT2.wav:
+      Track_path: Cotton Drifting - Rainy Day II\Cotton Drifting - Rainy Day II_RAW\34_BackingVox4DT2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    35_BackingVox4DT3.wav:
+      Track_path: Cotton Drifting - Rainy Day II\Cotton Drifting - Rainy Day II_RAW\35_BackingVox4DT3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Unused:
+    06_SnareOD1.wav:
+      Track_path: Cotton Drifting - Rainy Day II\Cotton Drifting - Rainy Day II_RAW\06_SnareOD1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Ambient_Microphone: {}

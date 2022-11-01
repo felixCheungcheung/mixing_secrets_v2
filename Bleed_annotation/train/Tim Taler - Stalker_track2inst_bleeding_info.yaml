@@ -1,0 +1,303 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer: {}
+  SFX:
+    17_SampleSFX01.wav:
+      Track_path: Tim Taler - Stalker\Tim Taler - Stalker_RAW\17_SampleSFX01.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    18_SampleSFX02.wav:
+      Track_path: Tim Taler - Stalker\Tim Taler - Stalker_RAW\18_SampleSFX02.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    19_SampleSFX03.wav:
+      Track_path: Tim Taler - Stalker\Tim Taler - Stalker_RAW\19_SampleSFX03.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    20_SampleSFX04.wav:
+      Track_path: Tim Taler - Stalker\Tim Taler - Stalker_RAW\20_SampleSFX04.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    21_SampleSFX05.wav:
+      Track_path: Tim Taler - Stalker\Tim Taler - Stalker_RAW\21_SampleSFX05.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    01_Kick01.wav:
+      Track_path: Tim Taler - Stalker\Tim Taler - Stalker_RAW\01_Kick01.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    02_Kick02.wav:
+      Track_path: Tim Taler - Stalker\Tim Taler - Stalker_RAW\02_Kick02.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    03_Kick03.wav:
+      Track_path: Tim Taler - Stalker\Tim Taler - Stalker_RAW\03_Kick03.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    04_Kick04.wav:
+      Track_path: Tim Taler - Stalker\Tim Taler - Stalker_RAW\04_Kick04.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    05_Kick05.wav:
+      Track_path: Tim Taler - Stalker\Tim Taler - Stalker_RAW\05_Kick05.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Snare:
+    06_Snare.wav:
+      Track_path: Tim Taler - Stalker\Tim Taler - Stalker_RAW\06_Snare.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_HiHat: {}
+  Drum_Cymbals: {}
+  Drum_Overheads: {}
+  Drum_Tom: {}
+  Drum_Room: {}
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop:
+    07_Loop01.wav:
+      Track_path: Tim Taler - Stalker\Tim Taler - Stalker_RAW\07_Loop01.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    08_Loop02.wav:
+      Track_path: Tim Taler - Stalker\Tim Taler - Stalker_RAW\08_Loop02.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    09_Loop03.wav:
+      Track_path: Tim Taler - Stalker\Tim Taler - Stalker_RAW\09_Loop03.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    10_Loop04.wav:
+      Track_path: Tim Taler - Stalker\Tim Taler - Stalker_RAW\10_Loop04.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    11_Loop05.wav:
+      Track_path: Tim Taler - Stalker\Tim Taler - Stalker_RAW\11_Loop05.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    12_Loop06.wav:
+      Track_path: Tim Taler - Stalker\Tim Taler - Stalker_RAW\12_Loop06.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    13_Loop07.wav:
+      Track_path: Tim Taler - Stalker\Tim Taler - Stalker_RAW\13_Loop07.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    15_Break01.wav:
+      Track_path: Tim Taler - Stalker\Tim Taler - Stalker_RAW\15_Break01.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    16_Break02.wav:
+      Track_path: Tim Taler - Stalker\Tim Taler - Stalker_RAW\16_Break02.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion:
+    14_Loop08.wav:
+      Track_path: Tim Taler - Stalker\Tim Taler - Stalker_RAW\14_Loop08.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Synth_Bass: {}
+  Electric_Bass:
+    22_Bass.wav:
+      Track_path: Tim Taler - Stalker\Tim Taler - Stalker_RAW\22_Bass.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Acoustic_Guitar: {}
+  Electric_Guitar:
+    23_ElecGtr01a_Mic1.wav:
+      Track_path: Tim Taler - Stalker\Tim Taler - Stalker_RAW\23_ElecGtr01a_Mic1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    24_ElecGtr01b_Mic2.wav:
+      Track_path: Tim Taler - Stalker\Tim Taler - Stalker_RAW\24_ElecGtr01b_Mic2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    25_ElecGtr01c_Mic3.wav:
+      Track_path: Tim Taler - Stalker\Tim Taler - Stalker_RAW\25_ElecGtr01c_Mic3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    26_ElecGtr01d_DI.wav:
+      Track_path: Tim Taler - Stalker\Tim Taler - Stalker_RAW\26_ElecGtr01d_DI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    27_ElecGtr02a_Mic1.wav:
+      Track_path: Tim Taler - Stalker\Tim Taler - Stalker_RAW\27_ElecGtr02a_Mic1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    28_ElecGtr02b_Mic2.wav:
+      Track_path: Tim Taler - Stalker\Tim Taler - Stalker_RAW\28_ElecGtr02b_Mic2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    29_ElecGtr02c_DI.wav:
+      Track_path: Tim Taler - Stalker\Tim Taler - Stalker_RAW\29_ElecGtr02c_DI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    30_ElecGtr03.wav:
+      Track_path: Tim Taler - Stalker\Tim Taler - Stalker_RAW\30_ElecGtr03.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    31_ElecGtr04a_DI.wav:
+      Track_path: Tim Taler - Stalker\Tim Taler - Stalker_RAW\31_ElecGtr04a_DI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    32_ElecGtr04b_Fuzz.wav:
+      Track_path: Tim Taler - Stalker\Tim Taler - Stalker_RAW\32_ElecGtr04b_Fuzz.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Piano: {}
+  Electric_Piano:
+    33_Keys01.wav:
+      Track_path: Tim Taler - Stalker\Tim Taler - Stalker_RAW\33_Keys01.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    34_Keys02.wav:
+      Track_path: Tim Taler - Stalker\Tim Taler - Stalker_RAW\34_Keys02.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    35_Keys03.wav:
+      Track_path: Tim Taler - Stalker\Tim Taler - Stalker_RAW\35_Keys03.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    36_Keys04.wav:
+      Track_path: Tim Taler - Stalker\Tim Taler - Stalker_RAW\36_Keys04.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Brass_Section:
+    37_SampleBrass01.wav:
+      Track_path: Tim Taler - Stalker\Tim Taler - Stalker_RAW\37_SampleBrass01.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    38_SampleBrass02.wav:
+      Track_path: Tim Taler - Stalker\Tim Taler - Stalker_RAW\38_SampleBrass02.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    39_SampleBrass03.wav:
+      Track_path: Tim Taler - Stalker\Tim Taler - Stalker_RAW\39_SampleBrass03.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    41_LeadVox.wav:
+      Track_path: Tim Taler - Stalker\Tim Taler - Stalker_RAW\41_LeadVox.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Choir:
+    40_SampleChoir.wav:
+      Track_path: Tim Taler - Stalker\Tim Taler - Stalker_RAW\40_SampleChoir.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Backing_Vocal:
+    42_BackingVox01.wav:
+      Track_path: Tim Taler - Stalker\Tim Taler - Stalker_RAW\42_BackingVox01.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    43_BackingVox02.wav:
+      Track_path: Tim Taler - Stalker\Tim Taler - Stalker_RAW\43_BackingVox02.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    44_BackingVox03.wav:
+      Track_path: Tim Taler - Stalker\Tim Taler - Stalker_RAW\44_BackingVox03.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    45_BackingVox04.wav:
+      Track_path: Tim Taler - Stalker\Tim Taler - Stalker_RAW\45_BackingVox04.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    46_BackingVox05.wav:
+      Track_path: Tim Taler - Stalker\Tim Taler - Stalker_RAW\46_BackingVox05.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Unused: {}
+  Ambient_Microphone: {}

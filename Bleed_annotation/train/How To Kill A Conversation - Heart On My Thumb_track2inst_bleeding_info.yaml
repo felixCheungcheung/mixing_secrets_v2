@@ -1,0 +1,145 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer: {}
+  SFX: {}
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    01_Kick.wav:
+      Track_path: How To Kill A Conversation - Heart On My Thumb\How To Kill A Conversation
+        - Heart On My Thumb_RAW\01_Kick.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Electric_Guitar, Drum_Overheads'
+      Comment: ''
+  Drum_Snare:
+    02_Snare.wav:
+      Track_path: How To Kill A Conversation - Heart On My Thumb\How To Kill A Conversation
+        - Heart On My Thumb_RAW\02_Snare.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Electric_Guitar, Drum_Overheads'
+      Comment: ''
+  Drum_HiHat: {}
+  Drum_Cymbals: {}
+  Drum_Overheads:
+    03_Overheads.wav:
+      Track_path: How To Kill A Conversation - Heart On My Thumb\How To Kill A Conversation
+        - Heart On My Thumb_RAW\03_Overheads.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Electric_Guitar'
+      Comment: ''
+  Drum_Tom:
+    05_Tom1.wav:
+      Track_path: How To Kill A Conversation - Heart On My Thumb\How To Kill A Conversation
+        - Heart On My Thumb_RAW\05_Tom1.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Electric_Guitar, Drum_Overheads'
+      Comment: ''
+    06_Tom2.wav:
+      Track_path: How To Kill A Conversation - Heart On My Thumb\How To Kill A Conversation
+        - Heart On My Thumb_RAW\06_Tom2.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Electric_Guitar, Drum_Overheads'
+      Comment: ''
+    07_Tom3.wav:
+      Track_path: How To Kill A Conversation - Heart On My Thumb\How To Kill A Conversation
+        - Heart On My Thumb_RAW\07_Tom3.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Electric_Guitar, Drum_Overheads'
+      Comment: ''
+  Drum_Room:
+    04_Room.wav:
+      Track_path: How To Kill A Conversation - Heart On My Thumb\How To Kill A Conversation
+        - Heart On My Thumb_RAW\04_Room.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Electric_Guitar'
+      Comment: ''
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop: {}
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass: {}
+  Electric_Bass:
+    08_BassDI.wav:
+      Track_path: How To Kill A Conversation - Heart On My Thumb\How To Kill A Conversation
+        - Heart On My Thumb_RAW\08_BassDI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    09_BassAmp.wav:
+      Track_path: How To Kill A Conversation - Heart On My Thumb\How To Kill A Conversation
+        - Heart On My Thumb_RAW\09_BassAmp.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Acoustic_Guitar: {}
+  Electric_Guitar:
+    10_Gtr1.wav:
+      Track_path: How To Kill A Conversation - Heart On My Thumb\How To Kill A Conversation
+        - Heart On My Thumb_RAW\10_Gtr1.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads'
+      Comment: ''
+    11_Gtr2.wav:
+      Track_path: How To Kill A Conversation - Heart On My Thumb\How To Kill A Conversation
+        - Heart On My Thumb_RAW\11_Gtr2.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads'
+      Comment: ''
+  Piano: {}
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    12_LeadVox.wav:
+      Track_path: How To Kill A Conversation - Heart On My Thumb\How To Kill A Conversation
+        - Heart On My Thumb_RAW\12_LeadVox.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Electric_Guitar, Drum_Overheads'
+      Comment: ''
+  Choir: {}
+  Backing_Vocal: {}
+  Unused: {}
+  Ambient_Microphone: {}

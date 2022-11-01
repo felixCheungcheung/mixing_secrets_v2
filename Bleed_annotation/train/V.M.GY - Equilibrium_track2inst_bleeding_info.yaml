@@ -1,0 +1,223 @@
+Track2inst:
+  Electric_Organ:
+    30_Organ.wav:
+      Track_path: V.M.GY - Equilibrium\V.M.GY - Equilibrium_RAW\30_Organ.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Synthesizer:
+    26_Synth.wav:
+      Track_path: V.M.GY - Equilibrium\V.M.GY - Equilibrium_RAW\26_Synth.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  SFX:
+    27_SynthSFX.wav:
+      Track_path: V.M.GY - Equilibrium\V.M.GY - Equilibrium_RAW\27_SynthSFX.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    01_Kick.wav:
+      Track_path: V.M.GY - Equilibrium\V.M.GY - Equilibrium_RAW\01_Kick.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Snare:
+    02_SnareUp.wav:
+      Track_path: V.M.GY - Equilibrium\V.M.GY - Equilibrium_RAW\02_SnareUp.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    03_SnareDown.wav:
+      Track_path: V.M.GY - Equilibrium\V.M.GY - Equilibrium_RAW\03_SnareDown.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_HiHat:
+    04_HiHat.wav:
+      Track_path: V.M.GY - Equilibrium\V.M.GY - Equilibrium_RAW\04_HiHat.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Cymbals: {}
+  Drum_Overheads:
+    10_Overheads.wav:
+      Track_path: V.M.GY - Equilibrium\V.M.GY - Equilibrium_RAW\10_Overheads.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    12_DrumsSquash.wav:
+      Track_path: V.M.GY - Equilibrium\V.M.GY - Equilibrium_RAW\12_DrumsSquash.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Tom:
+    05_Tom1.wav:
+      Track_path: V.M.GY - Equilibrium\V.M.GY - Equilibrium_RAW\05_Tom1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    06_Tom2.wav:
+      Track_path: V.M.GY - Equilibrium\V.M.GY - Equilibrium_RAW\06_Tom2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    07_Tom3.wav:
+      Track_path: V.M.GY - Equilibrium\V.M.GY - Equilibrium_RAW\07_Tom3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    08_Tom4.wav:
+      Track_path: V.M.GY - Equilibrium\V.M.GY - Equilibrium_RAW\08_Tom4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    09_Tom5.wav:
+      Track_path: V.M.GY - Equilibrium\V.M.GY - Equilibrium_RAW\09_Tom5.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Room:
+    11_DrumsRoom.wav:
+      Track_path: V.M.GY - Equilibrium\V.M.GY - Equilibrium_RAW\11_DrumsRoom.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop: {}
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass: {}
+  Electric_Bass:
+    13_Bass.wav:
+      Track_path: V.M.GY - Equilibrium\V.M.GY - Equilibrium_RAW\13_Bass.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Acoustic_Guitar: {}
+  Electric_Guitar:
+    14_ElecGtr1.wav:
+      Track_path: V.M.GY - Equilibrium\V.M.GY - Equilibrium_RAW\14_ElecGtr1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    15_ElecGtr1DI.wav:
+      Track_path: V.M.GY - Equilibrium\V.M.GY - Equilibrium_RAW\15_ElecGtr1DI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    16_EelcGtr1DT.wav:
+      Track_path: V.M.GY - Equilibrium\V.M.GY - Equilibrium_RAW\16_EelcGtr1DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    17_ElecGtr1DTDI.wav:
+      Track_path: V.M.GY - Equilibrium\V.M.GY - Equilibrium_RAW\17_ElecGtr1DTDI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    18_ElecGtr2.wav:
+      Track_path: V.M.GY - Equilibrium\V.M.GY - Equilibrium_RAW\18_ElecGtr2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    19_ElecGtr2DI.wav:
+      Track_path: V.M.GY - Equilibrium\V.M.GY - Equilibrium_RAW\19_ElecGtr2DI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    20_ElecGtr3.wav:
+      Track_path: V.M.GY - Equilibrium\V.M.GY - Equilibrium_RAW\20_ElecGtr3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    21_ElecGtr3DI.wav:
+      Track_path: V.M.GY - Equilibrium\V.M.GY - Equilibrium_RAW\21_ElecGtr3DI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    22_ElecGtr4.wav:
+      Track_path: V.M.GY - Equilibrium\V.M.GY - Equilibrium_RAW\22_ElecGtr4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    23_ElecGtr4DI.wav:
+      Track_path: V.M.GY - Equilibrium\V.M.GY - Equilibrium_RAW\23_ElecGtr4DI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    24_ElecGtr5.wav:
+      Track_path: V.M.GY - Equilibrium\V.M.GY - Equilibrium_RAW\24_ElecGtr5.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    25_ElecGtr5DI.wav:
+      Track_path: V.M.GY - Equilibrium\V.M.GY - Equilibrium_RAW\25_ElecGtr5DI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Piano: {}
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal: {}
+  Choir:
+    28_Choir1.wav:
+      Track_path: V.M.GY - Equilibrium\V.M.GY - Equilibrium_RAW\28_Choir1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    29_Choir2.wav:
+      Track_path: V.M.GY - Equilibrium\V.M.GY - Equilibrium_RAW\29_Choir2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Backing_Vocal: {}
+  Unused: {}
+  Ambient_Microphone: {}

@@ -1,0 +1,248 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer:
+    15_Sample.wav:
+      Track_path: Kangoro - Rockshow\Kangoro - Rockshow_RAW\15_Sample.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  SFX:
+    16_Decks1.wav:
+      Track_path: Kangoro - Rockshow\Kangoro - Rockshow_RAW\16_Decks1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    17_Decks2.wav:
+      Track_path: Kangoro - Rockshow\Kangoro - Rockshow_RAW\17_Decks2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    18_Decks3.wav:
+      Track_path: Kangoro - Rockshow\Kangoro - Rockshow_RAW\18_Decks3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    19_Decks4.wav:
+      Track_path: Kangoro - Rockshow\Kangoro - Rockshow_RAW\19_Decks4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    20_Decks5.wav:
+      Track_path: Kangoro - Rockshow\Kangoro - Rockshow_RAW\20_Decks5.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    35_VoxSFX.wav:
+      Track_path: Kangoro - Rockshow\Kangoro - Rockshow_RAW\35_VoxSFX.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    01_KickIn.wav:
+      Track_path: Kangoro - Rockshow\Kangoro - Rockshow_RAW\01_KickIn.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads'
+      Comment: ''
+    02_KickOut.wav:
+      Track_path: Kangoro - Rockshow\Kangoro - Rockshow_RAW\02_KickOut.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads'
+      Comment: ''
+  Drum_Snare:
+    03_SnareUp.wav:
+      Track_path: Kangoro - Rockshow\Kangoro - Rockshow_RAW\03_SnareUp.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads'
+      Comment: ''
+    04_SnareDown.wav:
+      Track_path: Kangoro - Rockshow\Kangoro - Rockshow_RAW\04_SnareDown.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads'
+      Comment: ''
+  Drum_HiHat:
+    05_HiHat.wav:
+      Track_path: Kangoro - Rockshow\Kangoro - Rockshow_RAW\05_HiHat.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads'
+      Comment: ''
+  Drum_Cymbals:
+    07_Ride.wav:
+      Track_path: Kangoro - Rockshow\Kangoro - Rockshow_RAW\07_Ride.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads'
+      Comment: ''
+    08_Crash.wav:
+      Track_path: Kangoro - Rockshow\Kangoro - Rockshow_RAW\08_Crash.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads'
+      Comment: ''
+  Drum_Overheads:
+    06_Overheads.wav:
+      Track_path: Kangoro - Rockshow\Kangoro - Rockshow_RAW\06_Overheads.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Tom: {}
+  Drum_Room: {}
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop: {}
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass:
+    09_BassSynth1.wav:
+      Track_path: Kangoro - Rockshow\Kangoro - Rockshow_RAW\09_BassSynth1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    10_BassSynth2.wav:
+      Track_path: Kangoro - Rockshow\Kangoro - Rockshow_RAW\10_BassSynth2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    14_Synth.wav:
+      Track_path: Kangoro - Rockshow\Kangoro - Rockshow_RAW\14_Synth.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Electric_Bass:
+    11_BassSub.wav:
+      Track_path: Kangoro - Rockshow\Kangoro - Rockshow_RAW\11_BassSub.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    12_BassGtrDI.wav:
+      Track_path: Kangoro - Rockshow\Kangoro - Rockshow_RAW\12_BassGtrDI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    13_BassGtrAmp.wav:
+      Track_path: Kangoro - Rockshow\Kangoro - Rockshow_RAW\13_BassGtrAmp.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Acoustic_Guitar: {}
+  Electric_Guitar: {}
+  Piano: {}
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    21_LeadVox1.wav:
+      Track_path: Kangoro - Rockshow\Kangoro - Rockshow_RAW\21_LeadVox1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    22_LeadVox1DT.wav:
+      Track_path: Kangoro - Rockshow\Kangoro - Rockshow_RAW\22_LeadVox1DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    23_LeadVox1DTLow.wav:
+      Track_path: Kangoro - Rockshow\Kangoro - Rockshow_RAW\23_LeadVox1DTLow.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    24_LeadVox2.wav:
+      Track_path: Kangoro - Rockshow\Kangoro - Rockshow_RAW\24_LeadVox2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    25_LeadVox2DT.wav:
+      Track_path: Kangoro - Rockshow\Kangoro - Rockshow_RAW\25_LeadVox2DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Choir: {}
+  Backing_Vocal:
+    26_BackingVox1.wav:
+      Track_path: Kangoro - Rockshow\Kangoro - Rockshow_RAW\26_BackingVox1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    27_BackingVox2.wav:
+      Track_path: Kangoro - Rockshow\Kangoro - Rockshow_RAW\27_BackingVox2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    28_BackingVox3.wav:
+      Track_path: Kangoro - Rockshow\Kangoro - Rockshow_RAW\28_BackingVox3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    29_BackingVox4.wav:
+      Track_path: Kangoro - Rockshow\Kangoro - Rockshow_RAW\29_BackingVox4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    30_BackingVox5.wav:
+      Track_path: Kangoro - Rockshow\Kangoro - Rockshow_RAW\30_BackingVox5.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    31_BackingVox6.wav:
+      Track_path: Kangoro - Rockshow\Kangoro - Rockshow_RAW\31_BackingVox6.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    32_BackingVox7.wav:
+      Track_path: Kangoro - Rockshow\Kangoro - Rockshow_RAW\32_BackingVox7.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    33_BackingVox8.wav:
+      Track_path: Kangoro - Rockshow\Kangoro - Rockshow_RAW\33_BackingVox8.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    34_BackingVox9.wav:
+      Track_path: Kangoro - Rockshow\Kangoro - Rockshow_RAW\34_BackingVox9.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Unused: {}
+  Ambient_Microphone: {}

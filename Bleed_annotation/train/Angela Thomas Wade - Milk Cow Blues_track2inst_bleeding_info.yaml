@@ -1,0 +1,139 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer: {}
+  SFX: {}
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    01_Kick.wav:
+      Track_path: Angela Thomas Wade - Milk Cow Blues\Angela Thomas Wade - Milk Cow
+        Blues_RAW\01_Kick.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_Snare:
+    02_Snare.wav:
+      Track_path: Angela Thomas Wade - Milk Cow Blues\Angela Thomas Wade - Milk Cow
+        Blues_RAW\02_Snare.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_HiHat: {}
+  Drum_Cymbals: {}
+  Drum_Overheads:
+    04_Overheads.wav:
+      Track_path: Angela Thomas Wade - Milk Cow Blues\Angela Thomas Wade - Milk Cow
+        Blues_RAW\04_Overheads.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Tom:
+    03_Tom.wav:
+      Track_path: Angela Thomas Wade - Milk Cow Blues\Angela Thomas Wade - Milk Cow
+        Blues_RAW\03_Tom.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_Room: {}
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop: {}
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass: {}
+  Electric_Bass:
+    05_Bass.wav:
+      Track_path: Angela Thomas Wade - Milk Cow Blues\Angela Thomas Wade - Milk Cow
+        Blues_RAW\05_Bass.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Acoustic_Guitar:
+    06_AcGtr.wav:
+      Track_path: Angela Thomas Wade - Milk Cow Blues\Angela Thomas Wade - Milk Cow
+        Blues_RAW\06_AcGtr.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    07_Dobro.wav:
+      Track_path: Angela Thomas Wade - Milk Cow Blues\Angela Thomas Wade - Milk Cow
+        Blues_RAW\07_Dobro.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Electric_Guitar:
+    08_ElecGtr.wav:
+      Track_path: Angela Thomas Wade - Milk Cow Blues\Angela Thomas Wade - Milk Cow
+        Blues_RAW\08_ElecGtr.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Piano:
+    10_Piano.wav:
+      Track_path: Angela Thomas Wade - Milk Cow Blues\Angela Thomas Wade - Milk Cow
+        Blues_RAW\10_Piano.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle:
+    09_Fiddle.wav:
+      Track_path: Angela Thomas Wade - Milk Cow Blues\Angela Thomas Wade - Milk Cow
+        Blues_RAW\09_Fiddle.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    11_LeadVox.wav:
+      Track_path: Angela Thomas Wade - Milk Cow Blues\Angela Thomas Wade - Milk Cow
+        Blues_RAW\11_LeadVox.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Choir: {}
+  Backing_Vocal: {}
+  Unused: {}
+  Ambient_Microphone: {}

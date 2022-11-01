@@ -1,0 +1,213 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer:
+    23_Synth1.wav:
+      Track_path: Babe Grand - Aiguille Rouge\Babe Grand - Aiguille Rouge_RAW\23_Synth1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    24_Synth2.wav:
+      Track_path: Babe Grand - Aiguille Rouge\Babe Grand - Aiguille Rouge_RAW\24_Synth2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    25_Synth3.wav:
+      Track_path: Babe Grand - Aiguille Rouge\Babe Grand - Aiguille Rouge_RAW\25_Synth3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    26_Synth4.wav:
+      Track_path: Babe Grand - Aiguille Rouge\Babe Grand - Aiguille Rouge_RAW\26_Synth4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    27_Synth5.wav:
+      Track_path: Babe Grand - Aiguille Rouge\Babe Grand - Aiguille Rouge_RAW\27_Synth5.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    28_Synth6.wav:
+      Track_path: Babe Grand - Aiguille Rouge\Babe Grand - Aiguille Rouge_RAW\28_Synth6.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  SFX:
+    16_SFX1.wav:
+      Track_path: Babe Grand - Aiguille Rouge\Babe Grand - Aiguille Rouge_RAW\16_SFX1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    17_SFX2.wav:
+      Track_path: Babe Grand - Aiguille Rouge\Babe Grand - Aiguille Rouge_RAW\17_SFX2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    18_SFX3.wav:
+      Track_path: Babe Grand - Aiguille Rouge\Babe Grand - Aiguille Rouge_RAW\18_SFX3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    19_Glitch1.wav:
+      Track_path: Babe Grand - Aiguille Rouge\Babe Grand - Aiguille Rouge_RAW\19_Glitch1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    20_Glitch2.wav:
+      Track_path: Babe Grand - Aiguille Rouge\Babe Grand - Aiguille Rouge_RAW\20_Glitch2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    21_TapeHiss.wav:
+      Track_path: Babe Grand - Aiguille Rouge\Babe Grand - Aiguille Rouge_RAW\21_TapeHiss.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    01_Kick.wav:
+      Track_path: Babe Grand - Aiguille Rouge\Babe Grand - Aiguille Rouge_RAW\01_Kick.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    02_KickSub.wav:
+      Track_path: Babe Grand - Aiguille Rouge\Babe Grand - Aiguille Rouge_RAW\02_KickSub.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Snare:
+    03_Snare.wav:
+      Track_path: Babe Grand - Aiguille Rouge\Babe Grand - Aiguille Rouge_RAW\03_Snare.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_HiHat:
+    04_HiHat.wav:
+      Track_path: Babe Grand - Aiguille Rouge\Babe Grand - Aiguille Rouge_RAW\04_HiHat.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Cymbals:
+    09_Cymbal1.wav:
+      Track_path: Babe Grand - Aiguille Rouge\Babe Grand - Aiguille Rouge_RAW\09_Cymbal1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    10_Cymbal2.wav:
+      Track_path: Babe Grand - Aiguille Rouge\Babe Grand - Aiguille Rouge_RAW\10_Cymbal2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Overheads: {}
+  Drum_Tom: {}
+  Drum_Room: {}
+  Shaker:
+    11_Shaker1.wav:
+      Track_path: Babe Grand - Aiguille Rouge\Babe Grand - Aiguille Rouge_RAW\11_Shaker1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    12_Shaker2.wav:
+      Track_path: Babe Grand - Aiguille Rouge\Babe Grand - Aiguille Rouge_RAW\12_Shaker2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Taiko:
+    07_Taiko.wav:
+      Track_path: Babe Grand - Aiguille Rouge\Babe Grand - Aiguille Rouge_RAW\07_Taiko.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop: {}
+  Clicks: {}
+  Claps:
+    05_Clap1.wav:
+      Track_path: Babe Grand - Aiguille Rouge\Babe Grand - Aiguille Rouge_RAW\05_Clap1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    06_Clap2.wav:
+      Track_path: Babe Grand - Aiguille Rouge\Babe Grand - Aiguille Rouge_RAW\06_Clap2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion:
+    08_SteelTongueDrum.wav:
+      Track_path: Babe Grand - Aiguille Rouge\Babe Grand - Aiguille Rouge_RAW\08_SteelTongueDrum.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    13_Percussion1.wav:
+      Track_path: Babe Grand - Aiguille Rouge\Babe Grand - Aiguille Rouge_RAW\13_Percussion1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    14_Percussion2.wav:
+      Track_path: Babe Grand - Aiguille Rouge\Babe Grand - Aiguille Rouge_RAW\14_Percussion2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    15_Percussion3.wav:
+      Track_path: Babe Grand - Aiguille Rouge\Babe Grand - Aiguille Rouge_RAW\15_Percussion3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Synth_Bass: {}
+  Electric_Bass:
+    22_Bass.wav:
+      Track_path: Babe Grand - Aiguille Rouge\Babe Grand - Aiguille Rouge_RAW\22_Bass.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Acoustic_Guitar: {}
+  Electric_Guitar: {}
+  Piano: {}
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal: {}
+  Choir: {}
+  Backing_Vocal: {}
+  Unused: {}
+  Ambient_Microphone: {}

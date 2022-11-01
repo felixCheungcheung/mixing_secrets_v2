@@ -1,0 +1,303 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer: {}
+  SFX: {}
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    01_Kick.wav:
+      Track_path: Benjamin John - Better Way\Benjamin John - Better Way_RAW\01_Kick.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Snare: {}
+  Drum_HiHat: {}
+  Drum_Cymbals: {}
+  Drum_Overheads:
+    03_SnareCymbals.wav:
+      Track_path: Benjamin John - Better Way\Benjamin John - Better Way_RAW\03_SnareCymbals.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Tom: {}
+  Drum_Room: {}
+  Shaker:
+    06_Shaker.wav:
+      Track_path: Benjamin John - Better Way\Benjamin John - Better Way_RAW\06_Shaker.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine:
+    04_Tambourine.wav:
+      Track_path: Benjamin John - Better Way\Benjamin John - Better Way_RAW\04_Tambourine.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Loop: {}
+  Clicks:
+    07_FingerClicks1.wav:
+      Track_path: Benjamin John - Better Way\Benjamin John - Better Way_RAW\07_FingerClicks1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    08_FingerClicks2.wav:
+      Track_path: Benjamin John - Better Way\Benjamin John - Better Way_RAW\08_FingerClicks2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    09_FingerClicks3.wav:
+      Track_path: Benjamin John - Better Way\Benjamin John - Better Way_RAW\09_FingerClicks3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    10_FingerClicks4.wav:
+      Track_path: Benjamin John - Better Way\Benjamin John - Better Way_RAW\10_FingerClicks4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Claps:
+    11_Claps1.wav:
+      Track_path: Benjamin John - Better Way\Benjamin John - Better Way_RAW\11_Claps1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    12_Claps2.wav:
+      Track_path: Benjamin John - Better Way\Benjamin John - Better Way_RAW\12_Claps2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    13_Claps3.wav:
+      Track_path: Benjamin John - Better Way\Benjamin John - Better Way_RAW\13_Claps3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    14_Claps4.wav:
+      Track_path: Benjamin John - Better Way\Benjamin John - Better Way_RAW\14_Claps4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    15_Claps5.wav:
+      Track_path: Benjamin John - Better Way\Benjamin John - Better Way_RAW\15_Claps5.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    16_Claps6.wav:
+      Track_path: Benjamin John - Better Way\Benjamin John - Better Way_RAW\16_Claps6.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    17_Claps7.wav:
+      Track_path: Benjamin John - Better Way\Benjamin John - Better Way_RAW\17_Claps7.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    18_Claps8.wav:
+      Track_path: Benjamin John - Better Way\Benjamin John - Better Way_RAW\18_Claps8.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass: {}
+  Electric_Bass:
+    19_Bass.wav:
+      Track_path: Benjamin John - Better Way\Benjamin John - Better Way_RAW\19_Bass.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Acoustic_Guitar:
+    20_Guitalele.wav:
+      Track_path: Benjamin John - Better Way\Benjamin John - Better Way_RAW\20_Guitalele.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    21_AcousticGtr1.wav:
+      Track_path: Benjamin John - Better Way\Benjamin John - Better Way_RAW\21_AcousticGtr1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    22_AcousticGtr2.wav:
+      Track_path: Benjamin John - Better Way\Benjamin John - Better Way_RAW\22_AcousticGtr2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    23_AcousticGtr3.wav:
+      Track_path: Benjamin John - Better Way\Benjamin John - Better Way_RAW\23_AcousticGtr3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Electric_Guitar:
+    24_ElecGtr1.wav:
+      Track_path: Benjamin John - Better Way\Benjamin John - Better Way_RAW\24_ElecGtr1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    25_ElecGtr2.wav:
+      Track_path: Benjamin John - Better Way\Benjamin John - Better Way_RAW\25_ElecGtr2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    26_ElecGtr3.wav:
+      Track_path: Benjamin John - Better Way\Benjamin John - Better Way_RAW\26_ElecGtr3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    27_ElecGtr4.wav:
+      Track_path: Benjamin John - Better Way\Benjamin John - Better Way_RAW\27_ElecGtr4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Piano:
+    28_Piano.wav:
+      Track_path: Benjamin John - Better Way\Benjamin John - Better Way_RAW\28_Piano.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    29_LeadVox.wav:
+      Track_path: Benjamin John - Better Way\Benjamin John - Better Way_RAW\29_LeadVox.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    30_LeadVoxDT.wav:
+      Track_path: Benjamin John - Better Way\Benjamin John - Better Way_RAW\30_LeadVoxDT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Choir: {}
+  Backing_Vocal:
+    31_BackingVox01.wav:
+      Track_path: Benjamin John - Better Way\Benjamin John - Better Way_RAW\31_BackingVox01.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    32_BackingVox02.wav:
+      Track_path: Benjamin John - Better Way\Benjamin John - Better Way_RAW\32_BackingVox02.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    33_BackingVox03.wav:
+      Track_path: Benjamin John - Better Way\Benjamin John - Better Way_RAW\33_BackingVox03.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    34_BackingVox04.wav:
+      Track_path: Benjamin John - Better Way\Benjamin John - Better Way_RAW\34_BackingVox04.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    35_BackingVox05.wav:
+      Track_path: Benjamin John - Better Way\Benjamin John - Better Way_RAW\35_BackingVox05.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    36_BackingVox06.wav:
+      Track_path: Benjamin John - Better Way\Benjamin John - Better Way_RAW\36_BackingVox06.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    37_BackingVox07.wav:
+      Track_path: Benjamin John - Better Way\Benjamin John - Better Way_RAW\37_BackingVox07.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    38_BackingVox08.wav:
+      Track_path: Benjamin John - Better Way\Benjamin John - Better Way_RAW\38_BackingVox08.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    39_BackingVox09.wav:
+      Track_path: Benjamin John - Better Way\Benjamin John - Better Way_RAW\39_BackingVox09.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    40_BackingVox10.wav:
+      Track_path: Benjamin John - Better Way\Benjamin John - Better Way_RAW\40_BackingVox10.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    41_BackingVox11.wav:
+      Track_path: Benjamin John - Better Way\Benjamin John - Better Way_RAW\41_BackingVox11.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    42_BackingVox12.wav:
+      Track_path: Benjamin John - Better Way\Benjamin John - Better Way_RAW\42_BackingVox12.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    43_BackingVox13.wav:
+      Track_path: Benjamin John - Better Way\Benjamin John - Better Way_RAW\43_BackingVox13.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    44_BackingVox14.wav:
+      Track_path: Benjamin John - Better Way\Benjamin John - Better Way_RAW\44_BackingVox14.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    45_BackingVox15.wav:
+      Track_path: Benjamin John - Better Way\Benjamin John - Better Way_RAW\45_BackingVox15.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    46_BackingVox16.wav:
+      Track_path: Benjamin John - Better Way\Benjamin John - Better Way_RAW\46_BackingVox16.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Unused:
+    05_TambourineAmb.wav:
+      Track_path: Benjamin John - Better Way\Benjamin John - Better Way_RAW\05_TambourineAmb.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    02_KickAmb.wav:
+      Track_path: Benjamin John - Better Way\Benjamin John - Better Way_RAW\02_KickAmb.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Ambient_Microphone: {}

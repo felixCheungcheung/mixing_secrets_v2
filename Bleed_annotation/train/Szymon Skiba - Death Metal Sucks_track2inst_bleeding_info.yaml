@@ -1,0 +1,188 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer: {}
+  SFX: {}
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    01_Kick.wav:
+      Track_path: Szymon Skiba - Death Metal Sucks\Szymon Skiba - Death Metal Sucks_RAW\01_Kick.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_Snare:
+    02_Snare.wav:
+      Track_path: Szymon Skiba - Death Metal Sucks\Szymon Skiba - Death Metal Sucks_RAW\02_Snare.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_HiHat:
+    03_HiHat.wav:
+      Track_path: Szymon Skiba - Death Metal Sucks\Szymon Skiba - Death Metal Sucks_RAW\03_HiHat.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_Cymbals:
+    11_ReverseCymbal.wav:
+      Track_path: Szymon Skiba - Death Metal Sucks\Szymon Skiba - Death Metal Sucks_RAW\11_ReverseCymbal.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Overheads:
+    09_Overheads.wav:
+      Track_path: Szymon Skiba - Death Metal Sucks\Szymon Skiba - Death Metal Sucks_RAW\09_Overheads.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Tom:
+    04_Tom1.wav:
+      Track_path: Szymon Skiba - Death Metal Sucks\Szymon Skiba - Death Metal Sucks_RAW\04_Tom1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    05_Tom2.wav:
+      Track_path: Szymon Skiba - Death Metal Sucks\Szymon Skiba - Death Metal Sucks_RAW\05_Tom2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    06_Tom3.wav:
+      Track_path: Szymon Skiba - Death Metal Sucks\Szymon Skiba - Death Metal Sucks_RAW\06_Tom3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    07_Tom4.wav:
+      Track_path: Szymon Skiba - Death Metal Sucks\Szymon Skiba - Death Metal Sucks_RAW\07_Tom4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    08_Tom5.wav:
+      Track_path: Szymon Skiba - Death Metal Sucks\Szymon Skiba - Death Metal Sucks_RAW\08_Tom5.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Room:
+    10_DrumsRoom.wav:
+      Track_path: Szymon Skiba - Death Metal Sucks\Szymon Skiba - Death Metal Sucks_RAW\10_DrumsRoom.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop: {}
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass: {}
+  Electric_Bass:
+    12_Bass.wav:
+      Track_path: Szymon Skiba - Death Metal Sucks\Szymon Skiba - Death Metal Sucks_RAW\12_Bass.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Acoustic_Guitar:
+    22_AcousticGtr.wav:
+      Track_path: Szymon Skiba - Death Metal Sucks\Szymon Skiba - Death Metal Sucks_RAW\22_AcousticGtr.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    23_AcousticGtr.wav:
+      Track_path: Szymon Skiba - Death Metal Sucks\Szymon Skiba - Death Metal Sucks_RAW\23_AcousticGtr.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Electric_Guitar:
+    13_ElecGtr01.wav:
+      Track_path: Szymon Skiba - Death Metal Sucks\Szymon Skiba - Death Metal Sucks_RAW\13_ElecGtr01.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    14_ElecGtr02.wav:
+      Track_path: Szymon Skiba - Death Metal Sucks\Szymon Skiba - Death Metal Sucks_RAW\14_ElecGtr02.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    15_ElecGtr03.wav:
+      Track_path: Szymon Skiba - Death Metal Sucks\Szymon Skiba - Death Metal Sucks_RAW\15_ElecGtr03.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    16_ElecGtr04.wav:
+      Track_path: Szymon Skiba - Death Metal Sucks\Szymon Skiba - Death Metal Sucks_RAW\16_ElecGtr04.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    17_ElecGtr05.wav:
+      Track_path: Szymon Skiba - Death Metal Sucks\Szymon Skiba - Death Metal Sucks_RAW\17_ElecGtr05.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    18_ElecGtr06.wav:
+      Track_path: Szymon Skiba - Death Metal Sucks\Szymon Skiba - Death Metal Sucks_RAW\18_ElecGtr06.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    19_ElecGtr07.wav:
+      Track_path: Szymon Skiba - Death Metal Sucks\Szymon Skiba - Death Metal Sucks_RAW\19_ElecGtr07.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    20_ElecGtr08.wav:
+      Track_path: Szymon Skiba - Death Metal Sucks\Szymon Skiba - Death Metal Sucks_RAW\20_ElecGtr08.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Piano:
+    21_Piano.wav:
+      Track_path: Szymon Skiba - Death Metal Sucks\Szymon Skiba - Death Metal Sucks_RAW\21_Piano.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal: {}
+  Choir: {}
+  Backing_Vocal: {}
+  Unused: {}
+  Ambient_Microphone: {}

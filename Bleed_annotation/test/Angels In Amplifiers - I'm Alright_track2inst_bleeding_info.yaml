@@ -1,0 +1,138 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer: {}
+  SFX: {}
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    01_Kick.wav:
+      Track_path: Angels In Amplifiers - I'm Alright\Angels In Amplifiers - I'm Alright_RAW\01_Kick.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads'
+      Comment: ''
+  Drum_Snare:
+    02_Snare.wav:
+      Track_path: Angels In Amplifiers - I'm Alright\Angels In Amplifiers - I'm Alright_RAW\02_Snare.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads'
+      Comment: ''
+  Drum_HiHat: {}
+  Drum_Cymbals: {}
+  Drum_Overheads:
+    03_Overheads.wav:
+      Track_path: Angels In Amplifiers - I'm Alright\Angels In Amplifiers - I'm Alright_RAW\03_Overheads.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Tom:
+    04_Toms.wav:
+      Track_path: Angels In Amplifiers - I'm Alright\Angels In Amplifiers - I'm Alright_RAW\04_Toms.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads'
+      Comment: ''
+  Drum_Room: {}
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop: {}
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion:
+    05_Percussion.wav:
+      Track_path: Angels In Amplifiers - I'm Alright\Angels In Amplifiers - I'm Alright_RAW\05_Percussion.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Synth_Bass: {}
+  Electric_Bass:
+    06_Bass.wav:
+      Track_path: Angels In Amplifiers - I'm Alright\Angels In Amplifiers - I'm Alright_RAW\06_Bass.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Acoustic_Guitar:
+    09_AcGtr1.wav:
+      Track_path: Angels In Amplifiers - I'm Alright\Angels In Amplifiers - I'm Alright_RAW\09_AcGtr1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    10_AcGtr2.wav:
+      Track_path: Angels In Amplifiers - I'm Alright\Angels In Amplifiers - I'm Alright_RAW\10_AcGtr2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Electric_Guitar:
+    08_ElecGtr.wav:
+      Track_path: Angels In Amplifiers - I'm Alright\Angels In Amplifiers - I'm Alright_RAW\08_ElecGtr.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Piano:
+    07_Piano.wav:
+      Track_path: Angels In Amplifiers - I'm Alright\Angels In Amplifiers - I'm Alright_RAW\07_Piano.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    11_LeadVox.wav:
+      Track_path: Angels In Amplifiers - I'm Alright\Angels In Amplifiers - I'm Alright_RAW\11_LeadVox.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Choir: {}
+  Backing_Vocal:
+    12_BackingVox1.wav:
+      Track_path: Angels In Amplifiers - I'm Alright\Angels In Amplifiers - I'm Alright_RAW\12_BackingVox1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    13_BackingVox2.wav:
+      Track_path: Angels In Amplifiers - I'm Alright\Angels In Amplifiers - I'm Alright_RAW\13_BackingVox2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Unused: {}
+  Ambient_Microphone: {}

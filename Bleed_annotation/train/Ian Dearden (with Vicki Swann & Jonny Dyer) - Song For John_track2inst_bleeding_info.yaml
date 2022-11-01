@@ -1,0 +1,223 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer:
+    06_Synth1.wav:
+      Track_path: Ian Dearden (with Vicki Swann & Jonny Dyer) - Song For John\Ian
+        Dearden (with Vicki Swann & Jonny Dyer) - Song For John_RAW\06_Synth1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    07_Synth2.wav:
+      Track_path: Ian Dearden (with Vicki Swann & Jonny Dyer) - Song For John\Ian
+        Dearden (with Vicki Swann & Jonny Dyer) - Song For John_RAW\07_Synth2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  SFX: {}
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick: {}
+  Drum_Snare: {}
+  Drum_HiHat: {}
+  Drum_Cymbals: {}
+  Drum_Overheads: {}
+  Drum_Tom: {}
+  Drum_Room: {}
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop: {}
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass: {}
+  Electric_Bass: {}
+  Acoustic_Guitar:
+    02_AcousticGtr1.wav:
+      Track_path: Ian Dearden (with Vicki Swann & Jonny Dyer) - Song For John\Ian
+        Dearden (with Vicki Swann & Jonny Dyer) - Song For John_RAW\02_AcousticGtr1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    03_AcousticGtr2.wav:
+      Track_path: Ian Dearden (with Vicki Swann & Jonny Dyer) - Song For John\Ian
+        Dearden (with Vicki Swann & Jonny Dyer) - Song For John_RAW\03_AcousticGtr2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    04_AcousticGtr3.wav:
+      Track_path: Ian Dearden (with Vicki Swann & Jonny Dyer) - Song For John\Ian
+        Dearden (with Vicki Swann & Jonny Dyer) - Song For John_RAW\04_AcousticGtr3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Electric_Guitar: {}
+  Piano:
+    05_Piano.wav:
+      Track_path: Ian Dearden (with Vicki Swann & Jonny Dyer) - Song For John\Ian
+        Dearden (with Vicki Swann & Jonny Dyer) - Song For John_RAW\05_Piano.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass:
+    01_Bass.wav:
+      Track_path: Ian Dearden (with Vicki Swann & Jonny Dyer) - Song For John\Ian
+        Dearden (with Vicki Swann & Jonny Dyer) - Song For John_RAW\01_Bass.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Violin:
+    08_Violin1MIDI.wav:
+      Track_path: Ian Dearden (with Vicki Swann & Jonny Dyer) - Song For John\Ian
+        Dearden (with Vicki Swann & Jonny Dyer) - Song For John_RAW\08_Violin1MIDI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    09_Violin2MIDI.wav:
+      Track_path: Ian Dearden (with Vicki Swann & Jonny Dyer) - Song For John\Ian
+        Dearden (with Vicki Swann & Jonny Dyer) - Song For John_RAW\09_Violin2MIDI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Viola:
+    10_ViolaMIDI.wav:
+      Track_path: Ian Dearden (with Vicki Swann & Jonny Dyer) - Song For John\Ian
+        Dearden (with Vicki Swann & Jonny Dyer) - Song For John_RAW\10_ViolaMIDI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Cello:
+    11_Cello1.wav:
+      Track_path: Ian Dearden (with Vicki Swann & Jonny Dyer) - Song For John\Ian
+        Dearden (with Vicki Swann & Jonny Dyer) - Song For John_RAW\11_Cello1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    12_Cello2MIDI.wav:
+      Track_path: Ian Dearden (with Vicki Swann & Jonny Dyer) - Song For John\Ian
+        Dearden (with Vicki Swann & Jonny Dyer) - Song For John_RAW\12_Cello2MIDI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    13_Cello3MIDI.wav:
+      Track_path: Ian Dearden (with Vicki Swann & Jonny Dyer) - Song For John\Ian
+        Dearden (with Vicki Swann & Jonny Dyer) - Song For John_RAW\13_Cello3MIDI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    14_LeadVox1.wav:
+      Track_path: Ian Dearden (with Vicki Swann & Jonny Dyer) - Song For John\Ian
+        Dearden (with Vicki Swann & Jonny Dyer) - Song For John_RAW\14_LeadVox1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    15_LeadVox2.wav:
+      Track_path: Ian Dearden (with Vicki Swann & Jonny Dyer) - Song For John\Ian
+        Dearden (with Vicki Swann & Jonny Dyer) - Song For John_RAW\15_LeadVox2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Choir: {}
+  Backing_Vocal:
+    16_BackingVox1.wav:
+      Track_path: Ian Dearden (with Vicki Swann & Jonny Dyer) - Song For John\Ian
+        Dearden (with Vicki Swann & Jonny Dyer) - Song For John_RAW\16_BackingVox1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    17_BackingVox2.wav:
+      Track_path: Ian Dearden (with Vicki Swann & Jonny Dyer) - Song For John\Ian
+        Dearden (with Vicki Swann & Jonny Dyer) - Song For John_RAW\17_BackingVox2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    18_BackingVox3.wav:
+      Track_path: Ian Dearden (with Vicki Swann & Jonny Dyer) - Song For John\Ian
+        Dearden (with Vicki Swann & Jonny Dyer) - Song For John_RAW\18_BackingVox3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    19_BackingVox3DT.wav:
+      Track_path: Ian Dearden (with Vicki Swann & Jonny Dyer) - Song For John\Ian
+        Dearden (with Vicki Swann & Jonny Dyer) - Song For John_RAW\19_BackingVox3DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    20_BackingVox4.wav:
+      Track_path: Ian Dearden (with Vicki Swann & Jonny Dyer) - Song For John\Ian
+        Dearden (with Vicki Swann & Jonny Dyer) - Song For John_RAW\20_BackingVox4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    21_BackingVox5.wav:
+      Track_path: Ian Dearden (with Vicki Swann & Jonny Dyer) - Song For John\Ian
+        Dearden (with Vicki Swann & Jonny Dyer) - Song For John_RAW\21_BackingVox5.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    22_BackingVox6.wav:
+      Track_path: Ian Dearden (with Vicki Swann & Jonny Dyer) - Song For John\Ian
+        Dearden (with Vicki Swann & Jonny Dyer) - Song For John_RAW\22_BackingVox6.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    23_BackingVox7.wav:
+      Track_path: Ian Dearden (with Vicki Swann & Jonny Dyer) - Song For John\Ian
+        Dearden (with Vicki Swann & Jonny Dyer) - Song For John_RAW\23_BackingVox7.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    24_BackingVox8.wav:
+      Track_path: Ian Dearden (with Vicki Swann & Jonny Dyer) - Song For John\Ian
+        Dearden (with Vicki Swann & Jonny Dyer) - Song For John_RAW\24_BackingVox8.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    25_BackingVox8DT.wav:
+      Track_path: Ian Dearden (with Vicki Swann & Jonny Dyer) - Song For John\Ian
+        Dearden (with Vicki Swann & Jonny Dyer) - Song For John_RAW\25_BackingVox8DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Unused: {}
+  Ambient_Microphone: {}

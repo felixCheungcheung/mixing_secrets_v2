@@ -1,0 +1,298 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer:
+    15_Synth1.wav:
+      Track_path: Guarna - Parole Vuote\Guarna - Parole Vuote_RAW\15_Synth1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    16_Synth2.wav:
+      Track_path: Guarna - Parole Vuote\Guarna - Parole Vuote_RAW\16_Synth2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    17_Synth3.wav:
+      Track_path: Guarna - Parole Vuote\Guarna - Parole Vuote_RAW\17_Synth3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    18_Synth4.wav:
+      Track_path: Guarna - Parole Vuote\Guarna - Parole Vuote_RAW\18_Synth4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    19_Synth5.wav:
+      Track_path: Guarna - Parole Vuote\Guarna - Parole Vuote_RAW\19_Synth5.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  SFX:
+    06_SFX1.wav:
+      Track_path: Guarna - Parole Vuote\Guarna - Parole Vuote_RAW\06_SFX1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    07_SFX2.wav:
+      Track_path: Guarna - Parole Vuote\Guarna - Parole Vuote_RAW\07_SFX2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    08_SFX3.wav:
+      Track_path: Guarna - Parole Vuote\Guarna - Parole Vuote_RAW\08_SFX3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    09_SFX4.wav:
+      Track_path: Guarna - Parole Vuote\Guarna - Parole Vuote_RAW\09_SFX4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    10_SFX5.wav:
+      Track_path: Guarna - Parole Vuote\Guarna - Parole Vuote_RAW\10_SFX5.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    01_Kick.wav:
+      Track_path: Guarna - Parole Vuote\Guarna - Parole Vuote_RAW\01_Kick.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Snare:
+    02_Snare.wav:
+      Track_path: Guarna - Parole Vuote\Guarna - Parole Vuote_RAW\02_Snare.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_HiHat: {}
+  Drum_Cymbals: {}
+  Drum_Overheads: {}
+  Drum_Tom: {}
+  Drum_Room: {}
+  Shaker:
+    04_Shaker.wav:
+      Track_path: Guarna - Parole Vuote\Guarna - Parole Vuote_RAW\04_Shaker.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop:
+    05_Loop.wav:
+      Track_path: Guarna - Parole Vuote\Guarna - Parole Vuote_RAW\05_Loop.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Clicks: {}
+  Claps:
+    03_Clap.wav:
+      Track_path: Guarna - Parole Vuote\Guarna - Parole Vuote_RAW\03_Clap.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass: {}
+  Electric_Bass:
+    11_Bass.wav:
+      Track_path: Guarna - Parole Vuote\Guarna - Parole Vuote_RAW\11_Bass.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Acoustic_Guitar:
+    14_AcousticGtr.wav:
+      Track_path: Guarna - Parole Vuote\Guarna - Parole Vuote_RAW\14_AcousticGtr.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Electric_Guitar: {}
+  Piano:
+    12_PianoSFX1.wav:
+      Track_path: Guarna - Parole Vuote\Guarna - Parole Vuote_RAW\12_PianoSFX1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    13_PianoSFX2.wav:
+      Track_path: Guarna - Parole Vuote\Guarna - Parole Vuote_RAW\13_PianoSFX2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    20_LeadVox1.wav:
+      Track_path: Guarna - Parole Vuote\Guarna - Parole Vuote_RAW\20_LeadVox1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    21_LeadVox1DT1.wav:
+      Track_path: Guarna - Parole Vuote\Guarna - Parole Vuote_RAW\21_LeadVox1DT1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    22_LeadVox1DT2.wav:
+      Track_path: Guarna - Parole Vuote\Guarna - Parole Vuote_RAW\22_LeadVox1DT2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    23_LeadVox1DT3.wav:
+      Track_path: Guarna - Parole Vuote\Guarna - Parole Vuote_RAW\23_LeadVox1DT3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    24_LeadVox2.wav:
+      Track_path: Guarna - Parole Vuote\Guarna - Parole Vuote_RAW\24_LeadVox2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    25_LeadVox2DT1.wav:
+      Track_path: Guarna - Parole Vuote\Guarna - Parole Vuote_RAW\25_LeadVox2DT1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    26_LeadVox2DT2.wav:
+      Track_path: Guarna - Parole Vuote\Guarna - Parole Vuote_RAW\26_LeadVox2DT2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    27_LeadVox2DT3.wav:
+      Track_path: Guarna - Parole Vuote\Guarna - Parole Vuote_RAW\27_LeadVox2DT3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    28_LeadVox2DT4.wav:
+      Track_path: Guarna - Parole Vuote\Guarna - Parole Vuote_RAW\28_LeadVox2DT4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    29_LeadVox2DT5.wav:
+      Track_path: Guarna - Parole Vuote\Guarna - Parole Vuote_RAW\29_LeadVox2DT5.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    30_LeadVox3.wav:
+      Track_path: Guarna - Parole Vuote\Guarna - Parole Vuote_RAW\30_LeadVox3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    31_LeadVox3DT.wav:
+      Track_path: Guarna - Parole Vuote\Guarna - Parole Vuote_RAW\31_LeadVox3DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Choir: {}
+  Backing_Vocal:
+    32_BackingVox1.wav:
+      Track_path: Guarna - Parole Vuote\Guarna - Parole Vuote_RAW\32_BackingVox1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    33_BackingVox2.wav:
+      Track_path: Guarna - Parole Vuote\Guarna - Parole Vuote_RAW\33_BackingVox2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    34_BackingVox3.wav:
+      Track_path: Guarna - Parole Vuote\Guarna - Parole Vuote_RAW\34_BackingVox3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    35_BackingVox3DT.wav:
+      Track_path: Guarna - Parole Vuote\Guarna - Parole Vuote_RAW\35_BackingVox3DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    36_BackingVox4.wav:
+      Track_path: Guarna - Parole Vuote\Guarna - Parole Vuote_RAW\36_BackingVox4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    37_BackingVox5.wav:
+      Track_path: Guarna - Parole Vuote\Guarna - Parole Vuote_RAW\37_BackingVox5.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    38_BackingVox5DT.wav:
+      Track_path: Guarna - Parole Vuote\Guarna - Parole Vuote_RAW\38_BackingVox5DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    39_BackingVox6.wav:
+      Track_path: Guarna - Parole Vuote\Guarna - Parole Vuote_RAW\39_BackingVox6.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    40_BackingVox7.wav:
+      Track_path: Guarna - Parole Vuote\Guarna - Parole Vuote_RAW\40_BackingVox7.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    41_BackingVox7DT.wav:
+      Track_path: Guarna - Parole Vuote\Guarna - Parole Vuote_RAW\41_BackingVox7DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    42_BackingVox8.wav:
+      Track_path: Guarna - Parole Vuote\Guarna - Parole Vuote_RAW\42_BackingVox8.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    43_BackingVox8DT.wav:
+      Track_path: Guarna - Parole Vuote\Guarna - Parole Vuote_RAW\43_BackingVox8DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    44_VoxSFX1.wav:
+      Track_path: Guarna - Parole Vuote\Guarna - Parole Vuote_RAW\44_VoxSFX1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    45_VoxSFX2.wav:
+      Track_path: Guarna - Parole Vuote\Guarna - Parole Vuote_RAW\45_VoxSFX2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Unused: {}
+  Ambient_Microphone: {}

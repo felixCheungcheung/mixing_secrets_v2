@@ -1,0 +1,157 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer:
+    06_Synth1.wav:
+      Track_path: Nominal6 - Escape Of The Hopping Rhinos\Nominal6 - Escape Of The
+        Hopping Rhinos_RAW\06_Synth1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    07_Synth2.wav:
+      Track_path: Nominal6 - Escape Of The Hopping Rhinos\Nominal6 - Escape Of The
+        Hopping Rhinos_RAW\07_Synth2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    08_Synth3.wav:
+      Track_path: Nominal6 - Escape Of The Hopping Rhinos\Nominal6 - Escape Of The
+        Hopping Rhinos_RAW\08_Synth3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    09_Synth4.wav:
+      Track_path: Nominal6 - Escape Of The Hopping Rhinos\Nominal6 - Escape Of The
+        Hopping Rhinos_RAW\09_Synth4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    10_Synth5.wav:
+      Track_path: Nominal6 - Escape Of The Hopping Rhinos\Nominal6 - Escape Of The
+        Hopping Rhinos_RAW\10_Synth5.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    11_Synth6.wav:
+      Track_path: Nominal6 - Escape Of The Hopping Rhinos\Nominal6 - Escape Of The
+        Hopping Rhinos_RAW\11_Synth6.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    12_Synth7.wav:
+      Track_path: Nominal6 - Escape Of The Hopping Rhinos\Nominal6 - Escape Of The
+        Hopping Rhinos_RAW\12_Synth7.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  SFX:
+    14_VoxSFX.wav:
+      Track_path: Nominal6 - Escape Of The Hopping Rhinos\Nominal6 - Escape Of The
+        Hopping Rhinos_RAW\14_VoxSFX.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick: {}
+  Drum_Snare: {}
+  Drum_HiHat: {}
+  Drum_Cymbals:
+    04_Cymbal.wav:
+      Track_path: Nominal6 - Escape Of The Hopping Rhinos\Nominal6 - Escape Of The
+        Hopping Rhinos_RAW\04_Cymbal.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Overheads: {}
+  Drum_Tom: {}
+  Drum_Room: {}
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop:
+    01_Loop1.wav:
+      Track_path: Nominal6 - Escape Of The Hopping Rhinos\Nominal6 - Escape Of The
+        Hopping Rhinos_RAW\01_Loop1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    02_Loop2.wav:
+      Track_path: Nominal6 - Escape Of The Hopping Rhinos\Nominal6 - Escape Of The
+        Hopping Rhinos_RAW\02_Loop2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    03_Loop3.wav:
+      Track_path: Nominal6 - Escape Of The Hopping Rhinos\Nominal6 - Escape Of The
+        Hopping Rhinos_RAW\03_Loop3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass:
+    05_Bass.wav:
+      Track_path: Nominal6 - Escape Of The Hopping Rhinos\Nominal6 - Escape Of The
+        Hopping Rhinos_RAW\05_Bass.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Electric_Bass: {}
+  Acoustic_Guitar:
+    13_Shiraki.wav:
+      Track_path: Nominal6 - Escape Of The Hopping Rhinos\Nominal6 - Escape Of The
+        Hopping Rhinos_RAW\13_Shiraki.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Electric_Guitar: {}
+  Piano: {}
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal: {}
+  Choir: {}
+  Backing_Vocal: {}
+  Unused: {}
+  Ambient_Microphone: {}

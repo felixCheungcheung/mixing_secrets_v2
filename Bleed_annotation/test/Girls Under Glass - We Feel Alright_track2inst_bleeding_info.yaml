@@ -1,0 +1,187 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer:
+    07_Synth1.wav:
+      Track_path: Girls Under Glass - We Feel Alright\Girls Under Glass - We Feel
+        Alright_RAW\07_Synth1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    08_Synth2.wav:
+      Track_path: Girls Under Glass - We Feel Alright\Girls Under Glass - We Feel
+        Alright_RAW\08_Synth2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    09_Synth3.wav:
+      Track_path: Girls Under Glass - We Feel Alright\Girls Under Glass - We Feel
+        Alright_RAW\09_Synth3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  SFX:
+    10_SFX.wav:
+      Track_path: Girls Under Glass - We Feel Alright\Girls Under Glass - We Feel
+        Alright_RAW\10_SFX.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    01_Kick.wav:
+      Track_path: Girls Under Glass - We Feel Alright\Girls Under Glass - We Feel
+        Alright_RAW\01_Kick.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Snare:
+    02_Snare.wav:
+      Track_path: Girls Under Glass - We Feel Alright\Girls Under Glass - We Feel
+        Alright_RAW\02_Snare.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_HiHat: {}
+  Drum_Cymbals: {}
+  Drum_Overheads: {}
+  Drum_Tom: {}
+  Drum_Room: {}
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop:
+    03_Loop1.wav:
+      Track_path: Girls Under Glass - We Feel Alright\Girls Under Glass - We Feel
+        Alright_RAW\03_Loop1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    04_Loop2.wav:
+      Track_path: Girls Under Glass - We Feel Alright\Girls Under Glass - We Feel
+        Alright_RAW\04_Loop2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    05_Loop3.wav:
+      Track_path: Girls Under Glass - We Feel Alright\Girls Under Glass - We Feel
+        Alright_RAW\05_Loop3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass:
+    06_Bass.wav:
+      Track_path: Girls Under Glass - We Feel Alright\Girls Under Glass - We Feel
+        Alright_RAW\06_Bass.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Electric_Bass: {}
+  Acoustic_Guitar: {}
+  Electric_Guitar:
+    11_ElecGtr1.wav:
+      Track_path: Girls Under Glass - We Feel Alright\Girls Under Glass - We Feel
+        Alright_RAW\11_ElecGtr1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    12_ElecGtr2.wav:
+      Track_path: Girls Under Glass - We Feel Alright\Girls Under Glass - We Feel
+        Alright_RAW\12_ElecGtr2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    13_ElecGtr3.wav:
+      Track_path: Girls Under Glass - We Feel Alright\Girls Under Glass - We Feel
+        Alright_RAW\13_ElecGtr3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    14_ElecGtr4.wav:
+      Track_path: Girls Under Glass - We Feel Alright\Girls Under Glass - We Feel
+        Alright_RAW\14_ElecGtr4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Piano:
+    15_Piano.wav:
+      Track_path: Girls Under Glass - We Feel Alright\Girls Under Glass - We Feel
+        Alright_RAW\15_Piano.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    16_Vox1.wav:
+      Track_path: Girls Under Glass - We Feel Alright\Girls Under Glass - We Feel
+        Alright_RAW\16_Vox1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    18_Vox3.wav:
+      Track_path: Girls Under Glass - We Feel Alright\Girls Under Glass - We Feel
+        Alright_RAW\18_Vox3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    19_Vox4.wav:
+      Track_path: Girls Under Glass - We Feel Alright\Girls Under Glass - We Feel
+        Alright_RAW\19_Vox4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Choir: {}
+  Backing_Vocal: {}
+  Unused:
+    17_Vox2.wav:
+      Track_path: Girls Under Glass - We Feel Alright\Girls Under Glass - We Feel
+        Alright_RAW\17_Vox2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Ambient_Microphone: {}

@@ -1,0 +1,235 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer: {}
+  SFX: {}
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes:
+    04_Chimes.wav:
+      Track_path: Timo And The Timezone - Just Don't Talk\Timo And The Timezone -
+        Just Don't Talk_RAW\04_Chimes.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Other_Chromatic: {}
+  Drum_Kick:
+    01_Drumkit_Kick.wav:
+      Track_path: Timo And The Timezone - Just Don't Talk\Timo And The Timezone -
+        Just Don't Talk_RAW\01_Drumkit_Kick.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_Snare: {}
+  Drum_HiHat: {}
+  Drum_Cymbals:
+    05_CymbalSwells.wav:
+      Track_path: Timo And The Timezone - Just Don't Talk\Timo And The Timezone -
+        Just Don't Talk_RAW\05_CymbalSwells.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    06_Ride1.wav:
+      Track_path: Timo And The Timezone - Just Don't Talk\Timo And The Timezone -
+        Just Don't Talk_RAW\06_Ride1.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    07_Ride2.wav:
+      Track_path: Timo And The Timezone - Just Don't Talk\Timo And The Timezone -
+        Just Don't Talk_RAW\07_Ride2.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_Overheads:
+    02_Drumkit_Overhead.wav:
+      Track_path: Timo And The Timezone - Just Don't Talk\Timo And The Timezone -
+        Just Don't Talk_RAW\02_Drumkit_Overhead.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Tom: {}
+  Drum_Room: {}
+  Shaker:
+    08_Shaker.wav:
+      Track_path: Timo And The Timezone - Just Don't Talk\Timo And The Timezone -
+        Just Don't Talk_RAW\08_Shaker.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop: {}
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo:
+    03_Bongos.wav:
+      Track_path: Timo And The Timezone - Just Don't Talk\Timo And The Timezone -
+        Just Don't Talk_RAW\03_Bongos.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass:
+    10_Bass2.wav:
+      Track_path: Timo And The Timezone - Just Don't Talk\Timo And The Timezone -
+        Just Don't Talk_RAW\10_Bass2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Electric_Bass:
+    09_Bass1.wav:
+      Track_path: Timo And The Timezone - Just Don't Talk\Timo And The Timezone -
+        Just Don't Talk_RAW\09_Bass1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Acoustic_Guitar: {}
+  Electric_Guitar:
+    11_ElecGtr1.wav:
+      Track_path: Timo And The Timezone - Just Don't Talk\Timo And The Timezone -
+        Just Don't Talk_RAW\11_ElecGtr1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    12_ElecGtr2.wav:
+      Track_path: Timo And The Timezone - Just Don't Talk\Timo And The Timezone -
+        Just Don't Talk_RAW\12_ElecGtr2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    13_ElecGtr3DI.wav:
+      Track_path: Timo And The Timezone - Just Don't Talk\Timo And The Timezone -
+        Just Don't Talk_RAW\13_ElecGtr3DI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    14_ElecGtr3Amp.wav:
+      Track_path: Timo And The Timezone - Just Don't Talk\Timo And The Timezone -
+        Just Don't Talk_RAW\14_ElecGtr3Amp.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Piano: {}
+  Electric_Piano:
+    15_ElecPiano.wav:
+      Track_path: Timo And The Timezone - Just Don't Talk\Timo And The Timezone -
+        Just Don't Talk_RAW\15_ElecPiano.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    16_LeadVox.wav:
+      Track_path: Timo And The Timezone - Just Don't Talk\Timo And The Timezone -
+        Just Don't Talk_RAW\16_LeadVox.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    17_LeadVoxDTAdLib.wav:
+      Track_path: Timo And The Timezone - Just Don't Talk\Timo And The Timezone -
+        Just Don't Talk_RAW\17_LeadVoxDTAdLib.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Choir: {}
+  Backing_Vocal:
+    20_BackingVox1.wav:
+      Track_path: Timo And The Timezone - Just Don't Talk\Timo And The Timezone -
+        Just Don't Talk_RAW\20_BackingVox1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    21_BackingVox2.wav:
+      Track_path: Timo And The Timezone - Just Don't Talk\Timo And The Timezone -
+        Just Don't Talk_RAW\21_BackingVox2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    22_BackingVox3.wav:
+      Track_path: Timo And The Timezone - Just Don't Talk\Timo And The Timezone -
+        Just Don't Talk_RAW\22_BackingVox3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    23_BackingVox4.wav:
+      Track_path: Timo And The Timezone - Just Don't Talk\Timo And The Timezone -
+        Just Don't Talk_RAW\23_BackingVox4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    24_BackingVox5.wav:
+      Track_path: Timo And The Timezone - Just Don't Talk\Timo And The Timezone -
+        Just Don't Talk_RAW\24_BackingVox5.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    25_BackingVox6.wav:
+      Track_path: Timo And The Timezone - Just Don't Talk\Timo And The Timezone -
+        Just Don't Talk_RAW\25_BackingVox6.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    26_BackingVox7.wav:
+      Track_path: Timo And The Timezone - Just Don't Talk\Timo And The Timezone -
+        Just Don't Talk_RAW\26_BackingVox7.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    27_BackingVox8.wav:
+      Track_path: Timo And The Timezone - Just Don't Talk\Timo And The Timezone -
+        Just Don't Talk_RAW\27_BackingVox8.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    18_Speech.wav:
+      Track_path: Timo And The Timezone - Just Don't Talk\Timo And The Timezone -
+        Just Don't Talk_RAW\18_Speech.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    19_Whisper.wav:
+      Track_path: Timo And The Timezone - Just Don't Talk\Timo And The Timezone -
+        Just Don't Talk_RAW\19_Whisper.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Unused: {}
+  Ambient_Microphone: {}

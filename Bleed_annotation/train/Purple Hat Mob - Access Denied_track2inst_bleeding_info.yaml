@@ -1,0 +1,213 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer:
+    10_Synth01.wav:
+      Track_path: Purple Hat Mob - Access Denied\Purple Hat Mob - Access Denied_RAW\10_Synth01.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    11_Synth02.wav:
+      Track_path: Purple Hat Mob - Access Denied\Purple Hat Mob - Access Denied_RAW\11_Synth02.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    12_Synth03.wav:
+      Track_path: Purple Hat Mob - Access Denied\Purple Hat Mob - Access Denied_RAW\12_Synth03.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    13_Synth04.wav:
+      Track_path: Purple Hat Mob - Access Denied\Purple Hat Mob - Access Denied_RAW\13_Synth04.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    14_Synth05.wav:
+      Track_path: Purple Hat Mob - Access Denied\Purple Hat Mob - Access Denied_RAW\14_Synth05.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    15_Synth06.wav:
+      Track_path: Purple Hat Mob - Access Denied\Purple Hat Mob - Access Denied_RAW\15_Synth06.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    16_Synth07.wav:
+      Track_path: Purple Hat Mob - Access Denied\Purple Hat Mob - Access Denied_RAW\16_Synth07.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    17_Synth08.wav:
+      Track_path: Purple Hat Mob - Access Denied\Purple Hat Mob - Access Denied_RAW\17_Synth08.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    18_Synth09.wav:
+      Track_path: Purple Hat Mob - Access Denied\Purple Hat Mob - Access Denied_RAW\18_Synth09.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    19_Synth10.wav:
+      Track_path: Purple Hat Mob - Access Denied\Purple Hat Mob - Access Denied_RAW\19_Synth10.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    20_Synth11.wav:
+      Track_path: Purple Hat Mob - Access Denied\Purple Hat Mob - Access Denied_RAW\20_Synth11.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    21_Synth12.wav:
+      Track_path: Purple Hat Mob - Access Denied\Purple Hat Mob - Access Denied_RAW\21_Synth12.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  SFX: {}
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    01_Kick.wav:
+      Track_path: Purple Hat Mob - Access Denied\Purple Hat Mob - Access Denied_RAW\01_Kick.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_Snare:
+    02_Snare.wav:
+      Track_path: Purple Hat Mob - Access Denied\Purple Hat Mob - Access Denied_RAW\02_Snare.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_HiHat: {}
+  Drum_Cymbals: {}
+  Drum_Overheads:
+    05_Overheads.wav:
+      Track_path: Purple Hat Mob - Access Denied\Purple Hat Mob - Access Denied_RAW\05_Overheads.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Tom:
+    03_Tom1.wav:
+      Track_path: Purple Hat Mob - Access Denied\Purple Hat Mob - Access Denied_RAW\03_Tom1.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    04_Tom2.wav:
+      Track_path: Purple Hat Mob - Access Denied\Purple Hat Mob - Access Denied_RAW\04_Tom2.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_Room: {}
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop: {}
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass: {}
+  Electric_Bass:
+    06_Bass.wav:
+      Track_path: Purple Hat Mob - Access Denied\Purple Hat Mob - Access Denied_RAW\06_Bass.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Acoustic_Guitar: {}
+  Electric_Guitar:
+    07_ElecGtr1.wav:
+      Track_path: Purple Hat Mob - Access Denied\Purple Hat Mob - Access Denied_RAW\07_ElecGtr1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    08_ElecGtr2.wav:
+      Track_path: Purple Hat Mob - Access Denied\Purple Hat Mob - Access Denied_RAW\08_ElecGtr2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    09_ElecGtr2DT.wav:
+      Track_path: Purple Hat Mob - Access Denied\Purple Hat Mob - Access Denied_RAW\09_ElecGtr2DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Piano: {}
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    22_LeadVox1.wav:
+      Track_path: Purple Hat Mob - Access Denied\Purple Hat Mob - Access Denied_RAW\22_LeadVox1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    23_LeadVox2.wav:
+      Track_path: Purple Hat Mob - Access Denied\Purple Hat Mob - Access Denied_RAW\23_LeadVox2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Choir: {}
+  Backing_Vocal:
+    24_BackingVox1.wav:
+      Track_path: Purple Hat Mob - Access Denied\Purple Hat Mob - Access Denied_RAW\24_BackingVox1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    25_BackingVox1DT.wav:
+      Track_path: Purple Hat Mob - Access Denied\Purple Hat Mob - Access Denied_RAW\25_BackingVox1DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    26_BackingVox2.wav:
+      Track_path: Purple Hat Mob - Access Denied\Purple Hat Mob - Access Denied_RAW\26_BackingVox2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    27_BackingVox2DT.wav:
+      Track_path: Purple Hat Mob - Access Denied\Purple Hat Mob - Access Denied_RAW\27_BackingVox2DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Unused:
+    28_AccessDenied_Full_Preview.wav:
+      Track_path: Purple Hat Mob - Access Denied\Purple Hat Mob - Access Denied_RAW\28_AccessDenied_Full_Preview.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Ambient_Microphone: {}

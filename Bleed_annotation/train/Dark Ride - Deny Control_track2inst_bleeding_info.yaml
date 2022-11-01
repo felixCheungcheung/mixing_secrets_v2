@@ -1,0 +1,248 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer: {}
+  SFX: {}
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    02_Kick1.wav:
+      Track_path: Dark Ride - Deny Control\Dark Ride - Deny Control_RAW\02_Kick1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    03_Kick2.wav:
+      Track_path: Dark Ride - Deny Control\Dark Ride - Deny Control_RAW\03_Kick2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    04_KickSample.wav:
+      Track_path: Dark Ride - Deny Control\Dark Ride - Deny Control_RAW\04_KickSample.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Snare:
+    05_Snare.wav:
+      Track_path: Dark Ride - Deny Control\Dark Ride - Deny Control_RAW\05_Snare.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    06_SnareSample.wav:
+      Track_path: Dark Ride - Deny Control\Dark Ride - Deny Control_RAW\06_SnareSample.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_HiHat:
+    11_HiHat.wav:
+      Track_path: Dark Ride - Deny Control\Dark Ride - Deny Control_RAW\11_HiHat.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Cymbals:
+    12_Ride.wav:
+      Track_path: Dark Ride - Deny Control\Dark Ride - Deny Control_RAW\12_Ride.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    13_Cymbals.wav:
+      Track_path: Dark Ride - Deny Control\Dark Ride - Deny Control_RAW\13_Cymbals.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Overheads:
+    14_Overheads.wav:
+      Track_path: Dark Ride - Deny Control\Dark Ride - Deny Control_RAW\14_Overheads.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Tom:
+    07_Tom1.wav:
+      Track_path: Dark Ride - Deny Control\Dark Ride - Deny Control_RAW\07_Tom1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    08_Tom2.wav:
+      Track_path: Dark Ride - Deny Control\Dark Ride - Deny Control_RAW\08_Tom2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    09_Tom3.wav:
+      Track_path: Dark Ride - Deny Control\Dark Ride - Deny Control_RAW\09_Tom3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    10_Tom4.wav:
+      Track_path: Dark Ride - Deny Control\Dark Ride - Deny Control_RAW\10_Tom4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Room:
+    15_DrumsRoomStereo1.wav:
+      Track_path: Dark Ride - Deny Control\Dark Ride - Deny Control_RAW\15_DrumsRoomStereo1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    16_DrumsRoomStereo2.wav:
+      Track_path: Dark Ride - Deny Control\Dark Ride - Deny Control_RAW\16_DrumsRoomStereo2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    17_DrumsRoomMono.wav:
+      Track_path: Dark Ride - Deny Control\Dark Ride - Deny Control_RAW\17_DrumsRoomMono.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop: {}
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass: {}
+  Electric_Bass:
+    18_Bass1.wav:
+      Track_path: Dark Ride - Deny Control\Dark Ride - Deny Control_RAW\18_Bass1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    19_Bass2.wav:
+      Track_path: Dark Ride - Deny Control\Dark Ride - Deny Control_RAW\19_Bass2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Acoustic_Guitar: {}
+  Electric_Guitar:
+    20_ElecGtr1.wav:
+      Track_path: Dark Ride - Deny Control\Dark Ride - Deny Control_RAW\20_ElecGtr1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    21_ElecGtr2.wav:
+      Track_path: Dark Ride - Deny Control\Dark Ride - Deny Control_RAW\21_ElecGtr2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    22_ElecGtr3.wav:
+      Track_path: Dark Ride - Deny Control\Dark Ride - Deny Control_RAW\22_ElecGtr3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    23_ElecGtr4.wav:
+      Track_path: Dark Ride - Deny Control\Dark Ride - Deny Control_RAW\23_ElecGtr4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    24_ElecGtr5.wav:
+      Track_path: Dark Ride - Deny Control\Dark Ride - Deny Control_RAW\24_ElecGtr5.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Piano: {}
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    25_LeadVox1.wav:
+      Track_path: Dark Ride - Deny Control\Dark Ride - Deny Control_RAW\25_LeadVox1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    26_LeadVox1DT.wav:
+      Track_path: Dark Ride - Deny Control\Dark Ride - Deny Control_RAW\26_LeadVox1DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    27_LeadVox2.wav:
+      Track_path: Dark Ride - Deny Control\Dark Ride - Deny Control_RAW\27_LeadVox2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Choir: {}
+  Backing_Vocal:
+    28_BackingVox1.wav:
+      Track_path: Dark Ride - Deny Control\Dark Ride - Deny Control_RAW\28_BackingVox1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    29_BackingVox2.wav:
+      Track_path: Dark Ride - Deny Control\Dark Ride - Deny Control_RAW\29_BackingVox2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    30_BackingVox3.wav:
+      Track_path: Dark Ride - Deny Control\Dark Ride - Deny Control_RAW\30_BackingVox3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    32_BackingVox4.wav:
+      Track_path: Dark Ride - Deny Control\Dark Ride - Deny Control_RAW\32_BackingVox4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    33_BackingVox5.wav:
+      Track_path: Dark Ride - Deny Control\Dark Ride - Deny Control_RAW\33_BackingVox5.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    34_Whisper.wav:
+      Track_path: Dark Ride - Deny Control\Dark Ride - Deny Control_RAW\34_Whisper.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    35_Speech.wav:
+      Track_path: Dark Ride - Deny Control\Dark Ride - Deny Control_RAW\35_Speech.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Unused:
+    01_Intro.wav:
+      Track_path: Dark Ride - Deny Control\Dark Ride - Deny Control_RAW\01_Intro.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    31_BackingVox3FX.wav:
+      Track_path: Dark Ride - Deny Control\Dark Ride - Deny Control_RAW\31_BackingVox3FX.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Ambient_Microphone: {}

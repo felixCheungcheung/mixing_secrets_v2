@@ -1,0 +1,263 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer:
+    24_Synth01.wav:
+      Track_path: APZX - Lacuna\APZX - Lacuna_RAW\24_Synth01.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    25_Synth02.wav:
+      Track_path: APZX - Lacuna\APZX - Lacuna_RAW\25_Synth02.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    26_Synth03.wav:
+      Track_path: APZX - Lacuna\APZX - Lacuna_RAW\26_Synth03.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    27_Synth04.wav:
+      Track_path: APZX - Lacuna\APZX - Lacuna_RAW\27_Synth04.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    28_Synth05.wav:
+      Track_path: APZX - Lacuna\APZX - Lacuna_RAW\28_Synth05.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    29_Synth06.wav:
+      Track_path: APZX - Lacuna\APZX - Lacuna_RAW\29_Synth06.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    30_Synth07.wav:
+      Track_path: APZX - Lacuna\APZX - Lacuna_RAW\30_Synth07.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    31_Synth08.wav:
+      Track_path: APZX - Lacuna\APZX - Lacuna_RAW\31_Synth08.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    32_Synth09.wav:
+      Track_path: APZX - Lacuna\APZX - Lacuna_RAW\32_Synth09.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    33_Synth10.wav:
+      Track_path: APZX - Lacuna\APZX - Lacuna_RAW\33_Synth10.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    34_Synth11.wav:
+      Track_path: APZX - Lacuna\APZX - Lacuna_RAW\34_Synth11.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    35_Synth12.wav:
+      Track_path: APZX - Lacuna\APZX - Lacuna_RAW\35_Synth12.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    36_SynthLead1.wav:
+      Track_path: APZX - Lacuna\APZX - Lacuna_RAW\36_SynthLead1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    37_SynthLead2.wav:
+      Track_path: APZX - Lacuna\APZX - Lacuna_RAW\37_SynthLead2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    38_SynthLead3.wav:
+      Track_path: APZX - Lacuna\APZX - Lacuna_RAW\38_SynthLead3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  SFX:
+    02_SubDrop.wav:
+      Track_path: APZX - Lacuna\APZX - Lacuna_RAW\02_SubDrop.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    18_SFX1.wav:
+      Track_path: APZX - Lacuna\APZX - Lacuna_RAW\18_SFX1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    19_SFX2.wav:
+      Track_path: APZX - Lacuna\APZX - Lacuna_RAW\19_SFX2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    20_SFX3.wav:
+      Track_path: APZX - Lacuna\APZX - Lacuna_RAW\20_SFX3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    21_SFX4.wav:
+      Track_path: APZX - Lacuna\APZX - Lacuna_RAW\21_SFX4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    22_SFX5.wav:
+      Track_path: APZX - Lacuna\APZX - Lacuna_RAW\22_SFX5.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    23_SFX6.wav:
+      Track_path: APZX - Lacuna\APZX - Lacuna_RAW\23_SFX6.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    01_Kick.wav:
+      Track_path: APZX - Lacuna\APZX - Lacuna_RAW\01_Kick.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Snare:
+    04_Snare.wav:
+      Track_path: APZX - Lacuna\APZX - Lacuna_RAW\04_Snare.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    03_RimShot.wav:
+      Track_path: APZX - Lacuna\APZX - Lacuna_RAW\03_RimShot.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_HiHat:
+    06_Hat1.wav:
+      Track_path: APZX - Lacuna\APZX - Lacuna_RAW\06_Hat1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    07_Hat2.wav:
+      Track_path: APZX - Lacuna\APZX - Lacuna_RAW\07_Hat2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    08_Hat3.wav:
+      Track_path: APZX - Lacuna\APZX - Lacuna_RAW\08_Hat3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    09_Hat4.wav:
+      Track_path: APZX - Lacuna\APZX - Lacuna_RAW\09_Hat4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    10_Hat5.wav:
+      Track_path: APZX - Lacuna\APZX - Lacuna_RAW\10_Hat5.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    11_Hat6.wav:
+      Track_path: APZX - Lacuna\APZX - Lacuna_RAW\11_Hat6.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    12_Hat7.wav:
+      Track_path: APZX - Lacuna\APZX - Lacuna_RAW\12_Hat7.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    13_Hat8.wav:
+      Track_path: APZX - Lacuna\APZX - Lacuna_RAW\13_Hat8.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Cymbals: {}
+  Drum_Overheads: {}
+  Drum_Tom:
+    14_Tom1.wav:
+      Track_path: APZX - Lacuna\APZX - Lacuna_RAW\14_Tom1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    15_Tom2.wav:
+      Track_path: APZX - Lacuna\APZX - Lacuna_RAW\15_Tom2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Room: {}
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop: {}
+  Clicks: {}
+  Claps:
+    05_Clap.wav:
+      Track_path: APZX - Lacuna\APZX - Lacuna_RAW\05_Clap.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass:
+    16_Bass1.wav:
+      Track_path: APZX - Lacuna\APZX - Lacuna_RAW\16_Bass1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    17_Bass2.wav:
+      Track_path: APZX - Lacuna\APZX - Lacuna_RAW\17_Bass2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Electric_Bass: {}
+  Acoustic_Guitar: {}
+  Electric_Guitar: {}
+  Piano: {}
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal: {}
+  Choir: {}
+  Backing_Vocal: {}
+  Unused: {}
+  Ambient_Microphone: {}

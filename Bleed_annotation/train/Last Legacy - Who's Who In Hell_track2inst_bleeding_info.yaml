@@ -1,0 +1,264 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer: {}
+  SFX: {}
+  Marimba: {}
+  Bell:
+    13_Bell Sample.wav:
+      Track_path: Last Legacy - Who's Who In Hell\Last Legacy - Who's Who In Hell_RAW\13_Bell
+        Sample.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    01_Kick.wav:
+      Track_path: Last Legacy - Who's Who In Hell\Last Legacy - Who's Who In Hell_RAW\01_Kick.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    03_KickSample.wav:
+      Track_path: Last Legacy - Who's Who In Hell\Last Legacy - Who's Who In Hell_RAW\03_KickSample.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Snare:
+    06_SnareSample.wav:
+      Track_path: Last Legacy - Who's Who In Hell\Last Legacy - Who's Who In Hell_RAW\06_SnareSample.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_HiHat: {}
+  Drum_Cymbals: {}
+  Drum_Overheads:
+    08_Overheads.wav:
+      Track_path: Last Legacy - Who's Who In Hell\Last Legacy - Who's Who In Hell_RAW\08_Overheads.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Tom:
+    11_Tom2.wav:
+      Track_path: Last Legacy - Who's Who In Hell\Last Legacy - Who's Who In Hell_RAW\11_Tom2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    10_Tom1Trigger.wav:
+      Track_path: Last Legacy - Who's Who In Hell\Last Legacy - Who's Who In Hell_RAW\10_Tom1Trigger.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    12_Tom2Trigger.wav:
+      Track_path: Last Legacy - Who's Who In Hell\Last Legacy - Who's Who In Hell_RAW\12_Tom2Trigger.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Room: {}
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop: {}
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass: {}
+  Electric_Bass:
+    14_BassDI.wav:
+      Track_path: Last Legacy - Who's Who In Hell\Last Legacy - Who's Who In Hell_RAW\14_BassDI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Acoustic_Guitar: {}
+  Electric_Guitar:
+    15_ElecGtr01.wav:
+      Track_path: Last Legacy - Who's Who In Hell\Last Legacy - Who's Who In Hell_RAW\15_ElecGtr01.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    16_ElecGtr01DI.wav:
+      Track_path: Last Legacy - Who's Who In Hell\Last Legacy - Who's Who In Hell_RAW\16_ElecGtr01DI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    17_ElecGtr02.wav:
+      Track_path: Last Legacy - Who's Who In Hell\Last Legacy - Who's Who In Hell_RAW\17_ElecGtr02.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    18_ElecGtr02DI.wav:
+      Track_path: Last Legacy - Who's Who In Hell\Last Legacy - Who's Who In Hell_RAW\18_ElecGtr02DI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    19_ElecGtr03.wav:
+      Track_path: Last Legacy - Who's Who In Hell\Last Legacy - Who's Who In Hell_RAW\19_ElecGtr03.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    20_ElecGtr04.wav:
+      Track_path: Last Legacy - Who's Who In Hell\Last Legacy - Who's Who In Hell_RAW\20_ElecGtr04.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    21_ElecGtr05.wav:
+      Track_path: Last Legacy - Who's Who In Hell\Last Legacy - Who's Who In Hell_RAW\21_ElecGtr05.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    22_ElecGtr06.wav:
+      Track_path: Last Legacy - Who's Who In Hell\Last Legacy - Who's Who In Hell_RAW\22_ElecGtr06.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    23_ElecGtr07.wav:
+      Track_path: Last Legacy - Who's Who In Hell\Last Legacy - Who's Who In Hell_RAW\23_ElecGtr07.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Piano: {}
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    24_LeadVox1.wav:
+      Track_path: Last Legacy - Who's Who In Hell\Last Legacy - Who's Who In Hell_RAW\24_LeadVox1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    25_LeadVox1DT1.wav:
+      Track_path: Last Legacy - Who's Who In Hell\Last Legacy - Who's Who In Hell_RAW\25_LeadVox1DT1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    26_LeadVox1DT2.wav:
+      Track_path: Last Legacy - Who's Who In Hell\Last Legacy - Who's Who In Hell_RAW\26_LeadVox1DT2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    27_LeadVox1DT3.wav:
+      Track_path: Last Legacy - Who's Who In Hell\Last Legacy - Who's Who In Hell_RAW\27_LeadVox1DT3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    28_LeadVox1DT4.wav:
+      Track_path: Last Legacy - Who's Who In Hell\Last Legacy - Who's Who In Hell_RAW\28_LeadVox1DT4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    29_LeadVox1DT5.wav:
+      Track_path: Last Legacy - Who's Who In Hell\Last Legacy - Who's Who In Hell_RAW\29_LeadVox1DT5.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    30_LeadVox2.wav:
+      Track_path: Last Legacy - Who's Who In Hell\Last Legacy - Who's Who In Hell_RAW\30_LeadVox2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    31_LeadVox2DT.wav:
+      Track_path: Last Legacy - Who's Who In Hell\Last Legacy - Who's Who In Hell_RAW\31_LeadVox2DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    32_LeadVox3.wav:
+      Track_path: Last Legacy - Who's Who In Hell\Last Legacy - Who's Who In Hell_RAW\32_LeadVox3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    33_LeadVox3DT.wav:
+      Track_path: Last Legacy - Who's Who In Hell\Last Legacy - Who's Who In Hell_RAW\33_LeadVox3DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Choir: {}
+  Backing_Vocal:
+    34_BackingVox1.wav:
+      Track_path: Last Legacy - Who's Who In Hell\Last Legacy - Who's Who In Hell_RAW\34_BackingVox1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    35_BackingVox2.wav:
+      Track_path: Last Legacy - Who's Who In Hell\Last Legacy - Who's Who In Hell_RAW\35_BackingVox2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    36_BackingVox3.wav:
+      Track_path: Last Legacy - Who's Who In Hell\Last Legacy - Who's Who In Hell_RAW\36_BackingVox3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    37_BackingVox4.wav:
+      Track_path: Last Legacy - Who's Who In Hell\Last Legacy - Who's Who In Hell_RAW\37_BackingVox4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    38_BackingVox4DT.wav:
+      Track_path: Last Legacy - Who's Who In Hell\Last Legacy - Who's Who In Hell_RAW\38_BackingVox4DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Unused:
+    09_Tom1.wav:
+      Track_path: Last Legacy - Who's Who In Hell\Last Legacy - Who's Who In Hell_RAW\09_Tom1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    02_KickTrigger.wav:
+      Track_path: Last Legacy - Who's Who In Hell\Last Legacy - Who's Who In Hell_RAW\02_KickTrigger.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    07_SnareTrigger.wav:
+      Track_path: Last Legacy - Who's Who In Hell\Last Legacy - Who's Who In Hell_RAW\07_SnareTrigger.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    04_SnareUp.wav:
+      Track_path: Last Legacy - Who's Who In Hell\Last Legacy - Who's Who In Hell_RAW\04_SnareUp.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    05_SnareDown.wav:
+      Track_path: Last Legacy - Who's Who In Hell\Last Legacy - Who's Who In Hell_RAW\05_SnareDown.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Ambient_Microphone: {}

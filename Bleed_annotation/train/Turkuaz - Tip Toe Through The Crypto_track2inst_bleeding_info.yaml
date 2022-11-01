@@ -1,0 +1,217 @@
+Track2inst:
+  Electric_Organ:
+    Keys-Leslie Bot-M81.wav:
+      Track_path: Turkuaz - Tip Toe Through The Crypto\Turkuaz - Tip Toe Through The
+        Crypto_RAW\Keys-Leslie Bot-M81.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Synthesizer, Electric_Bass, Drum_Overheads, Electric_Guitar, Lead_Vocal, Saxophone, Trumpet'
+      Comment: ''
+    Keys-Leslie Top-M81.wav:
+      Track_path: Turkuaz - Tip Toe Through The Crypto\Turkuaz - Tip Toe Through The
+        Crypto_RAW\Keys-Leslie Top-M81.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Synthesizer, Electric_Bass, Drum_Overheads, Electric_Guitar, Lead_Vocal, Saxophone, Trumpet'
+      Comment: ''
+  Synthesizer:
+    Keys-Amp2-M81.wav:
+      Track_path: Turkuaz - Tip Toe Through The Crypto\Turkuaz - Tip Toe Through The
+        Crypto_RAW\Keys-Amp2-M81.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Electric_Organ, Drum_Overheads, Electric_Guitar, Lead_Vocal, Saxophone, Trumpet'
+      Comment: ''
+  SFX: {}
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    Drums-Kick-421.wav:
+      Track_path: Turkuaz - Tip Toe Through The Crypto\Turkuaz - Tip Toe Through The
+        Crypto_RAW\Drums-Kick-421.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Electric_Bass, Drum_Overheads, Electric_Guitar, Lead_Vocal, Saxophone, Trumpet'
+      Comment: ''
+  Drum_Snare:
+    Drums-Snare Top-M80.wav:
+      Track_path: Turkuaz - Tip Toe Through The Crypto\Turkuaz - Tip Toe Through The
+        Crypto_RAW\Drums-Snare Top-M80.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Synthesizer, Electric_Bass, Drum_Overheads, Electric_Guitar, Lead_Vocal, Saxophone, Trumpet'
+      Comment: ''
+  Drum_HiHat:
+    Drums-Hat-M60.wav:
+      Track_path: Turkuaz - Tip Toe Through The Crypto\Turkuaz - Tip Toe Through The
+        Crypto_RAW\Drums-Hat-M60.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Synthesizer, Electric_Organ, Electric_Bass, Drum_Overheads, Electric_Guitar, Lead_Vocal, Backing_Vocal, Saxophone, Trumpet'
+      Comment: ''
+  Drum_Cymbals: {}
+  Drum_Overheads:
+    Drums-Over-Ar51.wav:
+      Track_path: Turkuaz - Tip Toe Through The Crypto\Turkuaz - Tip Toe Through The
+        Crypto_RAW\Drums-Over-Ar51.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Synthesizer, Electric_Organ, Electric_Bass, Electric_Guitar, Lead_Vocal, Backing_Vocal, Saxophone, Trumpet'
+      Comment: ''
+  Drum_Tom:
+    Drums-Tom1-M81.wav:
+      Track_path: Turkuaz - Tip Toe Through The Crypto\Turkuaz - Tip Toe Through The
+        Crypto_RAW\Drums-Tom1-M81.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Synthesizer, Electric_Organ, Electric_Bass, Drum_Overheads, Electric_Guitar, Lead_Vocal, Backing_Vocal, Saxophone, Trumpet'
+      Comment: ''
+    Drums-Tom2-M81.wav:
+      Track_path: Turkuaz - Tip Toe Through The Crypto\Turkuaz - Tip Toe Through The
+        Crypto_RAW\Drums-Tom2-M81.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Synthesizer, Electric_Organ, Electric_Bass, Drum_Overheads, Electric_Guitar, Lead_Vocal, Backing_Vocal, Saxophone, Trumpet'
+      Comment: ''
+  Drum_Room: {}
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop: {}
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass: {}
+  Electric_Bass:
+    Bass-Amp-Ak47.wav:
+      Track_path: Turkuaz - Tip Toe Through The Crypto\Turkuaz - Tip Toe Through The
+        Crypto_RAW\Bass-Amp-Ak47.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Synthesizer, Electric_Organ, Drum_Overheads, Electric_Guitar, Lead_Vocal, Backing_Vocal, Saxophone, Trumpet'
+      Comment: ''
+    Bass-DI.wav:
+      Track_path: Turkuaz - Tip Toe Through The Crypto\Turkuaz - Tip Toe Through The
+        Crypto_RAW\Bass-DI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Acoustic_Guitar: {}
+  Electric_Guitar:
+    CRAIGTR_02-02.wav:
+      Track_path: Turkuaz - Tip Toe Through The Crypto\Turkuaz - Tip Toe Through The
+        Crypto_RAW\CRAIGTR_02-02.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Synthesizer, Electric_Organ, Electric_Bass, Drum_Overheads, Lead_Vocal, Backing_Vocal, Saxophone, Trumpet'
+      Comment: ''
+    Guitar-Dave-M81.wav:
+      Track_path: Turkuaz - Tip Toe Through The Crypto\Turkuaz - Tip Toe Through The
+        Crypto_RAW\Guitar-Dave-M81.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Synthesizer, Electric_Organ, Electric_Bass, Drum_Overheads, Lead_Vocal, Backing_Vocal, Saxophone, Trumpet'
+      Comment: ''
+  Piano: {}
+  Electric_Piano:
+    Keys-Amp-M81.wav:
+      Track_path: Turkuaz - Tip Toe Through The Crypto\Turkuaz - Tip Toe Through The
+        Crypto_RAW\Keys-Amp-M81.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Synthesizer, Electric_Organ, Electric_Bass, Drum_Overheads, Electric_Guitar, Lead_Vocal, Backing_Vocal, Saxophone, Trumpet'
+      Comment: ''
+  Brass_Section: {}
+  Saxophone:
+    Horns-Bari-M81.wav:
+      Track_path: Turkuaz - Tip Toe Through The Crypto\Turkuaz - Tip Toe Through The
+        Crypto_RAW\Horns-Bari-M81.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Synthesizer, Electric_Organ, Electric_Bass, Drum_Overheads, Electric_Guitar, Lead_Vocal, Backing_Vocal, Trumpet'
+      Comment: ''
+    Horns-Tenor-M81.wav:
+      Track_path: Turkuaz - Tip Toe Through The Crypto\Turkuaz - Tip Toe Through The
+        Crypto_RAW\Horns-Tenor-M81.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Synthesizer, Electric_Organ, Electric_Bass, Drum_Overheads, Electric_Guitar, Lead_Vocal, Backing_Vocal, Trumpet'
+      Comment: ''
+  Trumpet:
+    Horns-Trumpet-M81.wav:
+      Track_path: Turkuaz - Tip Toe Through The Crypto\Turkuaz - Tip Toe Through The
+        Crypto_RAW\Horns-Trumpet-M81.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Synthesizer, Electric_Organ, Electric_Bass, Drum_Overheads, Electric_Guitar, Lead_Vocal, Backing_Vocal, Saxophone'
+      Comment: ''
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    Vocals-Sammi-M81.wav:
+      Track_path: Turkuaz - Tip Toe Through The Crypto\Turkuaz - Tip Toe Through The
+        Crypto_RAW\Vocals-Sammi-M81.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Synthesizer, Electric_Organ, Electric_Bass, Drum_Overheads, Electric_Guitar, Backing_Vocal, Saxophone, Trumpet'
+      Comment: ''
+  Choir: {}
+  Backing_Vocal:
+    Vocals-Dave-M80.wav:
+      Track_path: Turkuaz - Tip Toe Through The Crypto\Turkuaz - Tip Toe Through The
+        Crypto_RAW\Vocals-Dave-M80.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Synthesizer, Electric_Organ, Electric_Bass, Drum_Overheads, Electric_Guitar, Lead_Vocal, Saxophone, Trumpet'
+      Comment: ''
+    Vocals-Geneva-M81.wav:
+      Track_path: Turkuaz - Tip Toe Through The Crypto\Turkuaz - Tip Toe Through The
+        Crypto_RAW\Vocals-Geneva-M81.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Synthesizer, Electric_Organ, Electric_Bass, Drum_Overheads, Electric_Guitar, Lead_Vocal, Saxophone, Trumpet'
+      Comment: ''
+  Unused:
+    KEYS3DI_02-02.wav:
+      Track_path: Turkuaz - Tip Toe Through The Crypto\Turkuaz - Tip Toe Through The
+        Crypto_RAW\KEYS3DI_02-02.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: ''
+      Comment: ''
+    JOSH VOX_02-02.wav:
+      Track_path: Turkuaz - Tip Toe Through The Crypto\Turkuaz - Tip Toe Through The
+        Crypto_RAW\JOSH VOX_02-02.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Ambient_Microphone:
+    Room-M81.wav:
+      Track_path: Turkuaz - Tip Toe Through The Crypto\Turkuaz - Tip Toe Through The
+        Crypto_RAW\Room-M81.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Chamber-Ar70.wav:
+      Track_path: Turkuaz - Tip Toe Through The Crypto\Turkuaz - Tip Toe Through The
+        Crypto_RAW\Chamber-Ar70.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: ''
+      Comment: ''

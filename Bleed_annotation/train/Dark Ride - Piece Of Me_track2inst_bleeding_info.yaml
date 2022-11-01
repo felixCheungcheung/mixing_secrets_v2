@@ -1,0 +1,228 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer:
+    25_Synth.wav:
+      Track_path: Dark Ride - Piece Of Me\Dark Ride - Piece Of Me_RAW\25_Synth.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  SFX:
+    27_SFXIntro.wav:
+      Track_path: Dark Ride - Piece Of Me\Dark Ride - Piece Of Me_RAW\27_SFXIntro.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    01_KickMic1.wav:
+      Track_path: Dark Ride - Piece Of Me\Dark Ride - Piece Of Me_RAW\01_KickMic1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    02_KickMic2.wav:
+      Track_path: Dark Ride - Piece Of Me\Dark Ride - Piece Of Me_RAW\02_KickMic2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    03_KickSample.wav:
+      Track_path: Dark Ride - Piece Of Me\Dark Ride - Piece Of Me_RAW\03_KickSample.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Snare:
+    04_SnareUpMic1.wav:
+      Track_path: Dark Ride - Piece Of Me\Dark Ride - Piece Of Me_RAW\04_SnareUpMic1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    05_SnareUpMic2.wav:
+      Track_path: Dark Ride - Piece Of Me\Dark Ride - Piece Of Me_RAW\05_SnareUpMic2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    06_SnareSample.wav:
+      Track_path: Dark Ride - Piece Of Me\Dark Ride - Piece Of Me_RAW\06_SnareSample.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_HiHat:
+    08_HiHat.wav:
+      Track_path: Dark Ride - Piece Of Me\Dark Ride - Piece Of Me_RAW\08_HiHat.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Cymbals: {}
+  Drum_Overheads:
+    13_Overheads.wav:
+      Track_path: Dark Ride - Piece Of Me\Dark Ride - Piece Of Me_RAW\13_Overheads.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Tom:
+    09_Tom1.wav:
+      Track_path: Dark Ride - Piece Of Me\Dark Ride - Piece Of Me_RAW\09_Tom1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    10_Tom2.wav:
+      Track_path: Dark Ride - Piece Of Me\Dark Ride - Piece Of Me_RAW\10_Tom2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    11_Tom3.wav:
+      Track_path: Dark Ride - Piece Of Me\Dark Ride - Piece Of Me_RAW\11_Tom3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    12_Tom4.wav:
+      Track_path: Dark Ride - Piece Of Me\Dark Ride - Piece Of Me_RAW\12_Tom4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Room:
+    14_DrumsRoom.wav:
+      Track_path: Dark Ride - Piece Of Me\Dark Ride - Piece Of Me_RAW\14_DrumsRoom.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop: {}
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass: {}
+  Electric_Bass:
+    15_Bass.wav:
+      Track_path: Dark Ride - Piece Of Me\Dark Ride - Piece Of Me_RAW\15_Bass.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Acoustic_Guitar:
+    23_AcousticGtr.wav:
+      Track_path: Dark Ride - Piece Of Me\Dark Ride - Piece Of Me_RAW\23_AcousticGtr.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Electric_Guitar:
+    16_ElecGtr1.wav:
+      Track_path: Dark Ride - Piece Of Me\Dark Ride - Piece Of Me_RAW\16_ElecGtr1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    17_ElecGtr2.wav:
+      Track_path: Dark Ride - Piece Of Me\Dark Ride - Piece Of Me_RAW\17_ElecGtr2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    18_ElecGtr3.wav:
+      Track_path: Dark Ride - Piece Of Me\Dark Ride - Piece Of Me_RAW\18_ElecGtr3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    19_ElecGtr4.wav:
+      Track_path: Dark Ride - Piece Of Me\Dark Ride - Piece Of Me_RAW\19_ElecGtr4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    20_ElecGtr5.wav:
+      Track_path: Dark Ride - Piece Of Me\Dark Ride - Piece Of Me_RAW\20_ElecGtr5.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    21_ElecGtr6.wav:
+      Track_path: Dark Ride - Piece Of Me\Dark Ride - Piece Of Me_RAW\21_ElecGtr6.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    22_ElecGtr7.wav:
+      Track_path: Dark Ride - Piece Of Me\Dark Ride - Piece Of Me_RAW\22_ElecGtr7.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Piano:
+    24_Piano.wav:
+      Track_path: Dark Ride - Piece Of Me\Dark Ride - Piece Of Me_RAW\24_Piano.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section:
+    26_Strings.wav:
+      Track_path: Dark Ride - Piece Of Me\Dark Ride - Piece Of Me_RAW\26_Strings.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    28_LeadVox1.wav:
+      Track_path: Dark Ride - Piece Of Me\Dark Ride - Piece Of Me_RAW\28_LeadVox1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    29_LeadVox2.wav:
+      Track_path: Dark Ride - Piece Of Me\Dark Ride - Piece Of Me_RAW\29_LeadVox2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    30_LeadVox3.wav:
+      Track_path: Dark Ride - Piece Of Me\Dark Ride - Piece Of Me_RAW\30_LeadVox3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Choir: {}
+  Backing_Vocal:
+    31_BackingVox.wav:
+      Track_path: Dark Ride - Piece Of Me\Dark Ride - Piece Of Me_RAW\31_BackingVox.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Unused:
+    07_SnareDown.wav:
+      Track_path: Dark Ride - Piece Of Me\Dark Ride - Piece Of Me_RAW\07_SnareDown.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Ambient_Microphone: {}

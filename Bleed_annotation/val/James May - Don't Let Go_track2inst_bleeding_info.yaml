@@ -1,0 +1,138 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer: {}
+  SFX: {}
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick: {}
+  Drum_Snare: {}
+  Drum_HiHat: {}
+  Drum_Cymbals:
+    04_Cymbal.wav:
+      Track_path: James May - Don't Let Go\James May - Don't Let Go_RAW\04_Cymbal.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Overheads: {}
+  Drum_Tom: {}
+  Drum_Room: {}
+  Shaker:
+    03_Shakers.wav:
+      Track_path: James May - Don't Let Go\James May - Don't Let Go_RAW\03_Shakers.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop: {}
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass: {}
+  Electric_Bass:
+    05_BassDI.wav:
+      Track_path: James May - Don't Let Go\James May - Don't Let Go_RAW\05_BassDI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Acoustic_Guitar:
+    07_AcousticGtr1.wav:
+      Track_path: James May - Don't Let Go\James May - Don't Let Go_RAW\07_AcousticGtr1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    08_AcousticGtr2.wav:
+      Track_path: James May - Don't Let Go\James May - Don't Let Go_RAW\08_AcousticGtr2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    09_AcousticGtr3.wav:
+      Track_path: James May - Don't Let Go\James May - Don't Let Go_RAW\09_AcousticGtr3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Electric_Guitar: {}
+  Piano:
+    10_Piano.wav:
+      Track_path: James May - Don't Let Go\James May - Don't Let Go_RAW\10_Piano.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute:
+    11_Flute1.wav:
+      Track_path: James May - Don't Let Go\James May - Don't Let Go_RAW\11_Flute1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    12_Flute2.wav:
+      Track_path: James May - Don't Let Go\James May - Don't Let Go_RAW\12_Flute2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    13_LeadVox.wav:
+      Track_path: James May - Don't Let Go\James May - Don't Let Go_RAW\13_LeadVox.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Choir: {}
+  Backing_Vocal: {}
+  Unused: {}
+  Ambient_Microphone:
+    06_BassMic.wav:
+      Track_path: James May - Don't Let Go\James May - Don't Let Go_RAW\06_BassMic.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Conga'
+      Comment: 'BassMic Conga has leakage'
+    01_CongaMic1.wav:
+      Track_path: James May - Don't Let Go\James May - Don't Let Go_RAW\01_CongaMic1.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Bass'
+      Comment: 'BassMic Conga has leakage'
+    02_CongaMic2.wav:
+      Track_path: James May - Don't Let Go\James May - Don't Let Go_RAW\02_CongaMic2.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Bass'
+      Comment: 'BassMic Conga has leakage'

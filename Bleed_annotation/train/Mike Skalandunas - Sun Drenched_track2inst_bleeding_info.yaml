@@ -1,0 +1,168 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer:
+    11_Pad1.wav:
+      Track_path: Mike Skalandunas - Sun Drenched\Mike Skalandunas - Sun Drenched_RAW\11_Pad1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    12_Pad2.wav:
+      Track_path: Mike Skalandunas - Sun Drenched\Mike Skalandunas - Sun Drenched_RAW\12_Pad2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  SFX: {}
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp:
+    07_Harp.wav:
+      Track_path: Mike Skalandunas - Sun Drenched\Mike Skalandunas - Sun Drenched_RAW\07_Harp.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    08_HarpHarmonics.wav:
+      Track_path: Mike Skalandunas - Sun Drenched\Mike Skalandunas - Sun Drenched_RAW\08_HarpHarmonics.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    10_Psaltery.wav:
+      Track_path: Mike Skalandunas - Sun Drenched\Mike Skalandunas - Sun Drenched_RAW\10_Psaltery.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Harmonica: {}
+  Triangle: {}
+  Chimes:
+    05_Percussion2.wav:
+      Track_path: Mike Skalandunas - Sun Drenched\Mike Skalandunas - Sun Drenched_RAW\05_Percussion2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Other_Chromatic: {}
+  Drum_Kick: {}
+  Drum_Snare: {}
+  Drum_HiHat: {}
+  Drum_Cymbals: {}
+  Drum_Overheads: {}
+  Drum_Tom: {}
+  Drum_Room: {}
+  Shaker: {}
+  Taiko:
+    01_Daiko.wav:
+      Track_path: Mike Skalandunas - Sun Drenched\Mike Skalandunas - Sun Drenched_RAW\01_Daiko.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop: {}
+  Clicks: {}
+  Claps: {}
+  Djembe:
+    03_MalaysianDjembe.wav:
+      Track_path: Mike Skalandunas - Sun Drenched\Mike Skalandunas - Sun Drenched_RAW\03_MalaysianDjembe.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion:
+    02_RomanWarDrum.wav:
+      Track_path: Mike Skalandunas - Sun Drenched\Mike Skalandunas - Sun Drenched_RAW\02_RomanWarDrum.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    04_Percussion1.wav:
+      Track_path: Mike Skalandunas - Sun Drenched\Mike Skalandunas - Sun Drenched_RAW\04_Percussion1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    06_Percussion3.wav:
+      Track_path: Mike Skalandunas - Sun Drenched\Mike Skalandunas - Sun Drenched_RAW\06_Percussion3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Synth_Bass: {}
+  Electric_Bass: {}
+  Acoustic_Guitar: {}
+  Electric_Guitar: {}
+  Piano:
+    09_Piano.wav:
+      Track_path: Mike Skalandunas - Sun Drenched\Mike Skalandunas - Sun Drenched_RAW\09_Piano.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn:
+    18_FrenchHorn1.wav:
+      Track_path: Mike Skalandunas - Sun Drenched\Mike Skalandunas - Sun Drenched_RAW\18_FrenchHorn1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    19_FrenchHorn2.wav:
+      Track_path: Mike Skalandunas - Sun Drenched\Mike Skalandunas - Sun Drenched_RAW\19_FrenchHorn2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Trombone:
+    16_Trombone.wav:
+      Track_path: Mike Skalandunas - Sun Drenched\Mike Skalandunas - Sun Drenched_RAW\16_Trombone.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Tuba:
+    17_Tuba.wav:
+      Track_path: Mike Skalandunas - Sun Drenched\Mike Skalandunas - Sun Drenched_RAW\17_Tuba.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin:
+    13_Violins1.wav:
+      Track_path: Mike Skalandunas - Sun Drenched\Mike Skalandunas - Sun Drenched_RAW\13_Violins1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    14_Violins2.wav:
+      Track_path: Mike Skalandunas - Sun Drenched\Mike Skalandunas - Sun Drenched_RAW\14_Violins2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Viola:
+    15_Violas.wav:
+      Track_path: Mike Skalandunas - Sun Drenched\Mike Skalandunas - Sun Drenched_RAW\15_Violas.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal: {}
+  Choir: {}
+  Backing_Vocal: {}
+  Unused: {}
+  Ambient_Microphone: {}

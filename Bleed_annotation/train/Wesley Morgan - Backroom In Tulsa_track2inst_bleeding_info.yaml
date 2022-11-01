@@ -1,0 +1,178 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer: {}
+  SFX: {}
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    01_KickFront.wav:
+      Track_path: Wesley Morgan - Backroom In Tulsa\Wesley Morgan - Backroom In Tulsa_RAW\01_KickFront.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    02_KickBack.wav:
+      Track_path: Wesley Morgan - Backroom In Tulsa\Wesley Morgan - Backroom In Tulsa_RAW\02_KickBack.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_Snare:
+    03_Snare.wav:
+      Track_path: Wesley Morgan - Backroom In Tulsa\Wesley Morgan - Backroom In Tulsa_RAW\03_Snare.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_HiHat:
+    04_Hat.wav:
+      Track_path: Wesley Morgan - Backroom In Tulsa\Wesley Morgan - Backroom In Tulsa_RAW\04_Hat.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_Cymbals: {}
+  Drum_Overheads:
+    07_Overheads.wav:
+      Track_path: Wesley Morgan - Backroom In Tulsa\Wesley Morgan - Backroom In Tulsa_RAW\07_Overheads.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Tom:
+    05_Tom1.wav:
+      Track_path: Wesley Morgan - Backroom In Tulsa\Wesley Morgan - Backroom In Tulsa_RAW\05_Tom1.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    06_Tom2.wav:
+      Track_path: Wesley Morgan - Backroom In Tulsa\Wesley Morgan - Backroom In Tulsa_RAW\06_Tom2.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_Room:
+    08_RoomMono1.wav:
+      Track_path: Wesley Morgan - Backroom In Tulsa\Wesley Morgan - Backroom In Tulsa_RAW\08_RoomMono1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    09_RoomMono2.wav:
+      Track_path: Wesley Morgan - Backroom In Tulsa\Wesley Morgan - Backroom In Tulsa_RAW\09_RoomMono2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    10_RoomStereo.wav:
+      Track_path: Wesley Morgan - Backroom In Tulsa\Wesley Morgan - Backroom In Tulsa_RAW\10_RoomStereo.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop: {}
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass: {}
+  Electric_Bass: {}
+  Acoustic_Guitar:
+    16_AcousticGtr.wav:
+      Track_path: Wesley Morgan - Backroom In Tulsa\Wesley Morgan - Backroom In Tulsa_RAW\16_AcousticGtr.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Electric_Guitar:
+    15_PedalSteel.wav:
+      Track_path: Wesley Morgan - Backroom In Tulsa\Wesley Morgan - Backroom In Tulsa_RAW\15_PedalSteel.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    17_ElecGtr1.wav:
+      Track_path: Wesley Morgan - Backroom In Tulsa\Wesley Morgan - Backroom In Tulsa_RAW\17_ElecGtr1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    18_ElecGtr2Close.wav:
+      Track_path: Wesley Morgan - Backroom In Tulsa\Wesley Morgan - Backroom In Tulsa_RAW\18_ElecGtr2Close.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    19_ElecGtr2Far.wav:
+      Track_path: Wesley Morgan - Backroom In Tulsa\Wesley Morgan - Backroom In Tulsa_RAW\19_ElecGtr2Far.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Piano:
+    14_Piano.wav:
+      Track_path: Wesley Morgan - Backroom In Tulsa\Wesley Morgan - Backroom In Tulsa_RAW\14_Piano.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass:
+    11_BassDI.wav:
+      Track_path: Wesley Morgan - Backroom In Tulsa\Wesley Morgan - Backroom In Tulsa_RAW\11_BassDI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    12_BassMic1.wav:
+      Track_path: Wesley Morgan - Backroom In Tulsa\Wesley Morgan - Backroom In Tulsa_RAW\12_BassMic1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    13_BassMic2.wav:
+      Track_path: Wesley Morgan - Backroom In Tulsa\Wesley Morgan - Backroom In Tulsa_RAW\13_BassMic2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    21_LeadVox.wav:
+      Track_path: Wesley Morgan - Backroom In Tulsa\Wesley Morgan - Backroom In Tulsa_RAW\21_LeadVox.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Choir: {}
+  Backing_Vocal: {}
+  Unused:
+    20_LeadVoxScratch.wav:
+      Track_path: Wesley Morgan - Backroom In Tulsa\Wesley Morgan - Backroom In Tulsa_RAW\20_LeadVoxScratch.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Ambient_Microphone: {}

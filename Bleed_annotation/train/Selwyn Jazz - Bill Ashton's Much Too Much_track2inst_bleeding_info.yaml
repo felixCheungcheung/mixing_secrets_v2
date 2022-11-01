@@ -1,0 +1,163 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer: {}
+  SFX: {}
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    01_Kick.wav:
+      Track_path: Selwyn Jazz - Bill Ashton's Much Too Much\Selwyn Jazz - Bill Ashton's
+        Much Too Much_RAW\01_Kick.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Electric_Bass, Piano, Drum_Overheads, Saxophone, Trumpet, Trombone'
+      Comment: ''
+  Drum_Snare:
+    02_Snare.wav:
+      Track_path: Selwyn Jazz - Bill Ashton's Much Too Much\Selwyn Jazz - Bill Ashton's
+        Much Too Much_RAW\02_Snare.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Electric_Bass, Piano, Drum_Overheads, Saxophone, Trumpet, Trombone'
+      Comment: ''
+  Drum_HiHat: {}
+  Drum_Cymbals: {}
+  Drum_Overheads:
+    03_Overheads.wav:
+      Track_path: Selwyn Jazz - Bill Ashton's Much Too Much\Selwyn Jazz - Bill Ashton's
+        Much Too Much_RAW\03_Overheads.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Electric_Bass, Piano, Saxophone, Trumpet, Trombone'
+      Comment: ''
+  Drum_Tom: {}
+  Drum_Room:
+    13_Room.wav:
+      Track_path: Selwyn Jazz - Bill Ashton's Much Too Much\Selwyn Jazz - Bill Ashton's
+        Much Too Much_RAW\13_Room.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Electric_Bass, Piano, Saxophone, Trumpet, Trombone'
+      Comment: ''
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop: {}
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass: {}
+  Electric_Bass:
+    04_Bass.wav:
+      Track_path: Selwyn Jazz - Bill Ashton's Much Too Much\Selwyn Jazz - Bill Ashton's
+        Much Too Much_RAW\04_Bass.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads, Saxophone, Trumpet, Trombone'
+      Comment: ''
+  Acoustic_Guitar: {}
+  Electric_Guitar:
+    05_Guitar.wav:
+      Track_path: Selwyn Jazz - Bill Ashton's Much Too Much\Selwyn Jazz - Bill Ashton's
+        Much Too Much_RAW\05_Guitar.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Electric_Bass, Drum_Overheads, Piano, Saxophone, Trumpet, Trombone'
+      Comment: ''
+  Piano:
+    06_Piano.wav:
+      Track_path: Selwyn Jazz - Bill Ashton's Much Too Much\Selwyn Jazz - Bill Ashton's
+        Much Too Much_RAW\06_Piano.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Electric_Bass, Drum_Overheads, Saxophone, Trumpet, Trombone'
+      Comment: ''
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone:
+    07_Saxophone1.wav:
+      Track_path: Selwyn Jazz - Bill Ashton's Much Too Much\Selwyn Jazz - Bill Ashton's
+        Much Too Much_RAW\07_Saxophone1.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Electric_Bass, Drum_Overheads, Trumpet, Trombone, Piano'
+      Comment: ''
+    08_Saxophone2.wav:
+      Track_path: Selwyn Jazz - Bill Ashton's Much Too Much\Selwyn Jazz - Bill Ashton's
+        Much Too Much_RAW\08_Saxophone2.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Electric_Bass, Drum_Overheads, Trumpet, Trombone, Piano'
+      Comment: ''
+    09_Saxophone3.wav:
+      Track_path: Selwyn Jazz - Bill Ashton's Much Too Much\Selwyn Jazz - Bill Ashton's
+        Much Too Much_RAW\09_Saxophone3.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Electric_Bass, Drum_Overheads, Trumpet, Trombone, Piano'
+      Comment: ''
+  Trumpet:
+    10_Trumpet1.wav:
+      Track_path: Selwyn Jazz - Bill Ashton's Much Too Much\Selwyn Jazz - Bill Ashton's
+        Much Too Much_RAW\10_Trumpet1.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Electric_Bass, Drum_Overheads, Saxophone, Trombone'
+      Comment: ''
+    11_Trumpet2.wav:
+      Track_path: Selwyn Jazz - Bill Ashton's Much Too Much\Selwyn Jazz - Bill Ashton's
+        Much Too Much_RAW\11_Trumpet2.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Electric_Bass, Drum_Overheads, Saxophone, Trombone'
+      Comment: ''
+  French_Horn: {}
+  Trombone:
+    12_Trombone.wav:
+      Track_path: Selwyn Jazz - Bill Ashton's Much Too Much\Selwyn Jazz - Bill Ashton's
+        Much Too Much_RAW\12_Trombone.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Electric_Bass, Drum_Overheads, Saxophone, Trumpet'
+      Comment: ''
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    14_LeadVoxScratch.wav:
+      Track_path: Selwyn Jazz - Bill Ashton's Much Too Much\Selwyn Jazz - Bill Ashton's
+        Much Too Much_RAW\14_LeadVoxScratch.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    15_LeadVoxOverdub.wav:
+      Track_path: Selwyn Jazz - Bill Ashton's Much Too Much\Selwyn Jazz - Bill Ashton's
+        Much Too Much_RAW\15_LeadVoxOverdub.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Choir: {}
+  Backing_Vocal: {}
+  Unused: {}
+  Ambient_Microphone: {}

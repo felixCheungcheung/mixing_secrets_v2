@@ -1,0 +1,330 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer:
+    Clavinet Riff.wav:
+      Track_path: Banda Magda - Mouche\Banda Magda - Mouche_RAW\Clavinet Riff.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  SFX: {}
+  Marimba:
+    Marimba 1.wav:
+      Track_path: Banda Magda - Mouche\Banda Magda - Mouche_RAW\Marimba 1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Marimba 2.wav:
+      Track_path: Banda Magda - Mouche\Banda Magda - Mouche_RAW\Marimba 2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Bell:
+    Bells.wav:
+      Track_path: Banda Magda - Mouche\Banda Magda - Mouche_RAW\Bells.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Cowbell.wav:
+      Track_path: Banda Magda - Mouche\Banda Magda - Mouche_RAW\Cowbell.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: 
+    Agogo.wav:
+      Track_path: Banda Magda - Mouche\Banda Magda - Mouche_RAW\Agogo.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Kick:
+    KICK AKG414.wav:
+      Track_path: Banda Magda - Mouche\Banda Magda - Mouche_RAW\KICK AKG414.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads'
+      Comment: ''
+    KICK D112.wav:
+      Track_path: Banda Magda - Mouche\Banda Magda - Mouche_RAW\KICK D112.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads'
+      Comment: ''
+    KICK SM57.wav:
+      Track_path: Banda Magda - Mouche\Banda Magda - Mouche_RAW\KICK SM57.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads'
+      Comment: ''
+    Electronic Bass Drum.wav:
+      Track_path: Banda Magda - Mouche\Banda Magda - Mouche_RAW\Electronic Bass Drum.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Snare: {}
+  Drum_HiHat: {}
+  Drum_Cymbals:
+    Cymbal Hit.wav:
+      Track_path: Banda Magda - Mouche\Banda Magda - Mouche_RAW\Cymbal Hit.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Cymbal.wav:
+      Track_path: Banda Magda - Mouche\Banda Magda - Mouche_RAW\Cymbal.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Overheads:
+    Overhead Snare side.wav:
+      Track_path: Banda Magda - Mouche\Banda Magda - Mouche_RAW\Overhead Snare side.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Overhead Tom Side.wav:
+      Track_path: Banda Magda - Mouche\Banda Magda - Mouche_RAW\Overhead Tom Side.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Tom: {}
+  Drum_Room: {}
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga:
+    Congas.wav:
+      Track_path: Banda Magda - Mouche\Banda Magda - Mouche_RAW\Congas.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine:
+    Tambourine.wav:
+      Track_path: Banda Magda - Mouche\Banda Magda - Mouche_RAW\Tambourine.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Loop: {}
+  Clicks: {}
+  Claps:
+    Claps 1.wav:
+      Track_path: Banda Magda - Mouche\Banda Magda - Mouche_RAW\Claps 1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Claps 2.wav:
+      Track_path: Banda Magda - Mouche\Banda Magda - Mouche_RAW\Claps 2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Claps 3.wav:
+      Track_path: Banda Magda - Mouche\Banda Magda - Mouche_RAW\Claps 3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Claps 4.wav:
+      Track_path: Banda Magda - Mouche\Banda Magda - Mouche_RAW\Claps 4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Djembe:
+    "Djemb\xE9 Top.wav":
+      Track_path: "Banda Magda - Mouche\\Banda Magda - Mouche_RAW\\Djemb\xE9 Top.wav"
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    "Djemb\xE9 Bottom.wav":
+      Track_path: "Banda Magda - Mouche\\Banda Magda - Mouche_RAW\\Djemb\xE9 Bottom.wav"
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro:
+    Pandeiro.wav:
+      Track_path: Banda Magda - Mouche\Banda Magda - Mouche_RAW\Pandeiro.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Percussion:
+    African Kit.wav:
+      Track_path: Banda Magda - Mouche\Banda Magda - Mouche_RAW\African Kit.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Tabla.wav:
+      Track_path: Banda Magda - Mouche\Banda Magda - Mouche_RAW\Tabla.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Vox Percussion 2.wav:
+      Track_path: Banda Magda - Mouche\Banda Magda - Mouche_RAW\Vox Percussion 2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Vocal Percussion 1.wav:
+      Track_path: Banda Magda - Mouche\Banda Magda - Mouche_RAW\Vocal Percussion 1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Vocal Percussion 3.wav:
+      Track_path: Banda Magda - Mouche\Banda Magda - Mouche_RAW\Vocal Percussion 3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Synth_Bass: {}
+  Electric_Bass: {}
+  Acoustic_Guitar: {}
+  Electric_Guitar:
+    Guitar Elec 1.wav:
+      Track_path: Banda Magda - Mouche\Banda Magda - Mouche_RAW\Guitar Elec 1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Guitar Elec 2.wav:
+      Track_path: Banda Magda - Mouche\Banda Magda - Mouche_RAW\Guitar Elec 2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Guitar Steel String 1.wav:
+      Track_path: Banda Magda - Mouche\Banda Magda - Mouche_RAW\Guitar Steel String
+        1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Guitar Steel String 2.wav:
+      Track_path: Banda Magda - Mouche\Banda Magda - Mouche_RAW\Guitar Steel String
+        2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Piano: {}
+  Electric_Piano:
+    Celesta.wav:
+      Track_path: Banda Magda - Mouche\Banda Magda - Mouche_RAW\Celesta.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass:
+    BAss U87.wav:
+      Track_path: Banda Magda - Mouche\Banda Magda - Mouche_RAW\BAss U87.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    Lead Dbe 1.wav:
+      Track_path: Banda Magda - Mouche\Banda Magda - Mouche_RAW\Lead Dbe 1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Lead Dble 2.wav:
+      Track_path: Banda Magda - Mouche\Banda Magda - Mouche_RAW\Lead Dble 2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Lead Dble 3.wav:
+      Track_path: Banda Magda - Mouche\Banda Magda - Mouche_RAW\Lead Dble 3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Lead Dble 4.wav:
+      Track_path: Banda Magda - Mouche\Banda Magda - Mouche_RAW\Lead Dble 4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Lead Vox.wav:
+      Track_path: Banda Magda - Mouche\Banda Magda - Mouche_RAW\Lead Vox.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Choir: {}
+  Backing_Vocal:
+    Back Vox 1.wav:
+      Track_path: Banda Magda - Mouche\Banda Magda - Mouche_RAW\Back Vox 1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Back Vox 2.wav:
+      Track_path: Banda Magda - Mouche\Banda Magda - Mouche_RAW\Back Vox 2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    BAck Vox 3.wav:
+      Track_path: Banda Magda - Mouche\Banda Magda - Mouche_RAW\BAck Vox 3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Back Vox Buzz.wav:
+      Track_path: Banda Magda - Mouche\Banda Magda - Mouche_RAW\Back Vox Buzz.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Back Vox Interlude 1.wav:
+      Track_path: Banda Magda - Mouche\Banda Magda - Mouche_RAW\Back Vox Interlude
+        1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Back Vox Interlude 2.wav:
+      Track_path: Banda Magda - Mouche\Banda Magda - Mouche_RAW\Back Vox Interlude
+        2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Back Vox Interlude 3.wav:
+      Track_path: Banda Magda - Mouche\Banda Magda - Mouche_RAW\Back Vox Interlude
+        3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Back Vox Interlude 4.wav:
+      Track_path: Banda Magda - Mouche\Banda Magda - Mouche_RAW\Back Vox Interlude
+        4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Back Vox Interlude Extra Stereo.wav:
+      Track_path: Banda Magda - Mouche\Banda Magda - Mouche_RAW\Back Vox Interlude
+        Extra Stereo.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Back Vox Touloulou.wav:
+      Track_path: Banda Magda - Mouche\Banda Magda - Mouche_RAW\Back Vox Touloulou.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Unused:
+    Vibes.wav:
+      Track_path: Banda Magda - Mouche\Banda Magda - Mouche_RAW\Vibes.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Ambient_Microphone: {}

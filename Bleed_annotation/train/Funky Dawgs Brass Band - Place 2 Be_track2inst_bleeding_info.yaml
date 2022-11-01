@@ -1,0 +1,223 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer: {}
+  SFX: {}
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    Drums-Kick In-M82.wav:
+      Track_path: Funky Dawgs Brass Band - Place 2 Be\Funky Dawgs Brass Band - Place
+        2 Be_RAW\Drums-Kick In-M82.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads, Saxophone, Trumpet'
+      Comment: ''
+    Drums-Kick Out-U48.wav:
+      Track_path: Funky Dawgs Brass Band - Place 2 Be\Funky Dawgs Brass Band - Place
+        2 Be_RAW\Drums-Kick Out-U48.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads, Saxophone, Trumpet'
+      Comment: ''
+  Drum_Snare:
+    Drums-Snare Bottom-M80.wav:
+      Track_path: Funky Dawgs Brass Band - Place 2 Be\Funky Dawgs Brass Band - Place
+        2 Be_RAW\Drums-Snare Bottom-M80.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads, Saxophone, Trumpet'
+      Comment: ''
+    Drums-Snare Top-M81.wav:
+      Track_path: Funky Dawgs Brass Band - Place 2 Be\Funky Dawgs Brass Band - Place
+        2 Be_RAW\Drums-Snare Top-M81.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads, Saxophone, Trumpet'
+      Comment: ''
+  Drum_HiHat: {}
+  Drum_Cymbals: {}
+  Drum_Overheads:
+    Drums-Overhead-M60.wav:
+      Track_path: Funky Dawgs Brass Band - Place 2 Be\Funky Dawgs Brass Band - Place
+        2 Be_RAW\Drums-Overhead-M60.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Saxophone, Trumpet'
+      Comment: ''
+    Drums-Rack-M80.wav:
+      Track_path: Funky Dawgs Brass Band - Place 2 Be\Funky Dawgs Brass Band - Place
+        2 Be_RAW\Drums-Rack-M80.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Saxophone, Trumpet'
+      Comment: ''
+  Drum_Tom:
+    Drums-Floor-M81.wav:
+      Track_path: Funky Dawgs Brass Band - Place 2 Be\Funky Dawgs Brass Band - Place
+        2 Be_RAW\Drums-Floor-M81.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads, Saxophone, Trumpet'
+      Comment: ''
+  Drum_Room: {}
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop: {}
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion:
+    Percussion-1-M81.wav:
+      Track_path: Funky Dawgs Brass Band - Place 2 Be\Funky Dawgs Brass Band - Place
+        2 Be_RAW\Percussion-1-M81.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads, Saxophone, Trumpet'
+      Comment: ''
+    Percussion-2-M81.wav:
+      Track_path: Funky Dawgs Brass Band - Place 2 Be\Funky Dawgs Brass Band - Place
+        2 Be_RAW\Percussion-2-M81.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads, Saxophone, Trumpet'
+      Comment: ''
+    Percussion-3-M81.wav:
+      Track_path: Funky Dawgs Brass Band - Place 2 Be\Funky Dawgs Brass Band - Place
+        2 Be_RAW\Percussion-3-M81.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads, Saxophone, Trumpet'
+      Comment: ''
+    Percussion-4-M81.wav:
+      Track_path: Funky Dawgs Brass Band - Place 2 Be\Funky Dawgs Brass Band - Place
+        2 Be_RAW\Percussion-4-M81.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads, Saxophone, Trumpet'
+      Comment: ''
+    Percussion-Overhead-CU29.wav:
+      Track_path: Funky Dawgs Brass Band - Place 2 Be\Funky Dawgs Brass Band - Place
+        2 Be_RAW\Percussion-Overhead-CU29.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads, Saxophone, Trumpet'
+      Comment: ''
+  Synth_Bass: {}
+  Electric_Bass: {}
+  Acoustic_Guitar: {}
+  Electric_Guitar: {}
+  Piano: {}
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone:
+    Horns-Sax 1-AK47.wav:
+      Track_path: Funky Dawgs Brass Band - Place 2 Be\Funky Dawgs Brass Band - Place
+        2 Be_RAW\Horns-Sax 1-AK47.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads, Backing_Vocal, Lead_Vocal'
+      Comment: ''
+    Horns-Sax 2-AK47.wav:
+      Track_path: Funky Dawgs Brass Band - Place 2 Be\Funky Dawgs Brass Band - Place
+        2 Be_RAW\Horns-Sax 2-AK47.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads, Backing_Vocal, Lead_Vocal'
+      Comment: ''
+  Trumpet:
+    Horns-Trumpet 1-ELA M 260.wav:
+      Track_path: Funky Dawgs Brass Band - Place 2 Be\Funky Dawgs Brass Band - Place
+        2 Be_RAW\Horns-Trumpet 1-ELA M 260.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads, Backing_Vocal, Lead_Vocal'
+      Comment: ''
+    Horns-Trumpet 2-ELA M 260.wav:
+      Track_path: Funky Dawgs Brass Band - Place 2 Be\Funky Dawgs Brass Band - Place
+        2 Be_RAW\Horns-Trumpet 2-ELA M 260.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads, Backing_Vocal, Lead_Vocal'
+      Comment: ''
+  French_Horn: {}
+  Trombone:
+    Horns-Bone1-AR51.wav:
+      Track_path: Funky Dawgs Brass Band - Place 2 Be\Funky Dawgs Brass Band - Place
+        2 Be_RAW\Horns-Bone1-AR51.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads, Backing_Vocal, Lead_Vocal'
+      Comment: ''
+    Horns-Bone2-AR51.wav:
+      Track_path: Funky Dawgs Brass Band - Place 2 Be\Funky Dawgs Brass Band - Place
+        2 Be_RAW\Horns-Bone2-AR51.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads, Backing_Vocal, Lead_Vocal'
+      Comment: ''
+  Tuba:
+    Horns-Sousaphone-M60.wav:
+      Track_path: Funky Dawgs Brass Band - Place 2 Be\Funky Dawgs Brass Band - Place
+        2 Be_RAW\Horns-Sousaphone-M60.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads, Backing_Vocal, Lead_Vocal'
+      Comment: ''
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    Vocals-Trumpet2-M81.wav:
+      Track_path: Funky Dawgs Brass Band - Place 2 Be\Funky Dawgs Brass Band - Place
+        2 Be_RAW\Vocals-Trumpet2-M81.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads, Backing_Vocal, Saxophone, Trumpet'
+      Comment: ''
+  Choir: {}
+  Backing_Vocal:
+    Vocals-Bone1-M81.wav:
+      Track_path: Funky Dawgs Brass Band - Place 2 Be\Funky Dawgs Brass Band - Place
+        2 Be_RAW\Vocals-Bone1-M81.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads, Lead_Vocal, Saxophone, Trumpet'
+      Comment: ''
+    Vocals-Sax2-M81.wav:
+      Track_path: Funky Dawgs Brass Band - Place 2 Be\Funky Dawgs Brass Band - Place
+        2 Be_RAW\Vocals-Sax2-M81.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads, Lead_Vocal, Saxophone, Trumpet'
+      Comment: ''
+  Unused:
+    Vocals-Trumpet1-M81.wav:
+      Track_path: Funky Dawgs Brass Band - Place 2 Be\Funky Dawgs Brass Band - Place
+        2 Be_RAW\Vocals-Trumpet1-M81.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads, Lead_Vocal, Saxophone, Trumpet'
+      Comment: ''
+    Vocals-Bone2-M81.wav:
+      Track_path: Funky Dawgs Brass Band - Place 2 Be\Funky Dawgs Brass Band - Place
+        2 Be_RAW\Vocals-Bone2-M81.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads, Lead_Vocal, Saxophone, Trumpet'
+      Comment: ''
+    Vocals-Sax1-M81.wav:
+      Track_path: Funky Dawgs Brass Band - Place 2 Be\Funky Dawgs Brass Band - Place
+        2 Be_RAW\Vocals-Sax1-M81.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads, Lead_Vocal, Saxophone, Trumpet'
+      Comment: ''
+  Ambient_Microphone: {}

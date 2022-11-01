@@ -1,0 +1,298 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer: {}
+  SFX: {}
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    01_KickIn.wav:
+      Track_path: Forkupines - Sugar - Faith\Forkupines - Sugar - Faith_RAW\01_KickIn.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    02_KickOut.wav:
+      Track_path: Forkupines - Sugar - Faith\Forkupines - Sugar - Faith_RAW\02_KickOut.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    03_KickBeater.wav:
+      Track_path: Forkupines - Sugar - Faith\Forkupines - Sugar - Faith_RAW\03_KickBeater.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_Snare:
+    05_SnareUp.wav:
+      Track_path: Forkupines - Sugar - Faith\Forkupines - Sugar - Faith_RAW\05_SnareUp.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    06_SnareDown.wav:
+      Track_path: Forkupines - Sugar - Faith\Forkupines - Sugar - Faith_RAW\06_SnareDown.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_HiHat:
+    08_HiHat.wav:
+      Track_path: Forkupines - Sugar - Faith\Forkupines - Sugar - Faith_RAW\08_HiHat.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_Cymbals:
+    09_RIde.wav:
+      Track_path: Forkupines - Sugar - Faith\Forkupines - Sugar - Faith_RAW\09_RIde.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_Overheads:
+    16_Overheads.wav:
+      Track_path: Forkupines - Sugar - Faith\Forkupines - Sugar - Faith_RAW\16_Overheads.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Tom:
+    10_Tom1Up.wav:
+      Track_path: Forkupines - Sugar - Faith\Forkupines - Sugar - Faith_RAW\10_Tom1Up.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    11_Tom1Down.wav:
+      Track_path: Forkupines - Sugar - Faith\Forkupines - Sugar - Faith_RAW\11_Tom1Down.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    13_Tom2Up.wav:
+      Track_path: Forkupines - Sugar - Faith\Forkupines - Sugar - Faith_RAW\13_Tom2Up.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    14_Tom2Down.wav:
+      Track_path: Forkupines - Sugar - Faith\Forkupines - Sugar - Faith_RAW\14_Tom2Down.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_Room:
+    17_DrumsRoom.wav:
+      Track_path: Forkupines - Sugar - Faith\Forkupines - Sugar - Faith_RAW\17_DrumsRoom.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    18_DrumsRoomOD.wav:
+      Track_path: Forkupines - Sugar - Faith\Forkupines - Sugar - Faith_RAW\18_DrumsRoomOD.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop: {}
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass: {}
+  Electric_Bass:
+    19_BassDI.wav:
+      Track_path: Forkupines - Sugar - Faith\Forkupines - Sugar - Faith_RAW\19_BassDI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    20_BassDist.wav:
+      Track_path: Forkupines - Sugar - Faith\Forkupines - Sugar - Faith_RAW\20_BassDist.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    21_BassAmp1.wav:
+      Track_path: Forkupines - Sugar - Faith\Forkupines - Sugar - Faith_RAW\21_BassAmp1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    22_BassAmp2.wav:
+      Track_path: Forkupines - Sugar - Faith\Forkupines - Sugar - Faith_RAW\22_BassAmp2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Acoustic_Guitar: {}
+  Electric_Guitar:
+    23_ElecGtr1.wav:
+      Track_path: Forkupines - Sugar - Faith\Forkupines - Sugar - Faith_RAW\23_ElecGtr1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    24_ElecGtr1DI.wav:
+      Track_path: Forkupines - Sugar - Faith\Forkupines - Sugar - Faith_RAW\24_ElecGtr1DI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    25_ElecGtr2.wav:
+      Track_path: Forkupines - Sugar - Faith\Forkupines - Sugar - Faith_RAW\25_ElecGtr2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    26_ElecGtr2DI.wav:
+      Track_path: Forkupines - Sugar - Faith\Forkupines - Sugar - Faith_RAW\26_ElecGtr2DI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    27_ElecGtr3.wav:
+      Track_path: Forkupines - Sugar - Faith\Forkupines - Sugar - Faith_RAW\27_ElecGtr3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    28_ElecGtr3DI.wav:
+      Track_path: Forkupines - Sugar - Faith\Forkupines - Sugar - Faith_RAW\28_ElecGtr3DI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    29_ElecGtr4.wav:
+      Track_path: Forkupines - Sugar - Faith\Forkupines - Sugar - Faith_RAW\29_ElecGtr4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    30_ElecGtr4DI.wav:
+      Track_path: Forkupines - Sugar - Faith\Forkupines - Sugar - Faith_RAW\30_ElecGtr4DI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    31_ElecGtr5.wav:
+      Track_path: Forkupines - Sugar - Faith\Forkupines - Sugar - Faith_RAW\31_ElecGtr5.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    32_ElecGtr5DI.wav:
+      Track_path: Forkupines - Sugar - Faith\Forkupines - Sugar - Faith_RAW\32_ElecGtr5DI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    33_ElecGtr6.wav:
+      Track_path: Forkupines - Sugar - Faith\Forkupines - Sugar - Faith_RAW\33_ElecGtr6.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    34_ElecGtr6DI.wav:
+      Track_path: Forkupines - Sugar - Faith\Forkupines - Sugar - Faith_RAW\34_ElecGtr6DI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    35_ElecGtr7.wav:
+      Track_path: Forkupines - Sugar - Faith\Forkupines - Sugar - Faith_RAW\35_ElecGtr7.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    36_ElecGtr7DI.wav:
+      Track_path: Forkupines - Sugar - Faith\Forkupines - Sugar - Faith_RAW\36_ElecGtr7DI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    37_ElecGtr8.wav:
+      Track_path: Forkupines - Sugar - Faith\Forkupines - Sugar - Faith_RAW\37_ElecGtr8.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    38_ElecGtr8DI.wav:
+      Track_path: Forkupines - Sugar - Faith\Forkupines - Sugar - Faith_RAW\38_ElecGtr8DI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    39_ElecGtr9.wav:
+      Track_path: Forkupines - Sugar - Faith\Forkupines - Sugar - Faith_RAW\39_ElecGtr9.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    40_ElecGtr9DI.wav:
+      Track_path: Forkupines - Sugar - Faith\Forkupines - Sugar - Faith_RAW\40_ElecGtr9DI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Piano: {}
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    41_LeadVox.wav:
+      Track_path: Forkupines - Sugar - Faith\Forkupines - Sugar - Faith_RAW\41_LeadVox.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Choir: {}
+  Backing_Vocal:
+    42_BackingVox1.wav:
+      Track_path: Forkupines - Sugar - Faith\Forkupines - Sugar - Faith_RAW\42_BackingVox1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    43_BackingVox2.wav:
+      Track_path: Forkupines - Sugar - Faith\Forkupines - Sugar - Faith_RAW\43_BackingVox2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    44_BackingVox3.wav:
+      Track_path: Forkupines - Sugar - Faith\Forkupines - Sugar - Faith_RAW\44_BackingVox3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    45_BackingVox3DT.wav:
+      Track_path: Forkupines - Sugar - Faith\Forkupines - Sugar - Faith_RAW\45_BackingVox3DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Unused:
+    04_KickTrigger.wav:
+      Track_path: Forkupines - Sugar - Faith\Forkupines - Sugar - Faith_RAW\04_KickTrigger.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    07_SnareTrigger.wav:
+      Track_path: Forkupines - Sugar - Faith\Forkupines - Sugar - Faith_RAW\07_SnareTrigger.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    12_Tom1Trigger.wav:
+      Track_path: Forkupines - Sugar - Faith\Forkupines - Sugar - Faith_RAW\12_Tom1Trigger.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    15_Tom2Trigger.wav:
+      Track_path: Forkupines - Sugar - Faith\Forkupines - Sugar - Faith_RAW\15_Tom2Trigger.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Ambient_Microphone: {}

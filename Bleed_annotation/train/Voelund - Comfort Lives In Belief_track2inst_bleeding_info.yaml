@@ -1,0 +1,238 @@
+Track2inst:
+  Electric_Organ:
+    15_Hammond.wav:
+      Track_path: Voelund - Comfort Lives In Belief\Voelund - Comfort Lives In Belief_RAW\15_Hammond.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Synthesizer: {}
+  SFX:
+    33_SFX.wav:
+      Track_path: Voelund - Comfort Lives In Belief\Voelund - Comfort Lives In Belief_RAW\33_SFX.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    01_Kick.wav:
+      Track_path: Voelund - Comfort Lives In Belief\Voelund - Comfort Lives In Belief_RAW\01_Kick.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Snare:
+    02_Snare1.wav:
+      Track_path: Voelund - Comfort Lives In Belief\Voelund - Comfort Lives In Belief_RAW\02_Snare1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    03_Snare2.wav:
+      Track_path: Voelund - Comfort Lives In Belief\Voelund - Comfort Lives In Belief_RAW\03_Snare2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    04_Snare3.wav:
+      Track_path: Voelund - Comfort Lives In Belief\Voelund - Comfort Lives In Belief_RAW\04_Snare3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_HiHat:
+    05_HiHat.wav:
+      Track_path: Voelund - Comfort Lives In Belief\Voelund - Comfort Lives In Belief_RAW\05_HiHat.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Cymbals:
+    06_Ride1.wav:
+      Track_path: Voelund - Comfort Lives In Belief\Voelund - Comfort Lives In Belief_RAW\06_Ride1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    07_Ride2.wav:
+      Track_path: Voelund - Comfort Lives In Belief\Voelund - Comfort Lives In Belief_RAW\07_Ride2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    10_Crash.wav:
+      Track_path: Voelund - Comfort Lives In Belief\Voelund - Comfort Lives In Belief_RAW\10_Crash.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Overheads: {}
+  Drum_Tom:
+    08_Tom1.wav:
+      Track_path: Voelund - Comfort Lives In Belief\Voelund - Comfort Lives In Belief_RAW\08_Tom1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    09_Tom2.wav:
+      Track_path: Voelund - Comfort Lives In Belief\Voelund - Comfort Lives In Belief_RAW\09_Tom2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Room: {}
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop: {}
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion:
+    11_Percussion1.wav:
+      Track_path: Voelund - Comfort Lives In Belief\Voelund - Comfort Lives In Belief_RAW\11_Percussion1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    12_Percussion2.wav:
+      Track_path: Voelund - Comfort Lives In Belief\Voelund - Comfort Lives In Belief_RAW\12_Percussion2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Synth_Bass: {}
+  Electric_Bass:
+    13_Bass.wav:
+      Track_path: Voelund - Comfort Lives In Belief\Voelund - Comfort Lives In Belief_RAW\13_Bass.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Acoustic_Guitar:
+    17_AcousticGtr1.wav:
+      Track_path: Voelund - Comfort Lives In Belief\Voelund - Comfort Lives In Belief_RAW\17_AcousticGtr1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    18_AcousticGtr2.wav:
+      Track_path: Voelund - Comfort Lives In Belief\Voelund - Comfort Lives In Belief_RAW\18_AcousticGtr2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Electric_Guitar:
+    19_ElecGtr.wav:
+      Track_path: Voelund - Comfort Lives In Belief\Voelund - Comfort Lives In Belief_RAW\19_ElecGtr.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    20_ElecGtrAltTake1.wav:
+      Track_path: Voelund - Comfort Lives In Belief\Voelund - Comfort Lives In Belief_RAW\20_ElecGtrAltTake1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    21_ElecGtrAltTake2.wav:
+      Track_path: Voelund - Comfort Lives In Belief\Voelund - Comfort Lives In Belief_RAW\21_ElecGtrAltTake2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Piano:
+    14_Piano.wav:
+      Track_path: Voelund - Comfort Lives In Belief\Voelund - Comfort Lives In Belief_RAW\14_Piano.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Electric_Piano:
+    16_Wurlitzer.wav:
+      Track_path: Voelund - Comfort Lives In Belief\Voelund - Comfort Lives In Belief_RAW\16_Wurlitzer.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    22_LeadVox.wav:
+      Track_path: Voelund - Comfort Lives In Belief\Voelund - Comfort Lives In Belief_RAW\22_LeadVox.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    23_LeadVoxDTs.wav:
+      Track_path: Voelund - Comfort Lives In Belief\Voelund - Comfort Lives In Belief_RAW\23_LeadVoxDTs.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Choir: {}
+  Backing_Vocal:
+    24_BackingVox01.wav:
+      Track_path: Voelund - Comfort Lives In Belief\Voelund - Comfort Lives In Belief_RAW\24_BackingVox01.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    25_BackingVox02.wav:
+      Track_path: Voelund - Comfort Lives In Belief\Voelund - Comfort Lives In Belief_RAW\25_BackingVox02.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    26_BackingVox03.wav:
+      Track_path: Voelund - Comfort Lives In Belief\Voelund - Comfort Lives In Belief_RAW\26_BackingVox03.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    27_BackingVox04.wav:
+      Track_path: Voelund - Comfort Lives In Belief\Voelund - Comfort Lives In Belief_RAW\27_BackingVox04.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    28_BackingVox05.wav:
+      Track_path: Voelund - Comfort Lives In Belief\Voelund - Comfort Lives In Belief_RAW\28_BackingVox05.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    29_BackingVox06.wav:
+      Track_path: Voelund - Comfort Lives In Belief\Voelund - Comfort Lives In Belief_RAW\29_BackingVox06.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    30_BackingVox07.wav:
+      Track_path: Voelund - Comfort Lives In Belief\Voelund - Comfort Lives In Belief_RAW\30_BackingVox07.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    31_BackingVox08.wav:
+      Track_path: Voelund - Comfort Lives In Belief\Voelund - Comfort Lives In Belief_RAW\31_BackingVox08.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    32_BackingVox09.wav:
+      Track_path: Voelund - Comfort Lives In Belief\Voelund - Comfort Lives In Belief_RAW\32_BackingVox09.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Unused: {}
+  Ambient_Microphone: {}

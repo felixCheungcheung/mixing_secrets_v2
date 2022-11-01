@@ -1,0 +1,188 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer: {}
+  SFX: {}
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    01_KickIn.wav:
+      Track_path: Fergessen - Nos Palpitants\Fergessen - Nos Palpitants_RAW\01_KickIn.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    02_KickOut.wav:
+      Track_path: Fergessen - Nos Palpitants\Fergessen - Nos Palpitants_RAW\02_KickOut.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_Snare:
+    03_SnareUp.wav:
+      Track_path: Fergessen - Nos Palpitants\Fergessen - Nos Palpitants_RAW\03_SnareUp.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    04_SnareDown.wav:
+      Track_path: Fergessen - Nos Palpitants\Fergessen - Nos Palpitants_RAW\04_SnareDown.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_HiHat: {}
+  Drum_Cymbals: {}
+  Drum_Overheads:
+    05_Overheads.wav:
+      Track_path: Fergessen - Nos Palpitants\Fergessen - Nos Palpitants_RAW\05_Overheads.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Tom:
+    06_Tom1.wav:
+      Track_path: Fergessen - Nos Palpitants\Fergessen - Nos Palpitants_RAW\06_Tom1.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    07_Tom2.wav:
+      Track_path: Fergessen - Nos Palpitants\Fergessen - Nos Palpitants_RAW\07_Tom2.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_Room:
+    08_DrumsRoomMono.wav:
+      Track_path: Fergessen - Nos Palpitants\Fergessen - Nos Palpitants_RAW\08_DrumsRoomMono.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    09_DrumsRoomStereo.wav:
+      Track_path: Fergessen - Nos Palpitants\Fergessen - Nos Palpitants_RAW\09_DrumsRoomStereo.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop: {}
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass: {}
+  Electric_Bass:
+    10_Bass.wav:
+      Track_path: Fergessen - Nos Palpitants\Fergessen - Nos Palpitants_RAW\10_Bass.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Acoustic_Guitar:
+    11_AcGtr1a_CloseMic1.wav:
+      Track_path: Fergessen - Nos Palpitants\Fergessen - Nos Palpitants_RAW\11_AcGtr1a_CloseMic1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    12_AcGtr1b_CloseMic2.wav:
+      Track_path: Fergessen - Nos Palpitants\Fergessen - Nos Palpitants_RAW\12_AcGtr1b_CloseMic2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    13_AcGtr1c_Room.wav:
+      Track_path: Fergessen - Nos Palpitants\Fergessen - Nos Palpitants_RAW\13_AcGtr1c_Room.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    14_AcGtr2a_CloseMic1.wav:
+      Track_path: Fergessen - Nos Palpitants\Fergessen - Nos Palpitants_RAW\14_AcGtr2a_CloseMic1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    15_AcGtr2b_CloseMic2.wav:
+      Track_path: Fergessen - Nos Palpitants\Fergessen - Nos Palpitants_RAW\15_AcGtr2b_CloseMic2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    16_AcGtr2c_Room.wav:
+      Track_path: Fergessen - Nos Palpitants\Fergessen - Nos Palpitants_RAW\16_AcGtr2c_Room.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Electric_Guitar:
+    17_ElecGtr1a_Close.wav:
+      Track_path: Fergessen - Nos Palpitants\Fergessen - Nos Palpitants_RAW\17_ElecGtr1a_Close.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    18_ElecGtr1b_Room.wav:
+      Track_path: Fergessen - Nos Palpitants\Fergessen - Nos Palpitants_RAW\18_ElecGtr1b_Room.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    19_ElecGtr2.wav:
+      Track_path: Fergessen - Nos Palpitants\Fergessen - Nos Palpitants_RAW\19_ElecGtr2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    20_SlideGtr.wav:
+      Track_path: Fergessen - Nos Palpitants\Fergessen - Nos Palpitants_RAW\20_SlideGtr.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Piano: {}
+  Electric_Piano:
+    21_Rhodes1.wav:
+      Track_path: Fergessen - Nos Palpitants\Fergessen - Nos Palpitants_RAW\21_Rhodes1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    22_Rhodes2.wav:
+      Track_path: Fergessen - Nos Palpitants\Fergessen - Nos Palpitants_RAW\22_Rhodes2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    23_LeadVox.wav:
+      Track_path: Fergessen - Nos Palpitants\Fergessen - Nos Palpitants_RAW\23_LeadVox.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: 'This track contains leadvox and backvox'
+  Choir: {}
+  Backing_Vocal: {}
+  Unused: {}
+  Ambient_Microphone: {}

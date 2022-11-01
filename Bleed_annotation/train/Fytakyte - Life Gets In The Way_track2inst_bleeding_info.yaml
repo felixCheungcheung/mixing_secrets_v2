@@ -1,0 +1,268 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer:
+    23_Synth1.wav:
+      Track_path: Fytakyte - Life Gets In The Way\Fytakyte - Life Gets In The Way_RAW\23_Synth1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    24_Synth2.wav:
+      Track_path: Fytakyte - Life Gets In The Way\Fytakyte - Life Gets In The Way_RAW\24_Synth2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  SFX: {}
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    01_Kick.wav:
+      Track_path: Fytakyte - Life Gets In The Way\Fytakyte - Life Gets In The Way_RAW\01_Kick.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads'
+      Comment: ''
+    02_KickSample.wav:
+      Track_path: Fytakyte - Life Gets In The Way\Fytakyte - Life Gets In The Way_RAW\02_KickSample.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Snare:
+    03_Snare.wav:
+      Track_path: Fytakyte - Life Gets In The Way\Fytakyte - Life Gets In The Way_RAW\03_Snare.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads'
+      Comment: ''
+    04_SnareSample.wav:
+      Track_path: Fytakyte - Life Gets In The Way\Fytakyte - Life Gets In The Way_RAW\04_SnareSample.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_HiHat:
+    08_HiHat.wav:
+      Track_path: Fytakyte - Life Gets In The Way\Fytakyte - Life Gets In The Way_RAW\08_HiHat.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Cymbals: {}
+  Drum_Overheads:
+    09_Overheads.wav:
+      Track_path: Fytakyte - Life Gets In The Way\Fytakyte - Life Gets In The Way_RAW\09_Overheads.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Tom:
+    05_Tom1.wav:
+      Track_path: Fytakyte - Life Gets In The Way\Fytakyte - Life Gets In The Way_RAW\05_Tom1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    06_Tom2.wav:
+      Track_path: Fytakyte - Life Gets In The Way\Fytakyte - Life Gets In The Way_RAW\06_Tom2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    07_Tom3.wav:
+      Track_path: Fytakyte - Life Gets In The Way\Fytakyte - Life Gets In The Way_RAW\07_Tom3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Room:
+    10_DrumsRoom.wav:
+      Track_path: Fytakyte - Life Gets In The Way\Fytakyte - Life Gets In The Way_RAW\10_DrumsRoom.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop: {}
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass: {}
+  Electric_Bass:
+    11_BassDI.wav:
+      Track_path: Fytakyte - Life Gets In The Way\Fytakyte - Life Gets In The Way_RAW\11_BassDI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    12_BassAmp.wav:
+      Track_path: Fytakyte - Life Gets In The Way\Fytakyte - Life Gets In The Way_RAW\12_BassAmp.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Acoustic_Guitar: {}
+  Electric_Guitar:
+    13_ElecGtr1.wav:
+      Track_path: Fytakyte - Life Gets In The Way\Fytakyte - Life Gets In The Way_RAW\13_ElecGtr1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    14_ElecGtr2.wav:
+      Track_path: Fytakyte - Life Gets In The Way\Fytakyte - Life Gets In The Way_RAW\14_ElecGtr2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    15_ElecGtr2DT.wav:
+      Track_path: Fytakyte - Life Gets In The Way\Fytakyte - Life Gets In The Way_RAW\15_ElecGtr2DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    16_ElecGtr3.wav:
+      Track_path: Fytakyte - Life Gets In The Way\Fytakyte - Life Gets In The Way_RAW\16_ElecGtr3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    17_ElecGtr4.wav:
+      Track_path: Fytakyte - Life Gets In The Way\Fytakyte - Life Gets In The Way_RAW\17_ElecGtr4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    18_ElecGtr5.wav:
+      Track_path: Fytakyte - Life Gets In The Way\Fytakyte - Life Gets In The Way_RAW\18_ElecGtr5.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    19_ElecGtr6.wav:
+      Track_path: Fytakyte - Life Gets In The Way\Fytakyte - Life Gets In The Way_RAW\19_ElecGtr6.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    20_ElecGtr7.wav:
+      Track_path: Fytakyte - Life Gets In The Way\Fytakyte - Life Gets In The Way_RAW\20_ElecGtr7.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    21_ElecGtr8.wav:
+      Track_path: Fytakyte - Life Gets In The Way\Fytakyte - Life Gets In The Way_RAW\21_ElecGtr8.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    22_ElecGtr9.wav:
+      Track_path: Fytakyte - Life Gets In The Way\Fytakyte - Life Gets In The Way_RAW\22_ElecGtr9.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Piano: {}
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    25_LeadVox.wav:
+      Track_path: Fytakyte - Life Gets In The Way\Fytakyte - Life Gets In The Way_RAW\25_LeadVox.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    26_LeadVoxDT1.wav:
+      Track_path: Fytakyte - Life Gets In The Way\Fytakyte - Life Gets In The Way_RAW\26_LeadVoxDT1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    27_LeadVoxDT2.wav:
+      Track_path: Fytakyte - Life Gets In The Way\Fytakyte - Life Gets In The Way_RAW\27_LeadVoxDT2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    28_LeadVoxDT3.wav:
+      Track_path: Fytakyte - Life Gets In The Way\Fytakyte - Life Gets In The Way_RAW\28_LeadVoxDT3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    29_LeadVoxDT4.wav:
+      Track_path: Fytakyte - Life Gets In The Way\Fytakyte - Life Gets In The Way_RAW\29_LeadVoxDT4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Choir: {}
+  Backing_Vocal:
+    30_BackingVox1.wav:
+      Track_path: Fytakyte - Life Gets In The Way\Fytakyte - Life Gets In The Way_RAW\30_BackingVox1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    31_BackingVox2.wav:
+      Track_path: Fytakyte - Life Gets In The Way\Fytakyte - Life Gets In The Way_RAW\31_BackingVox2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    32_BackingVox3.wav:
+      Track_path: Fytakyte - Life Gets In The Way\Fytakyte - Life Gets In The Way_RAW\32_BackingVox3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    33_BackingVox3DT1.wav:
+      Track_path: Fytakyte - Life Gets In The Way\Fytakyte - Life Gets In The Way_RAW\33_BackingVox3DT1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    34_BackingVox3DT2.wav:
+      Track_path: Fytakyte - Life Gets In The Way\Fytakyte - Life Gets In The Way_RAW\34_BackingVox3DT2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    35_BackingVox3DT3.wav:
+      Track_path: Fytakyte - Life Gets In The Way\Fytakyte - Life Gets In The Way_RAW\35_BackingVox3DT3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    36_BackingVox4.wav:
+      Track_path: Fytakyte - Life Gets In The Way\Fytakyte - Life Gets In The Way_RAW\36_BackingVox4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    37_BackingVox4DT1.wav:
+      Track_path: Fytakyte - Life Gets In The Way\Fytakyte - Life Gets In The Way_RAW\37_BackingVox4DT1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    38_BackingVox4DT2.wav:
+      Track_path: Fytakyte - Life Gets In The Way\Fytakyte - Life Gets In The Way_RAW\38_BackingVox4DT2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    39_BackingVox4DT3.wav:
+      Track_path: Fytakyte - Life Gets In The Way\Fytakyte - Life Gets In The Way_RAW\39_BackingVox4DT3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Unused: {}
+  Ambient_Microphone: {}

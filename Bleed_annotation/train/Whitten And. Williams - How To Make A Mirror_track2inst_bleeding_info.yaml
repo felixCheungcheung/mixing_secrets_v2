@@ -1,0 +1,211 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer: {}
+  SFX: {}
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick: {}
+  Drum_Snare: {}
+  Drum_HiHat: {}
+  Drum_Cymbals: {}
+  Drum_Overheads:
+    01_Drums.wav:
+      Track_path: Whitten And. Williams - How To Make A Mirror\Whitten And. Williams
+        - How To Make A Mirror_RAW\01_Drums.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Tom: {}
+  Drum_Room: {}
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop: {}
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass: {}
+  Electric_Bass: {}
+  Acoustic_Guitar:
+    04_Dulcimer.wav:
+      Track_path: Whitten And. Williams - How To Make A Mirror\Whitten And. Williams
+        - How To Make A Mirror_RAW\04_Dulcimer.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Electric_Guitar: {}
+  Piano: {}
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section:
+    05_Strings.wav:
+      Track_path: Whitten And. Williams - How To Make A Mirror\Whitten And. Williams
+        - How To Make A Mirror_RAW\05_Strings.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute:
+    02_Flutes.wav:
+      Track_path: Whitten And. Williams - How To Make A Mirror\Whitten And. Williams
+        - How To Make A Mirror_RAW\02_Flutes.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    03_BassFlutes.wav:
+      Track_path: Whitten And. Williams - How To Make A Mirror\Whitten And. Williams
+        - How To Make A Mirror_RAW\03_BassFlutes.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    06_LeadVox.wav:
+      Track_path: Whitten And. Williams - How To Make A Mirror\Whitten And. Williams
+        - How To Make A Mirror_RAW\06_LeadVox.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    09_BackingVox3.wav:
+      Track_path: Whitten And. Williams - How To Make A Mirror\Whitten And. Williams
+        - How To Make A Mirror_RAW\09_BackingVox3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    10_BackingVox4.wav:
+      Track_path: Whitten And. Williams - How To Make A Mirror\Whitten And. Williams
+        - How To Make A Mirror_RAW\10_BackingVox4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    11_BackingVox5.wav:
+      Track_path: Whitten And. Williams - How To Make A Mirror\Whitten And. Williams
+        - How To Make A Mirror_RAW\11_BackingVox5.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Choir: {}
+  Backing_Vocal:
+    07_BackingVox1.wav:
+      Track_path: Whitten And. Williams - How To Make A Mirror\Whitten And. Williams
+        - How To Make A Mirror_RAW\07_BackingVox1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    08_BackingVox2.wav:
+      Track_path: Whitten And. Williams - How To Make A Mirror\Whitten And. Williams
+        - How To Make A Mirror_RAW\08_BackingVox2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Unused:
+    12_LeadVox_RawTakes01.wav:
+      Track_path: Whitten And. Williams - How To Make A Mirror\Whitten And. Williams
+        - How To Make A Mirror_RAW\12_LeadVox_RawTakes01.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    13_LeadVox_RawTakes02.wav:
+      Track_path: Whitten And. Williams - How To Make A Mirror\Whitten And. Williams
+        - How To Make A Mirror_RAW\13_LeadVox_RawTakes02.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    14_LeadVox_RawTakes03.wav:
+      Track_path: Whitten And. Williams - How To Make A Mirror\Whitten And. Williams
+        - How To Make A Mirror_RAW\14_LeadVox_RawTakes03.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    15_LeadVox_RawTakes04.wav:
+      Track_path: Whitten And. Williams - How To Make A Mirror\Whitten And. Williams
+        - How To Make A Mirror_RAW\15_LeadVox_RawTakes04.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    16_LeadVox_RawTakes05.wav:
+      Track_path: Whitten And. Williams - How To Make A Mirror\Whitten And. Williams
+        - How To Make A Mirror_RAW\16_LeadVox_RawTakes05.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    17_LeadVox_RawTakes06.wav:
+      Track_path: Whitten And. Williams - How To Make A Mirror\Whitten And. Williams
+        - How To Make A Mirror_RAW\17_LeadVox_RawTakes06.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    18_LeadVox_RawTakes07.wav:
+      Track_path: Whitten And. Williams - How To Make A Mirror\Whitten And. Williams
+        - How To Make A Mirror_RAW\18_LeadVox_RawTakes07.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    19_LeadVox_RawTakes08.wav:
+      Track_path: Whitten And. Williams - How To Make A Mirror\Whitten And. Williams
+        - How To Make A Mirror_RAW\19_LeadVox_RawTakes08.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    20_LeadVox_RawTakes09.wav:
+      Track_path: Whitten And. Williams - How To Make A Mirror\Whitten And. Williams
+        - How To Make A Mirror_RAW\20_LeadVox_RawTakes09.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    21_LeadVox_RawTakes10.wav:
+      Track_path: Whitten And. Williams - How To Make A Mirror\Whitten And. Williams
+        - How To Make A Mirror_RAW\21_LeadVox_RawTakes10.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    22_LeadVox_RawTakes11.wav:
+      Track_path: Whitten And. Williams - How To Make A Mirror\Whitten And. Williams
+        - How To Make A Mirror_RAW\22_LeadVox_RawTakes11.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    23_LeadVox_RawTakes12.wav:
+      Track_path: Whitten And. Williams - How To Make A Mirror\Whitten And. Williams
+        - How To Make A Mirror_RAW\23_LeadVox_RawTakes12.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Ambient_Microphone: {}

@@ -1,0 +1,428 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer:
+    48_Synth01.wav:
+      Track_path: Karl Hungus - Got Your Love\Karl Hungus - Got Your Love_RAW\48_Synth01.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    49_Synth02.wav:
+      Track_path: Karl Hungus - Got Your Love\Karl Hungus - Got Your Love_RAW\49_Synth02.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    50_Synth03_SFX.wav:
+      Track_path: Karl Hungus - Got Your Love\Karl Hungus - Got Your Love_RAW\50_Synth03_SFX.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    51_Synth04.wav:
+      Track_path: Karl Hungus - Got Your Love\Karl Hungus - Got Your Love_RAW\51_Synth04.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    52_Synth05_SFX.wav:
+      Track_path: Karl Hungus - Got Your Love\Karl Hungus - Got Your Love_RAW\52_Synth05_SFX.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    53_Synth06.wav:
+      Track_path: Karl Hungus - Got Your Love\Karl Hungus - Got Your Love_RAW\53_Synth06.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    54_Synth07.wav:
+      Track_path: Karl Hungus - Got Your Love\Karl Hungus - Got Your Love_RAW\54_Synth07.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    55_Synth08_SFX.wav:
+      Track_path: Karl Hungus - Got Your Love\Karl Hungus - Got Your Love_RAW\55_Synth08_SFX.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    56_Synth09_SFX.wav:
+      Track_path: Karl Hungus - Got Your Love\Karl Hungus - Got Your Love_RAW\56_Synth09_SFX.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    57_Synth10a.wav:
+      Track_path: Karl Hungus - Got Your Love\Karl Hungus - Got Your Love_RAW\57_Synth10a.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    58_Synth10b.wav:
+      Track_path: Karl Hungus - Got Your Love\Karl Hungus - Got Your Love_RAW\58_Synth10b.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    59_Synth10c.wav:
+      Track_path: Karl Hungus - Got Your Love\Karl Hungus - Got Your Love_RAW\59_Synth10c.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    60_Synth10d.wav:
+      Track_path: Karl Hungus - Got Your Love\Karl Hungus - Got Your Love_RAW\60_Synth10d.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    61_Synth11_SFX.wav:
+      Track_path: Karl Hungus - Got Your Love\Karl Hungus - Got Your Love_RAW\61_Synth11_SFX.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    62_Synth12_SFX.wav:
+      Track_path: Karl Hungus - Got Your Love\Karl Hungus - Got Your Love_RAW\62_Synth12_SFX.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    63_Synth13_SFX.wav:
+      Track_path: Karl Hungus - Got Your Love\Karl Hungus - Got Your Love_RAW\63_Synth13_SFX.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    64_Synth14_SFX.wav:
+      Track_path: Karl Hungus - Got Your Love\Karl Hungus - Got Your Love_RAW\64_Synth14_SFX.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    65_Synth15_SFX.wav:
+      Track_path: Karl Hungus - Got Your Love\Karl Hungus - Got Your Love_RAW\65_Synth15_SFX.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    66_Synth16.wav:
+      Track_path: Karl Hungus - Got Your Love\Karl Hungus - Got Your Love_RAW\66_Synth16.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  SFX:
+    08_SubBoom.wav:
+      Track_path: Karl Hungus - Got Your Love\Karl Hungus - Got Your Love_RAW\08_SubBoom.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    39_Cartoon_SFX.wav:
+      Track_path: Karl Hungus - Got Your Love\Karl Hungus - Got Your Love_RAW\39_Cartoon_SFX.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    40_NoiseSweep01.wav:
+      Track_path: Karl Hungus - Got Your Love\Karl Hungus - Got Your Love_RAW\40_NoiseSweep01.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    41_NoiseSweep02.wav:
+      Track_path: Karl Hungus - Got Your Love\Karl Hungus - Got Your Love_RAW\41_NoiseSweep02.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    42_NoiseSweep03.wav:
+      Track_path: Karl Hungus - Got Your Love\Karl Hungus - Got Your Love_RAW\42_NoiseSweep03.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    43_NoiseSweep04_SFX.wav:
+      Track_path: Karl Hungus - Got Your Love\Karl Hungus - Got Your Love_RAW\43_NoiseSweep04_SFX.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    44_NoiseSweep05_SFX.wav:
+      Track_path: Karl Hungus - Got Your Love\Karl Hungus - Got Your Love_RAW\44_NoiseSweep05_SFX.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Marimba: {}
+  Bell:
+    38_Cowbell_808.wav:
+      Track_path: Karl Hungus - Got Your Love\Karl Hungus - Got Your Love_RAW\38_Cowbell_808.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes:
+    35_Chimes01_SFX.wav:
+      Track_path: Karl Hungus - Got Your Love\Karl Hungus - Got Your Love_RAW\35_Chimes01_SFX.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    36_Chimes02.wav:
+      Track_path: Karl Hungus - Got Your Love\Karl Hungus - Got Your Love_RAW\36_Chimes02.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Other_Chromatic: {}
+  Drum_Kick:
+    01_Kick01.wav:
+      Track_path: Karl Hungus - Got Your Love\Karl Hungus - Got Your Love_RAW\01_Kick01.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    02_Kick02_SFX.wav:
+      Track_path: Karl Hungus - Got Your Love\Karl Hungus - Got Your Love_RAW\02_Kick02_SFX.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    03_Kick03.wav:
+      Track_path: Karl Hungus - Got Your Love\Karl Hungus - Got Your Love_RAW\03_Kick03.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    04_Kick04.wav:
+      Track_path: Karl Hungus - Got Your Love\Karl Hungus - Got Your Love_RAW\04_Kick04.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    05_Kick05.wav:
+      Track_path: Karl Hungus - Got Your Love\Karl Hungus - Got Your Love_RAW\05_Kick05.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    06_Kick06_SFX.wav:
+      Track_path: Karl Hungus - Got Your Love\Karl Hungus - Got Your Love_RAW\06_Kick06_SFX.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    07_Kick07_SFX.wav:
+      Track_path: Karl Hungus - Got Your Love\Karl Hungus - Got Your Love_RAW\07_Kick07_SFX.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Snare:
+    09_Snare01.wav:
+      Track_path: Karl Hungus - Got Your Love\Karl Hungus - Got Your Love_RAW\09_Snare01.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    11_Snare03_808.wav:
+      Track_path: Karl Hungus - Got Your Love\Karl Hungus - Got Your Love_RAW\11_Snare03_808.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    13_Snare05_808.wav:
+      Track_path: Karl Hungus - Got Your Love\Karl Hungus - Got Your Love_RAW\13_Snare05_808.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    14_Snare06.wav:
+      Track_path: Karl Hungus - Got Your Love\Karl Hungus - Got Your Love_RAW\14_Snare06.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    15_Snare07.wav:
+      Track_path: Karl Hungus - Got Your Love\Karl Hungus - Got Your Love_RAW\15_Snare07.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    12_Snare04_SFX.wav:
+      Track_path: Karl Hungus - Got Your Love\Karl Hungus - Got Your Love_RAW\12_Snare04_SFX.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    10_Snare02_SFX.wav:
+      Track_path: Karl Hungus - Got Your Love\Karl Hungus - Got Your Love_RAW\10_Snare02_SFX.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    16_Snare08_SFX.wav:
+      Track_path: Karl Hungus - Got Your Love\Karl Hungus - Got Your Love_RAW\16_Snare08_SFX.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    17_Snare09_SFX.wav:
+      Track_path: Karl Hungus - Got Your Love\Karl Hungus - Got Your Love_RAW\17_Snare09_SFX.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    18_Snare10_SFX.wav:
+      Track_path: Karl Hungus - Got Your Love\Karl Hungus - Got Your Love_RAW\18_Snare10_SFX.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_HiHat:
+    24_Hat01_808.wav:
+      Track_path: Karl Hungus - Got Your Love\Karl Hungus - Got Your Love_RAW\24_Hat01_808.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    25_Hat02_808.wav:
+      Track_path: Karl Hungus - Got Your Love\Karl Hungus - Got Your Love_RAW\25_Hat02_808.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    26_Hat03.wav:
+      Track_path: Karl Hungus - Got Your Love\Karl Hungus - Got Your Love_RAW\26_Hat03.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    27_Hat04_SFX.wav:
+      Track_path: Karl Hungus - Got Your Love\Karl Hungus - Got Your Love_RAW\27_Hat04_SFX.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    28_Hat05_SFX.wav:
+      Track_path: Karl Hungus - Got Your Love\Karl Hungus - Got Your Love_RAW\28_Hat05_SFX.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Cymbals: {}
+  Drum_Overheads: {}
+  Drum_Tom:
+    29_Toms01_SFX.wav:
+      Track_path: Karl Hungus - Got Your Love\Karl Hungus - Got Your Love_RAW\29_Toms01_SFX.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    30_Toms02_SFX.wav:
+      Track_path: Karl Hungus - Got Your Love\Karl Hungus - Got Your Love_RAW\30_Toms02_SFX.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    31_Toms03_808.wav:
+      Track_path: Karl Hungus - Got Your Love\Karl Hungus - Got Your Love_RAW\31_Toms03_808.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Room: {}
+  Shaker:
+    33_Shaker01.wav:
+      Track_path: Karl Hungus - Got Your Love\Karl Hungus - Got Your Love_RAW\33_Shaker01.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    34_Shaker02.wav:
+      Track_path: Karl Hungus - Got Your Love\Karl Hungus - Got Your Love_RAW\34_Shaker02.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop: {}
+  Clicks: {}
+  Claps:
+    23_Claps05_SFX.wav:
+      Track_path: Karl Hungus - Got Your Love\Karl Hungus - Got Your Love_RAW\23_Claps05_SFX.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    19_Claps01_SFX.wav:
+      Track_path: Karl Hungus - Got Your Love\Karl Hungus - Got Your Love_RAW\19_Claps01_SFX.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    20_Claps02_SFX.wav:
+      Track_path: Karl Hungus - Got Your Love\Karl Hungus - Got Your Love_RAW\20_Claps02_SFX.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    21_Claps03.wav:
+      Track_path: Karl Hungus - Got Your Love\Karl Hungus - Got Your Love_RAW\21_Claps03.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    22_Claps04.wav:
+      Track_path: Karl Hungus - Got Your Love\Karl Hungus - Got Your Love_RAW\22_Claps04.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo:
+    32_Bongo.wav:
+      Track_path: Karl Hungus - Got Your Love\Karl Hungus - Got Your Love_RAW\32_Bongo.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion:
+    37_Clave.wav:
+      Track_path: Karl Hungus - Got Your Love\Karl Hungus - Got Your Love_RAW\37_Clave.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Synth_Bass: {}
+  Electric_Bass:
+    45_Bass01.wav:
+      Track_path: Karl Hungus - Got Your Love\Karl Hungus - Got Your Love_RAW\45_Bass01.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    46_Bass02.wav:
+      Track_path: Karl Hungus - Got Your Love\Karl Hungus - Got Your Love_RAW\46_Bass02.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    47_Bass03.wav:
+      Track_path: Karl Hungus - Got Your Love\Karl Hungus - Got Your Love_RAW\47_Bass03.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Acoustic_Guitar: {}
+  Electric_Guitar: {}
+  Piano:
+    67_Piano.wav:
+      Track_path: Karl Hungus - Got Your Love\Karl Hungus - Got Your Love_RAW\67_Piano.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    68_Vox01_SFX.wav:
+      Track_path: Karl Hungus - Got Your Love\Karl Hungus - Got Your Love_RAW\68_Vox01_SFX.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    69_Vox02_SFX.wav:
+      Track_path: Karl Hungus - Got Your Love\Karl Hungus - Got Your Love_RAW\69_Vox02_SFX.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    70_Vox03_SFX.wav:
+      Track_path: Karl Hungus - Got Your Love\Karl Hungus - Got Your Love_RAW\70_Vox03_SFX.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    71_Vox04.wav:
+      Track_path: Karl Hungus - Got Your Love\Karl Hungus - Got Your Love_RAW\71_Vox04.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Choir: {}
+  Backing_Vocal: {}
+  Unused: {}
+  Ambient_Microphone: {}

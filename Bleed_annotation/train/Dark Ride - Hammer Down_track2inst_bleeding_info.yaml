@@ -1,0 +1,273 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer:
+    24_Synth01.wav:
+      Track_path: Dark Ride - Hammer Down\Dark Ride - Hammer Down_RAW\24_Synth01.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    25_Synth02.wav:
+      Track_path: Dark Ride - Hammer Down\Dark Ride - Hammer Down_RAW\25_Synth02.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    26_Synth03.wav:
+      Track_path: Dark Ride - Hammer Down\Dark Ride - Hammer Down_RAW\26_Synth03.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    27_Synth04.wav:
+      Track_path: Dark Ride - Hammer Down\Dark Ride - Hammer Down_RAW\27_Synth04.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    28_Synth05.wav:
+      Track_path: Dark Ride - Hammer Down\Dark Ride - Hammer Down_RAW\28_Synth05.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    29_Synth06.wav:
+      Track_path: Dark Ride - Hammer Down\Dark Ride - Hammer Down_RAW\29_Synth06.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  SFX: {}
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    01_Kick.wav:
+      Track_path: Dark Ride - Hammer Down\Dark Ride - Hammer Down_RAW\01_Kick.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Snare:
+    02_Snare.wav:
+      Track_path: Dark Ride - Hammer Down\Dark Ride - Hammer Down_RAW\02_Snare.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    03_SnareFX.wav:
+      Track_path: Dark Ride - Hammer Down\Dark Ride - Hammer Down_RAW\03_SnareFX.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_HiHat:
+    04_HiHat.wav:
+      Track_path: Dark Ride - Hammer Down\Dark Ride - Hammer Down_RAW\04_HiHat.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Cymbals: {}
+  Drum_Overheads:
+    09_Overheads.wav:
+      Track_path: Dark Ride - Hammer Down\Dark Ride - Hammer Down_RAW\09_Overheads.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Tom:
+    05_Tom1.wav:
+      Track_path: Dark Ride - Hammer Down\Dark Ride - Hammer Down_RAW\05_Tom1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    06_Tom2.wav:
+      Track_path: Dark Ride - Hammer Down\Dark Ride - Hammer Down_RAW\06_Tom2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    07_Tom3.wav:
+      Track_path: Dark Ride - Hammer Down\Dark Ride - Hammer Down_RAW\07_Tom3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    08_Tom4.wav:
+      Track_path: Dark Ride - Hammer Down\Dark Ride - Hammer Down_RAW\08_Tom4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Room:
+    10_DrumsRoom.wav:
+      Track_path: Dark Ride - Hammer Down\Dark Ride - Hammer Down_RAW\10_DrumsRoom.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop: {}
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass: {}
+  Electric_Bass:
+    11_Bass1.wav:
+      Track_path: Dark Ride - Hammer Down\Dark Ride - Hammer Down_RAW\11_Bass1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    12_Bass2.wav:
+      Track_path: Dark Ride - Hammer Down\Dark Ride - Hammer Down_RAW\12_Bass2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Acoustic_Guitar: {}
+  Electric_Guitar:
+    13_ElecGtr01.wav:
+      Track_path: Dark Ride - Hammer Down\Dark Ride - Hammer Down_RAW\13_ElecGtr01.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    14_ElecGtr02.wav:
+      Track_path: Dark Ride - Hammer Down\Dark Ride - Hammer Down_RAW\14_ElecGtr02.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    15_ElecGtr03.wav:
+      Track_path: Dark Ride - Hammer Down\Dark Ride - Hammer Down_RAW\15_ElecGtr03.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    16_ElecGtr04.wav:
+      Track_path: Dark Ride - Hammer Down\Dark Ride - Hammer Down_RAW\16_ElecGtr04.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    17_ElecGtr05.wav:
+      Track_path: Dark Ride - Hammer Down\Dark Ride - Hammer Down_RAW\17_ElecGtr05.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    18_ElecGtr08.wav:
+      Track_path: Dark Ride - Hammer Down\Dark Ride - Hammer Down_RAW\18_ElecGtr08.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    19_ElecGtr09.wav:
+      Track_path: Dark Ride - Hammer Down\Dark Ride - Hammer Down_RAW\19_ElecGtr09.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    20_ElecGtr10.wav:
+      Track_path: Dark Ride - Hammer Down\Dark Ride - Hammer Down_RAW\20_ElecGtr10.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    21_ElecGtr11.wav:
+      Track_path: Dark Ride - Hammer Down\Dark Ride - Hammer Down_RAW\21_ElecGtr11.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    22_ElecGtr12.wav:
+      Track_path: Dark Ride - Hammer Down\Dark Ride - Hammer Down_RAW\22_ElecGtr12.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    23_ElecGtr13.wav:
+      Track_path: Dark Ride - Hammer Down\Dark Ride - Hammer Down_RAW\23_ElecGtr13.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Piano: {}
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    30_LeadVox01.wav:
+      Track_path: Dark Ride - Hammer Down\Dark Ride - Hammer Down_RAW\30_LeadVox01.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    31_LeadVox01DTWhisper.wav:
+      Track_path: Dark Ride - Hammer Down\Dark Ride - Hammer Down_RAW\31_LeadVox01DTWhisper.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    32_LeadVox02.wav:
+      Track_path: Dark Ride - Hammer Down\Dark Ride - Hammer Down_RAW\32_LeadVox02.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    33_LeadVox03.wav:
+      Track_path: Dark Ride - Hammer Down\Dark Ride - Hammer Down_RAW\33_LeadVox03.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    34_LeadVox04.wav:
+      Track_path: Dark Ride - Hammer Down\Dark Ride - Hammer Down_RAW\34_LeadVox04.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Choir: {}
+  Backing_Vocal:
+    35_BackingVox01.wav:
+      Track_path: Dark Ride - Hammer Down\Dark Ride - Hammer Down_RAW\35_BackingVox01.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    36_BackingVox02.wav:
+      Track_path: Dark Ride - Hammer Down\Dark Ride - Hammer Down_RAW\36_BackingVox02.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    37_BackingVox03.wav:
+      Track_path: Dark Ride - Hammer Down\Dark Ride - Hammer Down_RAW\37_BackingVox03.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    38_BackingVox04.wav:
+      Track_path: Dark Ride - Hammer Down\Dark Ride - Hammer Down_RAW\38_BackingVox04.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    39_BackingVox05.wav:
+      Track_path: Dark Ride - Hammer Down\Dark Ride - Hammer Down_RAW\39_BackingVox05.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    40_BackingVox06.wav:
+      Track_path: Dark Ride - Hammer Down\Dark Ride - Hammer Down_RAW\40_BackingVox06.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Unused: {}
+  Ambient_Microphone: {}

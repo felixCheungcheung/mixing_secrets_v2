@@ -1,0 +1,348 @@
+Track2inst:
+  Electric_Organ:
+    41_Hammond1.wav:
+      Track_path: Escarras - No Limits\Escarras - No Limits_RAW\41_Hammond1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    42_Hammond2.wav:
+      Track_path: Escarras - No Limits\Escarras - No Limits_RAW\42_Hammond2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Synthesizer:
+    44_Synth.wav:
+      Track_path: Escarras - No Limits\Escarras - No Limits_RAW\44_Synth.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  SFX: {}
+  Marimba: {}
+  Bell:
+    19_Cowbell1.wav:
+      Track_path: Escarras - No Limits\Escarras - No Limits_RAW\19_Cowbell1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    20_Cowbell2.wav:
+      Track_path: Escarras - No Limits\Escarras - No Limits_RAW\20_Cowbell2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    01_KickIn.wav:
+      Track_path: Escarras - No Limits\Escarras - No Limits_RAW\01_KickIn.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    02_KickOut.wav:
+      Track_path: Escarras - No Limits\Escarras - No Limits_RAW\02_KickOut.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    03_KickSub.wav:
+      Track_path: Escarras - No Limits\Escarras - No Limits_RAW\03_KickSub.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    04_KickSample.wav:
+      Track_path: Escarras - No Limits\Escarras - No Limits_RAW\04_KickSample.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_Snare:
+    05_Snare.wav:
+      Track_path: Escarras - No Limits\Escarras - No Limits_RAW\05_Snare.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    06_SnareSample.wav:
+      Track_path: Escarras - No Limits\Escarras - No Limits_RAW\06_SnareSample.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_HiHat:
+    09_HiHat.wav:
+      Track_path: Escarras - No Limits\Escarras - No Limits_RAW\09_HiHat.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_Cymbals: {}
+  Drum_Overheads:
+    10_Overheads.wav:
+      Track_path: Escarras - No Limits\Escarras - No Limits_RAW\10_Overheads.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    07_KickSnare.wav:
+      Track_path: Escarras - No Limits\Escarras - No Limits_RAW\07_KickSnare.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Tom:
+    08_Tom.wav:
+      Track_path: Escarras - No Limits\Escarras - No Limits_RAW\08_Tom.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_Room:
+    11_DrumsRoom1.wav:
+      Track_path: Escarras - No Limits\Escarras - No Limits_RAW\11_DrumsRoom1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    12_DrumsRoom2.wav:
+      Track_path: Escarras - No Limits\Escarras - No Limits_RAW\12_DrumsRoom2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    13_DrumsRoom3.wav:
+      Track_path: Escarras - No Limits\Escarras - No Limits_RAW\13_DrumsRoom3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga:
+    14_Conga_Hi.wav:
+      Track_path: Escarras - No Limits\Escarras - No Limits_RAW\14_Conga_Hi.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    15_Conga_Lo.wav:
+      Track_path: Escarras - No Limits\Escarras - No Limits_RAW\15_Conga_Lo.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    16_Conga_MonoOverhead.wav:
+      Track_path: Escarras - No Limits\Escarras - No Limits_RAW\16_Conga_MonoOverhead.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    17_Conga_StereoOverheads.wav:
+      Track_path: Escarras - No Limits\Escarras - No Limits_RAW\17_Conga_StereoOverheads.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    18_Conga_Room.wav:
+      Track_path: Escarras - No Limits\Escarras - No Limits_RAW\18_Conga_Room.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop: {}
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass: {}
+  Electric_Bass:
+    21_BassDI.wav:
+      Track_path: Escarras - No Limits\Escarras - No Limits_RAW\21_BassDI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Acoustic_Guitar: {}
+  Electric_Guitar:
+    22_ElecGtr1Mic1.wav:
+      Track_path: Escarras - No Limits\Escarras - No Limits_RAW\22_ElecGtr1Mic1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    23_ElecGtr1Mic2.wav:
+      Track_path: Escarras - No Limits\Escarras - No Limits_RAW\23_ElecGtr1Mic2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    24_ElecGtr1DTMic1.wav:
+      Track_path: Escarras - No Limits\Escarras - No Limits_RAW\24_ElecGtr1DTMic1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    25_ElecGtr1DTMic2.wav:
+      Track_path: Escarras - No Limits\Escarras - No Limits_RAW\25_ElecGtr1DTMic2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    26_ElecGtr2Mic1.wav:
+      Track_path: Escarras - No Limits\Escarras - No Limits_RAW\26_ElecGtr2Mic1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    27_ElecGtr2Mic2.wav:
+      Track_path: Escarras - No Limits\Escarras - No Limits_RAW\27_ElecGtr2Mic2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    28_ElecGtr2DTMic1.wav:
+      Track_path: Escarras - No Limits\Escarras - No Limits_RAW\28_ElecGtr2DTMic1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    29_ElecGtr2DTMic2.wav:
+      Track_path: Escarras - No Limits\Escarras - No Limits_RAW\29_ElecGtr2DTMic2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    30_ElecGtr3.wav:
+      Track_path: Escarras - No Limits\Escarras - No Limits_RAW\30_ElecGtr3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    31_ElecGtr3DT.wav:
+      Track_path: Escarras - No Limits\Escarras - No Limits_RAW\31_ElecGtr3DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    32_ElecGtr4.wav:
+      Track_path: Escarras - No Limits\Escarras - No Limits_RAW\32_ElecGtr4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    33_ElecGtr4DT.wav:
+      Track_path: Escarras - No Limits\Escarras - No Limits_RAW\33_ElecGtr4DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    34_ElecGtr5.wav:
+      Track_path: Escarras - No Limits\Escarras - No Limits_RAW\34_ElecGtr5.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    35_ElecGtr6.wav:
+      Track_path: Escarras - No Limits\Escarras - No Limits_RAW\35_ElecGtr6.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    36_ElecGtr6DT.wav:
+      Track_path: Escarras - No Limits\Escarras - No Limits_RAW\36_ElecGtr6DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    37_ElecGtr7.wav:
+      Track_path: Escarras - No Limits\Escarras - No Limits_RAW\37_ElecGtr7.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    38_ElecGtr7DT.wav:
+      Track_path: Escarras - No Limits\Escarras - No Limits_RAW\38_ElecGtr7DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    39_ElecGtr8.wav:
+      Track_path: Escarras - No Limits\Escarras - No Limits_RAW\39_ElecGtr8.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    40_ElecGtr8DT.wav:
+      Track_path: Escarras - No Limits\Escarras - No Limits_RAW\40_ElecGtr8DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Piano: {}
+  Electric_Piano:
+    43_Rhodes.wav:
+      Track_path: Escarras - No Limits\Escarras - No Limits_RAW\43_Rhodes.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet:
+    46_Trumpet1.wav:
+      Track_path: Escarras - No Limits\Escarras - No Limits_RAW\46_Trumpet1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    47_Trumpet2.wav:
+      Track_path: Escarras - No Limits\Escarras - No Limits_RAW\47_Trumpet2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  French_Horn: {}
+  Trombone:
+    45_Trombone.wav:
+      Track_path: Escarras - No Limits\Escarras - No Limits_RAW\45_Trombone.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    48_LeadVox.wav:
+      Track_path: Escarras - No Limits\Escarras - No Limits_RAW\48_LeadVox.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Choir: {}
+  Backing_Vocal:
+    49_BackingVox1.wav:
+      Track_path: Escarras - No Limits\Escarras - No Limits_RAW\49_BackingVox1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    50_BackingVox1DT.wav:
+      Track_path: Escarras - No Limits\Escarras - No Limits_RAW\50_BackingVox1DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    51_BackingVox2.wav:
+      Track_path: Escarras - No Limits\Escarras - No Limits_RAW\51_BackingVox2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    52_BackingVox2DT.wav:
+      Track_path: Escarras - No Limits\Escarras - No Limits_RAW\52_BackingVox2DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    53_BackingVox3.wav:
+      Track_path: Escarras - No Limits\Escarras - No Limits_RAW\53_BackingVox3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    54_BackingVox3DT.wav:
+      Track_path: Escarras - No Limits\Escarras - No Limits_RAW\54_BackingVox3DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    55_BackingVox4.wav:
+      Track_path: Escarras - No Limits\Escarras - No Limits_RAW\55_BackingVox4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Unused: {}
+  Ambient_Microphone: {}

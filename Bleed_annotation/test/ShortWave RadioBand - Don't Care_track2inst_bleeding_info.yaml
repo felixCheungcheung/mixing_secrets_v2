@@ -1,0 +1,333 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer: {}
+  SFX: {}
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    01_Kick.wav:
+      Track_path: ShortWave RadioBand - Don't Care\ShortWave RadioBand - Don't Care_RAW\01_Kick.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_Snare:
+    02_SnareUp.wav:
+      Track_path: ShortWave RadioBand - Don't Care\ShortWave RadioBand - Don't Care_RAW\02_SnareUp.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    03_SnareDown.wav:
+      Track_path: ShortWave RadioBand - Don't Care\ShortWave RadioBand - Don't Care_RAW\03_SnareDown.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_HiHat:
+    04_HiHat.wav:
+      Track_path: ShortWave RadioBand - Don't Care\ShortWave RadioBand - Don't Care_RAW\04_HiHat.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_Cymbals:
+    08_Cymbals.wav:
+      Track_path: ShortWave RadioBand - Don't Care\ShortWave RadioBand - Don't Care_RAW\08_Cymbals.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_Overheads:
+    05_Overheads.wav:
+      Track_path: ShortWave RadioBand - Don't Care\ShortWave RadioBand - Don't Care_RAW\05_Overheads.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Tom:
+    06_Tom1.wav:
+      Track_path: ShortWave RadioBand - Don't Care\ShortWave RadioBand - Don't Care_RAW\06_Tom1.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    07_Tom2.wav:
+      Track_path: ShortWave RadioBand - Don't Care\ShortWave RadioBand - Don't Care_RAW\07_Tom2.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_Room: {}
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine:
+    09_Tambourine.wav:
+      Track_path: ShortWave RadioBand - Don't Care\ShortWave RadioBand - Don't Care_RAW\09_Tambourine.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Loop: {}
+  Clicks: {}
+  Claps:
+    10_Claps1.wav:
+      Track_path: ShortWave RadioBand - Don't Care\ShortWave RadioBand - Don't Care_RAW\10_Claps1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    11_Claps2.wav:
+      Track_path: ShortWave RadioBand - Don't Care\ShortWave RadioBand - Don't Care_RAW\11_Claps2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    12_Claps3.wav:
+      Track_path: ShortWave RadioBand - Don't Care\ShortWave RadioBand - Don't Care_RAW\12_Claps3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    13_Claps4.wav:
+      Track_path: ShortWave RadioBand - Don't Care\ShortWave RadioBand - Don't Care_RAW\13_Claps4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass: {}
+  Electric_Bass:
+    14_Bass.wav:
+      Track_path: ShortWave RadioBand - Don't Care\ShortWave RadioBand - Don't Care_RAW\14_Bass.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Acoustic_Guitar: {}
+  Electric_Guitar:
+    15_ElecGtr01.wav:
+      Track_path: ShortWave RadioBand - Don't Care\ShortWave RadioBand - Don't Care_RAW\15_ElecGtr01.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    16_ElecGtr01DT.wav:
+      Track_path: ShortWave RadioBand - Don't Care\ShortWave RadioBand - Don't Care_RAW\16_ElecGtr01DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    17_ElecGtr02.wav:
+      Track_path: ShortWave RadioBand - Don't Care\ShortWave RadioBand - Don't Care_RAW\17_ElecGtr02.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    18_EelcGtr03.wav:
+      Track_path: ShortWave RadioBand - Don't Care\ShortWave RadioBand - Don't Care_RAW\18_EelcGtr03.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    19_ElecGtr04.wav:
+      Track_path: ShortWave RadioBand - Don't Care\ShortWave RadioBand - Don't Care_RAW\19_ElecGtr04.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    20_ElecGtr05.wav:
+      Track_path: ShortWave RadioBand - Don't Care\ShortWave RadioBand - Don't Care_RAW\20_ElecGtr05.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    21_ElecGtr06.wav:
+      Track_path: ShortWave RadioBand - Don't Care\ShortWave RadioBand - Don't Care_RAW\21_ElecGtr06.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    22_ElecGtr06DT.wav:
+      Track_path: ShortWave RadioBand - Don't Care\ShortWave RadioBand - Don't Care_RAW\22_ElecGtr06DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    23_ElecGtr07.wav:
+      Track_path: ShortWave RadioBand - Don't Care\ShortWave RadioBand - Don't Care_RAW\23_ElecGtr07.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    24_ElecGtr08.wav:
+      Track_path: ShortWave RadioBand - Don't Care\ShortWave RadioBand - Don't Care_RAW\24_ElecGtr08.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    25_ElecGtr09.wav:
+      Track_path: ShortWave RadioBand - Don't Care\ShortWave RadioBand - Don't Care_RAW\25_ElecGtr09.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    26_ElecGtr10.wav:
+      Track_path: ShortWave RadioBand - Don't Care\ShortWave RadioBand - Don't Care_RAW\26_ElecGtr10.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    27_ElecGtr11.wav:
+      Track_path: ShortWave RadioBand - Don't Care\ShortWave RadioBand - Don't Care_RAW\27_ElecGtr11.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    28_ElecGtr12.wav:
+      Track_path: ShortWave RadioBand - Don't Care\ShortWave RadioBand - Don't Care_RAW\28_ElecGtr12.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    29_ElecGtr13.wav:
+      Track_path: ShortWave RadioBand - Don't Care\ShortWave RadioBand - Don't Care_RAW\29_ElecGtr13.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    30_ElecGtr14.wav:
+      Track_path: ShortWave RadioBand - Don't Care\ShortWave RadioBand - Don't Care_RAW\30_ElecGtr14.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    31_ElecGtr15.wav:
+      Track_path: ShortWave RadioBand - Don't Care\ShortWave RadioBand - Don't Care_RAW\31_ElecGtr15.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Piano: {}
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    32_LeadVox.wav:
+      Track_path: ShortWave RadioBand - Don't Care\ShortWave RadioBand - Don't Care_RAW\32_LeadVox.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    33_LeadVoxDT.wav:
+      Track_path: ShortWave RadioBand - Don't Care\ShortWave RadioBand - Don't Care_RAW\33_LeadVoxDT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Choir: {}
+  Backing_Vocal:
+    34_BackingVox01.wav:
+      Track_path: ShortWave RadioBand - Don't Care\ShortWave RadioBand - Don't Care_RAW\34_BackingVox01.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    35_BackingVox02.wav:
+      Track_path: ShortWave RadioBand - Don't Care\ShortWave RadioBand - Don't Care_RAW\35_BackingVox02.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    36_BackingVox03.wav:
+      Track_path: ShortWave RadioBand - Don't Care\ShortWave RadioBand - Don't Care_RAW\36_BackingVox03.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    37_BackingVox03DT.wav:
+      Track_path: ShortWave RadioBand - Don't Care\ShortWave RadioBand - Don't Care_RAW\37_BackingVox03DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    38_BackingVox04.wav:
+      Track_path: ShortWave RadioBand - Don't Care\ShortWave RadioBand - Don't Care_RAW\38_BackingVox04.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    39_BackingVox04DT.wav:
+      Track_path: ShortWave RadioBand - Don't Care\ShortWave RadioBand - Don't Care_RAW\39_BackingVox04DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    40_BackingVox05.wav:
+      Track_path: ShortWave RadioBand - Don't Care\ShortWave RadioBand - Don't Care_RAW\40_BackingVox05.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    41_BackingVox05DT.wav:
+      Track_path: ShortWave RadioBand - Don't Care\ShortWave RadioBand - Don't Care_RAW\41_BackingVox05DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    42_BackingVox06.wav:
+      Track_path: ShortWave RadioBand - Don't Care\ShortWave RadioBand - Don't Care_RAW\42_BackingVox06.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    43_BackingVox06DT1.wav:
+      Track_path: ShortWave RadioBand - Don't Care\ShortWave RadioBand - Don't Care_RAW\43_BackingVox06DT1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    44_BackingVox06DT2.wav:
+      Track_path: ShortWave RadioBand - Don't Care\ShortWave RadioBand - Don't Care_RAW\44_BackingVox06DT2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    45_BackingVox07.wav:
+      Track_path: ShortWave RadioBand - Don't Care\ShortWave RadioBand - Don't Care_RAW\45_BackingVox07.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    46_BackingVox08.wav:
+      Track_path: ShortWave RadioBand - Don't Care\ShortWave RadioBand - Don't Care_RAW\46_BackingVox08.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    47_BackingVox09.wav:
+      Track_path: ShortWave RadioBand - Don't Care\ShortWave RadioBand - Don't Care_RAW\47_BackingVox09.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    48_BackingVox09DT.wav:
+      Track_path: ShortWave RadioBand - Don't Care\ShortWave RadioBand - Don't Care_RAW\48_BackingVox09DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    49_BackingVox10.wav:
+      Track_path: ShortWave RadioBand - Don't Care\ShortWave RadioBand - Don't Care_RAW\49_BackingVox10.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    50_BackingVox10DT.wav:
+      Track_path: ShortWave RadioBand - Don't Care\ShortWave RadioBand - Don't Care_RAW\50_BackingVox10DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    51_BackingVox11.wav:
+      Track_path: ShortWave RadioBand - Don't Care\ShortWave RadioBand - Don't Care_RAW\51_BackingVox11.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    52_BackingVox11DT.wav:
+      Track_path: ShortWave RadioBand - Don't Care\ShortWave RadioBand - Don't Care_RAW\52_BackingVox11DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Unused: {}
+  Ambient_Microphone: {}

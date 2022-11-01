@@ -1,0 +1,148 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer:
+    07_Synth01.wav:
+      Track_path: Skelpolu - Resurrection Resurrected\Skelpolu - Resurrection Resurrected_RAW\07_Synth01.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    08_Synth02.wav:
+      Track_path: Skelpolu - Resurrection Resurrected\Skelpolu - Resurrection Resurrected_RAW\08_Synth02.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    09_Synth03.wav:
+      Track_path: Skelpolu - Resurrection Resurrected\Skelpolu - Resurrection Resurrected_RAW\09_Synth03.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    10_Synth04.wav:
+      Track_path: Skelpolu - Resurrection Resurrected\Skelpolu - Resurrection Resurrected_RAW\10_Synth04.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    11_Synth05.wav:
+      Track_path: Skelpolu - Resurrection Resurrected\Skelpolu - Resurrection Resurrected_RAW\11_Synth05.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    12_Synth06.wav:
+      Track_path: Skelpolu - Resurrection Resurrected\Skelpolu - Resurrection Resurrected_RAW\12_Synth06.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    13_Synth07.wav:
+      Track_path: Skelpolu - Resurrection Resurrected\Skelpolu - Resurrection Resurrected_RAW\13_Synth07.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  SFX: {}
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    01_Kick.wav:
+      Track_path: Skelpolu - Resurrection Resurrected\Skelpolu - Resurrection Resurrected_RAW\01_Kick.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Snare:
+    02_Snare.wav:
+      Track_path: Skelpolu - Resurrection Resurrected\Skelpolu - Resurrection Resurrected_RAW\02_Snare.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_HiHat:
+    03_HiHat.wav:
+      Track_path: Skelpolu - Resurrection Resurrected\Skelpolu - Resurrection Resurrected_RAW\03_HiHat.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Cymbals:
+    05_Cymbal.wav:
+      Track_path: Skelpolu - Resurrection Resurrected\Skelpolu - Resurrection Resurrected_RAW\05_Cymbal.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Overheads: {}
+  Drum_Tom: {}
+  Drum_Room: {}
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine:
+    04_Tambourine.wav:
+      Track_path: Skelpolu - Resurrection Resurrected\Skelpolu - Resurrection Resurrected_RAW\04_Tambourine.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Loop: {}
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass:
+    06_Bass.wav:
+      Track_path: Skelpolu - Resurrection Resurrected\Skelpolu - Resurrection Resurrected_RAW\06_Bass.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Electric_Bass: {}
+  Acoustic_Guitar: {}
+  Electric_Guitar: {}
+  Piano: {}
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    14_Vox1.wav:
+      Track_path: Skelpolu - Resurrection Resurrected\Skelpolu - Resurrection Resurrected_RAW\14_Vox1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    15_Vox2.wav:
+      Track_path: Skelpolu - Resurrection Resurrected\Skelpolu - Resurrection Resurrected_RAW\15_Vox2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Choir: {}
+  Backing_Vocal: {}
+  Unused: {}
+  Ambient_Microphone: {}

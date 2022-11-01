@@ -1,0 +1,198 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer:
+    20_Synth1.wav:
+      Track_path: Jade Safirah - Paraisso\Jade Safirah - Paraisso_RAW\20_Synth1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    21_Synth2.wav:
+      Track_path: Jade Safirah - Paraisso\Jade Safirah - Paraisso_RAW\21_Synth2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    23_Synth4.wav:
+      Track_path: Jade Safirah - Paraisso\Jade Safirah - Paraisso_RAW\23_Synth4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    24_Synth5.wav:
+      Track_path: Jade Safirah - Paraisso\Jade Safirah - Paraisso_RAW\24_Synth5.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    25_Synth6.wav:
+      Track_path: Jade Safirah - Paraisso\Jade Safirah - Paraisso_RAW\25_Synth6.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  SFX:
+    12_SFX.wav:
+      Track_path: Jade Safirah - Paraisso\Jade Safirah - Paraisso_RAW\12_SFX.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    17_VoxSFX1.wav:
+      Track_path: Jade Safirah - Paraisso\Jade Safirah - Paraisso_RAW\17_VoxSFX1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    18_VoxSFX2.wav:
+      Track_path: Jade Safirah - Paraisso\Jade Safirah - Paraisso_RAW\18_VoxSFX2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    01_Kick1.wav:
+      Track_path: Jade Safirah - Paraisso\Jade Safirah - Paraisso_RAW\01_Kick1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    02_Kick2.wav:
+      Track_path: Jade Safirah - Paraisso\Jade Safirah - Paraisso_RAW\02_Kick2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Snare:
+    03_Snare.wav:
+      Track_path: Jade Safirah - Paraisso\Jade Safirah - Paraisso_RAW\03_Snare.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_HiHat:
+    06_Hihat1.wav:
+      Track_path: Jade Safirah - Paraisso\Jade Safirah - Paraisso_RAW\06_Hihat1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    07_HiHat2.wav:
+      Track_path: Jade Safirah - Paraisso\Jade Safirah - Paraisso_RAW\07_HiHat2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Cymbals:
+    10_CymbalSwells.wav:
+      Track_path: Jade Safirah - Paraisso\Jade Safirah - Paraisso_RAW\10_CymbalSwells.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Overheads: {}
+  Drum_Tom: {}
+  Drum_Room: {}
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop: {}
+  Clicks: {}
+  Claps:
+    04_Claps1.wav:
+      Track_path: Jade Safirah - Paraisso\Jade Safirah - Paraisso_RAW\04_Claps1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    05_Claps2.wav:
+      Track_path: Jade Safirah - Paraisso\Jade Safirah - Paraisso_RAW\05_Claps2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro:
+    08_Pandeiro1.wav:
+      Track_path: Jade Safirah - Paraisso\Jade Safirah - Paraisso_RAW\08_Pandeiro1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    09_Pandeiro2.wav:
+      Track_path: Jade Safirah - Paraisso\Jade Safirah - Paraisso_RAW\09_Pandeiro2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Percussion:
+    11_Loop.wav:
+      Track_path: Jade Safirah - Paraisso\Jade Safirah - Paraisso_RAW\11_Loop.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Synth_Bass:
+    13_Bass.wav:
+      Track_path: Jade Safirah - Paraisso\Jade Safirah - Paraisso_RAW\13_Bass.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    22_Synth3.wav:
+      Track_path: Jade Safirah - Paraisso\Jade Safirah - Paraisso_RAW\22_Synth3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Electric_Bass: {}
+  Acoustic_Guitar: {}
+  Electric_Guitar:
+    14_ElecGtr.wav:
+      Track_path: Jade Safirah - Paraisso\Jade Safirah - Paraisso_RAW\14_ElecGtr.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Piano:
+    19_Piano.wav:
+      Track_path: Jade Safirah - Paraisso\Jade Safirah - Paraisso_RAW\19_Piano.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    15_LeadVox.wav:
+      Track_path: Jade Safirah - Paraisso\Jade Safirah - Paraisso_RAW\15_LeadVox.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Choir: {}
+  Backing_Vocal:
+    16_LeadVoxHarm.wav:
+      Track_path: Jade Safirah - Paraisso\Jade Safirah - Paraisso_RAW\16_LeadVoxHarm.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Unused: {}
+  Ambient_Microphone: {}

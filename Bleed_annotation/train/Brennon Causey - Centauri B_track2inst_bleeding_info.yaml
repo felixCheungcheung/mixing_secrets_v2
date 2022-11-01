@@ -1,0 +1,228 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer:
+    19_Synth1.wav:
+      Track_path: Brennon Causey - Centauri B\Brennon Causey - Centauri B_RAW\19_Synth1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    20_Synth2.wav:
+      Track_path: Brennon Causey - Centauri B\Brennon Causey - Centauri B_RAW\20_Synth2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    21_Synth3.wav:
+      Track_path: Brennon Causey - Centauri B\Brennon Causey - Centauri B_RAW\21_Synth3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    22_Synth4.wav:
+      Track_path: Brennon Causey - Centauri B\Brennon Causey - Centauri B_RAW\22_Synth4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    23_Synth5.wav:
+      Track_path: Brennon Causey - Centauri B\Brennon Causey - Centauri B_RAW\23_Synth5.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    24_Synth6.wav:
+      Track_path: Brennon Causey - Centauri B\Brennon Causey - Centauri B_RAW\24_Synth6.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    25_Synth7.wav:
+      Track_path: Brennon Causey - Centauri B\Brennon Causey - Centauri B_RAW\25_Synth7.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    26_SynthSFX1.wav:
+      Track_path: Brennon Causey - Centauri B\Brennon Causey - Centauri B_RAW\26_SynthSFX1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    27_SynthSFX2.wav:
+      Track_path: Brennon Causey - Centauri B\Brennon Causey - Centauri B_RAW\27_SynthSFX2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  SFX:
+    15_SFX.wav:
+      Track_path: Brennon Causey - Centauri B\Brennon Causey - Centauri B_RAW\15_SFX.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    01_Kick1.wav:
+      Track_path: Brennon Causey - Centauri B\Brennon Causey - Centauri B_RAW\01_Kick1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    02_Kick2.wav:
+      Track_path: Brennon Causey - Centauri B\Brennon Causey - Centauri B_RAW\02_Kick2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Snare:
+    03_Snare1.wav:
+      Track_path: Brennon Causey - Centauri B\Brennon Causey - Centauri B_RAW\03_Snare1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    04_Snare2.wav:
+      Track_path: Brennon Causey - Centauri B\Brennon Causey - Centauri B_RAW\04_Snare2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    05_Snare3.wav:
+      Track_path: Brennon Causey - Centauri B\Brennon Causey - Centauri B_RAW\05_Snare3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_HiHat:
+    07_HiHat1.wav:
+      Track_path: Brennon Causey - Centauri B\Brennon Causey - Centauri B_RAW\07_HiHat1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    08_HiHat2.wav:
+      Track_path: Brennon Causey - Centauri B\Brennon Causey - Centauri B_RAW\08_HiHat2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    09_HiHat3.wav:
+      Track_path: Brennon Causey - Centauri B\Brennon Causey - Centauri B_RAW\09_HiHat3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Cymbals:
+    13_Cymbal1.wav:
+      Track_path: Brennon Causey - Centauri B\Brennon Causey - Centauri B_RAW\13_Cymbal1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    14_Cymbal2.wav:
+      Track_path: Brennon Causey - Centauri B\Brennon Causey - Centauri B_RAW\14_Cymbal2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Overheads: {}
+  Drum_Tom:
+    06_Toms.wav:
+      Track_path: Brennon Causey - Centauri B\Brennon Causey - Centauri B_RAW\06_Toms.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Room: {}
+  Shaker:
+    10_Shaker1.wav:
+      Track_path: Brennon Causey - Centauri B\Brennon Causey - Centauri B_RAW\10_Shaker1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    11_Shaker2.wav:
+      Track_path: Brennon Causey - Centauri B\Brennon Causey - Centauri B_RAW\11_Shaker2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    12_Shaker3.wav:
+      Track_path: Brennon Causey - Centauri B\Brennon Causey - Centauri B_RAW\12_Shaker3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop: {}
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass:
+    16_Bass1.wav:
+      Track_path: Brennon Causey - Centauri B\Brennon Causey - Centauri B_RAW\16_Bass1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    17_Bass2.wav:
+      Track_path: Brennon Causey - Centauri B\Brennon Causey - Centauri B_RAW\17_Bass2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    18_BassSFX.wav:
+      Track_path: Brennon Causey - Centauri B\Brennon Causey - Centauri B_RAW\18_BassSFX.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Electric_Bass: {}
+  Acoustic_Guitar: {}
+  Electric_Guitar: {}
+  Piano: {}
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal: {}
+  Choir:
+    28_Choir1.wav:
+      Track_path: Brennon Causey - Centauri B\Brennon Causey - Centauri B_RAW\28_Choir1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    29_Choir2.wav:
+      Track_path: Brennon Causey - Centauri B\Brennon Causey - Centauri B_RAW\29_Choir2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    30_Choir3.wav:
+      Track_path: Brennon Causey - Centauri B\Brennon Causey - Centauri B_RAW\30_Choir3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    31_Choir4.wav:
+      Track_path: Brennon Causey - Centauri B\Brennon Causey - Centauri B_RAW\31_Choir4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Backing_Vocal: {}
+  Unused: {}
+  Ambient_Microphone: {}

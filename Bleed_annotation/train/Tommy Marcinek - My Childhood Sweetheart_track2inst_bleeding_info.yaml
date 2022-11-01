@@ -1,0 +1,217 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer: {}
+  SFX: {}
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    01_Kick.wav:
+      Track_path: Tommy Marcinek - My Childhood Sweetheart\Tommy Marcinek - My Childhood
+        Sweetheart_RAW\01_Kick.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Snare:
+    02_Snare.wav:
+      Track_path: Tommy Marcinek - My Childhood Sweetheart\Tommy Marcinek - My Childhood
+        Sweetheart_RAW\02_Snare.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_HiHat:
+    03_HiHat.wav:
+      Track_path: Tommy Marcinek - My Childhood Sweetheart\Tommy Marcinek - My Childhood
+        Sweetheart_RAW\03_HiHat.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Cymbals:
+    04_Ride.wav:
+      Track_path: Tommy Marcinek - My Childhood Sweetheart\Tommy Marcinek - My Childhood
+        Sweetheart_RAW\04_Ride.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    05_Crash1.wav:
+      Track_path: Tommy Marcinek - My Childhood Sweetheart\Tommy Marcinek - My Childhood
+        Sweetheart_RAW\05_Crash1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    06_Crash2.wav:
+      Track_path: Tommy Marcinek - My Childhood Sweetheart\Tommy Marcinek - My Childhood
+        Sweetheart_RAW\06_Crash2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    07_Crash3.wav:
+      Track_path: Tommy Marcinek - My Childhood Sweetheart\Tommy Marcinek - My Childhood
+        Sweetheart_RAW\07_Crash3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Overheads:
+    08_Overheads.wav:
+      Track_path: Tommy Marcinek - My Childhood Sweetheart\Tommy Marcinek - My Childhood
+        Sweetheart_RAW\08_Overheads.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Tom:
+    16_Tom1.wav:
+      Track_path: Tommy Marcinek - My Childhood Sweetheart\Tommy Marcinek - My Childhood
+        Sweetheart_RAW\16_Tom1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    17_Tom2.wav:
+      Track_path: Tommy Marcinek - My Childhood Sweetheart\Tommy Marcinek - My Childhood
+        Sweetheart_RAW\17_Tom2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    18_Tom3.wav:
+      Track_path: Tommy Marcinek - My Childhood Sweetheart\Tommy Marcinek - My Childhood
+        Sweetheart_RAW\18_Tom3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    19_Tom4.wav:
+      Track_path: Tommy Marcinek - My Childhood Sweetheart\Tommy Marcinek - My Childhood
+        Sweetheart_RAW\19_Tom4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Room:
+    09_Room.wav:
+      Track_path: Tommy Marcinek - My Childhood Sweetheart\Tommy Marcinek - My Childhood
+        Sweetheart_RAW\09_Room.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop: {}
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass: {}
+  Electric_Bass:
+    11_Bass.wav:
+      Track_path: Tommy Marcinek - My Childhood Sweetheart\Tommy Marcinek - My Childhood
+        Sweetheart_RAW\11_Bass.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Acoustic_Guitar:
+    10_AcousticGtr.wav:
+      Track_path: Tommy Marcinek - My Childhood Sweetheart\Tommy Marcinek - My Childhood
+        Sweetheart_RAW\10_AcousticGtr.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Electric_Guitar:
+    12_ElecGtr.wav:
+      Track_path: Tommy Marcinek - My Childhood Sweetheart\Tommy Marcinek - My Childhood
+        Sweetheart_RAW\12_ElecGtr.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    13_ElecGtrDT.wav:
+      Track_path: Tommy Marcinek - My Childhood Sweetheart\Tommy Marcinek - My Childhood
+        Sweetheart_RAW\13_ElecGtrDT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Piano:
+    14_Piano.wav:
+      Track_path: Tommy Marcinek - My Childhood Sweetheart\Tommy Marcinek - My Childhood
+        Sweetheart_RAW\14_Piano.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone:
+    15_Sax.wav:
+      Track_path: Tommy Marcinek - My Childhood Sweetheart\Tommy Marcinek - My Childhood
+        Sweetheart_RAW\15_Sax.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    20_LeadVox.wav:
+      Track_path: Tommy Marcinek - My Childhood Sweetheart\Tommy Marcinek - My Childhood
+        Sweetheart_RAW\20_LeadVox.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Choir: {}
+  Backing_Vocal:
+    21_BackingVox1.wav:
+      Track_path: Tommy Marcinek - My Childhood Sweetheart\Tommy Marcinek - My Childhood
+        Sweetheart_RAW\21_BackingVox1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    22_BackingVox2.wav:
+      Track_path: Tommy Marcinek - My Childhood Sweetheart\Tommy Marcinek - My Childhood
+        Sweetheart_RAW\22_BackingVox2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    23_BackingVox3.wav:
+      Track_path: Tommy Marcinek - My Childhood Sweetheart\Tommy Marcinek - My Childhood
+        Sweetheart_RAW\23_BackingVox3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    24_BackingVox4.wav:
+      Track_path: Tommy Marcinek - My Childhood Sweetheart\Tommy Marcinek - My Childhood
+        Sweetheart_RAW\24_BackingVox4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Unused: {}
+  Ambient_Microphone: {}

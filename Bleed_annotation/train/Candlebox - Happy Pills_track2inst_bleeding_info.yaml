@@ -1,0 +1,167 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer: {}
+  SFX: {}
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    Drums-Kick In-M82.wav:
+      Track_path: Candlebox - Happy Pills\Candlebox - Happy Pills_RAW\Drums-Kick In-M82.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads, Electric_Guitar, Lead_Vocal'
+      Comment: ''
+    Drums-Kick Out-647.wav:
+      Track_path: Candlebox - Happy Pills\Candlebox - Happy Pills_RAW\Drums-Kick Out-647.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads, Electric_Guitar, Lead_Vocal'
+      Comment: ''
+  Drum_Snare:
+    Drums-Snare Bot-M81.wav:
+      Track_path: Candlebox - Happy Pills\Candlebox - Happy Pills_RAW\Drums-Snare
+        Bot-M81.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads, Electric_Guitar, Lead_Vocal'
+      Comment: ''
+    Drums-Snare-M80.wav:
+      Track_path: Candlebox - Happy Pills\Candlebox - Happy Pills_RAW\Drums-Snare-M80.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads, Electric_Guitar, Lead_Vocal'
+      Comment: ''
+  Drum_HiHat:
+    Drums-Hat-M60.wav:
+      Track_path: Candlebox - Happy Pills\Candlebox - Happy Pills_RAW\Drums-Hat-M60.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads, Electric_Guitar, Lead_Vocal'
+      Comment: ''
+  Drum_Cymbals: {}
+  Drum_Overheads:
+    Drums-Over-TF51.wav:
+      Track_path: Candlebox - Happy Pills\Candlebox - Happy Pills_RAW\Drums-Over-TF51.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Electric_Guitar, Lead_Vocal'
+      Comment: ''
+  Drum_Tom:
+    Drums-Rack Tom-M81.wav:
+      Track_path: Candlebox - Happy Pills\Candlebox - Happy Pills_RAW\Drums-Rack Tom-M81.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads, Electric_Guitar, Lead_Vocal'
+      Comment: ''
+    Drums-Floor 2-M81.wav:
+      Track_path: Candlebox - Happy Pills\Candlebox - Happy Pills_RAW\Drums-Floor
+        2-M81.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads, Electric_Guitar, Lead_Vocal'
+      Comment: ''
+    Drums-Floor-M81.wav:
+      Track_path: Candlebox - Happy Pills\Candlebox - Happy Pills_RAW\Drums-Floor-M81.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads, Electric_Guitar, Lead_Vocal'
+      Comment: ''
+  Drum_Room: {}
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop: {}
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass: {}
+  Electric_Bass:
+    Bass-Active DI.wav:
+      Track_path: Candlebox - Happy Pills\Candlebox - Happy Pills_RAW\Bass-Active
+        DI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Bass-Amp-M80.wav:
+      Track_path: Candlebox - Happy Pills\Candlebox - Happy Pills_RAW\Bass-Amp-M80.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Bass-Amp-U47.wav:
+      Track_path: Candlebox - Happy Pills\Candlebox - Happy Pills_RAW\Bass-Amp-U47.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Acoustic_Guitar: {}
+  Electric_Guitar:
+    ELE GTR1 Dis-M80.wav:
+      Track_path: Candlebox - Happy Pills\Candlebox - Happy Pills_RAW\ELE GTR1 Dis-M80.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads, Lead_Vocal'
+      Comment: ''
+    ELE Guitar2 Dis-M81.wav:
+      Track_path: Candlebox - Happy Pills\Candlebox - Happy Pills_RAW\ELE Guitar2
+        Dis-M81.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads, Lead_Vocal'
+      Comment: ''
+  Piano: {}
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    Vocals-Brian-Proto.wav:
+      Track_path: Candlebox - Happy Pills\Candlebox - Happy Pills_RAW\Vocals-Brian-Proto.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads, Electric_Guitar'
+      Comment: ''
+    Vocals-Kevin-Proto.wav:
+      Track_path: Candlebox - Happy Pills\Candlebox - Happy Pills_RAW\Vocals-Kevin-Proto.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads, Electric_Guitar'
+      Comment: ''
+  Choir: {}
+  Backing_Vocal: {}
+  Unused:
+    Vocals-Adam-Proto.wav:
+      Track_path: Candlebox - Happy Pills\Candlebox - Happy Pills_RAW\Vocals-Adam-Proto.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Ambient_Microphone:
+    Drums-Room-M60.wav:
+      Track_path: Candlebox - Happy Pills\Candlebox - Happy Pills_RAW\Drums-Room-M60.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: ''
+      Comment: ''

@@ -1,0 +1,193 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer:
+    09_SynthPad1.wav:
+      Track_path: James Elder & Mark M Thompson - The English Actor\James Elder &
+        Mark M Thompson - The English Actor_RAW\09_SynthPad1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    10_SynthPad2.wav:
+      Track_path: James Elder & Mark M Thompson - The English Actor\James Elder &
+        Mark M Thompson - The English Actor_RAW\10_SynthPad2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    11_SynthFuzz.wav:
+      Track_path: James Elder & Mark M Thompson - The English Actor\James Elder &
+        Mark M Thompson - The English Actor_RAW\11_SynthFuzz.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    12_SynthLead.wav:
+      Track_path: James Elder & Mark M Thompson - The English Actor\James Elder &
+        Mark M Thompson - The English Actor_RAW\12_SynthLead.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  SFX:
+    14_SynthFX2.wav:
+      Track_path: James Elder & Mark M Thompson - The English Actor\James Elder &
+        Mark M Thompson - The English Actor_RAW\14_SynthFX2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    01_Kick.wav:
+      Track_path: James Elder & Mark M Thompson - The English Actor\James Elder &
+        Mark M Thompson - The English Actor_RAW\01_Kick.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Snare:
+    02_SnareUp.wav:
+      Track_path: James Elder & Mark M Thompson - The English Actor\James Elder &
+        Mark M Thompson - The English Actor_RAW\02_SnareUp.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    03_SnareDown.wav:
+      Track_path: James Elder & Mark M Thompson - The English Actor\James Elder &
+        Mark M Thompson - The English Actor_RAW\03_SnareDown.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_HiHat:
+    04_HiHat.wav:
+      Track_path: James Elder & Mark M Thompson - The English Actor\James Elder &
+        Mark M Thompson - The English Actor_RAW\04_HiHat.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Cymbals: {}
+  Drum_Overheads:
+    05_Overheads.wav:
+      Track_path: James Elder & Mark M Thompson - The English Actor\James Elder &
+        Mark M Thompson - The English Actor_RAW\05_Overheads.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Tom:
+    07_Toms.wav:
+      Track_path: James Elder & Mark M Thompson - The English Actor\James Elder &
+        Mark M Thompson - The English Actor_RAW\07_Toms.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Room:
+    06_DrumsRoom.wav:
+      Track_path: James Elder & Mark M Thompson - The English Actor\James Elder &
+        Mark M Thompson - The English Actor_RAW\06_DrumsRoom.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop: {}
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass: {}
+  Electric_Bass:
+    08_Bass.wav:
+      Track_path: James Elder & Mark M Thompson - The English Actor\James Elder &
+        Mark M Thompson - The English Actor_RAW\08_Bass.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Acoustic_Guitar: {}
+  Electric_Guitar:
+    15_ElecGtr1.wav:
+      Track_path: James Elder & Mark M Thompson - The English Actor\James Elder &
+        Mark M Thompson - The English Actor_RAW\15_ElecGtr1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    16_ElecGtr2.wav:
+      Track_path: James Elder & Mark M Thompson - The English Actor\James Elder &
+        Mark M Thompson - The English Actor_RAW\16_ElecGtr2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    17_ElecGtr3.wav:
+      Track_path: James Elder & Mark M Thompson - The English Actor\James Elder &
+        Mark M Thompson - The English Actor_RAW\17_ElecGtr3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Piano: {}
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    18_LeadVox1.wav:
+      Track_path: James Elder & Mark M Thompson - The English Actor\James Elder &
+        Mark M Thompson - The English Actor_RAW\18_LeadVox1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    19_LeadVox2.wav:
+      Track_path: James Elder & Mark M Thompson - The English Actor\James Elder &
+        Mark M Thompson - The English Actor_RAW\19_LeadVox2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    20_LeadVox3.wav:
+      Track_path: James Elder & Mark M Thompson - The English Actor\James Elder &
+        Mark M Thompson - The English Actor_RAW\20_LeadVox3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Choir:
+    13_SynthFX1.wav:
+      Track_path: James Elder & Mark M Thompson - The English Actor\James Elder &
+        Mark M Thompson - The English Actor_RAW\13_SynthFX1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Backing_Vocal: {}
+  Unused: {}
+  Ambient_Microphone: {}

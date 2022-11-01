@@ -1,0 +1,325 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer:
+    23_Synth1.wav:
+      Track_path: Turn Back To Spring - Another Day Calling\Turn Back To Spring -
+        Another Day Calling_RAW\23_Synth1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    24_Synth2.wav:
+      Track_path: Turn Back To Spring - Another Day Calling\Turn Back To Spring -
+        Another Day Calling_RAW\24_Synth2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  SFX: {}
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    01_Kick.wav:
+      Track_path: Turn Back To Spring - Another Day Calling\Turn Back To Spring -
+        Another Day Calling_RAW\01_Kick.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Snare: {}
+  Drum_HiHat:
+    03_Hat.wav:
+      Track_path: Turn Back To Spring - Another Day Calling\Turn Back To Spring -
+        Another Day Calling_RAW\03_Hat.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Cymbals:
+    04_Cymbal.wav:
+      Track_path: Turn Back To Spring - Another Day Calling\Turn Back To Spring -
+        Another Day Calling_RAW\04_Cymbal.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Overheads:
+    02_SnareAndCymbal.wav:
+      Track_path: Turn Back To Spring - Another Day Calling\Turn Back To Spring -
+        Another Day Calling_RAW\02_SnareAndCymbal.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Tom: {}
+  Drum_Room: {}
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop: {}
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass: {}
+  Electric_Bass:
+    05_Bass.wav:
+      Track_path: Turn Back To Spring - Another Day Calling\Turn Back To Spring -
+        Another Day Calling_RAW\05_Bass.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    06_BassAlt.wav:
+      Track_path: Turn Back To Spring - Another Day Calling\Turn Back To Spring -
+        Another Day Calling_RAW\06_BassAlt.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Acoustic_Guitar:
+    07_Mandolin1.wav:
+      Track_path: Turn Back To Spring - Another Day Calling\Turn Back To Spring -
+        Another Day Calling_RAW\07_Mandolin1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    08_Mandolin1SFX.wav:
+      Track_path: Turn Back To Spring - Another Day Calling\Turn Back To Spring -
+        Another Day Calling_RAW\08_Mandolin1SFX.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    09_Mandolin2.wav:
+      Track_path: Turn Back To Spring - Another Day Calling\Turn Back To Spring -
+        Another Day Calling_RAW\09_Mandolin2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    10_Mandolin3.wav:
+      Track_path: Turn Back To Spring - Another Day Calling\Turn Back To Spring -
+        Another Day Calling_RAW\10_Mandolin3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    11_Mandolin4.wav:
+      Track_path: Turn Back To Spring - Another Day Calling\Turn Back To Spring -
+        Another Day Calling_RAW\11_Mandolin4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Electric_Guitar:
+    12_ElecGtr1.wav:
+      Track_path: Turn Back To Spring - Another Day Calling\Turn Back To Spring -
+        Another Day Calling_RAW\12_ElecGtr1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    13_ElecGtr2.wav:
+      Track_path: Turn Back To Spring - Another Day Calling\Turn Back To Spring -
+        Another Day Calling_RAW\13_ElecGtr2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    14_ElecGtr3.wav:
+      Track_path: Turn Back To Spring - Another Day Calling\Turn Back To Spring -
+        Another Day Calling_RAW\14_ElecGtr3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    15_ElecGtr4.wav:
+      Track_path: Turn Back To Spring - Another Day Calling\Turn Back To Spring -
+        Another Day Calling_RAW\15_ElecGtr4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    16_ElecGtr4DT.wav:
+      Track_path: Turn Back To Spring - Another Day Calling\Turn Back To Spring -
+        Another Day Calling_RAW\16_ElecGtr4DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    17_ElecGtr5.wav:
+      Track_path: Turn Back To Spring - Another Day Calling\Turn Back To Spring -
+        Another Day Calling_RAW\17_ElecGtr5.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    18_ElecGtr5DT.wav:
+      Track_path: Turn Back To Spring - Another Day Calling\Turn Back To Spring -
+        Another Day Calling_RAW\18_ElecGtr5DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    19_ElecGtr6.wav:
+      Track_path: Turn Back To Spring - Another Day Calling\Turn Back To Spring -
+        Another Day Calling_RAW\19_ElecGtr6.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    20_ElecGtr6DT.wav:
+      Track_path: Turn Back To Spring - Another Day Calling\Turn Back To Spring -
+        Another Day Calling_RAW\20_ElecGtr6DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    21_ElecGtr7.wav:
+      Track_path: Turn Back To Spring - Another Day Calling\Turn Back To Spring -
+        Another Day Calling_RAW\21_ElecGtr7.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Piano:
+    25_Piano1.wav:
+      Track_path: Turn Back To Spring - Another Day Calling\Turn Back To Spring -
+        Another Day Calling_RAW\25_Piano1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    26_Piano2.wav:
+      Track_path: Turn Back To Spring - Another Day Calling\Turn Back To Spring -
+        Another Day Calling_RAW\26_Piano2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section:
+    22_Strings.wav:
+      Track_path: Turn Back To Spring - Another Day Calling\Turn Back To Spring -
+        Another Day Calling_RAW\22_Strings.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    27_LeadVox.wav:
+      Track_path: Turn Back To Spring - Another Day Calling\Turn Back To Spring -
+        Another Day Calling_RAW\27_LeadVox.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    28_LeadVoxDT.wav:
+      Track_path: Turn Back To Spring - Another Day Calling\Turn Back To Spring -
+        Another Day Calling_RAW\28_LeadVoxDT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    29_LeadVoxAlt.wav:
+      Track_path: Turn Back To Spring - Another Day Calling\Turn Back To Spring -
+        Another Day Calling_RAW\29_LeadVoxAlt.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    30_LeadVoxAltDT.wav:
+      Track_path: Turn Back To Spring - Another Day Calling\Turn Back To Spring -
+        Another Day Calling_RAW\30_LeadVoxAltDT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Choir: {}
+  Backing_Vocal:
+    31_BackingVox1.wav:
+      Track_path: Turn Back To Spring - Another Day Calling\Turn Back To Spring -
+        Another Day Calling_RAW\31_BackingVox1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    32_BackingVox1DT.wav:
+      Track_path: Turn Back To Spring - Another Day Calling\Turn Back To Spring -
+        Another Day Calling_RAW\32_BackingVox1DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    33_BackingVox2.wav:
+      Track_path: Turn Back To Spring - Another Day Calling\Turn Back To Spring -
+        Another Day Calling_RAW\33_BackingVox2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    34_BackingVox2DT.wav:
+      Track_path: Turn Back To Spring - Another Day Calling\Turn Back To Spring -
+        Another Day Calling_RAW\34_BackingVox2DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    35_BackingVox3.wav:
+      Track_path: Turn Back To Spring - Another Day Calling\Turn Back To Spring -
+        Another Day Calling_RAW\35_BackingVox3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    36_BackingVox4.wav:
+      Track_path: Turn Back To Spring - Another Day Calling\Turn Back To Spring -
+        Another Day Calling_RAW\36_BackingVox4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    37_BackingVox4DT.wav:
+      Track_path: Turn Back To Spring - Another Day Calling\Turn Back To Spring -
+        Another Day Calling_RAW\37_BackingVox4DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    38_BackingVox5.wav:
+      Track_path: Turn Back To Spring - Another Day Calling\Turn Back To Spring -
+        Another Day Calling_RAW\38_BackingVox5.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    39_BackingVox6.wav:
+      Track_path: Turn Back To Spring - Another Day Calling\Turn Back To Spring -
+        Another Day Calling_RAW\39_BackingVox6.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    40_BackingVox7.wav:
+      Track_path: Turn Back To Spring - Another Day Calling\Turn Back To Spring -
+        Another Day Calling_RAW\40_BackingVox7.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    41_BackingVox8.wav:
+      Track_path: Turn Back To Spring - Another Day Calling\Turn Back To Spring -
+        Another Day Calling_RAW\41_BackingVox8.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    42_BackingVox9.wav:
+      Track_path: Turn Back To Spring - Another Day Calling\Turn Back To Spring -
+        Another Day Calling_RAW\42_BackingVox9.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Unused: {}
+  Ambient_Microphone: {}

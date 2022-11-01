@@ -1,0 +1,319 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer: {}
+  SFX:
+    09_SFX_Guiness.wav:
+      Track_path: Rovers Ahead - It's In These Times\Rovers Ahead - It's In These
+        Times_RAW\09_SFX_Guiness.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Marimba: {}
+  Bell:
+    08_Sleighbells.wav:
+      Track_path: Rovers Ahead - It's In These Times\Rovers Ahead - It's In These
+        Times_RAW\08_Sleighbells.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Accordian:
+    23_Accordion1Mic1.wav:
+      Track_path: Rovers Ahead - I  t's In These Times\Rovers Ahead - It's In These
+        Times_RAW\23_Accordion1Mic1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    24_Accordion1Mic2.wav:
+      Track_path: Rovers Ahead - It's In These Times\Rovers Ahead - It's In These
+        Times_RAW\24_Accordion1Mic2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    25_Accordion1Mic3.wav:
+      Track_path: Rovers Ahead - It's In These Times\Rovers Ahead - It's In These
+        Times_RAW\25_Accordion1Mic3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    26_Accordion2Mic1.wav:
+      Track_path: Rovers Ahead - It's In These Times\Rovers Ahead - It's In These
+        Times_RAW\26_Accordion2Mic1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    27_Accordion2Mic2.wav:
+      Track_path: Rovers Ahead - It's In These Times\Rovers Ahead - It's In These
+        Times_RAW\27_Accordion2Mic2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: 'recommend high pass filtering the low frequency noise'
+    28_Accordion2Mic3.wav:
+      Track_path: Rovers Ahead - It's In These Times\Rovers Ahead - It's In These
+        Times_RAW\28_Accordion2Mic3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    01_KickIn.wav:
+      Track_path: Rovers Ahead - It's In These Times\Rovers Ahead - It's In These
+        Times_RAW\01_KickIn.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    02_KickOut.wav:
+      Track_path: Rovers Ahead - It's In These Times\Rovers Ahead - It's In These
+        Times_RAW\02_KickOut.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_Snare:
+    03_Snare.wav:
+      Track_path: Rovers Ahead - It's In These Times\Rovers Ahead - It's In These
+        Times_RAW\03_Snare.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_HiHat:
+    04_HiHat.wav:
+      Track_path: Rovers Ahead - It's In These Times\Rovers Ahead - It's In These
+        Times_RAW\04_HiHat.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_Cymbals: {}
+  Drum_Overheads:
+    05_Overheads.wav:
+      Track_path: Rovers Ahead - It's In These Times\Rovers Ahead - It's In These
+        Times_RAW\05_Overheads.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    22_Autoharp.wav:
+      Track_path: Rovers Ahead - It's In These Times\Rovers Ahead - It's In These
+        Times_RAW\22_Autoharp.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Tom:
+    06_Tom1.wav:
+      Track_path: Rovers Ahead - It's In These Times\Rovers Ahead - It's In These
+        Times_RAW\06_Tom1.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    07_Tom2.wav:
+      Track_path: Rovers Ahead - It's In These Times\Rovers Ahead - It's In These
+        Times_RAW\07_Tom2.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_Room: {}
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop: {}
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass: {}
+  Electric_Bass:
+    10_BassSansamp.wav:
+      Track_path: Rovers Ahead - It's In These Times\Rovers Ahead - It's In These
+        Times_RAW\10_BassSansamp.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    11_BassAmp.wav:
+      Track_path: Rovers Ahead - It's In These Times\Rovers Ahead - It's In These
+        Times_RAW\11_BassAmp.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Acoustic_Guitar:
+    14_AcousticGtr1Mic1.wav:
+      Track_path: Rovers Ahead - It's In These Times\Rovers Ahead - It's In These
+        Times_RAW\14_AcousticGtr1Mic1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    15_AcousticGtr1Mic2.wav:
+      Track_path: Rovers Ahead - It's In These Times\Rovers Ahead - It's In These
+        Times_RAW\15_AcousticGtr1Mic2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    16_AcousticGtr2Mic1.wav:
+      Track_path: Rovers Ahead - It's In These Times\Rovers Ahead - It's In These
+        Times_RAW\16_AcousticGtr2Mic1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    17_AcousticGtr2Mic2.wav:
+      Track_path: Rovers Ahead - It's In These Times\Rovers Ahead - It's In These
+        Times_RAW\17_AcousticGtr2Mic2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    12_BanjoMic1.wav:
+      Track_path: Rovers Ahead - It's In These Times\Rovers Ahead - It's In These
+        Times_RAW\12_BanjoMic1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    13_BanjoMic2.wav:
+      Track_path: Rovers Ahead - It's In These Times\Rovers Ahead - It's In These
+        Times_RAW\13_BanjoMic2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    18_Mandolin1Mic1.wav:
+      Track_path: Rovers Ahead - It's In These Times\Rovers Ahead - It's In These
+        Times_RAW\18_Mandolin1Mic1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    19_Mandolin1Mic2.wav:
+      Track_path: Rovers Ahead - It's In These Times\Rovers Ahead - It's In These
+        Times_RAW\19_Mandolin1Mic2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    20_Mandolin2Mic1.wav:
+      Track_path: Rovers Ahead - It's In These Times\Rovers Ahead - It's In These
+        Times_RAW\20_Mandolin2Mic1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    21_Mandolin2Mic2.wav:
+      Track_path: Rovers Ahead - It's In These Times\Rovers Ahead - It's In These
+        Times_RAW\21_Mandolin2Mic2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Electric_Guitar: {}
+  Piano: {}
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin:
+    30_ViolinMic1.wav:
+      Track_path: Rovers Ahead - It's In These Times\Rovers Ahead - It's In These
+        Times_RAW\30_ViolinMic1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    31_ViolinMic2.wav:
+      Track_path: Rovers Ahead - It's In These Times\Rovers Ahead - It's In These
+        Times_RAW\31_ViolinMic2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Viola: {}
+  Cello:
+    29_Cello.wav:
+      Track_path: Rovers Ahead - It's In These Times\Rovers Ahead - It's In These
+        Times_RAW\29_Cello.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle:
+    32_Whistle1Mic1.wav:
+      Track_path: Rovers Ahead - It's In These Times\Rovers Ahead - It's In These
+        Times_RAW\32_Whistle1Mic1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    33_Whistle1Mic2.wav:
+      Track_path: Rovers Ahead - It's In These Times\Rovers Ahead - It's In These
+        Times_RAW\33_Whistle1Mic2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    34_Whistle2Mic1.wav:
+      Track_path: Rovers Ahead - It's In These Times\Rovers Ahead - It's In These
+        Times_RAW\34_Whistle2Mic1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    35_Whistle2Mic2.wav:
+      Track_path: Rovers Ahead - It's In These Times\Rovers Ahead - It's In These
+        Times_RAW\35_Whistle2Mic2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    36_LeadVox1.wav:
+      Track_path: Rovers Ahead - It's In These Times\Rovers Ahead - It's In These
+        Times_RAW\36_LeadVox1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    37_LeadVox2.wav:
+      Track_path: Rovers Ahead - It's In These Times\Rovers Ahead - It's In These
+        Times_RAW\37_LeadVox2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Choir: {}
+  Backing_Vocal:
+    38_BackingVox1.wav:
+      Track_path: Rovers Ahead - It's In These Times\Rovers Ahead - It's In These
+        Times_RAW\38_BackingVox1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    39_BackingVox2.wav:
+      Track_path: Rovers Ahead - It's In These Times\Rovers Ahead - It's In These
+        Times_RAW\39_BackingVox2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    40_BackingVox3.wav:
+      Track_path: Rovers Ahead - It's In These Times\Rovers Ahead - It's In These
+        Times_RAW\40_BackingVox3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    41_BackingVoxHarmonizer.wav:
+      Track_path: Rovers Ahead - It's In These Times\Rovers Ahead - It's In These
+        Times_RAW\41_BackingVoxHarmonizer.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Unused: {}
+  Ambient_Microphone: {}

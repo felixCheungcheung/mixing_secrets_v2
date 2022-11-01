@@ -1,0 +1,200 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer:
+    14 pluck_bip.wav:
+      Track_path: Major Lazer - Light It Up\Major Lazer - Light It Up_RAW\14 pluck_bip.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    15 pluck mallet_bip.wav:
+      Track_path: Major Lazer - Light It Up\Major Lazer - Light It Up_RAW\15 pluck
+        mallet_bip.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  SFX:
+    21 FX_bip.wav:
+      Track_path: Major Lazer - Light It Up\Major Lazer - Light It Up_RAW\21 FX_bip.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Marimba:
+    16 new high_bip.wav:
+      Track_path: Major Lazer - Light It Up\Major Lazer - Light It Up_RAW\16 new high_bip.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    17 marimba hi_bip.wav:
+      Track_path: Major Lazer - Light It Up\Major Lazer - Light It Up_RAW\17 marimba
+        hi_bip.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    01 Kick_bip.wav:
+      Track_path: Major Lazer - Light It Up\Major Lazer - Light It Up_RAW\01 Kick_bip.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Snare:
+    08 snare dmx_bip.wav:
+      Track_path: Major Lazer - Light It Up\Major Lazer - Light It Up_RAW\08 snare
+        dmx_bip.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_HiHat:
+    10 hihat_bip.wav:
+      Track_path: Major Lazer - Light It Up\Major Lazer - Light It Up_RAW\10 hihat_bip.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Cymbals: {}
+  Drum_Overheads: {}
+  Drum_Tom:
+    05 sn tom_bip.wav:
+      Track_path: Major Lazer - Light It Up\Major Lazer - Light It Up_RAW\05 sn tom_bip.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Room: {}
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop: {}
+  Clicks: {}
+  Claps:
+    02 clap 1_bip.wav:
+      Track_path: Major Lazer - Light It Up\Major Lazer - Light It Up_RAW\02 clap
+        1_bip.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    03 clap 2_bip.wav:
+      Track_path: Major Lazer - Light It Up\Major Lazer - Light It Up_RAW\03 clap
+        2_bip.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    04 clap reverb_bip.wav:
+      Track_path: Major Lazer - Light It Up\Major Lazer - Light It Up_RAW\04 clap
+        reverb_bip.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass:
+    11 bass_bip.wav:
+      Track_path: Major Lazer - Light It Up\Major Lazer - Light It Up_RAW\11 bass_bip.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Electric_Bass: {}
+  Acoustic_Guitar: {}
+  Electric_Guitar:
+    18 guitar_bip.wav:
+      Track_path: Major Lazer - Light It Up\Major Lazer - Light It Up_RAW\18 guitar_bip.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Piano: {}
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet:
+    19 trump lead_bip.wav:
+      Track_path: Major Lazer - Light It Up\Major Lazer - Light It Up_RAW\19 trump
+        lead_bip.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    22  NYLA LD_bip.wav:
+      Track_path: Major Lazer - Light It Up\Major Lazer - Light It Up_RAW\22  NYLA
+        LD_bip.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    23 FUSE LD_bip.wav:
+      Track_path: Major Lazer - Light It Up\Major Lazer - Light It Up_RAW\23 FUSE
+        LD_bip.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    24 FUSE LD 2_bip.wav:
+      Track_path: Major Lazer - Light It Up\Major Lazer - Light It Up_RAW\24 FUSE
+        LD 2_bip.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Choir: {}
+  Backing_Vocal:
+    25 NYLA BG_bip.wav:
+      Track_path: Major Lazer - Light It Up\Major Lazer - Light It Up_RAW\25 NYLA
+        BG_bip.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    26 VOC hey_bip.wav:
+      Track_path: Major Lazer - Light It Up\Major Lazer - Light It Up_RAW\26 VOC hey_bip.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    27 FUSE BG_bip.wav:
+      Track_path: Major Lazer - Light It Up\Major Lazer - Light It Up_RAW\27 FUSE
+        BG_bip.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    28 VOC old_bip.wav:
+      Track_path: Major Lazer - Light It Up\Major Lazer - Light It Up_RAW\28 VOC old_bip.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Unused:
+    29 Rough_bip.wav:
+      Track_path: Major Lazer - Light It Up\Major Lazer - Light It Up_RAW\29 Rough_bip.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Ambient_Microphone: {}

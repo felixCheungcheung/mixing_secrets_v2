@@ -1,0 +1,188 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer: {}
+  SFX: {}
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic:
+    20_ToyPiano.wav:
+      Track_path: Ghostly Beard - Blue\Ghostly Beard - Blue_RAW\20_ToyPiano.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Kick:
+    01_KickIn.wav:
+      Track_path: Ghostly Beard - Blue\Ghostly Beard - Blue_RAW\01_KickIn.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    02_KickOut.wav:
+      Track_path: Ghostly Beard - Blue\Ghostly Beard - Blue_RAW\02_KickOut.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    03_KickSub.wav:
+      Track_path: Ghostly Beard - Blue\Ghostly Beard - Blue_RAW\03_KickSub.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Snare:
+    04_SnareUp1.wav:
+      Track_path: Ghostly Beard - Blue\Ghostly Beard - Blue_RAW\04_SnareUp1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: 'Snare contains Drumset (Cymbal) Leakage in some parts'
+    05_SnareUp2.wav:
+      Track_path: Ghostly Beard - Blue\Ghostly Beard - Blue_RAW\05_SnareUp2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: 'Snare contains Drumset (Cymbal) Leakage in some parts'
+    06_SnareDown.wav:
+      Track_path: Ghostly Beard - Blue\Ghostly Beard - Blue_RAW\06_SnareDown.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: 'Snare contains Drumset (Cymbal) Leakage in some parts'
+  Drum_HiHat:
+    11_HiHat.wav:
+      Track_path: Ghostly Beard - Blue\Ghostly Beard - Blue_RAW\11_HiHat.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Cymbals: {}
+  Drum_Overheads:
+    12_Overheads.wav:
+      Track_path: Ghostly Beard - Blue\Ghostly Beard - Blue_RAW\12_Overheads.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Tom:
+    07_Tom1.wav:
+      Track_path: Ghostly Beard - Blue\Ghostly Beard - Blue_RAW\07_Tom1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    08_Tom2.wav:
+      Track_path: Ghostly Beard - Blue\Ghostly Beard - Blue_RAW\08_Tom2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    09_Tom3.wav:
+      Track_path: Ghostly Beard - Blue\Ghostly Beard - Blue_RAW\09_Tom3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    10_Tom4.wav:
+      Track_path: Ghostly Beard - Blue\Ghostly Beard - Blue_RAW\10_Tom4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Room:
+    13_DrumsRoom1.wav:
+      Track_path: Ghostly Beard - Blue\Ghostly Beard - Blue_RAW\13_DrumsRoom1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    14_DrumsRoom2.wav:
+      Track_path: Ghostly Beard - Blue\Ghostly Beard - Blue_RAW\14_DrumsRoom2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop: {}
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass: {}
+  Electric_Bass:
+    11_Bass.wav:
+      Track_path: Ghostly Beard - Blue\Ghostly Beard - Blue_RAW\11_Bass.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Acoustic_Guitar: {}
+  Electric_Guitar:
+    16_ElecGtr1.wav:
+      Track_path: Ghostly Beard - Blue\Ghostly Beard - Blue_RAW\16_ElecGtr1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    17_ElecGtr2.wav:
+      Track_path: Ghostly Beard - Blue\Ghostly Beard - Blue_RAW\17_ElecGtr2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Piano: {}
+  Electric_Piano:
+    18_Vibes.wav:
+      Track_path: Ghostly Beard - Blue\Ghostly Beard - Blue_RAW\18_Vibes.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    19_Rhodes.wav:
+      Track_path: Ghostly Beard - Blue\Ghostly Beard - Blue_RAW\19_Rhodes.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    21_LeadVox.wav:
+      Track_path: Ghostly Beard - Blue\Ghostly Beard - Blue_RAW\21_LeadVox.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Choir: {}
+  Backing_Vocal:
+    22_BackingVox1.wav:
+      Track_path: Ghostly Beard - Blue\Ghostly Beard - Blue_RAW\22_BackingVox1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    23_BackingVox2.wav:
+      Track_path: Ghostly Beard - Blue\Ghostly Beard - Blue_RAW\23_BackingVox2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Unused: {}
+  Ambient_Microphone: {}

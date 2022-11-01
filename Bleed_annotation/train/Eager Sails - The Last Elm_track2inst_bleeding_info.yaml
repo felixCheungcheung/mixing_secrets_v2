@@ -1,0 +1,383 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer:
+    33_Synth1.wav:
+      Track_path: Eager Sails - The Last Elm\Eager Sails - The Last Elm_RAW\33_Synth1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    34_Synth2.wav:
+      Track_path: Eager Sails - The Last Elm\Eager Sails - The Last Elm_RAW\34_Synth2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    35_Synth3.wav:
+      Track_path: Eager Sails - The Last Elm\Eager Sails - The Last Elm_RAW\35_Synth3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    36_Synth4.wav:
+      Track_path: Eager Sails - The Last Elm\Eager Sails - The Last Elm_RAW\36_Synth4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    37_Synth5.wav:
+      Track_path: Eager Sails - The Last Elm\Eager Sails - The Last Elm_RAW\37_Synth5.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  SFX:
+    21_SFX1.wav:
+      Track_path: Eager Sails - The Last Elm\Eager Sails - The Last Elm_RAW\21_SFX1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    22_SFX2.wav:
+      Track_path: Eager Sails - The Last Elm\Eager Sails - The Last Elm_RAW\22_SFX2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    32_ReversePiano.wav:
+      Track_path: Eager Sails - The Last Elm\Eager Sails - The Last Elm_RAW\32_ReversePiano.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    01_Kick.wav:
+      Track_path: Eager Sails - The Last Elm\Eager Sails - The Last Elm_RAW\01_Kick.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    02_KickSample.wav:
+      Track_path: Eager Sails - The Last Elm\Eager Sails - The Last Elm_RAW\02_KickSample.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Snare:
+    03_Snare.wav:
+      Track_path: Eager Sails - The Last Elm\Eager Sails - The Last Elm_RAW\03_Snare.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_HiHat: {}
+  Drum_Cymbals: {}
+  Drum_Overheads:
+    08_Overheads.wav:
+      Track_path: Eager Sails - The Last Elm\Eager Sails - The Last Elm_RAW\08_Overheads.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Tom:
+    04_Tom1.wav:
+      Track_path: Eager Sails - The Last Elm\Eager Sails - The Last Elm_RAW\04_Tom1.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    05_Tom2.wav:
+      Track_path: Eager Sails - The Last Elm\Eager Sails - The Last Elm_RAW\05_Tom2.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    06_Tom3.wav:
+      Track_path: Eager Sails - The Last Elm\Eager Sails - The Last Elm_RAW\06_Tom3.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    07_TomFX.wav:
+      Track_path: Eager Sails - The Last Elm\Eager Sails - The Last Elm_RAW\07_TomFX.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Room:
+    09_DrumsRoomMono.wav:
+      Track_path: Eager Sails - The Last Elm\Eager Sails - The Last Elm_RAW\09_DrumsRoomMono.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    10_DrumsRoomStereo.wav:
+      Track_path: Eager Sails - The Last Elm\Eager Sails - The Last Elm_RAW\10_DrumsRoomStereo.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    11_DrumsRoomFX.wav:
+      Track_path: Eager Sails - The Last Elm\Eager Sails - The Last Elm_RAW\11_DrumsRoomFX.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Shaker:
+    17_Shaker1.wav:
+      Track_path: Eager Sails - The Last Elm\Eager Sails - The Last Elm_RAW\17_Shaker1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    18_Shaker2.wav:
+      Track_path: Eager Sails - The Last Elm\Eager Sails - The Last Elm_RAW\18_Shaker2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Taiko:
+    12_Taiko1.wav:
+      Track_path: Eager Sails - The Last Elm\Eager Sails - The Last Elm_RAW\12_Taiko1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    13_Taiko2.wav:
+      Track_path: Eager Sails - The Last Elm\Eager Sails - The Last Elm_RAW\13_Taiko2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    14_Taiko3.wav:
+      Track_path: Eager Sails - The Last Elm\Eager Sails - The Last Elm_RAW\14_Taiko3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks:
+    19_Rainstick1.wav:
+      Track_path: Eager Sails - The Last Elm\Eager Sails - The Last Elm_RAW\19_Rainstick1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    20_Rainstick2.wav:
+      Track_path: Eager Sails - The Last Elm\Eager Sails - The Last Elm_RAW\20_Rainstick2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine:
+    16_Tambourine.wav:
+      Track_path: Eager Sails - The Last Elm\Eager Sails - The Last Elm_RAW\16_Tambourine.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Loop: {}
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion:
+    15_Percussion.wav:
+      Track_path: Eager Sails - The Last Elm\Eager Sails - The Last Elm_RAW\15_Percussion.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Synth_Bass:
+    23_BassSynth1.wav:
+      Track_path: Eager Sails - The Last Elm\Eager Sails - The Last Elm_RAW\23_BassSynth1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    24_BassSynth2.wav:
+      Track_path: Eager Sails - The Last Elm\Eager Sails - The Last Elm_RAW\24_BassSynth2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Electric_Bass: {}
+  Acoustic_Guitar:
+    25_AcousticGtr1.wav:
+      Track_path: Eager Sails - The Last Elm\Eager Sails - The Last Elm_RAW\25_AcousticGtr1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    26_AcousticGtr2.wav:
+      Track_path: Eager Sails - The Last Elm\Eager Sails - The Last Elm_RAW\26_AcousticGtr2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Electric_Guitar:
+    38_ElecGtr1.wav:
+      Track_path: Eager Sails - The Last Elm\Eager Sails - The Last Elm_RAW\38_ElecGtr1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    39_ElecGtr2.wav:
+      Track_path: Eager Sails - The Last Elm\Eager Sails - The Last Elm_RAW\39_ElecGtr2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    40_ElecGtr3.wav:
+      Track_path: Eager Sails - The Last Elm\Eager Sails - The Last Elm_RAW\40_ElecGtr3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    41_ElecGtr4.wav:
+      Track_path: Eager Sails - The Last Elm\Eager Sails - The Last Elm_RAW\41_ElecGtr4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    42_ElecGtr5.wav:
+      Track_path: Eager Sails - The Last Elm\Eager Sails - The Last Elm_RAW\42_ElecGtr5.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    43_ElecGtr6.wav:
+      Track_path: Eager Sails - The Last Elm\Eager Sails - The Last Elm_RAW\43_ElecGtr6.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Piano:
+    30_Piano1.wav:
+      Track_path: Eager Sails - The Last Elm\Eager Sails - The Last Elm_RAW\30_Piano1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    31_Piano2.wav:
+      Track_path: Eager Sails - The Last Elm\Eager Sails - The Last Elm_RAW\31_Piano2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section:
+    27_Strings.wav:
+      Track_path: Eager Sails - The Last Elm\Eager Sails - The Last Elm_RAW\27_Strings.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    28_StringsSFX.wav:
+      Track_path: Eager Sails - The Last Elm\Eager Sails - The Last Elm_RAW\28_StringsSFX.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Fiddle: {}
+  Double_Bass:
+    29_DoubleBass.wav:
+      Track_path: Eager Sails - The Last Elm\Eager Sails - The Last Elm_RAW\29_DoubleBass.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    44_LeadVox.wav:
+      Track_path: Eager Sails - The Last Elm\Eager Sails - The Last Elm_RAW\44_LeadVox.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    45_LeadVoxDT1.wav:
+      Track_path: Eager Sails - The Last Elm\Eager Sails - The Last Elm_RAW\45_LeadVoxDT1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    46_LeadVoxDT2.wav:
+      Track_path: Eager Sails - The Last Elm\Eager Sails - The Last Elm_RAW\46_LeadVoxDT2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    47_LeadVoxDT3.wav:
+      Track_path: Eager Sails - The Last Elm\Eager Sails - The Last Elm_RAW\47_LeadVoxDT3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    48_LeadVoxDT4.wav:
+      Track_path: Eager Sails - The Last Elm\Eager Sails - The Last Elm_RAW\48_LeadVoxDT4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    49_LeadVoxDT5.wav:
+      Track_path: Eager Sails - The Last Elm\Eager Sails - The Last Elm_RAW\49_LeadVoxDT5.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    51_LeadVoxFX02.wav:
+      Track_path: Eager Sails - The Last Elm\Eager Sails - The Last Elm_RAW\51_LeadVoxFX02.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: 'I also put FX02 to LeadVox because it is the reverb of the original timbre.'
+  Choir: {}
+  Backing_Vocal:
+    50_LeadVoxFX01.wav:
+      Track_path: Eager Sails - The Last Elm\Eager Sails - The Last Elm_RAW\50_LeadVoxFX01.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: 'I manually put some tracks to BackingVox based on their timbre.'
+    51_LeadVoxFX02.wav:
+      Track_path: Eager Sails - The Last Elm\Eager Sails - The Last Elm_RAW\51_LeadVoxFX02.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    52_LeadVoxFX03.wav:
+      Track_path: Eager Sails - The Last Elm\Eager Sails - The Last Elm_RAW\52_LeadVoxFX03.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    53_LeadVoxFX04.wav:
+      Track_path: Eager Sails - The Last Elm\Eager Sails - The Last Elm_RAW\53_LeadVoxFX04.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    54_LeadVoxFX05.wav:
+      Track_path: Eager Sails - The Last Elm\Eager Sails - The Last Elm_RAW\54_LeadVoxFX05.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    55_LeadVoxFX06.wav:
+      Track_path: Eager Sails - The Last Elm\Eager Sails - The Last Elm_RAW\55_LeadVoxFX06.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    56_LeadVoxFX07.wav:
+      Track_path: Eager Sails - The Last Elm\Eager Sails - The Last Elm_RAW\56_LeadVoxFX07.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    57_LeadVoxFX08.wav:
+      Track_path: Eager Sails - The Last Elm\Eager Sails - The Last Elm_RAW\57_LeadVoxFX08.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    58_LeadVoxFX09.wav:
+      Track_path: Eager Sails - The Last Elm\Eager Sails - The Last Elm_RAW\58_LeadVoxFX09.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    59_LeadVoxFX10.wav:
+      Track_path: Eager Sails - The Last Elm\Eager Sails - The Last Elm_RAW\59_LeadVoxFX10.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    60_LeadVoxFX11.wav:
+      Track_path: Eager Sails - The Last Elm\Eager Sails - The Last Elm_RAW\60_LeadVoxFX11.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    61_LeadVoxFX12.wav:
+      Track_path: Eager Sails - The Last Elm\Eager Sails - The Last Elm_RAW\61_LeadVoxFX12.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Unused: {}
+  Ambient_Microphone: {}

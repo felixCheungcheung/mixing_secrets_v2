@@ -1,0 +1,379 @@
+Track2inst:
+  Electric_Organ:
+    23_Organ.wav:
+      Track_path: Ben Carrigan - We'll Talk About It All Tonight\Ben Carrigan - We'll
+        Talk About It All Tonight_RAW\23_Organ.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Synthesizer: {}
+  SFX: {}
+  Marimba: {}
+  Bell:
+    15_SleighBells.wav:
+      Track_path: Ben Carrigan - We'll Talk About It All Tonight\Ben Carrigan - We'll
+        Talk About It All Tonight_RAW\15_SleighBells.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Accordian: {}
+  Harp: {}
+  Harmonica:
+    39_Harmonica.wav:
+      Track_path: Ben Carrigan - We'll Talk About It All Tonight\Ben Carrigan - We'll
+        Talk About It All Tonight_RAW\39_Harmonica.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic:
+    26_Glockenspiel.wav:
+      Track_path: Ben Carrigan - We'll Talk About It All Tonight\Ben Carrigan - We'll
+        Talk About It All Tonight_RAW\26_Glockenspiel.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Kick:
+    02_Kick.wav:
+      Track_path: Ben Carrigan - We'll Talk About It All Tonight\Ben Carrigan - We'll
+        Talk About It All Tonight_RAW\02_Kick.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads'
+      Comment: ''
+    03_KickSample.wav:
+      Track_path: Ben Carrigan - We'll Talk About It All Tonight\Ben Carrigan - We'll
+        Talk About It All Tonight_RAW\03_KickSample.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Snare:
+    04_Snare.wav:
+      Track_path: Ben Carrigan - We'll Talk About It All Tonight\Ben Carrigan - We'll
+        Talk About It All Tonight_RAW\04_Snare.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads'
+      Comment: ''
+    05_SnareSample1.wav:
+      Track_path: Ben Carrigan - We'll Talk About It All Tonight\Ben Carrigan - We'll
+        Talk About It All Tonight_RAW\05_SnareSample1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    06_SnareSample2.wav:
+      Track_path: Ben Carrigan - We'll Talk About It All Tonight\Ben Carrigan - We'll
+        Talk About It All Tonight_RAW\06_SnareSample2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_HiHat:
+    07_HiHat.wav:
+      Track_path: Ben Carrigan - We'll Talk About It All Tonight\Ben Carrigan - We'll
+        Talk About It All Tonight_RAW\07_HiHat.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads'
+      Comment: ''
+  Drum_Cymbals:
+    10_Cymbal.wav:
+      Track_path: Ben Carrigan - We'll Talk About It All Tonight\Ben Carrigan - We'll
+        Talk About It All Tonight_RAW\10_Cymbal.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads'
+      Comment: ''
+    11_CymbalSample1.wav:
+      Track_path: Ben Carrigan - We'll Talk About It All Tonight\Ben Carrigan - We'll
+        Talk About It All Tonight_RAW\11_CymbalSample1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    12_CymbalSample2.wav:
+      Track_path: Ben Carrigan - We'll Talk About It All Tonight\Ben Carrigan - We'll
+        Talk About It All Tonight_RAW\12_CymbalSample2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Overheads: {}
+  Drum_Tom:
+    08_Tom1.wav:
+      Track_path: Ben Carrigan - We'll Talk About It All Tonight\Ben Carrigan - We'll
+        Talk About It All Tonight_RAW\08_Tom1.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads'
+      Comment: ''
+    09_Tom2.wav:
+      Track_path: Ben Carrigan - We'll Talk About It All Tonight\Ben Carrigan - We'll
+        Talk About It All Tonight_RAW\09_Tom2.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads'
+      Comment: ''
+  Drum_Room:
+    13_DrumsRoom.wav:
+      Track_path: Ben Carrigan - We'll Talk About It All Tonight\Ben Carrigan - We'll
+        Talk About It All Tonight_RAW\13_DrumsRoom.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Shaker:
+    14_Shaker.wav:
+      Track_path: Ben Carrigan - We'll Talk About It All Tonight\Ben Carrigan - We'll
+        Talk About It All Tonight_RAW\14_Shaker.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine:
+    16_Tambourine.wav:
+      Track_path: Ben Carrigan - We'll Talk About It All Tonight\Ben Carrigan - We'll
+        Talk About It All Tonight_RAW\16_Tambourine.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Loop:
+    01_DrumMachine.wav:
+      Track_path: Ben Carrigan - We'll Talk About It All Tonight\Ben Carrigan - We'll
+        Talk About It All Tonight_RAW\01_DrumMachine.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Clicks: {}
+  Claps:
+    17_Hand Claps.wav:
+      Track_path: Ben Carrigan - We'll Talk About It All Tonight\Ben Carrigan - We'll
+        Talk About It All Tonight_RAW\17_Hand Claps.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass: {}
+  Electric_Bass:
+    18_Bass.wav:
+      Track_path: Ben Carrigan - We'll Talk About It All Tonight\Ben Carrigan - We'll
+        Talk About It All Tonight_RAW\18_Bass.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Acoustic_Guitar:
+    19_AcousticGtr1.wav:
+      Track_path: Ben Carrigan - We'll Talk About It All Tonight\Ben Carrigan - We'll
+        Talk About It All Tonight_RAW\19_AcousticGtr1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    20_AcousticGtr2.wav:
+      Track_path: Ben Carrigan - We'll Talk About It All Tonight\Ben Carrigan - We'll
+        Talk About It All Tonight_RAW\20_AcousticGtr2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Electric_Guitar:
+    21_Rhythm Gtr.wav:
+      Track_path: Ben Carrigan - We'll Talk About It All Tonight\Ben Carrigan - We'll
+        Talk About It All Tonight_RAW\21_Rhythm Gtr.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Piano:
+    22_Piano.wav:
+      Track_path: Ben Carrigan - We'll Talk About It All Tonight\Ben Carrigan - We'll
+        Talk About It All Tonight_RAW\22_Piano.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    25_PianoSFX.wav:
+      Track_path: Ben Carrigan - We'll Talk About It All Tonight\Ben Carrigan - We'll
+        Talk About It All Tonight_RAW\25_PianoSFX.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Electric_Piano:
+    24_Keyboard.wav:
+      Track_path: Ben Carrigan - We'll Talk About It All Tonight\Ben Carrigan - We'll
+        Talk About It All Tonight_RAW\24_Keyboard.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn:
+    38_FrenchHornSamples.wav:
+      Track_path: Ben Carrigan - We'll Talk About It All Tonight\Ben Carrigan - We'll
+        Talk About It All Tonight_RAW\38_FrenchHornSamples.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Trombone:
+    37_TrumpetSamples.wav:
+      Track_path: Ben Carrigan - We'll Talk About It All Tonight\Ben Carrigan - We'll
+        Talk About It All Tonight_RAW\37_TrumpetSamples.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Tuba: {}
+  String_Section:
+    27_Violin1.wav:
+      Track_path: Ben Carrigan - We'll Talk About It All Tonight\Ben Carrigan - We'll
+        Talk About It All Tonight_RAW\27_Violin1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    28_Violin2.wav:
+      Track_path: Ben Carrigan - We'll Talk About It All Tonight\Ben Carrigan - We'll
+        Talk About It All Tonight_RAW\28_Violin2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    29_Viola.wav:
+      Track_path: Ben Carrigan - We'll Talk About It All Tonight\Ben Carrigan - We'll
+        Talk About It All Tonight_RAW\29_Viola.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    30_Cello.wav:
+      Track_path: Ben Carrigan - We'll Talk About It All Tonight\Ben Carrigan - We'll
+        Talk About It All Tonight_RAW\30_Cello.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    31_StringsMix.wav:
+      Track_path: Ben Carrigan - We'll Talk About It All Tonight\Ben Carrigan - We'll
+        Talk About It All Tonight_RAW\31_StringsMix.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    32_StringsTunedMix.wav:
+      Track_path: Ben Carrigan - We'll Talk About It All Tonight\Ben Carrigan - We'll
+        Talk About It All Tonight_RAW\32_StringsTunedMix.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Fiddle: {}
+  Double_Bass: {}
+  Violin:
+    33_ViolinSamples.wav:
+      Track_path: Ben Carrigan - We'll Talk About It All Tonight\Ben Carrigan - We'll
+        Talk About It All Tonight_RAW\33_ViolinSamples.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Viola:
+    34_ViolaSamples.wav:
+      Track_path: Ben Carrigan - We'll Talk About It All Tonight\Ben Carrigan - We'll
+        Talk About It All Tonight_RAW\34_ViolaSamples.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Cello:
+    35_CelloSamples1.wav:
+      Track_path: Ben Carrigan - We'll Talk About It All Tonight\Ben Carrigan - We'll
+        Talk About It All Tonight_RAW\35_CelloSamples1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    36_CelloSamples2.wav:
+      Track_path: Ben Carrigan - We'll Talk About It All Tonight\Ben Carrigan - We'll
+        Talk About It All Tonight_RAW\36_CelloSamples2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    40_Lead Vox.wav:
+      Track_path: Ben Carrigan - We'll Talk About It All Tonight\Ben Carrigan - We'll
+        Talk About It All Tonight_RAW\40_Lead Vox.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Choir: {}
+  Backing_Vocal:
+    41_BackingVox1.wav:
+      Track_path: Ben Carrigan - We'll Talk About It All Tonight\Ben Carrigan - We'll
+        Talk About It All Tonight_RAW\41_BackingVox1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    42_BackingVox2.wav:
+      Track_path: Ben Carrigan - We'll Talk About It All Tonight\Ben Carrigan - We'll
+        Talk About It All Tonight_RAW\42_BackingVox2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    43_BackingVox3.wav:
+      Track_path: Ben Carrigan - We'll Talk About It All Tonight\Ben Carrigan - We'll
+        Talk About It All Tonight_RAW\43_BackingVox3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    44_BackingVox4.wav:
+      Track_path: Ben Carrigan - We'll Talk About It All Tonight\Ben Carrigan - We'll
+        Talk About It All Tonight_RAW\44_BackingVox4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    45_BackingVox5.wav:
+      Track_path: Ben Carrigan - We'll Talk About It All Tonight\Ben Carrigan - We'll
+        Talk About It All Tonight_RAW\45_BackingVox5.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    46_BackingVox6.wav:
+      Track_path: Ben Carrigan - We'll Talk About It All Tonight\Ben Carrigan - We'll
+        Talk About It All Tonight_RAW\46_BackingVox6.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    47_BackingVox4.wav:
+      Track_path: Ben Carrigan - We'll Talk About It All Tonight\Ben Carrigan - We'll
+        Talk About It All Tonight_RAW\47_BackingVox4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    48_BackingVox7.wav:
+      Track_path: Ben Carrigan - We'll Talk About It All Tonight\Ben Carrigan - We'll
+        Talk About It All Tonight_RAW\48_BackingVox7.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    49_BackingVox8.wav:
+      Track_path: Ben Carrigan - We'll Talk About It All Tonight\Ben Carrigan - We'll
+        Talk About It All Tonight_RAW\49_BackingVox8.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    50_BackingVox7.wav:
+      Track_path: Ben Carrigan - We'll Talk About It All Tonight\Ben Carrigan - We'll
+        Talk About It All Tonight_RAW\50_BackingVox7.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    51_BackingVox8.wav:
+      Track_path: Ben Carrigan - We'll Talk About It All Tonight\Ben Carrigan - We'll
+        Talk About It All Tonight_RAW\51_BackingVox8.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Unused: {}
+  Ambient_Microphone: {}

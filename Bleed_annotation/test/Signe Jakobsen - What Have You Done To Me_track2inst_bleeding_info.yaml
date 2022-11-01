@@ -1,0 +1,283 @@
+Track2inst:
+  Electric_Organ:
+    26_Organ.wav:
+      Track_path: Signe Jakobsen - What Have You Done To Me\Signe Jakobsen - What
+        Have You Done To Me_RAW\26_Organ.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Synthesizer: {}
+  SFX: {}
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    01_Kick.wav:
+      Track_path: Signe Jakobsen - What Have You Done To Me\Signe Jakobsen - What
+        Have You Done To Me_RAW\01_Kick.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads'
+      Comment: ''
+  Drum_Snare:
+    02_SnareUp.wav:
+      Track_path: Signe Jakobsen - What Have You Done To Me\Signe Jakobsen - What
+        Have You Done To Me_RAW\02_SnareUp.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads'
+      Comment: ''
+    03_SnareDown.wav:
+      Track_path: Signe Jakobsen - What Have You Done To Me\Signe Jakobsen - What
+        Have You Done To Me_RAW\03_SnareDown.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads'
+      Comment: ''
+  Drum_HiHat:
+    04_Hihat.wav:
+      Track_path: Signe Jakobsen - What Have You Done To Me\Signe Jakobsen - What
+        Have You Done To Me_RAW\04_Hihat.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads'
+      Comment: ''
+  Drum_Cymbals: {}
+  Drum_Overheads:
+    05_Overheads.wav:
+      Track_path: Signe Jakobsen - What Have You Done To Me\Signe Jakobsen - What
+        Have You Done To Me_RAW\05_Overheads.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Tom:
+    06_Tom1.wav:
+      Track_path: Signe Jakobsen - What Have You Done To Me\Signe Jakobsen - What
+        Have You Done To Me_RAW\06_Tom1.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads'
+      Comment: ''
+    07_Tom2.wav:
+      Track_path: Signe Jakobsen - What Have You Done To Me\Signe Jakobsen - What
+        Have You Done To Me_RAW\07_Tom2.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads'
+      Comment: ''
+  Drum_Room: {}
+  Shaker:
+    09_Shaker2.wav:
+      Track_path: Signe Jakobsen - What Have You Done To Me\Signe Jakobsen - What
+        Have You Done To Me_RAW\09_Shaker2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop: {}
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass: {}
+  Electric_Bass:
+    10_Bass.wav:
+      Track_path: Signe Jakobsen - What Have You Done To Me\Signe Jakobsen - What
+        Have You Done To Me_RAW\10_Bass.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Acoustic_Guitar:
+    13_ElecGtr03.wav:
+      Track_path: Signe Jakobsen - What Have You Done To Me\Signe Jakobsen - What
+        Have You Done To Me_RAW\13_ElecGtr03.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Electric_Guitar:
+    11_ElecGtr01.wav:
+      Track_path: Signe Jakobsen - What Have You Done To Me\Signe Jakobsen - What
+        Have You Done To Me_RAW\11_ElecGtr01.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    12_ElecGtr02.wav:
+      Track_path: Signe Jakobsen - What Have You Done To Me\Signe Jakobsen - What
+        Have You Done To Me_RAW\12_ElecGtr02.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    14_ElecGtr04.wav:
+      Track_path: Signe Jakobsen - What Have You Done To Me\Signe Jakobsen - What
+        Have You Done To Me_RAW\14_ElecGtr04.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    15_ElecGtr05.wav:
+      Track_path: Signe Jakobsen - What Have You Done To Me\Signe Jakobsen - What
+        Have You Done To Me_RAW\15_ElecGtr05.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    16_ElecGtr06.wav:
+      Track_path: Signe Jakobsen - What Have You Done To Me\Signe Jakobsen - What
+        Have You Done To Me_RAW\16_ElecGtr06.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    17_ElecGtr07.wav:
+      Track_path: Signe Jakobsen - What Have You Done To Me\Signe Jakobsen - What
+        Have You Done To Me_RAW\17_ElecGtr07.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    18_ElecGtr08.wav:
+      Track_path: Signe Jakobsen - What Have You Done To Me\Signe Jakobsen - What
+        Have You Done To Me_RAW\18_ElecGtr08.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    19_ElecGtr09.wav:
+      Track_path: Signe Jakobsen - What Have You Done To Me\Signe Jakobsen - What
+        Have You Done To Me_RAW\19_ElecGtr09.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    20_ElecGtr10.wav:
+      Track_path: Signe Jakobsen - What Have You Done To Me\Signe Jakobsen - What
+        Have You Done To Me_RAW\20_ElecGtr10.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    21_MIDIElecGtr1.wav:
+      Track_path: Signe Jakobsen - What Have You Done To Me\Signe Jakobsen - What
+        Have You Done To Me_RAW\21_MIDIElecGtr1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    22_MIDIElecGtr2.wav:
+      Track_path: Signe Jakobsen - What Have You Done To Me\Signe Jakobsen - What
+        Have You Done To Me_RAW\22_MIDIElecGtr2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Piano:
+    23_Piano1.wav:
+      Track_path: Signe Jakobsen - What Have You Done To Me\Signe Jakobsen - What
+        Have You Done To Me_RAW\23_Piano1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    24_Piano2.wav:
+      Track_path: Signe Jakobsen - What Have You Done To Me\Signe Jakobsen - What
+        Have You Done To Me_RAW\24_Piano2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section:
+    25_StringPad.wav:
+      Track_path: Signe Jakobsen - What Have You Done To Me\Signe Jakobsen - What
+        Have You Done To Me_RAW\25_StringPad.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    27_LeadVox1.wav:
+      Track_path: Signe Jakobsen - What Have You Done To Me\Signe Jakobsen - What
+        Have You Done To Me_RAW\27_LeadVox1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    28_LeadVox2.wav:
+      Track_path: Signe Jakobsen - What Have You Done To Me\Signe Jakobsen - What
+        Have You Done To Me_RAW\28_LeadVox2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    29_LeadVox2DT.wav:
+      Track_path: Signe Jakobsen - What Have You Done To Me\Signe Jakobsen - What
+        Have You Done To Me_RAW\29_LeadVox2DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    32_BackingVox3.wav:
+      Track_path: Signe Jakobsen - What Have You Done To Me\Signe Jakobsen - What
+        Have You Done To Me_RAW\32_BackingVox3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Choir: {}
+  Backing_Vocal:
+    30_BackingVox1.wav:
+      Track_path: Signe Jakobsen - What Have You Done To Me\Signe Jakobsen - What
+        Have You Done To Me_RAW\30_BackingVox1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    31_BackingVox2.wav:
+      Track_path: Signe Jakobsen - What Have You Done To Me\Signe Jakobsen - What
+        Have You Done To Me_RAW\31_BackingVox2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    33_BackingVox4.wav:
+      Track_path: Signe Jakobsen - What Have You Done To Me\Signe Jakobsen - What
+        Have You Done To Me_RAW\33_BackingVox4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    34_BackingVox5.wav:
+      Track_path: Signe Jakobsen - What Have You Done To Me\Signe Jakobsen - What
+        Have You Done To Me_RAW\34_BackingVox5.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    35_BackingVox6.wav:
+      Track_path: Signe Jakobsen - What Have You Done To Me\Signe Jakobsen - What
+        Have You Done To Me_RAW\35_BackingVox6.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Unused:
+    08_Shaker1.wav:
+      Track_path: Signe Jakobsen - What Have You Done To Me\Signe Jakobsen - What
+        Have You Done To Me_RAW\08_Shaker1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Ambient_Microphone: {}

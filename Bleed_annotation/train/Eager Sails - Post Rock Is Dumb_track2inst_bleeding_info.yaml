@@ -1,0 +1,318 @@
+Track2inst:
+  Electric_Organ:
+    22_Organ.wav:
+      Track_path: Eager Sails - Post Rock Is Dumb\Eager Sails - Post Rock Is Dumb_RAW\22_Organ.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Synthesizer: {}
+  SFX: {}
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    01_Kick.wav:
+      Track_path: Eager Sails - Post Rock Is Dumb\Eager Sails - Post Rock Is Dumb_RAW\01_Kick.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_Snare:
+    02_SnareUp.wav:
+      Track_path: Eager Sails - Post Rock Is Dumb\Eager Sails - Post Rock Is Dumb_RAW\02_SnareUp.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    03_SnareDown.wav:
+      Track_path: Eager Sails - Post Rock Is Dumb\Eager Sails - Post Rock Is Dumb_RAW\03_SnareDown.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_HiHat: {}
+  Drum_Cymbals: {}
+  Drum_Overheads:
+    05_Overheads.wav:
+      Track_path: Eager Sails - Post Rock Is Dumb\Eager Sails - Post Rock Is Dumb_RAW\05_Overheads.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Tom:
+    04_Tom.wav:
+      Track_path: Eager Sails - Post Rock Is Dumb\Eager Sails - Post Rock Is Dumb_RAW\04_Tom.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_Room:
+    06_DrumsRoomStereo1.wav:
+      Track_path: Eager Sails - Post Rock Is Dumb\Eager Sails - Post Rock Is Dumb_RAW\06_DrumsRoomStereo1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    07_DrumsRoomStereo2.wav:
+      Track_path: Eager Sails - Post Rock Is Dumb\Eager Sails - Post Rock Is Dumb_RAW\07_DrumsRoomStereo2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    08_DrumsRoomMono1.wav:
+      Track_path: Eager Sails - Post Rock Is Dumb\Eager Sails - Post Rock Is Dumb_RAW\08_DrumsRoomMono1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    09_DrumsRoomMono2.wav:
+      Track_path: Eager Sails - Post Rock Is Dumb\Eager Sails - Post Rock Is Dumb_RAW\09_DrumsRoomMono2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine:
+    10_Tambourine.wav:
+      Track_path: Eager Sails - Post Rock Is Dumb\Eager Sails - Post Rock Is Dumb_RAW\10_Tambourine.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Loop: {}
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass: {}
+  Electric_Bass:
+    11_Bass.wav:
+      Track_path: Eager Sails - Post Rock Is Dumb\Eager Sails - Post Rock Is Dumb_RAW\11_Bass.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Acoustic_Guitar: {}
+  Electric_Guitar:
+    12_ElecGtr1Mic1.wav:
+      Track_path: Eager Sails - Post Rock Is Dumb\Eager Sails - Post Rock Is Dumb_RAW\12_ElecGtr1Mic1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    13_ElecGtr1Mic2.wav:
+      Track_path: Eager Sails - Post Rock Is Dumb\Eager Sails - Post Rock Is Dumb_RAW\13_ElecGtr1Mic2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    14_ElecGtr2Mic1.wav:
+      Track_path: Eager Sails - Post Rock Is Dumb\Eager Sails - Post Rock Is Dumb_RAW\14_ElecGtr2Mic1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    15_ElecGtr2Mic2.wav:
+      Track_path: Eager Sails - Post Rock Is Dumb\Eager Sails - Post Rock Is Dumb_RAW\15_ElecGtr2Mic2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    16_ElecGtr3.wav:
+      Track_path: Eager Sails - Post Rock Is Dumb\Eager Sails - Post Rock Is Dumb_RAW\16_ElecGtr3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    17_ElecGtr4Mic1.wav:
+      Track_path: Eager Sails - Post Rock Is Dumb\Eager Sails - Post Rock Is Dumb_RAW\17_ElecGtr4Mic1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    18_ElecGtr4Mic2.wav:
+      Track_path: Eager Sails - Post Rock Is Dumb\Eager Sails - Post Rock Is Dumb_RAW\18_ElecGtr4Mic2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    19_ElecGtr5Mic1.wav:
+      Track_path: Eager Sails - Post Rock Is Dumb\Eager Sails - Post Rock Is Dumb_RAW\19_ElecGtr5Mic1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    20_ElecGtr5Mic2.wav:
+      Track_path: Eager Sails - Post Rock Is Dumb\Eager Sails - Post Rock Is Dumb_RAW\20_ElecGtr5Mic2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Piano:
+    21_Piano.wav:
+      Track_path: Eager Sails - Post Rock Is Dumb\Eager Sails - Post Rock Is Dumb_RAW\21_Piano.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    23_LeadVox.wav:
+      Track_path: Eager Sails - Post Rock Is Dumb\Eager Sails - Post Rock Is Dumb_RAW\23_LeadVox.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    24_LeadVoxDT1.wav:
+      Track_path: Eager Sails - Post Rock Is Dumb\Eager Sails - Post Rock Is Dumb_RAW\24_LeadVoxDT1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    25_LeadVoxDT2.wav:
+      Track_path: Eager Sails - Post Rock Is Dumb\Eager Sails - Post Rock Is Dumb_RAW\25_LeadVoxDT2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Choir: {}
+  Backing_Vocal:
+    26_BackingVox1.wav:
+      Track_path: Eager Sails - Post Rock Is Dumb\Eager Sails - Post Rock Is Dumb_RAW\26_BackingVox1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    27_BackingVox1DT1.wav:
+      Track_path: Eager Sails - Post Rock Is Dumb\Eager Sails - Post Rock Is Dumb_RAW\27_BackingVox1DT1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    28_BackingVox1DT2.wav:
+      Track_path: Eager Sails - Post Rock Is Dumb\Eager Sails - Post Rock Is Dumb_RAW\28_BackingVox1DT2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    29_BackingVox1DT3.wav:
+      Track_path: Eager Sails - Post Rock Is Dumb\Eager Sails - Post Rock Is Dumb_RAW\29_BackingVox1DT3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    30_BackingVox2.wav:
+      Track_path: Eager Sails - Post Rock Is Dumb\Eager Sails - Post Rock Is Dumb_RAW\30_BackingVox2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    31_BackingVox2DT1.wav:
+      Track_path: Eager Sails - Post Rock Is Dumb\Eager Sails - Post Rock Is Dumb_RAW\31_BackingVox2DT1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    32_BackingVox2DT2.wav:
+      Track_path: Eager Sails - Post Rock Is Dumb\Eager Sails - Post Rock Is Dumb_RAW\32_BackingVox2DT2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    33_BackingVox2DT3.wav:
+      Track_path: Eager Sails - Post Rock Is Dumb\Eager Sails - Post Rock Is Dumb_RAW\33_BackingVox2DT3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    34_BackingVox3.wav:
+      Track_path: Eager Sails - Post Rock Is Dumb\Eager Sails - Post Rock Is Dumb_RAW\34_BackingVox3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    35_BackingVox3DT.wav:
+      Track_path: Eager Sails - Post Rock Is Dumb\Eager Sails - Post Rock Is Dumb_RAW\35_BackingVox3DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    36_BackingVox4.wav:
+      Track_path: Eager Sails - Post Rock Is Dumb\Eager Sails - Post Rock Is Dumb_RAW\36_BackingVox4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    37_BackingVox4DT1.wav:
+      Track_path: Eager Sails - Post Rock Is Dumb\Eager Sails - Post Rock Is Dumb_RAW\37_BackingVox4DT1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    38_BackingVox4DT2.wav:
+      Track_path: Eager Sails - Post Rock Is Dumb\Eager Sails - Post Rock Is Dumb_RAW\38_BackingVox4DT2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    39_BackingVox4DT3.wav:
+      Track_path: Eager Sails - Post Rock Is Dumb\Eager Sails - Post Rock Is Dumb_RAW\39_BackingVox4DT3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    40_BackingVox4SFX1.wav:
+      Track_path: Eager Sails - Post Rock Is Dumb\Eager Sails - Post Rock Is Dumb_RAW\40_BackingVox4SFX1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    41_BackingVox4SFX2.wav:
+      Track_path: Eager Sails - Post Rock Is Dumb\Eager Sails - Post Rock Is Dumb_RAW\41_BackingVox4SFX2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    42_BackingVox5.wav:
+      Track_path: Eager Sails - Post Rock Is Dumb\Eager Sails - Post Rock Is Dumb_RAW\42_BackingVox5.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    43_BackingVox5DT1.wav:
+      Track_path: Eager Sails - Post Rock Is Dumb\Eager Sails - Post Rock Is Dumb_RAW\43_BackingVox5DT1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    44_BackingVox5DT2.wav:
+      Track_path: Eager Sails - Post Rock Is Dumb\Eager Sails - Post Rock Is Dumb_RAW\44_BackingVox5DT2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    45_BackingVox5DT3.wav:
+      Track_path: Eager Sails - Post Rock Is Dumb\Eager Sails - Post Rock Is Dumb_RAW\45_BackingVox5DT3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    46_BackingVox6.wav:
+      Track_path: Eager Sails - Post Rock Is Dumb\Eager Sails - Post Rock Is Dumb_RAW\46_BackingVox6.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    47_BackingVox6DT1.wav:
+      Track_path: Eager Sails - Post Rock Is Dumb\Eager Sails - Post Rock Is Dumb_RAW\47_BackingVox6DT1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    48_BackingVox6DT2.wav:
+      Track_path: Eager Sails - Post Rock Is Dumb\Eager Sails - Post Rock Is Dumb_RAW\48_BackingVox6DT2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    49_BackingVox6DT3.wav:
+      Track_path: Eager Sails - Post Rock Is Dumb\Eager Sails - Post Rock Is Dumb_RAW\49_BackingVox6DT3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Unused: {}
+  Ambient_Microphone: {}

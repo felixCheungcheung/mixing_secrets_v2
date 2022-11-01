@@ -1,0 +1,283 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer:
+    21_ElecGtr01a.wav:
+      Track_path: Wide Waters - Into The Forest\Wide Waters - Into The Forest_RAW\21_ElecGtr01a.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    22_ElecGtr01b.wav:
+      Track_path: Wide Waters - Into The Forest\Wide Waters - Into The Forest_RAW\22_ElecGtr01b.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    23_ElecGtr02a.wav:
+      Track_path: Wide Waters - Into The Forest\Wide Waters - Into The Forest_RAW\23_ElecGtr02a.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    24_ElecGtr02b.wav:
+      Track_path: Wide Waters - Into The Forest\Wide Waters - Into The Forest_RAW\24_ElecGtr02b.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    25_ElecGtr03a.wav:
+      Track_path: Wide Waters - Into The Forest\Wide Waters - Into The Forest_RAW\25_ElecGtr03a.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    26_ElecGtr03b.wav:
+      Track_path: Wide Waters - Into The Forest\Wide Waters - Into The Forest_RAW\26_ElecGtr03b.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    27_ElecGtr04a.wav:
+      Track_path: Wide Waters - Into The Forest\Wide Waters - Into The Forest_RAW\27_ElecGtr04a.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    28_ElecGtr04b.wav:
+      Track_path: Wide Waters - Into The Forest\Wide Waters - Into The Forest_RAW\28_ElecGtr04b.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  SFX: {}
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    01_KickIn.wav:
+      Track_path: Wide Waters - Into The Forest\Wide Waters - Into The Forest_RAW\01_KickIn.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    02_KickSub.wav:
+      Track_path: Wide Waters - Into The Forest\Wide Waters - Into The Forest_RAW\02_KickSub.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Snare: {}
+  Drum_HiHat: {}
+  Drum_Cymbals: {}
+  Drum_Overheads:
+    05_Overheads.wav:
+      Track_path: Wide Waters - Into The Forest\Wide Waters - Into The Forest_RAW\05_Overheads.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Tom:
+    03_Tom1.wav:
+      Track_path: Wide Waters - Into The Forest\Wide Waters - Into The Forest_RAW\03_Tom1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    04_Tom2.wav:
+      Track_path: Wide Waters - Into The Forest\Wide Waters - Into The Forest_RAW\04_Tom2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Room:
+    06_DrumsRoom1.wav:
+      Track_path: Wide Waters - Into The Forest\Wide Waters - Into The Forest_RAW\06_DrumsRoom1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    07_DrumsRoom2.wav:
+      Track_path: Wide Waters - Into The Forest\Wide Waters - Into The Forest_RAW\07_DrumsRoom2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    08_DrumsRoom3.wav:
+      Track_path: Wide Waters - Into The Forest\Wide Waters - Into The Forest_RAW\08_DrumsRoom3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    09_DrumsRoom4.wav:
+      Track_path: Wide Waters - Into The Forest\Wide Waters - Into The Forest_RAW\09_DrumsRoom4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    10_DrumsRoom5.wav:
+      Track_path: Wide Waters - Into The Forest\Wide Waters - Into The Forest_RAW\10_DrumsRoom5.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    11_DrumsRoom6.wav:
+      Track_path: Wide Waters - Into The Forest\Wide Waters - Into The Forest_RAW\11_DrumsRoom6.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop:
+    12_Loop1.wav:
+      Track_path: Wide Waters - Into The Forest\Wide Waters - Into The Forest_RAW\12_Loop1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    13_Loop2.wav:
+      Track_path: Wide Waters - Into The Forest\Wide Waters - Into The Forest_RAW\13_Loop2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    14_Loop3.wav:
+      Track_path: Wide Waters - Into The Forest\Wide Waters - Into The Forest_RAW\14_Loop3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    15_Loop4.wav:
+      Track_path: Wide Waters - Into The Forest\Wide Waters - Into The Forest_RAW\15_Loop4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    16_Loop5.wav:
+      Track_path: Wide Waters - Into The Forest\Wide Waters - Into The Forest_RAW\16_Loop5.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    17_Loop6.wav:
+      Track_path: Wide Waters - Into The Forest\Wide Waters - Into The Forest_RAW\17_Loop6.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    18_Loop7.wav:
+      Track_path: Wide Waters - Into The Forest\Wide Waters - Into The Forest_RAW\18_Loop7.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    19_Loop8.wav:
+      Track_path: Wide Waters - Into The Forest\Wide Waters - Into The Forest_RAW\19_Loop8.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass: {}
+  Electric_Bass:
+    20_Bass.wav:
+      Track_path: Wide Waters - Into The Forest\Wide Waters - Into The Forest_RAW\20_Bass.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Acoustic_Guitar: {}
+  Electric_Guitar:
+    29_ElecGtr05a.wav:
+      Track_path: Wide Waters - Into The Forest\Wide Waters - Into The Forest_RAW\29_ElecGtr05a.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    30_ElecGtr05b.wav:
+      Track_path: Wide Waters - Into The Forest\Wide Waters - Into The Forest_RAW\30_ElecGtr05b.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    31_ElecGtr06a.wav:
+      Track_path: Wide Waters - Into The Forest\Wide Waters - Into The Forest_RAW\31_ElecGtr06a.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    32_ElecGtr06b.wav:
+      Track_path: Wide Waters - Into The Forest\Wide Waters - Into The Forest_RAW\32_ElecGtr06b.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    33_ElecGtr07a.wav:
+      Track_path: Wide Waters - Into The Forest\Wide Waters - Into The Forest_RAW\33_ElecGtr07a.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    34_ElecGtr07b.wav:
+      Track_path: Wide Waters - Into The Forest\Wide Waters - Into The Forest_RAW\34_ElecGtr07b.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    35_ElecGtr08a.wav:
+      Track_path: Wide Waters - Into The Forest\Wide Waters - Into The Forest_RAW\35_ElecGtr08a.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    36_ElecGtr08b.wav:
+      Track_path: Wide Waters - Into The Forest\Wide Waters - Into The Forest_RAW\36_ElecGtr08b.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    37_ElecGtr09a.wav:
+      Track_path: Wide Waters - Into The Forest\Wide Waters - Into The Forest_RAW\37_ElecGtr09a.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    38_ElecGtr09b.wav:
+      Track_path: Wide Waters - Into The Forest\Wide Waters - Into The Forest_RAW\38_ElecGtr09b.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    39_ElecGtr10a.wav:
+      Track_path: Wide Waters - Into The Forest\Wide Waters - Into The Forest_RAW\39_ElecGtr10a.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    40_ElecGtr10b.wav:
+      Track_path: Wide Waters - Into The Forest\Wide Waters - Into The Forest_RAW\40_ElecGtr10b.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    41_ElecGtr11a.wav:
+      Track_path: Wide Waters - Into The Forest\Wide Waters - Into The Forest_RAW\41_ElecGtr11a.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    42_ElecGtr11b.wav:
+      Track_path: Wide Waters - Into The Forest\Wide Waters - Into The Forest_RAW\42_ElecGtr11b.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Piano: {}
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal: {}
+  Choir: {}
+  Backing_Vocal: {}
+  Unused: {}
+  Ambient_Microphone: {}

@@ -1,0 +1,193 @@
+Track2inst:
+  Electric_Organ:
+    HAM B_04-07.wav:
+      Track_path: Kung Fu - Daddy D\Kung Fu - Daddy D_RAW\HAM B_04-07.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: ''
+      Comment: ''
+    HAM TOP_04-07.wav:
+      Track_path: Kung Fu - Daddy D\Kung Fu - Daddy D_RAW\HAM TOP_04-07.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Synthesizer:
+    MOOG_04-07.wav:
+      Track_path: Kung Fu - Daddy D\Kung Fu - Daddy D_RAW\MOOG_04-07.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: ''
+      Comment: ''
+    YAMAHA_04-07.wav:
+      Track_path: Kung Fu - Daddy D\Kung Fu - Daddy D_RAW\YAMAHA_04-07.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: ''
+      Comment: ''
+  SFX: {}
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    K I_04-07.wav:
+      Track_path: Kung Fu - Daddy D\Kung Fu - Daddy D_RAW\K I_04-07.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads, Electric_Organ, Saxophone, Lead_Vocal, Backing_Vocal'
+      Comment: ''
+    K O_04-07.wav:
+      Track_path: Kung Fu - Daddy D\Kung Fu - Daddy D_RAW\K O_04-07.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads, Electric_Organ, Saxophone, Lead_Vocal, Backing_Vocal'
+      Comment: ''
+  Drum_Snare:
+    SN B_04-07.wav:
+      Track_path: Kung Fu - Daddy D\Kung Fu - Daddy D_RAW\SN B_04-07.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads, Electric_Organ, Saxophone, Lead_Vocal, Backing_Vocal'
+      Comment: ''
+    SN T_04-07.wav:
+      Track_path: Kung Fu - Daddy D\Kung Fu - Daddy D_RAW\SN T_04-07.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads, Electric_Organ, Saxophone, Lead_Vocal, Backing_Vocal'
+      Comment: ''
+  Drum_HiHat: {}
+  Drum_Cymbals: {}
+  Drum_Overheads:
+    OVER_04-07.wav:
+      Track_path: Kung Fu - Daddy D\Kung Fu - Daddy D_RAW\OVER_04-07.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Electric_Organ, Saxophone, Lead_Vocal, Backing_Vocal'
+      Comment: ''
+  Drum_Tom:
+    TOM1_04-07.wav:
+      Track_path: Kung Fu - Daddy D\Kung Fu - Daddy D_RAW\TOM1_04-07.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads, Electric_Organ, Saxophone, Lead_Vocal, Backing_Vocal'
+      Comment: ''
+    TOM2_04-07.wav:
+      Track_path: Kung Fu - Daddy D\Kung Fu - Daddy D_RAW\TOM2_04-07.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads, Electric_Organ, Saxophone, Lead_Vocal, Backing_Vocal'
+      Comment: ''
+    TOM3_04-07.wav:
+      Track_path: Kung Fu - Daddy D\Kung Fu - Daddy D_RAW\TOM3_04-07.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads, Electric_Organ, Saxophone, Lead_Vocal, Backing_Vocal'
+      Comment: ''
+    TOM4_04-07.wav:
+      Track_path: Kung Fu - Daddy D\Kung Fu - Daddy D_RAW\TOM4_04-07.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads, Electric_Organ, Saxophone, Lead_Vocal, Backing_Vocal'
+      Comment: ''
+  Drum_Room:
+    CHAMBER_04-07.wav:
+      Track_path: Kung Fu - Daddy D\Kung Fu - Daddy D_RAW\CHAMBER_04-07.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Electric_Organ, Lead_Vocal, Backing_Vocal, Saxophone'
+      Comment: ''
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop: {}
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass: {}
+  Electric_Bass:
+    BASS DI_04-07.wav:
+      Track_path: Kung Fu - Daddy D\Kung Fu - Daddy D_RAW\BASS DI_04-07.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    BASS MIC_04-07.wav:
+      Track_path: Kung Fu - Daddy D\Kung Fu - Daddy D_RAW\BASS MIC_04-07.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Acoustic_Guitar: {}
+  Electric_Guitar:
+    GTR CON_04-07.wav:
+      Track_path: Kung Fu - Daddy D\Kung Fu - Daddy D_RAW\GTR CON_04-07.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    GTR DYN_04-07.wav:
+      Track_path: Kung Fu - Daddy D\Kung Fu - Daddy D_RAW\GTR DYN_04-07.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Piano: {}
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone:
+    TENOR_04-07.wav:
+      Track_path: Kung Fu - Daddy D\Kung Fu - Daddy D_RAW\TENOR_04-07.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads, Electric_Organ, Lead_Vocal, Backing_Vocal'
+      Comment: ''
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    VOX 3_04-07.wav:
+      Track_path: Kung Fu - Daddy D\Kung Fu - Daddy D_RAW\VOX 3_04-07.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads, Electric_Organ, Saxophone'
+      Comment: ''
+  Choir: {}
+  Backing_Vocal:
+    VOX 1_04-07.wav:
+      Track_path: Kung Fu - Daddy D\Kung Fu - Daddy D_RAW\VOX 1_04-07.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads, Electric_Organ, Saxophone, Lead_Vocal'
+      Comment: ''
+    VOX 2_04-07.wav:
+      Track_path: Kung Fu - Daddy D\Kung Fu - Daddy D_RAW\VOX 2_04-07.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads, Electric_Organ, Saxophone, Lead_Vocal'
+      Comment: ''
+    VOX4_04-07.wav:
+      Track_path: Kung Fu - Daddy D\Kung Fu - Daddy D_RAW\VOX4_04-07.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads, Electric_Organ, Saxophone, Lead_Vocal'
+      Comment: ''
+  Unused:
+    NORD_04-07.wav:
+      Track_path: Kung Fu - Daddy D\Kung Fu - Daddy D_RAW\NORD_04-07.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: ''
+      Comment: 'broken file'
+  Ambient_Microphone: {}

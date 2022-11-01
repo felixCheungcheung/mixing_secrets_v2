@@ -1,0 +1,168 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer:
+    Keys-2-DI.wav:
+      Track_path: Ghost Note - Ja Make Ya Dance\Ghost Note - Ja Make Ya Dance_RAW\Keys-2-DI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Keys-3-DI.wav:
+      Track_path: Ghost Note - Ja Make Ya Dance\Ghost Note - Ja Make Ya Dance_RAW\Keys-3-DI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  SFX: {}
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    Drums-Kick In-M82.wav:
+      Track_path: Ghost Note - Ja Make Ya Dance\Ghost Note - Ja Make Ya Dance_RAW\Drums-Kick
+        In-M82.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads, Brass_Section'
+      Comment: ''
+    Drums-Kick Out-CU29.wav:
+      Track_path: Ghost Note - Ja Make Ya Dance\Ghost Note - Ja Make Ya Dance_RAW\Drums-Kick
+        Out-CU29.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads, Brass_Section'
+      Comment: ''
+  Drum_Snare:
+    Drums-Snare Bottom-M80.wav:
+      Track_path: Ghost Note - Ja Make Ya Dance\Ghost Note - Ja Make Ya Dance_RAW\Drums-Snare
+        Bottom-M80.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads, Brass_Section'
+      Comment: ''
+    Drums-Snare Top-M80.wav:
+      Track_path: Ghost Note - Ja Make Ya Dance\Ghost Note - Ja Make Ya Dance_RAW\Drums-Snare
+        Top-M80.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads, Brass_Section'
+      Comment: ''
+  Drum_HiHat:
+    Drums-Hat-ELA M 260.wav:
+      Track_path: Ghost Note - Ja Make Ya Dance\Ghost Note - Ja Make Ya Dance_RAW\Drums-Hat-ELA
+        M 260.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads, Brass_Section'
+      Comment: ''
+  Drum_Cymbals: {}
+  Drum_Overheads:
+    Drums-Overhead-CU29.wav:
+      Track_path: Ghost Note - Ja Make Ya Dance\Ghost Note - Ja Make Ya Dance_RAW\Drums-Overhead-CU29.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Brass_Section, Percussion'
+      Comment: ''
+  Drum_Tom:
+    Drums-Floor-M81.wav:
+      Track_path: Ghost Note - Ja Make Ya Dance\Ghost Note - Ja Make Ya Dance_RAW\Drums-Floor-M81.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads, Brass_Section'
+      Comment: ''
+    Drums-Rack1-M81.wav:
+      Track_path: Ghost Note - Ja Make Ya Dance\Ghost Note - Ja Make Ya Dance_RAW\Drums-Rack1-M81.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads, Brass_Section'
+      Comment: ''
+    Drums-Rack2-M81.wav:
+      Track_path: Ghost Note - Ja Make Ya Dance\Ghost Note - Ja Make Ya Dance_RAW\Drums-Rack2-M81.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads, Brass_Section'
+      Comment: ''
+  Drum_Room: {}
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop: {}
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo:
+    Percussion-Bongo-M81.wav:
+      Track_path: Ghost Note - Ja Make Ya Dance\Ghost Note - Ja Make Ya Dance_RAW\Percussion-Bongo-M81.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads, Brass_Section'
+      Comment: ''
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: 
+    Percussion-Overhead-AR51.wav:
+      Track_path: Ghost Note - Ja Make Ya Dance\Ghost Note - Ja Make Ya Dance_RAW\Percussion-Overhead-AR51.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads, Brass_Section'
+      Comment: ''
+  Synth_Bass: {}
+  Electric_Bass:
+    Bass-DI.wav:
+      Track_path: Ghost Note - Ja Make Ya Dance\Ghost Note - Ja Make Ya Dance_RAW\Bass-DI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Acoustic_Guitar: {}
+  Electric_Guitar: {}
+  Piano: {}
+  Electric_Piano:
+    Keys-1-DI.wav:
+      Track_path: Ghost Note - Ja Make Ya Dance\Ghost Note - Ja Make Ya Dance_RAW\Keys-1-DI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Brass_Section:
+    Horns-Sax_Flute-M81.wav:
+      Track_path: Ghost Note - Ja Make Ya Dance\Ghost Note - Ja Make Ya Dance_RAW\Horns-Sax_Flute-M81.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads, Percussion'
+      Comment: ''
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal: {}
+  Choir: {}
+  Backing_Vocal: {}
+  Unused:
+    Bass-Mic-M82.wav:
+      Track_path: Ghost Note - Ja Make Ya Dance\Ghost Note - Ja Make Ya Dance_RAW\Bass-Mic-M82.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Ambient_Microphone:
+    Drums-Chamber-M81.wav:
+      Track_path: Ghost Note - Ja Make Ya Dance\Ghost Note - Ja Make Ya Dance_RAW\Drums-Chamber-M81.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Brass_Section, Percussion'
+      Comment: ''

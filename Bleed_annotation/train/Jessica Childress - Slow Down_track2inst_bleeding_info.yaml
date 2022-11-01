@@ -1,0 +1,181 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer: {}
+  SFX: {}
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    SD DRUMS-KICK-M82-API.wav:
+      Track_path: Jessica Childress - Slow Down\Jessica Childress - Slow Down_RAW\SD
+        DRUMS-KICK-M82-API.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads, Lead_Vocal'
+      Comment: ''
+  Drum_Snare:
+    SD DRUMS-SNARE-M80-SH-API.wav:
+      Track_path: Jessica Childress - Slow Down\Jessica Childress - Slow Down_RAW\SD
+        DRUMS-SNARE-M80-SH-API.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads, Lead_Vocal'
+      Comment: ''
+  Drum_HiHat:
+    SD DRUMS-HAT-M60-API.wav:
+      Track_path: Jessica Childress - Slow Down\Jessica Childress - Slow Down_RAW\SD
+        DRUMS-HAT-M60-API.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads, Lead_Vocal, Electric_Bass'
+      Comment: ''
+  Drum_Cymbals: {}
+  Drum_Overheads:
+    SD DRUMS-AK47-API.wav:
+      Track_path: Jessica Childress - Slow Down\Jessica Childress - Slow Down_RAW\SD
+        DRUMS-AK47-API.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Lead_Vocal, Electric_Bass'
+      Comment: ''
+  Drum_Tom:
+    SD DRUMS-TOM 3-M81-SH-API.wav:
+      Track_path: Jessica Childress - Slow Down\Jessica Childress - Slow Down_RAW\SD
+        DRUMS-TOM 3-M81-SH-API.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads, Lead_Vocal'
+      Comment: ''
+    SD DRUMS-TOM1-M81-SH-API.wav:
+      Track_path: Jessica Childress - Slow Down\Jessica Childress - Slow Down_RAW\SD
+        DRUMS-TOM1-M81-SH-API.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads, Lead_Vocal'
+      Comment: ''
+    SD DRUMS-TOM2-M81-SH-API.wav:
+      Track_path: Jessica Childress - Slow Down\Jessica Childress - Slow Down_RAW\SD
+        DRUMS-TOM2-M81-SH-API.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads, Lead_Vocal'
+      Comment: ''
+  Drum_Room: {}
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop: {}
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass: {}
+  Electric_Bass:
+    SD BASS-AMP-CU29-LACHAPELL.wav:
+      Track_path: Jessica Childress - Slow Down\Jessica Childress - Slow Down_RAW\SD
+        BASS-AMP-CU29-LACHAPELL.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Lead_Vocal, Drum_Overheads'
+      Comment: ''
+    SD BASS-DI-LACHAPELL.wav:
+      Track_path: Jessica Childress - Slow Down\Jessica Childress - Slow Down_RAW\SD
+        BASS-DI-LACHAPELL.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Acoustic_Guitar: {}
+  Electric_Guitar:
+    SD GUITAR-M81-1081.wav:
+      Track_path: Jessica Childress - Slow Down\Jessica Childress - Slow Down_RAW\SD
+        GUITAR-M81-1081.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads, Lead_Vocal'
+      Comment: ''
+  Piano: {}
+  Electric_Piano:
+    SD KEYS-DI-GRACE.wav:
+      Track_path: Jessica Childress - Slow Down\Jessica Childress - Slow Down_RAW\SD
+        KEYS-DI-GRACE.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    SD VOX-LEAD-M80-1081.wav:
+      Track_path: Jessica Childress - Slow Down\Jessica Childress - Slow Down_RAW\SD
+        VOX-LEAD-M80-1081.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads, Backing_Vocal, Electric_Bass'
+      Comment: ''
+  Choir: {}
+  Backing_Vocal:
+    SD VOX-BONE-M80-1081.wav:
+      Track_path: Jessica Childress - Slow Down\Jessica Childress - Slow Down_RAW\SD
+        VOX-BONE-M80-1081.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads, Lead_Vocal, Electric_Bass'
+      Comment: ''
+    SD VOX-GUITAR-M80-1081.wav:
+      Track_path: Jessica Childress - Slow Down\Jessica Childress - Slow Down_RAW\SD
+        VOX-GUITAR-M80-1081.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads, Lead_Vocal, Electric_Bass'
+      Comment: ''
+    SD VOX-TRUMPET-M80-1081.wav:
+      Track_path: Jessica Childress - Slow Down\Jessica Childress - Slow Down_RAW\SD
+        VOX-TRUMPET-M80-1081.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads, Lead_Vocal, Electric_Bass'
+      Comment: ''
+  Unused:
+    SLOW DOWN-ruff mix.wav:
+      Track_path: Jessica Childress - Slow Down\Jessica Childress - Slow Down_RAW\SLOW
+        DOWN-ruff mix.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Ambient_Microphone:
+    SD DRUMS-ROOM-M80-API.wav:
+      Track_path: Jessica Childress - Slow Down\Jessica Childress - Slow Down_RAW\SD
+        DRUMS-ROOM-M80-API.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: ''
+      Comment: ''
+    SD DRUMS-HALL-AR70-API.wav:
+      Track_path: Jessica Childress - Slow Down\Jessica Childress - Slow Down_RAW\SD
+        DRUMS-HALL-AR70-API.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: ''
+      Comment: ''

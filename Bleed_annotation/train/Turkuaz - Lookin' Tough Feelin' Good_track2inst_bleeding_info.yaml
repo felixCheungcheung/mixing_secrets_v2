@@ -1,0 +1,217 @@
+Track2inst:
+  Electric_Organ:
+    Keys-Leslie BOT-M81.wav:
+      Track_path: Turkuaz - Lookin' Tough Feelin' Good\Turkuaz - Lookin' Tough Feelin'
+        Good_RAW\Keys-Leslie BOT-M81.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: 'Electric_Bass, Lead_Vocal, Trumpet, Synthesizer, Electric_Guitar, Drum_Overheads'
+      Comment: ''
+    Keys-Leslie Top-M81.wav:
+      Track_path: Turkuaz - Lookin' Tough Feelin' Good\Turkuaz - Lookin' Tough Feelin'
+        Good_RAW\Keys-Leslie Top-M81.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Electric_Bass, Lead_Vocal, Trumpet, Synthesizer, Electric_Guitar, Drum_Overheads'
+      Comment: ''
+  Synthesizer:
+    Keys-Amp-M81.wav:
+      Track_path: Turkuaz - Lookin' Tough Feelin' Good\Turkuaz - Lookin' Tough Feelin'
+        Good_RAW\Keys-Amp-M81.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Electric_Bass, Lead_Vocal, Trumpet, Electric_Organ, Electric_Guitar, Drum_Overheads'
+      Comment: ''
+    Keys-Amp2-M81.wav:
+      Track_path: Turkuaz - Lookin' Tough Feelin' Good\Turkuaz - Lookin' Tough Feelin'
+        Good_RAW\Keys-Amp2-M81.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Electric_Bass, Lead_Vocal, Trumpet, Electric_Organ, Electric_Guitar, Drum_Overheads'
+      Comment: ''
+    Keys-DI.wav:
+      Track_path: Turkuaz - Lookin' Tough Feelin' Good\Turkuaz - Lookin' Tough Feelin'
+        Good_RAW\Keys-DI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  SFX: {}
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    Drums-Kick-421.wav:
+      Track_path: Turkuaz - Lookin' Tough Feelin' Good\Turkuaz - Lookin' Tough Feelin'
+        Good_RAW\Drums-Kick-421.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Electric_Bass, Electric_Guitar, Trumpet, Drum_Overheads, Saxophone, Electric_Organ'
+      Comment: ''
+  Drum_Snare:
+    Drums-Snare-M80.wav:
+      Track_path: Turkuaz - Lookin' Tough Feelin' Good\Turkuaz - Lookin' Tough Feelin'
+        Good_RAW\Drums-Snare-M80.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Electric_Bass, Electric_Guitar, Trumpet, Drum_Overheads, Saxophone, Electric_Organ'
+      Comment: ''
+  Drum_HiHat:
+    Drums-Hat-M60.wav:
+      Track_path: Turkuaz - Lookin' Tough Feelin' Good\Turkuaz - Lookin' Tough Feelin'
+        Good_RAW\Drums-Hat-M60.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Lead_Vocal, Electric_Bass, Electric_Guitar, Trumpet, Drum_Overheads, Saxophone, Electric_Organ'
+      Comment: ''
+  Drum_Cymbals: {}
+  Drum_Overheads:
+    Drums-Over-Ar51.wav:
+      Track_path: Turkuaz - Lookin' Tough Feelin' Good\Turkuaz - Lookin' Tough Feelin'
+        Good_RAW\Drums-Over-Ar51.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Lead_Vocal, Electric_Bass, Electric_Guitar, Trumpet, Saxophone, Electric_Organ'
+      Comment: ''
+  Drum_Tom:
+    Drums-Tom1-M81.wav:
+      Track_path: Turkuaz - Lookin' Tough Feelin' Good\Turkuaz - Lookin' Tough Feelin'
+        Good_RAW\Drums-Tom1-M81.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Lead_Vocal, Electric_Bass, Electric_Guitar, Trumpet, Drum_Overheads, Saxophone, Electric_Organ'
+      Comment: ''
+    Drums-Tom2-M81.wav:
+      Track_path: Turkuaz - Lookin' Tough Feelin' Good\Turkuaz - Lookin' Tough Feelin'
+        Good_RAW\Drums-Tom2-M81.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Lead_Vocal, Electric_Bass, Electric_Guitar, Trumpet, Drum_Overheads, Saxophone, Electric_Organ'
+      Comment: ''
+  Drum_Room: {}
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop: {}
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass: {}
+  Electric_Bass:
+    Bass-DI.wav:
+      Track_path: Turkuaz - Lookin' Tough Feelin' Good\Turkuaz - Lookin' Tough Feelin'
+        Good_RAW\Bass-DI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Bass-Mic-Ak47.wav:
+      Track_path: Turkuaz - Lookin' Tough Feelin' Good\Turkuaz - Lookin' Tough Feelin'
+        Good_RAW\Bass-Mic-Ak47.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Electric_Guitar, Lead_Vocal, Drum_Overheads, Trumpet, Electric_Organ'
+      Comment: ''
+  Acoustic_Guitar: {}
+  Electric_Guitar:
+    Guitar-Craig-M81.wav:
+      Track_path: Turkuaz - Lookin' Tough Feelin' Good\Turkuaz - Lookin' Tough Feelin'
+        Good_RAW\Guitar-Craig-M81.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads, Lead_Vocal'
+      Comment: ''
+    Guitar-Dave-M81.wav:
+      Track_path: Turkuaz - Lookin' Tough Feelin' Good\Turkuaz - Lookin' Tough Feelin'
+        Good_RAW\Guitar-Dave-M81.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads'
+      Comment: ''
+  Piano: {}
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone:
+    Horns-Bari-M81.wav:
+      Track_path: Turkuaz - Lookin' Tough Feelin' Good\Turkuaz - Lookin' Tough Feelin'
+        Good_RAW\Horns-Bari-M81.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Electric_Bass, Electric_Guitar, Lead_Vocal, Drum_Overheads, Trumpet, Electric_Organ'
+      Comment: ''
+    Horns-Tenor-M81.wav:
+      Track_path: Turkuaz - Lookin' Tough Feelin' Good\Turkuaz - Lookin' Tough Feelin'
+        Good_RAW\Horns-Tenor-M81.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Electric_Bass, Electric_Guitar, Lead_Vocal, Drum_Overheads, Trumpet, Electric_Organ'
+      Comment: ''
+  Trumpet:
+    Horns-Trumpet-M81.wav:
+      Track_path: Turkuaz - Lookin' Tough Feelin' Good\Turkuaz - Lookin' Tough Feelin'
+        Good_RAW\Horns-Trumpet-M81.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Electric_Bass, Electric_Guitar, Lead_Vocal, Drum_Overheads, Saxophone, Electric_Organ'
+      Comment: ''
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    Vocals-Dave-M80.wav:
+      Track_path: Turkuaz - Lookin' Tough Feelin' Good\Turkuaz - Lookin' Tough Feelin'
+        Good_RAW\Vocals-Dave-M80.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Backing_Vocal, Electric_Bass, Electric_Guitar, Trumpet, Drum_Overheads, Saxophone, Electric_Organ'
+      Comment: ''
+  Choir: {}
+  Backing_Vocal:
+    Vocals-Geneva-M81.wav:
+      Track_path: Turkuaz - Lookin' Tough Feelin' Good\Turkuaz - Lookin' Tough Feelin'
+        Good_RAW\Vocals-Geneva-M81.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Lead_Vocal, Electric_Bass, Electric_Guitar, Trumpet, Drum_Overheads, Saxophone, Electric_Organ'
+      Comment: ''
+    Vocals-Josh-M81.wav:
+      Track_path: Turkuaz - Lookin' Tough Feelin' Good\Turkuaz - Lookin' Tough Feelin'
+        Good_RAW\Vocals-Josh-M81.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Lead_Vocal, Electric_Bass, Electric_Guitar, Trumpet, Drum_Overheads, Saxophone, Electric_Organ'
+      Comment: ''
+    Vocals-Sammi-M81.wav:
+      Track_path: Turkuaz - Lookin' Tough Feelin' Good\Turkuaz - Lookin' Tough Feelin'
+        Good_RAW\Vocals-Sammi-M81.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Lead_Vocal, Electric_Bass, Electric_Guitar, Trumpet, Drum_Overheads, Saxophone, Electric_Organ'
+      Comment: ''
+  Unused: {}
+  Ambient_Microphone:
+    Chamber-Ar70.wav:
+      Track_path: Turkuaz - Lookin' Tough Feelin' Good\Turkuaz - Lookin' Tough Feelin'
+        Good_RAW\Chamber-Ar70.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Room-M81.wav:
+      Track_path: Turkuaz - Lookin' Tough Feelin' Good\Turkuaz - Lookin' Tough Feelin'
+        Good_RAW\Room-M81.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: ''
+      Comment: ''

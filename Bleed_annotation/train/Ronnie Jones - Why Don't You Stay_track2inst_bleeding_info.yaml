@@ -1,0 +1,300 @@
+Track2inst:
+  Electric_Organ:
+    32_Hammond.wav:
+      Track_path: Ronnie Jones - Why Don't You Stay\Ronnie Jones - Why Don't You Stay_RAW\32_Hammond.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    33_HammondRaw.wav:
+      Track_path: Ronnie Jones - Why Don't You Stay\Ronnie Jones - Why Don't You Stay_RAW\33_HammondRaw.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Synthesizer: {}
+  SFX: {}
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    01_Drums Kick.wav:
+      Track_path: Ronnie Jones - Why Don't You Stay\Ronnie Jones - Why Don't You Stay_RAW\01_Drums
+        Kick.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_Snare:
+    02_Drums Snare.wav:
+      Track_path: Ronnie Jones - Why Don't You Stay\Ronnie Jones - Why Don't You Stay_RAW\02_Drums
+        Snare.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_HiHat: {}
+  Drum_Cymbals: {}
+  Drum_Overheads:
+    03_Overheads.wav:
+      Track_path: Ronnie Jones - Why Don't You Stay\Ronnie Jones - Why Don't You Stay_RAW\03_Overheads.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Tom: {}
+  Drum_Room: {}
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine:
+    04_Tambourine.wav:
+      Track_path: Ronnie Jones - Why Don't You Stay\Ronnie Jones - Why Don't You Stay_RAW\04_Tambourine.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Loop: {}
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass: {}
+  Electric_Bass:
+    05_BassDI.wav:
+      Track_path: Ronnie Jones - Why Don't You Stay\Ronnie Jones - Why Don't You Stay_RAW\05_BassDI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    06_BassAmp.wav:
+      Track_path: Ronnie Jones - Why Don't You Stay\Ronnie Jones - Why Don't You Stay_RAW\06_BassAmp.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Acoustic_Guitar:
+    07_AcousticGtr.wav:
+      Track_path: Ronnie Jones - Why Don't You Stay\Ronnie Jones - Why Don't You Stay_RAW\07_AcousticGtr.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    08_AcousticGtrDT.wav:
+      Track_path: Ronnie Jones - Why Don't You Stay\Ronnie Jones - Why Don't You Stay_RAW\08_AcousticGtrDT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Electric_Guitar:
+    09_ElecGtr01.wav:
+      Track_path: Ronnie Jones - Why Don't You Stay\Ronnie Jones - Why Don't You Stay_RAW\09_ElecGtr01.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    10_ElecGtr01DI.wav:
+      Track_path: Ronnie Jones - Why Don't You Stay\Ronnie Jones - Why Don't You Stay_RAW\10_ElecGtr01DI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    11_ElecGtr02.wav:
+      Track_path: Ronnie Jones - Why Don't You Stay\Ronnie Jones - Why Don't You Stay_RAW\11_ElecGtr02.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    12_ElecGtr02DI.wav:
+      Track_path: Ronnie Jones - Why Don't You Stay\Ronnie Jones - Why Don't You Stay_RAW\12_ElecGtr02DI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    13_ElecGtr03.wav:
+      Track_path: Ronnie Jones - Why Don't You Stay\Ronnie Jones - Why Don't You Stay_RAW\13_ElecGtr03.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    14_ElecGtr03Dry.wav:
+      Track_path: Ronnie Jones - Why Don't You Stay\Ronnie Jones - Why Don't You Stay_RAW\14_ElecGtr03Dry.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    15_ElecGtr03DI.wav:
+      Track_path: Ronnie Jones - Why Don't You Stay\Ronnie Jones - Why Don't You Stay_RAW\15_ElecGtr03DI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    16_ElecGtr04.wav:
+      Track_path: Ronnie Jones - Why Don't You Stay\Ronnie Jones - Why Don't You Stay_RAW\16_ElecGtr04.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    17_ElecGtr04DI.wav:
+      Track_path: Ronnie Jones - Why Don't You Stay\Ronnie Jones - Why Don't You Stay_RAW\17_ElecGtr04DI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    18_ElecGtr05.wav:
+      Track_path: Ronnie Jones - Why Don't You Stay\Ronnie Jones - Why Don't You Stay_RAW\18_ElecGtr05.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    19_ElecGtr05DI.wav:
+      Track_path: Ronnie Jones - Why Don't You Stay\Ronnie Jones - Why Don't You Stay_RAW\19_ElecGtr05DI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    20_ElecGtr06.wav:
+      Track_path: Ronnie Jones - Why Don't You Stay\Ronnie Jones - Why Don't You Stay_RAW\20_ElecGtr06.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    21_ElecGtr06DI.wav:
+      Track_path: Ronnie Jones - Why Don't You Stay\Ronnie Jones - Why Don't You Stay_RAW\21_ElecGtr06DI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    22_ElecGtr07.wav:
+      Track_path: Ronnie Jones - Why Don't You Stay\Ronnie Jones - Why Don't You Stay_RAW\22_ElecGtr07.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    23_ElecGtr07Dry.wav:
+      Track_path: Ronnie Jones - Why Don't You Stay\Ronnie Jones - Why Don't You Stay_RAW\23_ElecGtr07Dry.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    24_ElecGtr07DI.wav:
+      Track_path: Ronnie Jones - Why Don't You Stay\Ronnie Jones - Why Don't You Stay_RAW\24_ElecGtr07DI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    25_ElecGtr08.wav:
+      Track_path: Ronnie Jones - Why Don't You Stay\Ronnie Jones - Why Don't You Stay_RAW\25_ElecGtr08.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    26_ElecGtr08Dry.wav:
+      Track_path: Ronnie Jones - Why Don't You Stay\Ronnie Jones - Why Don't You Stay_RAW\26_ElecGtr08Dry.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    27_ElecGtr08DI.wav:
+      Track_path: Ronnie Jones - Why Don't You Stay\Ronnie Jones - Why Don't You Stay_RAW\27_ElecGtr08DI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    28_ElecGtr09.wav:
+      Track_path: Ronnie Jones - Why Don't You Stay\Ronnie Jones - Why Don't You Stay_RAW\28_ElecGtr09.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    29_ElecGtr09DI.wav:
+      Track_path: Ronnie Jones - Why Don't You Stay\Ronnie Jones - Why Don't You Stay_RAW\29_ElecGtr09DI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    30_ElecGtr10.wav:
+      Track_path: Ronnie Jones - Why Don't You Stay\Ronnie Jones - Why Don't You Stay_RAW\30_ElecGtr10.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    31_ElecGtr10DI.wav:
+      Track_path: Ronnie Jones - Why Don't You Stay\Ronnie Jones - Why Don't You Stay_RAW\31_ElecGtr10DI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Piano: {}
+  Electric_Piano:
+    34_Rhodes.wav:
+      Track_path: Ronnie Jones - Why Don't You Stay\Ronnie Jones - Why Don't You Stay_RAW\34_Rhodes.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    35_RhodesDry.wav:
+      Track_path: Ronnie Jones - Why Don't You Stay\Ronnie Jones - Why Don't You Stay_RAW\35_RhodesDry.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    36_RhodesRaw.wav:
+      Track_path: Ronnie Jones - Why Don't You Stay\Ronnie Jones - Why Don't You Stay_RAW\36_RhodesRaw.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    37_LeadVoxTapeEffect.wav:
+      Track_path: Ronnie Jones - Why Don't You Stay\Ronnie Jones - Why Don't You Stay_RAW\37_LeadVoxTapeEffect.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    38_LeadVoxRaw.wav:
+      Track_path: Ronnie Jones - Why Don't You Stay\Ronnie Jones - Why Don't You Stay_RAW\38_LeadVoxRaw.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    39_LeadVoxDT1.wav:
+      Track_path: Ronnie Jones - Why Don't You Stay\Ronnie Jones - Why Don't You Stay_RAW\39_LeadVoxDT1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    40_LeadVoxDT2.wav:
+      Track_path: Ronnie Jones - Why Don't You Stay\Ronnie Jones - Why Don't You Stay_RAW\40_LeadVoxDT2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Choir: {}
+  Backing_Vocal:
+    41_BackingVox01.wav:
+      Track_path: Ronnie Jones - Why Don't You Stay\Ronnie Jones - Why Don't You Stay_RAW\41_BackingVox01.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    42_BackingVox01DT1.wav:
+      Track_path: Ronnie Jones - Why Don't You Stay\Ronnie Jones - Why Don't You Stay_RAW\42_BackingVox01DT1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    43_BackingVox01DT2.wav:
+      Track_path: Ronnie Jones - Why Don't You Stay\Ronnie Jones - Why Don't You Stay_RAW\43_BackingVox01DT2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    44_BackingVox01DT3.wav:
+      Track_path: Ronnie Jones - Why Don't You Stay\Ronnie Jones - Why Don't You Stay_RAW\44_BackingVox01DT3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    45_BackingVox02.wav:
+      Track_path: Ronnie Jones - Why Don't You Stay\Ronnie Jones - Why Don't You Stay_RAW\45_BackingVox02.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Unused: {}
+  Ambient_Microphone: {}

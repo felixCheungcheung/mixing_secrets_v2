@@ -1,0 +1,487 @@
+Track2inst:
+  Electric_Organ:
+    33_Hammond.wav:
+      Track_path: Carlitos Gonzalez - A Place For Us\Carlitos Gonzalez - A Place For
+        Us_RAW\33_Hammond.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    35_Mellotron.wav:
+      Track_path: Carlitos Gonzalez - A Place For Us\Carlitos Gonzalez - A Place For
+        Us_RAW\35_Mellotron.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Synthesizer: {}
+  SFX:
+    34_Synth.wav:
+      Track_path: Carlitos Gonzalez - A Place For Us\Carlitos Gonzalez - A Place For
+        Us_RAW\34_Synth.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    01_Drumkit1_KickIn.wav:
+      Track_path: Carlitos Gonzalez - A Place For Us\Carlitos Gonzalez - A Place For
+        Us_RAW\01_Drumkit1_KickIn.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    02_Drumkit1_KickOut1.wav:
+      Track_path: Carlitos Gonzalez - A Place For Us\Carlitos Gonzalez - A Place For
+        Us_RAW\02_Drumkit1_KickOut1.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    12_Drumkit2_KickIn.wav:
+      Track_path: Carlitos Gonzalez - A Place For Us\Carlitos Gonzalez - A Place For
+        Us_RAW\12_Drumkit2_KickIn.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    13_Drumkit2_KickSub.wav:
+      Track_path: Carlitos Gonzalez - A Place For Us\Carlitos Gonzalez - A Place For
+        Us_RAW\13_Drumkit2_KickSub.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_Snare:
+    03_Drumkit1_SnareMic1.wav:
+      Track_path: Carlitos Gonzalez - A Place For Us\Carlitos Gonzalez - A Place For
+        Us_RAW\03_Drumkit1_SnareMic1.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    04_Drumkit1_SnareMic2.wav:
+      Track_path: Carlitos Gonzalez - A Place For Us\Carlitos Gonzalez - A Place For
+        Us_RAW\04_Drumkit1_SnareMic2.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    14_Drumkit2_SnareMic1.wav:
+      Track_path: Carlitos Gonzalez - A Place For Us\Carlitos Gonzalez - A Place For
+        Us_RAW\14_Drumkit2_SnareMic1.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    15_Drumkit2_SnareMic2.wav:
+      Track_path: Carlitos Gonzalez - A Place For Us\Carlitos Gonzalez - A Place For
+        Us_RAW\15_Drumkit2_SnareMic2.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    17_DrumSamples_Snare.wav:
+      Track_path: Carlitos Gonzalez - A Place For Us\Carlitos Gonzalez - A Place For
+        Us_RAW\17_DrumSamples_Snare.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_HiHat:
+    05_Drumkit1_Hihat.wav:
+      Track_path: Carlitos Gonzalez - A Place For Us\Carlitos Gonzalez - A Place For
+        Us_RAW\05_Drumkit1_Hihat.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    18_DrumSamples_HiHat.wav:
+      Track_path: Carlitos Gonzalez - A Place For Us\Carlitos Gonzalez - A Place For
+        Us_RAW\18_DrumSamples_HiHat.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Cymbals:
+    19_DrumSamples_Cymbals.wav:
+      Track_path: Carlitos Gonzalez - A Place For Us\Carlitos Gonzalez - A Place For
+        Us_RAW\19_DrumSamples_Cymbals.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Overheads:
+    16_Drumkit2_Overheads.wav:
+      Track_path: Carlitos Gonzalez - A Place For Us\Carlitos Gonzalez - A Place For
+        Us_RAW\16_Drumkit2_Overheads.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Tom:
+    06_Drumkit1_Tom1.wav:
+      Track_path: Carlitos Gonzalez - A Place For Us\Carlitos Gonzalez - A Place For
+        Us_RAW\06_Drumkit1_Tom1.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    07_Drumkit1_Tom2.wav:
+      Track_path: Carlitos Gonzalez - A Place For Us\Carlitos Gonzalez - A Place For
+        Us_RAW\07_Drumkit1_Tom2.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    08_Drumkit1_Tom3.wav:
+      Track_path: Carlitos Gonzalez - A Place For Us\Carlitos Gonzalez - A Place For
+        Us_RAW\08_Drumkit1_Tom3.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    20_DrumSamples_Toms.wav:
+      Track_path: Carlitos Gonzalez - A Place For Us\Carlitos Gonzalez - A Place For
+        Us_RAW\20_DrumSamples_Toms.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Room:
+    09_Drumkit2_RoomMono1.wav:
+      Track_path: Carlitos Gonzalez - A Place For Us\Carlitos Gonzalez - A Place For
+        Us_RAW\09_Drumkit2_RoomMono1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    10_Drumkit1_RoomMono2.wav:
+      Track_path: Carlitos Gonzalez - A Place For Us\Carlitos Gonzalez - A Place For
+        Us_RAW\10_Drumkit1_RoomMono2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    11_Drumkit1_RoomStereo.wav:
+      Track_path: Carlitos Gonzalez - A Place For Us\Carlitos Gonzalez - A Place For
+        Us_RAW\11_Drumkit1_RoomStereo.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Shaker: {}
+  Taiko:
+    21_Taiko.wav:
+      Track_path: Carlitos Gonzalez - A Place For Us\Carlitos Gonzalez - A Place For
+        Us_RAW\21_Taiko.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks:
+    22_Sticks.wav:
+      Track_path: Carlitos Gonzalez - A Place For Us\Carlitos Gonzalez - A Place For
+        Us_RAW\22_Sticks.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop: {}
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion:
+    21_ElectroPercussion2.wav:
+      Track_path: Carlitos Gonzalez - A Place For Us\Carlitos Gonzalez - A Place For
+        Us_RAW\21_ElectroPercussion2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    23_ElectroPercussion1.wav:
+      Track_path: Carlitos Gonzalez - A Place For Us\Carlitos Gonzalez - A Place For
+        Us_RAW\23_ElectroPercussion1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    25_ElectroPercussion3.wav:
+      Track_path: Carlitos Gonzalez - A Place For Us\Carlitos Gonzalez - A Place For
+        Us_RAW\25_ElectroPercussion3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    26_ElectroHit.wav:
+      Track_path: Carlitos Gonzalez - A Place For Us\Carlitos Gonzalez - A Place For
+        Us_RAW\26_ElectroHit.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Synth_Bass: {}
+  Electric_Bass:
+    27_Bass.wav:
+      Track_path: Carlitos Gonzalez - A Place For Us\Carlitos Gonzalez - A Place For
+        Us_RAW\27_Bass.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Acoustic_Guitar: {}
+  Electric_Guitar:
+    28_ElecGtr1.wav:
+      Track_path: Carlitos Gonzalez - A Place For Us\Carlitos Gonzalez - A Place For
+        Us_RAW\28_ElecGtr1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    29_ElecGtr2.wav:
+      Track_path: Carlitos Gonzalez - A Place For Us\Carlitos Gonzalez - A Place For
+        Us_RAW\29_ElecGtr2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    30_ElecGtr3.wav:
+      Track_path: Carlitos Gonzalez - A Place For Us\Carlitos Gonzalez - A Place For
+        Us_RAW\30_ElecGtr3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    31_ElecGtr4.wav:
+      Track_path: Carlitos Gonzalez - A Place For Us\Carlitos Gonzalez - A Place For
+        Us_RAW\31_ElecGtr4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Piano:
+    32_Piano.wav:
+      Track_path: Carlitos Gonzalez - A Place For Us\Carlitos Gonzalez - A Place For
+        Us_RAW\32_Piano.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section:
+    36_Strings1_Staccato.wav:
+      Track_path: Carlitos Gonzalez - A Place For Us\Carlitos Gonzalez - A Place For
+        Us_RAW\36_Strings1_Staccato.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    37_Strings2_Ensemble.wav:
+      Track_path: Carlitos Gonzalez - A Place For Us\Carlitos Gonzalez - A Place For
+        Us_RAW\37_Strings2_Ensemble.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    38_Strings3_Soli.wav:
+      Track_path: Carlitos Gonzalez - A Place For Us\Carlitos Gonzalez - A Place For
+        Us_RAW\38_Strings3_Soli.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    39_LeadVox.wav:
+      Track_path: Carlitos Gonzalez - A Place For Us\Carlitos Gonzalez - A Place For
+        Us_RAW\39_LeadVox.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    40_LeadVoxDT.wav:
+      Track_path: Carlitos Gonzalez - A Place For Us\Carlitos Gonzalez - A Place For
+        Us_RAW\40_LeadVoxDT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Choir: {}
+  Backing_Vocal:
+    41_BackingVox1.wav:
+      Track_path: Carlitos Gonzalez - A Place For Us\Carlitos Gonzalez - A Place For
+        Us_RAW\41_BackingVox1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    42_BackingVox2a.wav:
+      Track_path: Carlitos Gonzalez - A Place For Us\Carlitos Gonzalez - A Place For
+        Us_RAW\42_BackingVox2a.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    43_BackingVox2b.wav:
+      Track_path: Carlitos Gonzalez - A Place For Us\Carlitos Gonzalez - A Place For
+        Us_RAW\43_BackingVox2b.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    44_BackingVox2c.wav:
+      Track_path: Carlitos Gonzalez - A Place For Us\Carlitos Gonzalez - A Place For
+        Us_RAW\44_BackingVox2c.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    45_BackingVox2d.wav:
+      Track_path: Carlitos Gonzalez - A Place For Us\Carlitos Gonzalez - A Place For
+        Us_RAW\45_BackingVox2d.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    46_BackingVox3a.wav:
+      Track_path: Carlitos Gonzalez - A Place For Us\Carlitos Gonzalez - A Place For
+        Us_RAW\46_BackingVox3a.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    47_BackingVox3b.wav:
+      Track_path: Carlitos Gonzalez - A Place For Us\Carlitos Gonzalez - A Place For
+        Us_RAW\47_BackingVox3b.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    48_BackingVox3c.wav:
+      Track_path: Carlitos Gonzalez - A Place For Us\Carlitos Gonzalez - A Place For
+        Us_RAW\48_BackingVox3c.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    49_BackingVox3d.wav:
+      Track_path: Carlitos Gonzalez - A Place For Us\Carlitos Gonzalez - A Place For
+        Us_RAW\49_BackingVox3d.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    50_BackingVox4a.wav:
+      Track_path: Carlitos Gonzalez - A Place For Us\Carlitos Gonzalez - A Place For
+        Us_RAW\50_BackingVox4a.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    51_BackingVox4b.wav:
+      Track_path: Carlitos Gonzalez - A Place For Us\Carlitos Gonzalez - A Place For
+        Us_RAW\51_BackingVox4b.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    52_BackingVox4c.wav:
+      Track_path: Carlitos Gonzalez - A Place For Us\Carlitos Gonzalez - A Place For
+        Us_RAW\52_BackingVox4c.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    53_BackingVox4d.wav:
+      Track_path: Carlitos Gonzalez - A Place For Us\Carlitos Gonzalez - A Place For
+        Us_RAW\53_BackingVox4d.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    54_BackingVox4e.wav:
+      Track_path: Carlitos Gonzalez - A Place For Us\Carlitos Gonzalez - A Place For
+        Us_RAW\54_BackingVox4e.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    55_BackingVox4f.wav:
+      Track_path: Carlitos Gonzalez - A Place For Us\Carlitos Gonzalez - A Place For
+        Us_RAW\55_BackingVox4f.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    56_BackingVox5a.wav:
+      Track_path: Carlitos Gonzalez - A Place For Us\Carlitos Gonzalez - A Place For
+        Us_RAW\56_BackingVox5a.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    57_BackingVox5b.wav:
+      Track_path: Carlitos Gonzalez - A Place For Us\Carlitos Gonzalez - A Place For
+        Us_RAW\57_BackingVox5b.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    58_BackingVox5c.wav:
+      Track_path: Carlitos Gonzalez - A Place For Us\Carlitos Gonzalez - A Place For
+        Us_RAW\58_BackingVox5c.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    59_BackingVox5d.wav:
+      Track_path: Carlitos Gonzalez - A Place For Us\Carlitos Gonzalez - A Place For
+        Us_RAW\59_BackingVox5d.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    60_BackingVox6a.wav:
+      Track_path: Carlitos Gonzalez - A Place For Us\Carlitos Gonzalez - A Place For
+        Us_RAW\60_BackingVox6a.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    61_BackingVox6b.wav:
+      Track_path: Carlitos Gonzalez - A Place For Us\Carlitos Gonzalez - A Place For
+        Us_RAW\61_BackingVox6b.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    62_BackingVox7a.wav:
+      Track_path: Carlitos Gonzalez - A Place For Us\Carlitos Gonzalez - A Place For
+        Us_RAW\62_BackingVox7a.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    63_BackingVox7b.wav:
+      Track_path: Carlitos Gonzalez - A Place For Us\Carlitos Gonzalez - A Place For
+        Us_RAW\63_BackingVox7b.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    64_BackingVox7c.wav:
+      Track_path: Carlitos Gonzalez - A Place For Us\Carlitos Gonzalez - A Place For
+        Us_RAW\64_BackingVox7c.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    65_BackingVox7d.wav:
+      Track_path: Carlitos Gonzalez - A Place For Us\Carlitos Gonzalez - A Place For
+        Us_RAW\65_BackingVox7d.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    66_BackingVox7e.wav:
+      Track_path: Carlitos Gonzalez - A Place For Us\Carlitos Gonzalez - A Place For
+        Us_RAW\66_BackingVox7e.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    67_BackingVox7f.wav:
+      Track_path: Carlitos Gonzalez - A Place For Us\Carlitos Gonzalez - A Place For
+        Us_RAW\67_BackingVox7f.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    68_BackingVox8a.wav:
+      Track_path: Carlitos Gonzalez - A Place For Us\Carlitos Gonzalez - A Place For
+        Us_RAW\68_BackingVox8a.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    69_BackingVox8b.wav:
+      Track_path: Carlitos Gonzalez - A Place For Us\Carlitos Gonzalez - A Place For
+        Us_RAW\69_BackingVox8b.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Unused: {}
+  Ambient_Microphone: {}

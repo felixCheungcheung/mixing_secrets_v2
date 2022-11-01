@@ -1,0 +1,295 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer: {}
+  SFX: {}
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    KICK - M80 (new instrument prototype design) - API 1608 .wav:
+      Track_path: The Brew - What I Want\The Brew - What I Want_RAW\KICK - M80 (new
+        instrument prototype design) - API 1608 .wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    KICK - M80 (stock version) - API 1608.wav:
+      Track_path: The Brew - What I Want\The Brew - What I Want_RAW\KICK - M80 (stock
+        version) - API 1608.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    KICK - U47 - API 1608.wav:
+      Track_path: The Brew - What I Want\The Brew - What I Want_RAW\KICK - U47 - API
+        1608.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_Snare:
+    SNARE BOTTOM - M80 - API 1608.wav:
+      Track_path: The Brew - What I Want\The Brew - What I Want_RAW\SNARE BOTTOM -
+        M80 - API 1608.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    SNARE TOP - M80 - API 1608.wav:
+      Track_path: The Brew - What I Want\The Brew - What I Want_RAW\SNARE TOP - M80
+        - API 1608.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_HiHat:
+    HI HAT - ELA M 260 - API 1608.wav:
+      Track_path: The Brew - What I Want\The Brew - What I Want_RAW\HI HAT - ELA M
+        260 - API 1608.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_Cymbals:
+    RIDE - ELA M 260 - BAE 1073.wav:
+      Track_path: The Brew - What I Want\The Brew - What I Want_RAW\RIDE - ELA M 260
+        - BAE 1073.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_Overheads:
+    OH LEFT - CU-29 copperhead - BAE 1073.wav:
+      Track_path: The Brew - What I Want\The Brew - What I Want_RAW\OH LEFT - CU-29
+        copperhead - BAE 1073.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    OH LEFT - ELAM 260 - BAE 1073.wav:
+      Track_path: The Brew - What I Want\The Brew - What I Want_RAW\OH LEFT - ELAM
+        260 - BAE 1073.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    OH RIGHT - CU-29 copperhead - BAE 1073.wav:
+      Track_path: The Brew - What I Want\The Brew - What I Want_RAW\OH RIGHT - CU-29
+        copperhead - BAE 1073.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    OH RIGHT - ELAM 260 - BAE 1073.wav:
+      Track_path: The Brew - What I Want\The Brew - What I Want_RAW\OH RIGHT - ELAM
+        260 - BAE 1073.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    OH XY LEFT - AR-70 STEREO - BAE 1073.wav:
+      Track_path: The Brew - What I Want\The Brew - What I Want_RAW\OH XY LEFT - AR-70
+        STEREO - BAE 1073.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    OH XY RIGHT - AR-70 STEREO - BAE 1073.wav:
+      Track_path: The Brew - What I Want\The Brew - What I Want_RAW\OH XY RIGHT -
+        AR-70 STEREO - BAE 1073.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Tom:
+    TOM 1 - M80 - API 1608.wav:
+      Track_path: The Brew - What I Want\The Brew - What I Want_RAW\TOM 1 - M80 -
+        API 1608.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    TOM 2 - M80 - API 1608.wav:
+      Track_path: The Brew - What I Want\The Brew - What I Want_RAW\TOM 2 - M80 -
+        API 1608.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_Room:
+    DRUM ROOM - U47  - BAE 1073.wav:
+      Track_path: The Brew - What I Want\The Brew - What I Want_RAW\DRUM ROOM - U47  -
+        BAE 1073.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop: {}
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass: {}
+  Electric_Bass:
+    BASS - DI  - API 1608.wav:
+      Track_path: The Brew - What I Want\The Brew - What I Want_RAW\BASS - DI  - API
+        1608.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    BASS CAB - CU-29 copperhead - BAE 1073.wav:
+      Track_path: The Brew - What I Want\The Brew - What I Want_RAW\BASS CAB - CU-29
+        copperhead - BAE 1073.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    BASS CAB - U47 - BAE 1073.wav:
+      Track_path: The Brew - What I Want\The Brew - What I Want_RAW\BASS CAB - U47
+        - BAE 1073.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Acoustic_Guitar: {}
+  Electric_Guitar:
+    GUITAR - AK-47mkII - BAE 1073.wav:
+      Track_path: The Brew - What I Want\The Brew - What I Want_RAW\GUITAR - AK-47mkII
+        - BAE 1073.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    GUITAR - AR-51 - BAE 1073.wav:
+      Track_path: The Brew - What I Want\The Brew - What I Want_RAW\GUITAR - AR-51
+        - BAE 1073.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    GUITAR - CU-29 copperhead - BAE 1073.wav:
+      Track_path: The Brew - What I Want\The Brew - What I Want_RAW\GUITAR - CU-29
+        copperhead - BAE 1073.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    GUITAR - M80 (stock) - BAE 1073.wav:
+      Track_path: The Brew - What I Want\The Brew - What I Want_RAW\GUITAR - M80 (stock)
+        - BAE 1073.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    GUITAR M80 (M81 instrument prototype) - BAE 1073.wav:
+      Track_path: The Brew - What I Want\The Brew - What I Want_RAW\GUITAR M80 (M81
+        instrument prototype) - BAE 1073.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    GUITAR ROOM - U47 - BAE 1073.wav:
+      Track_path: The Brew - What I Want\The Brew - What I Want_RAW\GUITAR ROOM -
+        U47 - BAE 1073.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Piano: {}
+  Electric_Piano:
+    KEYS LEFT - DI - LaChappel 992.wav:
+      Track_path: The Brew - What I Want\The Brew - What I Want_RAW\KEYS LEFT - DI
+        - LaChappel 992.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    KEYS RIGHT - DI - LaChappel 992.wav:
+      Track_path: The Brew - What I Want\The Brew - What I Want_RAW\KEYS RIGHT - DI
+        - LaChappel 992.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    LEAD VOCALS - AK-47kII - BAE 1073.wav:
+      Track_path: The Brew - What I Want\The Brew - What I Want_RAW\LEAD VOCALS -
+        AK-47kII - BAE 1073.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    LEAD VOCALS - ELA M 251 - BAE 1073.wav:
+      Track_path: The Brew - What I Want\The Brew - What I Want_RAW\LEAD VOCALS -
+        ELA M 251 - BAE 1073.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    LEAD VOCALS - U47 - BAE 1073.wav:
+      Track_path: The Brew - What I Want\The Brew - What I Want_RAW\LEAD VOCALS -
+        U47 - BAE 1073.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Choir: {}
+  Backing_Vocal:
+    CHORUS VOCAL - U47 - BAE 1073.wav:
+      Track_path: The Brew - What I Want\The Brew - What I Want_RAW\CHORUS VOCAL -
+        U47 - BAE 1073.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: 'Chorus Vocal contain slight noticeable Band Leakage during silence.'
+    CHORUS VOCALS - C12 - BAE 1073.wav:
+      Track_path: The Brew - What I Want\The Brew - What I Want_RAW\CHORUS VOCALS
+        - C12 - BAE 1073.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: 'Chorus Vocal contain slight noticeable Band Leakage during silence.'
+    GROUP VOCALS -  U47 - BAE 1073.wav:
+      Track_path: The Brew - What I Want\The Brew - What I Want_RAW\GROUP VOCALS -  U47
+        - BAE 1073.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    GROUP VOCALS - C12 - BAE 1073.wav:
+      Track_path: The Brew - What I Want\The Brew - What I Want_RAW\GROUP VOCALS -
+        C12 - BAE 1073.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    GROUP VOCALS 2 - C12 - BAE 1073.wav:
+      Track_path: The Brew - What I Want\The Brew - What I Want_RAW\GROUP VOCALS 2
+        - C12 - BAE 1073.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    GROUP VOCALS 2 - U47 - BAE 1073.wav:
+      Track_path: The Brew - What I Want\The Brew - What I Want_RAW\GROUP VOCALS 2
+        - U47 - BAE 1073.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Unused:
+    VOCALS (live scratch) M80  - API 1608.wav:
+      Track_path: The Brew - What I Want\The Brew - What I Want_RAW\VOCALS (live scratch)
+        M80  - API 1608.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Ambient_Microphone: {}

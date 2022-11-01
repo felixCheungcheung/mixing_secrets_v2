@@ -1,0 +1,308 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer: {}
+  SFX: {}
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    01_KickBatter.wav:
+      Track_path: Blues Bastards - Lights Out!\Blues Bastards - Lights Out!_RAW\01_KickBatter.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    02_KickIn.wav:
+      Track_path: Blues Bastards - Lights Out!\Blues Bastards - Lights Out!_RAW\02_KickIn.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    03_KickOut.wav:
+      Track_path: Blues Bastards - Lights Out!\Blues Bastards - Lights Out!_RAW\03_KickOut.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_Snare:
+    04_SnareUp.wav:
+      Track_path: Blues Bastards - Lights Out!\Blues Bastards - Lights Out!_RAW\04_SnareUp.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    05_SnareDown.wav:
+      Track_path: Blues Bastards - Lights Out!\Blues Bastards - Lights Out!_RAW\05_SnareDown.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_HiHat: {}
+  Drum_Cymbals: {}
+  Drum_Overheads:
+    08_Overheads.wav:
+      Track_path: Blues Bastards - Lights Out!\Blues Bastards - Lights Out!_RAW\08_Overheads.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Tom:
+    06_Tom1.wav:
+      Track_path: Blues Bastards - Lights Out!\Blues Bastards - Lights Out!_RAW\06_Tom1.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    07_Tom2.wav:
+      Track_path: Blues Bastards - Lights Out!\Blues Bastards - Lights Out!_RAW\07_Tom2.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_Room:
+    09_DrumsRoom.wav:
+      Track_path: Blues Bastards - Lights Out!\Blues Bastards - Lights Out!_RAW\09_DrumsRoom.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop: {}
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass:
+    11_BassSynth1.wav:
+      Track_path: Blues Bastards - Lights Out!\Blues Bastards - Lights Out!_RAW\11_BassSynth1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    12_BassSynth2.wav:
+      Track_path: Blues Bastards - Lights Out!\Blues Bastards - Lights Out!_RAW\12_BassSynth2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Electric_Bass:
+    10_BassAmp.wav:
+      Track_path: Blues Bastards - Lights Out!\Blues Bastards - Lights Out!_RAW\10_BassAmp.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Acoustic_Guitar: {}
+  Electric_Guitar:
+    13_ElecGtr1.wav:
+      Track_path: Blues Bastards - Lights Out!\Blues Bastards - Lights Out!_RAW\13_ElecGtr1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    14_ElecGtr1DT.wav:
+      Track_path: Blues Bastards - Lights Out!\Blues Bastards - Lights Out!_RAW\14_ElecGtr1DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    15_ElecGtr2.wav:
+      Track_path: Blues Bastards - Lights Out!\Blues Bastards - Lights Out!_RAW\15_ElecGtr2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    16_ElecGtr3.wav:
+      Track_path: Blues Bastards - Lights Out!\Blues Bastards - Lights Out!_RAW\16_ElecGtr3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    17_ElecGtr3DT.wav:
+      Track_path: Blues Bastards - Lights Out!\Blues Bastards - Lights Out!_RAW\17_ElecGtr3DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    18_ElecGtr4.wav:
+      Track_path: Blues Bastards - Lights Out!\Blues Bastards - Lights Out!_RAW\18_ElecGtr4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    19_ElecGtr4DT.wav:
+      Track_path: Blues Bastards - Lights Out!\Blues Bastards - Lights Out!_RAW\19_ElecGtr4DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    20_ElecGtr5.wav:
+      Track_path: Blues Bastards - Lights Out!\Blues Bastards - Lights Out!_RAW\20_ElecGtr5.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    21_ElecGtr5DT.wav:
+      Track_path: Blues Bastards - Lights Out!\Blues Bastards - Lights Out!_RAW\21_ElecGtr5DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    22_ElecGtr6.wav:
+      Track_path: Blues Bastards - Lights Out!\Blues Bastards - Lights Out!_RAW\22_ElecGtr6.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    23_ElecGtr6DT.wav:
+      Track_path: Blues Bastards - Lights Out!\Blues Bastards - Lights Out!_RAW\23_ElecGtr6DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    24_ElecGtr7.wav:
+      Track_path: Blues Bastards - Lights Out!\Blues Bastards - Lights Out!_RAW\24_ElecGtr7.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    25_ElecGtr8.wav:
+      Track_path: Blues Bastards - Lights Out!\Blues Bastards - Lights Out!_RAW\25_ElecGtr8.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Piano: {}
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    26_LeadVox1.wav:
+      Track_path: Blues Bastards - Lights Out!\Blues Bastards - Lights Out!_RAW\26_LeadVox1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    27_LeadVox1DT1.wav:
+      Track_path: Blues Bastards - Lights Out!\Blues Bastards - Lights Out!_RAW\27_LeadVox1DT1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    28_LeadVox1DT2.wav:
+      Track_path: Blues Bastards - Lights Out!\Blues Bastards - Lights Out!_RAW\28_LeadVox1DT2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    29_LeadVox2.wav:
+      Track_path: Blues Bastards - Lights Out!\Blues Bastards - Lights Out!_RAW\29_LeadVox2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    30_LeadfVox3.wav:
+      Track_path: Blues Bastards - Lights Out!\Blues Bastards - Lights Out!_RAW\30_LeadfVox3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Choir: {}
+  Backing_Vocal:
+    31_BackingVox1.wav:
+      Track_path: Blues Bastards - Lights Out!\Blues Bastards - Lights Out!_RAW\31_BackingVox1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    32_BackingVox1DT1.wav:
+      Track_path: Blues Bastards - Lights Out!\Blues Bastards - Lights Out!_RAW\32_BackingVox1DT1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    33_BackingVox1DT2.wav:
+      Track_path: Blues Bastards - Lights Out!\Blues Bastards - Lights Out!_RAW\33_BackingVox1DT2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    34_BackingVox2.wav:
+      Track_path: Blues Bastards - Lights Out!\Blues Bastards - Lights Out!_RAW\34_BackingVox2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    35_BackingVox2DT1.wav:
+      Track_path: Blues Bastards - Lights Out!\Blues Bastards - Lights Out!_RAW\35_BackingVox2DT1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    36_BackingVox2DT2.wav:
+      Track_path: Blues Bastards - Lights Out!\Blues Bastards - Lights Out!_RAW\36_BackingVox2DT2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    37_BackingVox2DT3.wav:
+      Track_path: Blues Bastards - Lights Out!\Blues Bastards - Lights Out!_RAW\37_BackingVox2DT3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    38_BackingVox2DT4.wav:
+      Track_path: Blues Bastards - Lights Out!\Blues Bastards - Lights Out!_RAW\38_BackingVox2DT4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    39_BackingVox2DT5.wav:
+      Track_path: Blues Bastards - Lights Out!\Blues Bastards - Lights Out!_RAW\39_BackingVox2DT5.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    40_BackingVox2DT6.wav:
+      Track_path: Blues Bastards - Lights Out!\Blues Bastards - Lights Out!_RAW\40_BackingVox2DT6.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    41_BackingVox3.wav:
+      Track_path: Blues Bastards - Lights Out!\Blues Bastards - Lights Out!_RAW\41_BackingVox3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    42_BackingVox3DT.wav:
+      Track_path: Blues Bastards - Lights Out!\Blues Bastards - Lights Out!_RAW\42_BackingVox3DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    43_BackingVox4.wav:
+      Track_path: Blues Bastards - Lights Out!\Blues Bastards - Lights Out!_RAW\43_BackingVox4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    44_BackingVox5.wav:
+      Track_path: Blues Bastards - Lights Out!\Blues Bastards - Lights Out!_RAW\44_BackingVox5.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    45_BackingVox6.wav:
+      Track_path: Blues Bastards - Lights Out!\Blues Bastards - Lights Out!_RAW\45_BackingVox6.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    46_BackingVox6DT.wav:
+      Track_path: Blues Bastards - Lights Out!\Blues Bastards - Lights Out!_RAW\46_BackingVox6DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    47_BackingVox7.wav:
+      Track_path: Blues Bastards - Lights Out!\Blues Bastards - Lights Out!_RAW\47_BackingVox7.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Unused: {}
+  Ambient_Microphone: {}

@@ -1,0 +1,238 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer:
+    26_SynthPad.wav:
+      Track_path: Jokers - Sea Of Leaves\Jokers - Sea Of Leaves_RAW\26_SynthPad.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    27_SynthLead.wav:
+      Track_path: Jokers - Sea Of Leaves\Jokers - Sea Of Leaves_RAW\27_SynthLead.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  SFX: {}
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    01_KickIn.wav:
+      Track_path: Jokers - Sea Of Leaves\Jokers - Sea Of Leaves_RAW\01_KickIn.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    02_KickOut.wav:
+      Track_path: Jokers - Sea Of Leaves\Jokers - Sea Of Leaves_RAW\02_KickOut.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_Snare:
+    03_SnareUp.wav:
+      Track_path: Jokers - Sea Of Leaves\Jokers - Sea Of Leaves_RAW\03_SnareUp.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    04_SnareDown.wav:
+      Track_path: Jokers - Sea Of Leaves\Jokers - Sea Of Leaves_RAW\04_SnareDown.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_HiHat: {}
+  Drum_Cymbals: {}
+  Drum_Overheads:
+    05_Overheads.wav:
+      Track_path: Jokers - Sea Of Leaves\Jokers - Sea Of Leaves_RAW\05_Overheads.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Tom:
+    07_Tom1.wav:
+      Track_path: Jokers - Sea Of Leaves\Jokers - Sea Of Leaves_RAW\07_Tom1.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    08_Tom2.wav:
+      Track_path: Jokers - Sea Of Leaves\Jokers - Sea Of Leaves_RAW\08_Tom2.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_Room:
+    06_DrumsRoom.wav:
+      Track_path: Jokers - Sea Of Leaves\Jokers - Sea Of Leaves_RAW\06_DrumsRoom.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop: {}
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass: {}
+  Electric_Bass:
+    09_BassDI.wav:
+      Track_path: Jokers - Sea Of Leaves\Jokers - Sea Of Leaves_RAW\09_BassDI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    10_BassAmp.wav:
+      Track_path: Jokers - Sea Of Leaves\Jokers - Sea Of Leaves_RAW\10_BassAmp.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Acoustic_Guitar: {}
+  Electric_Guitar:
+    11_ElecGtr1Mic1.wav:
+      Track_path: Jokers - Sea Of Leaves\Jokers - Sea Of Leaves_RAW\11_ElecGtr1Mic1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    12_ElecGtr1Mic2.wav:
+      Track_path: Jokers - Sea Of Leaves\Jokers - Sea Of Leaves_RAW\12_ElecGtr1Mic2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    13_ElecGtr2Mic1.wav:
+      Track_path: Jokers - Sea Of Leaves\Jokers - Sea Of Leaves_RAW\13_ElecGtr2Mic1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    14_ElecGtr2Mic2.wav:
+      Track_path: Jokers - Sea Of Leaves\Jokers - Sea Of Leaves_RAW\14_ElecGtr2Mic2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    15_ElecGtr3Mic1.wav:
+      Track_path: Jokers - Sea Of Leaves\Jokers - Sea Of Leaves_RAW\15_ElecGtr3Mic1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    16_ElecGtr3Mic2.wav:
+      Track_path: Jokers - Sea Of Leaves\Jokers - Sea Of Leaves_RAW\16_ElecGtr3Mic2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    17_ElecGtr4Mic1.wav:
+      Track_path: Jokers - Sea Of Leaves\Jokers - Sea Of Leaves_RAW\17_ElecGtr4Mic1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    18_ElecGtr4Mic2.wav:
+      Track_path: Jokers - Sea Of Leaves\Jokers - Sea Of Leaves_RAW\18_ElecGtr4Mic2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    19_ElecGtr5Mic1.wav:
+      Track_path: Jokers - Sea Of Leaves\Jokers - Sea Of Leaves_RAW\19_ElecGtr5Mic1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    20_ElecGtr5Mic2.wav:
+      Track_path: Jokers - Sea Of Leaves\Jokers - Sea Of Leaves_RAW\20_ElecGtr5Mic2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    21_ElecGtr6Mic1.wav:
+      Track_path: Jokers - Sea Of Leaves\Jokers - Sea Of Leaves_RAW\21_ElecGtr6Mic1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    22_ElecGtr6Mic2.wav:
+      Track_path: Jokers - Sea Of Leaves\Jokers - Sea Of Leaves_RAW\22_ElecGtr6Mic2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    23_ElecGtr7Mic1.wav:
+      Track_path: Jokers - Sea Of Leaves\Jokers - Sea Of Leaves_RAW\23_ElecGtr7Mic1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    24_ElecGtr7Mic2.wav:
+      Track_path: Jokers - Sea Of Leaves\Jokers - Sea Of Leaves_RAW\24_ElecGtr7Mic2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    25_ElecGtr8.wav:
+      Track_path: Jokers - Sea Of Leaves\Jokers - Sea Of Leaves_RAW\25_ElecGtr8.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Piano: {}
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    28_LeadVox.wav:
+      Track_path: Jokers - Sea Of Leaves\Jokers - Sea Of Leaves_RAW\28_LeadVox.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads'
+      Comment: 'slight but noticeable, recommend high pass filter'
+  Choir: {}
+  Backing_Vocal:
+    29_BackingVox1.wav:
+      Track_path: Jokers - Sea Of Leaves\Jokers - Sea Of Leaves_RAW\29_BackingVox1.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads'
+      Comment: 'slight but noticeable, recommend high pass filter'
+    30_BackingVox2.wav:
+      Track_path: Jokers - Sea Of Leaves\Jokers - Sea Of Leaves_RAW\30_BackingVox2.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads'
+      Comment: ''
+    31_BackingVox3.wav:
+      Track_path: Jokers - Sea Of Leaves\Jokers - Sea Of Leaves_RAW\31_BackingVox3.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads'
+      Comment: ''
+    32_BackingVox4.wav:
+      Track_path: Jokers - Sea Of Leaves\Jokers - Sea Of Leaves_RAW\32_BackingVox4.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads'
+      Comment: ''
+    33_BackingVox5.wav:
+      Track_path: Jokers - Sea Of Leaves\Jokers - Sea Of Leaves_RAW\33_BackingVox5.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads'
+      Comment: ''
+  Unused: {}
+  Ambient_Microphone: {}

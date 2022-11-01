@@ -1,0 +1,195 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer: {}
+  SFX: {}
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    Drums-Kick In-M82.wav:
+      Track_path: Chad Hollister Band - Eyes\Chad Hollister Band - Eyes_RAW\Drums-Kick
+        In-M82.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_Snare:
+    Drums-Snare Top-M80.wav:
+      Track_path: Chad Hollister Band - Eyes\Chad Hollister Band - Eyes_RAW\Drums-Snare
+        Top-M80.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_HiHat:
+    Drums-Hat-M60.wav:
+      Track_path: Chad Hollister Band - Eyes\Chad Hollister Band - Eyes_RAW\Drums-Hat-M60.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_Cymbals:
+    Drums-Ride-M60.wav:
+      Track_path: Chad Hollister Band - Eyes\Chad Hollister Band - Eyes_RAW\Drums-Ride-M60.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_Overheads:
+    Drums-Rack-M81.wav:
+      Track_path: Chad Hollister Band - Eyes\Chad Hollister Band - Eyes_RAW\Drums-Rack-M81.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Tom: {}
+  Drum_Room:
+    Drums-Floor-M81.wav:
+      Track_path: Chad Hollister Band - Eyes\Chad Hollister Band - Eyes_RAW\Drums-Floor-M81.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Room.wav:
+      Track_path: Chad Hollister Band - Eyes\Chad Hollister Band - Eyes_RAW\Room.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop: {}
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion:
+    Percussion-Conga-M81.wav:
+      Track_path: Chad Hollister Band - Eyes\Chad Hollister Band - Eyes_RAW\Percussion-Conga-M81.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Percussion-Conga2-M81.wav:
+      Track_path: Chad Hollister Band - Eyes\Chad Hollister Band - Eyes_RAW\Percussion-Conga2-M81.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Percussion-Overhead-M60.wav:
+      Track_path: Chad Hollister Band - Eyes\Chad Hollister Band - Eyes_RAW\Percussion-Overhead-M60.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Synth_Bass: {}
+  Electric_Bass:
+    Bass-DI.wav:
+      Track_path: Chad Hollister Band - Eyes\Chad Hollister Band - Eyes_RAW\Bass-DI.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Bass-M82.wav:
+      Track_path: Chad Hollister Band - Eyes\Chad Hollister Band - Eyes_RAW\Bass-M82.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Acoustic_Guitar:
+    Acoustic Guitar-DI.wav:
+      Track_path: Chad Hollister Band - Eyes\Chad Hollister Band - Eyes_RAW\Acoustic
+        Guitar-DI.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Acoustic Guitar-ELA M 260.wav:
+      Track_path: Chad Hollister Band - Eyes\Chad Hollister Band - Eyes_RAW\Acoustic
+        Guitar-ELA M 260.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Electric_Guitar:
+    ELE Guitar 1.wav:
+      Track_path: Chad Hollister Band - Eyes\Chad Hollister Band - Eyes_RAW\ELE Guitar
+        1.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: ''
+      Comment: ''
+    ELE Guitar 2.wav:
+      Track_path: Chad Hollister Band - Eyes\Chad Hollister Band - Eyes_RAW\ELE Guitar
+        2.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Piano: {}
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone:
+    Horns-SAX1-M80.wav:
+      Track_path: Chad Hollister Band - Eyes\Chad Hollister Band - Eyes_RAW\Horns-SAX1-M80.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Horns-Sax2-M82.wav:
+      Track_path: Chad Hollister Band - Eyes\Chad Hollister Band - Eyes_RAW\Horns-Sax2-M82.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Trumpet:
+    HORN 1_04-03.wav:
+      Track_path: Chad Hollister Band - Eyes\Chad Hollister Band - Eyes_RAW\HORN 1_04-03.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: ''
+      Comment: ''
+  French_Horn: {}
+  Trombone:
+    Horns-Bone-M82.wav:
+      Track_path: Chad Hollister Band - Eyes\Chad Hollister Band - Eyes_RAW\Horns-Bone-M82.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    Vocals-Con-ELA M 251T.wav:
+      Track_path: Chad Hollister Band - Eyes\Chad Hollister Band - Eyes_RAW\Vocals-Con-ELA
+        M 251T.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Vocals-Dyn-M81.wav:
+      Track_path: Chad Hollister Band - Eyes\Chad Hollister Band - Eyes_RAW\Vocals-Dyn-M81.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Choir: {}
+  Backing_Vocal:
+    Vocals-BG-M81.wav:
+      Track_path: Chad Hollister Band - Eyes\Chad Hollister Band - Eyes_RAW\Vocals-BG-M81.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Unused: {}
+  Ambient_Microphone: {}

@@ -1,0 +1,233 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer:
+    09_Synth.wav:
+      Track_path: Ryan Cali - Crazy\Ryan Cali - Crazy_RAW\09_Synth.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  SFX:
+    10_Sample1.wav:
+      Track_path: Ryan Cali - Crazy\Ryan Cali - Crazy_RAW\10_Sample1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    11_Sample2.wav:
+      Track_path: Ryan Cali - Crazy\Ryan Cali - Crazy_RAW\11_Sample2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    12_Sample3.wav:
+      Track_path: Ryan Cali - Crazy\Ryan Cali - Crazy_RAW\12_Sample3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    01_Kick.wav:
+      Track_path: Ryan Cali - Crazy\Ryan Cali - Crazy_RAW\01_Kick.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Snare:
+    04_Snare.wav:
+      Track_path: Ryan Cali - Crazy\Ryan Cali - Crazy_RAW\04_Snare.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_HiHat:
+    05_HiHat.wav:
+      Track_path: Ryan Cali - Crazy\Ryan Cali - Crazy_RAW\05_HiHat.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Cymbals:
+    06_Ride.wav:
+      Track_path: Ryan Cali - Crazy\Ryan Cali - Crazy_RAW\06_Ride.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Overheads: {}
+  Drum_Tom: {}
+  Drum_Room: {}
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop: {}
+  Clicks: {}
+  Claps:
+    02_Clap1.wav:
+      Track_path: Ryan Cali - Crazy\Ryan Cali - Crazy_RAW\02_Clap1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    03_Clap2.wav:
+      Track_path: Ryan Cali - Crazy\Ryan Cali - Crazy_RAW\03_Clap2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion:
+    07_Percussion.wav:
+      Track_path: Ryan Cali - Crazy\Ryan Cali - Crazy_RAW\07_Percussion.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Synth_Bass: {}
+  Electric_Bass:
+    08_Bass.wav:
+      Track_path: Ryan Cali - Crazy\Ryan Cali - Crazy_RAW\08_Bass.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Acoustic_Guitar: {}
+  Electric_Guitar: {}
+  Piano: {}
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    13_LeadVox.wav:
+      Track_path: Ryan Cali - Crazy\Ryan Cali - Crazy_RAW\13_LeadVox.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    14_LeadVoxDT1.wav:
+      Track_path: Ryan Cali - Crazy\Ryan Cali - Crazy_RAW\14_LeadVoxDT1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    15_LeadVoxDT2.wav:
+      Track_path: Ryan Cali - Crazy\Ryan Cali - Crazy_RAW\15_LeadVoxDT2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    16_BackingVox01.wav:
+      Track_path: Ryan Cali - Crazy\Ryan Cali - Crazy_RAW\16_BackingVox01.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    30_BackingVox08.wav:
+      Track_path: Ryan Cali - Crazy\Ryan Cali - Crazy_RAW\30_BackingVox08.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Choir: {}
+  Backing_Vocal:
+    17_BackingVox02.wav:
+      Track_path: Ryan Cali - Crazy\Ryan Cali - Crazy_RAW\17_BackingVox02.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    18_BackingVox02DT.wav:
+      Track_path: Ryan Cali - Crazy\Ryan Cali - Crazy_RAW\18_BackingVox02DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    19_BackingVox03.wav:
+      Track_path: Ryan Cali - Crazy\Ryan Cali - Crazy_RAW\19_BackingVox03.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    20_BackingVox03DT.wav:
+      Track_path: Ryan Cali - Crazy\Ryan Cali - Crazy_RAW\20_BackingVox03DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    21_BackingVox04.wav:
+      Track_path: Ryan Cali - Crazy\Ryan Cali - Crazy_RAW\21_BackingVox04.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    22_BackingVox04DT.wav:
+      Track_path: Ryan Cali - Crazy\Ryan Cali - Crazy_RAW\22_BackingVox04DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    23_BackingVox05.wav:
+      Track_path: Ryan Cali - Crazy\Ryan Cali - Crazy_RAW\23_BackingVox05.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    24_BackingVox06.wav:
+      Track_path: Ryan Cali - Crazy\Ryan Cali - Crazy_RAW\24_BackingVox06.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    25_BackingVox06DT1.wav:
+      Track_path: Ryan Cali - Crazy\Ryan Cali - Crazy_RAW\25_BackingVox06DT1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    26_BackingVox06DT2.wav:
+      Track_path: Ryan Cali - Crazy\Ryan Cali - Crazy_RAW\26_BackingVox06DT2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    27_BackingVox07.wav:
+      Track_path: Ryan Cali - Crazy\Ryan Cali - Crazy_RAW\27_BackingVox07.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    28_BackingVox07DT1.wav:
+      Track_path: Ryan Cali - Crazy\Ryan Cali - Crazy_RAW\28_BackingVox07DT1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    29_BackingVox07DT2.wav:
+      Track_path: Ryan Cali - Crazy\Ryan Cali - Crazy_RAW\29_BackingVox07DT2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    31_BackingVox09.wav:
+      Track_path: Ryan Cali - Crazy\Ryan Cali - Crazy_RAW\31_BackingVox09.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    32_BackingVox09DT.wav:
+      Track_path: Ryan Cali - Crazy\Ryan Cali - Crazy_RAW\32_BackingVox09DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Unused: {}
+  Ambient_Microphone: {}

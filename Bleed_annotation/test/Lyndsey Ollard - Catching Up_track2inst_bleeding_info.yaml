@@ -1,0 +1,318 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer: {}
+  SFX: {}
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    01_Drums1KickIn.wav:
+      Track_path: Lyndsey Ollard - Catching Up\Lyndsey Ollard - Catching Up_RAW\01_Drums1KickIn.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads'
+      Comment: ''
+    02_Drums1KickOut.wav:
+      Track_path: Lyndsey Ollard - Catching Up\Lyndsey Ollard - Catching Up_RAW\02_Drums1KickOut.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads'
+      Comment: ''
+    13_Drums2KickIn.wav:
+      Track_path: Lyndsey Ollard - Catching Up\Lyndsey Ollard - Catching Up_RAW\13_Drums2KickIn.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads'
+      Comment: ''
+    14_Drums2KickOut.wav:
+      Track_path: Lyndsey Ollard - Catching Up\Lyndsey Ollard - Catching Up_RAW\14_Drums2KickOut.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads'
+      Comment: ''
+  Drum_Snare:
+    03_Drums1SnareUp.wav:
+      Track_path: Lyndsey Ollard - Catching Up\Lyndsey Ollard - Catching Up_RAW\03_Drums1SnareUp.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads'
+      Comment: ''
+    04_Drums1SnareDown.wav:
+      Track_path: Lyndsey Ollard - Catching Up\Lyndsey Ollard - Catching Up_RAW\04_Drums1SnareDown.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads'
+      Comment: ''
+    15_Drums2SnareUp.wav:
+      Track_path: Lyndsey Ollard - Catching Up\Lyndsey Ollard - Catching Up_RAW\15_Drums2SnareUp.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads'
+      Comment: ''
+    16_Drums2SnareDown.wav:
+      Track_path: Lyndsey Ollard - Catching Up\Lyndsey Ollard - Catching Up_RAW\16_Drums2SnareDown.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads'
+      Comment: ''
+  Drum_HiHat:
+    05_Drums1HiHat.wav:
+      Track_path: Lyndsey Ollard - Catching Up\Lyndsey Ollard - Catching Up_RAW\05_Drums1HiHat.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads'
+      Comment: ''
+    17_Drums2HiHat.wav:
+      Track_path: Lyndsey Ollard - Catching Up\Lyndsey Ollard - Catching Up_RAW\17_Drums2HiHat.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads'
+      Comment: ''
+  Drum_Cymbals:
+    06_Drums1Ride.wav:
+      Track_path: Lyndsey Ollard - Catching Up\Lyndsey Ollard - Catching Up_RAW\06_Drums1Ride.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads'
+      Comment: ''
+    18_Drums2Ride.wav:
+      Track_path: Lyndsey Ollard - Catching Up\Lyndsey Ollard - Catching Up_RAW\18_Drums2Ride.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads'
+      Comment: ''
+  Drum_Overheads:
+    08_Drums1Overheads.wav:
+      Track_path: Lyndsey Ollard - Catching Up\Lyndsey Ollard - Catching Up_RAW\08_Drums1Overheads.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    20_Drums2Overheads.wav:
+      Track_path: Lyndsey Ollard - Catching Up\Lyndsey Ollard - Catching Up_RAW\20_Drums2Overheads.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Tom:
+    07_Drums1FloorTom.wav:
+      Track_path: Lyndsey Ollard - Catching Up\Lyndsey Ollard - Catching Up_RAW\07_Drums1FloorTom.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads'
+      Comment: ''
+    19_Drums2FloorTom.wav:
+      Track_path: Lyndsey Ollard - Catching Up\Lyndsey Ollard - Catching Up_RAW\19_Drums2FloorTom.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads'
+      Comment: ''
+  Drum_Room:
+    09_Drums1Room.wav:
+      Track_path: Lyndsey Ollard - Catching Up\Lyndsey Ollard - Catching Up_RAW\09_Drums1Room.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    10_Drums1Amb1.wav:
+      Track_path: Lyndsey Ollard - Catching Up\Lyndsey Ollard - Catching Up_RAW\10_Drums1Amb1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    11_Drums1Amb2.wav:
+      Track_path: Lyndsey Ollard - Catching Up\Lyndsey Ollard - Catching Up_RAW\11_Drums1Amb2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    12_Drums1Amb3.wav:
+      Track_path: Lyndsey Ollard - Catching Up\Lyndsey Ollard - Catching Up_RAW\12_Drums1Amb3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    21_Drums2Room.wav:
+      Track_path: Lyndsey Ollard - Catching Up\Lyndsey Ollard - Catching Up_RAW\21_Drums2Room.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    22_Drums2Amb1.wav:
+      Track_path: Lyndsey Ollard - Catching Up\Lyndsey Ollard - Catching Up_RAW\22_Drums2Amb1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    23_Drums2Amb2.wav:
+      Track_path: Lyndsey Ollard - Catching Up\Lyndsey Ollard - Catching Up_RAW\23_Drums2Amb2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    24_Drums2Amb3.wav:
+      Track_path: Lyndsey Ollard - Catching Up\Lyndsey Ollard - Catching Up_RAW\24_Drums2Amb3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine:
+    25_Tambourine.wav:
+      Track_path: Lyndsey Ollard - Catching Up\Lyndsey Ollard - Catching Up_RAW\25_Tambourine.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Loop: {}
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass: {}
+  Electric_Bass:
+    26_BassDI.wav:
+      Track_path: Lyndsey Ollard - Catching Up\Lyndsey Ollard - Catching Up_RAW\26_BassDI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    27_BassAmp.wav:
+      Track_path: Lyndsey Ollard - Catching Up\Lyndsey Ollard - Catching Up_RAW\27_BassAmp.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Acoustic_Guitar:
+    28_AcousticGtr01.wav:
+      Track_path: Lyndsey Ollard - Catching Up\Lyndsey Ollard - Catching Up_RAW\28_AcousticGtr01.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    29_AcousticGtr02.wav:
+      Track_path: Lyndsey Ollard - Catching Up\Lyndsey Ollard - Catching Up_RAW\29_AcousticGtr02.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    30_AcousticGtr03.wav:
+      Track_path: Lyndsey Ollard - Catching Up\Lyndsey Ollard - Catching Up_RAW\30_AcousticGtr03.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    31_AcousticGtr04.wav:
+      Track_path: Lyndsey Ollard - Catching Up\Lyndsey Ollard - Catching Up_RAW\31_AcousticGtr04.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Electric_Guitar:
+    32_ElecGtr01Mic1.wav:
+      Track_path: Lyndsey Ollard - Catching Up\Lyndsey Ollard - Catching Up_RAW\32_ElecGtr01Mic1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    33_ElecGtr01Mic2.wav:
+      Track_path: Lyndsey Ollard - Catching Up\Lyndsey Ollard - Catching Up_RAW\33_ElecGtr01Mic2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    34_ElecGtr02Mic1.wav:
+      Track_path: Lyndsey Ollard - Catching Up\Lyndsey Ollard - Catching Up_RAW\34_ElecGtr02Mic1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    35_ElecGtr02Mic2.wav:
+      Track_path: Lyndsey Ollard - Catching Up\Lyndsey Ollard - Catching Up_RAW\35_ElecGtr02Mic2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    36_ElecGtr03Mic1.wav:
+      Track_path: Lyndsey Ollard - Catching Up\Lyndsey Ollard - Catching Up_RAW\36_ElecGtr03Mic1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    37_ElecGtr03Mic2.wav:
+      Track_path: Lyndsey Ollard - Catching Up\Lyndsey Ollard - Catching Up_RAW\37_ElecGtr03Mic2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    38_ElecGtr04Mic1.wav:
+      Track_path: Lyndsey Ollard - Catching Up\Lyndsey Ollard - Catching Up_RAW\38_ElecGtr04Mic1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    39_ElecGtr04Mic2.wav:
+      Track_path: Lyndsey Ollard - Catching Up\Lyndsey Ollard - Catching Up_RAW\39_ElecGtr04Mic2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    40_ElecGtr05Mic1.wav:
+      Track_path: Lyndsey Ollard - Catching Up\Lyndsey Ollard - Catching Up_RAW\40_ElecGtr05Mic1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    41_ElecGtr05Mic2.wav:
+      Track_path: Lyndsey Ollard - Catching Up\Lyndsey Ollard - Catching Up_RAW\41_ElecGtr05Mic2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Piano: {}
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    42_LeadVoxScratch.wav:
+      Track_path: Lyndsey Ollard - Catching Up\Lyndsey Ollard - Catching Up_RAW\42_LeadVoxScratch.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    43_LeadVoxOD_UncompedTake01.wav:
+      Track_path: Lyndsey Ollard - Catching Up\Lyndsey Ollard - Catching Up_RAW\43_LeadVoxOD_UncompedTake01.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    44_LeadVoxOD_UncompedTake02.wav:
+      Track_path: Lyndsey Ollard - Catching Up\Lyndsey Ollard - Catching Up_RAW\44_LeadVoxOD_UncompedTake02.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    45_LeadVoxOD_UncompedTake03.wav:
+      Track_path: Lyndsey Ollard - Catching Up\Lyndsey Ollard - Catching Up_RAW\45_LeadVoxOD_UncompedTake03.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    46_LeadVoxOD_UncompedTake04.wav:
+      Track_path: Lyndsey Ollard - Catching Up\Lyndsey Ollard - Catching Up_RAW\46_LeadVoxOD_UncompedTake04.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    47_LeadVoxOD_UncompedTake05.wav:
+      Track_path: Lyndsey Ollard - Catching Up\Lyndsey Ollard - Catching Up_RAW\47_LeadVoxOD_UncompedTake05.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Choir: {}
+  Backing_Vocal:
+    48_BackingVox01.wav:
+      Track_path: Lyndsey Ollard - Catching Up\Lyndsey Ollard - Catching Up_RAW\48_BackingVox01.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    49_BackingVox02.wav:
+      Track_path: Lyndsey Ollard - Catching Up\Lyndsey Ollard - Catching Up_RAW\49_BackingVox02.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Unused: {}
+  Ambient_Microphone: {}

@@ -1,0 +1,403 @@
+Track2inst:
+  Electric_Organ:
+    35_Organ1.wav:
+      Track_path: Alan Mansfield & John Pritchard - Boat Ride\Alan Mansfield & John
+        Pritchard - Boat Ride_RAW\35_Organ1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    36_Organ2.wav:
+      Track_path: Alan Mansfield & John Pritchard - Boat Ride\Alan Mansfield & John
+        Pritchard - Boat Ride_RAW\36_Organ2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    37_Organ3.wav:
+      Track_path: Alan Mansfield & John Pritchard - Boat Ride\Alan Mansfield & John
+        Pritchard - Boat Ride_RAW\37_Organ3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Synthesizer: {}
+  SFX: {}
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    01_KickIn.wav:
+      Track_path: Alan Mansfield & John Pritchard - Boat Ride\Alan Mansfield & John
+        Pritchard - Boat Ride_RAW\01_KickIn.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    02_KickOut.wav:
+      Track_path: Alan Mansfield & John Pritchard - Boat Ride\Alan Mansfield & John
+        Pritchard - Boat Ride_RAW\02_KickOut.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    11_KickIn_AlternateTake.wav:
+      Track_path: Alan Mansfield & John Pritchard - Boat Ride\Alan Mansfield & John
+        Pritchard - Boat Ride_RAW\11_KickIn_AlternateTake.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    12_KickOut_AlternateTake.wav:
+      Track_path: Alan Mansfield & John Pritchard - Boat Ride\Alan Mansfield & John
+        Pritchard - Boat Ride_RAW\12_KickOut_AlternateTake.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Snare:
+    03_SnareUp.wav:
+      Track_path: Alan Mansfield & John Pritchard - Boat Ride\Alan Mansfield & John
+        Pritchard - Boat Ride_RAW\03_SnareUp.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    04_SnareDown.wav:
+      Track_path: Alan Mansfield & John Pritchard - Boat Ride\Alan Mansfield & John
+        Pritchard - Boat Ride_RAW\04_SnareDown.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    13_SnareUp_AlternateTake.wav:
+      Track_path: Alan Mansfield & John Pritchard - Boat Ride\Alan Mansfield & John
+        Pritchard - Boat Ride_RAW\13_SnareUp_AlternateTake.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    14_SnareDown_AlternateTake.wav:
+      Track_path: Alan Mansfield & John Pritchard - Boat Ride\Alan Mansfield & John
+        Pritchard - Boat Ride_RAW\14_SnareDown_AlternateTake.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_HiHat:
+    05_HiHat.wav:
+      Track_path: Alan Mansfield & John Pritchard - Boat Ride\Alan Mansfield & John
+        Pritchard - Boat Ride_RAW\05_HiHat.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    15_HiHat_AlternateTake.wav:
+      Track_path: Alan Mansfield & John Pritchard - Boat Ride\Alan Mansfield & John
+        Pritchard - Boat Ride_RAW\15_HiHat_AlternateTake.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Cymbals: {}
+  Drum_Overheads:
+    06_DrumsLeakage.wav:
+      Track_path: Alan Mansfield & John Pritchard - Boat Ride\Alan Mansfield & John
+        Pritchard - Boat Ride_RAW\06_DrumsLeakage.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    07_Overheads.wav:
+      Track_path: Alan Mansfield & John Pritchard - Boat Ride\Alan Mansfield & John
+        Pritchard - Boat Ride_RAW\07_Overheads.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    19_DrumsLeakage_AlternateTake.wav:
+      Track_path: Alan Mansfield & John Pritchard - Boat Ride\Alan Mansfield & John
+        Pritchard - Boat Ride_RAW\19_DrumsLeakage_AlternateTake.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    20_Overheads_AlternateTake.wav:
+      Track_path: Alan Mansfield & John Pritchard - Boat Ride\Alan Mansfield & John
+        Pritchard - Boat Ride_RAW\20_Overheads_AlternateTake.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Tom:
+    16_Tom1_AlternateTake.wav:
+      Track_path: Alan Mansfield & John Pritchard - Boat Ride\Alan Mansfield & John
+        Pritchard - Boat Ride_RAW\16_Tom1_AlternateTake.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    17_Tom2_AlternateTake.wav:
+      Track_path: Alan Mansfield & John Pritchard - Boat Ride\Alan Mansfield & John
+        Pritchard - Boat Ride_RAW\17_Tom2_AlternateTake.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    18_Tom3_AlternateTake.wav:
+      Track_path: Alan Mansfield & John Pritchard - Boat Ride\Alan Mansfield & John
+        Pritchard - Boat Ride_RAW\18_Tom3_AlternateTake.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Room:
+    08_DrumsRoom.wav:
+      Track_path: Alan Mansfield & John Pritchard - Boat Ride\Alan Mansfield & John
+        Pritchard - Boat Ride_RAW\08_DrumsRoom.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    21_DrumsRoom_AlternateTake.wav:
+      Track_path: Alan Mansfield & John Pritchard - Boat Ride\Alan Mansfield & John
+        Pritchard - Boat Ride_RAW\21_DrumsRoom_AlternateTake.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine:
+    09_Tambourine.wav:
+      Track_path: Alan Mansfield & John Pritchard - Boat Ride\Alan Mansfield & John
+        Pritchard - Boat Ride_RAW\09_Tambourine.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    10_HandClaps.wav:
+      Track_path: Alan Mansfield & John Pritchard - Boat Ride\Alan Mansfield & John
+        Pritchard - Boat Ride_RAW\10_HandClaps.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    22_Tambourine1_AlternateTake.wav:
+      Track_path: Alan Mansfield & John Pritchard - Boat Ride\Alan Mansfield & John
+        Pritchard - Boat Ride_RAW\22_Tambourine1_AlternateTake.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    23_Tambourine2_AlternateTake.wav:
+      Track_path: Alan Mansfield & John Pritchard - Boat Ride\Alan Mansfield & John
+        Pritchard - Boat Ride_RAW\23_Tambourine2_AlternateTake.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Loop: {}
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass: {}
+  Electric_Bass:
+    24_Bass.wav:
+      Track_path: Alan Mansfield & John Pritchard - Boat Ride\Alan Mansfield & John
+        Pritchard - Boat Ride_RAW\24_Bass.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    25_Bass_AlternateTake.wav:
+      Track_path: Alan Mansfield & John Pritchard - Boat Ride\Alan Mansfield & John
+        Pritchard - Boat Ride_RAW\25_Bass_AlternateTake.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Acoustic_Guitar: {}
+  Electric_Guitar:
+    26_ElecGtr1.wav:
+      Track_path: Alan Mansfield & John Pritchard - Boat Ride\Alan Mansfield & John
+        Pritchard - Boat Ride_RAW\26_ElecGtr1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    27_ElecGtr2.wav:
+      Track_path: Alan Mansfield & John Pritchard - Boat Ride\Alan Mansfield & John
+        Pritchard - Boat Ride_RAW\27_ElecGtr2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    28_ElecGtr3.wav:
+      Track_path: Alan Mansfield & John Pritchard - Boat Ride\Alan Mansfield & John
+        Pritchard - Boat Ride_RAW\28_ElecGtr3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    29_ElecGtr4.wav:
+      Track_path: Alan Mansfield & John Pritchard - Boat Ride\Alan Mansfield & John
+        Pritchard - Boat Ride_RAW\29_ElecGtr4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    30_ElecGtr5.wav:
+      Track_path: Alan Mansfield & John Pritchard - Boat Ride\Alan Mansfield & John
+        Pritchard - Boat Ride_RAW\30_ElecGtr5.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    31_ElecGtr6.wav:
+      Track_path: Alan Mansfield & John Pritchard - Boat Ride\Alan Mansfield & John
+        Pritchard - Boat Ride_RAW\31_ElecGtr6.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    32_ElecGtr7.wav:
+      Track_path: Alan Mansfield & John Pritchard - Boat Ride\Alan Mansfield & John
+        Pritchard - Boat Ride_RAW\32_ElecGtr7.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    33_ElecGtr8.wav:
+      Track_path: Alan Mansfield & John Pritchard - Boat Ride\Alan Mansfield & John
+        Pritchard - Boat Ride_RAW\33_ElecGtr8.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    34_ElecGtr9.wav:
+      Track_path: Alan Mansfield & John Pritchard - Boat Ride\Alan Mansfield & John
+        Pritchard - Boat Ride_RAW\34_ElecGtr9.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Piano: {}
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    38_LeadVox.wav:
+      Track_path: Alan Mansfield & John Pritchard - Boat Ride\Alan Mansfield & John
+        Pritchard - Boat Ride_RAW\38_LeadVox.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: ''
+      Comment: ''
+    39_LeadVoxFX1.wav:
+      Track_path: Alan Mansfield & John Pritchard - Boat Ride\Alan Mansfield & John
+        Pritchard - Boat Ride_RAW\39_LeadVoxFX1.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: ''
+      Comment: ''
+    40_LeadVoxFX2.wav:
+      Track_path: Alan Mansfield & John Pritchard - Boat Ride\Alan Mansfield & John
+        Pritchard - Boat Ride_RAW\40_LeadVoxFX2.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: ''
+      Comment: ''
+    54_VocalSFX1.wav:
+      Track_path: Alan Mansfield & John Pritchard - Boat Ride\Alan Mansfield & John
+        Pritchard - Boat Ride_RAW\54_VocalSFX1.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: ''
+      Comment: ''
+    55_VocalSFX2.wav:
+      Track_path: Alan Mansfield & John Pritchard - Boat Ride\Alan Mansfield & John
+        Pritchard - Boat Ride_RAW\55_VocalSFX2.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Choir: {}
+  Backing_Vocal:
+    41_BackingVox1.wav:
+      Track_path: Alan Mansfield & John Pritchard - Boat Ride\Alan Mansfield & John
+        Pritchard - Boat Ride_RAW\41_BackingVox1.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: ''
+      Comment: ''
+    42_BackingVox1DT1.wav:
+      Track_path: Alan Mansfield & John Pritchard - Boat Ride\Alan Mansfield & John
+        Pritchard - Boat Ride_RAW\42_BackingVox1DT1.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: ''
+      Comment: ''
+    43_BackingVox1DT2.wav:
+      Track_path: Alan Mansfield & John Pritchard - Boat Ride\Alan Mansfield & John
+        Pritchard - Boat Ride_RAW\43_BackingVox1DT2.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: ''
+      Comment: ''
+    44_BackingVox1DT3.wav:
+      Track_path: Alan Mansfield & John Pritchard - Boat Ride\Alan Mansfield & John
+        Pritchard - Boat Ride_RAW\44_BackingVox1DT3.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: ''
+      Comment: ''
+    45_BackingVox1FX1.wav:
+      Track_path: Alan Mansfield & John Pritchard - Boat Ride\Alan Mansfield & John
+        Pritchard - Boat Ride_RAW\45_BackingVox1FX1.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: ''
+      Comment: ''
+    46_BackingVox1FX2.wav:
+      Track_path: Alan Mansfield & John Pritchard - Boat Ride\Alan Mansfield & John
+        Pritchard - Boat Ride_RAW\46_BackingVox1FX2.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: ''
+      Comment: ''
+    47_BackingVox2.wav:
+      Track_path: Alan Mansfield & John Pritchard - Boat Ride\Alan Mansfield & John
+        Pritchard - Boat Ride_RAW\47_BackingVox2.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: ''
+      Comment: ''
+    48_BackingVox2DT.wav:
+      Track_path: Alan Mansfield & John Pritchard - Boat Ride\Alan Mansfield & John
+        Pritchard - Boat Ride_RAW\48_BackingVox2DT.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: ''
+      Comment: ''
+    49_BackingVox3.wav:
+      Track_path: Alan Mansfield & John Pritchard - Boat Ride\Alan Mansfield & John
+        Pritchard - Boat Ride_RAW\49_BackingVox3.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: ''
+      Comment: ''
+    50_BackingVox3DT.wav:
+      Track_path: Alan Mansfield & John Pritchard - Boat Ride\Alan Mansfield & John
+        Pritchard - Boat Ride_RAW\50_BackingVox3DT.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: ''
+      Comment: ''
+    51_BackingVox4.wav:
+      Track_path: Alan Mansfield & John Pritchard - Boat Ride\Alan Mansfield & John
+        Pritchard - Boat Ride_RAW\51_BackingVox4.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: ''
+      Comment: ''
+    52_BackingVox4DT.wav:
+      Track_path: Alan Mansfield & John Pritchard - Boat Ride\Alan Mansfield & John
+        Pritchard - Boat Ride_RAW\52_BackingVox4DT.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: ''
+      Comment: ''
+    53_BackingVox5.wav:
+      Track_path: Alan Mansfield & John Pritchard - Boat Ride\Alan Mansfield & John
+        Pritchard - Boat Ride_RAW\53_BackingVox5.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Unused: {}
+  Ambient_Microphone: {}

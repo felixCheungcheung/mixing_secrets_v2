@@ -1,0 +1,253 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer:
+    20_Synth1.wav:
+      Track_path: Mustafa Albazy - Shela Ya Marhaba\Mustafa Albazy - Shela Ya Marhaba_RAW\20_Synth1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    21_Synth2.wav:
+      Track_path: Mustafa Albazy - Shela Ya Marhaba\Mustafa Albazy - Shela Ya Marhaba_RAW\21_Synth2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    22_Synth3.wav:
+      Track_path: Mustafa Albazy - Shela Ya Marhaba\Mustafa Albazy - Shela Ya Marhaba_RAW\22_Synth3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    23_Synth4.wav:
+      Track_path: Mustafa Albazy - Shela Ya Marhaba\Mustafa Albazy - Shela Ya Marhaba_RAW\23_Synth4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    24_Synth5.wav:
+      Track_path: Mustafa Albazy - Shela Ya Marhaba\Mustafa Albazy - Shela Ya Marhaba_RAW\24_Synth5.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    25_Synth6.wav:
+      Track_path: Mustafa Albazy - Shela Ya Marhaba\Mustafa Albazy - Shela Ya Marhaba_RAW\25_Synth6.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    26_Synth7.wav:
+      Track_path: Mustafa Albazy - Shela Ya Marhaba\Mustafa Albazy - Shela Ya Marhaba_RAW\26_Synth7.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    27_Synth8.wav:
+      Track_path: Mustafa Albazy - Shela Ya Marhaba\Mustafa Albazy - Shela Ya Marhaba_RAW\27_Synth8.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  SFX:
+    28_SFX1.wav:
+      Track_path: Mustafa Albazy - Shela Ya Marhaba\Mustafa Albazy - Shela Ya Marhaba_RAW\28_SFX1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    29_SFX2.wav:
+      Track_path: Mustafa Albazy - Shela Ya Marhaba\Mustafa Albazy - Shela Ya Marhaba_RAW\29_SFX2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    30_SFX3.wav:
+      Track_path: Mustafa Albazy - Shela Ya Marhaba\Mustafa Albazy - Shela Ya Marhaba_RAW\30_SFX3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    31_SFX4.wav:
+      Track_path: Mustafa Albazy - Shela Ya Marhaba\Mustafa Albazy - Shela Ya Marhaba_RAW\31_SFX4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    32_SFX5.wav:
+      Track_path: Mustafa Albazy - Shela Ya Marhaba\Mustafa Albazy - Shela Ya Marhaba_RAW\32_SFX5.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    33_SFX6.wav:
+      Track_path: Mustafa Albazy - Shela Ya Marhaba\Mustafa Albazy - Shela Ya Marhaba_RAW\33_SFX6.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    34_SFX7.wav:
+      Track_path: Mustafa Albazy - Shela Ya Marhaba\Mustafa Albazy - Shela Ya Marhaba_RAW\34_SFX7.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    35_SFX8.wav:
+      Track_path: Mustafa Albazy - Shela Ya Marhaba\Mustafa Albazy - Shela Ya Marhaba_RAW\35_SFX8.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    36_VoxSFX.wav:
+      Track_path: Mustafa Albazy - Shela Ya Marhaba\Mustafa Albazy - Shela Ya Marhaba_RAW\36_VoxSFX.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    04_Kick1.wav:
+      Track_path: Mustafa Albazy - Shela Ya Marhaba\Mustafa Albazy - Shela Ya Marhaba_RAW\04_Kick1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    05_Kick2.wav:
+      Track_path: Mustafa Albazy - Shela Ya Marhaba\Mustafa Albazy - Shela Ya Marhaba_RAW\05_Kick2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Snare:
+    08_Snare.wav:
+      Track_path: Mustafa Albazy - Shela Ya Marhaba\Mustafa Albazy - Shela Ya Marhaba_RAW\08_Snare.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_HiHat: {}
+  Drum_Cymbals: {}
+  Drum_Overheads: {}
+  Drum_Tom: {}
+  Drum_Room: {}
+  Shaker:
+    12_Shaker.wav:
+      Track_path: Mustafa Albazy - Shela Ya Marhaba\Mustafa Albazy - Shela Ya Marhaba_RAW\12_Shaker.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine:
+    13_Tambourine.wav:
+      Track_path: Mustafa Albazy - Shela Ya Marhaba\Mustafa Albazy - Shela Ya Marhaba_RAW\13_Tambourine.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Loop:
+    01_Loop1.wav:
+      Track_path: Mustafa Albazy - Shela Ya Marhaba\Mustafa Albazy - Shela Ya Marhaba_RAW\01_Loop1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    02_Loop2.wav:
+      Track_path: Mustafa Albazy - Shela Ya Marhaba\Mustafa Albazy - Shela Ya Marhaba_RAW\02_Loop2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    03_Loop3.wav:
+      Track_path: Mustafa Albazy - Shela Ya Marhaba\Mustafa Albazy - Shela Ya Marhaba_RAW\03_Loop3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Clicks: {}
+  Claps:
+    06_Clap1.wav:
+      Track_path: Mustafa Albazy - Shela Ya Marhaba\Mustafa Albazy - Shela Ya Marhaba_RAW\06_Clap1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    07_Clap2.wav:
+      Track_path: Mustafa Albazy - Shela Ya Marhaba\Mustafa Albazy - Shela Ya Marhaba_RAW\07_Clap2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion:
+    09_Cajon.wav:
+      Track_path: Mustafa Albazy - Shela Ya Marhaba\Mustafa Albazy - Shela Ya Marhaba_RAW\09_Cajon.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    10_ExoDrum1.wav:
+      Track_path: Mustafa Albazy - Shela Ya Marhaba\Mustafa Albazy - Shela Ya Marhaba_RAW\10_ExoDrum1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    11_ExoDrum2.wav:
+      Track_path: Mustafa Albazy - Shela Ya Marhaba\Mustafa Albazy - Shela Ya Marhaba_RAW\11_ExoDrum2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Synth_Bass: {}
+  Electric_Bass:
+    14_Bass.wav:
+      Track_path: Mustafa Albazy - Shela Ya Marhaba\Mustafa Albazy - Shela Ya Marhaba_RAW\14_Bass.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Acoustic_Guitar: {}
+  Electric_Guitar:
+    15_ElecGtr1.wav:
+      Track_path: Mustafa Albazy - Shela Ya Marhaba\Mustafa Albazy - Shela Ya Marhaba_RAW\15_ElecGtr1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    16_ElecGtr2.wav:
+      Track_path: Mustafa Albazy - Shela Ya Marhaba\Mustafa Albazy - Shela Ya Marhaba_RAW\16_ElecGtr2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    17_ElecGtr3.wav:
+      Track_path: Mustafa Albazy - Shela Ya Marhaba\Mustafa Albazy - Shela Ya Marhaba_RAW\17_ElecGtr3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    18_ElecGtr4.wav:
+      Track_path: Mustafa Albazy - Shela Ya Marhaba\Mustafa Albazy - Shela Ya Marhaba_RAW\18_ElecGtr4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    19_ElecGtr5.wav:
+      Track_path: Mustafa Albazy - Shela Ya Marhaba\Mustafa Albazy - Shela Ya Marhaba_RAW\19_ElecGtr5.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Piano: {}
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal: {}
+  Choir: {}
+  Backing_Vocal: {}
+  Unused: {}
+  Ambient_Microphone: {}

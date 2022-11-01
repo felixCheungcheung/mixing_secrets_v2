@@ -1,0 +1,205 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer: {}
+  SFX: {}
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    01_Kick.wav:
+      Track_path: The Balazs Daniel Boogie Woogie Trio - Own Way To Boogie\The Balazs
+        Daniel Boogie Woogie Trio - Own Way To Boogie_RAW\01_Kick.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_Snare:
+    02_SnareUp.wav:
+      Track_path: The Balazs Daniel Boogie Woogie Trio - Own Way To Boogie\The Balazs
+        Daniel Boogie Woogie Trio - Own Way To Boogie_RAW\02_SnareUp.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    03_SnareDown.wav:
+      Track_path: The Balazs Daniel Boogie Woogie Trio - Own Way To Boogie\The Balazs
+        Daniel Boogie Woogie Trio - Own Way To Boogie_RAW\03_SnareDown.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_HiHat:
+    04_HiHat.wav:
+      Track_path: The Balazs Daniel Boogie Woogie Trio - Own Way To Boogie\The Balazs
+        Daniel Boogie Woogie Trio - Own Way To Boogie_RAW\04_HiHat.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_Cymbals: {}
+  Drum_Overheads:
+    07_Overheads.wav:
+      Track_path: The Balazs Daniel Boogie Woogie Trio - Own Way To Boogie\The Balazs
+        Daniel Boogie Woogie Trio - Own Way To Boogie_RAW\07_Overheads.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Tom:
+    05_Tom1.wav:
+      Track_path: The Balazs Daniel Boogie Woogie Trio - Own Way To Boogie\The Balazs
+        Daniel Boogie Woogie Trio - Own Way To Boogie_RAW\05_Tom1.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    06_Tom2.wav:
+      Track_path: The Balazs Daniel Boogie Woogie Trio - Own Way To Boogie\The Balazs
+        Daniel Boogie Woogie Trio - Own Way To Boogie_RAW\06_Tom2.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_Room:
+    08_DrumsRoom.wav:
+      Track_path: The Balazs Daniel Boogie Woogie Trio - Own Way To Boogie\The Balazs
+        Daniel Boogie Woogie Trio - Own Way To Boogie_RAW\08_DrumsRoom.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop: {}
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass: {}
+  Electric_Bass: {}
+  Acoustic_Guitar: {}
+  Electric_Guitar: {}
+  Piano:
+    12_PianoMicPair1.wav:
+      Track_path: The Balazs Daniel Boogie Woogie Trio - Own Way To Boogie\The Balazs
+        Daniel Boogie Woogie Trio - Own Way To Boogie_RAW\12_PianoMicPair1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    13_PianoMicPair2.wav:
+      Track_path: The Balazs Daniel Boogie Woogie Trio - Own Way To Boogie\The Balazs
+        Daniel Boogie Woogie Trio - Own Way To Boogie_RAW\13_PianoMicPair2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    14_PianoMicPair3.wav:
+      Track_path: The Balazs Daniel Boogie Woogie Trio - Own Way To Boogie\The Balazs
+        Daniel Boogie Woogie Trio - Own Way To Boogie_RAW\14_PianoMicPair3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass:
+    09_BassMic1.wav:
+      Track_path: The Balazs Daniel Boogie Woogie Trio - Own Way To Boogie\The Balazs
+        Daniel Boogie Woogie Trio - Own Way To Boogie_RAW\09_BassMic1.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Piano, Drum_Overheads'
+      Comment: ''
+    10_BassMic2.wav:
+      Track_path: The Balazs Daniel Boogie Woogie Trio - Own Way To Boogie\The Balazs
+        Daniel Boogie Woogie Trio - Own Way To Boogie_RAW\10_BassMic2.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Piano, Drum_Overheads'
+      Comment: ''
+    11_BassDI.wav:
+      Track_path: The Balazs Daniel Boogie Woogie Trio - Own Way To Boogie\The Balazs
+        Daniel Boogie Woogie Trio - Own Way To Boogie_RAW\11_BassDI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    15_LeadVox.wav:
+      Track_path: The Balazs Daniel Boogie Woogie Trio - Own Way To Boogie\The Balazs
+        Daniel Boogie Woogie Trio - Own Way To Boogie_RAW\15_LeadVox.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Choir: {}
+  Backing_Vocal:
+    16_LeadVoxHarm.wav:
+      Track_path: The Balazs Daniel Boogie Woogie Trio - Own Way To Boogie\The Balazs
+        Daniel Boogie Woogie Trio - Own Way To Boogie_RAW\16_LeadVoxHarm.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    17_BackingVox01.wav:
+      Track_path: The Balazs Daniel Boogie Woogie Trio - Own Way To Boogie\The Balazs
+        Daniel Boogie Woogie Trio - Own Way To Boogie_RAW\17_BackingVox01.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    18_BackingVox02.wav:
+      Track_path: The Balazs Daniel Boogie Woogie Trio - Own Way To Boogie\The Balazs
+        Daniel Boogie Woogie Trio - Own Way To Boogie_RAW\18_BackingVox02.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    19_BackingVox03.wav:
+      Track_path: The Balazs Daniel Boogie Woogie Trio - Own Way To Boogie\The Balazs
+        Daniel Boogie Woogie Trio - Own Way To Boogie_RAW\19_BackingVox03.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    20_BackingVox04.wav:
+      Track_path: The Balazs Daniel Boogie Woogie Trio - Own Way To Boogie\The Balazs
+        Daniel Boogie Woogie Trio - Own Way To Boogie_RAW\20_BackingVox04.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    21_BackingVox05.wav:
+      Track_path: The Balazs Daniel Boogie Woogie Trio - Own Way To Boogie\The Balazs
+        Daniel Boogie Woogie Trio - Own Way To Boogie_RAW\21_BackingVox05.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    22_BackingVox06.wav:
+      Track_path: The Balazs Daniel Boogie Woogie Trio - Own Way To Boogie\The Balazs
+        Daniel Boogie Woogie Trio - Own Way To Boogie_RAW\22_BackingVox06.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Unused: {}
+  Ambient_Microphone: {}

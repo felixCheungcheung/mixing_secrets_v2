@@ -1,0 +1,182 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer: {}
+  SFX: {}
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    Drums-Kick In-M82.wav:
+      Track_path: The Penniless Wild - Seat Back\The Penniless Wild - Seat Back_RAW\Drums-Kick
+        In-M82.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads'
+      Comment: ''
+    Drums-Kick Out-AK47.wav:
+      Track_path: The Penniless Wild - Seat Back\The Penniless Wild - Seat Back_RAW\Drums-Kick
+        Out-AK47.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Lead_Vocal, Backing_Vocal, Electric_Guitar, Drum_Overheads'
+      Comment: ''
+  Drum_Snare:
+    Drums-Snare Bottom-M81.wav:
+      Track_path: The Penniless Wild - Seat Back\The Penniless Wild - Seat Back_RAW\Drums-Snare
+        Bottom-M81.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads'
+      Comment: ''
+    Drums-Snare Top-M80.wav:
+      Track_path: The Penniless Wild - Seat Back\The Penniless Wild - Seat Back_RAW\Drums-Snare
+        Top-M80.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads'
+      Comment: ''
+  Drum_HiHat:
+    Drums-HAT-M60.wav:
+      Track_path: The Penniless Wild - Seat Back\The Penniless Wild - Seat Back_RAW\Drums-HAT-M60.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Lead_Vocal, Backing_Vocal, Electric_Guitar, Drum_Overheads'
+      Comment: ''
+  Drum_Cymbals:
+    Drums-Ride-M60.wav:
+      Track_path: The Penniless Wild - Seat Back\The Penniless Wild - Seat Back_RAW\Drums-Ride-M60.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Lead_Vocal, Backing_Vocal, Electric_Guitar, Drum_Overheads'
+      Comment: ''
+  Drum_Overheads:
+    Drums-Overheads-AR70.wav:
+      Track_path: The Penniless Wild - Seat Back\The Penniless Wild - Seat Back_RAW\Drums-Overheads-AR70.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Lead_Vocal, Backing_Vocal, Electric_Guitar'
+      Comment: ''
+  Drum_Tom:
+    Drums-Floor Tom-CU29.wav:
+      Track_path: The Penniless Wild - Seat Back\The Penniless Wild - Seat Back_RAW\Drums-Floor
+        Tom-CU29.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Lead_Vocal, Backing_Vocal, Electric_Guitar, Drum_Overheads'
+      Comment: ''
+    Drums-Rack-CU29.wav:
+      Track_path: The Penniless Wild - Seat Back\The Penniless Wild - Seat Back_RAW\Drums-Rack-CU29.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Lead_Vocal, Backing_Vocal, Electric_Guitar, Drum_Overheads'
+      Comment: ''
+  Drum_Room:
+    Drums-Room-M81.wav:
+      Track_path: The Penniless Wild - Seat Back\The Penniless Wild - Seat Back_RAW\Drums-Room-M81.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Electric_Guitar, Lead_Vocal, Backing_Vocal'
+      Comment: ''
+    Drums-Chamber-M60.wav:
+      Track_path: The Penniless Wild - Seat Back\The Penniless Wild - Seat Back_RAW\Drums-Chamber-M60.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Electric_Guitar, Lead_Vocal, Backing_Vocal'
+      Comment: ''
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop: {}
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass: {}
+  Electric_Bass:
+    Bass-Active DI.wav:
+      Track_path: The Penniless Wild - Seat Back\The Penniless Wild - Seat Back_RAW\Bass-Active
+        DI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Bass-Amp-AK47.wav:
+      Track_path: The Penniless Wild - Seat Back\The Penniless Wild - Seat Back_RAW\Bass-Amp-AK47.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Bass-Amp-M82.wav:
+      Track_path: The Penniless Wild - Seat Back\The Penniless Wild - Seat Back_RAW\Bass-Amp-M82.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Acoustic_Guitar: {}
+  Electric_Guitar:
+    ELE Guitar 1-M80.wav:
+      Track_path: The Penniless Wild - Seat Back\The Penniless Wild - Seat Back_RAW\ELE
+        Guitar 1-M80.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads'
+      Comment: ''
+    ELE Guitar 2-M80.wav:
+      Track_path: The Penniless Wild - Seat Back\The Penniless Wild - Seat Back_RAW\ELE
+        Guitar 2-M80.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads'
+      Comment: ''
+  Piano: {}
+  Electric_Piano:
+    Keys-Active DI.wav:
+      Track_path: The Penniless Wild - Seat Back\The Penniless Wild - Seat Back_RAW\Keys-Active
+        DI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    Vocals-Lead-M80.wav:
+      Track_path: The Penniless Wild - Seat Back\The Penniless Wild - Seat Back_RAW\Vocals-Lead-M80.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Choir: {}
+  Backing_Vocal:
+    Vocals-BGV1-M81.wav:
+      Track_path: The Penniless Wild - Seat Back\The Penniless Wild - Seat Back_RAW\Vocals-BGV1-M81.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Electric_Guitar, Drum_Overheads'
+      Comment: ''
+    Vocals-BGV2-M81.wav:
+      Track_path: The Penniless Wild - Seat Back\The Penniless Wild - Seat Back_RAW\Vocals-BGV2-M81.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Electric_Guitar, Drum_Overheads'
+      Comment: ''
+  Unused: {}
+  Ambient_Microphone: {}

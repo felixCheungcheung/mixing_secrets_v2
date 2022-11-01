@@ -1,0 +1,173 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer:
+    06_Synth1.wav:
+      Track_path: Carol Dant - I Am The Desert\Carol Dant - I Am The Desert_RAW\06_Synth1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    07_Synth2.wav:
+      Track_path: Carol Dant - I Am The Desert\Carol Dant - I Am The Desert_RAW\07_Synth2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    08_Synth3.wav:
+      Track_path: Carol Dant - I Am The Desert\Carol Dant - I Am The Desert_RAW\08_Synth3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    09_Synth4.wav:
+      Track_path: Carol Dant - I Am The Desert\Carol Dant - I Am The Desert_RAW\09_Synth4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    10_Synth5.wav:
+      Track_path: Carol Dant - I Am The Desert\Carol Dant - I Am The Desert_RAW\10_Synth5.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    11_Synth6.wav:
+      Track_path: Carol Dant - I Am The Desert\Carol Dant - I Am The Desert_RAW\11_Synth6.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    12_Synth7.wav:
+      Track_path: Carol Dant - I Am The Desert\Carol Dant - I Am The Desert_RAW\12_Synth7.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  SFX: {}
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick: {}
+  Drum_Snare: {}
+  Drum_HiHat: {}
+  Drum_Cymbals: {}
+  Drum_Overheads:
+    01_Drums1.wav:
+      Track_path: Carol Dant - I Am The Desert\Carol Dant - I Am The Desert_RAW\01_Drums1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    02_Drums2.wav:
+      Track_path: Carol Dant - I Am The Desert\Carol Dant - I Am The Desert_RAW\02_Drums2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Tom: {}
+  Drum_Room: {}
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop: {}
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass: {}
+  Electric_Bass:
+    03_Bass1.wav:
+      Track_path: Carol Dant - I Am The Desert\Carol Dant - I Am The Desert_RAW\03_Bass1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    04_Bass2.wav:
+      Track_path: Carol Dant - I Am The Desert\Carol Dant - I Am The Desert_RAW\04_Bass2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    05_Bass3.wav:
+      Track_path: Carol Dant - I Am The Desert\Carol Dant - I Am The Desert_RAW\05_Bass3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Acoustic_Guitar: {}
+  Electric_Guitar:
+    13_ElecGtr1.wav:
+      Track_path: Carol Dant - I Am The Desert\Carol Dant - I Am The Desert_RAW\13_ElecGtr1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    14_ElecGtr2.wav:
+      Track_path: Carol Dant - I Am The Desert\Carol Dant - I Am The Desert_RAW\14_ElecGtr2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Piano: {}
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    15_Vox1.wav:
+      Track_path: Carol Dant - I Am The Desert\Carol Dant - I Am The Desert_RAW\15_Vox1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    19_Vox4.wav:
+      Track_path: Carol Dant - I Am The Desert\Carol Dant - I Am The Desert_RAW\19_Vox4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    18_Vox3.wav:
+      Track_path: Carol Dant - I Am The Desert\Carol Dant - I Am The Desert_RAW\18_Vox3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Choir: {}
+  Backing_Vocal:
+    16_Vox2.wav:
+      Track_path: Carol Dant - I Am The Desert\Carol Dant - I Am The Desert_RAW\16_Vox2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    17_Vox2DT.wav:
+      Track_path: Carol Dant - I Am The Desert\Carol Dant - I Am The Desert_RAW\17_Vox2DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    20_Vox5.wav:
+      Track_path: Carol Dant - I Am The Desert\Carol Dant - I Am The Desert_RAW\20_Vox5.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Unused: {}
+  Ambient_Microphone: {}

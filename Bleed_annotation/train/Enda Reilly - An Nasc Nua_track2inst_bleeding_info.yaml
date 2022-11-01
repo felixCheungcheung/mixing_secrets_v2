@@ -1,0 +1,168 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer: {}
+  SFX: {}
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick: {}
+  Drum_Snare: {}
+  Drum_HiHat: {}
+  Drum_Cymbals: {}
+  Drum_Overheads: {}
+  Drum_Tom: {}
+  Drum_Room: {}
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop: {}
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass: {}
+  Electric_Bass: {}
+  Acoustic_Guitar:
+    02_AcousticGtrMic1.wav:
+      Track_path: Enda Reilly - An Nasc Nua\Enda Reilly - An Nasc Nua_RAW\02_AcousticGtrMic1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    03_AcousticGtrMic2.wav:
+      Track_path: Enda Reilly - An Nasc Nua\Enda Reilly - An Nasc Nua_RAW\03_AcousticGtrMic2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Electric_Guitar: {}
+  Piano: {}
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle:
+    04_Fiddles1Mic1.wav:
+      Track_path: Enda Reilly - An Nasc Nua\Enda Reilly - An Nasc Nua_RAW\04_Fiddles1Mic1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    05_Fiddles1Mic2.wav:
+      Track_path: Enda Reilly - An Nasc Nua\Enda Reilly - An Nasc Nua_RAW\05_Fiddles1Mic2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    06_Fiddles2Mic1.wav:
+      Track_path: Enda Reilly - An Nasc Nua\Enda Reilly - An Nasc Nua_RAW\06_Fiddles2Mic1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    07_Fiddles2Mic2.wav:
+      Track_path: Enda Reilly - An Nasc Nua\Enda Reilly - An Nasc Nua_RAW\07_Fiddles2Mic2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Double_Bass:
+    01_Bass.wav:
+      Track_path: Enda Reilly - An Nasc Nua\Enda Reilly - An Nasc Nua_RAW\01_Bass.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    08_LeadVox1Mic1.wav:
+      Track_path: Enda Reilly - An Nasc Nua\Enda Reilly - An Nasc Nua_RAW\08_LeadVox1Mic1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    09_LeadVox1Mic2.wav:
+      Track_path: Enda Reilly - An Nasc Nua\Enda Reilly - An Nasc Nua_RAW\09_LeadVox1Mic2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    10_LeadVox2Mic1.wav:
+      Track_path: Enda Reilly - An Nasc Nua\Enda Reilly - An Nasc Nua_RAW\10_LeadVox2Mic1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    11_LeadVox2Mic2.wav:
+      Track_path: Enda Reilly - An Nasc Nua\Enda Reilly - An Nasc Nua_RAW\11_LeadVox2Mic2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    12_LeadVox2DT.wav:
+      Track_path: Enda Reilly - An Nasc Nua\Enda Reilly - An Nasc Nua_RAW\12_LeadVox2DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    13_LeadVox3Mic1.wav:
+      Track_path: Enda Reilly - An Nasc Nua\Enda Reilly - An Nasc Nua_RAW\13_LeadVox3Mic1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    14_LeadVox3Mic2.wav:
+      Track_path: Enda Reilly - An Nasc Nua\Enda Reilly - An Nasc Nua_RAW\14_LeadVox3Mic2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Choir: {}
+  Backing_Vocal:
+    15_BackingVox1.wav:
+      Track_path: Enda Reilly - An Nasc Nua\Enda Reilly - An Nasc Nua_RAW\15_BackingVox1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    16_BackingVox2.wav:
+      Track_path: Enda Reilly - An Nasc Nua\Enda Reilly - An Nasc Nua_RAW\16_BackingVox2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    17_BackingVox3.wav:
+      Track_path: Enda Reilly - An Nasc Nua\Enda Reilly - An Nasc Nua_RAW\17_BackingVox3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    18_BackingVox4.wav:
+      Track_path: Enda Reilly - An Nasc Nua\Enda Reilly - An Nasc Nua_RAW\18_BackingVox4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    19_BackingVox5.wav:
+      Track_path: Enda Reilly - An Nasc Nua\Enda Reilly - An Nasc Nua_RAW\19_BackingVox5.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Unused: {}
+  Ambient_Microphone: {}

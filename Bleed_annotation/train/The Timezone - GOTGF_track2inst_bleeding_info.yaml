@@ -1,0 +1,343 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer:
+    13_Synth.wav:
+      Track_path: The Timezone - GOTGF\The Timezone - GOTGF_RAW\13_Synth.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    14_Synth.wav:
+      Track_path: The Timezone - GOTGF\The Timezone - GOTGF_RAW\14_Synth.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    15_Synth.wav:
+      Track_path: The Timezone - GOTGF\The Timezone - GOTGF_RAW\15_Synth.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    12_Clavinet.wav:
+      Track_path: The Timezone - GOTGF\The Timezone - GOTGF_RAW\12_Clavinet.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  SFX: {}
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    01_Kick.wav:
+      Track_path: The Timezone - GOTGF\The Timezone - GOTGF_RAW\01_Kick.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    04_Drumkit_KickIn.wav:
+      Track_path: The Timezone - GOTGF\The Timezone - GOTGF_RAW\04_Drumkit_KickIn.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_Snare:
+    02_Snare.wav:
+      Track_path: The Timezone - GOTGF\The Timezone - GOTGF_RAW\02_Snare.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    05_Drumkit_SnareUp.wav:
+      Track_path: The Timezone - GOTGF\The Timezone - GOTGF_RAW\05_Drumkit_SnareUp.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_HiHat:
+    03_HiHat.wav:
+      Track_path: The Timezone - GOTGF\The Timezone - GOTGF_RAW\03_HiHat.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Cymbals: {}
+  Drum_Overheads:
+    06_Drumkit_Overhead.wav:
+      Track_path: The Timezone - GOTGF\The Timezone - GOTGF_RAW\06_Drumkit_Overhead.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Tom: {}
+  Drum_Room: {}
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop: {}
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass: {}
+  Electric_Bass:
+    07_Bass.wav:
+      Track_path: The Timezone - GOTGF\The Timezone - GOTGF_RAW\07_Bass.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Acoustic_Guitar: {}
+  Electric_Guitar:
+    08_ElecGtrDI.wav:
+      Track_path: The Timezone - GOTGF\The Timezone - GOTGF_RAW\08_ElecGtrDI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    09_ElecGtrDI.wav:
+      Track_path: The Timezone - GOTGF\The Timezone - GOTGF_RAW\09_ElecGtrDI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    10_ElecGtrDI.wav:
+      Track_path: The Timezone - GOTGF\The Timezone - GOTGF_RAW\10_ElecGtrDI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    11_ElecGtrDI.wav:
+      Track_path: The Timezone - GOTGF\The Timezone - GOTGF_RAW\11_ElecGtrDI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    17_MIDIGuitar.wav:
+      Track_path: The Timezone - GOTGF\The Timezone - GOTGF_RAW\17_MIDIGuitar.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Piano: {}
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section:
+    16_MIDIStrings.wav:
+      Track_path: The Timezone - GOTGF\The Timezone - GOTGF_RAW\16_MIDIStrings.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    18_LeadVox.wav:
+      Track_path: The Timezone - GOTGF\The Timezone - GOTGF_RAW\18_LeadVox.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Choir: {}
+  Backing_Vocal:
+    19_BackingVox01.wav:
+      Track_path: The Timezone - GOTGF\The Timezone - GOTGF_RAW\19_BackingVox01.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    20_BackingVox02.wav:
+      Track_path: The Timezone - GOTGF\The Timezone - GOTGF_RAW\20_BackingVox02.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    21_BackingVox03.wav:
+      Track_path: The Timezone - GOTGF\The Timezone - GOTGF_RAW\21_BackingVox03.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    22_BackingVox03SFX.wav:
+      Track_path: The Timezone - GOTGF\The Timezone - GOTGF_RAW\22_BackingVox03SFX.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    23_BackingVox04a.wav:
+      Track_path: The Timezone - GOTGF\The Timezone - GOTGF_RAW\23_BackingVox04a.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    24_BackingVox04b.wav:
+      Track_path: The Timezone - GOTGF\The Timezone - GOTGF_RAW\24_BackingVox04b.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    25_BackingVox05.wav:
+      Track_path: The Timezone - GOTGF\The Timezone - GOTGF_RAW\25_BackingVox05.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    26_BackingVox06a.wav:
+      Track_path: The Timezone - GOTGF\The Timezone - GOTGF_RAW\26_BackingVox06a.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    27_BackingVox06b.wav:
+      Track_path: The Timezone - GOTGF\The Timezone - GOTGF_RAW\27_BackingVox06b.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    28_BackingVox07.wav:
+      Track_path: The Timezone - GOTGF\The Timezone - GOTGF_RAW\28_BackingVox07.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    29_BackingVox08.wav:
+      Track_path: The Timezone - GOTGF\The Timezone - GOTGF_RAW\29_BackingVox08.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    30_BackingVox09a.wav:
+      Track_path: The Timezone - GOTGF\The Timezone - GOTGF_RAW\30_BackingVox09a.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    31_BackingVox09b.wav:
+      Track_path: The Timezone - GOTGF\The Timezone - GOTGF_RAW\31_BackingVox09b.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    32_BackingVox10a.wav:
+      Track_path: The Timezone - GOTGF\The Timezone - GOTGF_RAW\32_BackingVox10a.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    33_BackingVox10b.wav:
+      Track_path: The Timezone - GOTGF\The Timezone - GOTGF_RAW\33_BackingVox10b.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    34_BackingVox11.wav:
+      Track_path: The Timezone - GOTGF\The Timezone - GOTGF_RAW\34_BackingVox11.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    35_BackingVox12.wav:
+      Track_path: The Timezone - GOTGF\The Timezone - GOTGF_RAW\35_BackingVox12.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    36_BackingVox13.wav:
+      Track_path: The Timezone - GOTGF\The Timezone - GOTGF_RAW\36_BackingVox13.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    37_BackingVox14.wav:
+      Track_path: The Timezone - GOTGF\The Timezone - GOTGF_RAW\37_BackingVox14.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    38_BackingVox15a.wav:
+      Track_path: The Timezone - GOTGF\The Timezone - GOTGF_RAW\38_BackingVox15a.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    39_BackingVox15b.wav:
+      Track_path: The Timezone - GOTGF\The Timezone - GOTGF_RAW\39_BackingVox15b.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    40_BackingVox15c.wav:
+      Track_path: The Timezone - GOTGF\The Timezone - GOTGF_RAW\40_BackingVox15c.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    41_BackingVox16a.wav:
+      Track_path: The Timezone - GOTGF\The Timezone - GOTGF_RAW\41_BackingVox16a.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    42_BackingVox16b.wav:
+      Track_path: The Timezone - GOTGF\The Timezone - GOTGF_RAW\42_BackingVox16b.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    43_BackingVox16c.wav:
+      Track_path: The Timezone - GOTGF\The Timezone - GOTGF_RAW\43_BackingVox16c.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    44_BackingVox17.wav:
+      Track_path: The Timezone - GOTGF\The Timezone - GOTGF_RAW\44_BackingVox17.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    45_BackingVox18.wav:
+      Track_path: The Timezone - GOTGF\The Timezone - GOTGF_RAW\45_BackingVox18.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    46_BackingVox19.wav:
+      Track_path: The Timezone - GOTGF\The Timezone - GOTGF_RAW\46_BackingVox19.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    47_BackingVox20.wav:
+      Track_path: The Timezone - GOTGF\The Timezone - GOTGF_RAW\47_BackingVox20.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    48_BackingVox21a.wav:
+      Track_path: The Timezone - GOTGF\The Timezone - GOTGF_RAW\48_BackingVox21a.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    49_BackingVox21b.wav:
+      Track_path: The Timezone - GOTGF\The Timezone - GOTGF_RAW\49_BackingVox21b.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    50_BackingVox22a.wav:
+      Track_path: The Timezone - GOTGF\The Timezone - GOTGF_RAW\50_BackingVox22a.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    51_BackingVox22b.wav:
+      Track_path: The Timezone - GOTGF\The Timezone - GOTGF_RAW\51_BackingVox22b.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    52_BackingVox23a.wav:
+      Track_path: The Timezone - GOTGF\The Timezone - GOTGF_RAW\52_BackingVox23a.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    53_BackingVox23b.wav:
+      Track_path: The Timezone - GOTGF\The Timezone - GOTGF_RAW\53_BackingVox23b.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    54_BackingVox23c.wav:
+      Track_path: The Timezone - GOTGF\The Timezone - GOTGF_RAW\54_BackingVox23c.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Unused: {}
+  Ambient_Microphone: {}

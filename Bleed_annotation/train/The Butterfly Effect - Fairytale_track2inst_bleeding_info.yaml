@@ -1,0 +1,178 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer: {}
+  SFX:
+    14_SFX1.wav:
+      Track_path: The Butterfly Effect - Fairytale\The Butterfly Effect - Fairytale_RAW\14_SFX1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    15_SFX2.wav:
+      Track_path: The Butterfly Effect - Fairytale\The Butterfly Effect - Fairytale_RAW\15_SFX2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    01_Kick.wav:
+      Track_path: The Butterfly Effect - Fairytale\The Butterfly Effect - Fairytale_RAW\01_Kick.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_Snare:
+    02_Snare.wav:
+      Track_path: The Butterfly Effect - Fairytale\The Butterfly Effect - Fairytale_RAW\02_Snare.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_HiHat: {}
+  Drum_Cymbals: {}
+  Drum_Overheads:
+    05_Overheads.wav:
+      Track_path: The Butterfly Effect - Fairytale\The Butterfly Effect - Fairytale_RAW\05_Overheads.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Lead_Vocal, Backing_Vocal'
+      Comment: ''
+  Drum_Tom:
+    03_Tom1.wav:
+      Track_path: The Butterfly Effect - Fairytale\The Butterfly Effect - Fairytale_RAW\03_Tom1.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    04_Tom2.wav:
+      Track_path: The Butterfly Effect - Fairytale\The Butterfly Effect - Fairytale_RAW\04_Tom2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Room: {}
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop: {}
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass: {}
+  Electric_Bass:
+    07_Bass.wav:
+      Track_path: The Butterfly Effect - Fairytale\The Butterfly Effect - Fairytale_RAW\07_Bass.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Acoustic_Guitar: {}
+  Electric_Guitar:
+    08_ElecGtr1.wav:
+      Track_path: The Butterfly Effect - Fairytale\The Butterfly Effect - Fairytale_RAW\08_ElecGtr1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    09_ElecGtr2.wav:
+      Track_path: The Butterfly Effect - Fairytale\The Butterfly Effect - Fairytale_RAW\09_ElecGtr2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    10_ElecGtr3.wav:
+      Track_path: The Butterfly Effect - Fairytale\The Butterfly Effect - Fairytale_RAW\10_ElecGtr3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    11_ElecGtr4.wav:
+      Track_path: The Butterfly Effect - Fairytale\The Butterfly Effect - Fairytale_RAW\11_ElecGtr4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    12_ElecGtr5.wav:
+      Track_path: The Butterfly Effect - Fairytale\The Butterfly Effect - Fairytale_RAW\12_ElecGtr5.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    13_ElecGtr6.wav:
+      Track_path: The Butterfly Effect - Fairytale\The Butterfly Effect - Fairytale_RAW\13_ElecGtr6.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Piano: {}
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    16_LeadVox.wav:
+      Track_path: The Butterfly Effect - Fairytale\The Butterfly Effect - Fairytale_RAW\16_LeadVox.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Choir: {}
+  Backing_Vocal:
+    17_BackingVox1Wet.wav:
+      Track_path: The Butterfly Effect - Fairytale\The Butterfly Effect - Fairytale_RAW\17_BackingVox1Wet.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    18_BackingVox2.wav:
+      Track_path: The Butterfly Effect - Fairytale\The Butterfly Effect - Fairytale_RAW\18_BackingVox2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    19_BackingVox3.wav:
+      Track_path: The Butterfly Effect - Fairytale\The Butterfly Effect - Fairytale_RAW\19_BackingVox3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    20_BackingVox4Dist.wav:
+      Track_path: The Butterfly Effect - Fairytale\The Butterfly Effect - Fairytale_RAW\20_BackingVox4Dist.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    21_BackingVox5Dist.wav:
+      Track_path: The Butterfly Effect - Fairytale\The Butterfly Effect - Fairytale_RAW\21_BackingVox5Dist.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Unused: {}
+  Ambient_Microphone:
+    06_DrumsRoom.wav:
+      Track_path: The Butterfly Effect - Fairytale\The Butterfly Effect - Fairytale_RAW\06_DrumsRoom.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Lead_Vocal, Backing_Vocal'
+      Comment: ''

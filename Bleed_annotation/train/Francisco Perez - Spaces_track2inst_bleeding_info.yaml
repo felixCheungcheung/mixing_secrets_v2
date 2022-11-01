@@ -1,0 +1,163 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer:
+    13_Synth1.wav:
+      Track_path: Francisco Perez - Spaces\Francisco Perez - Spaces_RAW\13_Synth1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    14_Synth2.wav:
+      Track_path: Francisco Perez - Spaces\Francisco Perez - Spaces_RAW\14_Synth2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  SFX:
+    09_SFX.wav:
+      Track_path: Francisco Perez - Spaces\Francisco Perez - Spaces_RAW\09_SFX.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Marimba: {}
+  Bell:
+    03_GlassBell.wav:
+      Track_path: Francisco Perez - Spaces\Francisco Perez - Spaces_RAW\03_GlassBell.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle:
+    05_Triangle.wav:
+      Track_path: Francisco Perez - Spaces\Francisco Perez - Spaces_RAW\05_Triangle.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick: {}
+  Drum_Snare: {}
+  Drum_HiHat: {}
+  Drum_Cymbals:
+    07_Cymbals.wav:
+      Track_path: Francisco Perez - Spaces\Francisco Perez - Spaces_RAW\07_Cymbals.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Overheads: {}
+  Drum_Tom: {}
+  Drum_Room: {}
+  Shaker:
+    06_Shaker.wav:
+      Track_path: Francisco Perez - Spaces\Francisco Perez - Spaces_RAW\06_Shaker.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine:
+    08_Tambourine.wav:
+      Track_path: Francisco Perez - Spaces\Francisco Perez - Spaces_RAW\08_Tambourine.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Loop:
+    01_Loop.wav:
+      Track_path: Francisco Perez - Spaces\Francisco Perez - Spaces_RAW\01_Loop.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Clicks: {}
+  Claps:
+    02_Claps.wav:
+      Track_path: Francisco Perez - Spaces\Francisco Perez - Spaces_RAW\02_Claps.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion:
+    04_MetalHit.wav:
+      Track_path: Francisco Perez - Spaces\Francisco Perez - Spaces_RAW\04_MetalHit.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Synth_Bass: {}
+  Electric_Bass:
+    10_Bass.wav:
+      Track_path: Francisco Perez - Spaces\Francisco Perez - Spaces_RAW\10_Bass.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Acoustic_Guitar:
+    15_AcousticGtr1a.wav:
+      Track_path: Francisco Perez - Spaces\Francisco Perez - Spaces_RAW\15_AcousticGtr1a.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    16_AcousticGtr1b.wav:
+      Track_path: Francisco Perez - Spaces\Francisco Perez - Spaces_RAW\16_AcousticGtr1b.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    17_AcousticGtr2.wav:
+      Track_path: Francisco Perez - Spaces\Francisco Perez - Spaces_RAW\17_AcousticGtr2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Electric_Guitar:
+    11_ElecGtr1.wav:
+      Track_path: Francisco Perez - Spaces\Francisco Perez - Spaces_RAW\11_ElecGtr1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    12_ElecGtr2.wav:
+      Track_path: Francisco Perez - Spaces\Francisco Perez - Spaces_RAW\12_ElecGtr2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    18_ElecGtr.wav:
+      Track_path: Francisco Perez - Spaces\Francisco Perez - Spaces_RAW\18_ElecGtr.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Piano: {}
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal: {}
+  Choir: {}
+  Backing_Vocal: {}
+  Unused: {}
+  Ambient_Microphone: {}

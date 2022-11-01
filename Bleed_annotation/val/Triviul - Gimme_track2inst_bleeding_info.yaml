@@ -1,0 +1,153 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer: {}
+  SFX: {}
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick: {}
+  Drum_Snare: {}
+  Drum_HiHat: {}
+  Drum_Cymbals: {}
+  Drum_Overheads:
+    01_Drums.wav:
+      Track_path: Triviul - Gimme\Triviul - Gimme_RAW\01_Drums.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Tom: {}
+  Drum_Room: {}
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop: {}
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass: {}
+  Electric_Bass:
+    02_Bass.wav:
+      Track_path: Triviul - Gimme\Triviul - Gimme_RAW\02_Bass.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Acoustic_Guitar:
+    04_AcGuitar.wav:
+      Track_path: Triviul - Gimme\Triviul - Gimme_RAW\04_AcGuitar.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Electric_Guitar: {}
+  Piano: {}
+  Electric_Piano:
+    03_ElecPiano.wav:
+      Track_path: Triviul - Gimme\Triviul - Gimme_RAW\03_ElecPiano.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    05_LeadVox1.wav:
+      Track_path: Triviul - Gimme\Triviul - Gimme_RAW\05_LeadVox1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    06_LeadVox2.wav:
+      Track_path: Triviul - Gimme\Triviul - Gimme_RAW\06_LeadVox2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Choir: {}
+  Backing_Vocal:
+    07_BackingVoxFemale1.wav:
+      Track_path: Triviul - Gimme\Triviul - Gimme_RAW\07_BackingVoxFemale1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    08_BackingVoxFemale1DT1.wav:
+      Track_path: Triviul - Gimme\Triviul - Gimme_RAW\08_BackingVoxFemale1DT1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    09_BackingVoxFemale1DT2.wav:
+      Track_path: Triviul - Gimme\Triviul - Gimme_RAW\09_BackingVoxFemale1DT2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    10_BackingVoxFemale2.wav:
+      Track_path: Triviul - Gimme\Triviul - Gimme_RAW\10_BackingVoxFemale2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    11_BackingVoxFemale2DT.wav:
+      Track_path: Triviul - Gimme\Triviul - Gimme_RAW\11_BackingVoxFemale2DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    12_BackingVoxFemale2DT2.wav:
+      Track_path: Triviul - Gimme\Triviul - Gimme_RAW\12_BackingVoxFemale2DT2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    13_BackingVoxFemale3.wav:
+      Track_path: Triviul - Gimme\Triviul - Gimme_RAW\13_BackingVoxFemale3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    14_BackingVoxFemale3DT1.wav:
+      Track_path: Triviul - Gimme\Triviul - Gimme_RAW\14_BackingVoxFemale3DT1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    15_BackingVoxFemale3DT2.wav:
+      Track_path: Triviul - Gimme\Triviul - Gimme_RAW\15_BackingVoxFemale3DT2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    16_BackingVoxMaleSubmix.wav:
+      Track_path: Triviul - Gimme\Triviul - Gimme_RAW\16_BackingVoxMaleSubmix.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Unused: {}
+  Ambient_Microphone: {}

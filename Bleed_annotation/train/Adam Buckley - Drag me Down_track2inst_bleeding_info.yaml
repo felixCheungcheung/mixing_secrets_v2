@@ -1,0 +1,323 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer:
+    36_Synth1.wav:
+      Track_path: Adam Buckley - Drag me Down\Adam Buckley - Drag me Down_RAW\36_Synth1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    37_Synth2.wav:
+      Track_path: Adam Buckley - Drag me Down\Adam Buckley - Drag me Down_RAW\37_Synth2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    38_Synth3.wav:
+      Track_path: Adam Buckley - Drag me Down\Adam Buckley - Drag me Down_RAW\38_Synth3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    39_Synth4.wav:
+      Track_path: Adam Buckley - Drag me Down\Adam Buckley - Drag me Down_RAW\39_Synth4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    21_BassSynth.wav:
+      Track_path: Adam Buckley - Drag me Down\Adam Buckley - Drag me Down_RAW\21_BassSynth.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  SFX:
+    41_SFX1.wav:
+      Track_path: Adam Buckley - Drag me Down\Adam Buckley - Drag me Down_RAW\41_SFX1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    42_SFX2.wav:
+      Track_path: Adam Buckley - Drag me Down\Adam Buckley - Drag me Down_RAW\42_SFX2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    01_Kick1.wav:
+      Track_path: Adam Buckley - Drag me Down\Adam Buckley - Drag me Down_RAW\01_Kick1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    02_Kick2.wav:
+      Track_path: Adam Buckley - Drag me Down\Adam Buckley - Drag me Down_RAW\02_Kick2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    03_KickSample.wav:
+      Track_path: Adam Buckley - Drag me Down\Adam Buckley - Drag me Down_RAW\03_KickSample.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Snare:
+    04_SnareUp.wav:
+      Track_path: Adam Buckley - Drag me Down\Adam Buckley - Drag me Down_RAW\04_SnareUp.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    05_SnareDown.wav:
+      Track_path: Adam Buckley - Drag me Down\Adam Buckley - Drag me Down_RAW\05_SnareDown.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    06_SnareSample1.wav:
+      Track_path: Adam Buckley - Drag me Down\Adam Buckley - Drag me Down_RAW\06_SnareSample1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    07_SnareSample2.wav:
+      Track_path: Adam Buckley - Drag me Down\Adam Buckley - Drag me Down_RAW\07_SnareSample2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_HiHat:
+    08_HiHat.wav:
+      Track_path: Adam Buckley - Drag me Down\Adam Buckley - Drag me Down_RAW\08_HiHat.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    09_HiHatSample.wav:
+      Track_path: Adam Buckley - Drag me Down\Adam Buckley - Drag me Down_RAW\09_HiHatSample.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Cymbals: {}
+  Drum_Overheads:
+    16_Overheads.wav:
+      Track_path: Adam Buckley - Drag me Down\Adam Buckley - Drag me Down_RAW\16_Overheads.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Tom:
+    10_Tom1.wav:
+      Track_path: Adam Buckley - Drag me Down\Adam Buckley - Drag me Down_RAW\10_Tom1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    11_Tom1Sample.wav:
+      Track_path: Adam Buckley - Drag me Down\Adam Buckley - Drag me Down_RAW\11_Tom1Sample.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    12_Tom2.wav:
+      Track_path: Adam Buckley - Drag me Down\Adam Buckley - Drag me Down_RAW\12_Tom2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    13_Tom2Sample.wav:
+      Track_path: Adam Buckley - Drag me Down\Adam Buckley - Drag me Down_RAW\13_Tom2Sample.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    14_Tom3.wav:
+      Track_path: Adam Buckley - Drag me Down\Adam Buckley - Drag me Down_RAW\14_Tom3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    15_Tom3Sample.wav:
+      Track_path: Adam Buckley - Drag me Down\Adam Buckley - Drag me Down_RAW\15_Tom3Sample.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Room:
+    17_DrumsRoom.wav:
+      Track_path: Adam Buckley - Drag me Down\Adam Buckley - Drag me Down_RAW\17_DrumsRoom.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop: {}
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass: {}
+  Electric_Bass:
+    18_BassDI.wav:
+      Track_path: Adam Buckley - Drag me Down\Adam Buckley - Drag me Down_RAW\18_BassDI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    19_BassOverdrive.wav:
+      Track_path: Adam Buckley - Drag me Down\Adam Buckley - Drag me Down_RAW\19_BassOverdrive.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    20_BassFuzz.wav:
+      Track_path: Adam Buckley - Drag me Down\Adam Buckley - Drag me Down_RAW\20_BassFuzz.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Acoustic_Guitar:
+    22_AcousticGtr1.wav:
+      Track_path: Adam Buckley - Drag me Down\Adam Buckley - Drag me Down_RAW\22_AcousticGtr1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    23_AcousticGtr2.wav:
+      Track_path: Adam Buckley - Drag me Down\Adam Buckley - Drag me Down_RAW\23_AcousticGtr2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    24_AcousticGtr3.wav:
+      Track_path: Adam Buckley - Drag me Down\Adam Buckley - Drag me Down_RAW\24_AcousticGtr3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Electric_Guitar:
+    25_ElecGtr1.wav:
+      Track_path: Adam Buckley - Drag me Down\Adam Buckley - Drag me Down_RAW\25_ElecGtr1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    26_ElecGtr2.wav:
+      Track_path: Adam Buckley - Drag me Down\Adam Buckley - Drag me Down_RAW\26_ElecGtr2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    27_ElecGtr2DI.wav:
+      Track_path: Adam Buckley - Drag me Down\Adam Buckley - Drag me Down_RAW\27_ElecGtr2DI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    28_ElecGtr2DT.wav:
+      Track_path: Adam Buckley - Drag me Down\Adam Buckley - Drag me Down_RAW\28_ElecGtr2DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    29_ElecGtr2DTDI.wav:
+      Track_path: Adam Buckley - Drag me Down\Adam Buckley - Drag me Down_RAW\29_ElecGtr2DTDI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    30_ElecGtr3.wav:
+      Track_path: Adam Buckley - Drag me Down\Adam Buckley - Drag me Down_RAW\30_ElecGtr3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    31_ElecGtr3DI.wav:
+      Track_path: Adam Buckley - Drag me Down\Adam Buckley - Drag me Down_RAW\31_ElecGtr3DI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    32_ElecGtr4.wav:
+      Track_path: Adam Buckley - Drag me Down\Adam Buckley - Drag me Down_RAW\32_ElecGtr4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    33_ElecGtr4DI.wav:
+      Track_path: Adam Buckley - Drag me Down\Adam Buckley - Drag me Down_RAW\33_ElecGtr4DI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    34_ElecGtr5.wav:
+      Track_path: Adam Buckley - Drag me Down\Adam Buckley - Drag me Down_RAW\34_ElecGtr5.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    35_ElecGtr5DI.wav:
+      Track_path: Adam Buckley - Drag me Down\Adam Buckley - Drag me Down_RAW\35_ElecGtr5DI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Piano:
+    40_Piano.wav:
+      Track_path: Adam Buckley - Drag me Down\Adam Buckley - Drag me Down_RAW\40_Piano.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    43_LeadVox1.wav:
+      Track_path: Adam Buckley - Drag me Down\Adam Buckley - Drag me Down_RAW\43_LeadVox1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    44_LeadVox1Harm.wav:
+      Track_path: Adam Buckley - Drag me Down\Adam Buckley - Drag me Down_RAW\44_LeadVox1Harm.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    45_LeadVox2.wav:
+      Track_path: Adam Buckley - Drag me Down\Adam Buckley - Drag me Down_RAW\45_LeadVox2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Choir: {}
+  Backing_Vocal:
+    46_BackingVox1.wav:
+      Track_path: Adam Buckley - Drag me Down\Adam Buckley - Drag me Down_RAW\46_BackingVox1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    47_BackingVox1DT.wav:
+      Track_path: Adam Buckley - Drag me Down\Adam Buckley - Drag me Down_RAW\47_BackingVox1DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    48_BackingVox2.wav:
+      Track_path: Adam Buckley - Drag me Down\Adam Buckley - Drag me Down_RAW\48_BackingVox2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    49_BackingVox2DT.wav:
+      Track_path: Adam Buckley - Drag me Down\Adam Buckley - Drag me Down_RAW\49_BackingVox2DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    50_BackingVox3.wav:
+      Track_path: Adam Buckley - Drag me Down\Adam Buckley - Drag me Down_RAW\50_BackingVox3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Unused: {}
+  Ambient_Microphone: {}

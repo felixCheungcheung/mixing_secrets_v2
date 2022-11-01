@@ -1,0 +1,229 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer: {}
+  SFX:
+    15_SFX1.wav:
+      Track_path: Rebuild The Evil - Burial Of Silence\Rebuild The Evil - Burial Of
+        Silence_RAW\15_SFX1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    16_SFX2.wav:
+      Track_path: Rebuild The Evil - Burial Of Silence\Rebuild The Evil - Burial Of
+        Silence_RAW\16_SFX2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    01_KickIn.wav:
+      Track_path: Rebuild The Evil - Burial Of Silence\Rebuild The Evil - Burial Of
+        Silence_RAW\01_KickIn.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    02_KickOut.wav:
+      Track_path: Rebuild The Evil - Burial Of Silence\Rebuild The Evil - Burial Of
+        Silence_RAW\02_KickOut.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    03_KickSample.wav:
+      Track_path: Rebuild The Evil - Burial Of Silence\Rebuild The Evil - Burial Of
+        Silence_RAW\03_KickSample.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    04_KickSub.wav:
+      Track_path: Rebuild The Evil - Burial Of Silence\Rebuild The Evil - Burial Of
+        Silence_RAW\04_KickSub.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_Snare:
+    06_SnareUp.wav:
+      Track_path: Rebuild The Evil - Burial Of Silence\Rebuild The Evil - Burial Of
+        Silence_RAW\06_SnareUp.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    07_SnareDown.wav:
+      Track_path: Rebuild The Evil - Burial Of Silence\Rebuild The Evil - Burial Of
+        Silence_RAW\07_SnareDown.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    08_SnareSample.wav:
+      Track_path: Rebuild The Evil - Burial Of Silence\Rebuild The Evil - Burial Of
+        Silence_RAW\08_SnareSample.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_HiHat:
+    09_HiHat.wav:
+      Track_path: Rebuild The Evil - Burial Of Silence\Rebuild The Evil - Burial Of
+        Silence_RAW\09_HiHat.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_Cymbals: {}
+  Drum_Overheads:
+    05_Overheads.wav:
+      Track_path: Rebuild The Evil - Burial Of Silence\Rebuild The Evil - Burial Of
+        Silence_RAW\05_Overheads.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Tom:
+    10_Tom1.wav:
+      Track_path: Rebuild The Evil - Burial Of Silence\Rebuild The Evil - Burial Of
+        Silence_RAW\10_Tom1.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    11_Tom2.wav:
+      Track_path: Rebuild The Evil - Burial Of Silence\Rebuild The Evil - Burial Of
+        Silence_RAW\11_Tom2.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    12_Tom3.wav:
+      Track_path: Rebuild The Evil - Burial Of Silence\Rebuild The Evil - Burial Of
+        Silence_RAW\12_Tom3.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    13_Tom4.wav:
+      Track_path: Rebuild The Evil - Burial Of Silence\Rebuild The Evil - Burial Of
+        Silence_RAW\13_Tom4.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    14_Tom5.wav:
+      Track_path: Rebuild The Evil - Burial Of Silence\Rebuild The Evil - Burial Of
+        Silence_RAW\14_Tom5.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_Room: {}
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop: {}
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass: {}
+  Electric_Bass:
+    17_Bass.wav:
+      Track_path: Rebuild The Evil - Burial Of Silence\Rebuild The Evil - Burial Of
+        Silence_RAW\17_Bass.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Acoustic_Guitar: {}
+  Electric_Guitar:
+    18_ElecGtr1.wav:
+      Track_path: Rebuild The Evil - Burial Of Silence\Rebuild The Evil - Burial Of
+        Silence_RAW\18_ElecGtr1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    19_ElecGtr2.wav:
+      Track_path: Rebuild The Evil - Burial Of Silence\Rebuild The Evil - Burial Of
+        Silence_RAW\19_ElecGtr2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    20_ElecGtr3.wav:
+      Track_path: Rebuild The Evil - Burial Of Silence\Rebuild The Evil - Burial Of
+        Silence_RAW\20_ElecGtr3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    21_ElecGtr3DI.wav:
+      Track_path: Rebuild The Evil - Burial Of Silence\Rebuild The Evil - Burial Of
+        Silence_RAW\21_ElecGtr3DI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    22_ElecGtr4.wav:
+      Track_path: Rebuild The Evil - Burial Of Silence\Rebuild The Evil - Burial Of
+        Silence_RAW\22_ElecGtr4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    23_ElecGtr4DI.wav:
+      Track_path: Rebuild The Evil - Burial Of Silence\Rebuild The Evil - Burial Of
+        Silence_RAW\23_ElecGtr4DI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Piano: {}
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    24_LeadVox.wav:
+      Track_path: Rebuild The Evil - Burial Of Silence\Rebuild The Evil - Burial Of
+        Silence_RAW\24_LeadVox.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Choir: {}
+  Backing_Vocal:
+    25_BackingVoxSFX.wav:
+      Track_path: Rebuild The Evil - Burial Of Silence\Rebuild The Evil - Burial Of
+        Silence_RAW\25_BackingVoxSFX.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    26_BackingVoxSFX.wav:
+      Track_path: Rebuild The Evil - Burial Of Silence\Rebuild The Evil - Burial Of
+        Silence_RAW\26_BackingVoxSFX.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Unused: {}
+  Ambient_Microphone: {}

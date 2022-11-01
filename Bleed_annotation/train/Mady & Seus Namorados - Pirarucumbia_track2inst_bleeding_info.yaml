@@ -1,0 +1,203 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer:
+    15_Synth1.wav:
+      Track_path: Mady & Seus Namorados - Pirarucumbia\Mady & Seus Namorados - Pirarucumbia_RAW\15_Synth1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    16_Synth2.wav:
+      Track_path: Mady & Seus Namorados - Pirarucumbia\Mady & Seus Namorados - Pirarucumbia_RAW\16_Synth2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    17_Synth3.wav:
+      Track_path: Mady & Seus Namorados - Pirarucumbia\Mady & Seus Namorados - Pirarucumbia_RAW\17_Synth3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    18_Synth4.wav:
+      Track_path: Mady & Seus Namorados - Pirarucumbia\Mady & Seus Namorados - Pirarucumbia_RAW\18_Synth4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  SFX: {}
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    01_Kick.wav:
+      Track_path: Mady & Seus Namorados - Pirarucumbia\Mady & Seus Namorados - Pirarucumbia_RAW\01_Kick.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Snare:
+    02_Snare.wav:
+      Track_path: Mady & Seus Namorados - Pirarucumbia\Mady & Seus Namorados - Pirarucumbia_RAW\02_Snare.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_HiHat:
+    03_HiHat.wav:
+      Track_path: Mady & Seus Namorados - Pirarucumbia\Mady & Seus Namorados - Pirarucumbia_RAW\03_HiHat.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Cymbals:
+    05_Cymbals.wav:
+      Track_path: Mady & Seus Namorados - Pirarucumbia\Mady & Seus Namorados - Pirarucumbia_RAW\05_Cymbals.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Overheads: {}
+  Drum_Tom: {}
+  Drum_Room: {}
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock:
+    04_Woodblock.wav:
+      Track_path: Mady & Seus Namorados - Pirarucumbia\Mady & Seus Namorados - Pirarucumbia_RAW\04_Woodblock.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Handdrum: {}
+  Tambourine: {}
+  Loop: {}
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale:
+    06_Timbales.wav:
+      Track_path: Mady & Seus Namorados - Pirarucumbia\Mady & Seus Namorados - Pirarucumbia_RAW\06_Timbales.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass:
+    09_Bass1.wav:
+      Track_path: Mady & Seus Namorados - Pirarucumbia\Mady & Seus Namorados - Pirarucumbia_RAW\09_Bass1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    10_Bass2.wav:
+      Track_path: Mady & Seus Namorados - Pirarucumbia\Mady & Seus Namorados - Pirarucumbia_RAW\10_Bass2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    11_BassSub.wav:
+      Track_path: Mady & Seus Namorados - Pirarucumbia\Mady & Seus Namorados - Pirarucumbia_RAW\11_BassSub.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Electric_Bass: {}
+  Acoustic_Guitar: {}
+  Electric_Guitar:
+    12_ElecGtr1.wav:
+      Track_path: Mady & Seus Namorados - Pirarucumbia\Mady & Seus Namorados - Pirarucumbia_RAW\12_ElecGtr1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    13_ElecGtr2.wav:
+      Track_path: Mady & Seus Namorados - Pirarucumbia\Mady & Seus Namorados - Pirarucumbia_RAW\13_ElecGtr2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    14_ElecGtr3.wav:
+      Track_path: Mady & Seus Namorados - Pirarucumbia\Mady & Seus Namorados - Pirarucumbia_RAW\14_ElecGtr3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Piano: {}
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    19_Vox1.wav:
+      Track_path: Mady & Seus Namorados - Pirarucumbia\Mady & Seus Namorados - Pirarucumbia_RAW\19_Vox1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    20_Vox2.wav:
+      Track_path: Mady & Seus Namorados - Pirarucumbia\Mady & Seus Namorados - Pirarucumbia_RAW\20_Vox2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    21_Vox3.wav:
+      Track_path: Mady & Seus Namorados - Pirarucumbia\Mady & Seus Namorados - Pirarucumbia_RAW\21_Vox3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    22_Vox4.wav:
+      Track_path: Mady & Seus Namorados - Pirarucumbia\Mady & Seus Namorados - Pirarucumbia_RAW\22_Vox4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    23_Vox5.wav:
+      Track_path: Mady & Seus Namorados - Pirarucumbia\Mady & Seus Namorados - Pirarucumbia_RAW\23_Vox5.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    24_Vox6.wav:
+      Track_path: Mady & Seus Namorados - Pirarucumbia\Mady & Seus Namorados - Pirarucumbia_RAW\24_Vox6.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    25_VoxWhisper1.wav:
+      Track_path: Mady & Seus Namorados - Pirarucumbia\Mady & Seus Namorados - Pirarucumbia_RAW\25_VoxWhisper1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    28_VoxAdLibs2.wav:
+      Track_path: Mady & Seus Namorados - Pirarucumbia\Mady & Seus Namorados - Pirarucumbia_RAW\28_VoxAdLibs2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Choir: {}
+  Backing_Vocal: {}
+  Unused:
+    26_VoxWhisper2.wav:
+      Track_path: Mady & Seus Namorados - Pirarucumbia\Mady & Seus Namorados - Pirarucumbia_RAW\26_VoxWhisper2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    27_VoxAdLibs1.wav:
+      Track_path: Mady & Seus Namorados - Pirarucumbia\Mady & Seus Namorados - Pirarucumbia_RAW\27_VoxAdLibs1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Ambient_Microphone: {}

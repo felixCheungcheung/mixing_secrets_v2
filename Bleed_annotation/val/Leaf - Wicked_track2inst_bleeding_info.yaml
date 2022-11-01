@@ -1,0 +1,203 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer:
+    18_Synth01.wav:
+      Track_path: Leaf - Wicked\Leaf - Wicked_RAW\18_Synth01.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    19_Synth02.wav:
+      Track_path: Leaf - Wicked\Leaf - Wicked_RAW\19_Synth02.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    20_Synth03.wav:
+      Track_path: Leaf - Wicked\Leaf - Wicked_RAW\20_Synth03.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    21_Synth04.wav:
+      Track_path: Leaf - Wicked\Leaf - Wicked_RAW\21_Synth04.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    22_Synth05.wav:
+      Track_path: Leaf - Wicked\Leaf - Wicked_RAW\22_Synth05.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  SFX: {}
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    01_Kick.wav:
+      Track_path: Leaf - Wicked\Leaf - Wicked_RAW\01_Kick.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Snare:
+    02_SnareUp.wav:
+      Track_path: Leaf - Wicked\Leaf - Wicked_RAW\02_SnareUp.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    03_SnareDown.wav:
+      Track_path: Leaf - Wicked\Leaf - Wicked_RAW\03_SnareDown.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_HiHat:
+    04_HiHat.wav:
+      Track_path: Leaf - Wicked\Leaf - Wicked_RAW\04_HiHat.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Cymbals: {}
+  Drum_Overheads:
+    06_Overheads.wav:
+      Track_path: Leaf - Wicked\Leaf - Wicked_RAW\06_Overheads.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Tom:
+    05_Toms.wav:
+      Track_path: Leaf - Wicked\Leaf - Wicked_RAW\05_Toms.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Room:
+    07_DrumsRoom.wav:
+      Track_path: Leaf - Wicked\Leaf - Wicked_RAW\07_DrumsRoom.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop: {}
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass: {}
+  Electric_Bass:
+    08_BassDI.wav:
+      Track_path: Leaf - Wicked\Leaf - Wicked_RAW\08_BassDI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    09_BassAmp.wav:
+      Track_path: Leaf - Wicked\Leaf - Wicked_RAW\09_BassAmp.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Acoustic_Guitar: {}
+  Electric_Guitar:
+    10_ElecGtr01.wav:
+      Track_path: Leaf - Wicked\Leaf - Wicked_RAW\10_ElecGtr01.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    11_ElecGtr02.wav:
+      Track_path: Leaf - Wicked\Leaf - Wicked_RAW\11_ElecGtr02.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    12_ElecGtr03.wav:
+      Track_path: Leaf - Wicked\Leaf - Wicked_RAW\12_ElecGtr03.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    13_ElecGtr04.wav:
+      Track_path: Leaf - Wicked\Leaf - Wicked_RAW\13_ElecGtr04.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    14_ElecGtr05.wav:
+      Track_path: Leaf - Wicked\Leaf - Wicked_RAW\14_ElecGtr05.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    15_ElecGtr06.wav:
+      Track_path: Leaf - Wicked\Leaf - Wicked_RAW\15_ElecGtr06.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    16_ElecGtr07.wav:
+      Track_path: Leaf - Wicked\Leaf - Wicked_RAW\16_ElecGtr07.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    17_ElecGtr08.wav:
+      Track_path: Leaf - Wicked\Leaf - Wicked_RAW\17_ElecGtr08.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Piano: {}
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    23_LeadVox1.wav:
+      Track_path: Leaf - Wicked\Leaf - Wicked_RAW\23_LeadVox1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Choir: {}
+  Backing_Vocal:
+    25_BackingVox1.wav:
+      Track_path: Leaf - Wicked\Leaf - Wicked_RAW\25_BackingVox1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    26_BackingVox2.wav:
+      Track_path: Leaf - Wicked\Leaf - Wicked_RAW\26_BackingVox2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Unused: {}
+  Ambient_Microphone:
+    24_LeadVox2.wav:
+      Track_path: Leaf - Wicked\Leaf - Wicked_RAW\24_LeadVox2.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Synthesizer'
+      Comment: 'huge'

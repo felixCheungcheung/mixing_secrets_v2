@@ -1,0 +1,241 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer: {}
+  SFX: {}
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    Kick.wav:
+      Track_path: Dry Clean Only - Iron Sheik\Dry Clean Only - Iron Sheik_RAW\Kick.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_Snare:
+    SnareBottom.wav:
+      Track_path: Dry Clean Only - Iron Sheik\Dry Clean Only - Iron Sheik_RAW\SnareBottom.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    SnareTop.wav:
+      Track_path: Dry Clean Only - Iron Sheik\Dry Clean Only - Iron Sheik_RAW\SnareTop.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_HiHat:
+    HiHat.wav:
+      Track_path: Dry Clean Only - Iron Sheik\Dry Clean Only - Iron Sheik_RAW\HiHat.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_Cymbals:
+    Fake Crash.L.wav:
+      Track_path: Dry Clean Only - Iron Sheik\Dry Clean Only - Iron Sheik_RAW\Fake
+        Crash.L.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Fake Crash.R.wav:
+      Track_path: Dry Clean Only - Iron Sheik\Dry Clean Only - Iron Sheik_RAW\Fake
+        Crash.R.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Ride.wav:
+      Track_path: Dry Clean Only - Iron Sheik\Dry Clean Only - Iron Sheik_RAW\Ride.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_Overheads:
+    OHL.wav:
+      Track_path: Dry Clean Only - Iron Sheik\Dry Clean Only - Iron Sheik_RAW\OHL.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    OHR.wav:
+      Track_path: Dry Clean Only - Iron Sheik\Dry Clean Only - Iron Sheik_RAW\OHR.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Tom:
+    Floor Tom 1.wav:
+      Track_path: Dry Clean Only - Iron Sheik\Dry Clean Only - Iron Sheik_RAW\Floor
+        Tom 1.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    Floor Tom 2.wav:
+      Track_path: Dry Clean Only - Iron Sheik\Dry Clean Only - Iron Sheik_RAW\Floor
+        Tom 2.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    Rack Tom 1.wav:
+      Track_path: Dry Clean Only - Iron Sheik\Dry Clean Only - Iron Sheik_RAW\Rack
+        Tom 1.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_Room:
+    Room.wav:
+      Track_path: Dry Clean Only - Iron Sheik\Dry Clean Only - Iron Sheik_RAW\Room.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    SideRoom.wav:
+      Track_path: Dry Clean Only - Iron Sheik\Dry Clean Only - Iron Sheik_RAW\SideRoom.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Shaker:
+    shaker.wav:
+      Track_path: Dry Clean Only - Iron Sheik\Dry Clean Only - Iron Sheik_RAW\shaker.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine:
+    tambo.wav:
+      Track_path: Dry Clean Only - Iron Sheik\Dry Clean Only - Iron Sheik_RAW\tambo.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Loop: {}
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass: {}
+  Electric_Bass:
+    bass.wav:
+      Track_path: Dry Clean Only - Iron Sheik\Dry Clean Only - Iron Sheik_RAW\bass.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Acoustic_Guitar: {}
+  Electric_Guitar:
+    Gtr 1.wav:
+      Track_path: Dry Clean Only - Iron Sheik\Dry Clean Only - Iron Sheik_RAW\Gtr
+        1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Gtr 2.wav:
+      Track_path: Dry Clean Only - Iron Sheik\Dry Clean Only - Iron Sheik_RAW\Gtr
+        2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Gtr Rm 1.wav:
+      Track_path: Dry Clean Only - Iron Sheik\Dry Clean Only - Iron Sheik_RAW\Gtr
+        Rm 1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Gtr Rm 2.wav:
+      Track_path: Dry Clean Only - Iron Sheik\Dry Clean Only - Iron Sheik_RAW\Gtr
+        Rm 2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Piano: {}
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    vocal double.wav:
+      Track_path: Dry Clean Only - Iron Sheik\Dry Clean Only - Iron Sheik_RAW\vocal
+        double.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    vocal lead.wav:
+      Track_path: Dry Clean Only - Iron Sheik\Dry Clean Only - Iron Sheik_RAW\vocal
+        lead.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Choir: {}
+  Backing_Vocal:
+    con harm.wav:
+      Track_path: Dry Clean Only - Iron Sheik\Dry Clean Only - Iron Sheik_RAW\con
+        harm.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    harm 2.wav:
+      Track_path: Dry Clean Only - Iron Sheik\Dry Clean Only - Iron Sheik_RAW\harm
+        2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    harm 3.wav:
+      Track_path: Dry Clean Only - Iron Sheik\Dry Clean Only - Iron Sheik_RAW\harm
+        3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    harm 4.wav:
+      Track_path: Dry Clean Only - Iron Sheik\Dry Clean Only - Iron Sheik_RAW\harm
+        4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    harm 5.wav:
+      Track_path: Dry Clean Only - Iron Sheik\Dry Clean Only - Iron Sheik_RAW\harm
+        5.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    harm 6.wav:
+      Track_path: Dry Clean Only - Iron Sheik\Dry Clean Only - Iron Sheik_RAW\harm
+        6.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    ron harm.wav:
+      Track_path: Dry Clean Only - Iron Sheik\Dry Clean Only - Iron Sheik_RAW\ron
+        harm.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Unused: {}
+  Ambient_Microphone: {}

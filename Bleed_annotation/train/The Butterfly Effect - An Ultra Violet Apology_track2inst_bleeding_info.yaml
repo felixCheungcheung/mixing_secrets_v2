@@ -1,0 +1,193 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer: {}
+  SFX: {}
+  Marimba: {}
+  Bell:
+    07_Bells.wav:
+      Track_path: The Butterfly Effect - An Ultra Violet Apology\The Butterfly Effect
+        - An Ultra Violet Apology_RAW\07_Bells.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    01_Kick.wav:
+      Track_path: The Butterfly Effect - An Ultra Violet Apology\The Butterfly Effect
+        - An Ultra Violet Apology_RAW\01_Kick.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_Snare:
+    02_Snare.wav:
+      Track_path: The Butterfly Effect - An Ultra Violet Apology\The Butterfly Effect
+        - An Ultra Violet Apology_RAW\02_Snare.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_HiHat: {}
+  Drum_Cymbals: {}
+  Drum_Overheads:
+    05_Overheads.wav:
+      Track_path: The Butterfly Effect - An Ultra Violet Apology\The Butterfly Effect
+        - An Ultra Violet Apology_RAW\05_Overheads.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Lead_Vocal, Electric_Bass'
+      Comment: ''
+  Drum_Tom:
+    03_Tom1.wav:
+      Track_path: The Butterfly Effect - An Ultra Violet Apology\The Butterfly Effect
+        - An Ultra Violet Apology_RAW\03_Tom1.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    04_Tom2.wav:
+      Track_path: The Butterfly Effect - An Ultra Violet Apology\The Butterfly Effect
+        - An Ultra Violet Apology_RAW\04_Tom2.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_Room:
+    06_DrumsRoom.wav:
+      Track_path: The Butterfly Effect - An Ultra Violet Apology\The Butterfly Effect
+        - An Ultra Violet Apology_RAW\06_DrumsRoom.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Lead_Vocal, Electric_Guitar'
+      Comment: ''
+  Shaker:
+    08_Shaker.wav:
+      Track_path: The Butterfly Effect - An Ultra Violet Apology\The Butterfly Effect
+        - An Ultra Violet Apology_RAW\08_Shaker.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Electric_Guitar'
+      Comment: ''
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop: {}
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass: {}
+  Electric_Bass:
+    09_BassDI1.wav:
+      Track_path: The Butterfly Effect - An Ultra Violet Apology\The Butterfly Effect
+        - An Ultra Violet Apology_RAW\09_BassDI1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    10_BassDI2.wav:
+      Track_path: The Butterfly Effect - An Ultra Violet Apology\The Butterfly Effect
+        - An Ultra Violet Apology_RAW\10_BassDI2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Acoustic_Guitar: {}
+  Electric_Guitar:
+    11_ElecGtr1a.wav:
+      Track_path: The Butterfly Effect - An Ultra Violet Apology\The Butterfly Effect
+        - An Ultra Violet Apology_RAW\11_ElecGtr1a.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    12_ElecGtr1b.wav:
+      Track_path: The Butterfly Effect - An Ultra Violet Apology\The Butterfly Effect
+        - An Ultra Violet Apology_RAW\12_ElecGtr1b.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    13_ElecGtr2.wav:
+      Track_path: The Butterfly Effect - An Ultra Violet Apology\The Butterfly Effect
+        - An Ultra Violet Apology_RAW\13_ElecGtr2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    14_ElecGtr3.wav:
+      Track_path: The Butterfly Effect - An Ultra Violet Apology\The Butterfly Effect
+        - An Ultra Violet Apology_RAW\14_ElecGtr3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    15_ElecGtr4.wav:
+      Track_path: The Butterfly Effect - An Ultra Violet Apology\The Butterfly Effect
+        - An Ultra Violet Apology_RAW\15_ElecGtr4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    16_ElecGtr5.wav:
+      Track_path: The Butterfly Effect - An Ultra Violet Apology\The Butterfly Effect
+        - An Ultra Violet Apology_RAW\16_ElecGtr5.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    17_ElecGtr6.wav:
+      Track_path: The Butterfly Effect - An Ultra Violet Apology\The Butterfly Effect
+        - An Ultra Violet Apology_RAW\17_ElecGtr6.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    18_ElecGtr7.wav:
+      Track_path: The Butterfly Effect - An Ultra Violet Apology\The Butterfly Effect
+        - An Ultra Violet Apology_RAW\18_ElecGtr7.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Piano: {}
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    19_LeadVox.wav:
+      Track_path: The Butterfly Effect - An Ultra Violet Apology\The Butterfly Effect
+        - An Ultra Violet Apology_RAW\19_LeadVox.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads'
+      Comment: 'LeadVox and LeadVox SFX contain noticeable Band Leakage in the second half.'
+    20_LeadVoxSFX.wav:
+      Track_path: The Butterfly Effect - An Ultra Violet Apology\The Butterfly Effect
+        - An Ultra Violet Apology_RAW\20_LeadVoxSFX.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads'
+      Comment: 'LeadVox and LeadVox SFX contain noticeable Band Leakage in the second half.'
+  Choir: {}
+  Backing_Vocal: {}
+  Unused: {}
+  Ambient_Microphone: {}

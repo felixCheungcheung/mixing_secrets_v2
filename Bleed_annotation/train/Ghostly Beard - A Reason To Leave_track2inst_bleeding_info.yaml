@@ -1,0 +1,263 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer: {}
+  SFX: {}
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic:
+    31_Vibrophone.wav:
+      Track_path: Ghostly Beard - A Reason To Leave\Ghostly Beard - A Reason To Leave_RAW\31_Vibrophone.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Kick:
+    01_KickIn.wav:
+      Track_path: Ghostly Beard - A Reason To Leave\Ghostly Beard - A Reason To Leave_RAW\01_KickIn.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    02_KickOut.wav:
+      Track_path: Ghostly Beard - A Reason To Leave\Ghostly Beard - A Reason To Leave_RAW\02_KickOut.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    03_KickSub.wav:
+      Track_path: Ghostly Beard - A Reason To Leave\Ghostly Beard - A Reason To Leave_RAW\03_KickSub.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Snare:
+    04_SnareUpMic1.wav:
+      Track_path: Ghostly Beard - A Reason To Leave\Ghostly Beard - A Reason To Leave_RAW\04_SnareUpMic1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    05_SnareUpMic2.wav:
+      Track_path: Ghostly Beard - A Reason To Leave\Ghostly Beard - A Reason To Leave_RAW\05_SnareUpMic2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    06_DnareDown.wav:
+      Track_path: Ghostly Beard - A Reason To Leave\Ghostly Beard - A Reason To Leave_RAW\06_DnareDown.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_HiHat:
+    10_HiHat.wav:
+      Track_path: Ghostly Beard - A Reason To Leave\Ghostly Beard - A Reason To Leave_RAW\10_HiHat.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Cymbals:
+    11_Cymbals.wav:
+      Track_path: Ghostly Beard - A Reason To Leave\Ghostly Beard - A Reason To Leave_RAW\11_Cymbals.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Overheads: {}
+  Drum_Tom:
+    07_Tom1.wav:
+      Track_path: Ghostly Beard - A Reason To Leave\Ghostly Beard - A Reason To Leave_RAW\07_Tom1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    08_Tom2.wav:
+      Track_path: Ghostly Beard - A Reason To Leave\Ghostly Beard - A Reason To Leave_RAW\08_Tom2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    09_Tom3.wav:
+      Track_path: Ghostly Beard - A Reason To Leave\Ghostly Beard - A Reason To Leave_RAW\09_Tom3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Room:
+    12_DrumsRoom1.wav:
+      Track_path: Ghostly Beard - A Reason To Leave\Ghostly Beard - A Reason To Leave_RAW\12_DrumsRoom1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    13_DrumsRoom2.wav:
+      Track_path: Ghostly Beard - A Reason To Leave\Ghostly Beard - A Reason To Leave_RAW\13_DrumsRoom2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    14_DrumsRoom3.wav:
+      Track_path: Ghostly Beard - A Reason To Leave\Ghostly Beard - A Reason To Leave_RAW\14_DrumsRoom3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    15_DrumsRoom4.wav:
+      Track_path: Ghostly Beard - A Reason To Leave\Ghostly Beard - A Reason To Leave_RAW\15_DrumsRoom4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    16_DrumsRoom5.wav:
+      Track_path: Ghostly Beard - A Reason To Leave\Ghostly Beard - A Reason To Leave_RAW\16_DrumsRoom5.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine:
+    17_Tambourine1.wav:
+      Track_path: Ghostly Beard - A Reason To Leave\Ghostly Beard - A Reason To Leave_RAW\17_Tambourine1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    18_Tambourine1Room.wav:
+      Track_path: Ghostly Beard - A Reason To Leave\Ghostly Beard - A Reason To Leave_RAW\18_Tambourine1Room.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    19_Tambourine2.wav:
+      Track_path: Ghostly Beard - A Reason To Leave\Ghostly Beard - A Reason To Leave_RAW\19_Tambourine2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Loop: {}
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass: {}
+  Electric_Bass:
+    20_BassDI.wav:
+      Track_path: Ghostly Beard - A Reason To Leave\Ghostly Beard - A Reason To Leave_RAW\20_BassDI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Acoustic_Guitar: {}
+  Electric_Guitar:
+    21_ElecGtr01.wav:
+      Track_path: Ghostly Beard - A Reason To Leave\Ghostly Beard - A Reason To Leave_RAW\21_ElecGtr01.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    22_ElecGtr02.wav:
+      Track_path: Ghostly Beard - A Reason To Leave\Ghostly Beard - A Reason To Leave_RAW\22_ElecGtr02.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    23_ElecGtr03.wav:
+      Track_path: Ghostly Beard - A Reason To Leave\Ghostly Beard - A Reason To Leave_RAW\23_ElecGtr03.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    24_ElecGtr04.wav:
+      Track_path: Ghostly Beard - A Reason To Leave\Ghostly Beard - A Reason To Leave_RAW\24_ElecGtr04.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    25_ElecGtr05.wav:
+      Track_path: Ghostly Beard - A Reason To Leave\Ghostly Beard - A Reason To Leave_RAW\25_ElecGtr05.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    26_ElecGtr06.wav:
+      Track_path: Ghostly Beard - A Reason To Leave\Ghostly Beard - A Reason To Leave_RAW\26_ElecGtr06.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    27_ElecGtr07.wav:
+      Track_path: Ghostly Beard - A Reason To Leave\Ghostly Beard - A Reason To Leave_RAW\27_ElecGtr07.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    28_ElecGtr08.wav:
+      Track_path: Ghostly Beard - A Reason To Leave\Ghostly Beard - A Reason To Leave_RAW\28_ElecGtr08.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Piano: {}
+  Electric_Piano:
+    29_Rhodes.wav:
+      Track_path: Ghostly Beard - A Reason To Leave\Ghostly Beard - A Reason To Leave_RAW\29_Rhodes.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    30_ElecPiano.wav:
+      Track_path: Ghostly Beard - A Reason To Leave\Ghostly Beard - A Reason To Leave_RAW\30_ElecPiano.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    32_LeadVox.wav:
+      Track_path: Ghostly Beard - A Reason To Leave\Ghostly Beard - A Reason To Leave_RAW\32_LeadVox.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    33_LeadVoxDT.wav:
+      Track_path: Ghostly Beard - A Reason To Leave\Ghostly Beard - A Reason To Leave_RAW\33_LeadVoxDT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Choir: {}
+  Backing_Vocal:
+    34_BackingVox01.wav:
+      Track_path: Ghostly Beard - A Reason To Leave\Ghostly Beard - A Reason To Leave_RAW\34_BackingVox01.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    35_BackingVox02.wav:
+      Track_path: Ghostly Beard - A Reason To Leave\Ghostly Beard - A Reason To Leave_RAW\35_BackingVox02.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    36_BackingVox03.wav:
+      Track_path: Ghostly Beard - A Reason To Leave\Ghostly Beard - A Reason To Leave_RAW\36_BackingVox03.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    37_BackingVox04.wav:
+      Track_path: Ghostly Beard - A Reason To Leave\Ghostly Beard - A Reason To Leave_RAW\37_BackingVox04.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    38_BackingVox05.wav:
+      Track_path: Ghostly Beard - A Reason To Leave\Ghostly Beard - A Reason To Leave_RAW\38_BackingVox05.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Unused: {}
+  Ambient_Microphone: {}

@@ -1,0 +1,208 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer:
+    14_Mellotron.wav:
+      Track_path: Ricardo Santiago - Dream No. 12\Ricardo Santiago - Dream No. 12_RAW\14_Mellotron.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    15_Synth1.wav:
+      Track_path: Ricardo Santiago - Dream No. 12\Ricardo Santiago - Dream No. 12_RAW\15_Synth1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    16_Synth2.wav:
+      Track_path: Ricardo Santiago - Dream No. 12\Ricardo Santiago - Dream No. 12_RAW\16_Synth2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  SFX:
+    17_Vocoder1.wav:
+      Track_path: Ricardo Santiago - Dream No. 12\Ricardo Santiago - Dream No. 12_RAW\17_Vocoder1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    18_Vocoder2.wav:
+      Track_path: Ricardo Santiago - Dream No. 12\Ricardo Santiago - Dream No. 12_RAW\18_Vocoder2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    23_SFX1.wav:
+      Track_path: Ricardo Santiago - Dream No. 12\Ricardo Santiago - Dream No. 12_RAW\23_SFX1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    24_SFX2.wav:
+      Track_path: Ricardo Santiago - Dream No. 12\Ricardo Santiago - Dream No. 12_RAW\24_SFX2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    25_SFX3.wav:
+      Track_path: Ricardo Santiago - Dream No. 12\Ricardo Santiago - Dream No. 12_RAW\25_SFX3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    26_SFX4.wav:
+      Track_path: Ricardo Santiago - Dream No. 12\Ricardo Santiago - Dream No. 12_RAW\26_SFX4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    27_SFX5.wav:
+      Track_path: Ricardo Santiago - Dream No. 12\Ricardo Santiago - Dream No. 12_RAW\27_SFX5.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic:
+    13_Vibes.wav:
+      Track_path: Ricardo Santiago - Dream No. 12\Ricardo Santiago - Dream No. 12_RAW\13_Vibes.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Kick:
+    01_Kick.wav:
+      Track_path: Ricardo Santiago - Dream No. 12\Ricardo Santiago - Dream No. 12_RAW\01_Kick.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Snare: {}
+  Drum_HiHat: {}
+  Drum_Cymbals: {}
+  Drum_Overheads: {}
+  Drum_Tom: {}
+  Drum_Room: {}
+  Shaker:
+    02_ShakerMono.wav:
+      Track_path: Ricardo Santiago - Dream No. 12\Ricardo Santiago - Dream No. 12_RAW\02_ShakerMono.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    03_ShakerStereo.wav:
+      Track_path: Ricardo Santiago - Dream No. 12\Ricardo Santiago - Dream No. 12_RAW\03_ShakerStereo.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop: {}
+  Clicks:
+    04_Clicks.wav:
+      Track_path: Ricardo Santiago - Dream No. 12\Ricardo Santiago - Dream No. 12_RAW\04_Clicks.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo:
+    05_Bongos.wav:
+      Track_path: Ricardo Santiago - Dream No. 12\Ricardo Santiago - Dream No. 12_RAW\05_Bongos.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass: {}
+  Electric_Bass: {}
+  Acoustic_Guitar:
+    07_Ukelele1.wav:
+      Track_path: Ricardo Santiago - Dream No. 12\Ricardo Santiago - Dream No. 12_RAW\07_Ukelele1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    08_Ukelele2.wav:
+      Track_path: Ricardo Santiago - Dream No. 12\Ricardo Santiago - Dream No. 12_RAW\08_Ukelele2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    09_Ukelele3.wav:
+      Track_path: Ricardo Santiago - Dream No. 12\Ricardo Santiago - Dream No. 12_RAW\09_Ukelele3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Electric_Guitar:
+    10_ElecGtr.wav:
+      Track_path: Ricardo Santiago - Dream No. 12\Ricardo Santiago - Dream No. 12_RAW\10_ElecGtr.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Piano: {}
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section:
+    12_Orchestra.wav:
+      Track_path: Ricardo Santiago - Dream No. 12\Ricardo Santiago - Dream No. 12_RAW\12_Orchestra.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    11_Strings.wav:
+      Track_path: Ricardo Santiago - Dream No. 12\Ricardo Santiago - Dream No. 12_RAW\11_Strings.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Fiddle: {}
+  Double_Bass:
+    06_Bass.wav:
+      Track_path: Ricardo Santiago - Dream No. 12\Ricardo Santiago - Dream No. 12_RAW\06_Bass.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    19_LeadVox.wav:
+      Track_path: Ricardo Santiago - Dream No. 12\Ricardo Santiago - Dream No. 12_RAW\19_LeadVox.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Choir: {}
+  Backing_Vocal:
+    20_BackingVox1.wav:
+      Track_path: Ricardo Santiago - Dream No. 12\Ricardo Santiago - Dream No. 12_RAW\20_BackingVox1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    21_BackingVox2.wav:
+      Track_path: Ricardo Santiago - Dream No. 12\Ricardo Santiago - Dream No. 12_RAW\21_BackingVox2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    22_BackingVox3.wav:
+      Track_path: Ricardo Santiago - Dream No. 12\Ricardo Santiago - Dream No. 12_RAW\22_BackingVox3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Unused: {}
+  Ambient_Microphone: {}

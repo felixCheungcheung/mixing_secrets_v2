@@ -1,0 +1,158 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer:
+    13_Synth1.wav:
+      Track_path: Speak Softly - Broken Man\Speak Softly - Broken Man_RAW\13_Synth1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    14_Synth2.wav:
+      Track_path: Speak Softly - Broken Man\Speak Softly - Broken Man_RAW\14_Synth2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  SFX: {}
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick: {}
+  Drum_Snare: {}
+  Drum_HiHat: {}
+  Drum_Cymbals: {}
+  Drum_Overheads: {}
+  Drum_Tom: {}
+  Drum_Room: {}
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop:
+    01_Drums1.wav:
+      Track_path: Speak Softly - Broken Man\Speak Softly - Broken Man_RAW\01_Drums1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    02_Drums2.wav:
+      Track_path: Speak Softly - Broken Man\Speak Softly - Broken Man_RAW\02_Drums2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion:
+    03_Percussion1.wav:
+      Track_path: Speak Softly - Broken Man\Speak Softly - Broken Man_RAW\03_Percussion1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    04_Percussion2.wav:
+      Track_path: Speak Softly - Broken Man\Speak Softly - Broken Man_RAW\04_Percussion2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Synth_Bass:
+    05_BassSynth.wav:
+      Track_path: Speak Softly - Broken Man\Speak Softly - Broken Man_RAW\05_BassSynth.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Electric_Bass: {}
+  Acoustic_Guitar: {}
+  Electric_Guitar: {}
+  Piano:
+    06_Piano1.wav:
+      Track_path: Speak Softly - Broken Man\Speak Softly - Broken Man_RAW\06_Piano1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    07_Piano2.wav:
+      Track_path: Speak Softly - Broken Man\Speak Softly - Broken Man_RAW\07_Piano2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    08_Piano3.wav:
+      Track_path: Speak Softly - Broken Man\Speak Softly - Broken Man_RAW\08_Piano3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    09_Piano4.wav:
+      Track_path: Speak Softly - Broken Man\Speak Softly - Broken Man_RAW\09_Piano4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Electric_Piano:
+    10_Rhodes1.wav:
+      Track_path: Speak Softly - Broken Man\Speak Softly - Broken Man_RAW\10_Rhodes1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    11_Rhodes2.wav:
+      Track_path: Speak Softly - Broken Man\Speak Softly - Broken Man_RAW\11_Rhodes2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    12_Rhodes3.wav:
+      Track_path: Speak Softly - Broken Man\Speak Softly - Broken Man_RAW\12_Rhodes3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    15_LeadVox.wav:
+      Track_path: Speak Softly - Broken Man\Speak Softly - Broken Man_RAW\15_LeadVox.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Choir: {}
+  Backing_Vocal:
+    16_BackingVox1.wav:
+      Track_path: Speak Softly - Broken Man\Speak Softly - Broken Man_RAW\16_BackingVox1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    17_BackingVox2.wav:
+      Track_path: Speak Softly - Broken Man\Speak Softly - Broken Man_RAW\17_BackingVox2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Unused: {}
+  Ambient_Microphone: {}

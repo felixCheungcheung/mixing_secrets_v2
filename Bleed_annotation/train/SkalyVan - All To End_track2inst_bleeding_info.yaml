@@ -1,0 +1,258 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer: {}
+  SFX: {}
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    01_Kick.wav:
+      Track_path: SkalyVan - All To End\SkalyVan - All To End_RAW\01_Kick.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Snare:
+    02_Snare.wav:
+      Track_path: SkalyVan - All To End\SkalyVan - All To End_RAW\02_Snare.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_HiHat:
+    03_HiHat.wav:
+      Track_path: SkalyVan - All To End\SkalyVan - All To End_RAW\03_HiHat.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Cymbals:
+    07_Ride.wav:
+      Track_path: SkalyVan - All To End\SkalyVan - All To End_RAW\07_Ride.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Overheads:
+    09_Overheads.wav:
+      Track_path: SkalyVan - All To End\SkalyVan - All To End_RAW\09_Overheads.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Tom:
+    04_Tom1.wav:
+      Track_path: SkalyVan - All To End\SkalyVan - All To End_RAW\04_Tom1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    05_Tom2.wav:
+      Track_path: SkalyVan - All To End\SkalyVan - All To End_RAW\05_Tom2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    06_Tom3.wav:
+      Track_path: SkalyVan - All To End\SkalyVan - All To End_RAW\06_Tom3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Room:
+    10_DrumsRoom.wav:
+      Track_path: SkalyVan - All To End\SkalyVan - All To End_RAW\10_DrumsRoom.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop: {}
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion:
+    08_China.wav:
+      Track_path: SkalyVan - All To End\SkalyVan - All To End_RAW\08_China.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Synth_Bass: {}
+  Electric_Bass:
+    11_Bass.wav:
+      Track_path: SkalyVan - All To End\SkalyVan - All To End_RAW\11_Bass.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Acoustic_Guitar: {}
+  Electric_Guitar:
+    12_ElecGtr1DI.wav:
+      Track_path: SkalyVan - All To End\SkalyVan - All To End_RAW\12_ElecGtr1DI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    13_ElecGtr2DI.wav:
+      Track_path: SkalyVan - All To End\SkalyVan - All To End_RAW\13_ElecGtr2DI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    14_ElecGtr3DI.wav:
+      Track_path: SkalyVan - All To End\SkalyVan - All To End_RAW\14_ElecGtr3DI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    15_ElecGtr4DI.wav:
+      Track_path: SkalyVan - All To End\SkalyVan - All To End_RAW\15_ElecGtr4DI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    16_ElecGtr5DI.wav:
+      Track_path: SkalyVan - All To End\SkalyVan - All To End_RAW\16_ElecGtr5DI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Piano: {}
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    17_Vox1.wav:
+      Track_path: SkalyVan - All To End\SkalyVan - All To End_RAW\17_Vox1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    18_Vox1DT.wav:
+      Track_path: SkalyVan - All To End\SkalyVan - All To End_RAW\18_Vox1DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    19_Vox2.wav:
+      Track_path: SkalyVan - All To End\SkalyVan - All To End_RAW\19_Vox2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    20_Vox2DT.wav:
+      Track_path: SkalyVan - All To End\SkalyVan - All To End_RAW\20_Vox2DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    21_Vox3.wav:
+      Track_path: SkalyVan - All To End\SkalyVan - All To End_RAW\21_Vox3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    22_Vox3DT1.wav:
+      Track_path: SkalyVan - All To End\SkalyVan - All To End_RAW\22_Vox3DT1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    23_Vox3DT2.wav:
+      Track_path: SkalyVan - All To End\SkalyVan - All To End_RAW\23_Vox3DT2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    24_Vox3DT3.wav:
+      Track_path: SkalyVan - All To End\SkalyVan - All To End_RAW\24_Vox3DT3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    25_Vox4.wav:
+      Track_path: SkalyVan - All To End\SkalyVan - All To End_RAW\25_Vox4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    26_Vox4DT1.wav:
+      Track_path: SkalyVan - All To End\SkalyVan - All To End_RAW\26_Vox4DT1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    27_Vox4DT2.wav:
+      Track_path: SkalyVan - All To End\SkalyVan - All To End_RAW\27_Vox4DT2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    28_Vox4DT3.wav:
+      Track_path: SkalyVan - All To End\SkalyVan - All To End_RAW\28_Vox4DT3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    29_Vox4DT4.wav:
+      Track_path: SkalyVan - All To End\SkalyVan - All To End_RAW\29_Vox4DT4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    30_Vox4DT5.wav:
+      Track_path: SkalyVan - All To End\SkalyVan - All To End_RAW\30_Vox4DT5.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    31_Vox5.wav:
+      Track_path: SkalyVan - All To End\SkalyVan - All To End_RAW\31_Vox5.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    32_Vox6.wav:
+      Track_path: SkalyVan - All To End\SkalyVan - All To End_RAW\32_Vox6.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    33_Vox6DT.wav:
+      Track_path: SkalyVan - All To End\SkalyVan - All To End_RAW\33_Vox6DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    34_Vox7.wav:
+      Track_path: SkalyVan - All To End\SkalyVan - All To End_RAW\34_Vox7.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    35_Vox7DT1.wav:
+      Track_path: SkalyVan - All To End\SkalyVan - All To End_RAW\35_Vox7DT1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    36_Vox7DT2.wav:
+      Track_path: SkalyVan - All To End\SkalyVan - All To End_RAW\36_Vox7DT2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    37_Vox8.wav:
+      Track_path: SkalyVan - All To End\SkalyVan - All To End_RAW\37_Vox8.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Choir: {}
+  Backing_Vocal: {}
+  Unused: {}
+  Ambient_Microphone: {}

@@ -1,0 +1,198 @@
+Track2inst:
+  Electric_Organ:
+    Keys-B3 Low-M82.wav:
+      Track_path: Kat Wright - By My Side\Kat Wright - By My Side_RAW\Keys-B3 Low-M82.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Keys-B3-M81.wav:
+      Track_path: Kat Wright - By My Side\Kat Wright - By My Side_RAW\Keys-B3-M81.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Synthesizer: {}
+  SFX: {}
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    Drums-Kick In-M82.wav:
+      Track_path: Kat Wright - By My Side\Kat Wright - By My Side_RAW\Drums-Kick In-M82.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Electric_Piano, Drum_Overheads, Saxophone, Trumpet, Electric_Guitar'
+      Comment: ''
+    Drums-Kick Out-647 Proto.wav:
+      Track_path: Kat Wright - By My Side\Kat Wright - By My Side_RAW\Drums-Kick Out-647
+        Proto.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Electric_Piano, Drum_Overheads, Saxophone, Trumpet, Electric_Guitar'
+      Comment: ''
+  Drum_Snare:
+    Drums-Snare Bottom-M80.wav:
+      Track_path: Kat Wright - By My Side\Kat Wright - By My Side_RAW\Drums-Snare
+        Bottom-M80.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Electric_Piano, Drum_Overheads, Saxophone, Trumpet, Electric_Guitar'
+      Comment: ''
+    Drums-Snare Top-M81.wav:
+      Track_path: Kat Wright - By My Side\Kat Wright - By My Side_RAW\Drums-Snare
+        Top-M81.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Electric_Piano, Drum_Overheads, Saxophone, Trumpet, Electric_Guitar'
+      Comment: ''
+  Drum_HiHat:
+    Drums-HAT-M60.wav:
+      Track_path: Kat Wright - By My Side\Kat Wright - By My Side_RAW\Drums-HAT-M60.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Electric_Piano, Drum_Overheads, Saxophone, Trumpet, Electric_Guitar'
+      Comment: ''
+  Drum_Cymbals: {}
+  Drum_Overheads:
+    Drums-Mono-CU29.wav:
+      Track_path: Kat Wright - By My Side\Kat Wright - By My Side_RAW\Drums-Mono-CU29.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Electric_Piano, Saxophone, Trumpet, Electric_Guitar'
+      Comment: ''
+    Drums-Overheads-Ela M 260.wav:
+      Track_path: Kat Wright - By My Side\Kat Wright - By My Side_RAW\Drums-Overheads-Ela
+        M 260.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Electric_Piano, Saxophone, Trumpet, Electric_Guitar'
+      Comment: ''
+  Drum_Tom:
+    Drums-Floor Tom-Proto.wav:
+      Track_path: Kat Wright - By My Side\Kat Wright - By My Side_RAW\Drums-Floor
+        Tom-Proto.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Electric_Piano, Drum_Overheads, Saxophone, Trumpet, Electric_Guitar'
+      Comment: ''
+    Drums-Rack Tom-Proto.wav:
+      Track_path: Kat Wright - By My Side\Kat Wright - By My Side_RAW\Drums-Rack Tom-Proto.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Electric_Piano, Drum_Overheads, Saxophone, Trumpet, Electric_Guitar'
+      Comment: ''
+  Drum_Room: {}
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop: {}
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass: {}
+  Electric_Bass:
+    Bass-Active DI.wav:
+      Track_path: Kat Wright - By My Side\Kat Wright - By My Side_RAW\Bass-Active
+        DI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Bass-Amp-CU29.wav:
+      Track_path: Kat Wright - By My Side\Kat Wright - By My Side_RAW\Bass-Amp-CU29.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Acoustic_Guitar: {}
+  Electric_Guitar:
+    ELE Guitar- M80.wav:
+      Track_path: Kat Wright - By My Side\Kat Wright - By My Side_RAW\ELE Guitar-
+        M80.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Electric_Piano, Drum_Overheads, Saxophone, Trumpet'
+      Comment: 'slight but noticeable'
+    ELE Guitar-Proto 647.wav:
+      Track_path: Kat Wright - By My Side\Kat Wright - By My Side_RAW\ELE Guitar-Proto
+        647.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Electric_Piano, Drum_Overheads, Saxophone, Trumpet'
+      Comment: 'slight but noticeable'
+  Piano: {}
+  Electric_Piano:
+    Keys-Whirly Amp-M80.wav:
+      Track_path: Kat Wright - By My Side\Kat Wright - By My Side_RAW\Keys-Whirly
+        Amp-M80.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads, Saxophone, Trumpet'
+      Comment: ''
+  Brass_Section: {}
+  Saxophone:
+    Horns-Bari AR51.wav:
+      Track_path: Kat Wright - By My Side\Kat Wright - By My Side_RAW\Horns-Bari AR51.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Electric_Piano, Drum_Overheads, Trumpet, Electric_Guitar'
+      Comment: ''
+    Horns-Tenor-AR51.wav:
+      Track_path: Kat Wright - By My Side\Kat Wright - By My Side_RAW\Horns-Tenor-AR51.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Electric_Piano, Drum_Overheads, Trumpet, Electric_Guitar'
+      Comment: ''
+  Trumpet:
+    Horns-Trumpet-Ela M 260.wav:
+      Track_path: Kat Wright - By My Side\Kat Wright - By My Side_RAW\Horns-Trumpet-Ela
+        M 260.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Electric_Piano, Drum_Overheads, Saxophone, Electric_Guitar'
+      Comment: ''
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    Vocals-Lead-Proto.wav:
+      Track_path: Kat Wright - By My Side\Kat Wright - By My Side_RAW\Vocals-Lead-Proto.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Electric_Piano, Drum_Overheads, Saxophone, Trumpet, Electric_Guitar'
+      Comment: ''
+  Choir: {}
+  Backing_Vocal:
+    Vocals-BG Bass-Proto.wav:
+      Track_path: Kat Wright - By My Side\Kat Wright - By My Side_RAW\Vocals-BG Bass-Proto.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Electric_Piano, Drum_Overheads, Saxophone, Trumpet, Electric_Guitar'
+      Comment: ''
+    Vocals-BG GTR-Proto.wav:
+      Track_path: Kat Wright - By My Side\Kat Wright - By My Side_RAW\Vocals-BG GTR-Proto.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Electric_Piano, Drum_Overheads, Saxophone, Trumpet, Electric_Guitar'
+      Comment: ''
+  Unused: {}
+  Ambient_Microphone:
+    Drums-Room-M60.wav:
+      Track_path: Kat Wright - By My Side\Kat Wright - By My Side_RAW\Drums-Room-M60.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Electric_Piano, Saxophone, Trumpet, Electric_Guitar'
+      Comment: ''

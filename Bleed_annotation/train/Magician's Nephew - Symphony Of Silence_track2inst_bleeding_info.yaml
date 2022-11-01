@@ -1,0 +1,325 @@
+Track2inst:
+  Electric_Organ:
+    38_Hammond.wav:
+      Track_path: Magician's Nephew - Symphony Of Silence\Magician's Nephew - Symphony
+        Of Silence_RAW\38_Hammond.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Synthesizer: {}
+  SFX: {}
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    01_Kick.wav:
+      Track_path: Magician's Nephew - Symphony Of Silence\Magician's Nephew - Symphony
+        Of Silence_RAW\01_Kick.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_Snare:
+    02_SnareUp.wav:
+      Track_path: Magician's Nephew - Symphony Of Silence\Magician's Nephew - Symphony
+        Of Silence_RAW\02_SnareUp.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    03_SnareDown.wav:
+      Track_path: Magician's Nephew - Symphony Of Silence\Magician's Nephew - Symphony
+        Of Silence_RAW\03_SnareDown.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_HiHat:
+    04_HiHat.wav:
+      Track_path: Magician's Nephew - Symphony Of Silence\Magician's Nephew - Symphony
+        Of Silence_RAW\04_HiHat.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_Cymbals: {}
+  Drum_Overheads:
+    06_Overheads.wav:
+      Track_path: Magician's Nephew - Symphony Of Silence\Magician's Nephew - Symphony
+        Of Silence_RAW\06_Overheads.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Tom:
+    05_Toms.wav:
+      Track_path: Magician's Nephew - Symphony Of Silence\Magician's Nephew - Symphony
+        Of Silence_RAW\05_Toms.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_Room:
+    07_DrumsRoom.wav:
+      Track_path: Magician's Nephew - Symphony Of Silence\Magician's Nephew - Symphony
+        Of Silence_RAW\07_DrumsRoom.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop: {}
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass: {}
+  Electric_Bass:
+    08_BassDI.wav:
+      Track_path: Magician's Nephew - Symphony Of Silence\Magician's Nephew - Symphony
+        Of Silence_RAW\08_BassDI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    09_BassAmp.wav:
+      Track_path: Magician's Nephew - Symphony Of Silence\Magician's Nephew - Symphony
+        Of Silence_RAW\09_BassAmp.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Acoustic_Guitar: {}
+  Electric_Guitar:
+    10_ElecGtr01.wav:
+      Track_path: Magician's Nephew - Symphony Of Silence\Magician's Nephew - Symphony
+        Of Silence_RAW\10_ElecGtr01.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    11_ElecGtr01DT.wav:
+      Track_path: Magician's Nephew - Symphony Of Silence\Magician's Nephew - Symphony
+        Of Silence_RAW\11_ElecGtr01DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    12_ElecGtr02.wav:
+      Track_path: Magician's Nephew - Symphony Of Silence\Magician's Nephew - Symphony
+        Of Silence_RAW\12_ElecGtr02.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    13_ElecGtr02DT.wav:
+      Track_path: Magician's Nephew - Symphony Of Silence\Magician's Nephew - Symphony
+        Of Silence_RAW\13_ElecGtr02DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    14_ElecGtr03.wav:
+      Track_path: Magician's Nephew - Symphony Of Silence\Magician's Nephew - Symphony
+        Of Silence_RAW\14_ElecGtr03.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    15_ElecGtr03DT.wav:
+      Track_path: Magician's Nephew - Symphony Of Silence\Magician's Nephew - Symphony
+        Of Silence_RAW\15_ElecGtr03DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    16_ElecGtr04.wav:
+      Track_path: Magician's Nephew - Symphony Of Silence\Magician's Nephew - Symphony
+        Of Silence_RAW\16_ElecGtr04.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    17_ElecGtr04DT.wav:
+      Track_path: Magician's Nephew - Symphony Of Silence\Magician's Nephew - Symphony
+        Of Silence_RAW\17_ElecGtr04DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    18_ElecGtr05.wav:
+      Track_path: Magician's Nephew - Symphony Of Silence\Magician's Nephew - Symphony
+        Of Silence_RAW\18_ElecGtr05.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    19_ElecGtr05DT.wav:
+      Track_path: Magician's Nephew - Symphony Of Silence\Magician's Nephew - Symphony
+        Of Silence_RAW\19_ElecGtr05DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    20_ElecGtr06.wav:
+      Track_path: Magician's Nephew - Symphony Of Silence\Magician's Nephew - Symphony
+        Of Silence_RAW\20_ElecGtr06.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    21_ElecGtr06DT.wav:
+      Track_path: Magician's Nephew - Symphony Of Silence\Magician's Nephew - Symphony
+        Of Silence_RAW\21_ElecGtr06DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    22_ElecGtt07.wav:
+      Track_path: Magician's Nephew - Symphony Of Silence\Magician's Nephew - Symphony
+        Of Silence_RAW\22_ElecGtt07.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    23_ElecGtt07DT.wav:
+      Track_path: Magician's Nephew - Symphony Of Silence\Magician's Nephew - Symphony
+        Of Silence_RAW\23_ElecGtt07DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    24_ElecGtt08.wav:
+      Track_path: Magician's Nephew - Symphony Of Silence\Magician's Nephew - Symphony
+        Of Silence_RAW\24_ElecGtt08.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    25_ElecGtt08DT.wav:
+      Track_path: Magician's Nephew - Symphony Of Silence\Magician's Nephew - Symphony
+        Of Silence_RAW\25_ElecGtt08DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    26_ElecGtt09.wav:
+      Track_path: Magician's Nephew - Symphony Of Silence\Magician's Nephew - Symphony
+        Of Silence_RAW\26_ElecGtt09.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    27_ElecGtt09DT.wav:
+      Track_path: Magician's Nephew - Symphony Of Silence\Magician's Nephew - Symphony
+        Of Silence_RAW\27_ElecGtt09DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    28_ElecGtt10.wav:
+      Track_path: Magician's Nephew - Symphony Of Silence\Magician's Nephew - Symphony
+        Of Silence_RAW\28_ElecGtt10.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    29_ElecGtt10DT.wav:
+      Track_path: Magician's Nephew - Symphony Of Silence\Magician's Nephew - Symphony
+        Of Silence_RAW\29_ElecGtt10DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    30_ElecGtt11.wav:
+      Track_path: Magician's Nephew - Symphony Of Silence\Magician's Nephew - Symphony
+        Of Silence_RAW\30_ElecGtt11.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    31_ElecGtt11DT.wav:
+      Track_path: Magician's Nephew - Symphony Of Silence\Magician's Nephew - Symphony
+        Of Silence_RAW\31_ElecGtt11DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    32_ElecGtt12.wav:
+      Track_path: Magician's Nephew - Symphony Of Silence\Magician's Nephew - Symphony
+        Of Silence_RAW\32_ElecGtt12.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    33_ElecGtt12DT.wav:
+      Track_path: Magician's Nephew - Symphony Of Silence\Magician's Nephew - Symphony
+        Of Silence_RAW\33_ElecGtt12DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    34_ElecGtt13.wav:
+      Track_path: Magician's Nephew - Symphony Of Silence\Magician's Nephew - Symphony
+        Of Silence_RAW\34_ElecGtt13.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    35_ElecGtt13DT.wav:
+      Track_path: Magician's Nephew - Symphony Of Silence\Magician's Nephew - Symphony
+        Of Silence_RAW\35_ElecGtt13DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    36_ElecGtt14.wav:
+      Track_path: Magician's Nephew - Symphony Of Silence\Magician's Nephew - Symphony
+        Of Silence_RAW\36_ElecGtt14.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    37_ElecGtt14DT.wav:
+      Track_path: Magician's Nephew - Symphony Of Silence\Magician's Nephew - Symphony
+        Of Silence_RAW\37_ElecGtt14DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Piano: {}
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone:
+    39_Sax1.wav:
+      Track_path: Magician's Nephew - Symphony Of Silence\Magician's Nephew - Symphony
+        Of Silence_RAW\39_Sax1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    40_Sax2.wav:
+      Track_path: Magician's Nephew - Symphony Of Silence\Magician's Nephew - Symphony
+        Of Silence_RAW\40_Sax2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    41_LeadVox.wav:
+      Track_path: Magician's Nephew - Symphony Of Silence\Magician's Nephew - Symphony
+        Of Silence_RAW\41_LeadVox.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Choir: {}
+  Backing_Vocal:
+    42_BackingVox.wav:
+      Track_path: Magician's Nephew - Symphony Of Silence\Magician's Nephew - Symphony
+        Of Silence_RAW\42_BackingVox.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Unused: {}
+  Ambient_Microphone: {}

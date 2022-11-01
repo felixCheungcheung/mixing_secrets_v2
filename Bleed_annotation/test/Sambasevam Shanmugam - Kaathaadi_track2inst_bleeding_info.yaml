@@ -1,0 +1,268 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer:
+    15_Synth1.wav:
+      Track_path: Sambasevam Shanmugam - Kaathaadi\Sambasevam Shanmugam - Kaathaadi_RAW\15_Synth1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    16_Synth2.wav:
+      Track_path: Sambasevam Shanmugam - Kaathaadi\Sambasevam Shanmugam - Kaathaadi_RAW\16_Synth2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    17_Synth3.wav:
+      Track_path: Sambasevam Shanmugam - Kaathaadi\Sambasevam Shanmugam - Kaathaadi_RAW\17_Synth3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    18_Synth4.wav:
+      Track_path: Sambasevam Shanmugam - Kaathaadi\Sambasevam Shanmugam - Kaathaadi_RAW\18_Synth4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    19_Synth5.wav:
+      Track_path: Sambasevam Shanmugam - Kaathaadi\Sambasevam Shanmugam - Kaathaadi_RAW\19_Synth5.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  SFX: {}
+  Marimba: {}
+  Bell:
+    13_Bells.wav:
+      Track_path: Sambasevam Shanmugam - Kaathaadi\Sambasevam Shanmugam - Kaathaadi_RAW\13_Bells.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    01_Kick.wav:
+      Track_path: Sambasevam Shanmugam - Kaathaadi\Sambasevam Shanmugam - Kaathaadi_RAW\01_Kick.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Snare: {}
+  Drum_HiHat: {}
+  Drum_Cymbals:
+    07_Ride.wav:
+      Track_path: Sambasevam Shanmugam - Kaathaadi\Sambasevam Shanmugam - Kaathaadi_RAW\07_Ride.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Overheads: {}
+  Drum_Tom: {}
+  Drum_Room: {}
+  Shaker:
+    08_Shaker.wav:
+      Track_path: Sambasevam Shanmugam - Kaathaadi\Sambasevam Shanmugam - Kaathaadi_RAW\08_Shaker.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop:
+    02_Loop1.wav:
+      Track_path: Sambasevam Shanmugam - Kaathaadi\Sambasevam Shanmugam - Kaathaadi_RAW\02_Loop1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    03_Loop2.wav:
+      Track_path: Sambasevam Shanmugam - Kaathaadi\Sambasevam Shanmugam - Kaathaadi_RAW\03_Loop2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    04_Loop3.wav:
+      Track_path: Sambasevam Shanmugam - Kaathaadi\Sambasevam Shanmugam - Kaathaadi_RAW\04_Loop3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    05_Loop4.wav:
+      Track_path: Sambasevam Shanmugam - Kaathaadi\Sambasevam Shanmugam - Kaathaadi_RAW\05_Loop4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion:
+    06_BrushKit.wav:
+      Track_path: Sambasevam Shanmugam - Kaathaadi\Sambasevam Shanmugam - Kaathaadi_RAW\06_BrushKit.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    09_MiscPercussion.wav:
+      Track_path: Sambasevam Shanmugam - Kaathaadi\Sambasevam Shanmugam - Kaathaadi_RAW\09_MiscPercussion.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Synth_Bass: {}
+  Electric_Bass:
+    10_Bass.wav:
+      Track_path: Sambasevam Shanmugam - Kaathaadi\Sambasevam Shanmugam - Kaathaadi_RAW\10_Bass.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    11_BassSFX.wav:
+      Track_path: Sambasevam Shanmugam - Kaathaadi\Sambasevam Shanmugam - Kaathaadi_RAW\11_BassSFX.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Acoustic_Guitar:
+    20_AcGtrEdited.wav:
+      Track_path: Sambasevam Shanmugam - Kaathaadi\Sambasevam Shanmugam - Kaathaadi_RAW\20_AcGtrEdited.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    21_AcGtrUneditedTake01.wav:
+      Track_path: Sambasevam Shanmugam - Kaathaadi\Sambasevam Shanmugam - Kaathaadi_RAW\21_AcGtrUneditedTake01.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    22_AcGtrUneditedTake02.wav:
+      Track_path: Sambasevam Shanmugam - Kaathaadi\Sambasevam Shanmugam - Kaathaadi_RAW\22_AcGtrUneditedTake02.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    23_AcGtrUneditedTake03.wav:
+      Track_path: Sambasevam Shanmugam - Kaathaadi\Sambasevam Shanmugam - Kaathaadi_RAW\23_AcGtrUneditedTake03.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Electric_Guitar: {}
+  Piano:
+    12_Piano.wav:
+      Track_path: Sambasevam Shanmugam - Kaathaadi\Sambasevam Shanmugam - Kaathaadi_RAW\12_Piano.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section:
+    14_Strings.wav:
+      Track_path: Sambasevam Shanmugam - Kaathaadi\Sambasevam Shanmugam - Kaathaadi_RAW\14_Strings.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Fiddle: {}
+  Double_Bass: {}
+  Violin:
+    24_Violin01.wav:
+      Track_path: Sambasevam Shanmugam - Kaathaadi\Sambasevam Shanmugam - Kaathaadi_RAW\24_Violin01.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    25_Violin02.wav:
+      Track_path: Sambasevam Shanmugam - Kaathaadi\Sambasevam Shanmugam - Kaathaadi_RAW\25_Violin02.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    26_Violin03.wav:
+      Track_path: Sambasevam Shanmugam - Kaathaadi\Sambasevam Shanmugam - Kaathaadi_RAW\26_Violin03.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Viola:
+    27_Viola01.wav:
+      Track_path: Sambasevam Shanmugam - Kaathaadi\Sambasevam Shanmugam - Kaathaadi_RAW\27_Viola01.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    28_Viola02.wav:
+      Track_path: Sambasevam Shanmugam - Kaathaadi\Sambasevam Shanmugam - Kaathaadi_RAW\28_Viola02.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    29_LeadVoxMale.wav:
+      Track_path: Sambasevam Shanmugam - Kaathaadi\Sambasevam Shanmugam - Kaathaadi_RAW\29_LeadVoxMale.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    30_LeadVoxFemale.wav:
+      Track_path: Sambasevam Shanmugam - Kaathaadi\Sambasevam Shanmugam - Kaathaadi_RAW\30_LeadVoxFemale.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Choir: {}
+  Backing_Vocal:
+    31_BackingVox01.wav:
+      Track_path: Sambasevam Shanmugam - Kaathaadi\Sambasevam Shanmugam - Kaathaadi_RAW\31_BackingVox01.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    32_BackingVox02.wav:
+      Track_path: Sambasevam Shanmugam - Kaathaadi\Sambasevam Shanmugam - Kaathaadi_RAW\32_BackingVox02.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    33_BackingVox03.wav:
+      Track_path: Sambasevam Shanmugam - Kaathaadi\Sambasevam Shanmugam - Kaathaadi_RAW\33_BackingVox03.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    34_BackingVox04.wav:
+      Track_path: Sambasevam Shanmugam - Kaathaadi\Sambasevam Shanmugam - Kaathaadi_RAW\34_BackingVox04.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    35_BackingVox05.wav:
+      Track_path: Sambasevam Shanmugam - Kaathaadi\Sambasevam Shanmugam - Kaathaadi_RAW\35_BackingVox05.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    36_BackingVox06.wav:
+      Track_path: Sambasevam Shanmugam - Kaathaadi\Sambasevam Shanmugam - Kaathaadi_RAW\36_BackingVox06.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    37_BackingVox07.wav:
+      Track_path: Sambasevam Shanmugam - Kaathaadi\Sambasevam Shanmugam - Kaathaadi_RAW\37_BackingVox07.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    38_BackingVox08.wav:
+      Track_path: Sambasevam Shanmugam - Kaathaadi\Sambasevam Shanmugam - Kaathaadi_RAW\38_BackingVox08.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    39_BackingVox09.wav:
+      Track_path: Sambasevam Shanmugam - Kaathaadi\Sambasevam Shanmugam - Kaathaadi_RAW\39_BackingVox09.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Unused: {}
+  Ambient_Microphone: {}

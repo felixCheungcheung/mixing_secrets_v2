@@ -1,0 +1,178 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer: {}
+  SFX: {}
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    01_Kick.wav:
+      Track_path: Szymon Skiba - Let's Dance\Szymon Skiba - Let's Dance_RAW\01_Kick.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_Snare:
+    02_SnareUp.wav:
+      Track_path: Szymon Skiba - Let's Dance\Szymon Skiba - Let's Dance_RAW\02_SnareUp.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    03_SnareDown.wav:
+      Track_path: Szymon Skiba - Let's Dance\Szymon Skiba - Let's Dance_RAW\03_SnareDown.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_HiHat:
+    04_HiHat.wav:
+      Track_path: Szymon Skiba - Let's Dance\Szymon Skiba - Let's Dance_RAW\04_HiHat.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_Cymbals:
+    12_ReverseCymbal.wav:
+      Track_path: Szymon Skiba - Let's Dance\Szymon Skiba - Let's Dance_RAW\12_ReverseCymbal.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Overheads:
+    10_Overheads.wav:
+      Track_path: Szymon Skiba - Let's Dance\Szymon Skiba - Let's Dance_RAW\10_Overheads.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Tom:
+    05_Tom1.wav:
+      Track_path: Szymon Skiba - Let's Dance\Szymon Skiba - Let's Dance_RAW\05_Tom1.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    06_Tom2.wav:
+      Track_path: Szymon Skiba - Let's Dance\Szymon Skiba - Let's Dance_RAW\06_Tom2.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    07_Tom3.wav:
+      Track_path: Szymon Skiba - Let's Dance\Szymon Skiba - Let's Dance_RAW\07_Tom3.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    08_Tom4.wav:
+      Track_path: Szymon Skiba - Let's Dance\Szymon Skiba - Let's Dance_RAW\08_Tom4.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    09_Tom5.wav:
+      Track_path: Szymon Skiba - Let's Dance\Szymon Skiba - Let's Dance_RAW\09_Tom5.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_Room:
+    11_DrumsRoom.wav:
+      Track_path: Szymon Skiba - Let's Dance\Szymon Skiba - Let's Dance_RAW\11_DrumsRoom.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop: {}
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass: {}
+  Electric_Bass:
+    13_BassDI.wav:
+      Track_path: Szymon Skiba - Let's Dance\Szymon Skiba - Let's Dance_RAW\13_BassDI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    14_BassAmp.wav:
+      Track_path: Szymon Skiba - Let's Dance\Szymon Skiba - Let's Dance_RAW\14_BassAmp.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    15_BassAmpDist.wav:
+      Track_path: Szymon Skiba - Let's Dance\Szymon Skiba - Let's Dance_RAW\15_BassAmpDist.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Acoustic_Guitar: {}
+  Electric_Guitar:
+    16_ElecGtr1DI.wav:
+      Track_path: Szymon Skiba - Let's Dance\Szymon Skiba - Let's Dance_RAW\16_ElecGtr1DI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    17_ElecGtr2DI.wav:
+      Track_path: Szymon Skiba - Let's Dance\Szymon Skiba - Let's Dance_RAW\17_ElecGtr2DI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    18_ElecGtr3DI.wav:
+      Track_path: Szymon Skiba - Let's Dance\Szymon Skiba - Let's Dance_RAW\18_ElecGtr3DI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    19_ElecGtr3Amp.wav:
+      Track_path: Szymon Skiba - Let's Dance\Szymon Skiba - Let's Dance_RAW\19_ElecGtr3Amp.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    20_ElecGtr4DI.wav:
+      Track_path: Szymon Skiba - Let's Dance\Szymon Skiba - Let's Dance_RAW\20_ElecGtr4DI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    21_ElecGtr4Amp.wav:
+      Track_path: Szymon Skiba - Let's Dance\Szymon Skiba - Let's Dance_RAW\21_ElecGtr4Amp.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Piano: {}
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal: {}
+  Choir: {}
+  Backing_Vocal: {}
+  Unused: {}
+  Ambient_Microphone: {}

@@ -1,0 +1,243 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer:
+    27_Synth1.wav:
+      Track_path: Blues Bastards - Sugar\Blues Bastards - Sugar_RAW\27_Synth1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    28_Synth2.wav:
+      Track_path: Blues Bastards - Sugar\Blues Bastards - Sugar_RAW\28_Synth2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    29_Synth3.wav:
+      Track_path: Blues Bastards - Sugar\Blues Bastards - Sugar_RAW\29_Synth3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    30_Synth4.wav:
+      Track_path: Blues Bastards - Sugar\Blues Bastards - Sugar_RAW\30_Synth4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    31_Synth5.wav:
+      Track_path: Blues Bastards - Sugar\Blues Bastards - Sugar_RAW\31_Synth5.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  SFX:
+    10_SFX.wav:
+      Track_path: Blues Bastards - Sugar\Blues Bastards - Sugar_RAW\10_SFX.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Marimba: {}
+  Bell:
+    09_Bell.wav:
+      Track_path: Blues Bastards - Sugar\Blues Bastards - Sugar_RAW\09_Bell.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    01_KickIn.wav:
+      Track_path: Blues Bastards - Sugar\Blues Bastards - Sugar_RAW\01_KickIn.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    02_KickOut.wav:
+      Track_path: Blues Bastards - Sugar\Blues Bastards - Sugar_RAW\02_KickOut.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_Snare:
+    03_SnareUp.wav:
+      Track_path: Blues Bastards - Sugar\Blues Bastards - Sugar_RAW\03_SnareUp.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    04_SnareDown.wav:
+      Track_path: Blues Bastards - Sugar\Blues Bastards - Sugar_RAW\04_SnareDown.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_HiHat: {}
+  Drum_Cymbals: {}
+  Drum_Overheads:
+    05_Overheads.wav:
+      Track_path: Blues Bastards - Sugar\Blues Bastards - Sugar_RAW\05_Overheads.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Tom:
+    07_Tom1.wav:
+      Track_path: Blues Bastards - Sugar\Blues Bastards - Sugar_RAW\07_Tom1.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    08_Tom2.wav:
+      Track_path: Blues Bastards - Sugar\Blues Bastards - Sugar_RAW\08_Tom2.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_Room:
+    06_DrumsRoom.wav:
+      Track_path: Blues Bastards - Sugar\Blues Bastards - Sugar_RAW\06_DrumsRoom.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop: {}
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass: {}
+  Electric_Bass:
+    11_BassDI.wav:
+      Track_path: Blues Bastards - Sugar\Blues Bastards - Sugar_RAW\11_BassDI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    12_BassAmp.wav:
+      Track_path: Blues Bastards - Sugar\Blues Bastards - Sugar_RAW\12_BassAmp.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Acoustic_Guitar:
+    13_AcousticGtr.wav:
+      Track_path: Blues Bastards - Sugar\Blues Bastards - Sugar_RAW\13_AcousticGtr.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    14_AcousticGtrDT.wav:
+      Track_path: Blues Bastards - Sugar\Blues Bastards - Sugar_RAW\14_AcousticGtrDT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Electric_Guitar:
+    15_ElecGtr1.wav:
+      Track_path: Blues Bastards - Sugar\Blues Bastards - Sugar_RAW\15_ElecGtr1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    16_ElecGtr2.wav:
+      Track_path: Blues Bastards - Sugar\Blues Bastards - Sugar_RAW\16_ElecGtr2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    17_ElecGtr2DT.wav:
+      Track_path: Blues Bastards - Sugar\Blues Bastards - Sugar_RAW\17_ElecGtr2DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    18_ElecGtr3.wav:
+      Track_path: Blues Bastards - Sugar\Blues Bastards - Sugar_RAW\18_ElecGtr3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    19_ElecGtr4.wav:
+      Track_path: Blues Bastards - Sugar\Blues Bastards - Sugar_RAW\19_ElecGtr4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    20_ElecGtr4DT.wav:
+      Track_path: Blues Bastards - Sugar\Blues Bastards - Sugar_RAW\20_ElecGtr4DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    21_ElecGtr5.wav:
+      Track_path: Blues Bastards - Sugar\Blues Bastards - Sugar_RAW\21_ElecGtr5.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    22_ElecGtr5DT.wav:
+      Track_path: Blues Bastards - Sugar\Blues Bastards - Sugar_RAW\22_ElecGtr5DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    23_ElecGtr6.wav:
+      Track_path: Blues Bastards - Sugar\Blues Bastards - Sugar_RAW\23_ElecGtr6.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    24_ElecGtr6DT.wav:
+      Track_path: Blues Bastards - Sugar\Blues Bastards - Sugar_RAW\24_ElecGtr6DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    25_ElecGtr7.wav:
+      Track_path: Blues Bastards - Sugar\Blues Bastards - Sugar_RAW\25_ElecGtr7.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    26_ElecGtr8.wav:
+      Track_path: Blues Bastards - Sugar\Blues Bastards - Sugar_RAW\26_ElecGtr8.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Piano: {}
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section:
+    32_Strings1.wav:
+      Track_path: Blues Bastards - Sugar\Blues Bastards - Sugar_RAW\32_Strings1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    33_Strings2.wav:
+      Track_path: Blues Bastards - Sugar\Blues Bastards - Sugar_RAW\33_Strings2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    34_LeadVox.wav:
+      Track_path: Blues Bastards - Sugar\Blues Bastards - Sugar_RAW\34_LeadVox.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Choir: {}
+  Backing_Vocal: {}
+  Unused: {}
+  Ambient_Microphone: {}

@@ -1,0 +1,183 @@
+Track2inst:
+  Electric_Organ:
+    13_OrganHigh.wav:
+      Track_path: Arise - Run Run Run\Arise - Run Run Run_RAW\13_OrganHigh.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    14_OrganLow.wav:
+      Track_path: Arise - Run Run Run\Arise - Run Run Run_RAW\14_OrganLow.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Synthesizer: {}
+  SFX: {}
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    01_Kick.wav:
+      Track_path: Arise - Run Run Run\Arise - Run Run Run_RAW\01_Kick.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads'
+      Comment: ''
+  Drum_Snare:
+    05_SnareUp.wav:
+      Track_path: Arise - Run Run Run\Arise - Run Run Run_RAW\05_SnareUp.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads'
+      Comment: ''
+    06_SnareDown.wav:
+      Track_path: Arise - Run Run Run\Arise - Run Run Run_RAW\06_SnareDown.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads'
+      Comment: ''
+  Drum_HiHat:
+    03_HiHat.wav:
+      Track_path: Arise - Run Run Run\Arise - Run Run Run_RAW\03_HiHat.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads'
+      Comment: ''
+  Drum_Cymbals:
+    07_Cymbal.wav:
+      Track_path: Arise - Run Run Run\Arise - Run Run Run_RAW\07_Cymbal.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads'
+      Comment: ''
+  Drum_Overheads:
+    04_Overheads.wav:
+      Track_path: Arise - Run Run Run\Arise - Run Run Run_RAW\04_Overheads.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Tom: {}
+  Drum_Room: {}
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop: {}
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion:
+    02_Rim.wav:
+      Track_path: Arise - Run Run Run\Arise - Run Run Run_RAW\02_Rim.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Synth_Bass: {}
+  Electric_Bass:
+    08_BassDI.wav:
+      Track_path: Arise - Run Run Run\Arise - Run Run Run_RAW\08_BassDI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Acoustic_Guitar: {}
+  Electric_Guitar: {}
+  Piano:
+    15_Piano1.wav:
+      Track_path: Arise - Run Run Run\Arise - Run Run Run_RAW\15_Piano1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    16_Piano2.wav:
+      Track_path: Arise - Run Run Run\Arise - Run Run Run_RAW\16_Piano2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    17_LeadVoxRawTake1.wav:
+      Track_path: Arise - Run Run Run\Arise - Run Run Run_RAW\17_LeadVoxRawTake1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    18_LeadVoxRawTake2.wav:
+      Track_path: Arise - Run Run Run\Arise - Run Run Run_RAW\18_LeadVoxRawTake2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    19_LeadVoxRawTake3.wav:
+      Track_path: Arise - Run Run Run\Arise - Run Run Run_RAW\19_LeadVoxRawTake3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    20_LeadVoxRawTake4.wav:
+      Track_path: Arise - Run Run Run\Arise - Run Run Run_RAW\20_LeadVoxRawTake4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    21_LeadVoxComped.wav:
+      Track_path: Arise - Run Run Run\Arise - Run Run Run_RAW\21_LeadVoxComped.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Choir: {}
+  Backing_Vocal:
+    22_BackingVox.wav:
+      Track_path: Arise - Run Run Run\Arise - Run Run Run_RAW\22_BackingVox.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Unused:
+    09_ElecGtr1.wav:
+      Track_path: Arise - Run Run Run\Arise - Run Run Run_RAW\09_ElecGtr1.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Electric_Bass, Drum_Overheads'
+      Comment: ''
+    10_ElecGtr2.wav:
+      Track_path: Arise - Run Run Run\Arise - Run Run Run_RAW\10_ElecGtr2.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Electric_Bass, Drum_Overheads'
+      Comment: ''
+    11_ElecGtr3.wav:
+      Track_path: Arise - Run Run Run\Arise - Run Run Run_RAW\11_ElecGtr3.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Electric_Bass, Drum_Overheads'
+      Comment: ''
+    12_ElecGtr4.wav:
+      Track_path: Arise - Run Run Run\Arise - Run Run Run_RAW\12_ElecGtr4.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Electric_Bass, Drum_Overheads'
+      Comment: ''
+  Ambient_Microphone: {}

@@ -1,0 +1,247 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer: {}
+  SFX: {}
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    01_Kick.wav:
+      Track_path: David Tyo - It's So Easy To Love You\David Tyo - It's So Easy To
+        Love You_RAW\01_Kick.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    02_KickRoom.wav:
+      Track_path: David Tyo - It's So Easy To Love You\David Tyo - It's So Easy To
+        Love You_RAW\02_KickRoom.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_Snare: {}
+  Drum_HiHat: {}
+  Drum_Cymbals:
+    04_Cymbals.wav:
+      Track_path: David Tyo - It's So Easy To Love You\David Tyo - It's So Easy To
+        Love You_RAW\04_Cymbals.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_Overheads:
+    03_Overhead.wav:
+      Track_path: David Tyo - It's So Easy To Love You\David Tyo - It's So Easy To
+        Love You_RAW\03_Overhead.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Tom:
+    08_TomRoll.wav:
+      Track_path: David Tyo - It's So Easy To Love You\David Tyo - It's So Easy To
+        Love You_RAW\08_TomRoll.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_Room: {}
+  Shaker:
+    07_Shaker.wav:
+      Track_path: David Tyo - It's So Easy To Love You\David Tyo - It's So Easy To
+        Love You_RAW\07_Shaker.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine:
+    06_Tambourine.wav:
+      Track_path: David Tyo - It's So Easy To Love You\David Tyo - It's So Easy To
+        Love You_RAW\06_Tambourine.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Loop: {}
+  Clicks:
+    05_Snaps.wav:
+      Track_path: David Tyo - It's So Easy To Love You\David Tyo - It's So Easy To
+        Love You_RAW\05_Snaps.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Claps:
+    09_Claps1.wav:
+      Track_path: David Tyo - It's So Easy To Love You\David Tyo - It's So Easy To
+        Love You_RAW\09_Claps1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    10_Claps2.wav:
+      Track_path: David Tyo - It's So Easy To Love You\David Tyo - It's So Easy To
+        Love You_RAW\10_Claps2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    11_Claps3.wav:
+      Track_path: David Tyo - It's So Easy To Love You\David Tyo - It's So Easy To
+        Love You_RAW\11_Claps3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    12_ClapsRoom.wav:
+      Track_path: David Tyo - It's So Easy To Love You\David Tyo - It's So Easy To
+        Love You_RAW\12_ClapsRoom.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass: {}
+  Electric_Bass: {}
+  Acoustic_Guitar:
+    14_AcousticGtr1.wav:
+      Track_path: David Tyo - It's So Easy To Love You\David Tyo - It's So Easy To
+        Love You_RAW\14_AcousticGtr1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    15_AcousticGtr2.wav:
+      Track_path: David Tyo - It's So Easy To Love You\David Tyo - It's So Easy To
+        Love You_RAW\15_AcousticGtr2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    16_AcousticGtr3.wav:
+      Track_path: David Tyo - It's So Easy To Love You\David Tyo - It's So Easy To
+        Love You_RAW\16_AcousticGtr3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    17_AcousticGtr4.wav:
+      Track_path: David Tyo - It's So Easy To Love You\David Tyo - It's So Easy To
+        Love You_RAW\17_AcousticGtr4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    18_Banjo1.wav:
+      Track_path: David Tyo - It's So Easy To Love You\David Tyo - It's So Easy To
+        Love You_RAW\18_Banjo1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    19_Banjo2.wav:
+      Track_path: David Tyo - It's So Easy To Love You\David Tyo - It's So Easy To
+        Love You_RAW\19_Banjo2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Electric_Guitar:
+    20_ElecGtr.wav:
+      Track_path: David Tyo - It's So Easy To Love You\David Tyo - It's So Easy To
+        Love You_RAW\20_ElecGtr.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Piano:
+    21_Piano.wav:
+      Track_path: David Tyo - It's So Easy To Love You\David Tyo - It's So Easy To
+        Love You_RAW\21_Piano.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello:
+    13_Cello.wav:
+      Track_path: David Tyo - It's So Easy To Love You\David Tyo - It's So Easy To
+        Love You_RAW\13_Cello.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    22_LeadVox.wav:
+      Track_path: David Tyo - It's So Easy To Love You\David Tyo - It's So Easy To
+        Love You_RAW\22_LeadVox.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    23_LeadVoxDT.wav:
+      Track_path: David Tyo - It's So Easy To Love You\David Tyo - It's So Easy To
+        Love You_RAW\23_LeadVoxDT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Choir: {}
+  Backing_Vocal:
+    24_BackingVox1.wav:
+      Track_path: David Tyo - It's So Easy To Love You\David Tyo - It's So Easy To
+        Love You_RAW\24_BackingVox1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    25_BackingVox1DT.wav:
+      Track_path: David Tyo - It's So Easy To Love You\David Tyo - It's So Easy To
+        Love You_RAW\25_BackingVox1DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    26_BackingVox2.wav:
+      Track_path: David Tyo - It's So Easy To Love You\David Tyo - It's So Easy To
+        Love You_RAW\26_BackingVox2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    27_BackingVox3.wav:
+      Track_path: David Tyo - It's So Easy To Love You\David Tyo - It's So Easy To
+        Love You_RAW\27_BackingVox3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    28_BackingVox4.wav:
+      Track_path: David Tyo - It's So Easy To Love You\David Tyo - It's So Easy To
+        Love You_RAW\28_BackingVox4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    29_BackingVox5.wav:
+      Track_path: David Tyo - It's So Easy To Love You\David Tyo - It's So Easy To
+        Love You_RAW\29_BackingVox5.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Unused: {}
+  Ambient_Microphone: {}

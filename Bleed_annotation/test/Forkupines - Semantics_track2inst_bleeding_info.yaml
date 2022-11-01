@@ -1,0 +1,313 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer: {}
+  SFX: {}
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    01_KickTrigger1.wav:
+      Track_path: Forkupines - Semantics\Forkupines - Semantics_RAW\01_KickTrigger1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    02_KickTrigger2.wav:
+      Track_path: Forkupines - Semantics\Forkupines - Semantics_RAW\02_KickTrigger2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Snare:
+    03_SnareUp.wav:
+      Track_path: Forkupines - Semantics\Forkupines - Semantics_RAW\03_SnareUp.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    04_SnareDown.wav:
+      Track_path: Forkupines - Semantics\Forkupines - Semantics_RAW\04_SnareDown.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_HiHat:
+    05_HiHat.wav:
+      Track_path: Forkupines - Semantics\Forkupines - Semantics_RAW\05_HiHat.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_Cymbals: {}
+  Drum_Overheads:
+    06_Overheads.wav:
+      Track_path: Forkupines - Semantics\Forkupines - Semantics_RAW\06_Overheads.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    07_OverheadsTriggers.wav:
+      Track_path: Forkupines - Semantics\Forkupines - Semantics_RAW\07_OverheadsTriggers.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Tom:
+    10_Tom1Trigger.wav:
+      Track_path: Forkupines - Semantics\Forkupines - Semantics_RAW\10_Tom1Trigger.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    11_Tom2Trigger.wav:
+      Track_path: Forkupines - Semantics\Forkupines - Semantics_RAW\11_Tom2Trigger.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    12_Tom3Trigger.wav:
+      Track_path: Forkupines - Semantics\Forkupines - Semantics_RAW\12_Tom3Trigger.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Room:
+    08_DrumsRoom.wav:
+      Track_path: Forkupines - Semantics\Forkupines - Semantics_RAW\08_DrumsRoom.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    09_DrumsRoomTriggers.wav:
+      Track_path: Forkupines - Semantics\Forkupines - Semantics_RAW\09_DrumsRoomTriggers.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop: {}
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass: {}
+  Electric_Bass:
+    13_Bass1DI.wav:
+      Track_path: Forkupines - Semantics\Forkupines - Semantics_RAW\13_Bass1DI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    14_Bass1Amp.wav:
+      Track_path: Forkupines - Semantics\Forkupines - Semantics_RAW\14_Bass1Amp.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    15_Bass2DI.wav:
+      Track_path: Forkupines - Semantics\Forkupines - Semantics_RAW\15_Bass2DI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    16_Bass2Amp.wav:
+      Track_path: Forkupines - Semantics\Forkupines - Semantics_RAW\16_Bass2Amp.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    17_Bass3DI.wav:
+      Track_path: Forkupines - Semantics\Forkupines - Semantics_RAW\17_Bass3DI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    18_Bass3Amp.wav:
+      Track_path: Forkupines - Semantics\Forkupines - Semantics_RAW\18_Bass3Amp.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Acoustic_Guitar:
+    39_AcousticGtrMic1.wav:
+      Track_path: Forkupines - Semantics\Forkupines - Semantics_RAW\39_AcousticGtrMic1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    40_AcousticGtrMic2.wav:
+      Track_path: Forkupines - Semantics\Forkupines - Semantics_RAW\40_AcousticGtrMic2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Electric_Guitar:
+    19_ElecGtr01.wav:
+      Track_path: Forkupines - Semantics\Forkupines - Semantics_RAW\19_ElecGtr01.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    20_ElecGtr01DT.wav:
+      Track_path: Forkupines - Semantics\Forkupines - Semantics_RAW\20_ElecGtr01DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    21_ElecGtr02.wav:
+      Track_path: Forkupines - Semantics\Forkupines - Semantics_RAW\21_ElecGtr02.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    22_ElecGtr02DT.wav:
+      Track_path: Forkupines - Semantics\Forkupines - Semantics_RAW\22_ElecGtr02DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    23_ElecGtr03DI.wav:
+      Track_path: Forkupines - Semantics\Forkupines - Semantics_RAW\23_ElecGtr03DI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    24_ElecGtr03Amp.wav:
+      Track_path: Forkupines - Semantics\Forkupines - Semantics_RAW\24_ElecGtr03Amp.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    25_ElecGtr04.wav:
+      Track_path: Forkupines - Semantics\Forkupines - Semantics_RAW\25_ElecGtr04.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    26_ElecGtr04DT.wav:
+      Track_path: Forkupines - Semantics\Forkupines - Semantics_RAW\26_ElecGtr04DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    27_ElecGtr05DI.wav:
+      Track_path: Forkupines - Semantics\Forkupines - Semantics_RAW\27_ElecGtr05DI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    28_ElecGtr05Amp.wav:
+      Track_path: Forkupines - Semantics\Forkupines - Semantics_RAW\28_ElecGtr05Amp.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    29_ElecGtr06.wav:
+      Track_path: Forkupines - Semantics\Forkupines - Semantics_RAW\29_ElecGtr06.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    30_ElecGtr07.wav:
+      Track_path: Forkupines - Semantics\Forkupines - Semantics_RAW\30_ElecGtr07.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    31_ElecGtr08DI.wav:
+      Track_path: Forkupines - Semantics\Forkupines - Semantics_RAW\31_ElecGtr08DI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    32_ElecGtr08Amp.wav:
+      Track_path: Forkupines - Semantics\Forkupines - Semantics_RAW\32_ElecGtr08Amp.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    33_ElecGtr09DI.wav:
+      Track_path: Forkupines - Semantics\Forkupines - Semantics_RAW\33_ElecGtr09DI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    34_ElecGtr09Amp.wav:
+      Track_path: Forkupines - Semantics\Forkupines - Semantics_RAW\34_ElecGtr09Amp.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    35_ElecGtr10.wav:
+      Track_path: Forkupines - Semantics\Forkupines - Semantics_RAW\35_ElecGtr10.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    36_ElecGtr11.wav:
+      Track_path: Forkupines - Semantics\Forkupines - Semantics_RAW\36_ElecGtr11.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    37_ElecGtr11DT.wav:
+      Track_path: Forkupines - Semantics\Forkupines - Semantics_RAW\37_ElecGtr11DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    38_ElecGtr12.wav:
+      Track_path: Forkupines - Semantics\Forkupines - Semantics_RAW\38_ElecGtr12.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Piano: {}
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    41_LeadVox1.wav:
+      Track_path: Forkupines - Semantics\Forkupines - Semantics_RAW\41_LeadVox1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    42_LeadVox2.wav:
+      Track_path: Forkupines - Semantics\Forkupines - Semantics_RAW\42_LeadVox2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Choir: {}
+  Backing_Vocal:
+    43_BackingVox1.wav:
+      Track_path: Forkupines - Semantics\Forkupines - Semantics_RAW\43_BackingVox1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    44_BackingVox1DT.wav:
+      Track_path: Forkupines - Semantics\Forkupines - Semantics_RAW\44_BackingVox1DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    45_BackingVox2.wav:
+      Track_path: Forkupines - Semantics\Forkupines - Semantics_RAW\45_BackingVox2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    46_BackingVox2DT.wav:
+      Track_path: Forkupines - Semantics\Forkupines - Semantics_RAW\46_BackingVox2DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    47_BackingVox3.wav:
+      Track_path: Forkupines - Semantics\Forkupines - Semantics_RAW\47_BackingVox3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    48_BackingVox3DT.wav:
+      Track_path: Forkupines - Semantics\Forkupines - Semantics_RAW\48_BackingVox3DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Unused: {}
+  Ambient_Microphone: {}

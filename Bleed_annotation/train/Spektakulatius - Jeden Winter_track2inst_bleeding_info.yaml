@@ -1,0 +1,118 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer: {}
+  SFX: {}
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    01_Kick.wav:
+      Track_path: Spektakulatius - Jeden Winter\Spektakulatius - Jeden Winter_RAW\01_Kick.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Saxophone, Piano, Drum_Overheads'
+      Comment: ''
+  Drum_Snare:
+    02_Snare.wav:
+      Track_path: Spektakulatius - Jeden Winter\Spektakulatius - Jeden Winter_RAW\02_Snare.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Saxophone, Piano, Drum_Overheads'
+      Comment: ''
+  Drum_HiHat: {}
+  Drum_Cymbals: {}
+  Drum_Overheads:
+    03_Overheads.wav:
+      Track_path: Spektakulatius - Jeden Winter\Spektakulatius - Jeden Winter_RAW\03_Overheads.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Saxophone, Piano, Double_Bass'
+      Comment: ''
+  Drum_Tom:
+    04_Toms.wav:
+      Track_path: Spektakulatius - Jeden Winter\Spektakulatius - Jeden Winter_RAW\04_Toms.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Saxophone, Piano, Drum_Overheads'
+      Comment: ''
+  Drum_Room: {}
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop: {}
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass: {}
+  Electric_Bass: {}
+  Acoustic_Guitar: {}
+  Electric_Guitar: {}
+  Piano:
+    08_Piano.wav:
+      Track_path: Spektakulatius - Jeden Winter\Spektakulatius - Jeden Winter_RAW\08_Piano.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads, Saxophone'
+      Comment: ''
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone:
+    07_Sax.wav:
+      Track_path: Spektakulatius - Jeden Winter\Spektakulatius - Jeden Winter_RAW\07_Sax.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads, Piano'
+      Comment: ''
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass:
+    05_BassMic.wav:
+      Track_path: Spektakulatius - Jeden Winter\Spektakulatius - Jeden Winter_RAW\05_BassMic.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads, Saxophone, Piano'
+      Comment: ''
+    06_BassDI.wav:
+      Track_path: Spektakulatius - Jeden Winter\Spektakulatius - Jeden Winter_RAW\06_BassDI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    09_LeadVox.wav:
+      Track_path: Spektakulatius - Jeden Winter\Spektakulatius - Jeden Winter_RAW\09_LeadVox.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Choir: {}
+  Backing_Vocal: {}
+  Unused: {}
+  Ambient_Microphone: {}

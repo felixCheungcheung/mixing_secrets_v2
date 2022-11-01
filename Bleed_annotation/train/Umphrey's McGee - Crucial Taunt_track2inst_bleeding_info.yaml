@@ -1,0 +1,216 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer: {}
+  SFX: {}
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    Drums-Kick In-M82.20_01.wav:
+      Track_path: Umphrey's McGee - Crucial Taunt\Umphrey's McGee - Crucial Taunt_RAW\Drums-Kick
+        In-M82.20_01.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_Snare:
+    Drums-Aux Snare-M80.20_01.wav:
+      Track_path: Umphrey's McGee - Crucial Taunt\Umphrey's McGee - Crucial Taunt_RAW\Drums-Aux
+        Snare-M80.20_01.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    Drums-Snare-M81.20_01.wav:
+      Track_path: Umphrey's McGee - Crucial Taunt\Umphrey's McGee - Crucial Taunt_RAW\Drums-Snare-M81.20_01.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_HiHat: {}
+  Drum_Cymbals: {}
+  Drum_Overheads:
+    Drums-Over-TF51.20_01.wav:
+      Track_path: Umphrey's McGee - Crucial Taunt\Umphrey's McGee - Crucial Taunt_RAW\Drums-Over-TF51.20_01.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Electric_Guitar'
+      Comment: ''
+  Drum_Tom:
+    Drums-Floor Tom 2-M81.20_01.wav:
+      Track_path: Umphrey's McGee - Crucial Taunt\Umphrey's McGee - Crucial Taunt_RAW\Drums-Floor
+        Tom 2-M81.20_01.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    Drums-Rack Tom 2-M81.20_01.wav:
+      Track_path: Umphrey's McGee - Crucial Taunt\Umphrey's McGee - Crucial Taunt_RAW\Drums-Rack
+        Tom 2-M81.20_01.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    Drums-Rack Tom-M81.20_01.wav:
+      Track_path: Umphrey's McGee - Crucial Taunt\Umphrey's McGee - Crucial Taunt_RAW\Drums-Rack
+        Tom-M81.20_01.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    perc toms 1.20_01.wav:
+      Track_path: Umphrey's McGee - Crucial Taunt\Umphrey's McGee - Crucial Taunt_RAW\perc
+        toms 1.20_01.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    perc toms 2.20_01.wav:
+      Track_path: Umphrey's McGee - Crucial Taunt\Umphrey's McGee - Crucial Taunt_RAW\perc
+        toms 2.20_01.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    perc toms 3.20_01.wav:
+      Track_path: Umphrey's McGee - Crucial Taunt\Umphrey's McGee - Crucial Taunt_RAW\perc
+        toms 3.20_01.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    perc toms room.20_01.wav:
+      Track_path: Umphrey's McGee - Crucial Taunt\Umphrey's McGee - Crucial Taunt_RAW\perc
+        toms room.20_01.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_Room:
+    Drums-Floor-M81.20_01.wav:
+      Track_path: Umphrey's McGee - Crucial Taunt\Umphrey's McGee - Crucial Taunt_RAW\Drums-Floor-M81.20_01.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Electric_Guitar'
+      Comment: ''
+    Drums-Room-m60.20_01.wav:
+      Track_path: Umphrey's McGee - Crucial Taunt\Umphrey's McGee - Crucial Taunt_RAW\Drums-Room-m60.20_01.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Electric_Guitar'
+      Comment: ''
+  Shaker:
+    perc shaker.20_01.wav:
+      Track_path: Umphrey's McGee - Crucial Taunt\Umphrey's McGee - Crucial Taunt_RAW\perc
+        shaker.20_01.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop: {}
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass: {}
+  Electric_Bass:
+    Bass-Active DI.20_01.wav:
+      Track_path: Umphrey's McGee - Crucial Taunt\Umphrey's McGee - Crucial Taunt_RAW\Bass-Active
+        DI.20_01.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Bass-Amp-M82.20_01.wav:
+      Track_path: Umphrey's McGee - Crucial Taunt\Umphrey's McGee - Crucial Taunt_RAW\Bass-Amp-M82.20_01.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Acoustic_Guitar: {}
+  Electric_Guitar:
+    EGuitar 2 - (Palmer PDI09).wav:
+      Track_path: Umphrey's McGee - Crucial Taunt\Umphrey's McGee - Crucial Taunt_RAW\EGuitar
+        2 - (Palmer PDI09).wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    EGuitar-TF47_01.wav:
+      Track_path: Umphrey's McGee - Crucial Taunt\Umphrey's McGee - Crucial Taunt_RAW\EGuitar-TF47_01.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads'
+      Comment: ''
+    EGutiar 2 - (Earthworks SR25).wav:
+      Track_path: Umphrey's McGee - Crucial Taunt\Umphrey's McGee - Crucial Taunt_RAW\EGutiar
+        2 - (Earthworks SR25).wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Piano: {}
+  Electric_Piano:
+    Keys-Leslie-M81.20_01.wav:
+      Track_path: Umphrey's McGee - Crucial Taunt\Umphrey's McGee - Crucial Taunt_RAW\Keys-Leslie-M81.20_01.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    Lead-Vox-A (AKG 414)_01.wav:
+      Track_path: Umphrey's McGee - Crucial Taunt\Umphrey's McGee - Crucial Taunt_RAW\Lead-Vox-A
+        (AKG 414)_01.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Lead-Vox-B (AKG 414)_01.wav:
+      Track_path: Umphrey's McGee - Crucial Taunt\Umphrey's McGee - Crucial Taunt_RAW\Lead-Vox-B
+        (AKG 414)_01.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Choir: {}
+  Backing_Vocal:
+    Backing-Vox-A (Korby KAT C-800)_01.wav:
+      Track_path: Umphrey's McGee - Crucial Taunt\Umphrey's McGee - Crucial Taunt_RAW\Backing-Vox-A
+        (Korby KAT C-800)_01.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Backing-Vox-B (Korby KAT C-800)_01.wav:
+      Track_path: Umphrey's McGee - Crucial Taunt\Umphrey's McGee - Crucial Taunt_RAW\Backing-Vox-B
+        (Korby KAT C-800)_01.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Unused:
+    UM Crucial Taunt.20_01.wav:
+      Track_path: Umphrey's McGee - Crucial Taunt\Umphrey's McGee - Crucial Taunt_RAW\UM
+        Crucial Taunt.20_01.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Ambient_Microphone: {}

@@ -1,0 +1,293 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer: {}
+  SFX: {}
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    01_KickOut.wav:
+      Track_path: Bobby Nobody - Stitch Up\Bobby Nobody - Stitch Up_RAW\01_KickOut.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads'
+      Comment: ''
+    02_KickIn.wav:
+      Track_path: Bobby Nobody - Stitch Up\Bobby Nobody - Stitch Up_RAW\02_KickIn.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads'
+      Comment: ''
+    03_KickFill.wav:
+      Track_path: Bobby Nobody - Stitch Up\Bobby Nobody - Stitch Up_RAW\03_KickFill.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: 'Sample'
+  Drum_Snare:
+    04_SnareUp.wav:
+      Track_path: Bobby Nobody - Stitch Up\Bobby Nobody - Stitch Up_RAW\04_SnareUp.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads'
+      Comment: ''
+    05_SnareDown.wav:
+      Track_path: Bobby Nobody - Stitch Up\Bobby Nobody - Stitch Up_RAW\05_SnareDown.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads'
+      Comment: ''
+  Drum_HiHat: {}
+  Drum_Cymbals: {}
+  Drum_Overheads:
+    06_Overheads.wav:
+      Track_path: Bobby Nobody - Stitch Up\Bobby Nobody - Stitch Up_RAW\06_Overheads.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Tom:
+    08_Tom1.wav:
+      Track_path: Bobby Nobody - Stitch Up\Bobby Nobody - Stitch Up_RAW\08_Tom1.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads'
+      Comment: ''
+    09_Tom2.wav:
+      Track_path: Bobby Nobody - Stitch Up\Bobby Nobody - Stitch Up_RAW\09_Tom2.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads'
+      Comment: ''
+  Drum_Room:
+    07_Ambience.wav:
+      Track_path: Bobby Nobody - Stitch Up\Bobby Nobody - Stitch Up_RAW\07_Ambience.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop: {}
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass: {}
+  Electric_Bass:
+    10_BassDI.wav:
+      Track_path: Bobby Nobody - Stitch Up\Bobby Nobody - Stitch Up_RAW\10_BassDI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    11_BassCab1.wav:
+      Track_path: Bobby Nobody - Stitch Up\Bobby Nobody - Stitch Up_RAW\11_BassCab1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    12_BassCab2.wav:
+      Track_path: Bobby Nobody - Stitch Up\Bobby Nobody - Stitch Up_RAW\12_BassCab2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    13_BassCab3.wav:
+      Track_path: Bobby Nobody - Stitch Up\Bobby Nobody - Stitch Up_RAW\13_BassCab3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Acoustic_Guitar: {}
+  Electric_Guitar:
+    14_ElecGtr01.wav:
+      Track_path: Bobby Nobody - Stitch Up\Bobby Nobody - Stitch Up_RAW\14_ElecGtr01.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    15_ElecGtr02.wav:
+      Track_path: Bobby Nobody - Stitch Up\Bobby Nobody - Stitch Up_RAW\15_ElecGtr02.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    16_ElecGtr03.wav:
+      Track_path: Bobby Nobody - Stitch Up\Bobby Nobody - Stitch Up_RAW\16_ElecGtr03.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    17_ElecGtr04.wav:
+      Track_path: Bobby Nobody - Stitch Up\Bobby Nobody - Stitch Up_RAW\17_ElecGtr04.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    18_ElecGtr05.wav:
+      Track_path: Bobby Nobody - Stitch Up\Bobby Nobody - Stitch Up_RAW\18_ElecGtr05.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    19_ElecGtr06.wav:
+      Track_path: Bobby Nobody - Stitch Up\Bobby Nobody - Stitch Up_RAW\19_ElecGtr06.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    20_ElecGtr07.wav:
+      Track_path: Bobby Nobody - Stitch Up\Bobby Nobody - Stitch Up_RAW\20_ElecGtr07.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    21_ElecGtr08.wav:
+      Track_path: Bobby Nobody - Stitch Up\Bobby Nobody - Stitch Up_RAW\21_ElecGtr08.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    22_ElecGtr09.wav:
+      Track_path: Bobby Nobody - Stitch Up\Bobby Nobody - Stitch Up_RAW\22_ElecGtr09.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    23_ElecGtr10.wav:
+      Track_path: Bobby Nobody - Stitch Up\Bobby Nobody - Stitch Up_RAW\23_ElecGtr10.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    24_ElecGtr11.wav:
+      Track_path: Bobby Nobody - Stitch Up\Bobby Nobody - Stitch Up_RAW\24_ElecGtr11.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    26_ElecGtr13.wav:
+      Track_path: Bobby Nobody - Stitch Up\Bobby Nobody - Stitch Up_RAW\26_ElecGtr13.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Piano: {}
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    27_LeadVox1.wav:
+      Track_path: Bobby Nobody - Stitch Up\Bobby Nobody - Stitch Up_RAW\27_LeadVox1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    28_LeadVox2.wav:
+      Track_path: Bobby Nobody - Stitch Up\Bobby Nobody - Stitch Up_RAW\28_LeadVox2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Choir: {}
+  Backing_Vocal:
+    32_BackingVox01.wav:
+      Track_path: Bobby Nobody - Stitch Up\Bobby Nobody - Stitch Up_RAW\32_BackingVox01.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    33_BackingVox02.wav:
+      Track_path: Bobby Nobody - Stitch Up\Bobby Nobody - Stitch Up_RAW\33_BackingVox02.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    34_BackingVox03.wav:
+      Track_path: Bobby Nobody - Stitch Up\Bobby Nobody - Stitch Up_RAW\34_BackingVox03.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    35_BackingVox04.wav:
+      Track_path: Bobby Nobody - Stitch Up\Bobby Nobody - Stitch Up_RAW\35_BackingVox04.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    36_BackingVox05.wav:
+      Track_path: Bobby Nobody - Stitch Up\Bobby Nobody - Stitch Up_RAW\36_BackingVox05.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    37_BackingVox06.wav:
+      Track_path: Bobby Nobody - Stitch Up\Bobby Nobody - Stitch Up_RAW\37_BackingVox06.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    38_BackingVox07.wav:
+      Track_path: Bobby Nobody - Stitch Up\Bobby Nobody - Stitch Up_RAW\38_BackingVox07.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    39_BackingVox08.wav:
+      Track_path: Bobby Nobody - Stitch Up\Bobby Nobody - Stitch Up_RAW\39_BackingVox08.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    40_BackingVox09.wav:
+      Track_path: Bobby Nobody - Stitch Up\Bobby Nobody - Stitch Up_RAW\40_BackingVox09.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    41_BackingVox10.wav:
+      Track_path: Bobby Nobody - Stitch Up\Bobby Nobody - Stitch Up_RAW\41_BackingVox10.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    42_BackingVox11.wav:
+      Track_path: Bobby Nobody - Stitch Up\Bobby Nobody - Stitch Up_RAW\42_BackingVox11.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    43_BackingVox12.wav:
+      Track_path: Bobby Nobody - Stitch Up\Bobby Nobody - Stitch Up_RAW\43_BackingVox12.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    44_BackingVox13.wav:
+      Track_path: Bobby Nobody - Stitch Up\Bobby Nobody - Stitch Up_RAW\44_BackingVox13.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Unused:
+    25_ElecGtr12.wav:
+      Track_path: Bobby Nobody - Stitch Up\Bobby Nobody - Stitch Up_RAW\25_ElecGtr12.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Band'
+      Comment: ''
+    29_LeadVoxAdLibs1.wav:
+      Track_path: Bobby Nobody - Stitch Up\Bobby Nobody - Stitch Up_RAW\29_LeadVoxAdLibs1.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Band'
+      Comment: ''
+    30_LeadVoxAdLibs2.wav:
+      Track_path: Bobby Nobody - Stitch Up\Bobby Nobody - Stitch Up_RAW\30_LeadVoxAdLibs2.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Band'
+      Comment: ''
+    31_LeadVoxAdLibs3.wav:
+      Track_path: Bobby Nobody - Stitch Up\Bobby Nobody - Stitch Up_RAW\31_LeadVoxAdLibs3.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Band'
+      Comment: ''
+  Ambient_Microphone: {}

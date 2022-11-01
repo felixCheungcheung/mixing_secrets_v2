@@ -1,0 +1,164 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer: {}
+  SFX: {}
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    DRUMS-KICK-M82-API.wav:
+      Track_path: Leftover Salmon - River's Risin\Leftover Salmon - River's Risin_RAW\DRUMS-KICK-M82-API.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads, Lead_Vocal, Backing_Vocal'
+      Comment: ''
+  Drum_Snare:
+    DRUMS-SNARE-M80-API.wav:
+      Track_path: Leftover Salmon - River's Risin\Leftover Salmon - River's Risin_RAW\DRUMS-SNARE-M80-API.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads, Lead_Vocal, Backing_Vocal'
+      Comment: ''
+  Drum_HiHat: {}
+  Drum_Cymbals: {}
+  Drum_Overheads:
+    DRUMS- OH L-M60-API.wav:
+      Track_path: Leftover Salmon - River's Risin\Leftover Salmon - River's Risin_RAW\DRUMS-
+        OH L-M60-API.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Acoustic_Guitar, Lead_Vocal, Backing_Vocal'
+      Comment: ''
+    DRUMS- OH R-M60-API.wav:
+      Track_path: Leftover Salmon - River's Risin\Leftover Salmon - River's Risin_RAW\DRUMS-
+        OH R-M60-API.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Acoustic_Guitar, Lead_Vocal, Backing_Vocal'
+      Comment: ''
+  Drum_Tom:
+    DRUMS-TOM 1-M81-API.wav:
+      Track_path: Leftover Salmon - River's Risin\Leftover Salmon - River's Risin_RAW\DRUMS-TOM
+        1-M81-API.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads, Lead_Vocal, Backing_Vocal'
+      Comment: ''
+    DRUMS-TOM 2-M81-API.wav:
+      Track_path: Leftover Salmon - River's Risin\Leftover Salmon - River's Risin_RAW\DRUMS-TOM
+        2-M81-API.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads, Lead_Vocal, Backing_Vocal'
+      Comment: ''
+    DRUMS-TOM 3-M81-API.wav:
+      Track_path: Leftover Salmon - River's Risin\Leftover Salmon - River's Risin_RAW\DRUMS-TOM
+        3-M81-API.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads, Lead_Vocal, Backing_Vocal'
+      Comment: ''
+  Drum_Room: {}
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop: {}
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass: {}
+  Electric_Bass:
+    BASS-DI-API.wav:
+      Track_path: Leftover Salmon - River's Risin\Leftover Salmon - River's Risin_RAW\BASS-DI-API.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Acoustic_Guitar:
+    BANJO-M260-GRACE.wav:
+      Track_path: Leftover Salmon - River's Risin\Leftover Salmon - River's Risin_RAW\BANJO-M260-GRACE.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads, Lead_Vocal, Backing_Vocal'
+      Comment: ''
+    MANDOLIN-M60-GRACE.wav:
+      Track_path: Leftover Salmon - River's Risin\Leftover Salmon - River's Risin_RAW\MANDOLIN-M60-GRACE.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads, Lead_Vocal, Backing_Vocal'
+      Comment: ''
+    AC GUITAR-M60-GRACE.wav:
+      Track_path: Leftover Salmon - River's Risin\Leftover Salmon - River's Risin_RAW\AC
+        GUITAR-M60-GRACE.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads, Lead_Vocal, Backing_Vocal'
+      Comment: ''
+  Electric_Guitar: {}
+  Piano: {}
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    VOX MANDOLIN-251-GRACE.wav:
+      Track_path: Leftover Salmon - River's Risin\Leftover Salmon - River's Risin_RAW\VOX
+        MANDOLIN-251-GRACE.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads, Backing_Vocal'
+      Comment: ''
+    VOX MANDOLIN-M80-GRACE.wav:
+      Track_path: Leftover Salmon - River's Risin\Leftover Salmon - River's Risin_RAW\VOX
+        MANDOLIN-M80-GRACE.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads, Backing_Vocal'
+      Comment: ''
+  Choir: {}
+  Backing_Vocal:
+    VOX AC GUITAR-C12-GRACE.wav:
+      Track_path: Leftover Salmon - River's Risin\Leftover Salmon - River's Risin_RAW\VOX
+        AC GUITAR-C12-GRACE.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads, Lead_Vocal'
+      Comment: ''
+    VOX AC GUITAR-M81-GRACE.wav:
+      Track_path: Leftover Salmon - River's Risin\Leftover Salmon - River's Risin_RAW\VOX
+        AC GUITAR-M81-GRACE.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads, Lead_Vocal'
+      Comment: ''
+  Unused:
+    RUFF MIX.wav:
+      Track_path: Leftover Salmon - River's Risin\Leftover Salmon - River's Risin_RAW\RUFF
+        MIX.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Ambient_Microphone: {}

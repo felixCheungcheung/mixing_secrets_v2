@@ -1,0 +1,283 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer:
+    19_Synth.wav:
+      Track_path: Strobe - Gone\Strobe - Gone_RAW\19_Synth.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    27_Synth1.wav:
+      Track_path: Strobe - Gone\Strobe - Gone_RAW\27_Synth1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    28_Synth2.wav:
+      Track_path: Strobe - Gone\Strobe - Gone_RAW\28_Synth2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    29_Synth3.wav:
+      Track_path: Strobe - Gone\Strobe - Gone_RAW\29_Synth3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    30_Synth4.wav:
+      Track_path: Strobe - Gone\Strobe - Gone_RAW\30_Synth4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    31_SynthSFX1.wav:
+      Track_path: Strobe - Gone\Strobe - Gone_RAW\31_SynthSFX1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    32_SynthSFX2.wav:
+      Track_path: Strobe - Gone\Strobe - Gone_RAW\32_SynthSFX2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  SFX:
+    13_SFX1.wav:
+      Track_path: Strobe - Gone\Strobe - Gone_RAW\13_SFX1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    14_SFX2.wav:
+      Track_path: Strobe - Gone\Strobe - Gone_RAW\14_SFX2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    15_SFX3.wav:
+      Track_path: Strobe - Gone\Strobe - Gone_RAW\15_SFX3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    16_SFX4.wav:
+      Track_path: Strobe - Gone\Strobe - Gone_RAW\16_SFX4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    17_SFX5.wav:
+      Track_path: Strobe - Gone\Strobe - Gone_RAW\17_SFX5.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    01_Kick1.wav:
+      Track_path: Strobe - Gone\Strobe - Gone_RAW\01_Kick1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    02_Kick2.wav:
+      Track_path: Strobe - Gone\Strobe - Gone_RAW\02_Kick2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Snare: {}
+  Drum_HiHat: {}
+  Drum_Cymbals:
+    06_Cymbal1.wav:
+      Track_path: Strobe - Gone\Strobe - Gone_RAW\06_Cymbal1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    07_Cymbal2.wav:
+      Track_path: Strobe - Gone\Strobe - Gone_RAW\07_Cymbal2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Overheads: {}
+  Drum_Tom:
+    05_Toms.wav:
+      Track_path: Strobe - Gone\Strobe - Gone_RAW\05_Toms.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Room: {}
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop:
+    08_Loop1.wav:
+      Track_path: Strobe - Gone\Strobe - Gone_RAW\08_Loop1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    09_Loop2.wav:
+      Track_path: Strobe - Gone\Strobe - Gone_RAW\09_Loop2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    10_Loop3.wav:
+      Track_path: Strobe - Gone\Strobe - Gone_RAW\10_Loop3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    11_Loop4.wav:
+      Track_path: Strobe - Gone\Strobe - Gone_RAW\11_Loop4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    12_Fill.wav:
+      Track_path: Strobe - Gone\Strobe - Gone_RAW\12_Fill.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Clicks:
+    03_Clicks.wav:
+      Track_path: Strobe - Gone\Strobe - Gone_RAW\03_Clicks.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Claps:
+    04_Claps.wav:
+      Track_path: Strobe - Gone\Strobe - Gone_RAW\04_Claps.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass:
+    18_Bass.wav:
+      Track_path: Strobe - Gone\Strobe - Gone_RAW\18_Bass.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Electric_Bass: {}
+  Acoustic_Guitar:
+    20_AcousticGtr.wav:
+      Track_path: Strobe - Gone\Strobe - Gone_RAW\20_AcousticGtr.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Electric_Guitar:
+    21_ElecGtr1.wav:
+      Track_path: Strobe - Gone\Strobe - Gone_RAW\21_ElecGtr1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    22_ElecGtr1DT.wav:
+      Track_path: Strobe - Gone\Strobe - Gone_RAW\22_ElecGtr1DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    23_ElecGtr2.wav:
+      Track_path: Strobe - Gone\Strobe - Gone_RAW\23_ElecGtr2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    24_ElecGtr2DT.wav:
+      Track_path: Strobe - Gone\Strobe - Gone_RAW\24_ElecGtr2DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    25_ElecGtr3.wav:
+      Track_path: Strobe - Gone\Strobe - Gone_RAW\25_ElecGtr3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    26_ElecGtr4.wav:
+      Track_path: Strobe - Gone\Strobe - Gone_RAW\26_ElecGtr4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Piano: {}
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    33_LeadVox.wav:
+      Track_path: Strobe - Gone\Strobe - Gone_RAW\33_LeadVox.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    34_LeadVoxDT1.wav:
+      Track_path: Strobe - Gone\Strobe - Gone_RAW\34_LeadVoxDT1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    35_LeadVoxDT2.wav:
+      Track_path: Strobe - Gone\Strobe - Gone_RAW\35_LeadVoxDT2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Choir: {}
+  Backing_Vocal:
+    36_BackingVox1.wav:
+      Track_path: Strobe - Gone\Strobe - Gone_RAW\36_BackingVox1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    37_BackingVox1DT.wav:
+      Track_path: Strobe - Gone\Strobe - Gone_RAW\37_BackingVox1DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    38_BackingVox2.wav:
+      Track_path: Strobe - Gone\Strobe - Gone_RAW\38_BackingVox2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    39_BackingVox2DT.wav:
+      Track_path: Strobe - Gone\Strobe - Gone_RAW\39_BackingVox2DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    40_VoxSFX1.wav:
+      Track_path: Strobe - Gone\Strobe - Gone_RAW\40_VoxSFX1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    41_VoxSFX2.wav:
+      Track_path: Strobe - Gone\Strobe - Gone_RAW\41_VoxSFX2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    42_Whisper.wav:
+      Track_path: Strobe - Gone\Strobe - Gone_RAW\42_Whisper.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Unused: {}
+  Ambient_Microphone: {}

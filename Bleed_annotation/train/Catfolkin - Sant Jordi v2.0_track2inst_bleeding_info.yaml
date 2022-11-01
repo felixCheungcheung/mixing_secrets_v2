@@ -1,0 +1,183 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer:
+    16_Synth.wav:
+      Track_path: Catfolkin - Sant Jordi v2.0\Catfolkin - Sant Jordi v2.0_RAW\16_Synth.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  SFX:
+    09_SFX.wav:
+      Track_path: Catfolkin - Sant Jordi v2.0\Catfolkin - Sant Jordi v2.0_RAW\09_SFX.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Marimba: {}
+  Bell: {}
+  Accordian:
+    17_Accordion.wav:
+      Track_path: Catfolkin - Sant Jordi v2.0\Catfolkin - Sant Jordi v2.0_RAW\17_Accordion.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    01_Kick.wav:
+      Track_path: Catfolkin - Sant Jordi v2.0\Catfolkin - Sant Jordi v2.0_RAW\01_Kick.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Snare:
+    02_Snare.wav:
+      Track_path: Catfolkin - Sant Jordi v2.0\Catfolkin - Sant Jordi v2.0_RAW\02_Snare.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_HiHat:
+    03_HiHat.wav:
+      Track_path: Catfolkin - Sant Jordi v2.0\Catfolkin - Sant Jordi v2.0_RAW\03_HiHat.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Cymbals: {}
+  Drum_Overheads:
+    07_Overheads.wav:
+      Track_path: Catfolkin - Sant Jordi v2.0\Catfolkin - Sant Jordi v2.0_RAW\07_Overheads.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Tom:
+    04_Tom1.wav:
+      Track_path: Catfolkin - Sant Jordi v2.0\Catfolkin - Sant Jordi v2.0_RAW\04_Tom1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    05_Tom2.wav:
+      Track_path: Catfolkin - Sant Jordi v2.0\Catfolkin - Sant Jordi v2.0_RAW\05_Tom2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    06_Tom3.wav:
+      Track_path: Catfolkin - Sant Jordi v2.0\Catfolkin - Sant Jordi v2.0_RAW\06_Tom3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Room:
+    08_DrumsRoom.wav:
+      Track_path: Catfolkin - Sant Jordi v2.0\Catfolkin - Sant Jordi v2.0_RAW\08_DrumsRoom.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop: {}
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass: {}
+  Electric_Bass:
+    10_Bass.wav:
+      Track_path: Catfolkin - Sant Jordi v2.0\Catfolkin - Sant Jordi v2.0_RAW\10_Bass.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Acoustic_Guitar:
+    14_AcousticGtr1.wav:
+      Track_path: Catfolkin - Sant Jordi v2.0\Catfolkin - Sant Jordi v2.0_RAW\14_AcousticGtr1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    15_AcousticGtr2.wav:
+      Track_path: Catfolkin - Sant Jordi v2.0\Catfolkin - Sant Jordi v2.0_RAW\15_AcousticGtr2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Electric_Guitar:
+    11_ElecGtr1.wav:
+      Track_path: Catfolkin - Sant Jordi v2.0\Catfolkin - Sant Jordi v2.0_RAW\11_ElecGtr1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    12_ElecGtr2.wav:
+      Track_path: Catfolkin - Sant Jordi v2.0\Catfolkin - Sant Jordi v2.0_RAW\12_ElecGtr2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    13_ElecGtr3.wav:
+      Track_path: Catfolkin - Sant Jordi v2.0\Catfolkin - Sant Jordi v2.0_RAW\13_ElecGtr3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Piano: {}
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin:
+    19_Violin.wav:
+      Track_path: Catfolkin - Sant Jordi v2.0\Catfolkin - Sant Jordi v2.0_RAW\19_Violin.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Viola: {}
+  Cello: {}
+  Flute:
+    18_Flute.wav:
+      Track_path: Catfolkin - Sant Jordi v2.0\Catfolkin - Sant Jordi v2.0_RAW\18_Flute.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    20_LeadVox.wav:
+      Track_path: Catfolkin - Sant Jordi v2.0\Catfolkin - Sant Jordi v2.0_RAW\20_LeadVox.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Choir: {}
+  Backing_Vocal:
+    21_BackingVox1.wav:
+      Track_path: Catfolkin - Sant Jordi v2.0\Catfolkin - Sant Jordi v2.0_RAW\21_BackingVox1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    22_BackingVox2.wav:
+      Track_path: Catfolkin - Sant Jordi v2.0\Catfolkin - Sant Jordi v2.0_RAW\22_BackingVox2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Unused: {}
+  Ambient_Microphone: {}

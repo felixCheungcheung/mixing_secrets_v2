@@ -1,0 +1,203 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer:
+    14_SynthArp1.wav:
+      Track_path: APZX - Transcention\APZX - Transcention_RAW\14_SynthArp1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    15_SynthArp2.wav:
+      Track_path: APZX - Transcention\APZX - Transcention_RAW\15_SynthArp2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    16_SynthLead1.wav:
+      Track_path: APZX - Transcention\APZX - Transcention_RAW\16_SynthLead1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    17_SynthLead2.wav:
+      Track_path: APZX - Transcention\APZX - Transcention_RAW\17_SynthLead2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    19_ElectroChoir.wav:
+      Track_path: APZX - Transcention\APZX - Transcention_RAW\19_ElectroChoir.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  SFX:
+    20_SFX1.wav:
+      Track_path: APZX - Transcention\APZX - Transcention_RAW\20_SFX1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    21_SFX2.wav:
+      Track_path: APZX - Transcention\APZX - Transcention_RAW\21_SFX2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    22_SFX3.wav:
+      Track_path: APZX - Transcention\APZX - Transcention_RAW\22_SFX3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    23_SFX4.wav:
+      Track_path: APZX - Transcention\APZX - Transcention_RAW\23_SFX4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    24_SFX5.wav:
+      Track_path: APZX - Transcention\APZX - Transcention_RAW\24_SFX5.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    25_SFX6.wav:
+      Track_path: APZX - Transcention\APZX - Transcention_RAW\25_SFX6.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    26_SFX7.wav:
+      Track_path: APZX - Transcention\APZX - Transcention_RAW\26_SFX7.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    01_Kick.wav:
+      Track_path: APZX - Transcention\APZX - Transcention_RAW\01_Kick.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Snare:
+    02_Snare.wav:
+      Track_path: APZX - Transcention\APZX - Transcention_RAW\02_Snare.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_HiHat:
+    03_HatOpen.wav:
+      Track_path: APZX - Transcention\APZX - Transcention_RAW\03_HatOpen.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    04_HatClosed1.wav:
+      Track_path: APZX - Transcention\APZX - Transcention_RAW\04_HatClosed1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    05_HatClosed2.wav:
+      Track_path: APZX - Transcention\APZX - Transcention_RAW\05_HatClosed2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Cymbals: {}
+  Drum_Overheads: {}
+  Drum_Tom: {}
+  Drum_Room: {}
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop: {}
+  Clicks: {}
+  Claps:
+    06_Clap.wav:
+      Track_path: APZX - Transcention\APZX - Transcention_RAW\06_Clap.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion:
+    07_Percussion1.wav:
+      Track_path: APZX - Transcention\APZX - Transcention_RAW\07_Percussion1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    08_Percussion2.wav:
+      Track_path: APZX - Transcention\APZX - Transcention_RAW\08_Percussion2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    09_Percussion3.wav:
+      Track_path: APZX - Transcention\APZX - Transcention_RAW\09_Percussion3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    10_Percussion4.wav:
+      Track_path: APZX - Transcention\APZX - Transcention_RAW\10_Percussion4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    11_Percussion5.wav:
+      Track_path: APZX - Transcention\APZX - Transcention_RAW\11_Percussion5.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Synth_Bass:
+    13_Bass2.wav:
+      Track_path: APZX - Transcention\APZX - Transcention_RAW\13_Bass2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Electric_Bass: {}
+  Acoustic_Guitar: {}
+  Electric_Guitar: {}
+  Piano: {}
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section:
+    18_Strings.wav:
+      Track_path: APZX - Transcention\APZX - Transcention_RAW\18_Strings.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal: {}
+  Choir: {}
+  Backing_Vocal: {}
+  Unused:
+    12_Bass1.wav:
+      Track_path: APZX - Transcention\APZX - Transcention_RAW\12_Bass1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Ambient_Microphone: {}

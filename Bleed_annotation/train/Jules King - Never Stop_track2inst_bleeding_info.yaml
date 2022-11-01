@@ -1,0 +1,278 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer:
+    35_Synth1.wav:
+      Track_path: Jules King - Never Stop\Jules King - Never Stop_RAW\35_Synth1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    36_Synth2.wav:
+      Track_path: Jules King - Never Stop\Jules King - Never Stop_RAW\36_Synth2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    37_Synth3.wav:
+      Track_path: Jules King - Never Stop\Jules King - Never Stop_RAW\37_Synth3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    38_Synth4.wav:
+      Track_path: Jules King - Never Stop\Jules King - Never Stop_RAW\38_Synth4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  SFX: {}
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    04_Kick.wav:
+      Track_path: Jules King - Never Stop\Jules King - Never Stop_RAW\04_Kick.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Snare:
+    05_Snare.wav:
+      Track_path: Jules King - Never Stop\Jules King - Never Stop_RAW\05_Snare.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_HiHat:
+    06_HiHat1.wav:
+      Track_path: Jules King - Never Stop\Jules King - Never Stop_RAW\06_HiHat1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    07_HiHat2.wav:
+      Track_path: Jules King - Never Stop\Jules King - Never Stop_RAW\07_HiHat2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    08_HiHat3.wav:
+      Track_path: Jules King - Never Stop\Jules King - Never Stop_RAW\08_HiHat3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    09_HiHat4.wav:
+      Track_path: Jules King - Never Stop\Jules King - Never Stop_RAW\09_HiHat4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Cymbals:
+    10_Ride.wav:
+      Track_path: Jules King - Never Stop\Jules King - Never Stop_RAW\10_Ride.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    11_CymbalWash1.wav:
+      Track_path: Jules King - Never Stop\Jules King - Never Stop_RAW\11_CymbalWash1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    12_CymbalWash2.wav:
+      Track_path: Jules King - Never Stop\Jules King - Never Stop_RAW\12_CymbalWash2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    13_CymbalRoll1.wav:
+      Track_path: Jules King - Never Stop\Jules King - Never Stop_RAW\13_CymbalRoll1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    14_CymbalRoll2.wav:
+      Track_path: Jules King - Never Stop\Jules King - Never Stop_RAW\14_CymbalRoll2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    15_Cymbal1.wav:
+      Track_path: Jules King - Never Stop\Jules King - Never Stop_RAW\15_Cymbal1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    16_Cymbal2.wav:
+      Track_path: Jules King - Never Stop\Jules King - Never Stop_RAW\16_Cymbal2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    17_Cymbal3.wav:
+      Track_path: Jules King - Never Stop\Jules King - Never Stop_RAW\17_Cymbal3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    18_Cymbal4.wav:
+      Track_path: Jules King - Never Stop\Jules King - Never Stop_RAW\18_Cymbal4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Overheads: {}
+  Drum_Tom: {}
+  Drum_Room: {}
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop:
+    01_Loop1.wav:
+      Track_path: Jules King - Never Stop\Jules King - Never Stop_RAW\01_Loop1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    02_Loop2.wav:
+      Track_path: Jules King - Never Stop\Jules King - Never Stop_RAW\02_Loop2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    03_Loop3.wav:
+      Track_path: Jules King - Never Stop\Jules King - Never Stop_RAW\03_Loop3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass: {}
+  Electric_Bass:
+    19_Bass.wav:
+      Track_path: Jules King - Never Stop\Jules King - Never Stop_RAW\19_Bass.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Acoustic_Guitar: {}
+  Electric_Guitar:
+    20_ElecGtr01.wav:
+      Track_path: Jules King - Never Stop\Jules King - Never Stop_RAW\20_ElecGtr01.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    21_ElecGtr02.wav:
+      Track_path: Jules King - Never Stop\Jules King - Never Stop_RAW\21_ElecGtr02.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    22_ElecGtr03.wav:
+      Track_path: Jules King - Never Stop\Jules King - Never Stop_RAW\22_ElecGtr03.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    23_ElecGtr04.wav:
+      Track_path: Jules King - Never Stop\Jules King - Never Stop_RAW\23_ElecGtr04.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    24_ElecGtr05.wav:
+      Track_path: Jules King - Never Stop\Jules King - Never Stop_RAW\24_ElecGtr05.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    25_ElecGtr06.wav:
+      Track_path: Jules King - Never Stop\Jules King - Never Stop_RAW\25_ElecGtr06.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    26_ElecGtr07.wav:
+      Track_path: Jules King - Never Stop\Jules King - Never Stop_RAW\26_ElecGtr07.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    27_ElecGtr07.wav:
+      Track_path: Jules King - Never Stop\Jules King - Never Stop_RAW\27_ElecGtr07.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    28_ElecGtr08.wav:
+      Track_path: Jules King - Never Stop\Jules King - Never Stop_RAW\28_ElecGtr08.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    29_ElecGtr09.wav:
+      Track_path: Jules King - Never Stop\Jules King - Never Stop_RAW\29_ElecGtr09.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    30_ElecGtr10.wav:
+      Track_path: Jules King - Never Stop\Jules King - Never Stop_RAW\30_ElecGtr10.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    31_ElecGtr11.wav:
+      Track_path: Jules King - Never Stop\Jules King - Never Stop_RAW\31_ElecGtr11.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    32_ElecGtr12.wav:
+      Track_path: Jules King - Never Stop\Jules King - Never Stop_RAW\32_ElecGtr12.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    33_ElecGtr13.wav:
+      Track_path: Jules King - Never Stop\Jules King - Never Stop_RAW\33_ElecGtr13.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Piano: {}
+  Electric_Piano:
+    34_Rhodes.wav:
+      Track_path: Jules King - Never Stop\Jules King - Never Stop_RAW\34_Rhodes.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    39_LeadVox.wav:
+      Track_path: Jules King - Never Stop\Jules King - Never Stop_RAW\39_LeadVox.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Choir: {}
+  Backing_Vocal:
+    40_BackingVox1.wav:
+      Track_path: Jules King - Never Stop\Jules King - Never Stop_RAW\40_BackingVox1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    41_BackingVox2.wav:
+      Track_path: Jules King - Never Stop\Jules King - Never Stop_RAW\41_BackingVox2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Unused: {}
+  Ambient_Microphone: {}

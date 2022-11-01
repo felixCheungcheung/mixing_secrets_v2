@@ -1,0 +1,123 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer:
+    08_Synth1.wav:
+      Track_path: Eddie Garrido - 5th Floor\Eddie Garrido - 5th Floor_RAW\08_Synth1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    09_Synth2.wav:
+      Track_path: Eddie Garrido - 5th Floor\Eddie Garrido - 5th Floor_RAW\09_Synth2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    10_Synth3.wav:
+      Track_path: Eddie Garrido - 5th Floor\Eddie Garrido - 5th Floor_RAW\10_Synth3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  SFX: {}
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick: {}
+  Drum_Snare: {}
+  Drum_HiHat: {}
+  Drum_Cymbals:
+    03_Cymbals.wav:
+      Track_path: Eddie Garrido - 5th Floor\Eddie Garrido - 5th Floor_RAW\03_Cymbals.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Overheads: {}
+  Drum_Tom:
+    02_Toms.wav:
+      Track_path: Eddie Garrido - 5th Floor\Eddie Garrido - 5th Floor_RAW\02_Toms.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Room: {}
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop: {}
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion:
+    01_Loops.wav:
+      Track_path: Eddie Garrido - 5th Floor\Eddie Garrido - 5th Floor_RAW\01_Loops.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    04_Percussion.wav:
+      Track_path: Eddie Garrido - 5th Floor\Eddie Garrido - 5th Floor_RAW\04_Percussion.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Synth_Bass: {}
+  Electric_Bass:
+    05_Bass.wav:
+      Track_path: Eddie Garrido - 5th Floor\Eddie Garrido - 5th Floor_RAW\05_Bass.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Acoustic_Guitar: {}
+  Electric_Guitar:
+    07_ElecGtr.wav:
+      Track_path: Eddie Garrido - 5th Floor\Eddie Garrido - 5th Floor_RAW\07_ElecGtr.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Piano: {}
+  Electric_Piano:
+    06_ElecPiano.wav:
+      Track_path: Eddie Garrido - 5th Floor\Eddie Garrido - 5th Floor_RAW\06_ElecPiano.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal: {}
+  Choir: {}
+  Backing_Vocal: {}
+  Unused: {}
+  Ambient_Microphone: {}

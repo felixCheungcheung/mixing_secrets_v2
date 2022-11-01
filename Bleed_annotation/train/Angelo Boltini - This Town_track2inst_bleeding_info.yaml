@@ -1,0 +1,453 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer:
+    31_Synth1.wav:
+      Track_path: Angelo Boltini - This Town\Angelo Boltini - This Town_RAW\31_Synth1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    32_Synth2.wav:
+      Track_path: Angelo Boltini - This Town\Angelo Boltini - This Town_RAW\32_Synth2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    33_Synth3.wav:
+      Track_path: Angelo Boltini - This Town\Angelo Boltini - This Town_RAW\33_Synth3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    34_Synth4.wav:
+      Track_path: Angelo Boltini - This Town\Angelo Boltini - This Town_RAW\34_Synth4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    37_SynthSFX3.wav:
+      Track_path: Angelo Boltini - This Town\Angelo Boltini - This Town_RAW\37_SynthSFX3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    38_SynthSFX4.wav:
+      Track_path: Angelo Boltini - This Town\Angelo Boltini - This Town_RAW\38_SynthSFX4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  SFX:
+    35_SynthSFX1.wav:
+      Track_path: Angelo Boltini - This Town\Angelo Boltini - This Town_RAW\35_SynthSFX1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    36_SynthSFX2.wav:
+      Track_path: Angelo Boltini - This Town\Angelo Boltini - This Town_RAW\36_SynthSFX2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    01_Kick.wav:
+      Track_path: Angelo Boltini - This Town\Angelo Boltini - This Town_RAW\01_Kick.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads'
+      Comment: ''
+    02_KickSide.wav:
+      Track_path: Angelo Boltini - This Town\Angelo Boltini - This Town_RAW\02_KickSide.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads'
+      Comment: ''
+  Drum_Snare:
+    03_Snare.wav:
+      Track_path: Angelo Boltini - This Town\Angelo Boltini - This Town_RAW\03_Snare.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads'
+      Comment: ''
+  Drum_HiHat: {}
+  Drum_Cymbals:
+    06_Ride.wav:
+      Track_path: Angelo Boltini - This Town\Angelo Boltini - This Town_RAW\06_Ride.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads'
+      Comment: ''
+  Drum_Overheads:
+    07_Overheads.wav:
+      Track_path: Angelo Boltini - This Town\Angelo Boltini - This Town_RAW\07_Overheads.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    08_DrumsPZM.wav:
+      Track_path: Angelo Boltini - This Town\Angelo Boltini - This Town_RAW\08_DrumsPZM.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    09_DrumsWurstMic.wav:
+      Track_path: Angelo Boltini - This Town\Angelo Boltini - This Town_RAW\09_DrumsWurstMic.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Tom:
+    04_Tom1.wav:
+      Track_path: Angelo Boltini - This Town\Angelo Boltini - This Town_RAW\04_Tom1.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads'
+      Comment: ''
+    05_Tom2.wav:
+      Track_path: Angelo Boltini - This Town\Angelo Boltini - This Town_RAW\05_Tom2.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads'
+      Comment: ''
+  Drum_Room:
+    12_DrumsRoomMonoFX.wav:
+      Track_path: Angelo Boltini - This Town\Angelo Boltini - This Town_RAW\12_DrumsRoomMonoFX.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine:
+    13_Tambourine1.wav:
+      Track_path: Angelo Boltini - This Town\Angelo Boltini - This Town_RAW\13_Tambourine1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    14_Tambourine2.wav:
+      Track_path: Angelo Boltini - This Town\Angelo Boltini - This Town_RAW\14_Tambourine2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    15_Tambourine3.wav:
+      Track_path: Angelo Boltini - This Town\Angelo Boltini - This Town_RAW\15_Tambourine3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Loop: {}
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass: {}
+  Electric_Bass:
+    16_BassAmp.wav:
+      Track_path: Angelo Boltini - This Town\Angelo Boltini - This Town_RAW\16_BassAmp.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    17_BassDI.wav:
+      Track_path: Angelo Boltini - This Town\Angelo Boltini - This Town_RAW\17_BassDI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Acoustic_Guitar:
+    18_AcGtr1Mic1.wav:
+      Track_path: Angelo Boltini - This Town\Angelo Boltini - This Town_RAW\18_AcGtr1Mic1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    19_AcGtr1Mic2.wav:
+      Track_path: Angelo Boltini - This Town\Angelo Boltini - This Town_RAW\19_AcGtr1Mic2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    20_AcGtr1Mic3.wav:
+      Track_path: Angelo Boltini - This Town\Angelo Boltini - This Town_RAW\20_AcGtr1Mic3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    21_AcGtr2Mic1.wav:
+      Track_path: Angelo Boltini - This Town\Angelo Boltini - This Town_RAW\21_AcGtr2Mic1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    22_AcGtr2Mic2.wav:
+      Track_path: Angelo Boltini - This Town\Angelo Boltini - This Town_RAW\22_AcGtr2Mic2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    23_AcGtr2Mic3.wav:
+      Track_path: Angelo Boltini - This Town\Angelo Boltini - This Town_RAW\23_AcGtr2Mic3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Electric_Guitar:
+    24_ElecGtr1.wav:
+      Track_path: Angelo Boltini - This Town\Angelo Boltini - This Town_RAW\24_ElecGtr1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    25_ElecGtr2.wav:
+      Track_path: Angelo Boltini - This Town\Angelo Boltini - This Town_RAW\25_ElecGtr2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    26_ElecGtr3.wav:
+      Track_path: Angelo Boltini - This Town\Angelo Boltini - This Town_RAW\26_ElecGtr3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    27_ElecGtr4.wav:
+      Track_path: Angelo Boltini - This Town\Angelo Boltini - This Town_RAW\27_ElecGtr4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    28_ElecGtr5.wav:
+      Track_path: Angelo Boltini - This Town\Angelo Boltini - This Town_RAW\28_ElecGtr5.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    29_ElecGtr6.wav:
+      Track_path: Angelo Boltini - This Town\Angelo Boltini - This Town_RAW\29_ElecGtr6.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Piano:
+    30_Piano.wav:
+      Track_path: Angelo Boltini - This Town\Angelo Boltini - This Town_RAW\30_Piano.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section:
+    43_Strings_MicPair1.wav:
+      Track_path: Angelo Boltini - This Town\Angelo Boltini - This Town_RAW\43_Strings_MicPair1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    44_Strings_MicPair2.wav:
+      Track_path: Angelo Boltini - This Town\Angelo Boltini - This Town_RAW\44_Strings_MicPair2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    45_Strings_MicPair3.wav:
+      Track_path: Angelo Boltini - This Town\Angelo Boltini - This Town_RAW\45_Strings_MicPair3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    46_Strings_SectionMic_VlnI.wav:
+      Track_path: Angelo Boltini - This Town\Angelo Boltini - This Town_RAW\46_Strings_SectionMic_VlnI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    47_Strings_SectionMic_Vln2.wav:
+      Track_path: Angelo Boltini - This Town\Angelo Boltini - This Town_RAW\47_Strings_SectionMic_Vln2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    48_Strings_SectionMic_Vla.wav:
+      Track_path: Angelo Boltini - This Town\Angelo Boltini - This Town_RAW\48_Strings_SectionMic_Vla.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    49_Strings_SectionMic_Cello.wav:
+      Track_path: Angelo Boltini - This Town\Angelo Boltini - This Town_RAW\49_Strings_SectionMic_Cello.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    50_Strings_CellosCloseMic.wav:
+      Track_path: Angelo Boltini - This Town\Angelo Boltini - This Town_RAW\50_Strings_CellosCloseMic.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    51_ReverseStrings_Mic1.wav:
+      Track_path: Angelo Boltini - This Town\Angelo Boltini - This Town_RAW\51_ReverseStrings_Mic1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    52_ReverseStrings_Mic2.wav:
+      Track_path: Angelo Boltini - This Town\Angelo Boltini - This Town_RAW\52_ReverseStrings_Mic2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello:
+    39_Cellos_MicPair1.wav:
+      Track_path: Angelo Boltini - This Town\Angelo Boltini - This Town_RAW\39_Cellos_MicPair1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    40_Cellos_MicPair2.wav:
+      Track_path: Angelo Boltini - This Town\Angelo Boltini - This Town_RAW\40_Cellos_MicPair2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    41_Cellos_MicPair3.wav:
+      Track_path: Angelo Boltini - This Town\Angelo Boltini - This Town_RAW\41_Cellos_MicPair3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    42_Cellos_CloseMic.wav:
+      Track_path: Angelo Boltini - This Town\Angelo Boltini - This Town_RAW\42_Cellos_CloseMic.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    53_LeadVox_Singer1.wav:
+      Track_path: Angelo Boltini - This Town\Angelo Boltini - This Town_RAW\53_LeadVox_Singer1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    54_LeadVoxDT1_Singer1.wav:
+      Track_path: Angelo Boltini - This Town\Angelo Boltini - This Town_RAW\54_LeadVoxDT1_Singer1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    55_LeadVoxDT2_Singer1.wav:
+      Track_path: Angelo Boltini - This Town\Angelo Boltini - This Town_RAW\55_LeadVoxDT2_Singer1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Choir: {}
+  Backing_Vocal:
+    56_BackingVox01_Singer1.wav:
+      Track_path: Angelo Boltini - This Town\Angelo Boltini - This Town_RAW\56_BackingVox01_Singer1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    57_BackingVox02a_Singer2.wav:
+      Track_path: Angelo Boltini - This Town\Angelo Boltini - This Town_RAW\57_BackingVox02a_Singer2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    58_BackingVox02b_Singer3.wav:
+      Track_path: Angelo Boltini - This Town\Angelo Boltini - This Town_RAW\58_BackingVox02b_Singer3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    59_BackingVox03a_Singer2.wav:
+      Track_path: Angelo Boltini - This Town\Angelo Boltini - This Town_RAW\59_BackingVox03a_Singer2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    60_BackingVox03b_Singer3.wav:
+      Track_path: Angelo Boltini - This Town\Angelo Boltini - This Town_RAW\60_BackingVox03b_Singer3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    61_BackingVox04a_Singer2.wav:
+      Track_path: Angelo Boltini - This Town\Angelo Boltini - This Town_RAW\61_BackingVox04a_Singer2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    62_BackingVox04b_Singer3.wav:
+      Track_path: Angelo Boltini - This Town\Angelo Boltini - This Town_RAW\62_BackingVox04b_Singer3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    63_BackingVox05a_Singer2.wav:
+      Track_path: Angelo Boltini - This Town\Angelo Boltini - This Town_RAW\63_BackingVox05a_Singer2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    64_BackingVox05b_Singer3.wav:
+      Track_path: Angelo Boltini - This Town\Angelo Boltini - This Town_RAW\64_BackingVox05b_Singer3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    65_BackingVox06a_Singer2.wav:
+      Track_path: Angelo Boltini - This Town\Angelo Boltini - This Town_RAW\65_BackingVox06a_Singer2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    66_BackingVox06b_Singer3.wav:
+      Track_path: Angelo Boltini - This Town\Angelo Boltini - This Town_RAW\66_BackingVox06b_Singer3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    67_BackingVox07a_Singer2.wav:
+      Track_path: Angelo Boltini - This Town\Angelo Boltini - This Town_RAW\67_BackingVox07a_Singer2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    68_BackingVox07b_Singer3.wav:
+      Track_path: Angelo Boltini - This Town\Angelo Boltini - This Town_RAW\68_BackingVox07b_Singer3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    69_BackingVox08a_Singer2.wav:
+      Track_path: Angelo Boltini - This Town\Angelo Boltini - This Town_RAW\69_BackingVox08a_Singer2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    70_BackingVox08b_Singer3.wav:
+      Track_path: Angelo Boltini - This Town\Angelo Boltini - This Town_RAW\70_BackingVox08b_Singer3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    71_BackingVox09_Singer1.wav:
+      Track_path: Angelo Boltini - This Town\Angelo Boltini - This Town_RAW\71_BackingVox09_Singer1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    72_BackingVox09DT_Singer1.wav:
+      Track_path: Angelo Boltini - This Town\Angelo Boltini - This Town_RAW\72_BackingVox09DT_Singer1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    73_BackingVox10_Singer1.wav:
+      Track_path: Angelo Boltini - This Town\Angelo Boltini - This Town_RAW\73_BackingVox10_Singer1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    74_BackingVox10DT_Singer1.wav:
+      Track_path: Angelo Boltini - This Town\Angelo Boltini - This Town_RAW\74_BackingVox10DT_Singer1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    75_BackingVox11_Singer1.wav:
+      Track_path: Angelo Boltini - This Town\Angelo Boltini - This Town_RAW\75_BackingVox11_Singer1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    76_BackingVox11DT_Singer1.wav:
+      Track_path: Angelo Boltini - This Town\Angelo Boltini - This Town_RAW\76_BackingVox11DT_Singer1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Unused:
+    10_DrumsRoom.wav:
+      Track_path: Angelo Boltini - This Town\Angelo Boltini - This Town_RAW\10_DrumsRoom.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    11_DrumsRoomMono.wav:
+      Track_path: Angelo Boltini - This Town\Angelo Boltini - This Town_RAW\11_DrumsRoomMono.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Ambient_Microphone: {}

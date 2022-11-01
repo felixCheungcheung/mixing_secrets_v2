@@ -1,0 +1,203 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer: {}
+  SFX: {}
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    01_KickIn.wav:
+      Track_path: Fergessen - Back From The Start\Fergessen - Back From The Start_RAW\01_KickIn.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    02_KickOut.wav:
+      Track_path: Fergessen - Back From The Start\Fergessen - Back From The Start_RAW\02_KickOut.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_Snare:
+    03_SnareUp.wav:
+      Track_path: Fergessen - Back From The Start\Fergessen - Back From The Start_RAW\03_SnareUp.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    04_SnareDown.wav:
+      Track_path: Fergessen - Back From The Start\Fergessen - Back From The Start_RAW\04_SnareDown.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_HiHat: {}
+  Drum_Cymbals: {}
+  Drum_Overheads:
+    07_Overheads.wav:
+      Track_path: Fergessen - Back From The Start\Fergessen - Back From The Start_RAW\07_Overheads.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    08-130624_1035.wav:
+      Track_path: Fergessen - Back From The Start\Fergessen - Back From The Start_RAW\08-130624_1035.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    11-130624_1035.wav:
+      Track_path: Fergessen - Back From The Start\Fergessen - Back From The Start_RAW\11-130624_1035.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Tom:
+    05_Tom1.wav:
+      Track_path: Fergessen - Back From The Start\Fergessen - Back From The Start_RAW\05_Tom1.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    06_Tom2.wav:
+      Track_path: Fergessen - Back From The Start\Fergessen - Back From The Start_RAW\06_Tom2.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_Room:
+    08_DrumsRoomStereo.wav:
+      Track_path: Fergessen - Back From The Start\Fergessen - Back From The Start_RAW\08_DrumsRoomStereo.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    09_DrumsRoomMono.wav:
+      Track_path: Fergessen - Back From The Start\Fergessen - Back From The Start_RAW\09_DrumsRoomMono.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop: {}
+  Clicks: {}
+  Claps: {}
+  Djembe:
+    11_DjembeFX.wav:
+      Track_path: Fergessen - Back From The Start\Fergessen - Back From The Start_RAW\11_DjembeFX.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion:
+    10_Percussion.wav:
+      Track_path: Fergessen - Back From The Start\Fergessen - Back From The Start_RAW\10_Percussion.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Synth_Bass: {}
+  Electric_Bass:
+    12_Bass.wav:
+      Track_path: Fergessen - Back From The Start\Fergessen - Back From The Start_RAW\12_Bass.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Acoustic_Guitar:
+    16_AcousticGtr.wav:
+      Track_path: Fergessen - Back From The Start\Fergessen - Back From The Start_RAW\16_AcousticGtr.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Electric_Guitar:
+    14_ElecGtrClose.wav:
+      Track_path: Fergessen - Back From The Start\Fergessen - Back From The Start_RAW\14_ElecGtrClose.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    15_ElecGtrFar.wav:
+      Track_path: Fergessen - Back From The Start\Fergessen - Back From The Start_RAW\15_ElecGtrFar.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    15-130624_1040.wav:
+      Track_path: Fergessen - Back From The Start\Fergessen - Back From The Start_RAW\15-130624_1040.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Piano: {}
+  Electric_Piano:
+    13_Rhodes.wav:
+      Track_path: Fergessen - Back From The Start\Fergessen - Back From The Start_RAW\13_Rhodes.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: 'The first part of Rhodes serves as Synth Bass. Then the bass voice of rhodes disapear so that the real electric bass comes in.'
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    17_LeadVox.wav:
+      Track_path: Fergessen - Back From The Start\Fergessen - Back From The Start_RAW\17_LeadVox.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Choir: {}
+  Backing_Vocal:
+    18_BackingVox1.wav:
+      Track_path: Fergessen - Back From The Start\Fergessen - Back From The Start_RAW\18_BackingVox1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    19_BackingVox2.wav:
+      Track_path: Fergessen - Back From The Start\Fergessen - Back From The Start_RAW\19_BackingVox2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    20_BackingVox3.wav:
+      Track_path: Fergessen - Back From The Start\Fergessen - Back From The Start_RAW\20_BackingVox3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    21_BackingVox4.wav:
+      Track_path: Fergessen - Back From The Start\Fergessen - Back From The Start_RAW\21_BackingVox4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    22_BackingVox5.wav:
+      Track_path: Fergessen - Back From The Start\Fergessen - Back From The Start_RAW\22_BackingVox5.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    23_BackingVox6.wav:
+      Track_path: Fergessen - Back From The Start\Fergessen - Back From The Start_RAW\23_BackingVox6.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Unused: {}
+  Ambient_Microphone: {}

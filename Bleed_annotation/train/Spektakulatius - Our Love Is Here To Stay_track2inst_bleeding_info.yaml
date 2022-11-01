@@ -1,0 +1,133 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer: {}
+  SFX: {}
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    01_Kick.wav:
+      Track_path: Spektakulatius - Our Love Is Here To Stay\Spektakulatius - Our Love
+        Is Here To Stay_RAW\01_Kick.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads, Double_Bass, Piano'
+      Comment: ''
+  Drum_Snare:
+    02_Snare.wav:
+      Track_path: Spektakulatius - Our Love Is Here To Stay\Spektakulatius - Our Love
+        Is Here To Stay_RAW\02_Snare.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads, Double_Bass, Piano'
+      Comment: ''
+  Drum_HiHat: {}
+  Drum_Cymbals: {}
+  Drum_Overheads:
+    03_Overheads.wav:
+      Track_path: Spektakulatius - Our Love Is Here To Stay\Spektakulatius - Our Love
+        Is Here To Stay_RAW\03_Overheads.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Double_Bass, Piano'
+      Comment: ''
+  Drum_Tom:
+    04_Toms.wav:
+      Track_path: Spektakulatius - Our Love Is Here To Stay\Spektakulatius - Our Love
+        Is Here To Stay_RAW\04_Toms.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads, Double_Bass, Piano'
+      Comment: ''
+  Drum_Room: {}
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop: {}
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass: {}
+  Electric_Bass: {}
+  Acoustic_Guitar: {}
+  Electric_Guitar:
+    08_ElecGtr.wav:
+      Track_path: Spektakulatius - Our Love Is Here To Stay\Spektakulatius - Our Love
+        Is Here To Stay_RAW\08_ElecGtr.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Piano:
+    07_Piano.wav:
+      Track_path: Spektakulatius - Our Love Is Here To Stay\Spektakulatius - Our Love
+        Is Here To Stay_RAW\07_Piano.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads'
+      Comment: ''
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone:
+    09_Sax.wav:
+      Track_path: Spektakulatius - Our Love Is Here To Stay\Spektakulatius - Our Love
+        Is Here To Stay_RAW\09_Sax.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass:
+    05_BassMic.wav:
+      Track_path: Spektakulatius - Our Love Is Here To Stay\Spektakulatius - Our Love
+        Is Here To Stay_RAW\05_BassMic.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads, Piano'
+      Comment: ''
+    06_BassDI.wav:
+      Track_path: Spektakulatius - Our Love Is Here To Stay\Spektakulatius - Our Love
+        Is Here To Stay_RAW\06_BassDI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    10_LeadVox.wav:
+      Track_path: Spektakulatius - Our Love Is Here To Stay\Spektakulatius - Our Love
+        Is Here To Stay_RAW\10_LeadVox.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads, Double_Bass, Piano'
+      Comment: ''
+  Choir: {}
+  Backing_Vocal: {}
+  Unused: {}
+  Ambient_Microphone: {}

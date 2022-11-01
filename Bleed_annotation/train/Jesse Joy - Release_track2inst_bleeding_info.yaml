@@ -1,0 +1,168 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer: {}
+  SFX: {}
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    01_Kick1.wav:
+      Track_path: Jesse Joy - Release\Jesse Joy - Release_RAW\01_Kick1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    02_Kick2.wav:
+      Track_path: Jesse Joy - Release\Jesse Joy - Release_RAW\02_Kick2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Snare: {}
+  Drum_HiHat: {}
+  Drum_Cymbals:
+    05_ReverseCymbal.wav:
+      Track_path: Jesse Joy - Release\Jesse Joy - Release_RAW\05_ReverseCymbal.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Overheads: {}
+  Drum_Tom: {}
+  Drum_Room: {}
+  Shaker:
+    04_Shaker.wav:
+      Track_path: Jesse Joy - Release\Jesse Joy - Release_RAW\04_Shaker.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop:
+    03_Loop.wav:
+      Track_path: Jesse Joy - Release\Jesse Joy - Release_RAW\03_Loop.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass: {}
+  Electric_Bass: {}
+  Acoustic_Guitar:
+    06_AcousticGtr1Mic1.wav:
+      Track_path: Jesse Joy - Release\Jesse Joy - Release_RAW\06_AcousticGtr1Mic1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    07_AcousticGtr1Mic2.wav:
+      Track_path: Jesse Joy - Release\Jesse Joy - Release_RAW\07_AcousticGtr1Mic2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    08_AcousticGtr2.wav:
+      Track_path: Jesse Joy - Release\Jesse Joy - Release_RAW\08_AcousticGtr2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    09_AcousticGtr2Reverse.wav:
+      Track_path: Jesse Joy - Release\Jesse Joy - Release_RAW\09_AcousticGtr2Reverse.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    10_AcousticGtr2DT.wav:
+      Track_path: Jesse Joy - Release\Jesse Joy - Release_RAW\10_AcousticGtr2DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    11_AcousticGtr2DTReverse.wav:
+      Track_path: Jesse Joy - Release\Jesse Joy - Release_RAW\11_AcousticGtr2DTReverse.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Electric_Guitar: {}
+  Piano: {}
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello:
+    12_Cello1Mic1.wav:
+      Track_path: Jesse Joy - Release\Jesse Joy - Release_RAW\12_Cello1Mic1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    13_Cello1Mic2.wav:
+      Track_path: Jesse Joy - Release\Jesse Joy - Release_RAW\13_Cello1Mic2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    14_Cello2Mic1.wav:
+      Track_path: Jesse Joy - Release\Jesse Joy - Release_RAW\14_Cello2Mic1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    15_Cello2Mic2.wav:
+      Track_path: Jesse Joy - Release\Jesse Joy - Release_RAW\15_Cello2Mic2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    16_Cello3Mic1.wav:
+      Track_path: Jesse Joy - Release\Jesse Joy - Release_RAW\16_Cello3Mic1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    17_Cello3Mic2.wav:
+      Track_path: Jesse Joy - Release\Jesse Joy - Release_RAW\17_Cello3Mic2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    18_LeadVox.wav:
+      Track_path: Jesse Joy - Release\Jesse Joy - Release_RAW\18_LeadVox.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    19_LeadVoxDT.wav:
+      Track_path: Jesse Joy - Release\Jesse Joy - Release_RAW\19_LeadVoxDT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Choir: {}
+  Backing_Vocal: {}
+  Unused: {}
+  Ambient_Microphone: {}

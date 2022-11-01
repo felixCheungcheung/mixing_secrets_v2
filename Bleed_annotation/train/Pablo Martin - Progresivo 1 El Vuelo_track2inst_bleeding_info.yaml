@@ -1,0 +1,427 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer:
+    56_Synth1.wav:
+      Track_path: Pablo Martin - Progresivo 1 El Vuelo\Pablo Martin - Progresivo 1
+        El Vuelo_RAW\56_Synth1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    57_Synth2.wav:
+      Track_path: Pablo Martin - Progresivo 1 El Vuelo\Pablo Martin - Progresivo 1
+        El Vuelo_RAW\57_Synth2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    58_Synth3.wav:
+      Track_path: Pablo Martin - Progresivo 1 El Vuelo\Pablo Martin - Progresivo 1
+        El Vuelo_RAW\58_Synth3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    59_Synth4.wav:
+      Track_path: Pablo Martin - Progresivo 1 El Vuelo\Pablo Martin - Progresivo 1
+        El Vuelo_RAW\59_Synth4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  SFX:
+    26_SFX1.wav:
+      Track_path: Pablo Martin - Progresivo 1 El Vuelo\Pablo Martin - Progresivo 1
+        El Vuelo_RAW\26_SFX1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    27_SFX2.wav:
+      Track_path: Pablo Martin - Progresivo 1 El Vuelo\Pablo Martin - Progresivo 1
+        El Vuelo_RAW\27_SFX2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    28_SFX3.wav:
+      Track_path: Pablo Martin - Progresivo 1 El Vuelo\Pablo Martin - Progresivo 1
+        El Vuelo_RAW\28_SFX3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Marimba:
+    55_Marimba.wav:
+      Track_path: Pablo Martin - Progresivo 1 El Vuelo\Pablo Martin - Progresivo 1
+        El Vuelo_RAW\55_Marimba.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Bell:
+    54_Bells.wav:
+      Track_path: Pablo Martin - Progresivo 1 El Vuelo\Pablo Martin - Progresivo 1
+        El Vuelo_RAW\54_Bells.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    01_Kick.wav:
+      Track_path: Pablo Martin - Progresivo 1 El Vuelo\Pablo Martin - Progresivo 1
+        El Vuelo_RAW\01_Kick.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Snare:
+    02_Snare1.wav:
+      Track_path: Pablo Martin - Progresivo 1 El Vuelo\Pablo Martin - Progresivo 1
+        El Vuelo_RAW\02_Snare1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    03_Snare2a.wav:
+      Track_path: Pablo Martin - Progresivo 1 El Vuelo\Pablo Martin - Progresivo 1
+        El Vuelo_RAW\03_Snare2a.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    04_Snare2b.wav:
+      Track_path: Pablo Martin - Progresivo 1 El Vuelo\Pablo Martin - Progresivo 1
+        El Vuelo_RAW\04_Snare2b.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    05_Snare2c.wav:
+      Track_path: Pablo Martin - Progresivo 1 El Vuelo\Pablo Martin - Progresivo 1
+        El Vuelo_RAW\05_Snare2c.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    06_Snare2d.wav:
+      Track_path: Pablo Martin - Progresivo 1 El Vuelo\Pablo Martin - Progresivo 1
+        El Vuelo_RAW\06_Snare2d.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    07_Snare2e.wav:
+      Track_path: Pablo Martin - Progresivo 1 El Vuelo\Pablo Martin - Progresivo 1
+        El Vuelo_RAW\07_Snare2e.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_HiHat:
+    16_HiHat.wav:
+      Track_path: Pablo Martin - Progresivo 1 El Vuelo\Pablo Martin - Progresivo 1
+        El Vuelo_RAW\16_HiHat.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Cymbals:
+    17_Ride1.wav:
+      Track_path: Pablo Martin - Progresivo 1 El Vuelo\Pablo Martin - Progresivo 1
+        El Vuelo_RAW\17_Ride1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    18_Rde2.wav:
+      Track_path: Pablo Martin - Progresivo 1 El Vuelo\Pablo Martin - Progresivo 1
+        El Vuelo_RAW\18_Rde2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    19_Cymbal1.wav:
+      Track_path: Pablo Martin - Progresivo 1 El Vuelo\Pablo Martin - Progresivo 1
+        El Vuelo_RAW\19_Cymbal1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    20_Cymbal2.wav:
+      Track_path: Pablo Martin - Progresivo 1 El Vuelo\Pablo Martin - Progresivo 1
+        El Vuelo_RAW\20_Cymbal2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    21_Cymbal3.wav:
+      Track_path: Pablo Martin - Progresivo 1 El Vuelo\Pablo Martin - Progresivo 1
+        El Vuelo_RAW\21_Cymbal3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    22_Cymbal4.wav:
+      Track_path: Pablo Martin - Progresivo 1 El Vuelo\Pablo Martin - Progresivo 1
+        El Vuelo_RAW\22_Cymbal4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Overheads:
+    23_Overheads.wav:
+      Track_path: Pablo Martin - Progresivo 1 El Vuelo\Pablo Martin - Progresivo 1
+        El Vuelo_RAW\23_Overheads.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Tom:
+    08_Tom1.wav:
+      Track_path: Pablo Martin - Progresivo 1 El Vuelo\Pablo Martin - Progresivo 1
+        El Vuelo_RAW\08_Tom1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    09_Tom2.wav:
+      Track_path: Pablo Martin - Progresivo 1 El Vuelo\Pablo Martin - Progresivo 1
+        El Vuelo_RAW\09_Tom2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    10_Tom3.wav:
+      Track_path: Pablo Martin - Progresivo 1 El Vuelo\Pablo Martin - Progresivo 1
+        El Vuelo_RAW\10_Tom3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    11_Tom4.wav:
+      Track_path: Pablo Martin - Progresivo 1 El Vuelo\Pablo Martin - Progresivo 1
+        El Vuelo_RAW\11_Tom4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    12_Tom5.wav:
+      Track_path: Pablo Martin - Progresivo 1 El Vuelo\Pablo Martin - Progresivo 1
+        El Vuelo_RAW\12_Tom5.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    13_Tom6.wav:
+      Track_path: Pablo Martin - Progresivo 1 El Vuelo\Pablo Martin - Progresivo 1
+        El Vuelo_RAW\13_Tom6.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    14_Tom7.wav:
+      Track_path: Pablo Martin - Progresivo 1 El Vuelo\Pablo Martin - Progresivo 1
+        El Vuelo_RAW\14_Tom7.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    15_Tom8.wav:
+      Track_path: Pablo Martin - Progresivo 1 El Vuelo\Pablo Martin - Progresivo 1
+        El Vuelo_RAW\15_Tom8.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Room:
+    24_DrumsRoom.wav:
+      Track_path: Pablo Martin - Progresivo 1 El Vuelo\Pablo Martin - Progresivo 1
+        El Vuelo_RAW\24_DrumsRoom.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine:
+    25_Tambourine.wav:
+      Track_path: Pablo Martin - Progresivo 1 El Vuelo\Pablo Martin - Progresivo 1
+        El Vuelo_RAW\25_Tambourine.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Loop: {}
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass: {}
+  Electric_Bass:
+    29_Bass1.wav:
+      Track_path: Pablo Martin - Progresivo 1 El Vuelo\Pablo Martin - Progresivo 1
+        El Vuelo_RAW\29_Bass1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    30_Bass2.wav:
+      Track_path: Pablo Martin - Progresivo 1 El Vuelo\Pablo Martin - Progresivo 1
+        El Vuelo_RAW\30_Bass2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Acoustic_Guitar: {}
+  Electric_Guitar:
+    31_ElecGtr01.wav:
+      Track_path: Pablo Martin - Progresivo 1 El Vuelo\Pablo Martin - Progresivo 1
+        El Vuelo_RAW\31_ElecGtr01.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    32_ElecGtr02.wav:
+      Track_path: Pablo Martin - Progresivo 1 El Vuelo\Pablo Martin - Progresivo 1
+        El Vuelo_RAW\32_ElecGtr02.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    33_ElecGtr03.wav:
+      Track_path: Pablo Martin - Progresivo 1 El Vuelo\Pablo Martin - Progresivo 1
+        El Vuelo_RAW\33_ElecGtr03.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    34_ElecGtr04.wav:
+      Track_path: Pablo Martin - Progresivo 1 El Vuelo\Pablo Martin - Progresivo 1
+        El Vuelo_RAW\34_ElecGtr04.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    35_ElecGtr05.wav:
+      Track_path: Pablo Martin - Progresivo 1 El Vuelo\Pablo Martin - Progresivo 1
+        El Vuelo_RAW\35_ElecGtr05.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    36_ElecGtr05DT1.wav:
+      Track_path: Pablo Martin - Progresivo 1 El Vuelo\Pablo Martin - Progresivo 1
+        El Vuelo_RAW\36_ElecGtr05DT1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    37_ElecGtr05DT2.wav:
+      Track_path: Pablo Martin - Progresivo 1 El Vuelo\Pablo Martin - Progresivo 1
+        El Vuelo_RAW\37_ElecGtr05DT2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    38_ElecGtr06.wav:
+      Track_path: Pablo Martin - Progresivo 1 El Vuelo\Pablo Martin - Progresivo 1
+        El Vuelo_RAW\38_ElecGtr06.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    39_ElecGtr06DT1.wav:
+      Track_path: Pablo Martin - Progresivo 1 El Vuelo\Pablo Martin - Progresivo 1
+        El Vuelo_RAW\39_ElecGtr06DT1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    40_ElecGtr06DT2.wav:
+      Track_path: Pablo Martin - Progresivo 1 El Vuelo\Pablo Martin - Progresivo 1
+        El Vuelo_RAW\40_ElecGtr06DT2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    41_ElecGtr07.wav:
+      Track_path: Pablo Martin - Progresivo 1 El Vuelo\Pablo Martin - Progresivo 1
+        El Vuelo_RAW\41_ElecGtr07.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    42_ElecGtr08.wav:
+      Track_path: Pablo Martin - Progresivo 1 El Vuelo\Pablo Martin - Progresivo 1
+        El Vuelo_RAW\42_ElecGtr08.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    43_ElecGtr09.wav:
+      Track_path: Pablo Martin - Progresivo 1 El Vuelo\Pablo Martin - Progresivo 1
+        El Vuelo_RAW\43_ElecGtr09.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    44_ElecGtr10.wav:
+      Track_path: Pablo Martin - Progresivo 1 El Vuelo\Pablo Martin - Progresivo 1
+        El Vuelo_RAW\44_ElecGtr10.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    45_ElecGtr11.wav:
+      Track_path: Pablo Martin - Progresivo 1 El Vuelo\Pablo Martin - Progresivo 1
+        El Vuelo_RAW\45_ElecGtr11.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    46_ElecGtr12.wav:
+      Track_path: Pablo Martin - Progresivo 1 El Vuelo\Pablo Martin - Progresivo 1
+        El Vuelo_RAW\46_ElecGtr12.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    47_ElecGtr13.wav:
+      Track_path: Pablo Martin - Progresivo 1 El Vuelo\Pablo Martin - Progresivo 1
+        El Vuelo_RAW\47_ElecGtr13.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    48_ElecGtr14.wav:
+      Track_path: Pablo Martin - Progresivo 1 El Vuelo\Pablo Martin - Progresivo 1
+        El Vuelo_RAW\48_ElecGtr14.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Piano: {}
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba:
+    50_Tuba.wav:
+      Track_path: Pablo Martin - Progresivo 1 El Vuelo\Pablo Martin - Progresivo 1
+        El Vuelo_RAW\50_Tuba.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  String_Section:
+    51_Strings1.wav:
+      Track_path: Pablo Martin - Progresivo 1 El Vuelo\Pablo Martin - Progresivo 1
+        El Vuelo_RAW\51_Strings1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    52_Strings3.wav:
+      Track_path: Pablo Martin - Progresivo 1 El Vuelo\Pablo Martin - Progresivo 1
+        El Vuelo_RAW\52_Strings3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    53_Strings2.wav:
+      Track_path: Pablo Martin - Progresivo 1 El Vuelo\Pablo Martin - Progresivo 1
+        El Vuelo_RAW\53_Strings2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section:
+    49_OboeBassoon.wav:
+      Track_path: Pablo Martin - Progresivo 1 El Vuelo\Pablo Martin - Progresivo 1
+        El Vuelo_RAW\49_OboeBassoon.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Lead_Vocal: {}
+  Choir: {}
+  Backing_Vocal: {}
+  Unused: {}
+  Ambient_Microphone: {}

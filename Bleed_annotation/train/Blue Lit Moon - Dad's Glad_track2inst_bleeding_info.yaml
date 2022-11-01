@@ -1,0 +1,138 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer: {}
+  SFX: {}
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    01_Kick.wav:
+      Track_path: Blue Lit Moon - Dad's Glad\Blue Lit Moon - Dad's Glad_RAW\01_Kick.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads'
+      Comment: ''
+  Drum_Snare:
+    02_Snare.wav:
+      Track_path: Blue Lit Moon - Dad's Glad\Blue Lit Moon - Dad's Glad_RAW\02_Snare.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads'
+      Comment: ''
+  Drum_HiHat: {}
+  Drum_Cymbals: {}
+  Drum_Overheads:
+    03_Overheads.wav:
+      Track_path: Blue Lit Moon - Dad's Glad\Blue Lit Moon - Dad's Glad_RAW\03_Overheads.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Tom:
+    04_Tom1.wav:
+      Track_path: Blue Lit Moon - Dad's Glad\Blue Lit Moon - Dad's Glad_RAW\04_Tom1.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads'
+      Comment: ''
+    05_Tom2.wav:
+      Track_path: Blue Lit Moon - Dad's Glad\Blue Lit Moon - Dad's Glad_RAW\05_Tom2.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads'
+      Comment: ''
+    06_Tom3.wav:
+      Track_path: Blue Lit Moon - Dad's Glad\Blue Lit Moon - Dad's Glad_RAW\06_Tom3.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads'
+      Comment: ''
+    07_Tom4.wav:
+      Track_path: Blue Lit Moon - Dad's Glad\Blue Lit Moon - Dad's Glad_RAW\07_Tom4.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads'
+      Comment: ''
+  Drum_Room: {}
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop: {}
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass: {}
+  Electric_Bass:
+    08_Bass.wav:
+      Track_path: Blue Lit Moon - Dad's Glad\Blue Lit Moon - Dad's Glad_RAW\08_Bass.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Acoustic_Guitar:
+    09_AcGtr1Reverse.wav:
+      Track_path: Blue Lit Moon - Dad's Glad\Blue Lit Moon - Dad's Glad_RAW\09_AcGtr1Reverse.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    10_AcGtr2.wav:
+      Track_path: Blue Lit Moon - Dad's Glad\Blue Lit Moon - Dad's Glad_RAW\10_AcGtr2.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Lead_Vocal'
+      Comment: 'noticeable'
+  Electric_Guitar: {}
+  Piano: {}
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    11_LeadVox.wav:
+      Track_path: Blue Lit Moon - Dad's Glad\Blue Lit Moon - Dad's Glad_RAW\11_LeadVox.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Acoustic_Guitar'
+      Comment: 'huge'
+  Choir: {}
+  Backing_Vocal:
+    12_BackingVox1.wav:
+      Track_path: Blue Lit Moon - Dad's Glad\Blue Lit Moon - Dad's Glad_RAW\12_BackingVox1.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Lead_Vocal, Acoustic_Guitar'
+      Comment: 'noticeable'
+    13_BackingVox2.wav:
+      Track_path: Blue Lit Moon - Dad's Glad\Blue Lit Moon - Dad's Glad_RAW\13_BackingVox2.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Lead_Vocal, Acoustic_Guitar'
+      Comment: 'noticeable'
+  Unused: {}
+  Ambient_Microphone: {}

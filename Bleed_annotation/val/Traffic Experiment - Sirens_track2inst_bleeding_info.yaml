@@ -1,0 +1,233 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer:
+    21_SynthPad.wav:
+      Track_path: Traffic Experiment - Sirens\Traffic Experiment - Sirens_RAW\21_SynthPad.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  SFX: {}
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    01_Kick.wav:
+      Track_path: Traffic Experiment - Sirens\Traffic Experiment - Sirens_RAW\01_Kick.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    02_KickSub.wav:
+      Track_path: Traffic Experiment - Sirens\Traffic Experiment - Sirens_RAW\02_KickSub.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_Snare:
+    03_SnareUp.wav:
+      Track_path: Traffic Experiment - Sirens\Traffic Experiment - Sirens_RAW\03_SnareUp.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    04_SnareDown.wav:
+      Track_path: Traffic Experiment - Sirens\Traffic Experiment - Sirens_RAW\04_SnareDown.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_HiHat:
+    05_HiHat.wav:
+      Track_path: Traffic Experiment - Sirens\Traffic Experiment - Sirens_RAW\05_HiHat.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_Cymbals: {}
+  Drum_Overheads:
+    06_Overheads.wav:
+      Track_path: Traffic Experiment - Sirens\Traffic Experiment - Sirens_RAW\06_Overheads.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Tom:
+    09_Tom1.wav:
+      Track_path: Traffic Experiment - Sirens\Traffic Experiment - Sirens_RAW\09_Tom1.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    10_Tom2.wav:
+      Track_path: Traffic Experiment - Sirens\Traffic Experiment - Sirens_RAW\10_Tom2.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    11_FloorTom.wav:
+      Track_path: Traffic Experiment - Sirens\Traffic Experiment - Sirens_RAW\11_FloorTom.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_Room:
+    07_DrumRoom.wav:
+      Track_path: Traffic Experiment - Sirens\Traffic Experiment - Sirens_RAW\07_DrumRoom.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    08_DrumAmb.wav:
+      Track_path: Traffic Experiment - Sirens\Traffic Experiment - Sirens_RAW\08_DrumAmb.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop: {}
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass: {}
+  Electric_Bass:
+    12_Bass.wav:
+      Track_path: Traffic Experiment - Sirens\Traffic Experiment - Sirens_RAW\12_Bass.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Acoustic_Guitar:
+    13_AcGtr.wav:
+      Track_path: Traffic Experiment - Sirens\Traffic Experiment - Sirens_RAW\13_AcGtr.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Electric_Guitar:
+    14_ElecGtr1.wav:
+      Track_path: Traffic Experiment - Sirens\Traffic Experiment - Sirens_RAW\14_ElecGtr1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    15_ElecGtr2.wav:
+      Track_path: Traffic Experiment - Sirens\Traffic Experiment - Sirens_RAW\15_ElecGtr2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    16_ElecGtr3.wav:
+      Track_path: Traffic Experiment - Sirens\Traffic Experiment - Sirens_RAW\16_ElecGtr3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    17_ElecGtr4.wav:
+      Track_path: Traffic Experiment - Sirens\Traffic Experiment - Sirens_RAW\17_ElecGtr4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    18_ElecGtr5.wav:
+      Track_path: Traffic Experiment - Sirens\Traffic Experiment - Sirens_RAW\18_ElecGtr5.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    19_ElecGtr6.wav:
+      Track_path: Traffic Experiment - Sirens\Traffic Experiment - Sirens_RAW\19_ElecGtr6.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    20_LapSteelGtr.wav:
+      Track_path: Traffic Experiment - Sirens\Traffic Experiment - Sirens_RAW\20_LapSteelGtr.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Piano:
+    22_Piano.wav:
+      Track_path: Traffic Experiment - Sirens\Traffic Experiment - Sirens_RAW\22_Piano.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    24_LeadVox.wav:
+      Track_path: Traffic Experiment - Sirens\Traffic Experiment - Sirens_RAW\24_LeadVox.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Choir: {}
+  Backing_Vocal:
+    25_BackingVox1.wav:
+      Track_path: Traffic Experiment - Sirens\Traffic Experiment - Sirens_RAW\25_BackingVox1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    26_BackingVox2.wav:
+      Track_path: Traffic Experiment - Sirens\Traffic Experiment - Sirens_RAW\26_BackingVox2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    27_BackingVox3.wav:
+      Track_path: Traffic Experiment - Sirens\Traffic Experiment - Sirens_RAW\27_BackingVox3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    28_BackingVox4.wav:
+      Track_path: Traffic Experiment - Sirens\Traffic Experiment - Sirens_RAW\28_BackingVox4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    29_BackingVox5.wav:
+      Track_path: Traffic Experiment - Sirens\Traffic Experiment - Sirens_RAW\29_BackingVox5.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    30_BackingVox6.wav:
+      Track_path: Traffic Experiment - Sirens\Traffic Experiment - Sirens_RAW\30_BackingVox6.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    31_BackingVox7.wav:
+      Track_path: Traffic Experiment - Sirens\Traffic Experiment - Sirens_RAW\31_BackingVox7.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    32_BackingVox8.wav:
+      Track_path: Traffic Experiment - Sirens\Traffic Experiment - Sirens_RAW\32_BackingVox8.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Unused:
+    23_Hammond.wav:
+      Track_path: Traffic Experiment - Sirens\Traffic Experiment - Sirens_RAW\23_Hammond.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Ambient_Microphone: {}

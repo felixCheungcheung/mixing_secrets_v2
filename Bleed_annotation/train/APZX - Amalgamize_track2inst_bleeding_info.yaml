@@ -1,0 +1,208 @@
+Track2inst:
+  Electric_Organ:
+    19_Organ.wav:
+      Track_path: APZX - Amalgamize\APZX - Amalgamize_RAW\19_Organ.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Synthesizer:
+    06_Synth1.wav:
+      Track_path: APZX - Amalgamize\APZX - Amalgamize_RAW\06_Synth1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    07_Synth2.wav:
+      Track_path: APZX - Amalgamize\APZX - Amalgamize_RAW\07_Synth2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    08_Synth3.wav:
+      Track_path: APZX - Amalgamize\APZX - Amalgamize_RAW\08_Synth3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    09_Synth4.wav:
+      Track_path: APZX - Amalgamize\APZX - Amalgamize_RAW\09_Synth4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    10_Synth5.wav:
+      Track_path: APZX - Amalgamize\APZX - Amalgamize_RAW\10_Synth5.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    11_Synth6.wav:
+      Track_path: APZX - Amalgamize\APZX - Amalgamize_RAW\11_Synth6.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    12_Synth7.wav:
+      Track_path: APZX - Amalgamize\APZX - Amalgamize_RAW\12_Synth7.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    13_Synth8.wav:
+      Track_path: APZX - Amalgamize\APZX - Amalgamize_RAW\13_Synth8.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    20_SynthLead1.wav:
+      Track_path: APZX - Amalgamize\APZX - Amalgamize_RAW\20_SynthLead1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    21_SynthLead2.wav:
+      Track_path: APZX - Amalgamize\APZX - Amalgamize_RAW\21_SynthLead2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    22_SynthLead3.wav:
+      Track_path: APZX - Amalgamize\APZX - Amalgamize_RAW\22_SynthLead3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    23_SynthLead4.wav:
+      Track_path: APZX - Amalgamize\APZX - Amalgamize_RAW\23_SynthLead4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    24_SynthLead5.wav:
+      Track_path: APZX - Amalgamize\APZX - Amalgamize_RAW\24_SynthLead5.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    25_SynthLead6.wav:
+      Track_path: APZX - Amalgamize\APZX - Amalgamize_RAW\25_SynthLead6.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    26_SynthLead7.wav:
+      Track_path: APZX - Amalgamize\APZX - Amalgamize_RAW\26_SynthLead7.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    27_SynthLead8.wav:
+      Track_path: APZX - Amalgamize\APZX - Amalgamize_RAW\27_SynthLead8.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  SFX:
+    14_SynthSFX1.wav:
+      Track_path: APZX - Amalgamize\APZX - Amalgamize_RAW\14_SynthSFX1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    15_SynthSFX2.wav:
+      Track_path: APZX - Amalgamize\APZX - Amalgamize_RAW\15_SynthSFX2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    16_SynthSFX3.wav:
+      Track_path: APZX - Amalgamize\APZX - Amalgamize_RAW\16_SynthSFX3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    17_SynthSFX4.wav:
+      Track_path: APZX - Amalgamize\APZX - Amalgamize_RAW\17_SynthSFX4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    18_SynthSFX5.wav:
+      Track_path: APZX - Amalgamize\APZX - Amalgamize_RAW\18_SynthSFX5.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick: {}
+  Drum_Snare: {}
+  Drum_HiHat:
+    01_HiHat.wav:
+      Track_path: APZX - Amalgamize\APZX - Amalgamize_RAW\01_HiHat.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Cymbals: {}
+  Drum_Overheads: {}
+  Drum_Tom: {}
+  Drum_Room: {}
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop: {}
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass:
+    02_Bass1.wav:
+      Track_path: APZX - Amalgamize\APZX - Amalgamize_RAW\02_Bass1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    03_Bass2.wav:
+      Track_path: APZX - Amalgamize\APZX - Amalgamize_RAW\03_Bass2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    04_Bass3.wav:
+      Track_path: APZX - Amalgamize\APZX - Amalgamize_RAW\04_Bass3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    05_Bass4.wav:
+      Track_path: APZX - Amalgamize\APZX - Amalgamize_RAW\05_Bass4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Electric_Bass: {}
+  Acoustic_Guitar: {}
+  Electric_Guitar: {}
+  Piano: {}
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal: {}
+  Choir: {}
+  Backing_Vocal: {}
+  Unused: {}
+  Ambient_Microphone: {}

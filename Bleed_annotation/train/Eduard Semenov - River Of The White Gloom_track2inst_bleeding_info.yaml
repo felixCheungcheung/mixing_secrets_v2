@@ -1,0 +1,157 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer: {}
+  SFX:
+    07_Sample1.wav:
+      Track_path: Eduard Semenov - River Of The White Gloom\Eduard Semenov - River
+        Of The White Gloom_RAW\07_Sample1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    08_Sample2.wav:
+      Track_path: Eduard Semenov - River Of The White Gloom\Eduard Semenov - River
+        Of The White Gloom_RAW\08_Sample2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick: {}
+  Drum_Snare: {}
+  Drum_HiHat: {}
+  Drum_Cymbals: {}
+  Drum_Overheads: {}
+  Drum_Tom: {}
+  Drum_Room: {}
+  Shaker:
+    03_Shaker.wav:
+      Track_path: Eduard Semenov - River Of The White Gloom\Eduard Semenov - River
+        Of The White Gloom_RAW\03_Shaker.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop: {}
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion:
+    01_CajonMic1.wav:
+      Track_path: Eduard Semenov - River Of The White Gloom\Eduard Semenov - River
+        Of The White Gloom_RAW\01_CajonMic1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    02_CajonMic2.wav:
+      Track_path: Eduard Semenov - River Of The White Gloom\Eduard Semenov - River
+        Of The White Gloom_RAW\02_CajonMic2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Synth_Bass: {}
+  Electric_Bass:
+    04_Bass.wav:
+      Track_path: Eduard Semenov - River Of The White Gloom\Eduard Semenov - River
+        Of The White Gloom_RAW\04_Bass.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Acoustic_Guitar:
+    05_AcGtr.wav:
+      Track_path: Eduard Semenov - River Of The White Gloom\Eduard Semenov - River
+        Of The White Gloom_RAW\05_AcGtr.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    06_AcGtrDI.wav:
+      Track_path: Eduard Semenov - River Of The White Gloom\Eduard Semenov - River
+        Of The White Gloom_RAW\06_AcGtrDI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Electric_Guitar: {}
+  Piano: {}
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet:
+    09_Trumpet.wav:
+      Track_path: Eduard Semenov - River Of The White Gloom\Eduard Semenov - River
+        Of The White Gloom_RAW\09_Trumpet.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    10_MIDITrumpet.wav:
+      Track_path: Eduard Semenov - River Of The White Gloom\Eduard Semenov - River
+        Of The White Gloom_RAW\10_MIDITrumpet.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  French_Horn: {}
+  Trombone:
+    11_MIDITrombone.wav:
+      Track_path: Eduard Semenov - River Of The White Gloom\Eduard Semenov - River
+        Of The White Gloom_RAW\11_MIDITrombone.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    12_MIDITrombones.wav:
+      Track_path: Eduard Semenov - River Of The White Gloom\Eduard Semenov - River
+        Of The White Gloom_RAW\12_MIDITrombones.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    13_LeadVox.wav:
+      Track_path: Eduard Semenov - River Of The White Gloom\Eduard Semenov - River
+        Of The White Gloom_RAW\13_LeadVox.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Choir: {}
+  Backing_Vocal:
+    14_LeadVoxHarm.wav:
+      Track_path: Eduard Semenov - River Of The White Gloom\Eduard Semenov - River
+        Of The White Gloom_RAW\14_LeadVoxHarm.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Unused: {}
+  Ambient_Microphone: {}

@@ -1,0 +1,213 @@
+Track2inst:
+  Electric_Organ:
+    21_Hammond.wav:
+      Track_path: Qupe - Ayni Nehirde\Qupe - Ayni Nehirde_RAW\21_Hammond.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Synthesizer: {}
+  SFX: {}
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    01_Kick.wav:
+      Track_path: Qupe - Ayni Nehirde\Qupe - Ayni Nehirde_RAW\01_Kick.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads'
+      Comment: ''
+  Drum_Snare:
+    02_Snare.wav:
+      Track_path: Qupe - Ayni Nehirde\Qupe - Ayni Nehirde_RAW\02_Snare.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads'
+      Comment: ''
+  Drum_HiHat:
+    03_HiHat.wav:
+      Track_path: Qupe - Ayni Nehirde\Qupe - Ayni Nehirde_RAW\03_HiHat.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads'
+      Comment: ''
+  Drum_Cymbals:
+    04_Ride.wav:
+      Track_path: Qupe - Ayni Nehirde\Qupe - Ayni Nehirde_RAW\04_Ride.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads'
+      Comment: ''
+  Drum_Overheads:
+    05_Overheads.wav:
+      Track_path: Qupe - Ayni Nehirde\Qupe - Ayni Nehirde_RAW\05_Overheads.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Tom:
+    06_Tom1.wav:
+      Track_path: Qupe - Ayni Nehirde\Qupe - Ayni Nehirde_RAW\06_Tom1.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads'
+      Comment: ''
+    07_Tom2.wav:
+      Track_path: Qupe - Ayni Nehirde\Qupe - Ayni Nehirde_RAW\07_Tom2.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads'
+      Comment: ''
+    08_Tom3.wav:
+      Track_path: Qupe - Ayni Nehirde\Qupe - Ayni Nehirde_RAW\08_Tom3.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads'
+      Comment: ''
+  Drum_Room: {}
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop: {}
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass: {}
+  Electric_Bass:
+    09_Bass.wav:
+      Track_path: Qupe - Ayni Nehirde\Qupe - Ayni Nehirde_RAW\09_Bass.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Acoustic_Guitar:
+    10_AcousticGtr.wav:
+      Track_path: Qupe - Ayni Nehirde\Qupe - Ayni Nehirde_RAW\10_AcousticGtr.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    11_AcousticGtrDT.wav:
+      Track_path: Qupe - Ayni Nehirde\Qupe - Ayni Nehirde_RAW\11_AcousticGtrDT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Electric_Guitar:
+    12_ElecGtr1.wav:
+      Track_path: Qupe - Ayni Nehirde\Qupe - Ayni Nehirde_RAW\12_ElecGtr1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    13_ElecGtr2.wav:
+      Track_path: Qupe - Ayni Nehirde\Qupe - Ayni Nehirde_RAW\13_ElecGtr2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    14_ElecGtr3.wav:
+      Track_path: Qupe - Ayni Nehirde\Qupe - Ayni Nehirde_RAW\14_ElecGtr3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    15_ElecGtr4.wav:
+      Track_path: Qupe - Ayni Nehirde\Qupe - Ayni Nehirde_RAW\15_ElecGtr4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    16_ElecGtr5.wav:
+      Track_path: Qupe - Ayni Nehirde\Qupe - Ayni Nehirde_RAW\16_ElecGtr5.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    17_ElecGtr6.wav:
+      Track_path: Qupe - Ayni Nehirde\Qupe - Ayni Nehirde_RAW\17_ElecGtr6.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    18_ElecGtr7.wav:
+      Track_path: Qupe - Ayni Nehirde\Qupe - Ayni Nehirde_RAW\18_ElecGtr7.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Piano:
+    19_Piano.wav:
+      Track_path: Qupe - Ayni Nehirde\Qupe - Ayni Nehirde_RAW\19_Piano.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Electric_Piano:
+    20_ElecPiano.wav:
+      Track_path: Qupe - Ayni Nehirde\Qupe - Ayni Nehirde_RAW\20_ElecPiano.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    22_Vox1.wav:
+      Track_path: Qupe - Ayni Nehirde\Qupe - Ayni Nehirde_RAW\22_Vox1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    23_Vox2.wav:
+      Track_path: Qupe - Ayni Nehirde\Qupe - Ayni Nehirde_RAW\23_Vox2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    24_Vox3.wav:
+      Track_path: Qupe - Ayni Nehirde\Qupe - Ayni Nehirde_RAW\24_Vox3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    27_Vox6.wav:
+      Track_path: Qupe - Ayni Nehirde\Qupe - Ayni Nehirde_RAW\27_Vox6.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    28_Vox7.wav:
+      Track_path: Qupe - Ayni Nehirde\Qupe - Ayni Nehirde_RAW\28_Vox7.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Choir: {}
+  Backing_Vocal:
+    25_Vox4.wav:
+      Track_path: Qupe - Ayni Nehirde\Qupe - Ayni Nehirde_RAW\25_Vox4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    26_Vox5.wav:
+      Track_path: Qupe - Ayni Nehirde\Qupe - Ayni Nehirde_RAW\26_Vox5.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Unused: {}
+  Ambient_Microphone: {}

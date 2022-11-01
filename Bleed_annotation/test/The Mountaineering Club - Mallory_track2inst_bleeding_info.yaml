@@ -1,0 +1,293 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer:
+    37_Synth1.wav:
+      Track_path: The Mountaineering Club - Mallory\The Mountaineering Club - Mallory_RAW\37_Synth1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    38_Synth2.wav:
+      Track_path: The Mountaineering Club - Mallory\The Mountaineering Club - Mallory_RAW\38_Synth2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    39_Synth3.wav:
+      Track_path: The Mountaineering Club - Mallory\The Mountaineering Club - Mallory_RAW\39_Synth3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  SFX: {}
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick: {}
+  Drum_Snare: {}
+  Drum_HiHat: {}
+  Drum_Cymbals: {}
+  Drum_Overheads: {}
+  Drum_Tom: {}
+  Drum_Room: {}
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop:
+    01_Loop1.wav:
+      Track_path: The Mountaineering Club - Mallory\The Mountaineering Club - Mallory_RAW\01_Loop1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    02_Loop2.wav:
+      Track_path: The Mountaineering Club - Mallory\The Mountaineering Club - Mallory_RAW\02_Loop2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    03_Loop3.wav:
+      Track_path: The Mountaineering Club - Mallory\The Mountaineering Club - Mallory_RAW\03_Loop3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass:
+    05_BassSynth.wav:
+      Track_path: The Mountaineering Club - Mallory\The Mountaineering Club - Mallory_RAW\05_BassSynth.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Electric_Bass:
+    04_Bass.wav:
+      Track_path: The Mountaineering Club - Mallory\The Mountaineering Club - Mallory_RAW\04_Bass.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Acoustic_Guitar: {}
+  Electric_Guitar:
+    17_ElecGtr01a.wav:
+      Track_path: The Mountaineering Club - Mallory\The Mountaineering Club - Mallory_RAW\17_ElecGtr01a.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    18_ElecGtr01b.wav:
+      Track_path: The Mountaineering Club - Mallory\The Mountaineering Club - Mallory_RAW\18_ElecGtr01b.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    19_ElecGtr02a.wav:
+      Track_path: The Mountaineering Club - Mallory\The Mountaineering Club - Mallory_RAW\19_ElecGtr02a.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    20_ElecGtr02b.wav:
+      Track_path: The Mountaineering Club - Mallory\The Mountaineering Club - Mallory_RAW\20_ElecGtr02b.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    21_ElecGtr03a.wav:
+      Track_path: The Mountaineering Club - Mallory\The Mountaineering Club - Mallory_RAW\21_ElecGtr03a.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    22_ElecGtr03b.wav:
+      Track_path: The Mountaineering Club - Mallory\The Mountaineering Club - Mallory_RAW\22_ElecGtr03b.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    23_ElecGtr04a.wav:
+      Track_path: The Mountaineering Club - Mallory\The Mountaineering Club - Mallory_RAW\23_ElecGtr04a.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    24_ElecGtr04b.wav:
+      Track_path: The Mountaineering Club - Mallory\The Mountaineering Club - Mallory_RAW\24_ElecGtr04b.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    25_ElecGtr05a.wav:
+      Track_path: The Mountaineering Club - Mallory\The Mountaineering Club - Mallory_RAW\25_ElecGtr05a.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    26_ElecGtr05b.wav:
+      Track_path: The Mountaineering Club - Mallory\The Mountaineering Club - Mallory_RAW\26_ElecGtr05b.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    27_ElecGtr06a.wav:
+      Track_path: The Mountaineering Club - Mallory\The Mountaineering Club - Mallory_RAW\27_ElecGtr06a.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    28_ElecGtr06b.wav:
+      Track_path: The Mountaineering Club - Mallory\The Mountaineering Club - Mallory_RAW\28_ElecGtr06b.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    29_ElecGtr07a.wav:
+      Track_path: The Mountaineering Club - Mallory\The Mountaineering Club - Mallory_RAW\29_ElecGtr07a.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    30_ElecGtr07b.wav:
+      Track_path: The Mountaineering Club - Mallory\The Mountaineering Club - Mallory_RAW\30_ElecGtr07b.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    31_ElecGtr08a.wav:
+      Track_path: The Mountaineering Club - Mallory\The Mountaineering Club - Mallory_RAW\31_ElecGtr08a.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    32_ElecGtr08b.wav:
+      Track_path: The Mountaineering Club - Mallory\The Mountaineering Club - Mallory_RAW\32_ElecGtr08b.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    33_ElecGtr09a.wav:
+      Track_path: The Mountaineering Club - Mallory\The Mountaineering Club - Mallory_RAW\33_ElecGtr09a.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    34_ElecGtr09b.wav:
+      Track_path: The Mountaineering Club - Mallory\The Mountaineering Club - Mallory_RAW\34_ElecGtr09b.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    35_ElecGtr10a.wav:
+      Track_path: The Mountaineering Club - Mallory\The Mountaineering Club - Mallory_RAW\35_ElecGtr10a.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    36_ElecGtr10b.wav:
+      Track_path: The Mountaineering Club - Mallory\The Mountaineering Club - Mallory_RAW\36_ElecGtr10b.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Piano:
+    06_Piano1a.wav:
+      Track_path: The Mountaineering Club - Mallory\The Mountaineering Club - Mallory_RAW\06_Piano1a.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    07_Piano1b.wav:
+      Track_path: The Mountaineering Club - Mallory\The Mountaineering Club - Mallory_RAW\07_Piano1b.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    08_Piano2a.wav:
+      Track_path: The Mountaineering Club - Mallory\The Mountaineering Club - Mallory_RAW\08_Piano2a.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    09_Piano2b.wav:
+      Track_path: The Mountaineering Club - Mallory\The Mountaineering Club - Mallory_RAW\09_Piano2b.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    10_Piano3a.wav:
+      Track_path: The Mountaineering Club - Mallory\The Mountaineering Club - Mallory_RAW\10_Piano3a.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    11_Piano3b.wav:
+      Track_path: The Mountaineering Club - Mallory\The Mountaineering Club - Mallory_RAW\11_Piano3b.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    12_Piano4a.wav:
+      Track_path: The Mountaineering Club - Mallory\The Mountaineering Club - Mallory_RAW\12_Piano4a.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    13_Piano4b.wav:
+      Track_path: The Mountaineering Club - Mallory\The Mountaineering Club - Mallory_RAW\13_Piano4b.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    14_Piano5a.wav:
+      Track_path: The Mountaineering Club - Mallory\The Mountaineering Club - Mallory_RAW\14_Piano5a.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    15_Piano5b.wav:
+      Track_path: The Mountaineering Club - Mallory\The Mountaineering Club - Mallory_RAW\15_Piano5b.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    16_PianoRevSFX.wav:
+      Track_path: The Mountaineering Club - Mallory\The Mountaineering Club - Mallory_RAW\16_PianoRevSFX.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    40_LeadVox.wav:
+      Track_path: The Mountaineering Club - Mallory\The Mountaineering Club - Mallory_RAW\40_LeadVox.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Choir: {}
+  Backing_Vocal:
+    41_BackingVox1.wav:
+      Track_path: The Mountaineering Club - Mallory\The Mountaineering Club - Mallory_RAW\41_BackingVox1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    42_BackingVox2.wav:
+      Track_path: The Mountaineering Club - Mallory\The Mountaineering Club - Mallory_RAW\42_BackingVox2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    43_BackingVox3.wav:
+      Track_path: The Mountaineering Club - Mallory\The Mountaineering Club - Mallory_RAW\43_BackingVox3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    44_BackingVox4.wav:
+      Track_path: The Mountaineering Club - Mallory\The Mountaineering Club - Mallory_RAW\44_BackingVox4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Unused: {}
+  Ambient_Microphone: {}

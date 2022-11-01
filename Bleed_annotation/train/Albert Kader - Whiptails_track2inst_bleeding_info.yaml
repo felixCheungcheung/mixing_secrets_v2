@@ -1,0 +1,148 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer:
+    11_Synth1.wav:
+      Track_path: Albert Kader - Whiptails\Albert Kader - Whiptails_RAW\11_Synth1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    12_Synth2.wav:
+      Track_path: Albert Kader - Whiptails\Albert Kader - Whiptails_RAW\12_Synth2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    13_Synth3.wav:
+      Track_path: Albert Kader - Whiptails\Albert Kader - Whiptails_RAW\13_Synth3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  SFX:
+    08_SFX.wav:
+      Track_path: Albert Kader - Whiptails\Albert Kader - Whiptails_RAW\08_SFX.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick: {}
+  Drum_Snare:
+    04_Snare.wav:
+      Track_path: Albert Kader - Whiptails\Albert Kader - Whiptails_RAW\04_Snare.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_HiHat:
+    06_HiHat1.wav:
+      Track_path: Albert Kader - Whiptails\Albert Kader - Whiptails_RAW\06_HiHat1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    07_HiHat2.wav:
+      Track_path: Albert Kader - Whiptails\Albert Kader - Whiptails_RAW\07_HiHat2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Cymbals: {}
+  Drum_Overheads: {}
+  Drum_Tom: {}
+  Drum_Room: {}
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop:
+    01_Loop1.wav:
+      Track_path: Albert Kader - Whiptails\Albert Kader - Whiptails_RAW\01_Loop1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    02_Loop2.wav:
+      Track_path: Albert Kader - Whiptails\Albert Kader - Whiptails_RAW\02_Loop2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    03_Kick.wav:
+      Track_path: Albert Kader - Whiptails\Albert Kader - Whiptails_RAW\03_Kick.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Clicks: {}
+  Claps:
+    05_Claps.wav:
+      Track_path: Albert Kader - Whiptails\Albert Kader - Whiptails_RAW\05_Claps.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass: {}
+  Electric_Bass:
+    09_Bass1.wav:
+      Track_path: Albert Kader - Whiptails\Albert Kader - Whiptails_RAW\09_Bass1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    10_Bass2.wav:
+      Track_path: Albert Kader - Whiptails\Albert Kader - Whiptails_RAW\10_Bass2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Acoustic_Guitar: {}
+  Electric_Guitar: {}
+  Piano: {}
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    14_Vox_Dry.wav:
+      Track_path: Albert Kader - Whiptails\Albert Kader - Whiptails_RAW\14_Vox_Dry.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    15_Vox_Wet.wav:
+      Track_path: Albert Kader - Whiptails\Albert Kader - Whiptails_RAW\15_Vox_Wet.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Choir: {}
+  Backing_Vocal: {}
+  Unused: {}
+  Ambient_Microphone: {}

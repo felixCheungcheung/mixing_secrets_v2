@@ -1,0 +1,313 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer:
+    29_Synth1.wav:
+      Track_path: James Timms x Benjamin Coosemans - Can You Say The Same\James Timms
+        x Benjamin Coosemans - Can You Say The Same_RAW\29_Synth1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    30_Synth2.wav:
+      Track_path: James Timms x Benjamin Coosemans - Can You Say The Same\James Timms
+        x Benjamin Coosemans - Can You Say The Same_RAW\30_Synth2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    31_Synth3.wav:
+      Track_path: James Timms x Benjamin Coosemans - Can You Say The Same\James Timms
+        x Benjamin Coosemans - Can You Say The Same_RAW\31_Synth3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    32_Synth4.wav:
+      Track_path: James Timms x Benjamin Coosemans - Can You Say The Same\James Timms
+        x Benjamin Coosemans - Can You Say The Same_RAW\32_Synth4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  SFX:
+    15_SFX1.wav:
+      Track_path: James Timms x Benjamin Coosemans - Can You Say The Same\James Timms
+        x Benjamin Coosemans - Can You Say The Same_RAW\15_SFX1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    16_SFX2.wav:
+      Track_path: James Timms x Benjamin Coosemans - Can You Say The Same\James Timms
+        x Benjamin Coosemans - Can You Say The Same_RAW\16_SFX2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    17_SFX3.wav:
+      Track_path: James Timms x Benjamin Coosemans - Can You Say The Same\James Timms
+        x Benjamin Coosemans - Can You Say The Same_RAW\17_SFX3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    18_SFX4.wav:
+      Track_path: James Timms x Benjamin Coosemans - Can You Say The Same\James Timms
+        x Benjamin Coosemans - Can You Say The Same_RAW\18_SFX4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    19_SFX5.wav:
+      Track_path: James Timms x Benjamin Coosemans - Can You Say The Same\James Timms
+        x Benjamin Coosemans - Can You Say The Same_RAW\19_SFX5.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    01_Kick.wav:
+      Track_path: James Timms x Benjamin Coosemans - Can You Say The Same\James Timms
+        x Benjamin Coosemans - Can You Say The Same_RAW\01_Kick.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    02_KickSample.wav:
+      Track_path: James Timms x Benjamin Coosemans - Can You Say The Same\James Timms
+        x Benjamin Coosemans - Can You Say The Same_RAW\02_KickSample.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Snare:
+    03_Snare.wav:
+      Track_path: James Timms x Benjamin Coosemans - Can You Say The Same\James Timms
+        x Benjamin Coosemans - Can You Say The Same_RAW\03_Snare.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    04_SnareSample.wav:
+      Track_path: James Timms x Benjamin Coosemans - Can You Say The Same\James Timms
+        x Benjamin Coosemans - Can You Say The Same_RAW\04_SnareSample.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_HiHat:
+    05_HiHat.wav:
+      Track_path: James Timms x Benjamin Coosemans - Can You Say The Same\James Timms
+        x Benjamin Coosemans - Can You Say The Same_RAW\05_HiHat.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Cymbals:
+    10_CymbalSamples.wav:
+      Track_path: James Timms x Benjamin Coosemans - Can You Say The Same\James Timms
+        x Benjamin Coosemans - Can You Say The Same_RAW\10_CymbalSamples.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Overheads: {}
+  Drum_Tom:
+    06_Toms.wav:
+      Track_path: James Timms x Benjamin Coosemans - Can You Say The Same\James Timms
+        x Benjamin Coosemans - Can You Say The Same_RAW\06_Toms.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    07_TomSamples.wav:
+      Track_path: James Timms x Benjamin Coosemans - Can You Say The Same\James Timms
+        x Benjamin Coosemans - Can You Say The Same_RAW\07_TomSamples.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Room:
+    09_DrumsRoom.wav:
+      Track_path: James Timms x Benjamin Coosemans - Can You Say The Same\James Timms
+        x Benjamin Coosemans - Can You Say The Same_RAW\09_DrumsRoom.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    08_TomSnareSamples.wav:
+      Track_path: James Timms x Benjamin Coosemans - Can You Say The Same\James Timms
+        x Benjamin Coosemans - Can You Say The Same_RAW\08_TomSnareSamples.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Shaker:
+    14_Shaker.wav:
+      Track_path: James Timms x Benjamin Coosemans - Can You Say The Same\James Timms
+        x Benjamin Coosemans - Can You Say The Same_RAW\14_Shaker.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop: {}
+  Clicks:
+    12_Clicks.wav:
+      Track_path: James Timms x Benjamin Coosemans - Can You Say The Same\James Timms
+        x Benjamin Coosemans - Can You Say The Same_RAW\12_Clicks.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Claps:
+    11_Claps.wav:
+      Track_path: James Timms x Benjamin Coosemans - Can You Say The Same\James Timms
+        x Benjamin Coosemans - Can You Say The Same_RAW\11_Claps.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion:
+    13_PercLoop.wav:
+      Track_path: James Timms x Benjamin Coosemans - Can You Say The Same\James Timms
+        x Benjamin Coosemans - Can You Say The Same_RAW\13_PercLoop.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Synth_Bass: {}
+  Electric_Bass:
+    20_Bass1.wav:
+      Track_path: James Timms x Benjamin Coosemans - Can You Say The Same\James Timms
+        x Benjamin Coosemans - Can You Say The Same_RAW\20_Bass1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    21_Bass2.wav:
+      Track_path: James Timms x Benjamin Coosemans - Can You Say The Same\James Timms
+        x Benjamin Coosemans - Can You Say The Same_RAW\21_Bass2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Acoustic_Guitar: {}
+  Electric_Guitar:
+    22_ElecGtr1.wav:
+      Track_path: James Timms x Benjamin Coosemans - Can You Say The Same\James Timms
+        x Benjamin Coosemans - Can You Say The Same_RAW\22_ElecGtr1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    23_ElecGtr1FX.wav:
+      Track_path: James Timms x Benjamin Coosemans - Can You Say The Same\James Timms
+        x Benjamin Coosemans - Can You Say The Same_RAW\23_ElecGtr1FX.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    24_ElecGtr2.wav:
+      Track_path: James Timms x Benjamin Coosemans - Can You Say The Same\James Timms
+        x Benjamin Coosemans - Can You Say The Same_RAW\24_ElecGtr2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    25_ElecGtr3.wav:
+      Track_path: James Timms x Benjamin Coosemans - Can You Say The Same\James Timms
+        x Benjamin Coosemans - Can You Say The Same_RAW\25_ElecGtr3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    26_ElecGtr4.wav:
+      Track_path: James Timms x Benjamin Coosemans - Can You Say The Same\James Timms
+        x Benjamin Coosemans - Can You Say The Same_RAW\26_ElecGtr4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    27_ElecGtr5.wav:
+      Track_path: James Timms x Benjamin Coosemans - Can You Say The Same\James Timms
+        x Benjamin Coosemans - Can You Say The Same_RAW\27_ElecGtr5.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    28_ElecGtr6.wav:
+      Track_path: James Timms x Benjamin Coosemans - Can You Say The Same\James Timms
+        x Benjamin Coosemans - Can You Say The Same_RAW\28_ElecGtr6.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Piano:
+    33_Piano.wav:
+      Track_path: James Timms x Benjamin Coosemans - Can You Say The Same\James Timms
+        x Benjamin Coosemans - Can You Say The Same_RAW\33_Piano.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    34_LeadVox1.wav:
+      Track_path: James Timms x Benjamin Coosemans - Can You Say The Same\James Timms
+        x Benjamin Coosemans - Can You Say The Same_RAW\34_LeadVox1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    35_LeadVox2.wav:
+      Track_path: James Timms x Benjamin Coosemans - Can You Say The Same\James Timms
+        x Benjamin Coosemans - Can You Say The Same_RAW\35_LeadVox2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    36_LeadVox3.wav:
+      Track_path: James Timms x Benjamin Coosemans - Can You Say The Same\James Timms
+        x Benjamin Coosemans - Can You Say The Same_RAW\36_LeadVox3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Choir: {}
+  Backing_Vocal:
+    37_BackingVox1.wav:
+      Track_path: James Timms x Benjamin Coosemans - Can You Say The Same\James Timms
+        x Benjamin Coosemans - Can You Say The Same_RAW\37_BackingVox1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    38_BackingVox2.wav:
+      Track_path: James Timms x Benjamin Coosemans - Can You Say The Same\James Timms
+        x Benjamin Coosemans - Can You Say The Same_RAW\38_BackingVox2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    39_BackingVox3.wav:
+      Track_path: James Timms x Benjamin Coosemans - Can You Say The Same\James Timms
+        x Benjamin Coosemans - Can You Say The Same_RAW\39_BackingVox3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    40_BackingVox4.wav:
+      Track_path: James Timms x Benjamin Coosemans - Can You Say The Same\James Timms
+        x Benjamin Coosemans - Can You Say The Same_RAW\40_BackingVox4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Unused: {}
+  Ambient_Microphone: {}

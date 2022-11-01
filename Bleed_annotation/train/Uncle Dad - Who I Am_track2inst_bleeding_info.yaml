@@ -1,0 +1,256 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer: {}
+  SFX: {}
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    DRUM Kick I-Beta 52-HARDLEY M1-160A.wav:
+      Track_path: Uncle Dad - Who I Am\Uncle Dad - Who I Am_RAW\DRUM Kick I-Beta 52-HARDLEY
+        M1-160A.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    DRUM Kick I-M81-NEVE 1073LB-AUDIO ARTS-EQ-DISTRESSOR.wav:
+      Track_path: Uncle Dad - Who I Am\Uncle Dad - Who I Am_RAW\DRUM Kick I-M81-NEVE
+        1073LB-AUDIO ARTS-EQ-DISTRESSOR.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    DRUM Kick O-Yamaha Sub-HARDEY M1-DBX 160A.wav:
+      Track_path: Uncle Dad - Who I Am\Uncle Dad - Who I Am_RAW\DRUM Kick O-Yamaha
+        Sub-HARDEY M1-DBX 160A.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_Snare:
+    DRUM SNARE B-M80-HARDEY M1-DBX 165.wav:
+      Track_path: Uncle Dad - Who I Am\Uncle Dad - Who I Am_RAW\DRUM SNARE B-M80-HARDEY
+        M1-DBX 165.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    DRUM SNARE T-M80-AVALON 737-DISTRESSOR.wav:
+      Track_path: Uncle Dad - Who I Am\Uncle Dad - Who I Am_RAW\DRUM SNARE T-M80-AVALON
+        737-DISTRESSOR.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_HiHat:
+    DRUM HIHat-260-PURPLE BIZ.wav:
+      Track_path: Uncle Dad - Who I Am\Uncle Dad - Who I Am_RAW\DRUM HIHat-260-PURPLE
+        BIZ.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_Cymbals: {}
+  Drum_Overheads:
+    DRUM OH-AR70-LANGEVIN.L.wav:
+      Track_path: Uncle Dad - Who I Am\Uncle Dad - Who I Am_RAW\DRUM OH-AR70-LANGEVIN.L.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    DRUM OH-AR70-LANGEVIN.R.wav:
+      Track_path: Uncle Dad - Who I Am\Uncle Dad - Who I Am_RAW\DRUM OH-AR70-LANGEVIN.R.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    DRUM-FAT HEAD-MILLENIA-HV-35.wav:
+      Track_path: Uncle Dad - Who I Am\Uncle Dad - Who I Am_RAW\DRUM-FAT HEAD-MILLENIA-HV-35.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Tom:
+    DRUM TOM 1-AKG 418-TOFT AFC.wav:
+      Track_path: Uncle Dad - Who I Am\Uncle Dad - Who I Am_RAW\DRUM TOM 1-AKG 418-TOFT
+        AFC.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    DRUM TOM 2-AKG 418-TOFT AFC.wav:
+      Track_path: Uncle Dad - Who I Am\Uncle Dad - Who I Am_RAW\DRUM TOM 2-AKG 418-TOFT
+        AFC.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_Room:
+    DRUM ROOM CELLING-CROWN PZM-HARDEY M1.wav:
+      Track_path: Uncle Dad - Who I Am\Uncle Dad - Who I Am_RAW\DRUM ROOM CELLING-CROWN
+        PZM-HARDEY M1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    DRUM ROOM-U87-API312-SmartC2.L.wav:
+      Track_path: Uncle Dad - Who I Am\Uncle Dad - Who I Am_RAW\DRUM ROOM-U87-API312-SmartC2.L.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    DRUM ROOM-U87-API312-SmartC2.R.wav:
+      Track_path: Uncle Dad - Who I Am\Uncle Dad - Who I Am_RAW\DRUM ROOM-U87-API312-SmartC2.R.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop: {}
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass: {}
+  Electric_Bass: {}
+  Acoustic_Guitar:
+    MANDOLIN-AK47-VINTECH 573-LA3A.wav:
+      Track_path: Uncle Dad - Who I Am\Uncle Dad - Who I Am_RAW\MANDOLIN-AK47-VINTECH
+        573-LA3A.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    DOBRO-AR70-DAKING-DISTRESSOR.L.wav:
+      Track_path: Uncle Dad - Who I Am\Uncle Dad - Who I Am_RAW\DOBRO-AR70-DAKING-DISTRESSOR.L.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    DOBRO-AR70-DAKING-DISTRESSOR.R.wav:
+      Track_path: Uncle Dad - Who I Am\Uncle Dad - Who I Am_RAW\DOBRO-AR70-DAKING-DISTRESSOR.R.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    BANJO-AK47-VINTECH 573.wav:
+      Track_path: Uncle Dad - Who I Am\Uncle Dad - Who I Am_RAW\BANJO-AK47-VINTECH
+        573.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    BANJO-CU29-VINTECH 573.wav:
+      Track_path: Uncle Dad - Who I Am\Uncle Dad - Who I Am_RAW\BANJO-CU29-VINTECH
+        573.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    AC GUITAR-1-CU29-SHADOWHILL-1178.L.wav:
+      Track_path: Uncle Dad - Who I Am\Uncle Dad - Who I Am_RAW\AC GUITAR-1-CU29-SHADOWHILL-1178.L.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    AC GUITAR-1-CU29_SHADOWHILL-1178.R.wav:
+      Track_path: Uncle Dad - Who I Am\Uncle Dad - Who I Am_RAW\AC GUITAR-1-CU29_SHADOWHILL-1178.R.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    AC GUITAR-2-CU29-SHADOWHILL.L.wav:
+      Track_path: Uncle Dad - Who I Am\Uncle Dad - Who I Am_RAW\AC GUITAR-2-CU29-SHADOWHILL.L.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    AC GUITAR-2-CU29-SHADOWHILL.R.wav:
+      Track_path: Uncle Dad - Who I Am\Uncle Dad - Who I Am_RAW\AC GUITAR-2-CU29-SHADOWHILL.R.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    AC GUITAR-3-CU29-SHADOWHILL.L.wav:
+      Track_path: Uncle Dad - Who I Am\Uncle Dad - Who I Am_RAW\AC GUITAR-3-CU29-SHADOWHILL.L.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    AC GUITAR-3-CU29-SHADOWHILL.R.wav:
+      Track_path: Uncle Dad - Who I Am\Uncle Dad - Who I Am_RAW\AC GUITAR-3-CU29-SHADOWHILL.R.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Electric_Guitar: {}
+  Piano:
+    PIANO-AK47-LANGEVIN.L.wav:
+      Track_path: Uncle Dad - Who I Am\Uncle Dad - Who I Am_RAW\PIANO-AK47-LANGEVIN.L.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    PIANO-AK47-LANGEVIN.R.wav:
+      Track_path: Uncle Dad - Who I Am\Uncle Dad - Who I Am_RAW\PIANO-AK47-LANGEVIN.R.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle:
+    FIDDLE-260-NEVE 1073LB-CL1B.wav:
+      Track_path: Uncle Dad - Who I Am\Uncle Dad - Who I Am_RAW\FIDDLE-260-NEVE 1073LB-CL1B.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    FIDDLE-AK47-VINTECH 573-LA3A.wav:
+      Track_path: Uncle Dad - Who I Am\Uncle Dad - Who I Am_RAW\FIDDLE-AK47-VINTECH
+        573-LA3A.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Double_Bass:
+    BASS-AK47-DAKING-CL1B.wav:
+      Track_path: Uncle Dad - Who I Am\Uncle Dad - Who I Am_RAW\BASS-AK47-DAKING-CL1B.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    VOX LD-AK47-VINTECH573-LA3A.wav:
+      Track_path: Uncle Dad - Who I Am\Uncle Dad - Who I Am_RAW\VOX LD-AK47-VINTECH573-LA3A.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Choir: {}
+  Backing_Vocal:
+    VOX BG-CU29-NEVE 1073LB-CL1B.wav:
+      Track_path: Uncle Dad - Who I Am\Uncle Dad - Who I Am_RAW\VOX BG-CU29-NEVE 1073LB-CL1B.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Unused:
+    Who I Am MIX_02.L.wav:
+      Track_path: Uncle Dad - Who I Am\Uncle Dad - Who I Am_RAW\Who I Am MIX_02.L.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Who I Am MIX_02.R.wav:
+      Track_path: Uncle Dad - Who I Am\Uncle Dad - Who I Am_RAW\Who I Am MIX_02.R.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Ambient_Microphone: {}

@@ -1,0 +1,143 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer:
+    07_Synth1.wav:
+      Track_path: Skelpolu - Human Mistakes\Skelpolu - Human Mistakes_RAW\07_Synth1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    08_Synth2.wav:
+      Track_path: Skelpolu - Human Mistakes\Skelpolu - Human Mistakes_RAW\08_Synth2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    09_Synth3.wav:
+      Track_path: Skelpolu - Human Mistakes\Skelpolu - Human Mistakes_RAW\09_Synth3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    10_Synth4.wav:
+      Track_path: Skelpolu - Human Mistakes\Skelpolu - Human Mistakes_RAW\10_Synth4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  SFX:
+    05_Noise.wav:
+      Track_path: Skelpolu - Human Mistakes\Skelpolu - Human Mistakes_RAW\05_Noise.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    01_Kick.wav:
+      Track_path: Skelpolu - Human Mistakes\Skelpolu - Human Mistakes_RAW\01_Kick.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Snare:
+    02_Snare.wav:
+      Track_path: Skelpolu - Human Mistakes\Skelpolu - Human Mistakes_RAW\02_Snare.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_HiHat:
+    03_HiHat.wav:
+      Track_path: Skelpolu - Human Mistakes\Skelpolu - Human Mistakes_RAW\03_HiHat.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Cymbals:
+    04_Cymbal.wav:
+      Track_path: Skelpolu - Human Mistakes\Skelpolu - Human Mistakes_RAW\04_Cymbal.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Overheads: {}
+  Drum_Tom: {}
+  Drum_Room: {}
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop: {}
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass:
+    06_Bass.wav:
+      Track_path: Skelpolu - Human Mistakes\Skelpolu - Human Mistakes_RAW\06_Bass.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Electric_Bass: {}
+  Acoustic_Guitar: {}
+  Electric_Guitar: {}
+  Piano:
+    11_Piano.wav:
+      Track_path: Skelpolu - Human Mistakes\Skelpolu - Human Mistakes_RAW\11_Piano.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    12_LeadVox.wav:
+      Track_path: Skelpolu - Human Mistakes\Skelpolu - Human Mistakes_RAW\12_LeadVox.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Choir: {}
+  Backing_Vocal:
+    13_BackingVox1.wav:
+      Track_path: Skelpolu - Human Mistakes\Skelpolu - Human Mistakes_RAW\13_BackingVox1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    14_BackingVox2.wav:
+      Track_path: Skelpolu - Human Mistakes\Skelpolu - Human Mistakes_RAW\14_BackingVox2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Unused: {}
+  Ambient_Microphone: {}

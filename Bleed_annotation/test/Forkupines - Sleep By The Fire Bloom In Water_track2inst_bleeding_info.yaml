@@ -1,0 +1,331 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer:
+    28_Synth.wav:
+      Track_path: Forkupines - Sleep By The Fire Bloom In Water\Forkupines - Sleep
+        By The Fire Bloom In Water_RAW\28_Synth.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  SFX: {}
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    01_KickIn.wav:
+      Track_path: Forkupines - Sleep By The Fire Bloom In Water\Forkupines - Sleep
+        By The Fire Bloom In Water_RAW\01_KickIn.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    02_KickOut.wav:
+      Track_path: Forkupines - Sleep By The Fire Bloom In Water\Forkupines - Sleep
+        By The Fire Bloom In Water_RAW\02_KickOut.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    04_KickSample.wav:
+      Track_path: Forkupines - Sleep By The Fire Bloom In Water\Forkupines - Sleep
+        By The Fire Bloom In Water_RAW\04_KickSample.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    05_KickSampleRoom.wav:
+      Track_path: Forkupines - Sleep By The Fire Bloom In Water\Forkupines - Sleep
+        By The Fire Bloom In Water_RAW\05_KickSampleRoom.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Snare:
+    06_SnareUp1.wav:
+      Track_path: Forkupines - Sleep By The Fire Bloom In Water\Forkupines - Sleep
+        By The Fire Bloom In Water_RAW\06_SnareUp1.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    07_SnareUp2.wav:
+      Track_path: Forkupines - Sleep By The Fire Bloom In Water\Forkupines - Sleep
+        By The Fire Bloom In Water_RAW\07_SnareUp2.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    08_SnareDown.wav:
+      Track_path: Forkupines - Sleep By The Fire Bloom In Water\Forkupines - Sleep
+        By The Fire Bloom In Water_RAW\08_SnareDown.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    10_SnareSample1.wav:
+      Track_path: Forkupines - Sleep By The Fire Bloom In Water\Forkupines - Sleep
+        By The Fire Bloom In Water_RAW\10_SnareSample1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    11_SnareSampleRoom1.wav:
+      Track_path: Forkupines - Sleep By The Fire Bloom In Water\Forkupines - Sleep
+        By The Fire Bloom In Water_RAW\11_SnareSampleRoom1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    12_SnareSample2.wav:
+      Track_path: Forkupines - Sleep By The Fire Bloom In Water\Forkupines - Sleep
+        By The Fire Bloom In Water_RAW\12_SnareSample2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_HiHat:
+    13_HiHat.wav:
+      Track_path: Forkupines - Sleep By The Fire Bloom In Water\Forkupines - Sleep
+        By The Fire Bloom In Water_RAW\13_HiHat.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_Cymbals:
+    14_Ride.wav:
+      Track_path: Forkupines - Sleep By The Fire Bloom In Water\Forkupines - Sleep
+        By The Fire Bloom In Water_RAW\14_Ride.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_Overheads:
+    19_Overheads.wav:
+      Track_path: Forkupines - Sleep By The Fire Bloom In Water\Forkupines - Sleep
+        By The Fire Bloom In Water_RAW\19_Overheads.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    20_DrumsSquashMic.wav:
+      Track_path: Forkupines - Sleep By The Fire Bloom In Water\Forkupines - Sleep
+        By The Fire Bloom In Water_RAW\20_DrumsSquashMic.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    24_DrumsSFXClose.wav:
+      Track_path: Forkupines - Sleep By The Fire Bloom In Water\Forkupines - Sleep
+        By The Fire Bloom In Water_RAW\24_DrumsSFXClose.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    25_DrumsSFXFar.wav:
+      Track_path: Forkupines - Sleep By The Fire Bloom In Water\Forkupines - Sleep
+        By The Fire Bloom In Water_RAW\25_DrumsSFXFar.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Tom:
+    15_Tom1.wav:
+      Track_path: Forkupines - Sleep By The Fire Bloom In Water\Forkupines - Sleep
+        By The Fire Bloom In Water_RAW\15_Tom1.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    17_Tom2.wav:
+      Track_path: Forkupines - Sleep By The Fire Bloom In Water\Forkupines - Sleep
+        By The Fire Bloom In Water_RAW\17_Tom2.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_Room:
+    21_DrumsRoomClose1.wav:
+      Track_path: Forkupines - Sleep By The Fire Bloom In Water\Forkupines - Sleep
+        By The Fire Bloom In Water_RAW\21_DrumsRoomClose1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    22_DrumsRoomClose2.wav:
+      Track_path: Forkupines - Sleep By The Fire Bloom In Water\Forkupines - Sleep
+        By The Fire Bloom In Water_RAW\22_DrumsRoomClose2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    23_DrumsRoomFar.wav:
+      Track_path: Forkupines - Sleep By The Fire Bloom In Water\Forkupines - Sleep
+        By The Fire Bloom In Water_RAW\23_DrumsRoomFar.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop: {}
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass: {}
+  Electric_Bass:
+    26_BassDI.wav:
+      Track_path: Forkupines - Sleep By The Fire Bloom In Water\Forkupines - Sleep
+        By The Fire Bloom In Water_RAW\26_BassDI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    27_BassSansamp.wav:
+      Track_path: Forkupines - Sleep By The Fire Bloom In Water\Forkupines - Sleep
+        By The Fire Bloom In Water_RAW\27_BassSansamp.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Acoustic_Guitar: {}
+  Electric_Guitar:
+    29_ElecGtr1.wav:
+      Track_path: Forkupines - Sleep By The Fire Bloom In Water\Forkupines - Sleep
+        By The Fire Bloom In Water_RAW\29_ElecGtr1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    30_ElecGtr2Mic1.wav:
+      Track_path: Forkupines - Sleep By The Fire Bloom In Water\Forkupines - Sleep
+        By The Fire Bloom In Water_RAW\30_ElecGtr2Mic1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    31_ElecGtr2Mic2.wav:
+      Track_path: Forkupines - Sleep By The Fire Bloom In Water\Forkupines - Sleep
+        By The Fire Bloom In Water_RAW\31_ElecGtr2Mic2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    32_ElecGtr3Mc1.wav:
+      Track_path: Forkupines - Sleep By The Fire Bloom In Water\Forkupines - Sleep
+        By The Fire Bloom In Water_RAW\32_ElecGtr3Mc1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    33_ElecGtr3Mic2.wav:
+      Track_path: Forkupines - Sleep By The Fire Bloom In Water\Forkupines - Sleep
+        By The Fire Bloom In Water_RAW\33_ElecGtr3Mic2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    34_ElecGtr4Mic1.wav:
+      Track_path: Forkupines - Sleep By The Fire Bloom In Water\Forkupines - Sleep
+        By The Fire Bloom In Water_RAW\34_ElecGtr4Mic1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    35_ElecGtr4Mic2.wav:
+      Track_path: Forkupines - Sleep By The Fire Bloom In Water\Forkupines - Sleep
+        By The Fire Bloom In Water_RAW\35_ElecGtr4Mic2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    36_ElecGtr5Mic1.wav:
+      Track_path: Forkupines - Sleep By The Fire Bloom In Water\Forkupines - Sleep
+        By The Fire Bloom In Water_RAW\36_ElecGtr5Mic1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    37_ElecGtr5Mic2.wav:
+      Track_path: Forkupines - Sleep By The Fire Bloom In Water\Forkupines - Sleep
+        By The Fire Bloom In Water_RAW\37_ElecGtr5Mic2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Piano: {}
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    38_LeadVox1.wav:
+      Track_path: Forkupines - Sleep By The Fire Bloom In Water\Forkupines - Sleep
+        By The Fire Bloom In Water_RAW\38_LeadVox1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    39_LeadVox1FX.wav:
+      Track_path: Forkupines - Sleep By The Fire Bloom In Water\Forkupines - Sleep
+        By The Fire Bloom In Water_RAW\39_LeadVox1FX.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    40_LeadVox2.wav:
+      Track_path: Forkupines - Sleep By The Fire Bloom In Water\Forkupines - Sleep
+        By The Fire Bloom In Water_RAW\40_LeadVox2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    41_LeadVox2DT.wav:
+      Track_path: Forkupines - Sleep By The Fire Bloom In Water\Forkupines - Sleep
+        By The Fire Bloom In Water_RAW\41_LeadVox2DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    42_LeadVox3.wav:
+      Track_path: Forkupines - Sleep By The Fire Bloom In Water\Forkupines - Sleep
+        By The Fire Bloom In Water_RAW\42_LeadVox3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Choir: {}
+  Backing_Vocal:
+    43_BackingVox.wav:
+      Track_path: Forkupines - Sleep By The Fire Bloom In Water\Forkupines - Sleep
+        By The Fire Bloom In Water_RAW\43_BackingVox.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Unused:
+    03_KickTrigger.wav:
+      Track_path: Forkupines - Sleep By The Fire Bloom In Water\Forkupines - Sleep
+        By The Fire Bloom In Water_RAW\03_KickTrigger.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    09_SnareTrigger.wav:
+      Track_path: Forkupines - Sleep By The Fire Bloom In Water\Forkupines - Sleep
+        By The Fire Bloom In Water_RAW\09_SnareTrigger.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    16_Tom1Trigger.wav:
+      Track_path: Forkupines - Sleep By The Fire Bloom In Water\Forkupines - Sleep
+        By The Fire Bloom In Water_RAW\16_Tom1Trigger.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    18_Tom2Trigger.wav:
+      Track_path: Forkupines - Sleep By The Fire Bloom In Water\Forkupines - Sleep
+        By The Fire Bloom In Water_RAW\18_Tom2Trigger.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Ambient_Microphone: {}

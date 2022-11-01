@@ -1,0 +1,353 @@
+Track2inst:
+  Electric_Organ:
+    12_Organ.wav:
+      Track_path: Digital Humans - Electrvm\Digital Humans - Electrvm_RAW\12_Organ.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Synthesizer:
+    18_Synth01.wav:
+      Track_path: Digital Humans - Electrvm\Digital Humans - Electrvm_RAW\18_Synth01.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    19_Synth02.wav:
+      Track_path: Digital Humans - Electrvm\Digital Humans - Electrvm_RAW\19_Synth02.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    20_Synth03.wav:
+      Track_path: Digital Humans - Electrvm\Digital Humans - Electrvm_RAW\20_Synth03.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    21_Synth04.wav:
+      Track_path: Digital Humans - Electrvm\Digital Humans - Electrvm_RAW\21_Synth04.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    22_Synth05.wav:
+      Track_path: Digital Humans - Electrvm\Digital Humans - Electrvm_RAW\22_Synth05.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    23_Synth06.wav:
+      Track_path: Digital Humans - Electrvm\Digital Humans - Electrvm_RAW\23_Synth06.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    24_Synth07.wav:
+      Track_path: Digital Humans - Electrvm\Digital Humans - Electrvm_RAW\24_Synth07.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    25_Synth08.wav:
+      Track_path: Digital Humans - Electrvm\Digital Humans - Electrvm_RAW\25_Synth08.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    26_Synth09.wav:
+      Track_path: Digital Humans - Electrvm\Digital Humans - Electrvm_RAW\26_Synth09.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    27_Synth10.wav:
+      Track_path: Digital Humans - Electrvm\Digital Humans - Electrvm_RAW\27_Synth10.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    28_Synth11.wav:
+      Track_path: Digital Humans - Electrvm\Digital Humans - Electrvm_RAW\28_Synth11.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    29_Synth12.wav:
+      Track_path: Digital Humans - Electrvm\Digital Humans - Electrvm_RAW\29_Synth12.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    30_Synth13.wav:
+      Track_path: Digital Humans - Electrvm\Digital Humans - Electrvm_RAW\30_Synth13.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    31_Synth14.wav:
+      Track_path: Digital Humans - Electrvm\Digital Humans - Electrvm_RAW\31_Synth14.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    32_Synth15.wav:
+      Track_path: Digital Humans - Electrvm\Digital Humans - Electrvm_RAW\32_Synth15.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    33_Synth16.wav:
+      Track_path: Digital Humans - Electrvm\Digital Humans - Electrvm_RAW\33_Synth16.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    34_Synth17.wav:
+      Track_path: Digital Humans - Electrvm\Digital Humans - Electrvm_RAW\34_Synth17.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    35_Synth18.wav:
+      Track_path: Digital Humans - Electrvm\Digital Humans - Electrvm_RAW\35_Synth18.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    36_Synth19.wav:
+      Track_path: Digital Humans - Electrvm\Digital Humans - Electrvm_RAW\36_Synth19.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    37_Synth20.wav:
+      Track_path: Digital Humans - Electrvm\Digital Humans - Electrvm_RAW\37_Synth20.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    38_Synth21.wav:
+      Track_path: Digital Humans - Electrvm\Digital Humans - Electrvm_RAW\38_Synth21.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  SFX:
+    39_SFX1.wav:
+      Track_path: Digital Humans - Electrvm\Digital Humans - Electrvm_RAW\39_SFX1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    40_SFX2.wav:
+      Track_path: Digital Humans - Electrvm\Digital Humans - Electrvm_RAW\40_SFX2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    41_SFX3.wav:
+      Track_path: Digital Humans - Electrvm\Digital Humans - Electrvm_RAW\41_SFX3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    42_SFX4.wav:
+      Track_path: Digital Humans - Electrvm\Digital Humans - Electrvm_RAW\42_SFX4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    43_SFX5.wav:
+      Track_path: Digital Humans - Electrvm\Digital Humans - Electrvm_RAW\43_SFX5.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    55_Vocoder.wav:
+      Track_path: Digital Humans - Electrvm\Digital Humans - Electrvm_RAW\55_Vocoder.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    56_VocoderFX.wav:
+      Track_path: Digital Humans - Electrvm\Digital Humans - Electrvm_RAW\56_VocoderFX.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    01_Kick.wav:
+      Track_path: Digital Humans - Electrvm\Digital Humans - Electrvm_RAW\01_Kick.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    02_KickFX.wav:
+      Track_path: Digital Humans - Electrvm\Digital Humans - Electrvm_RAW\02_KickFX.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Snare:
+    03_Snare1.wav:
+      Track_path: Digital Humans - Electrvm\Digital Humans - Electrvm_RAW\03_Snare1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    04_Snare2FX.wav:
+      Track_path: Digital Humans - Electrvm\Digital Humans - Electrvm_RAW\04_Snare2FX.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    05_Snare3.wav:
+      Track_path: Digital Humans - Electrvm\Digital Humans - Electrvm_RAW\05_Snare3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    06_Snare4.wav:
+      Track_path: Digital Humans - Electrvm\Digital Humans - Electrvm_RAW\06_Snare4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    07_Snare5.wav:
+      Track_path: Digital Humans - Electrvm\Digital Humans - Electrvm_RAW\07_Snare5.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_HiHat:
+    08_HiHat.wav:
+      Track_path: Digital Humans - Electrvm\Digital Humans - Electrvm_RAW\08_HiHat.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Cymbals: {}
+  Drum_Overheads: {}
+  Drum_Tom: {}
+  Drum_Room: {}
+  Shaker: {}
+  Taiko:
+    09_Taiko.wav:
+      Track_path: Digital Humans - Electrvm\Digital Humans - Electrvm_RAW\09_Taiko.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop: {}
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass:
+    10_Bass1.wav:
+      Track_path: Digital Humans - Electrvm\Digital Humans - Electrvm_RAW\10_Bass1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    11_Bass2.wav:
+      Track_path: Digital Humans - Electrvm\Digital Humans - Electrvm_RAW\11_Bass2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Electric_Bass: {}
+  Acoustic_Guitar: {}
+  Electric_Guitar: {}
+  Piano:
+    13_Piano1.wav:
+      Track_path: Digital Humans - Electrvm\Digital Humans - Electrvm_RAW\13_Piano1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    14_Piano2.wav:
+      Track_path: Digital Humans - Electrvm\Digital Humans - Electrvm_RAW\14_Piano2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Electric_Piano: {}
+  Brass_Section:
+    17_Brass.wav:
+      Track_path: Digital Humans - Electrvm\Digital Humans - Electrvm_RAW\17_Brass.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section:
+    15_Strings1.wav:
+      Track_path: Digital Humans - Electrvm\Digital Humans - Electrvm_RAW\15_Strings1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    16_Strings2.wav:
+      Track_path: Digital Humans - Electrvm\Digital Humans - Electrvm_RAW\16_Strings2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    44_LeadVox.wav:
+      Track_path: Digital Humans - Electrvm\Digital Humans - Electrvm_RAW\44_LeadVox.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    45_LeadVoxFX1.wav:
+      Track_path: Digital Humans - Electrvm\Digital Humans - Electrvm_RAW\45_LeadVoxFX1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    46_LeadVoxFX2.wav:
+      Track_path: Digital Humans - Electrvm\Digital Humans - Electrvm_RAW\46_LeadVoxFX2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    47_LeadVoxFX3.wav:
+      Track_path: Digital Humans - Electrvm\Digital Humans - Electrvm_RAW\47_LeadVoxFX3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Choir: {}
+  Backing_Vocal:
+    48_BackingVox1.wav:
+      Track_path: Digital Humans - Electrvm\Digital Humans - Electrvm_RAW\48_BackingVox1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    49_BackingVox1DT.wav:
+      Track_path: Digital Humans - Electrvm\Digital Humans - Electrvm_RAW\49_BackingVox1DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    50_BackingVox2.wav:
+      Track_path: Digital Humans - Electrvm\Digital Humans - Electrvm_RAW\50_BackingVox2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    51_BackingVox3.wav:
+      Track_path: Digital Humans - Electrvm\Digital Humans - Electrvm_RAW\51_BackingVox3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    52_BackingVox4.wav:
+      Track_path: Digital Humans - Electrvm\Digital Humans - Electrvm_RAW\52_BackingVox4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    53_BackingVox5.wav:
+      Track_path: Digital Humans - Electrvm\Digital Humans - Electrvm_RAW\53_BackingVox5.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    54_BackingVox6.wav:
+      Track_path: Digital Humans - Electrvm\Digital Humans - Electrvm_RAW\54_BackingVox6.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Unused: {}
+  Ambient_Microphone: {}

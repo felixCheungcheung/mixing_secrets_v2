@@ -1,0 +1,288 @@
+Track2inst:
+  Electric_Organ:
+    31_HammondHi.wav:
+      Track_path: W.I.N.D. - Funky To The Bone\W.I.N.D. - Funky To The Bone_RAW\31_HammondHi.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    32_HammondLo.wav:
+      Track_path: W.I.N.D. - Funky To The Bone\W.I.N.D. - Funky To The Bone_RAW\32_HammondLo.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Synthesizer: {}
+  SFX: {}
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    01_KickMic1.wav:
+      Track_path: W.I.N.D. - Funky To The Bone\W.I.N.D. - Funky To The Bone_RAW\01_KickMic1.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    02_KickMic2.wav:
+      Track_path: W.I.N.D. - Funky To The Bone\W.I.N.D. - Funky To The Bone_RAW\02_KickMic2.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_Snare:
+    03_SnareUp.wav:
+      Track_path: W.I.N.D. - Funky To The Bone\W.I.N.D. - Funky To The Bone_RAW\03_SnareUp.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+    04_SnareDown.wav:
+      Track_path: W.I.N.D. - Funky To The Bone\W.I.N.D. - Funky To The Bone_RAW\04_SnareDown.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_HiHat:
+    05_HiHat.wav:
+      Track_path: W.I.N.D. - Funky To The Bone\W.I.N.D. - Funky To The Bone_RAW\05_HiHat.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_Cymbals: {}
+  Drum_Overheads:
+    07_Overheads.wav:
+      Track_path: W.I.N.D. - Funky To The Bone\W.I.N.D. - Funky To The Bone_RAW\07_Overheads.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Tom:
+    06_Toms.wav:
+      Track_path: W.I.N.D. - Funky To The Bone\W.I.N.D. - Funky To The Bone_RAW\06_Toms.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_Room:
+    08_DrumsRoom.wav:
+      Track_path: W.I.N.D. - Funky To The Bone\W.I.N.D. - Funky To The Bone_RAW\08_DrumsRoom.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine:
+    09_Tambourine.wav:
+      Track_path: W.I.N.D. - Funky To The Bone\W.I.N.D. - Funky To The Bone_RAW\09_Tambourine.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Loop: {}
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass: {}
+  Electric_Bass:
+    10_Bass.wav:
+      Track_path: W.I.N.D. - Funky To The Bone\W.I.N.D. - Funky To The Bone_RAW\10_Bass.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Acoustic_Guitar: {}
+  Electric_Guitar:
+    11_ElecGtr1Amp1Mic1.wav:
+      Track_path: W.I.N.D. - Funky To The Bone\W.I.N.D. - Funky To The Bone_RAW\11_ElecGtr1Amp1Mic1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    12_ElecGtr1Amp1Mic2.wav:
+      Track_path: W.I.N.D. - Funky To The Bone\W.I.N.D. - Funky To The Bone_RAW\12_ElecGtr1Amp1Mic2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    13_ElecGtr1Amp2Mic1.wav:
+      Track_path: W.I.N.D. - Funky To The Bone\W.I.N.D. - Funky To The Bone_RAW\13_ElecGtr1Amp2Mic1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    14_ElecGtr1Amp2Mic2.wav:
+      Track_path: W.I.N.D. - Funky To The Bone\W.I.N.D. - Funky To The Bone_RAW\14_ElecGtr1Amp2Mic2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    15_ElecGtr2Amp1Mic1.wav:
+      Track_path: W.I.N.D. - Funky To The Bone\W.I.N.D. - Funky To The Bone_RAW\15_ElecGtr2Amp1Mic1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    16_ElecGtr2Amp1Mic2.wav:
+      Track_path: W.I.N.D. - Funky To The Bone\W.I.N.D. - Funky To The Bone_RAW\16_ElecGtr2Amp1Mic2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    17_ElecGtr2Amp2Mic1.wav:
+      Track_path: W.I.N.D. - Funky To The Bone\W.I.N.D. - Funky To The Bone_RAW\17_ElecGtr2Amp2Mic1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    18_ElecGtr2Amp2Mic2.wav:
+      Track_path: W.I.N.D. - Funky To The Bone\W.I.N.D. - Funky To The Bone_RAW\18_ElecGtr2Amp2Mic2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    19_ElecGtr3Amp1Mic1.wav:
+      Track_path: W.I.N.D. - Funky To The Bone\W.I.N.D. - Funky To The Bone_RAW\19_ElecGtr3Amp1Mic1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    20_ElecGtr3Amp1Mic2.wav:
+      Track_path: W.I.N.D. - Funky To The Bone\W.I.N.D. - Funky To The Bone_RAW\20_ElecGtr3Amp1Mic2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    21_ElecGtr3Amp2Mic1.wav:
+      Track_path: W.I.N.D. - Funky To The Bone\W.I.N.D. - Funky To The Bone_RAW\21_ElecGtr3Amp2Mic1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    22_ElecGtr3Amp2Mic2.wav:
+      Track_path: W.I.N.D. - Funky To The Bone\W.I.N.D. - Funky To The Bone_RAW\22_ElecGtr3Amp2Mic2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    23_ElecGtr4Amp1Mic1.wav:
+      Track_path: W.I.N.D. - Funky To The Bone\W.I.N.D. - Funky To The Bone_RAW\23_ElecGtr4Amp1Mic1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    24_ElecGtr4Amp1Mic2.wav:
+      Track_path: W.I.N.D. - Funky To The Bone\W.I.N.D. - Funky To The Bone_RAW\24_ElecGtr4Amp1Mic2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    25_ElecGtr4Amp2Mic1.wav:
+      Track_path: W.I.N.D. - Funky To The Bone\W.I.N.D. - Funky To The Bone_RAW\25_ElecGtr4Amp2Mic1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    26_ElecGtr4Amp2Mic2.wav:
+      Track_path: W.I.N.D. - Funky To The Bone\W.I.N.D. - Funky To The Bone_RAW\26_ElecGtr4Amp2Mic2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    27_ElecGtr5Amp1Mic1.wav:
+      Track_path: W.I.N.D. - Funky To The Bone\W.I.N.D. - Funky To The Bone_RAW\27_ElecGtr5Amp1Mic1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    28_ElecGtr5Amp1Mic2.wav:
+      Track_path: W.I.N.D. - Funky To The Bone\W.I.N.D. - Funky To The Bone_RAW\28_ElecGtr5Amp1Mic2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    29_ElecGtr5Amp2Mic1.wav:
+      Track_path: W.I.N.D. - Funky To The Bone\W.I.N.D. - Funky To The Bone_RAW\29_ElecGtr5Amp2Mic1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    30_ElecGtr5Amp2Mic2.wav:
+      Track_path: W.I.N.D. - Funky To The Bone\W.I.N.D. - Funky To The Bone_RAW\30_ElecGtr5Amp2Mic2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Piano: {}
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    33_LeadVox1.wav:
+      Track_path: W.I.N.D. - Funky To The Bone\W.I.N.D. - Funky To The Bone_RAW\33_LeadVox1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    34_LeadVox1DT.wav:
+      Track_path: W.I.N.D. - Funky To The Bone\W.I.N.D. - Funky To The Bone_RAW\34_LeadVox1DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    35_LeadVox2.wav:
+      Track_path: W.I.N.D. - Funky To The Bone\W.I.N.D. - Funky To The Bone_RAW\35_LeadVox2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    36_LeadVox3.wav:
+      Track_path: W.I.N.D. - Funky To The Bone\W.I.N.D. - Funky To The Bone_RAW\36_LeadVox3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    37_LeadVox3DT.wav:
+      Track_path: W.I.N.D. - Funky To The Bone\W.I.N.D. - Funky To The Bone_RAW\37_LeadVox3DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Choir: {}
+  Backing_Vocal:
+    38_BackingVox1.wav:
+      Track_path: W.I.N.D. - Funky To The Bone\W.I.N.D. - Funky To The Bone_RAW\38_BackingVox1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    39_BackingVox2.wav:
+      Track_path: W.I.N.D. - Funky To The Bone\W.I.N.D. - Funky To The Bone_RAW\39_BackingVox2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    40_BackingVox3.wav:
+      Track_path: W.I.N.D. - Funky To The Bone\W.I.N.D. - Funky To The Bone_RAW\40_BackingVox3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    41_BackingVox4.wav:
+      Track_path: W.I.N.D. - Funky To The Bone\W.I.N.D. - Funky To The Bone_RAW\41_BackingVox4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    42_BackingVox5.wav:
+      Track_path: W.I.N.D. - Funky To The Bone\W.I.N.D. - Funky To The Bone_RAW\42_BackingVox5.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    43_BackingVox6.wav:
+      Track_path: W.I.N.D. - Funky To The Bone\W.I.N.D. - Funky To The Bone_RAW\43_BackingVox6.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Unused: {}
+  Ambient_Microphone: {}

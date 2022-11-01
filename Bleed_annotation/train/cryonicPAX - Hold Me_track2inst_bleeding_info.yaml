@@ -1,0 +1,188 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer:
+    18_Synth1.wav:
+      Track_path: cryonicPAX - Hold Me\cryonicPAX - Hold Me_RAW\18_Synth1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    19_Synth2.wav:
+      Track_path: cryonicPAX - Hold Me\cryonicPAX - Hold Me_RAW\19_Synth2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    20_Synth3.wav:
+      Track_path: cryonicPAX - Hold Me\cryonicPAX - Hold Me_RAW\20_Synth3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  SFX:
+    07_SFX1.wav:
+      Track_path: cryonicPAX - Hold Me\cryonicPAX - Hold Me_RAW\07_SFX1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    08_SFX2.wav:
+      Track_path: cryonicPAX - Hold Me\cryonicPAX - Hold Me_RAW\08_SFX2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    09_SFX3.wav:
+      Track_path: cryonicPAX - Hold Me\cryonicPAX - Hold Me_RAW\09_SFX3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    10_SFX4.wav:
+      Track_path: cryonicPAX - Hold Me\cryonicPAX - Hold Me_RAW\10_SFX4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    11_SFX5.wav:
+      Track_path: cryonicPAX - Hold Me\cryonicPAX - Hold Me_RAW\11_SFX5.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    12_SFX6.wav:
+      Track_path: cryonicPAX - Hold Me\cryonicPAX - Hold Me_RAW\12_SFX6.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    13_SFX7.wav:
+      Track_path: cryonicPAX - Hold Me\cryonicPAX - Hold Me_RAW\13_SFX7.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    14_SFX8.wav:
+      Track_path: cryonicPAX - Hold Me\cryonicPAX - Hold Me_RAW\14_SFX8.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    15_SFX9.wav:
+      Track_path: cryonicPAX - Hold Me\cryonicPAX - Hold Me_RAW\15_SFX9.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    17_Sample.wav:
+      Track_path: cryonicPAX - Hold Me\cryonicPAX - Hold Me_RAW\17_Sample.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    01_Kick1.wav:
+      Track_path: cryonicPAX - Hold Me\cryonicPAX - Hold Me_RAW\01_Kick1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    02_Kick2.wav:
+      Track_path: cryonicPAX - Hold Me\cryonicPAX - Hold Me_RAW\02_Kick2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Snare:
+    03_Snare1.wav:
+      Track_path: cryonicPAX - Hold Me\cryonicPAX - Hold Me_RAW\03_Snare1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    04_Snare2.wav:
+      Track_path: cryonicPAX - Hold Me\cryonicPAX - Hold Me_RAW\04_Snare2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_HiHat: {}
+  Drum_Cymbals: {}
+  Drum_Overheads: {}
+  Drum_Tom: {}
+  Drum_Room: {}
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop: {}
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion:
+    05_Percussion1.wav:
+      Track_path: cryonicPAX - Hold Me\cryonicPAX - Hold Me_RAW\05_Percussion1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    06_Percussion2.wav:
+      Track_path: cryonicPAX - Hold Me\cryonicPAX - Hold Me_RAW\06_Percussion2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Synth_Bass: {}
+  Electric_Bass:
+    16_Bass.wav:
+      Track_path: cryonicPAX - Hold Me\cryonicPAX - Hold Me_RAW\16_Bass.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Acoustic_Guitar: {}
+  Electric_Guitar: {}
+  Piano: {}
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    21_Vox1Dry.wav:
+      Track_path: cryonicPAX - Hold Me\cryonicPAX - Hold Me_RAW\21_Vox1Dry.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Choir: {}
+  Backing_Vocal:
+    22_Vox2Dry.wav:
+      Track_path: cryonicPAX - Hold Me\cryonicPAX - Hold Me_RAW\22_Vox2Dry.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Unused:
+    23_VoxBothSFX.wav:
+      Track_path: cryonicPAX - Hold Me\cryonicPAX - Hold Me_RAW\23_VoxBothSFX.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Ambient_Microphone: {}

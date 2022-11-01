@@ -1,0 +1,193 @@
+Track2inst:
+  Electric_Organ:
+    13_SFX1.wav:
+      Track_path: cryonicPAX - Another Way\cryonicPAX - Another Way_RAW\13_SFX1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    14_SFX2.wav:
+      Track_path: cryonicPAX - Another Way\cryonicPAX - Another Way_RAW\14_SFX2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    15_SFX3.wav:
+      Track_path: cryonicPAX - Another Way\cryonicPAX - Another Way_RAW\15_SFX3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Synthesizer:
+    19_Synth1.wav:
+      Track_path: cryonicPAX - Another Way\cryonicPAX - Another Way_RAW\19_Synth1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    20_Synth2.wav:
+      Track_path: cryonicPAX - Another Way\cryonicPAX - Another Way_RAW\20_Synth2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    21_Synth3.wav:
+      Track_path: cryonicPAX - Another Way\cryonicPAX - Another Way_RAW\21_Synth3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  SFX:
+    16_Bass1.wav:
+      Track_path: cryonicPAX - Another Way\cryonicPAX - Another Way_RAW\16_Bass1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    17_Bass2.wav:
+      Track_path: cryonicPAX - Another Way\cryonicPAX - Another Way_RAW\17_Bass2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    02_Kick.wav:
+      Track_path: cryonicPAX - Another Way\cryonicPAX - Another Way_RAW\02_Kick.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Snare:
+    03_Snare1.wav:
+      Track_path: cryonicPAX - Another Way\cryonicPAX - Another Way_RAW\03_Snare1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    04_Snare2.wav:
+      Track_path: cryonicPAX - Another Way\cryonicPAX - Another Way_RAW\04_Snare2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    05_Snare3.wav:
+      Track_path: cryonicPAX - Another Way\cryonicPAX - Another Way_RAW\05_Snare3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    06_Snare4.wav:
+      Track_path: cryonicPAX - Another Way\cryonicPAX - Another Way_RAW\06_Snare4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    07_SnareSFX.wav:
+      Track_path: cryonicPAX - Another Way\cryonicPAX - Another Way_RAW\07_SnareSFX.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_HiHat:
+    09_HiHat.wav:
+      Track_path: cryonicPAX - Another Way\cryonicPAX - Another Way_RAW\09_HiHat.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Cymbals:
+    10_Cymbals1.wav:
+      Track_path: cryonicPAX - Another Way\cryonicPAX - Another Way_RAW\10_Cymbals1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    11_Cymbals2.wav:
+      Track_path: cryonicPAX - Another Way\cryonicPAX - Another Way_RAW\11_Cymbals2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    12_Cymbals3.wav:
+      Track_path: cryonicPAX - Another Way\cryonicPAX - Another Way_RAW\12_Cymbals3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Overheads: {}
+  Drum_Tom: {}
+  Drum_Room: {}
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil:
+    08_Anvil.wav:
+      Track_path: cryonicPAX - Another Way\cryonicPAX - Another Way_RAW\08_Anvil.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop:
+    01_Break.wav:
+      Track_path: cryonicPAX - Another Way\cryonicPAX - Another Way_RAW\01_Break.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass:
+    18_Bass3.wav:
+      Track_path: cryonicPAX - Another Way\cryonicPAX - Another Way_RAW\18_Bass3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Electric_Bass: {}
+  Acoustic_Guitar: {}
+  Electric_Guitar: {}
+  Piano: {}
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section:
+    22_Strings1.wav:
+      Track_path: cryonicPAX - Another Way\cryonicPAX - Another Way_RAW\22_Strings1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    23_Strings2.wav:
+      Track_path: cryonicPAX - Another Way\cryonicPAX - Another Way_RAW\23_Strings2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    24_Vox.wav:
+      Track_path: cryonicPAX - Another Way\cryonicPAX - Another Way_RAW\24_Vox.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Choir: {}
+  Backing_Vocal: {}
+  Unused: {}
+  Ambient_Microphone: {}

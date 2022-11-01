@@ -1,0 +1,153 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer: {}
+  SFX: {}
+  Marimba: {}
+  Bell: {}
+  Accordian:
+    13_Accordion.wav:
+      Track_path: James May - If You Say\James May - If You Say_RAW\13_Accordion.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    01_Drums1Kick.wav:
+      Track_path: James May - If You Say\James May - If You Say_RAW\01_Drums1Kick.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads'
+      Comment: ''
+  Drum_Snare:
+    02_Drums1Snare.wav:
+      Track_path: James May - If You Say\James May - If You Say_RAW\02_Drums1Snare.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads'
+      Comment: ''
+  Drum_HiHat:
+    03_Drums1HiHat.wav:
+      Track_path: James May - If You Say\James May - If You Say_RAW\03_Drums1HiHat.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads'
+      Comment: ''
+  Drum_Cymbals: {}
+  Drum_Overheads:
+    04_Drums1Overheads.wav:
+      Track_path: James May - If You Say\James May - If You Say_RAW\04_Drums1Overheads.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Tom:
+    05_Drums1Tom1.wav:
+      Track_path: James May - If You Say\James May - If You Say_RAW\05_Drums1Tom1.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads'
+      Comment: ''
+    06_Drums1Tom2.wav:
+      Track_path: James May - If You Say\James May - If You Say_RAW\06_Drums1Tom2.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads'
+      Comment: ''
+  Drum_Room: {}
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop: {}
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion:
+    07_Drums2Conga.wav:
+      Track_path: James May - If You Say\James May - If You Say_RAW\07_Drums2Conga.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: 'slight band leakage during silence'
+    08_Drums2Overheads.wav:
+      Track_path: James May - If You Say\James May - If You Say_RAW\08_Drums2Overheads.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: 'slight band leakage during silence'
+  Synth_Bass: {}
+  Electric_Bass:
+    09_BassMic1.wav:
+      Track_path: James May - If You Say\James May - If You Say_RAW\09_BassMic1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    10_BassMic2.wav:
+      Track_path: James May - If You Say\James May - If You Say_RAW\10_BassMic2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Acoustic_Guitar:
+    11_AcGtrDI.wav:
+      Track_path: James May - If You Say\James May - If You Say_RAW\11_AcGtrDI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    12_AcGtrMic.wav:
+      Track_path: James May - If You Say\James May - If You Say_RAW\12_AcGtrMic.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Electric_Guitar: {}
+  Piano: {}
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet:
+    14_Clarinet1.wav:
+      Track_path: James May - If You Say\James May - If You Say_RAW\14_Clarinet1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    15_Clarinet2.wav:
+      Track_path: James May - If You Say\James May - If You Say_RAW\15_Clarinet2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    16_LeadVox.wav:
+      Track_path: James May - If You Say\James May - If You Say_RAW\16_LeadVox.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Choir: {}
+  Backing_Vocal: {}
+  Unused: {}
+  Ambient_Microphone: {}

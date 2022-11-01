@@ -1,0 +1,181 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer: {}
+  SFX: {}
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    Drums-Kick In-M82.wav:
+      Track_path: One Time Weekend - One Time Weekend\One Time Weekend - One Time
+        Weekend_RAW\Drums-Kick In-M82.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads, Electric_Guitar'
+      Comment: ''
+    Drums-Kick Out-AK47.wav:
+      Track_path: One Time Weekend - One Time Weekend\One Time Weekend - One Time
+        Weekend_RAW\Drums-Kick Out-AK47.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads, Electric_Guitar'
+      Comment: ''
+  Drum_Snare:
+    Drums-Side Snare-M60.wav:
+      Track_path: One Time Weekend - One Time Weekend\One Time Weekend - One Time
+        Weekend_RAW\Drums-Side Snare-M60.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads, Electric_Guitar'
+      Comment: ''
+    Drums-Snare Bottom-M81.wav:
+      Track_path: One Time Weekend - One Time Weekend\One Time Weekend - One Time
+        Weekend_RAW\Drums-Snare Bottom-M81.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads'
+      Comment: ''
+    Drums-Snare Top-M80.wav:
+      Track_path: One Time Weekend - One Time Weekend\One Time Weekend - One Time
+        Weekend_RAW\Drums-Snare Top-M80.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads, Electric_Guitar'
+      Comment: ''
+  Drum_HiHat:
+    Drums-HAT-M60.wav:
+      Track_path: One Time Weekend - One Time Weekend\One Time Weekend - One Time
+        Weekend_RAW\Drums-HAT-M60.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads, Electric_Guitar'
+      Comment: ''
+  Drum_Cymbals: {}
+  Drum_Overheads:
+    Drums-Overheads-ELA M 260.wav:
+      Track_path: One Time Weekend - One Time Weekend\One Time Weekend - One Time
+        Weekend_RAW\Drums-Overheads-ELA M 260.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Electric_Guitar'
+      Comment: ''
+  Drum_Tom:
+    Drums-Floor Tom1-M81.wav:
+      Track_path: One Time Weekend - One Time Weekend\One Time Weekend - One Time
+        Weekend_RAW\Drums-Floor Tom1-M81.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads, Electric_Guitar'
+      Comment: ''
+    Drums-Rack Tom-M80.wav:
+      Track_path: One Time Weekend - One Time Weekend\One Time Weekend - One Time
+        Weekend_RAW\Drums-Rack Tom-M80.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads, Electric_Guitar'
+      Comment: ''
+    Drums-Rack 2-M80.wav:
+      Track_path: One Time Weekend - One Time Weekend\One Time Weekend - One Time
+        Weekend_RAW\Drums-Rack 2-M80.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads, Electric_Guitar'
+      Comment: ''
+  Drum_Room:
+    Drums-Room-M81.wav:
+      Track_path: One Time Weekend - One Time Weekend\One Time Weekend - One Time
+        Weekend_RAW\Drums-Room-M81.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Electric_Guitar, Backing_Vocal'
+      Comment: ''
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop: {}
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass: {}
+  Electric_Bass:
+    Bass-Active DI.wav:
+      Track_path: One Time Weekend - One Time Weekend\One Time Weekend - One Time
+        Weekend_RAW\Bass-Active DI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Bass-Amp-CU29.wav:
+      Track_path: One Time Weekend - One Time Weekend\One Time Weekend - One Time
+        Weekend_RAW\Bass-Amp-CU29.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Acoustic_Guitar: {}
+  Electric_Guitar:
+    ELE Guitar 1-M81.wav:
+      Track_path: One Time Weekend - One Time Weekend\One Time Weekend - One Time
+        Weekend_RAW\ELE Guitar 1-M81.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    ELE Guitar 2-M80.wav:
+      Track_path: One Time Weekend - One Time Weekend\One Time Weekend - One Time
+        Weekend_RAW\ELE Guitar 2-M80.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Piano: {}
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    Vocals-BV-M81.wav:
+      Track_path: One Time Weekend - One Time Weekend\One Time Weekend - One Time
+        Weekend_RAW\Vocals-BV-M81.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads, Electric_Guitar'
+      Comment: ''
+  Choir: {}
+  Backing_Vocal:
+    Vocals-2-M81.wav:
+      Track_path: One Time Weekend - One Time Weekend\One Time Weekend - One Time
+        Weekend_RAW\Vocals-2-M81.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads, Lead_Vocal, Electric_Guitar'
+      Comment: ''
+    Vocals-LEAD-M81.wav:
+      Track_path: One Time Weekend - One Time Weekend\One Time Weekend - One Time
+        Weekend_RAW\Vocals-LEAD-M81.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads, Lead_Vocal, Electric_Guitar'
+      Comment: ''
+  Unused: {}
+  Ambient_Microphone: {}

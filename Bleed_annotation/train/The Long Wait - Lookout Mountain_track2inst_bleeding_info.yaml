@@ -1,0 +1,168 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer: {}
+  SFX: {}
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    01_Kick.wav:
+      Track_path: The Long Wait - Lookout Mountain\The Long Wait - Lookout Mountain_RAW\01_Kick.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_Snare:
+    02_Snare.wav:
+      Track_path: The Long Wait - Lookout Mountain\The Long Wait - Lookout Mountain_RAW\02_Snare.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: Drum_Overheads
+      Comment: ''
+  Drum_HiHat: {}
+  Drum_Cymbals: {}
+  Drum_Overheads:
+    03_Overheads.wav:
+      Track_path: The Long Wait - Lookout Mountain\The Long Wait - Lookout Mountain_RAW\03_Overheads.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Tom: {}
+  Drum_Room:
+    04_DrumsRoom.wav:
+      Track_path: The Long Wait - Lookout Mountain\The Long Wait - Lookout Mountain_RAW\04_DrumsRoom.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop: {}
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass: {}
+  Electric_Bass:
+    05_Bass.wav:
+      Track_path: The Long Wait - Lookout Mountain\The Long Wait - Lookout Mountain_RAW\05_Bass.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Acoustic_Guitar:
+    06_AcousticGtr1Mic1.wav:
+      Track_path: The Long Wait - Lookout Mountain\The Long Wait - Lookout Mountain_RAW\06_AcousticGtr1Mic1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    07_AcousticGtr1Mic2.wav:
+      Track_path: The Long Wait - Lookout Mountain\The Long Wait - Lookout Mountain_RAW\07_AcousticGtr1Mic2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    08_AcousticGtr2Mic1.wav:
+      Track_path: The Long Wait - Lookout Mountain\The Long Wait - Lookout Mountain_RAW\08_AcousticGtr2Mic1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    09_AcousticGtr2Mic2.wav:
+      Track_path: The Long Wait - Lookout Mountain\The Long Wait - Lookout Mountain_RAW\09_AcousticGtr2Mic2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Electric_Guitar:
+    10_ElecGtrMic1.wav:
+      Track_path: The Long Wait - Lookout Mountain\The Long Wait - Lookout Mountain_RAW\10_ElecGtrMic1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    11_ElecGtrMic2.wav:
+      Track_path: The Long Wait - Lookout Mountain\The Long Wait - Lookout Mountain_RAW\11_ElecGtrMic2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    12_ElecGtrMic3.wav:
+      Track_path: The Long Wait - Lookout Mountain\The Long Wait - Lookout Mountain_RAW\12_ElecGtrMic3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Piano: {}
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    13_LeadVox.wav:
+      Track_path: The Long Wait - Lookout Mountain\The Long Wait - Lookout Mountain_RAW\13_LeadVox.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    14_LeadVoxDT.wav:
+      Track_path: The Long Wait - Lookout Mountain\The Long Wait - Lookout Mountain_RAW\14_LeadVoxDT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Choir: {}
+  Backing_Vocal:
+    16_BackingVox1.wav:
+      Track_path: The Long Wait - Lookout Mountain\The Long Wait - Lookout Mountain_RAW\16_BackingVox1.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Lead_Vocal, Drum_Overheads'
+      Comment: 'slight'
+    17_BackingVox1DT.wav:
+      Track_path: The Long Wait - Lookout Mountain\The Long Wait - Lookout Mountain_RAW\17_BackingVox1DT.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Lead_Vocal, Drum_Overheads'
+      Comment: 'slight'
+    18_BackingVox2.wav:
+      Track_path: The Long Wait - Lookout Mountain\The Long Wait - Lookout Mountain_RAW\18_BackingVox2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    19_BackingVox2DT.wav:
+      Track_path: The Long Wait - Lookout Mountain\The Long Wait - Lookout Mountain_RAW\19_BackingVox2DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Unused:
+    15_LeadVox_AltTake.wav:
+      Track_path: The Long Wait - Lookout Mountain\The Long Wait - Lookout Mountain_RAW\15_LeadVox_AltTake.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Ambient_Microphone: {}

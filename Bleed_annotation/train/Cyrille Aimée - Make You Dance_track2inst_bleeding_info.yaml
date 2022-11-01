@@ -1,0 +1,163 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer: {}
+  SFX: {}
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    03 Kick.wav:
+      Track_path: "Cyrille Aim\xE9e - Make You Dance\\Cyrille Aim\xE9e - Make You\
+        \ Dance_RAW\\03 Kick.wav"
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads'
+      Comment: ''
+  Drum_Snare:
+    04 Snare Top.wav:
+      Track_path: "Cyrille Aim\xE9e - Make You Dance\\Cyrille Aim\xE9e - Make You\
+        \ Dance_RAW\\04 Snare Top.wav"
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads'
+      Comment: ''
+    05 Snare Bottom.wav:
+      Track_path: "Cyrille Aim\xE9e - Make You Dance\\Cyrille Aim\xE9e - Make You\
+        \ Dance_RAW\\05 Snare Bottom.wav"
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads'
+      Comment: ''
+  Drum_HiHat:
+    06 Hat.wav:
+      Track_path: "Cyrille Aim\xE9e - Make You Dance\\Cyrille Aim\xE9e - Make You\
+        \ Dance_RAW\\06 Hat.wav"
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads'
+      Comment: ''
+  Drum_Cymbals: {}
+  Drum_Overheads:
+    09 OH Hat.wav:
+      Track_path: "Cyrille Aim\xE9e - Make You Dance\\Cyrille Aim\xE9e - Make You\
+        \ Dance_RAW\\09 OH Hat.wav"
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Saxophone, Trumpet, Trombone'
+      Comment: ''
+    10 OH Floor.wav:
+      Track_path: "Cyrille Aim\xE9e - Make You Dance\\Cyrille Aim\xE9e - Make You\
+        \ Dance_RAW\\10 OH Floor.wav"
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Saxophone, Trumpet, Trombone'
+      Comment: ''
+  Drum_Tom:
+    07 Tom 1 Hi.wav:
+      Track_path: "Cyrille Aim\xE9e - Make You Dance\\Cyrille Aim\xE9e - Make You\
+        \ Dance_RAW\\07 Tom 1 Hi.wav"
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads'
+      Comment: ''
+    08 Tom 2 Lo.wav:
+      Track_path: "Cyrille Aim\xE9e - Make You Dance\\Cyrille Aim\xE9e - Make You\
+        \ Dance_RAW\\08 Tom 2 Lo.wav"
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads'
+      Comment: ''
+  Drum_Room: {}
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop: {}
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass: {}
+  Electric_Bass:
+    02 Bass DI.wav:
+      Track_path: "Cyrille Aim\xE9e - Make You Dance\\Cyrille Aim\xE9e - Make You\
+        \ Dance_RAW\\02 Bass DI.wav"
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Acoustic_Guitar: {}
+  Electric_Guitar:
+    12 Guitar Amp.wav:
+      Track_path: "Cyrille Aim\xE9e - Make You Dance\\Cyrille Aim\xE9e - Make You\
+        \ Dance_RAW\\12 Guitar Amp.wav"
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: 'very slight Sax'
+  Piano: {}
+  Electric_Piano:
+    11 Wurly.wav:
+      Track_path: "Cyrille Aim\xE9e - Make You Dance\\Cyrille Aim\xE9e - Make You\
+        \ Dance_RAW\\11 Wurly.wav"
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Brass_Section: {}
+  Saxophone:
+    13 Sax OD.wav:
+      Track_path: "Cyrille Aim\xE9e - Make You Dance\\Cyrille Aim\xE9e - Make You\
+        \ Dance_RAW\\13 Sax OD.wav"
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads'
+      Comment: ''
+  Trumpet:
+    15 Trumpet OD.wav:
+      Track_path: "Cyrille Aim\xE9e - Make You Dance\\Cyrille Aim\xE9e - Make You\
+        \ Dance_RAW\\15 Trumpet OD.wav"
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads'
+      Comment: ''
+  French_Horn: {}
+  Trombone:
+    14 Bone OD.wav:
+      Track_path: "Cyrille Aim\xE9e - Make You Dance\\Cyrille Aim\xE9e - Make You\
+        \ Dance_RAW\\14 Bone OD.wav"
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads'
+      Comment: ''
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    01 Vocal.wav:
+      Track_path: "Cyrille Aim\xE9e - Make You Dance\\Cyrille Aim\xE9e - Make You\
+        \ Dance_RAW\\01 Vocal.wav"
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads, Saxophone, Trumpet, Trombone'
+      Comment: ''
+  Choir: {}
+  Backing_Vocal: {}
+  Unused: {}
+  Ambient_Microphone: {}
