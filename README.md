@@ -16,7 +16,7 @@ This is an accompanying repository of my my [master thesis](https://zenodo.org/r
 }
 ```
 The link to my presentation: https://docs.google.com/presentation/d/1BD4iTVwp2obUxl8mThp9g8DmRBhJg3G42zwxMGK_bLg/edit?usp=sharing
-## Download the published dataset from zenodo:
+## Download the published MS21 dataset from zenodo:
 The link to the dataset from zenodo is coming soon!! It is big and I need to contact zenodo to increase my quota.
 
 ## Purpose of this repository:
@@ -24,6 +24,8 @@ This repository contains the scripts for constructing MS21. This data is only fo
 The material contained in it should not be used for any commercial purpose without the express permission of the copyright holders. Please refer to www.cambridge-mt.com for further details.
 
 For evaluation experiment, our code is in a branch of Asteroid which called [ms21](https://github.com/felixCheungcheung/asteroid/tree/ms21/egs/musdb18/X-UMX).
+
+## Constructing MS21 Dataset: Step by Step
 * **Creat a conda environment:**
 ```
 conda env create -f environment.yml
@@ -56,7 +58,7 @@ python soundfile_check.py -h
 ```
 * After splitting the dataset. we can do track-level **loudness normalization**:
 ```
-python ms21_normalization.py "path_to_dataset" "output_path" -25      # Default target_loudness = -25 LUKS
+python ms21_normalization.py "path_to_dataset" "output_path" -25      # Default target_loudness = -25 LUFS
 ```
 * **Automatic Stem generation and Dataset Formatting**: Same folder structure of MedleyDB and special automatic mixing algorithm for generating stereo backing vocal stem. 
 ```
