@@ -64,5 +64,6 @@ python ms21_normalization.py "path_to_dataset" "output_path" -25      # Default 
 ```
 python ms21_generate_yaml.py "path_to_the_splitted_and_normalized_dataset" "outpath_to_the_well_structured_dataset" num_threads      #Note that within the script target loudness is set to -25 LUFS
 ```
-
-
+## TODO: Design automatic mixing algorithm for each instrument
+## TODO: To only use non-bleeding multi-tracks for stem generation
+## TODO: A dataloader for Hierarchical Music Source Separation (HMSS) and MSS training
