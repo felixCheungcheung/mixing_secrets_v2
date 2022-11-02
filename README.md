@@ -69,3 +69,6 @@ python ms21_generate_yaml.py "path_to_the_splitted_and_normalized_dataset" "outp
 ## TODO: Design automatic mixing algorithm for each instrument
 ## TODO: To only use non-bleeding multi-tracks for stem generation
 ## TODO: A dataloader for Hierarchical Music Source Separation (HMSS) and MSS training
+## Statistics of MS21
+### Instrument Level Bleeding Annotation
+![plot1](https://github.com/felixCheungcheung/mixing_secrets_v2/blob/main/dataset_plots/14inst%20Level%20Bleeding%20Statistics.png)
