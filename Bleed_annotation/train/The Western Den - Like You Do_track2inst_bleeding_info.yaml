@@ -174,7 +174,7 @@ Track2inst:
     Vocals-Guitar-Proto.wav:
       Track_path: The Western Den - Like You Do\The Western Den - Like You Do_RAW\Vocals-Guitar-Proto.wav
       Bleeding: 'Yes'
-      Bleeding_Instrument: 'Electric_Guitar, Drum_Overheads, '
+      Bleeding_Instrument: 'Electric_Guitar, Drum_Overheads'
       Comment: ''
   Unused: {}
   Ambient_Microphone: {}

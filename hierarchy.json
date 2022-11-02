@@ -20,7 +20,7 @@
         "vocal":["lead_vocal", "backing_vocal"],
         "percussion": ["nontonal_percussion", "drum_set"],
         "bass": ["bass"],
-        "other": ["tonal_percussion", "woodwinds", "brass", "electronic_keyboards", "pianos", "electric_guitar", "acoustic_guitar", "strings", "fx/processed_sound"]
+        "other": ["tonal_percussion", "woodwinds", "brass", "electronic_keyboards", "pianos", "electric_guitar", "acoustic_guitar", "strings", "fx_processed_sound"]
     },
     "stem2stem":{
         "vocal":["vocal"],

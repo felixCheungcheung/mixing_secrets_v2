@@ -44,7 +44,7 @@ Track2inst:
     07_Tom2.wav:
       Track_path: Bruks - Kak Tvoi Dela Vova\Bruks - Kak Tvoi Dela Vova_RAW\07_Tom2.wav
       Bleeding: 'Yes'
-      Bleeding_Instrument: 'Electric_Bass, lectric_Guitar, Drum_Overheads'
+      Bleeding_Instrument: 'Electric_Bass, Electric_Guitar, Drum_Overheads'
       Comment: ''
     08_Tom3.wav:
       Track_path: Bruks - Kak Tvoi Dela Vova\Bruks - Kak Tvoi Dela Vova_RAW\08_Tom3.wav
