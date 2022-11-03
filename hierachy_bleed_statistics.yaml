@@ -1,0 +1,367 @@
+track2inst:
+  lead_vocal:
+    component:
+    - Lead_Vocal
+    Bleed: 75
+    Total_MultiTrack_Num: 1084
+    Song_num: 422
+    Count_Boolean: true
+    Bleed_Inst:
+      drum_set: 63
+      backing_vocal: 15
+      bass: 11
+      electric_guitar: 34
+      metronome: 1
+      acoustic_guitar: 9
+      woodwinds: 13
+      brass: 13
+      electronic_keyboards: 7
+      pianos: 4
+      nontonal_percussion: 2
+      strings: 2
+      Band: 6
+  backing_vocal:
+    component:
+    - Backing_Vocal
+    - Choir
+    Bleed: 91
+    Total_MultiTrack_Num: 2069
+    Song_num: 343
+    Count_Boolean: true
+    Bleed_Inst:
+      drum_set: 75
+      lead_vocal: 48
+      bass: 14
+      electric_guitar: 51
+      acoustic_guitar: 10
+      woodwinds: 20
+      brass: 18
+      electronic_keyboards: 15
+      pianos: 2
+      strings: 3
+      nontonal_percussion: 4
+  nontonal_percussion:
+    component:
+    - Percussion
+    - Shaker
+    - Claps
+    - Clicks
+    - Maracas
+    - Tambourine
+    - Guaracha
+    - Gong
+    - Guache
+    - Taiko
+    - Bass_Drum
+    - Timpani
+    - Woodblock
+    - Handdrum
+    - Llamador
+    - Paliteo
+    - Conga
+    - Sticks
+    - Bongo
+    - Timbale
+    - Pandeiro
+    - Djembe
+    Bleed: 20
+    Total_MultiTrack_Num: 566
+    Song_num: 207
+    Count_Boolean: false
+    Bleed_Inst:
+      drum_set: 14
+      woodwinds: 8
+      brass: 11
+      electronic_keyboards: 2
+      electric_guitar: 8
+      lead_vocal: 4
+      backing_vocal: 2
+      acoustic_guitar: 1
+      bass: 2
+  drum_set:
+    component:
+    - Loop
+    - Drum_Kick
+    - Drum_Snare
+    - Drum_HiHat
+    - Drum_Cymbals
+    - Drum_Overheads
+    - Drum_Tom
+    - Drum_Room
+    Bleed: 443
+    Total_MultiTrack_Num: 4025
+    Song_num: 480
+    Count_Boolean: true
+    Bleed_Inst:
+      lead_vocal: 195
+      backing_vocal: 81
+      electric_guitar: 271
+      bass: 104
+      woodwinds: 109
+      brass: 98
+      nontonal_percussion: 7
+      electronic_keyboards: 55
+      pianos: 38
+      acoustic_guitar: 12
+      strings: 14
+  bass:
+    component:
+    - Electric_Bass
+    - Synth_Bass
+    - Double_Bass
+    Bleed: 33
+    Total_MultiTrack_Num: 827
+    Song_num: 479
+    Count_Boolean: true
+    Bleed_Inst:
+      electric_guitar: 12
+      drum_set: 27
+      lead_vocal: 11
+      electronic_keyboards: 5
+      pianos: 9
+      woodwinds: 8
+      brass: 8
+      backing_vocal: 3
+      acoustic_guitar: 2
+      strings: 2
+  tonal_percussion:
+    component:
+    - Marimba
+    - Bell
+    - Chimes
+    - Anvil
+    - Triangle
+    - Other_Chromatic
+    Bleed: 2
+    Total_MultiTrack_Num: 87
+    Song_num: 59
+    Count_Boolean: false
+    Bleed_Inst:
+      acoustic_guitar: 2
+      woodwinds: 1
+      lead_vocal: 1
+      backing_vocal: 1
+  woodwinds:
+    component:
+    - WoodWind_Section
+    - Flute
+    - Whistle
+    - Accordian
+    - Harmonica
+    - Clarinet
+    - Bagpipe
+    - Saxophone
+    - Bassoon
+    - Oboe
+    Bleed: 35
+    Total_MultiTrack_Num: 148
+    Song_num: 66
+    Count_Boolean: false
+    Bleed_Inst:
+      drum_set: 33
+      backing_vocal: 8
+      lead_vocal: 12
+      brass: 35
+      nontonal_percussion: 1
+      pianos: 14
+      electric_guitar: 11
+      electronic_keyboards: 8
+      bass: 17
+      acoustic_guitar: 2
+      tonal_percussion: 1
+  brass:
+    component:
+    - Brass_Section
+    - Trumpet
+    - French_Horn
+    - Trombone
+    - Tuba
+    Bleed: 40
+    Total_MultiTrack_Num: 134
+    Song_num: 56
+    Count_Boolean: false
+    Bleed_Inst:
+      drum_set: 40
+      backing_vocal: 7
+      lead_vocal: 10
+      nontonal_percussion: 5
+      woodwinds: 21
+      pianos: 9
+      electric_guitar: 9
+      bass: 21
+      acoustic_guitar: 2
+      electronic_keyboards: 3
+  electronic_keyboards:
+    component:
+    - Electric_Organ
+    - Synthesizer
+    Bleed: 20
+    Total_MultiTrack_Num: 1125
+    Song_num: 262
+    Count_Boolean: false
+    Bleed_Inst:
+      drum_set: 20
+      bass: 10
+      electric_guitar: 15
+      woodwinds: 5
+      brass: 10
+      nontonal_percussion: 2
+      lead_vocal: 6
+  fx_processed_sound:
+    component:
+    - SFX
+    Bleed: 0
+    Total_MultiTrack_Num: 534
+    Song_num: 142
+    Count_Boolean: false
+    Bleed_Inst: {}
+  pianos:
+    component:
+    - Piano
+    - Electric_Piano
+    Bleed: 14
+    Total_MultiTrack_Num: 310
+    Song_num: 197
+    Count_Boolean: false
+    Bleed_Inst:
+      drum_set: 12
+      lead_vocal: 6
+      woodwinds: 6
+      brass: 5
+      electric_guitar: 3
+      bass: 4
+      backing_vocal: 2
+      electronic_keyboards: 2
+  electric_guitar:
+    component:
+    - Electric_Guitar
+    Bleed: 74
+    Total_MultiTrack_Num: 2477
+    Song_num: 371
+    Count_Boolean: true
+    Bleed_Inst:
+      drum_set: 73
+      lead_vocal: 22
+      electronic_keyboards: 11
+      pianos: 3
+      woodwinds: 6
+      brass: 8
+      backing_vocal: 5
+      bass: 7
+      strings: 1
+      nontonal_percussion: 1
+      acoustic_guitar: 1
+  acoustic_guitar:
+    component:
+    - Acoustic_Guitar
+    Bleed: 23
+    Total_MultiTrack_Num: 371
+    Song_num: 148
+    Count_Boolean: false
+    Bleed_Inst:
+      drum_set: 9
+      bass: 2
+      lead_vocal: 16
+      backing_vocal: 10
+      woodwinds: 1
+      strings: 3
+      brass: 2
+      nontonal_percussion: 2
+      pianos: 1
+      electric_guitar: 1
+  strings:
+    component:
+    - String_Section
+    - Violin
+    - Fiddle
+    - Viola
+    - Cello
+    - Harp
+    Bleed: 5
+    Total_MultiTrack_Num: 258
+    Song_num: 96
+    Count_Boolean: false
+    Bleed_Inst:
+      drum_set: 3
+      lead_vocal: 5
+      backing_vocal: 2
+      electric_guitar: 2
+      acoustic_guitar: 3
+inst2stem:
+  vocal:
+    component:
+    - lead_vocal
+    - backing_vocal
+    Bleed: 166
+    Total_MultiTrack_Num: 3153
+    Song_num: 437
+    Count_Boolean: true
+    Bleed_Inst:
+      percussion: 144
+      bass: 25
+      other: 201
+      Band: 6
+  percussion:
+    component:
+    - nontonal_percussion
+    - drum_set
+    Bleed: 463
+    Total_MultiTrack_Num: 4591
+    Song_num: 486
+    Count_Boolean: true
+    Bleed_Inst:
+      vocal: 282
+      other: 627
+      bass: 106
+  bass:
+    component:
+    - bass
+    Bleed: 33
+    Total_MultiTrack_Num: 827
+    Song_num: 479
+    Count_Boolean: true
+    Bleed_Inst:
+      other: 46
+      percussion: 27
+      vocal: 14
+  other:
+    component:
+    - tonal_percussion
+    - woodwinds
+    - brass
+    - electronic_keyboards
+    - pianos
+    - electric_guitar
+    - acoustic_guitar
+    - strings
+    - fx_processed_sound
+    Bleed: 211
+    Total_MultiTrack_Num: 5444
+    Song_num: 499
+    Count_Boolean: true
+    Bleed_Inst:
+      percussion: 201
+      bass: 61
+      vocal: 113
+stem2stem:
+  vocal:
+    component:
+    - vocal
+    Bleed: 166
+    Total_MultiTrack_Num: 3153
+    Song_num: 437
+    Count_Boolean: true
+    Bleed_Inst:
+      accompaniment: 370
+      Band: 6
+  accompaniment:
+    component:
+    - percussion
+    - bass
+    - other
+    Bleed: 292
+    Total_MultiTrack_Num: 10862
+    Song_num: 500
+    Count_Boolean: true
+    Bleed_Inst:
+      vocal: 409

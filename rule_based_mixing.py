@@ -35,7 +35,7 @@ def salient_info(X, nfft, threshold):
             magdB = 20*np.log10(sum(np.abs(X[0][:])))   # only calculate the first channel
         else:
             magdB = 20*np.log10(sum(np.abs(X[:,])))
-        print(np.min(magdB))
+        # print(np.min(magdB))
         mask = (magdB >= threshold)                 # same dimension as X
     return mask
 

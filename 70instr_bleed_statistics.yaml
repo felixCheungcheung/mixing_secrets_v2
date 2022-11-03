@@ -1,0 +1,684 @@
+Electric_Organ:
+  Bleed: 24
+  Total_MultiTrack_Num: 128
+  Song_num: 82
+  Bleed_Inst:
+    Band: 7
+    Drum_Overheads: 17
+    Electric_Bass: 8
+    Electric_Guitar: 12
+    Saxophone: 4
+    Trumpet: 5
+    Trombone: 2
+    Conga: 2
+    Lead_Vocal: 3
+    Synthesizer: 3
+Synthesizer:
+  Bleed: 5
+  Total_MultiTrack_Num: 997
+  Song_num: 210
+  Bleed_Inst:
+    Band: 2
+    Electric_Bass: 2
+    Lead_Vocal: 3
+    Trumpet: 3
+    Electric_Organ: 3
+    Electric_Guitar: 3
+    Drum_Overheads: 3
+    Saxophone: 1
+SFX:
+  Bleed: 0
+  Total_MultiTrack_Num: 534
+  Song_num: 142
+  Bleed_Inst: {}
+Marimba:
+  Bleed: 1
+  Total_MultiTrack_Num: 9
+  Song_num: 6
+  Bleed_Inst:
+    Acoustic_Guitar: 1
+Bell:
+  Bleed: 0
+  Total_MultiTrack_Num: 42
+  Song_num: 36
+  Bleed_Inst: {}
+Accordian:
+  Bleed: 0
+  Total_MultiTrack_Num: 11
+  Song_num: 6
+  Bleed_Inst: {}
+Harp:
+  Bleed: 0
+  Total_MultiTrack_Num: 10
+  Song_num: 8
+  Bleed_Inst: {}
+Harmonica:
+  Bleed: 2
+  Total_MultiTrack_Num: 4
+  Song_num: 4
+  Bleed_Inst:
+    Band: 1
+    Other_Chromatic: 1
+    Acoustic_Guitar: 1
+    Lead_Vocal: 1
+    Backing_Vocal: 1
+Triangle:
+  Bleed: 0
+  Total_MultiTrack_Num: 6
+  Song_num: 6
+  Bleed_Inst: {}
+Chimes:
+  Bleed: 0
+  Total_MultiTrack_Num: 9
+  Song_num: 7
+  Bleed_Inst: {}
+Other_Chromatic:
+  Bleed: 1
+  Total_MultiTrack_Num: 19
+  Song_num: 16
+  Bleed_Inst:
+    Harmonica: 1
+    Lead_Vocal: 1
+    Acoustic_Guitar: 1
+    Backing_Vocal: 1
+Drum_Kick:
+  Bleed: 395
+  Total_MultiTrack_Num: 746
+  Song_num: 436
+  Bleed_Inst:
+    Drum_Overheads: 387
+    Lead_Vocal: 33
+    Backing_Vocal: 13
+    Band: 7
+    Electric_Guitar: 50
+    Electric_Bass: 13
+    Saxophone: 23
+    Trumpet: 15
+    Drum_Snare: 1
+    Brass_Section: 2
+    Electric_Organ: 9
+    Piano: 9
+    Electric_Piano: 2
+    Trombone: 5
+    Double_Bass: 5
+    Fiddle: 1
+    Acoustic_Guitar: 1
+    Violin: 1
+Drum_Snare:
+  Bleed: 435
+  Total_MultiTrack_Num: 811
+  Song_num: 427
+  Bleed_Inst:
+    Drum_Overheads: 423
+    Lead_Vocal: 32
+    Backing_Vocal: 13
+    Band: 8
+    Electric_Guitar: 47
+    Electric_Bass: 13
+    Saxophone: 26
+    Trumpet: 15
+    Drum_Kick: 4
+    Brass_Section: 2
+    Electric_Organ: 9
+    Piano: 6
+    Electric_Piano: 2
+    Trombone: 5
+    Double_Bass: 4
+    Fiddle: 1
+    Conga: 1
+    Acoustic_Guitar: 1
+    Synthesizer: 1
+    Violin: 1
+Drum_HiHat:
+  Bleed: 139
+  Total_MultiTrack_Num: 381
+  Song_num: 291
+  Bleed_Inst:
+    Drum_Overheads: 134
+    Band: 5
+    Electric_Guitar: 20
+    Lead_Vocal: 17
+    Backing_Vocal: 4
+    Brass_Section: 1
+    Electric_Bass: 8
+    Electric_Organ: 3
+    Electric_Piano: 1
+    Saxophone: 5
+    Trumpet: 4
+    Fiddle: 1
+    Synthesizer: 1
+    Acoustic_Guitar: 1
+    Violin: 1
+Drum_Cymbals:
+  Bleed: 65
+  Total_MultiTrack_Num: 305
+  Song_num: 175
+  Bleed_Inst:
+    Drum_Overheads: 64
+    Band: 1
+    Electric_Bass: 5
+    Electric_Guitar: 4
+    Lead_Vocal: 2
+    Conga: 1
+    Backing_Vocal: 1
+Drum_Overheads:
+  Bleed: 101
+  Total_MultiTrack_Num: 448
+  Song_num: 348
+  Bleed_Inst:
+    Lead_Vocal: 37
+    Backing_Vocal: 13
+    Band: 13
+    Electric_Guitar: 47
+    Electric_Bass: 23
+    Saxophone: 24
+    Trumpet: 17
+    Trombone: 7
+    Brass_Section: 1
+    Percussion: 1
+    Electric_Organ: 8
+    Piano: 8
+    Electric_Piano: 2
+    Drum_Overheads: 2
+    Acoustic_Guitar: 5
+    Double_Bass: 7
+    Fiddle: 1
+    Shaker: 1
+    Conga: 1
+    Synthesizer: 1
+    Violin: 1
+Drum_Tom:
+  Bleed: 517
+  Total_MultiTrack_Num: 846
+  Song_num: 323
+  Bleed_Inst:
+    Drum_Overheads: 500
+    Lead_Vocal: 55
+    Backing_Vocal: 24
+    Band: 15
+    Electric_Guitar: 80
+    Electric_Bass: 20
+    Saxophone: 28
+    Trumpet: 14
+    Drum_Kick: 1
+    Brass_Section: 3
+    Electric_Organ: 18
+    Electric_Piano: 2
+    Fiddle: 3
+    Trombone: 3
+    Acoustic_Guitar: 3
+    Shaker: 1
+    Piano: 5
+    Double_Bass: 3
+    Synthesizer: 2
+    Violin: 2
+Drum_Room:
+  Bleed: 38
+  Total_MultiTrack_Num: 326
+  Song_num: 213
+  Bleed_Inst:
+    Lead_Vocal: 19
+    Backing_Vocal: 13
+    Band: 4
+    Electric_Guitar: 23
+    Drum_Overheads: 3
+    Electric_Organ: 3
+    Saxophone: 3
+    Electric_Bass: 3
+    Fiddle: 1
+    Acoustic_Guitar: 1
+    Trumpet: 2
+    Trombone: 2
+    Shaker: 1
+    Piano: 1
+Shaker:
+  Bleed: 3
+  Total_MultiTrack_Num: 80
+  Song_num: 68
+  Bleed_Inst:
+    Synthesizer: 1
+    Lead_Vocal: 1
+    Electric_Guitar: 1
+Taiko:
+  Bleed: 0
+  Total_MultiTrack_Num: 9
+  Song_num: 7
+  Bleed_Inst: {}
+Timpani:
+  Bleed: 0
+  Total_MultiTrack_Num: 14
+  Song_num: 9
+  Bleed_Inst: {}
+Llamador:
+  Bleed: 0
+  Total_MultiTrack_Num: 0
+  Song_num: 0
+  Bleed_Inst: {}
+Guaracha:
+  Bleed: 0
+  Total_MultiTrack_Num: 3
+  Song_num: 3
+  Bleed_Inst: {}
+Guache:
+  Bleed: 0
+  Total_MultiTrack_Num: 0
+  Song_num: 0
+  Bleed_Inst: {}
+Paliteo:
+  Bleed: 0
+  Total_MultiTrack_Num: 1
+  Song_num: 1
+  Bleed_Inst: {}
+Conga:
+  Bleed: 5
+  Total_MultiTrack_Num: 24
+  Song_num: 18
+  Bleed_Inst:
+    Band: 2
+    Saxophone: 1
+    Trumpet: 1
+    Trombone: 1
+    Electric_Organ: 1
+    Drum_Overheads: 3
+    Electric_Guitar: 3
+    Electric_Bass: 2
+Sticks:
+  Bleed: 0
+  Total_MultiTrack_Num: 9
+  Song_num: 6
+  Bleed_Inst: {}
+Anvil:
+  Bleed: 0
+  Total_MultiTrack_Num: 2
+  Song_num: 2
+  Bleed_Inst: {}
+Woodblock:
+  Bleed: 0
+  Total_MultiTrack_Num: 5
+  Song_num: 4
+  Bleed_Inst: {}
+Handdrum:
+  Bleed: 0
+  Total_MultiTrack_Num: 4
+  Song_num: 1
+  Bleed_Inst: {}
+Tambourine:
+  Bleed: 4
+  Total_MultiTrack_Num: 85
+  Song_num: 69
+  Bleed_Inst:
+    Electric_Guitar: 4
+    Lead_Vocal: 2
+    Backing_Vocal: 2
+    Drum_Overheads: 2
+Loop:
+  Bleed: 0
+  Total_MultiTrack_Num: 162
+  Song_num: 65
+  Bleed_Inst: {}
+Clicks:
+  Bleed: 0
+  Total_MultiTrack_Num: 13
+  Song_num: 10
+  Bleed_Inst: {}
+Claps:
+  Bleed: 0
+  Total_MultiTrack_Num: 113
+  Song_num: 61
+  Bleed_Inst: {}
+Djembe:
+  Bleed: 0
+  Total_MultiTrack_Num: 12
+  Song_num: 6
+  Bleed_Inst: {}
+Bass_Drum:
+  Bleed: 1
+  Total_MultiTrack_Num: 4
+  Song_num: 4
+  Bleed_Inst:
+    Acoustic_Guitar: 1
+    Lead_Vocal: 1
+Maracas:
+  Bleed: 0
+  Total_MultiTrack_Num: 2
+  Song_num: 2
+  Bleed_Inst: {}
+Bongo:
+  Bleed: 1
+  Total_MultiTrack_Num: 10
+  Song_num: 10
+  Bleed_Inst:
+    Drum_Overheads: 1
+    Brass_Section: 1
+Gong:
+  Bleed: 0
+  Total_MultiTrack_Num: 10
+  Song_num: 10
+  Bleed_Inst: {}
+Timbale:
+  Bleed: 0
+  Total_MultiTrack_Num: 3
+  Song_num: 3
+  Bleed_Inst: {}
+Pandeiro:
+  Bleed: 0
+  Total_MultiTrack_Num: 3
+  Song_num: 2
+  Bleed_Inst: {}
+Percussion:
+  Bleed: 14
+  Total_MultiTrack_Num: 162
+  Song_num: 76
+  Bleed_Inst:
+    Band: 6
+    Drum_Overheads: 8
+    Saxophone: 7
+    Trumpet: 7
+    Brass_Section: 1
+Synth_Bass:
+  Bleed: 0
+  Total_MultiTrack_Num: 151
+  Song_num: 78
+  Bleed_Inst: {}
+Electric_Bass:
+  Bleed: 26
+  Total_MultiTrack_Num: 612
+  Song_num: 382
+  Bleed_Inst:
+    Band: 7
+    Electric_Guitar: 12
+    Drum_Overheads: 16
+    Lead_Vocal: 8
+    Electric_Organ: 4
+    Piano: 3
+    Backing_Vocal: 2
+    Saxophone: 2
+    Trumpet: 3
+    Trombone: 1
+    Synthesizer: 1
+Acoustic_Guitar:
+  Bleed: 34
+  Total_MultiTrack_Num: 371
+  Song_num: 148
+  Bleed_Inst:
+    Band: 11
+    Drum_Overheads: 9
+    Electric_Bass: 2
+    Lead_Vocal: 16
+    Backing_Vocal: 10
+    Whistle: 1
+    Violin: 3
+    Trumpet: 1
+    Trombone: 1
+    Shaker: 1
+    Piano: 1
+    Electric_Guitar: 1
+    Conga: 1
+Electric_Guitar:
+  Bleed: 85
+  Total_MultiTrack_Num: 2477
+  Song_num: 371
+  Bleed_Inst:
+    Band: 11
+    Drum_Overheads: 73
+    Lead_Vocal: 22
+    Electric_Organ: 9
+    Electric_Piano: 2
+    Saxophone: 6
+    Trumpet: 6
+    Trombone: 2
+    Backing_Vocal: 5
+    Electric_Bass: 6
+    Fiddle: 1
+    Piano: 1
+    Conga: 1
+    Synthesizer: 2
+    Acoustic_Guitar: 1
+    Double_Bass: 1
+Piano:
+  Bleed: 11
+  Total_MultiTrack_Num: 206
+  Song_num: 143
+  Bleed_Inst:
+    Band: 1
+    Drum_Overheads: 8
+    Lead_Vocal: 4
+    Electric_Bass: 2
+    Saxophone: 3
+    Trumpet: 1
+    Trombone: 1
+    Electric_Guitar: 1
+    Backing_Vocal: 1
+    Double_Bass: 1
+Electric_Piano:
+  Bleed: 5
+  Total_MultiTrack_Num: 104
+  Song_num: 65
+  Bleed_Inst:
+    Band: 1
+    Drum_Overheads: 4
+    Saxophone: 3
+    Trumpet: 3
+    Electric_Guitar: 2
+    Lead_Vocal: 2
+    Synthesizer: 1
+    Electric_Organ: 1
+    Electric_Bass: 1
+    Backing_Vocal: 1
+Brass_Section:
+  Bleed: 1
+  Total_MultiTrack_Num: 26
+  Song_num: 17
+  Bleed_Inst:
+    Drum_Overheads: 1
+    Percussion: 1
+Saxophone:
+  Bleed: 37
+  Total_MultiTrack_Num: 77
+  Song_num: 33
+  Bleed_Inst:
+    Band: 4
+    Drum_Overheads: 33
+    Backing_Vocal: 7
+    Lead_Vocal: 10
+    Trumpet: 22
+    Percussion: 1
+    Electric_Piano: 4
+    Electric_Guitar: 11
+    Electric_Organ: 6
+    Piano: 10
+    Trombone: 13
+    Double_Bass: 10
+    Electric_Bass: 7
+    Synthesizer: 2
+Trumpet:
+  Bleed: 28
+  Total_MultiTrack_Num: 51
+  Song_num: 31
+  Bleed_Inst:
+    Band: 3
+    Drum_Overheads: 23
+    Backing_Vocal: 4
+    Lead_Vocal: 6
+    Saxophone: 16
+    Percussion: 2
+    Electric_Piano: 1
+    Electric_Guitar: 7
+    Piano: 4
+    Trombone: 14
+    Double_Bass: 8
+    Acoustic_Guitar: 1
+    Claps: 1
+    Electric_Bass: 4
+    Electric_Organ: 2
+    Synthesizer: 1
+French_Horn:
+  Bleed: 0
+  Total_MultiTrack_Num: 13
+  Song_num: 11
+  Bleed_Inst: {}
+Trombone:
+  Bleed: 20
+  Total_MultiTrack_Num: 35
+  Song_num: 26
+  Bleed_Inst:
+    Band: 3
+    Drum_Overheads: 15
+    Backing_Vocal: 2
+    Lead_Vocal: 3
+    Piano: 4
+    Trumpet: 13
+    Trombone: 4
+    Double_Bass: 8
+    Saxophone: 5
+    Electric_Guitar: 2
+    Acoustic_Guitar: 1
+    Claps: 1
+    Electric_Bass: 1
+Tuba:
+  Bleed: 1
+  Total_MultiTrack_Num: 9
+  Song_num: 8
+  Bleed_Inst:
+    Drum_Overheads: 1
+    Backing_Vocal: 1
+    Lead_Vocal: 1
+String_Section:
+  Bleed: 0
+  Total_MultiTrack_Num: 124
+  Song_num: 58
+  Bleed_Inst: {}
+Fiddle:
+  Bleed: 1
+  Total_MultiTrack_Num: 11
+  Song_num: 6
+  Bleed_Inst:
+    Drum_Overheads: 1
+    Lead_Vocal: 1
+    Backing_Vocal: 1
+    Electric_Guitar: 1
+Double_Bass:
+  Bleed: 16
+  Total_MultiTrack_Num: 64
+  Song_num: 39
+  Bleed_Inst:
+    Band: 2
+    Saxophone: 6
+    Trumpet: 2
+    Trombone: 2
+    Drum_Overheads: 11
+    Acoustic_Guitar: 2
+    Violin: 2
+    Lead_Vocal: 3
+    Piano: 6
+    Backing_Vocal: 1
+Violin:
+  Bleed: 5
+  Total_MultiTrack_Num: 44
+  Song_num: 26
+  Bleed_Inst:
+    Band: 2
+    Acoustic_Guitar: 2
+    Lead_Vocal: 3
+    Electric_Guitar: 1
+    Drum_Overheads: 2
+    Backing_Vocal: 1
+Viola:
+  Bleed: 0
+  Total_MultiTrack_Num: 19
+  Song_num: 15
+  Bleed_Inst: {}
+Cello:
+  Bleed: 1
+  Total_MultiTrack_Num: 50
+  Song_num: 23
+  Bleed_Inst:
+    Lead_Vocal: 1
+    Acoustic_Guitar: 1
+Flute:
+  Bleed: 0
+  Total_MultiTrack_Num: 22
+  Song_num: 16
+  Bleed_Inst: {}
+Clarinet:
+  Bleed: 0
+  Total_MultiTrack_Num: 9
+  Song_num: 6
+  Bleed_Inst: {}
+Bagpipe:
+  Bleed: 0
+  Total_MultiTrack_Num: 3
+  Song_num: 1
+  Bleed_Inst: {}
+Whistle:
+  Bleed: 1
+  Total_MultiTrack_Num: 11
+  Song_num: 5
+  Bleed_Inst:
+    Acoustic_Guitar: 1
+    Lead_Vocal: 1
+Bassoon:
+  Bleed: 0
+  Total_MultiTrack_Num: 3
+  Song_num: 2
+  Bleed_Inst: {}
+Oboe:
+  Bleed: 0
+  Total_MultiTrack_Num: 3
+  Song_num: 3
+  Bleed_Inst: {}
+WoodWind_Section:
+  Bleed: 0
+  Total_MultiTrack_Num: 5
+  Song_num: 4
+  Bleed_Inst: {}
+Lead_Vocal:
+  Bleed: 89
+  Total_MultiTrack_Num: 1084
+  Song_num: 422
+  Bleed_Inst:
+    Band: 20
+    Drum_Overheads: 63
+    Backing_Vocal: 15
+    Electric_Bass: 9
+    Electric_Guitar: 34
+    metronome: 1
+    Acoustic_Guitar: 9
+    Saxophone: 13
+    Trumpet: 9
+    Trombone: 4
+    Electric_Organ: 6
+    Electric_Piano: 1
+    Claps: 1
+    Shaker: 1
+    Double_Bass: 2
+    Piano: 3
+    Cello: 1
+    Synthesizer: 1
+    Violin: 1
+Choir:
+  Bleed: 0
+  Total_MultiTrack_Num: 39
+  Song_num: 25
+  Bleed_Inst: {}
+Backing_Vocal:
+  Bleed: 121
+  Total_MultiTrack_Num: 2030
+  Song_num: 330
+  Bleed_Inst:
+    Band: 30
+    Drum_Overheads: 75
+    Lead_Vocal: 48
+    Electric_Bass: 14
+    Electric_Guitar: 51
+    Acoustic_Guitar: 10
+    Saxophone: 20
+    Trumpet: 14
+    Electric_Organ: 13
+    Electric_Piano: 2
+    Fiddle: 2
+    Trombone: 4
+    Claps: 2
+    Shaker: 2
+    Cello: 1
+    Synthesizer: 2
