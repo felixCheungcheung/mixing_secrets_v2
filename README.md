@@ -19,7 +19,7 @@ The link to my presentation: https://docs.google.com/presentation/d/1BD4iTVwp2ob
 ## Download the published MS21 dataset from zenodo:
 The link to the dataset from zenodo is coming soon!! It is big and I need to contact zenodo to increase my quota.
 
-After Downloading from Zenodo, Unzip and go to my forked slakh-utils [repository](https://github.com/felixCheungcheung/slakh-utils/tree/master/conversion) to convert the audio from flac to wav format.
+After Downloading from Zenodo, Unzip and go to my forked slakh-utils [repository](https://github.com/felixCheungcheung/slakh-utils/tree/master/conversion) to convert the audio files from .flac to .wav format.
 
 ## Purpose of this repository:
 This repository contains the scripts for constructing MS21. This data is only for **research purpose**.
@@ -67,5 +67,8 @@ python ms21_normalization.py "path_to_dataset" "output_path" -25      # Default 
 python ms21_generate_yaml.py "path_to_the_splitted_and_normalized_dataset" "outpath_to_the_well_structured_dataset" num_threads      #Note that within the script target loudness is set to -25 LUFS
 ```
 ## TODO: Design automatic mixing algorithm for each instrument
-## TODO: To only use non-bleeding multi-tracks for stem generation
+## TODO: A Function to only use non-bleeding multi-tracks for stem generation
 ## TODO: A dataloader for Hierarchical Music Source Separation (HMSS) and MSS training
+## Statistics of MS21
+### Instrument Level Bleeding Annotation
+![plot1](https://github.com/felixCheungcheung/mixing_secrets_v2/blob/main/dataset_plots/14inst%20Level%20Bleeding%20Statistics.png)
