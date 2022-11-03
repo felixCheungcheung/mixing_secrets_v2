@@ -19,7 +19,7 @@ The link to my presentation: https://docs.google.com/presentation/d/1BD4iTVwp2ob
 ## Download the published MS21 dataset from zenodo:
 The link to the dataset from zenodo is coming soon!! It is big and I need to contact zenodo to increase my quota.
 
-After Downloading from Zenodo, Unzip and go to my forked slakh-utils [repository](https://github.com/felixCheungcheung/slakh-utils/tree/master/conversion) to convert the audio from flac to wav format.
+After Downloading from Zenodo, Unzip and go to my forked slakh-utils [repository](https://github.com/felixCheungcheung/slakh-utils/tree/master/conversion) to convert the audio files from .flac to .wav format.
 
 ## Purpose of this repository:
 This repository contains the scripts for constructing MS21. This data is only for **research purpose**.
