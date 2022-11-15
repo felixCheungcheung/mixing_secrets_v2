@@ -1,6 +1,6 @@
-# MS21: A NEW VERSION OF MIXING SECRETS DATASET FOR MUSIC SOURCE SEPARATION
+# MS500: A NEW VERSION OF MIXING SECRETS DATASET FOR MUSIC SOURCE SEPARATION
 
-This is an accompanying repository of my my [master thesis](https://zenodo.org/record/7116102#.YzR0L3ZBzBU) and a submission to Late Breaking Demo of International Society of Music Information Retrieval 2022: MS21: A NEW VERSION OF MIXING SECRETS DATASET FOR MUSIC SOURCE SEPARATION
+This is an accompanying repository of my my [master thesis](https://zenodo.org/record/7116102#.YzR0L3ZBzBU) and a submission to Late Breaking Demo of International Society of Music Information Retrieval 2022: MS500: A MULTI-TRACK DATASET FOR HIERARCHICAL MUSIC SOURCE SEPARATION
 
 ## Citation
 ```
@@ -16,18 +16,18 @@ This is an accompanying repository of my my [master thesis](https://zenodo.org/r
 }
 ```
 The link to my presentation: https://docs.google.com/presentation/d/1BD4iTVwp2obUxl8mThp9g8DmRBhJg3G42zwxMGK_bLg/edit?usp=sharing
-## Download the published MS21 dataset from zenodo:
+## Download the published MS500 dataset from zenodo:
 The link to the dataset from zenodo is coming soon!! It is big and I need to contact zenodo to increase my quota.
 
 After Downloading the dataset from Zenodo, unzip it and go to my forked slakh-utils [repository](https://github.com/felixCheungcheung/slakh-utils/tree/master/conversion) to convert the audio files from `.flac` to `.wav` format (Total ~532GB). Then jump to the Automatic Stem generation and Dataset Formatting section to run `ms21_generate_yaml.py`
 
 ## Purpose of this repository:
-This repository contains the scripts for constructing MS21. This data is only for **research purpose**.
+This repository contains the scripts for constructing MS500. This data is only for **research purpose**.
 The material contained in it should not be used for any commercial purpose without the express permission of the copyright holders. Please refer to www.cambridge-mt.com for further details.
 
 For evaluation experiment, our code is in a branch of Asteroid which called [ms21](https://github.com/felixCheungcheung/asteroid/tree/ms21/egs/musdb18/X-UMX).
 
-## Constructing MS21 Dataset: Step by Step
+## Constructing MS500 Dataset: Step by Step
 * **Creat a conda environment:**
 ```
 conda env create -f environment.yml
@@ -69,6 +69,6 @@ python ms21_generate_yaml.py "path_to_the_splitted_and_normalized_dataset" "outp
 ## TODO: Design automatic mixing algorithm for each instrument
 ## TODO: A Function to only use non-bleeding multi-tracks for stem generation
 ## TODO: A dataloader for Hierarchical Music Source Separation (HMSS) and MSS training
-## Statistics of MS21
+## Statistics of MS500
 ### Instrument Level Bleeding Annotation
 ![plot1](https://github.com/felixCheungcheung/mixing_secrets_v2/blob/main/dataset_plots/14inst%20Level%20Bleeding%20Statistics.png)
