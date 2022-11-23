@@ -1,0 +1,718 @@
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8"/><title>MS500</title><style>
+/* cspell:disable-file */
+/* webkit printing magic: print all background colors */
+html {
+	-webkit-print-color-adjust: exact;
+}
+* {
+	box-sizing: border-box;
+	-webkit-print-color-adjust: exact;
+}
+
+html,
+body {
+	margin: 0;
+	padding: 0;
+}
+@media only screen {
+	body {
+		margin: 2em auto;
+		max-width: 900px;
+		color: rgb(55, 53, 47);
+	}
+}
+
+body {
+	line-height: 1.5;
+	white-space: pre-wrap;
+}
+
+a,
+a.visited {
+	color: inherit;
+	text-decoration: underline;
+}
+
+.pdf-relative-link-path {
+	font-size: 80%;
+	color: #444;
+}
+
+h1,
+h2,
+h3 {
+	letter-spacing: -0.01em;
+	line-height: 1.2;
+	font-weight: 600;
+	margin-bottom: 0;
+}
+
+.page-title {
+	font-size: 2.5rem;
+	font-weight: 700;
+	margin-top: 0;
+	margin-bottom: 0.75em;
+}
+
+h1 {
+	font-size: 1.875rem;
+	margin-top: 1.875rem;
+}
+
+h2 {
+	font-size: 1.5rem;
+	margin-top: 1.5rem;
+}
+
+h3 {
+	font-size: 1.25rem;
+	margin-top: 1.25rem;
+}
+
+.source {
+	border: 1px solid #ddd;
+	border-radius: 3px;
+	padding: 1.5em;
+	word-break: break-all;
+}
+
+.callout {
+	border-radius: 3px;
+	padding: 1rem;
+}
+
+figure {
+	margin: 1.25em 0;
+	page-break-inside: avoid;
+}
+
+figcaption {
+	opacity: 0.5;
+	font-size: 85%;
+	margin-top: 0.5em;
+}
+
+mark {
+	background-color: transparent;
+}
+
+.indented {
+	padding-left: 1.5em;
+}
+
+hr {
+	background: transparent;
+	display: block;
+	width: 100%;
+	height: 1px;
+	visibility: visible;
+	border: none;
+	border-bottom: 1px solid rgba(55, 53, 47, 0.09);
+}
+
+img {
+	max-width: 100%;
+}
+
+@media only print {
+	img {
+		max-height: 100vh;
+		object-fit: contain;
+	}
+}
+
+@page {
+	margin: 1in;
+}
+
+.collection-content {
+	font-size: 0.875rem;
+}
+
+.column-list {
+	display: flex;
+	justify-content: space-between;
+}
+
+.column {
+	padding: 0 1em;
+}
+
+.column:first-child {
+	padding-left: 0;
+}
+
+.column:last-child {
+	padding-right: 0;
+}
+
+.table_of_contents-item {
+	display: block;
+	font-size: 0.875rem;
+	line-height: 1.3;
+	padding: 0.125rem;
+}
+
+.table_of_contents-indent-1 {
+	margin-left: 1.5rem;
+}
+
+.table_of_contents-indent-2 {
+	margin-left: 3rem;
+}
+
+.table_of_contents-indent-3 {
+	margin-left: 4.5rem;
+}
+
+.table_of_contents-link {
+	text-decoration: none;
+	opacity: 0.7;
+	border-bottom: 1px solid rgba(55, 53, 47, 0.18);
+}
+
+table,
+th,
+td {
+	border: 1px solid rgba(55, 53, 47, 0.09);
+	border-collapse: collapse;
+}
+
+table {
+	border-left: none;
+	border-right: none;
+}
+
+th,
+td {
+	font-weight: normal;
+	padding: 0.25em 0.5em;
+	line-height: 1.5;
+	min-height: 1.5em;
+	text-align: left;
+}
+
+th {
+	color: rgba(55, 53, 47, 0.6);
+}
+
+ol,
+ul {
+	margin: 0;
+	margin-block-start: 0.6em;
+	margin-block-end: 0.6em;
+}
+
+li > ol:first-child,
+li > ul:first-child {
+	margin-block-start: 0.6em;
+}
+
+ul > li {
+	list-style: disc;
+}
+
+ul.to-do-list {
+	text-indent: -1.7em;
+}
+
+ul.to-do-list > li {
+	list-style: none;
+}
+
+.to-do-children-checked {
+	text-decoration: line-through;
+	opacity: 0.375;
+}
+
+ul.toggle > li {
+	list-style: none;
+}
+
+ul {
+	padding-inline-start: 1.7em;
+}
+
+ul > li {
+	padding-left: 0.1em;
+}
+
+ol {
+	padding-inline-start: 1.6em;
+}
+
+ol > li {
+	padding-left: 0.2em;
+}
+
+.mono ol {
+	padding-inline-start: 2em;
+}
+
+.mono ol > li {
+	text-indent: -0.4em;
+}
+
+.toggle {
+	padding-inline-start: 0em;
+	list-style-type: none;
+}
+
+/* Indent toggle children */
+.toggle > li > details {
+	padding-left: 1.7em;
+}
+
+.toggle > li > details > summary {
+	margin-left: -1.1em;
+}
+
+.selected-value {
+	display: inline-block;
+	padding: 0 0.5em;
+	background: rgba(206, 205, 202, 0.5);
+	border-radius: 3px;
+	margin-right: 0.5em;
+	margin-top: 0.3em;
+	margin-bottom: 0.3em;
+	white-space: nowrap;
+}
+
+.collection-title {
+	display: inline-block;
+	margin-right: 1em;
+}
+
+.simple-table {
+	margin-top: 1em;
+	font-size: 0.875rem;
+	empty-cells: show;
+}
+.simple-table td {
+	height: 29px;
+	min-width: 120px;
+}
+
+.simple-table th {
+	height: 29px;
+	min-width: 120px;
+}
+
+.simple-table-header-color {
+	background: rgb(247, 246, 243);
+	color: black;
+}
+.simple-table-header {
+	font-weight: 500;
+}
+
+time {
+	opacity: 0.5;
+}
+
+.icon {
+	display: inline-block;
+	max-width: 1.2em;
+	max-height: 1.2em;
+	text-decoration: none;
+	vertical-align: text-bottom;
+	margin-right: 0.5em;
+}
+
+img.icon {
+	border-radius: 3px;
+}
+
+.user-icon {
+	width: 1.5em;
+	height: 1.5em;
+	border-radius: 100%;
+	margin-right: 0.5rem;
+}
+
+.user-icon-inner {
+	font-size: 0.8em;
+}
+
+.text-icon {
+	border: 1px solid #000;
+	text-align: center;
+}
+
+.page-cover-image {
+	display: block;
+	object-fit: cover;
+	width: 100%;
+	max-height: 30vh;
+}
+
+.page-header-icon {
+	font-size: 3rem;
+	margin-bottom: 1rem;
+}
+
+.page-header-icon-with-cover {
+	margin-top: -0.72em;
+	margin-left: 0.07em;
+}
+
+.page-header-icon img {
+	border-radius: 3px;
+}
+
+.link-to-page {
+	margin: 1em 0;
+	padding: 0;
+	border: none;
+	font-weight: 500;
+}
+
+p > .user {
+	opacity: 0.5;
+}
+
+td > .user,
+td > time {
+	white-space: nowrap;
+}
+
+input[type="checkbox"] {
+	transform: scale(1.5);
+	margin-right: 0.6em;
+	vertical-align: middle;
+}
+
+p {
+	margin-top: 0.5em;
+	margin-bottom: 0.5em;
+}
+
+.image {
+	border: none;
+	margin: 1.5em 0;
+	padding: 0;
+	border-radius: 0;
+	text-align: center;
+}
+
+.code,
+code {
+	background: rgba(135, 131, 120, 0.15);
+	border-radius: 3px;
+	padding: 0.2em 0.4em;
+	border-radius: 3px;
+	font-size: 85%;
+	tab-size: 2;
+}
+
+code {
+	color: #eb5757;
+}
+
+.code {
+	padding: 1.5em 1em;
+}
+
+.code-wrap {
+	white-space: pre-wrap;
+	word-break: break-all;
+}
+
+.code > code {
+	background: none;
+	padding: 0;
+	font-size: 100%;
+	color: inherit;
+}
+
+blockquote {
+	font-size: 1.25em;
+	margin: 1em 0;
+	padding-left: 1em;
+	border-left: 3px solid rgb(55, 53, 47);
+}
+
+.bookmark {
+	text-decoration: none;
+	max-height: 8em;
+	padding: 0;
+	display: flex;
+	width: 100%;
+	align-items: stretch;
+}
+
+.bookmark-title {
+	font-size: 0.85em;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	height: 1.75em;
+	white-space: nowrap;
+}
+
+.bookmark-text {
+	display: flex;
+	flex-direction: column;
+}
+
+.bookmark-info {
+	flex: 4 1 180px;
+	padding: 12px 14px 14px;
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+}
+
+.bookmark-image {
+	width: 33%;
+	flex: 1 1 180px;
+	display: block;
+	position: relative;
+	object-fit: cover;
+	border-radius: 1px;
+}
+
+.bookmark-description {
+	color: rgba(55, 53, 47, 0.6);
+	font-size: 0.75em;
+	overflow: hidden;
+	max-height: 4.5em;
+	word-break: break-word;
+}
+
+.bookmark-href {
+	font-size: 0.75em;
+	margin-top: 0.25em;
+}
+
+.sans { font-family: ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, "Apple Color Emoji", Arial, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol"; }
+.code { font-family: "SFMono-Regular", Menlo, Consolas, "PT Mono", "Liberation Mono", Courier, monospace; }
+.serif { font-family: Lyon-Text, Georgia, ui-serif, serif; }
+.mono { font-family: iawriter-mono, Nitti, Menlo, Courier, monospace; }
+.pdf .sans { font-family: Inter, ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, "Apple Color Emoji", Arial, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol", 'Twemoji', 'Noto Color Emoji', 'Noto Sans CJK JP'; }
+.pdf:lang(zh-CN) .sans { font-family: Inter, ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, "Apple Color Emoji", Arial, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol", 'Twemoji', 'Noto Color Emoji', 'Noto Sans CJK SC'; }
+.pdf:lang(zh-TW) .sans { font-family: Inter, ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, "Apple Color Emoji", Arial, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol", 'Twemoji', 'Noto Color Emoji', 'Noto Sans CJK TC'; }
+.pdf:lang(ko-KR) .sans { font-family: Inter, ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, "Apple Color Emoji", Arial, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol", 'Twemoji', 'Noto Color Emoji', 'Noto Sans CJK KR'; }
+.pdf .code { font-family: Source Code Pro, "SFMono-Regular", Menlo, Consolas, "PT Mono", "Liberation Mono", Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK JP'; }
+.pdf:lang(zh-CN) .code { font-family: Source Code Pro, "SFMono-Regular", Menlo, Consolas, "PT Mono", "Liberation Mono", Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK SC'; }
+.pdf:lang(zh-TW) .code { font-family: Source Code Pro, "SFMono-Regular", Menlo, Consolas, "PT Mono", "Liberation Mono", Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK TC'; }
+.pdf:lang(ko-KR) .code { font-family: Source Code Pro, "SFMono-Regular", Menlo, Consolas, "PT Mono", "Liberation Mono", Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK KR'; }
+.pdf .serif { font-family: PT Serif, Lyon-Text, Georgia, ui-serif, serif, 'Twemoji', 'Noto Color Emoji', 'Noto Serif CJK JP'; }
+.pdf:lang(zh-CN) .serif { font-family: PT Serif, Lyon-Text, Georgia, ui-serif, serif, 'Twemoji', 'Noto Color Emoji', 'Noto Serif CJK SC'; }
+.pdf:lang(zh-TW) .serif { font-family: PT Serif, Lyon-Text, Georgia, ui-serif, serif, 'Twemoji', 'Noto Color Emoji', 'Noto Serif CJK TC'; }
+.pdf:lang(ko-KR) .serif { font-family: PT Serif, Lyon-Text, Georgia, ui-serif, serif, 'Twemoji', 'Noto Color Emoji', 'Noto Serif CJK KR'; }
+.pdf .mono { font-family: PT Mono, iawriter-mono, Nitti, Menlo, Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK JP'; }
+.pdf:lang(zh-CN) .mono { font-family: PT Mono, iawriter-mono, Nitti, Menlo, Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK SC'; }
+.pdf:lang(zh-TW) .mono { font-family: PT Mono, iawriter-mono, Nitti, Menlo, Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK TC'; }
+.pdf:lang(ko-KR) .mono { font-family: PT Mono, iawriter-mono, Nitti, Menlo, Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK KR'; }
+.highlight-default {
+	color: rgba(55, 53, 47, 1);
+}
+.highlight-gray {
+	color: rgba(120, 119, 116, 1);
+	fill: rgba(120, 119, 116, 1);
+}
+.highlight-brown {
+	color: rgba(159, 107, 83, 1);
+	fill: rgba(159, 107, 83, 1);
+}
+.highlight-orange {
+	color: rgba(217, 115, 13, 1);
+	fill: rgba(217, 115, 13, 1);
+}
+.highlight-yellow {
+	color: rgba(203, 145, 47, 1);
+	fill: rgba(203, 145, 47, 1);
+}
+.highlight-teal {
+	color: rgba(68, 131, 97, 1);
+	fill: rgba(68, 131, 97, 1);
+}
+.highlight-blue {
+	color: rgba(51, 126, 169, 1);
+	fill: rgba(51, 126, 169, 1);
+}
+.highlight-purple {
+	color: rgba(144, 101, 176, 1);
+	fill: rgba(144, 101, 176, 1);
+}
+.highlight-pink {
+	color: rgba(193, 76, 138, 1);
+	fill: rgba(193, 76, 138, 1);
+}
+.highlight-red {
+	color: rgba(212, 76, 71, 1);
+	fill: rgba(212, 76, 71, 1);
+}
+.highlight-gray_background {
+	background: rgba(241, 241, 239, 1);
+}
+.highlight-brown_background {
+	background: rgba(244, 238, 238, 1);
+}
+.highlight-orange_background {
+	background: rgba(251, 236, 221, 1);
+}
+.highlight-yellow_background {
+	background: rgba(251, 243, 219, 1);
+}
+.highlight-teal_background {
+	background: rgba(237, 243, 236, 1);
+}
+.highlight-blue_background {
+	background: rgba(231, 243, 248, 1);
+}
+.highlight-purple_background {
+	background: rgba(244, 240, 247, 0.8);
+}
+.highlight-pink_background {
+	background: rgba(249, 238, 243, 0.8);
+}
+.highlight-red_background {
+	background: rgba(253, 235, 236, 1);
+}
+.block-color-default {
+	color: inherit;
+	fill: inherit;
+}
+.block-color-gray {
+	color: rgba(120, 119, 116, 1);
+	fill: rgba(120, 119, 116, 1);
+}
+.block-color-brown {
+	color: rgba(159, 107, 83, 1);
+	fill: rgba(159, 107, 83, 1);
+}
+.block-color-orange {
+	color: rgba(217, 115, 13, 1);
+	fill: rgba(217, 115, 13, 1);
+}
+.block-color-yellow {
+	color: rgba(203, 145, 47, 1);
+	fill: rgba(203, 145, 47, 1);
+}
+.block-color-teal {
+	color: rgba(68, 131, 97, 1);
+	fill: rgba(68, 131, 97, 1);
+}
+.block-color-blue {
+	color: rgba(51, 126, 169, 1);
+	fill: rgba(51, 126, 169, 1);
+}
+.block-color-purple {
+	color: rgba(144, 101, 176, 1);
+	fill: rgba(144, 101, 176, 1);
+}
+.block-color-pink {
+	color: rgba(193, 76, 138, 1);
+	fill: rgba(193, 76, 138, 1);
+}
+.block-color-red {
+	color: rgba(212, 76, 71, 1);
+	fill: rgba(212, 76, 71, 1);
+}
+.block-color-gray_background {
+	background: rgba(241, 241, 239, 1);
+}
+.block-color-brown_background {
+	background: rgba(244, 238, 238, 1);
+}
+.block-color-orange_background {
+	background: rgba(251, 236, 221, 1);
+}
+.block-color-yellow_background {
+	background: rgba(251, 243, 219, 1);
+}
+.block-color-teal_background {
+	background: rgba(237, 243, 236, 1);
+}
+.block-color-blue_background {
+	background: rgba(231, 243, 248, 1);
+}
+.block-color-purple_background {
+	background: rgba(244, 240, 247, 0.8);
+}
+.block-color-pink_background {
+	background: rgba(249, 238, 243, 0.8);
+}
+.block-color-red_background {
+	background: rgba(253, 235, 236, 1);
+}
+.select-value-color-pink { background-color: rgba(245, 224, 233, 1); }
+.select-value-color-purple { background-color: rgba(232, 222, 238, 1); }
+.select-value-color-green { background-color: rgba(219, 237, 219, 1); }
+.select-value-color-gray { background-color: rgba(227, 226, 224, 1); }
+.select-value-color-opaquegray { background-color: rgba(255, 255, 255, 0.0375); }
+.select-value-color-orange { background-color: rgba(250, 222, 201, 1); }
+.select-value-color-brown { background-color: rgba(238, 224, 218, 1); }
+.select-value-color-red { background-color: rgba(255, 226, 221, 1); }
+.select-value-color-yellow { background-color: rgba(253, 236, 200, 1); }
+.select-value-color-blue { background-color: rgba(211, 229, 239, 1); }
+
+.checkbox {
+	display: inline-flex;
+	vertical-align: text-bottom;
+	width: 16;
+	height: 16;
+	background-size: 16px;
+	margin-left: 2px;
+	margin-right: 5px;
+}
+
+.checkbox-on {
+	background-image: url("data:image/svg+xml;charset=UTF-8,%3Csvg%20width%3D%2216%22%20height%3D%2216%22%20viewBox%3D%220%200%2016%2016%22%20fill%3D%22none%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%0A%3Crect%20width%3D%2216%22%20height%3D%2216%22%20fill%3D%22%2358A9D7%22%2F%3E%0A%3Cpath%20d%3D%22M6.71429%2012.2852L14%204.9995L12.7143%203.71436L6.71429%209.71378L3.28571%206.2831L2%207.57092L6.71429%2012.2852Z%22%20fill%3D%22white%22%2F%3E%0A%3C%2Fsvg%3E");
+}
+
+.checkbox-off {
+	background-image: url("data:image/svg+xml;charset=UTF-8,%3Csvg%20width%3D%2216%22%20height%3D%2216%22%20viewBox%3D%220%200%2016%2016%22%20fill%3D%22none%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%0A%3Crect%20x%3D%220.75%22%20y%3D%220.75%22%20width%3D%2214.5%22%20height%3D%2214.5%22%20fill%3D%22white%22%20stroke%3D%22%2336352F%22%20stroke-width%3D%221.5%22%2F%3E%0A%3C%2Fsvg%3E");
+}
+	
+</style></head><body><article id="f06f225d-cc20-4128-8b2c-0bace603aabb" class="page sans"><header><h1 class="page-title">MS500</h1></header><div class="page-body"><p id="4b101556-46a4-46fb-a839-1c1fec3a01c8" class="">
+</p><p id="ccff8dc3-1084-4126-998a-54472da6e98e" class=""><em><strong>MS500 </strong></em>is a multi-track dataset originated from the website <em>The ‘Mixing Secrets’ Free Multitrack Download Library</em>, featuring 500 professional performed and recorded multi-track projects with multi-track level instrument and bleeding annotations. All multi-track audio files are kept in the format of 44.1kHz and 16 bits. Compared to previous datasets, MS500 contains a longer total mixture duration (34.2h), a bigger averaged number of multi-tracks (20±13), a higher percentage of vocal stem (84%) and a more diverse genre distribution among existing multi-track datasets.</p><p id="7bae77cf-2b83-4a0d-9268-2f7d8e397ab6" class="">
+</p><h2 id="41ad1b78-a2b7-4ea5-ab2e-df4dc1003e74" class="">To get MS500</h2><p id="973969c4-0d3e-43eb-a148-f6593f4f3cd0" class="">MS500 dataset is available at <a href="http://Zenodo.org">Zenodo.org</a> with restricted access. <mark class="highlight-red"><a href="https://zenodo.org/deposit/7105945">Click here to apply for the access.</a></mark></p><p id="3326603d-7c1a-4b4b-886f-1827561154c4" class="">Support Code for MS500: <mark class="highlight-red"><a href="https://github.com/felixCheungcheung/mixing_secrets_v2">Available here.</a></mark></p><p id="5575b9db-d7f3-4041-849f-250dedf2a0b9" class="">Multi-track level Instrument and Bleeding annotations:<mark class="highlight-red"> </mark><mark class="highlight-red"><a href="https://github.com/felixCheungcheung/mixing_secrets_v2/tree/main/Bleed_annotation">YAML file for each song. Available here</a></mark><mark class="highlight-red"> </mark></p><p id="ed0b0e59-ec50-40ca-b1b5-8a46d90f7119" class="">Instrument annotations, genre labels and comments: <mark class="highlight-red"><a href="https://github.com/felixCheungcheung/mixing_secrets_v2/blob/main/mixing_secret_dataset_annotation_with_comment.csv">One .CSV file for all songs. Available here.</a></mark></p><p id="80979a4d-900b-42e6-8701-8a4345563199" class="">
+</p><h2 id="0ee118d9-d33a-4f45-be23-281d9ca43aa7" class="">MS500 Dataset Structure:</h2><pre id="b3056c9b-e9f1-4390-9572-ca4a76f73de8" class="code"><code>MS500/
+├── val
+├── train
+└── test
+    ├── Al James - Schoolboy Fascination
+    ├── AM Contra - Heart Peripheral
+    ├── …
+    └── Zeno - Signs 
+        ├── Zeno - Signs_METADATA.yaml
+        ├── Zeno - Signs_MIX.wav
+        ├── Zeno - Signs_RAW 
+            ├── 01_KickIn.wav
+            ├── 02_KickSub.wav
+            ├── …
+            └── 44_BackingVox.wav
+        └── Zeno - Signs_STEMS
+            ├── Inst 
+                ├── Zeno - Signs_STEM_Inst_backing_vocal.wav
+                ├── Zeno - Signs_STEM_Inst_bass.wav
+                ├── …
+                └── Zeno - Signs_STEM_Inst_pianos.wav
+            └── MUSDB
+                ├── Zeno - Signs_STEM_MUSDB_bass.wav
+                ├── Zeno - Signs_STEM_MUSDB_other.wav
+                ├── Zeno - Signs_STEM_MUSDB_percussion.wav
+                └── Zeno - Signs_STEM_MUSDB_vocal.wav</code></pre><h2 id="82e08160-9ec8-4bc6-a1ca-addf95a3489a" class="">License</h2><p id="8826b01c-15f8-4a04-a7a1-f2286cf07f69" class="">This dataset is available for conducting non-commercial research. Given the different ownership of the elements of the dataset, the dataset is licensed under the <strong>following conditions</strong>:</p><ol type="1" id="376dfdd3-61d4-4625-993a-32af72f2f8fd" class="numbered-list" start="1"><li>User&#x27;s access request</li></ol><ol type="1" id="a8cf02ce-8126-4839-8821-40f4d937d528" class="numbered-list" start="2"><li>Research only, non-commercial purposes</li></ol><ol type="1" id="5e2924a9-567e-44fb-9299-b82a3cdac6e8" class="numbered-list" start="3"><li>Attribution to the website<mark class="highlight-red"> </mark><mark class="highlight-red"><a href="https://cambridge-mt.com/ms/mtk/">The &#x27;Mixing Secrets&#x27; Free Multitrack Download Library</a></mark><a href="https://cambridge-mt.com/ms/mtk/"> </a>and the authors as it is indicated in the ”citation” section.</li></ol><p id="d607f8bb-7ef9-4f85-8029-c2f15c33a7fa" class=""><strong>Please include, in the justification field, your academic affiliation (if you have one) and a brief description of your research topics and why you would like to use this dataset.</strong></p><h2 id="ffd91229-8572-44ff-8139-c967c1de447b" class=""><strong><strong>Attribution</strong></strong></h2><p id="da3e6b67-3bb3-4b2f-ac27-348ddd607524" class="">The link to my master thesis: https://zenodo.org/record/7116102#.YzR0L3ZBzBU</p><pre id="2aa81017-3190-40e2-9896-013e18c41dc8" class="code code-wrap"><code>```
+@phdthesis{huicheng_zhang_2022_7116102,
+  author       = {Huicheng Zhang},
+  title        = {{Hierarchical Music Source Separation Using Mixing
+                   Secret Multi-track Dataset}},
+  school       = {Universitat Pompeu Fabra},
+  year         = 2022,
+  month        = sep,
+  doi          = {10.5281/zenodo.7116102},
+  url          = {https://doi.org/10.5281/zenodo.7116102}
+}
+```</code></pre><figure id="a442b033-dcbc-4222-a57e-e10c4e47d2e4" class="image"><a href="data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw=="><img src="data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw=="/></a></figure><figure id="1fbbe24c-4441-467a-b72f-72e9ec9d1e26" class="image"><a href="data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw=="><img src="data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw=="/></a></figure><p id="acb2f956-d2ae-4d8a-b591-ec2c2081f171" class="">Important: Due to naming issue, MS21 was used in the master thesis because the construction of the dataset dates back to year 2021 while MS500 was used in the late breaking demo submission of ISMIR 2022 which focusing on the size of the dataset. Here we view MS21 and MS500 is the same dataset. </p><p id="96fa2325-ad71-47a0-bf76-ed0b3e9aa5b2" class="">
+</p><h2 id="692ac91d-939d-4658-90cd-30db61faa018" class="">Statistics and Comparison to Other Datasets</h2><p id="6343421a-330f-4e6b-80d3-204cf5e0788a" class=""># Tracks means averaged number of multi-tracks per song. % Vocal means the percentage of songs that contain vocal. Stereo image of Multi-track/Stem shows the sound field of the raw multi-tracks and the stems of the dataset (”-” means the dataset does not contain that component).</p><table id="b6c5de9b-1cbf-427f-b407-342b72579dbe" class="simple-table"><tbody><tr id="c9d8558c-c4bd-480f-b832-7368a931e7f1"><td id="ODz^" class="" style="width:110px">Dataset</td><td id="Op]h" class="" style="width:70px"># Songs</td><td id="ravj" class="" style="width:71px">Dur. (h)</td><td id="J&gt;h|" class="" style="width:70px"># Tracks</td><td id="s`rG" class="" style="width:70px"># Instr.</td><td id=";rOi" class="" style="width:73px">% Vocal </td><td id="L;n_" class="" style="width:137px">Stereo image of Multi-track / Stem</td></tr><tr id="78861b26-2e07-432f-afcd-63f498fdac28"><td id="ODz^" class="" style="width:110px"><strong>MS500</strong></td><td id="Op]h" class="" style="width:70px"><strong>500</strong></td><td id="ravj" class="" style="width:71px"><strong>34.2</strong></td><td id="J&gt;h|" class="" style="width:70px"><strong>20±13</strong></td><td id="s`rG" class="" style="width:70px"><strong>70</strong></td><td id=";rOi" class="" style="width:73px"><strong>84</strong></td><td id="L;n_" class="" style="width:137px"><strong>Stereo / Stereo</strong></td></tr><tr id="4ff5517e-9b42-44aa-a651-a990ae4ddd45"><td id="ODz^" class="" style="width:110px">MedleyDB</td><td id="Op]h" class="" style="width:70px">196</td><td id="ravj" class="" style="width:71px">12.7</td><td id="J&gt;h|" class="" style="width:70px">18±17</td><td id="s`rG" class="" style="width:70px">82</td><td id=";rOi" class="" style="width:73px">44</td><td id="L;n_" class="" style="width:137px">Mono / Stereo</td></tr><tr id="2d50fdc1-4757-48f9-8692-85be5b3b0cc6"><td id="ODz^" class="" style="width:110px">MUSDB18</td><td id="Op]h" class="" style="width:70px">150</td><td id="ravj" class="" style="width:71px">9.8</td><td id="J&gt;h|" class="" style="width:70px">4</td><td id="s`rG" class="" style="width:70px">4</td><td id=";rOi" class="" style="width:73px">100</td><td id="L;n_" class="" style="width:137px">- / Stereo</td></tr><tr id="c2141488-2b47-4e43-80e1-3227bacded22"><td id="ODz^" class="" style="width:110px">Slakh2100</td><td id="Op]h" class="" style="width:70px">2100</td><td id="ravj" class="" style="width:71px">145.0</td><td id="J&gt;h|" class="" style="width:70px">11±3</td><td id="s`rG" class="" style="width:70px">34</td><td id=";rOi" class="" style="width:73px">0</td><td id="L;n_" class="" style="width:137px">- / Mono</td></tr></tbody></table><p id="abf76ffe-ff63-442a-9996-1f64f5aeea3f" class="">A hierarchy figure to show the relationship between different dataset in terms of instrument.</p><p id="42e976ac-c0c2-4f86-97aa-dd3c47505d44" class="">
+</p><p id="f25f3159-d842-4cfb-aa6d-f8223216ba40" class="">
+</p><p id="79dfa224-4a63-4047-b5e4-56a8b8978dea" class=""><strong>Instrument Distribution</strong> of MS500 and MedleyDB. This figure shows the number of songs that contain that instrument. MS500 contains a higher number of instruments in every category except for <em>woodwinds</em>.</p><p id="cdcaf558-17de-46b1-b46d-2bd3e554f437" class="">
+</p><p id="50fec890-e894-4875-9e70-9d654d9619f0" class=""><strong>Genre Distribution Comparison</strong> between MS500, MUSDB18 and MedleyDB. MS500 has a more diverse genre distribution.</p><p id="3eb430fc-760e-4cf6-b474-9d0912d6e9e8" class="">
+</p><p id="96c79206-165e-4ca4-ac6f-e60bd4d09914" class=""><strong>Duration Distribution Comparison</strong>: MS500 and MUSDB18 is more clustered to the mean value (240 seconds) while MedleyDB shares a more scattered distribution</p><p id="60dbed5a-337f-4328-bf60-b870dd9aac66" class="">
+</p><p id="c70a65b9-ffbe-4452-8baa-7292bb1c57a4" class=""><strong><strong>Instrument Level Bleeding Annotation</strong></strong></p><figure id="dcab864d-c1ff-4ff7-8e4e-0b55250e8e25" class="image"><a href="MS500%20f06f225dcc2041288b2c0bace603aabb/Untitled.png"><img style="width:1064px" src="MS500%20f06f225dcc2041288b2c0bace603aabb/Untitled.png"/></a></figure><p id="9cafa3bf-f38a-4ff7-b83c-939d9a35626a" class="">
+</p><h2 id="66105419-c27e-46d0-a47a-d2f5c4a81eec" class="">Construction of MS500</h2><p id="78e32e9d-8882-4284-a546-e64ab7bed7ea" class="">Follow the steps in <a href="https://github.com/felixCheungcheung/mixing_secrets_v2">the supporting code repository.</a></p><h3 id="64547e85-799e-4ce1-8c4a-4cf4b99e87b3" class="">Multi-track Level Instrument and Bleeding annotations</h3><p id="64a3a9bf-eea3-440b-a371-4a82e168dc6f" class="">Instrument annotations were first automatically generated based on the naming convention of multi-track files, then were manually revised to make sure each track only contains one of the 70 instrument labels. During this process, bleeding annotation was also carried out by manually listening to each multi-track. Studio headphone Sony MDR 7506 and audio interface Steinberg UR22C were used. Monitoring sound pressure level was set to approximately 75 dBA. The manual annotation was only done by Huicheng Zhang.</p><figure id="60f09ad3-19a1-4ca5-9d94-670c477938e9" class="image"><a href="MS500%20f06f225dcc2041288b2c0bace603aabb/Untitled%201.png"><img style="width:1243px" src="MS500%20f06f225dcc2041288b2c0bace603aabb/Untitled%201.png"/></a></figure><h3 id="cd7d4c17-0278-4b8a-a4e0-c8649e60cfc0" class="">Hierarchy annotation for compatibility</h3><p id="e9140be6-5700-4b95-960b-54f1bb8ce258" class="">Hierarchy for MedleyDB and MS500 can be found <a href="https://github.com/felixCheungcheung/MTG_2021_MASTER_THESIS/blob/main/med_3lvl_hierarchy.json">here</a> and <a href="https://github.com/felixCheungcheung/MTG_2021_MASTER_THESIS/blob/main/hierarchy.json">here</a> </p><p id="c79e4b60-1f76-4d87-a274-731928b7b93c" class="">We first group the most fine-grained 70 instrument labels into 14 instruments, which will then be subsequently clustered into <em>vocal</em>, <em>bass,</em> <em>percussion</em> and <em>other </em>stem. Finally, we define <em>accompaniment </em>by grouping <em>bass</em>, <em>percussion </em>and <em>other </em>together, leaving <em>vocal </em>as another source at this level. <strong>Note that we choose this hierarchy to make MS500 compatible to current MSS systems. The optimal hierarchy for music is still worth exploring.</strong></p><figure id="512effd0-8116-4f44-a983-499dca995d03" class="image"><a href="MS500%20f06f225dcc2041288b2c0bace603aabb/Untitled%202.png"><img style="width:1327px" src="MS500%20f06f225dcc2041288b2c0bace603aabb/Untitled%202.png"/></a></figure><h3 id="a405a837-9708-4f69-8c49-8de45226efec" class="">Automatic mixing algorithm for stems generation</h3><p id="b0912d9c-39b0-4bee-bd41-be24ba7b9d87" class="">We developed an automatic mixing algorithm for all stems using the linear mixing strategy. For <em>Backing Vocal</em> instrument stem, we provided<a href="https://github.com/felixCheungcheung/mixing_secrets_v2/blob/main/rule_based_mixing.py"><strong> </strong></a><mark class="highlight-red"><a href="https://github.com/felixCheungcheung/mixing_secrets_v2/blob/main/rule_based_mixing.py"><strong>a dedicated algorithm</strong></a></mark><mark class="highlight-red"> </mark>to generate more realistic stereo stem. We first calculate the L&amp;R channel correlation to identify the mono and stereo multi-tracks. For mono multi-tracks, we select those with similar energy salience information and automatically pan them to left or right to create stereo submix. These stereo submixes will be mixed with stereo multi-tracks to create final <em>Backing Vocal</em> stem.</p><figure id="da9c8aa7-1175-4e37-9759-15ecf7cd909d" class="image"><a href="MS500%20f06f225dcc2041288b2c0bace603aabb/Untitled%203.png"><img style="width:1421px" src="MS500%20f06f225dcc2041288b2c0bace603aabb/Untitled%203.png"/></a></figure><p id="87dfb837-ca4f-4fac-ac19-b9f2baecbc5c" class="">
+</p><h2 id="d085b82d-541b-409e-aae8-3f443e4f07ff" class="">Quantitative Analysis</h2><p id="3a5ddc47-1d94-47a6-a39f-55586c3b573e" class="">
+</p><p id="eccb749a-ac94-437b-b367-65dc073017cd" class="">
+</p></div></article></body></html>
