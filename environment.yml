@@ -1,4 +1,4 @@
-name: ms21db
+name: ms500db
 channels:
   - defaults
 dependencies:
@@ -19,6 +19,7 @@ dependencies:
     - pyloudnorm==0.1.0
     - python-dateutil==2.8.2
     - pytz==2022.4
+    - pyyaml==6.0
     - requests==2.28.1
     - scipy==1.9.1
     - six==1.16.0
