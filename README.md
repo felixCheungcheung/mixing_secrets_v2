@@ -4,7 +4,7 @@ This is an accompanying repository of my my [master thesis](https://zenodo.org/r
 
 ## Citation
 ```
-@phdthesis{huicheng_zhang_2022_7116102,
+@masterthesis{huicheng_zhang_2022_7116102,
   author       = {Huicheng Zhang},
   title        = {{Hierarchical Music Source Separation Using Mixing 
                    Secret Multi-track Dataset}},
